@@ -1,8 +1,8 @@
 theme: jekyll-theme-slate
-title: template_data_repo
-description: Standardised template for mysociety data repositories
+title: appg-membership
+description: Scraper and raw_data for APPG memberships
 
-baseurl: "/template_data_repo"
+baseurl: "/appg-membership"
 url: "https://pages.mysociety.org"
 
 collections:

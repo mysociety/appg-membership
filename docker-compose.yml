@@ -1,9 +1,9 @@
 services:
   app:
-    image: mysociety/template_data_repo:${TAG:-latest}
+    image: mysociety/appg-membership:${TAG:-latest}
     build:
       context: .
       dockerfile: Dockerfile
-    working_dir: /workspaces/template_data_repo      
+    working_dir: /workspaces/appg_membership      
     volumes:
-      - ./:/workspaces/template_data_repo/
+      - ./:/workspaces/appg_membership/
