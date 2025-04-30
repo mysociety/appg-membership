@@ -1,0 +1,329 @@
+{
+  "slug": "parents",
+  "title": "All-Party Parliamentary Group for Parents",
+  "purpose": "To promote the role of parents.",
+  "category": "Subject Group",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Mr Connor Rand",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26473",
+      "mnis_id": "5159"
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Stedman-Scott",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25001",
+      "mnis_id": "4174"
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Knight of Weymouth",
+      "party": "Labour",
+      "twfy_id": null,
+      "mnis_id": null
+    },
+    {
+      "role": "Officer",
+      "name": "Mrs Sharon Hodgson",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/11592",
+      "mnis_id": "1521"
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": "https://www.parentkind.org.uk/research-and-policy/education-policy/policy-in-england/all-party-parliamentary-group-for-england",
+    "last_updated": "2025-04-28",
+    "members": [
+      {
+        "name": "Sharon Hodgson",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592"
+      },
+      {
+        "name": "Lord Knight of Weymouth",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Connor Rand",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5159",
+        "twfy_id": "uk.org.publicwhip/person/26473"
+      },
+      {
+        "name": "Baroness Stedman-Scott",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4174",
+        "twfy_id": "uk.org.publicwhip/person/25001"
+      },
+      {
+        "name": "Baroness Blower",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4724",
+        "twfy_id": "uk.org.publicwhip/person/25777"
+      },
+      {
+        "name": "Baroness Eaton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4184",
+        "twfy_id": "uk.org.publicwhip/person/25003"
+      },
+      {
+        "name": "Baroness Garden of Frognal",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Baroness Lister of Burtersett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Baroness Morgan of Drefelin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Baroness Verma",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3790",
+        "twfy_id": "uk.org.publicwhip/person/13730"
+      },
+      {
+        "name": "Baroness Watkins of Tavistock",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Blair McDougall",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5076",
+        "twfy_id": "uk.org.publicwhip/person/26490"
+      },
+      {
+        "name": "Bob Blackman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4005",
+        "twfy_id": "uk.org.publicwhip/person/24945"
+      },
+      {
+        "name": "Catherine Fookes",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5291",
+        "twfy_id": "uk.org.publicwhip/person/26510"
+      },
+      {
+        "name": "Darren Paffey",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5270",
+        "twfy_id": "uk.org.publicwhip/person/26431"
+      },
+      {
+        "name": "David Baines",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5092",
+        "twfy_id": "uk.org.publicwhip/person/26565"
+      },
+      {
+        "name": "Emily Darlington",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5139",
+        "twfy_id": "uk.org.publicwhip/person/26412"
+      },
+      {
+        "name": "Gregory Stafford",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5351",
+        "twfy_id": "uk.org.publicwhip/person/26626"
+      },
+      {
+        "name": "Jess Asato",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5156",
+        "twfy_id": "uk.org.publicwhip/person/26386"
+      },
+      {
+        "name": "Jess Brown-Fuller",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5335",
+        "twfy_id": "uk.org.publicwhip/person/26372"
+      },
+      {
+        "name": "John Slinger",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5127",
+        "twfy_id": "uk.org.publicwhip/person/26564"
+      },
+      {
+        "name": "Jonathan Davies",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5256",
+        "twfy_id": "uk.org.publicwhip/person/26557"
+      },
+      {
+        "name": "Kirith Entwistle",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5095",
+        "twfy_id": "uk.org.publicwhip/person/26378"
+      },
+      {
+        "name": "Laura Kyrke-Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5341",
+        "twfy_id": "uk.org.publicwhip/person/26629"
+      },
+      {
+        "name": "Lord Hampton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4951",
+        "twfy_id": "uk.org.publicwhip/person/26096"
+      },
+      {
+        "name": "Lord Lucas",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1879",
+        "twfy_id": "uk.org.publicwhip/person/13301"
+      },
+      {
+        "name": "Lord Storey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4238",
+        "twfy_id": "uk.org.publicwhip/person/25060"
+      },
+      {
+        "name": "Lord Watson of Invergowrie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Luke Charters",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5199",
+        "twfy_id": "uk.org.publicwhip/person/26480"
+      },
+      {
+        "name": "Marie Goldman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5073",
+        "twfy_id": "uk.org.publicwhip/person/26338"
+      },
+      {
+        "name": "Matt Bishop",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5323",
+        "twfy_id": "uk.org.publicwhip/person/26574"
+      },
+      {
+        "name": "Maya Ellis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5228",
+        "twfy_id": "uk.org.publicwhip/person/26479"
+      },
+      {
+        "name": "Michael Wheeler",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5242",
+        "twfy_id": "uk.org.publicwhip/person/26551"
+      },
+      {
+        "name": "Sam Rushworth",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5108",
+        "twfy_id": "uk.org.publicwhip/person/26323"
+      },
+      {
+        "name": "Sarah Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5117",
+        "twfy_id": "uk.org.publicwhip/person/26410"
+      },
+      {
+        "name": "Tim Roca",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5287",
+        "twfy_id": "uk.org.publicwhip/person/26549"
+      },
+      {
+        "name": "Tristan Osborne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5220",
+        "twfy_id": "uk.org.publicwhip/person/26589"
+      },
+      {
+        "name": "Vikki Slade",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582"
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Mr Connor Rand MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Nicola Martin, Parentkind",
+    "public_enquiry_point_email": null,
+    "secretariat": "Parentkind acts as the group's secretariat. https://www.parentkind.org.uk/",
+    "website": {
+      "status": "search",
+      "url": "https://www.parentkind.org.uk/research-and-policy/education-policy/policy-in-england/all-party-parliamentary-group-for-england"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 Nov to 11 Nov",
+    "next_reporting_deadline": "2026-03-12"
+  },
+  "registrable_benefits": null,
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/parents.htm"
+}

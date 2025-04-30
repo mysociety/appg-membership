@@ -1,0 +1,91 @@
+{
+  "slug": "parkinsons",
+  "title": "All-Party Parliamentary Group on Parkinson's",
+  "purpose": "The APPG aims to keep Parkinson's on the political agenda to ensure government initiatives and policies meet the needs of people with the condition and the wider Parkinson’s community.",
+  "category": "Subject Group",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Mary Glindon",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/24927",
+      "mnis_id": "4126"
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Browning",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/10072",
+      "mnis_id": "236"
+    },
+    {
+      "role": "Officer",
+      "name": "David Burton-Sampson",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26442",
+      "mnis_id": "5106"
+    },
+    {
+      "role": "Officer",
+      "name": "Steff Aquarone",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26491",
+      "mnis_id": "5164"
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": "https://www.parkinsons.org.uk/get-involved/parkinsons-uk-parliament",
+    "last_updated": "2025-04-28",
+    "members": [
+      {
+        "name": "Mary Glindon",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4126",
+        "twfy_id": "uk.org.publicwhip/person/24927"
+      },
+      {
+        "name": "Baroness Browning",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "236",
+        "twfy_id": "uk.org.publicwhip/person/10072"
+      },
+      {
+        "name": "David Burton-Sampson",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5106",
+        "twfy_id": "uk.org.publicwhip/person/26442"
+      },
+      {
+        "name": "Steffan Aquarone",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5164",
+        "twfy_id": "uk.org.publicwhip/person/26491"
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Mary Glindon MP",
+    "registered_contact_address": "Swans Centre for Innovation, Station Rd, Wallsend, NE28 6HJ. Tel: 0191 234 2493.",
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Laura Mullaney, Parkinson's UK. Tel: 07964 036906",
+    "public_enquiry_point_email": null,
+    "secretariat": "Parkinson's UK acts as the group's secretariat. https://www.parkinsons.org.uk/",
+    "website": {
+      "status": "register",
+      "url": "https://www.parkinsons.org.uk/get-involved/parkinsons-uk-parliament"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-29",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "29 Oct to 28 Oct",
+    "next_reporting_deadline": "2026-02-28"
+  },
+  "registrable_benefits": null,
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/parkinsons.htm"
+}

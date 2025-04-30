@@ -1,0 +1,399 @@
+{
+  "slug": "immigration-detention",
+  "title": "All-Party Parliamentary Group on Immigration Detention",
+  "purpose": "To increase knowledge in Parliament on immigration detention in the UK and its impacts; to connect parliamentarians with relevant research, organisations and experts, including people with lived experience of detention; and to advocate for evidence-based policy reforms and the welfare of detained people.",
+  "category": "Subject Group",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Bell Ribeiro-Addy",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25856",
+      "mnis_id": "4764"
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Garnier",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/10221",
+      "mnis_id": "337"
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Hamwee",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/13422",
+      "mnis_id": "2652"
+    },
+    {
+      "role": "Officer",
+      "name": "Mohammad Yasin",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25649",
+      "mnis_id": "4598"
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": "https://appgdetention.org.uk/about/current-members-2/",
+    "last_updated": "2025-04-28",
+    "members": [
+      {
+        "name": "Bell Ribeiro-Addy",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4764",
+        "twfy_id": "uk.org.publicwhip/person/25856"
+      },
+      {
+        "name": "Rt Hon. the Lord Garnier KC",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Baroness Hamwee",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "2652",
+        "twfy_id": "uk.org.publicwhip/person/13422"
+      },
+      {
+        "name": "Mohammad Yasin",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4598",
+        "twfy_id": "uk.org.publicwhip/person/25649"
+      },
+      {
+        "name": "Rt Hon. Diane Abbott",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "172",
+        "twfy_id": "uk.org.publicwhip/person/10001"
+      },
+      {
+        "name": "Baroness Bennett of Manor Castle",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Olivia Blake",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4864",
+        "twfy_id": "uk.org.publicwhip/person/25908"
+      },
+      {
+        "name": "Ruth Cadbury",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4389",
+        "twfy_id": "uk.org.publicwhip/person/25343"
+      },
+      {
+        "name": "Wendy Chamberlain",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4765",
+        "twfy_id": "uk.org.publicwhip/person/25872"
+      },
+      {
+        "name": "Lord Dubs",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "805",
+        "twfy_id": "uk.org.publicwhip/person/13000"
+      },
+      {
+        "name": "Mary Kelly Foy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4753",
+        "twfy_id": "uk.org.publicwhip/person/25833"
+      },
+      {
+        "name": "Gill Furniss",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4571",
+        "twfy_id": "uk.org.publicwhip/person/25489"
+      },
+      {
+        "name": "Lord German",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4163",
+        "twfy_id": "uk.org.publicwhip/person/24984"
+      },
+      {
+        "name": "Helen Hayes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4510",
+        "twfy_id": "uk.org.publicwhip/person/25310"
+      },
+      {
+        "name": "Christine Jardine",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4634",
+        "twfy_id": "uk.org.publicwhip/person/25675"
+      },
+      {
+        "name": "Baroness Lister of Burtersett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Baroness Ludford",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1867",
+        "twfy_id": "uk.org.publicwhip/person/13299"
+      },
+      {
+        "name": "Rt Hon. John McDonnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383"
+      },
+      {
+        "name": "Baroness Meacher",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3810",
+        "twfy_id": "uk.org.publicwhip/person/13885"
+      },
+      {
+        "name": "Rt Hon. Andrew Mitchell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1211",
+        "twfy_id": "uk.org.publicwhip/person/11115"
+      },
+      {
+        "name": "Layla Moran",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4656",
+        "twfy_id": "uk.org.publicwhip/person/25689"
+      },
+      {
+        "name": "Kate Osamor",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4515",
+        "twfy_id": "uk.org.publicwhip/person/25365"
+      },
+      {
+        "name": "Kate Osborne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4783",
+        "twfy_id": "uk.org.publicwhip/person/25794"
+      },
+      {
+        "name": "Lord Roberts of Llandudno",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Liz Saville Roberts",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4521",
+        "twfy_id": "uk.org.publicwhip/person/25302"
+      },
+      {
+        "name": "Alison Thewliss",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4430",
+        "twfy_id": "uk.org.publicwhip/person/25327"
+      },
+      {
+        "name": "Sir Peter Bottomley",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "117",
+        "twfy_id": "uk.org.publicwhip/person/10057"
+      },
+      {
+        "name": "Anne McLaughlin",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4437",
+        "twfy_id": "uk.org.publicwhip/person/14146"
+      },
+      {
+        "name": "Rushanara Ali",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4138",
+        "twfy_id": "uk.org.publicwhip/person/24958"
+      },
+      {
+        "name": "Paul Blomfield",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4058",
+        "twfy_id": "uk.org.publicwhip/person/24943"
+      },
+      {
+        "name": "Deidre Brock",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4417",
+        "twfy_id": "uk.org.publicwhip/person/25336"
+      },
+      {
+        "name": "Karen Buck",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "199",
+        "twfy_id": "uk.org.publicwhip/person/10075"
+      },
+      {
+        "name": "Joanna Cherry QC",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4419",
+        "twfy_id": "uk.org.publicwhip/person/25404"
+      },
+      {
+        "name": "Rt Hon. Harriet Harman QC",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "150",
+        "twfy_id": "uk.org.publicwhip/person/10260"
+      },
+      {
+        "name": "Caroline Lucas",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3930",
+        "twfy_id": "uk.org.publicwhip/person/24910"
+      },
+      {
+        "name": "Angus B. MacNeil",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Jason McCartney",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3953",
+        "twfy_id": "uk.org.publicwhip/person/24887"
+      },
+      {
+        "name": "Stuart C. McDonald",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Carol Monaghan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4443",
+        "twfy_id": "uk.org.publicwhip/person/25406"
+      },
+      {
+        "name": "Jess Phillips",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4370",
+        "twfy_id": "uk.org.publicwhip/person/25364"
+      },
+      {
+        "name": "Gavin Robinson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4360",
+        "twfy_id": "uk.org.publicwhip/person/25280"
+      },
+      {
+        "name": "The Earl of Sandwich",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Barry Sheerman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "411",
+        "twfy_id": "uk.org.publicwhip/person/10534"
+      },
+      {
+        "name": "Tulip Siddiq",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4518",
+        "twfy_id": "uk.org.publicwhip/person/25344"
+      },
+      {
+        "name": "Rt Hon. Stephen Timms",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "163",
+        "twfy_id": "uk.org.publicwhip/person/10596"
+      },
+      {
+        "name": "Catherine West",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4523",
+        "twfy_id": "uk.org.publicwhip/person/25328"
+      },
+      {
+        "name": "Hywel Williams",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1397",
+        "twfy_id": "uk.org.publicwhip/person/11323"
+      },
+      {
+        "name": "Beth Winter",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4809",
+        "twfy_id": "uk.org.publicwhip/person/25826"
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Bell Ribeiro-Addy MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 6695.",
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Elspeth Macdonald, Medical Justice. Tel: 020 4551 1280",
+    "public_enquiry_point_email": null,
+    "secretariat": "Medical Justice acts as the group's secretariat. http://www.medicaljustice.org.uk/",
+    "website": {
+      "status": "register",
+      "url": "https://appgdetention.org.uk/"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-02",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "02 Dec to 01 Dec",
+    "next_reporting_deadline": "2026-04-02"
+  },
+  "registrable_benefits": null,
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/immigration-detention.htm"
+}

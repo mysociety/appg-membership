@@ -1,0 +1,98 @@
+{
+  "slug": "armenia",
+  "title": "All-Party Parliamentary Group for Armenia",
+  "purpose": "To encourage links between the UK parliament and the Republic of Armenia and to increase awareness of that country in the UK parliament.",
+  "category": "Country, Area or Region Group",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Jessica Morden",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/11732",
+      "mnis_id": "1548"
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Sir John Whittingdale",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/10632",
+      "mnis_id": "39"
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Chris Law",
+      "party": "Scottish National Party",
+      "twfy_id": "uk.org.publicwhip/person/25270",
+      "mnis_id": "4403"
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord McInnes of Kilwinning",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": "https://ancuk.org.uk/about-anc-uk/appg-for-armenia/",
+    "last_updated": "2025-04-28",
+    "members": [
+      {
+        "name": "Jessica Morden",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1548",
+        "twfy_id": "uk.org.publicwhip/person/11732"
+      },
+      {
+        "name": "Sir John Whittingdale",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "39",
+        "twfy_id": "uk.org.publicwhip/person/10632"
+      },
+      {
+        "name": "Chris Law",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4403",
+        "twfy_id": "uk.org.publicwhip/person/25270"
+      },
+      {
+        "name": "Lord McInnes of Kilwinning",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Baroness Cox",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "3364",
+        "twfy_id": "uk.org.publicwhip/person/13559"
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Jessica Morden MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 6213.",
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Annette Moskofian, Armenian National Committee of the United Kingdom. Tel: 07914 646 712",
+    "public_enquiry_point_email": null,
+    "secretariat": "Armenian National Committee of the United Kingdom acts as the group's secretariat. http://ankuk.org.uk/",
+    "website": {
+      "status": "search",
+      "url": "https://ancuk.org.uk/about-anc-uk/appg-for-armenia/"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-15",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "15 Oct to 14 Oct",
+    "next_reporting_deadline": "2026-02-15"
+  },
+  "registrable_benefits": null,
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/armenia.htm"
+}

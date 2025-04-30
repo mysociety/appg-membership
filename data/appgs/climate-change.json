@@ -1,0 +1,91 @@
+{
+  "slug": "climate-change",
+  "title": "All-Party Parliamentary Group on Climate Change",
+  "purpose": "To run events and activities in parliament with the purpose of advancing understanding of policy issues surrounding climate change and enabling cross-party discussion and action on climate policy.",
+  "category": "Subject Group",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Luke Murphy",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26488",
+      "mnis_id": "5248"
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Carla Denyer",
+      "party": "Green Party",
+      "twfy_id": "uk.org.publicwhip/person/26379",
+      "mnis_id": "5102"
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Pippa Heylings",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26421",
+      "mnis_id": "5078"
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Goldsmith of Richmond Park",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": "https://www.climateappg.co.uk/who-we-are#members",
+    "last_updated": "2025-04-28",
+    "members": [
+      {
+        "name": "Luke Murphy",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5248",
+        "twfy_id": "uk.org.publicwhip/person/26488"
+      },
+      {
+        "name": "Pippa Heylings",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5078",
+        "twfy_id": "uk.org.publicwhip/person/26421"
+      },
+      {
+        "name": "Carla Denyer",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5102",
+        "twfy_id": "uk.org.publicwhip/person/26379"
+      },
+      {
+        "name": "Lord Goldsmith of Richmond Park",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Luke Murphy MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Alice Watson, Uplift",
+    "public_enquiry_point_email": null,
+    "secretariat": "Uplift  acts as the group's secretariat. https://upliftuk.org/",
+    "website": {
+      "status": "register",
+      "url": "https://www.climateappg.co.uk/"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2024-07-29",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "29 Jul to 28 Jul",
+    "next_reporting_deadline": "2025-11-29"
+  },
+  "registrable_benefits": null,
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/climate-change.htm"
+}

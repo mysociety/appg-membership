@@ -1,0 +1,455 @@
+{
+  "slug": "youth-affairs",
+  "title": "All-Party Parliamentary Group on Youth Affairs",
+  "purpose": "To raise the profile of issues that affect and concern young people, encourage dialogue between parliamentarians, young people and youth services, and encourage a co-ordinated and coherent approach to youth policy making.",
+  "category": "Subject Group",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Natasha Irons",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26404",
+      "mnis_id": "5119"
+    },
+    {
+      "role": "Officer",
+      "name": "Mims Davies",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25330",
+      "mnis_id": "4513"
+    },
+    {
+      "role": "Officer",
+      "name": "David Williams",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26397",
+      "mnis_id": "5151"
+    },
+    {
+      "role": "Officer",
+      "name": "Dr Lauren Sullivan",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26435",
+      "mnis_id": "5269"
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": "https://youthappg.org.uk/members/",
+    "last_updated": "2025-04-29",
+    "members": [
+      {
+        "name": "Shockat Adam",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5120",
+        "twfy_id": "uk.org.publicwhip/person/26364"
+      },
+      {
+        "name": "Jess Asato",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5156",
+        "twfy_id": "uk.org.publicwhip/person/26386"
+      },
+      {
+        "name": "Paula Barker",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4828",
+        "twfy_id": "uk.org.publicwhip/person/25819"
+      },
+      {
+        "name": "Siân Berry",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5314",
+        "twfy_id": "uk.org.publicwhip/person/25752"
+      },
+      {
+        "name": "Polly Billington",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5123",
+        "twfy_id": "uk.org.publicwhip/person/26360"
+      },
+      {
+        "name": "Ashley Dalton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4981",
+        "twfy_id": "uk.org.publicwhip/person/26123"
+      },
+      {
+        "name": "Mims Davies",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4513",
+        "twfy_id": "uk.org.publicwhip/person/25330"
+      },
+      {
+        "name": "Ann Davies",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5177",
+        "twfy_id": "uk.org.publicwhip/person/26359"
+      },
+      {
+        "name": "Josh Dean",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5187",
+        "twfy_id": "uk.org.publicwhip/person/26456"
+      },
+      {
+        "name": "Jim Dickson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5223",
+        "twfy_id": "uk.org.publicwhip/person/26547"
+      },
+      {
+        "name": "Maya Ellis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5228",
+        "twfy_id": "uk.org.publicwhip/person/26479"
+      },
+      {
+        "name": "Zöe Franklin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5313",
+        "twfy_id": "uk.org.publicwhip/person/26555"
+      },
+      {
+        "name": "Lord Harlech",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4928",
+        "twfy_id": "uk.org.publicwhip/person/26046"
+      },
+      {
+        "name": "Pippa Heylings",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5078",
+        "twfy_id": "uk.org.publicwhip/person/26421"
+      },
+      {
+        "name": "Sharon Hodgson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592"
+      },
+      {
+        "name": "Imran Hussain",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4394",
+        "twfy_id": "uk.org.publicwhip/person/25375"
+      },
+      {
+        "name": "Natasha Irons",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5119",
+        "twfy_id": "uk.org.publicwhip/person/26404"
+      },
+      {
+        "name": "Kim Johnson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4824",
+        "twfy_id": "uk.org.publicwhip/person/25803"
+      },
+      {
+        "name": "Afzal Khan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4671",
+        "twfy_id": "uk.org.publicwhip/person/25662"
+      },
+      {
+        "name": "Ben Lake",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4630",
+        "twfy_id": "uk.org.publicwhip/person/25669"
+      },
+      {
+        "name": "Helen Maguire",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5336",
+        "twfy_id": "uk.org.publicwhip/person/26627"
+      },
+      {
+        "name": "Rachael Maskell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4471",
+        "twfy_id": "uk.org.publicwhip/person/25433"
+      },
+      {
+        "name": "James McMurdock",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5361",
+        "twfy_id": "uk.org.publicwhip/person/26636"
+      },
+      {
+        "name": "Abtisam Mohamed",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5142",
+        "twfy_id": "uk.org.publicwhip/person/26413"
+      },
+      {
+        "name": "Baroness Lister of Burtersett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Baroness Smith of Llanfaes",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Darren Paffey",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5270",
+        "twfy_id": "uk.org.publicwhip/person/26431"
+      },
+      {
+        "name": "Rebecca Paul",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5297",
+        "twfy_id": "uk.org.publicwhip/person/26466"
+      },
+      {
+        "name": "Andrew Ranger",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5046",
+        "twfy_id": "uk.org.publicwhip/person/26336"
+      },
+      {
+        "name": "Lord Rennard",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2484",
+        "twfy_id": "uk.org.publicwhip/person/13277"
+      },
+      {
+        "name": "Bell Ribeiro-Addy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4764",
+        "twfy_id": "uk.org.publicwhip/person/25856"
+      },
+      {
+        "name": "Dave Robertson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5126",
+        "twfy_id": "uk.org.publicwhip/person/26374"
+      },
+      {
+        "name": "Sam Rushworth",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5108",
+        "twfy_id": "uk.org.publicwhip/person/26323"
+      },
+      {
+        "name": "Naz Shah",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4409",
+        "twfy_id": "uk.org.publicwhip/person/25385"
+      },
+      {
+        "name": "Vikki Slade",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582"
+      },
+      {
+        "name": "John Slinger",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5127",
+        "twfy_id": "uk.org.publicwhip/person/26564"
+      },
+      {
+        "name": "Sarah Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5117",
+        "twfy_id": "uk.org.publicwhip/person/26410"
+      },
+      {
+        "name": "Gareth Snell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4595",
+        "twfy_id": "uk.org.publicwhip/person/25601"
+      },
+      {
+        "name": "Euan Stainbank",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5110",
+        "twfy_id": "uk.org.publicwhip/person/26407"
+      },
+      {
+        "name": "Lauren Sullivan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5269",
+        "twfy_id": "uk.org.publicwhip/person/26435"
+      },
+      {
+        "name": "David Williams",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5151",
+        "twfy_id": "uk.org.publicwhip/person/26397"
+      },
+      {
+        "name": "Steve Witherden",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5221",
+        "twfy_id": "uk.org.publicwhip/person/26583"
+      },
+      {
+        "name": "YMCA",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "The National Youth Agency",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "UK Youth",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Young Roots",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Voyage",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "St John Ambulance",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Tooting and Mitcham Community Sports Club",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Coach Core",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Sea Cadets",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Scouts",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "St Giles Trust",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Youth Futures Foundation",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Whizz Kidz",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Urban Saints",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Natasha Irons MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 6733.",
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Jack Chesterman, YMCA England & Wales. Tel: 020 7186 9500",
+    "public_enquiry_point_email": null,
+    "secretariat": "YMCA England & Wales acts as the group's secretariat. https://www.ymca.org.uk/",
+    "website": {
+      "status": "search",
+      "url": "https://youthappg.org.uk/about/"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-04",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "04 Sep to 03 Sep",
+    "next_reporting_deadline": "2026-01-04"
+  },
+  "registrable_benefits": null,
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/youth-affairs.htm"
+}

@@ -1,0 +1,434 @@
+{
+  "slug": "energy-studies",
+  "title": "All-Party Parliamentary Group for Energy Studies",
+  "purpose": "To inform the parliamentarians of the day on the energy issues of the day.",
+  "category": "Subject Group",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Josh Newbury",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26317",
+      "mnis_id": "5034"
+    },
+    {
+      "role": "Officer",
+      "name": "Henry Tufnell",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26387",
+      "mnis_id": "5121"
+    },
+    {
+      "role": "Officer",
+      "name": "Sir Christopher Chope",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/10103",
+      "mnis_id": "242"
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Whitty",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/12958",
+      "mnis_id": "2444"
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": "https://pges.org.uk/about/members",
+    "last_updated": "2025-04-28",
+    "members": [
+      {
+        "name": "Josh Newbury",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5034",
+        "twfy_id": "uk.org.publicwhip/person/26317"
+      },
+      {
+        "name": "Henry Tufnell",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5121",
+        "twfy_id": "uk.org.publicwhip/person/26387"
+      },
+      {
+        "name": "Sir Christopher Chope",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "242",
+        "twfy_id": "uk.org.publicwhip/person/10103"
+      },
+      {
+        "name": "The Rt Hon The Lord Whitty",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "2444",
+        "twfy_id": "uk.org.publicwhip/person/12958"
+      },
+      {
+        "name": "Jack Abbott",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5131",
+        "twfy_id": "uk.org.publicwhip/person/26385"
+      },
+      {
+        "name": "Gideon Amos",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5250",
+        "twfy_id": "uk.org.publicwhip/person/26531"
+      },
+      {
+        "name": "Jess Asato",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5156",
+        "twfy_id": "uk.org.publicwhip/person/26386"
+      },
+      {
+        "name": "Jonathan Brash",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5045",
+        "twfy_id": "uk.org.publicwhip/person/26339"
+      },
+      {
+        "name": "Harriet Cross",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5311",
+        "twfy_id": "uk.org.publicwhip/person/26538"
+      },
+      {
+        "name": "Bill Esterson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4061",
+        "twfy_id": "uk.org.publicwhip/person/24905"
+      },
+      {
+        "name": "Mark Garnier",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4074",
+        "twfy_id": "uk.org.publicwhip/person/24824"
+      },
+      {
+        "name": "Marie Goldman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5073",
+        "twfy_id": "uk.org.publicwhip/person/26338"
+      },
+      {
+        "name": "John Grady",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5170",
+        "twfy_id": "uk.org.publicwhip/person/26426"
+      },
+      {
+        "name": "Claire Hughes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5113",
+        "twfy_id": "uk.org.publicwhip/person/26393"
+      },
+      {
+        "name": "Sojan Joseph",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5247",
+        "twfy_id": "uk.org.publicwhip/person/26578"
+      },
+      {
+        "name": "Noah Law",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5302",
+        "twfy_id": "uk.org.publicwhip/person/26513"
+      },
+      {
+        "name": "Seamus Logan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5280",
+        "twfy_id": "uk.org.publicwhip/person/26534"
+      },
+      {
+        "name": "Josh MacAlister",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5033",
+        "twfy_id": "uk.org.publicwhip/person/26321"
+      },
+      {
+        "name": "Luke Murphy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5248",
+        "twfy_id": "uk.org.publicwhip/person/26488"
+      },
+      {
+        "name": "James Naish",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5047",
+        "twfy_id": "uk.org.publicwhip/person/26329"
+      },
+      {
+        "name": "Steve Race",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5064",
+        "twfy_id": "uk.org.publicwhip/person/26345"
+      },
+      {
+        "name": "Adrian Ramsay",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5320",
+        "twfy_id": "uk.org.publicwhip/person/26514"
+      },
+      {
+        "name": "Sam Rushworth",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5108",
+        "twfy_id": "uk.org.publicwhip/person/26323"
+      },
+      {
+        "name": "Jim Shannon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4131",
+        "twfy_id": "uk.org.publicwhip/person/13864"
+      },
+      {
+        "name": "Luke Taylor",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5103",
+        "twfy_id": "uk.org.publicwhip/person/26443"
+      },
+      {
+        "name": "Bradley Thomas",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5186",
+        "twfy_id": "uk.org.publicwhip/person/26561"
+      },
+      {
+        "name": "Richard Tice",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5161",
+        "twfy_id": "uk.org.publicwhip/person/26399"
+      },
+      {
+        "name": "Martin Vickers",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3957",
+        "twfy_id": "uk.org.publicwhip/person/24814"
+      },
+      {
+        "name": "Steve Witherden",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5221",
+        "twfy_id": "uk.org.publicwhip/person/26583"
+      },
+      {
+        "name": "Lord Ashcombe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4957",
+        "twfy_id": "uk.org.publicwhip/person/26100"
+      },
+      {
+        "name": "Lord Cameron of Dillington",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Lord Redesdale",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3271",
+        "twfy_id": "uk.org.publicwhip/person/13031"
+      },
+      {
+        "name": "Lord Teverson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3789",
+        "twfy_id": "uk.org.publicwhip/person/13732"
+      },
+      {
+        "name": "Lord Truscott",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3682",
+        "twfy_id": "uk.org.publicwhip/person/12845"
+      },
+      {
+        "name": "Lord Wigley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "547",
+        "twfy_id": "uk.org.publicwhip/person/10635"
+      },
+      {
+        "name": "Steven Edwards",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Ian Graves",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Oliver Lancaster",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Dr Angela Needle",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Paul Needley",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Kathryn Porter",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Dr Barbara Vest OBE",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Simon Virley CB",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Janet Wood",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Matthew Gordon",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Steven Edwards Milford Haven Port Authority",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Ian Graves Peak Gen Top Co Ltd",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Oliver Lancaster Institution of Gas Engineers and Managers",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Dr Angela Needle Cadent Gas",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Paul Needley Enertek",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Kathryn Porter Watt-Logic",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Simon Virley CB KPMG",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Janet Wood New Power",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Josh Newbury MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Matthew Gordon, Tamesis Services Ltd. Tel: 07974451085",
+    "public_enquiry_point_email": null,
+    "secretariat": "Tamesis Services Ltd acts as the group's secretariat.",
+    "website": {
+      "status": "register",
+      "url": "http://pges.org.uk/"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2024-07-23",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "23 Jul to 22 Jul",
+    "next_reporting_deadline": "2025-11-23"
+  },
+  "registrable_benefits": null,
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/energy-studies.htm"
+}

@@ -1,0 +1,511 @@
+{
+  "slug": "water-pollution",
+  "title": "All-Party Parliamentary Group on Water Pollution",
+  "purpose": "The APPG aims to promote understanding of the causes of, impacts of and solutions to water pollution, and to facilitate cross-party parliamentary action to tackle water pollution.",
+  "category": "Subject Group",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Ellie Chowns",
+      "party": "Green Party",
+      "twfy_id": "uk.org.publicwhip/person/26577",
+      "mnis_id": "5249"
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Helena Dollimore",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/26507",
+      "mnis_id": "5192"
+    },
+    {
+      "role": "Officer",
+      "name": "Edward Morello",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26604",
+      "mnis_id": "5326"
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Randall of Uxbridge",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": "https://www.waterpollutionappg.co.uk/membership",
+    "last_updated": "2025-04-28",
+    "members": [
+      {
+        "name": "Ellie Chowns",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5249",
+        "twfy_id": "uk.org.publicwhip/person/26577"
+      },
+      {
+        "name": "Helena Dollimore",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5192",
+        "twfy_id": "uk.org.publicwhip/person/26507"
+      },
+      {
+        "name": "Edward Morello",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5326",
+        "twfy_id": "uk.org.publicwhip/person/26604"
+      },
+      {
+        "name": "Lord John Randall of Uxbridge",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Alison Hume",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5254",
+        "twfy_id": "uk.org.publicwhip/person/26523"
+      },
+      {
+        "name": "Amanda Martin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5294",
+        "twfy_id": "uk.org.publicwhip/person/26430"
+      },
+      {
+        "name": "Andrew Cooper",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5195",
+        "twfy_id": "uk.org.publicwhip/person/26447"
+      },
+      {
+        "name": "Andy MacNae",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5134",
+        "twfy_id": "uk.org.publicwhip/person/26391"
+      },
+      {
+        "name": "Ann Davies",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5177",
+        "twfy_id": "uk.org.publicwhip/person/26359"
+      },
+      {
+        "name": "Baroness Jenny Jones",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/10321"
+      },
+      {
+        "name": "Baroness Kate Parminter",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Ben Lake",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4630",
+        "twfy_id": "uk.org.publicwhip/person/25669"
+      },
+      {
+        "name": "Ben Maguire",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5350",
+        "twfy_id": "uk.org.publicwhip/person/26623"
+      },
+      {
+        "name": "Bobby Dean",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5083",
+        "twfy_id": "uk.org.publicwhip/person/26371"
+      },
+      {
+        "name": "Catherine Fookes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5291",
+        "twfy_id": "uk.org.publicwhip/person/26510"
+      },
+      {
+        "name": "Charlotte Cane",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5182",
+        "twfy_id": "uk.org.publicwhip/person/26425"
+      },
+      {
+        "name": "Chris Bloore",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5109",
+        "twfy_id": "uk.org.publicwhip/person/26357"
+      },
+      {
+        "name": "Clive Lewis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4500",
+        "twfy_id": "uk.org.publicwhip/person/25356"
+      },
+      {
+        "name": "Dan Aldridge",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5172",
+        "twfy_id": "uk.org.publicwhip/person/26453"
+      },
+      {
+        "name": "Danny Beales",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5339",
+        "twfy_id": "uk.org.publicwhip/person/26619"
+      },
+      {
+        "name": "Darren Paffey",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5270",
+        "twfy_id": "uk.org.publicwhip/person/26431"
+      },
+      {
+        "name": "David Burton Sampson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5106",
+        "twfy_id": "uk.org.publicwhip/person/26442"
+      },
+      {
+        "name": "David Chadwick",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5284",
+        "twfy_id": "uk.org.publicwhip/person/26518"
+      },
+      {
+        "name": "Dr Danny Chambers",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5304",
+        "twfy_id": "uk.org.publicwhip/person/26607"
+      },
+      {
+        "name": "Fred Thomas",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5174",
+        "twfy_id": "uk.org.publicwhip/person/26441"
+      },
+      {
+        "name": "Freddie van Mierlo",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5296",
+        "twfy_id": "uk.org.publicwhip/person/26540"
+      },
+      {
+        "name": "Jack Rankin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5340",
+        "twfy_id": "uk.org.publicwhip/person/26622"
+      },
+      {
+        "name": "Jayne Kirkham",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5279",
+        "twfy_id": "uk.org.publicwhip/person/26525"
+      },
+      {
+        "name": "Jess Asato",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5156",
+        "twfy_id": "uk.org.publicwhip/person/26386"
+      },
+      {
+        "name": "Jess Brown-Fuller",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5335",
+        "twfy_id": "uk.org.publicwhip/person/26372"
+      },
+      {
+        "name": "Jessica Toale",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5202",
+        "twfy_id": "uk.org.publicwhip/person/26567"
+      },
+      {
+        "name": "Jodie Gosling",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5036",
+        "twfy_id": "uk.org.publicwhip/person/26314"
+      },
+      {
+        "name": "John Milne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5329",
+        "twfy_id": "uk.org.publicwhip/person/26624"
+      },
+      {
+        "name": "John Whitby",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5342",
+        "twfy_id": "uk.org.publicwhip/person/26613"
+      },
+      {
+        "name": "Jon Pearce",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5115",
+        "twfy_id": "uk.org.publicwhip/person/26362"
+      },
+      {
+        "name": "Josh Dean",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5187",
+        "twfy_id": "uk.org.publicwhip/person/26456"
+      },
+      {
+        "name": "Julia Buckley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5171",
+        "twfy_id": "uk.org.publicwhip/person/26436"
+      },
+      {
+        "name": "Kirith Entwistle",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5095",
+        "twfy_id": "uk.org.publicwhip/person/26378"
+      },
+      {
+        "name": "Lizzi Collinge",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5225",
+        "twfy_id": "uk.org.publicwhip/person/26592"
+      },
+      {
+        "name": "Lloyd Hatton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5217",
+        "twfy_id": "uk.org.publicwhip/person/26471"
+      },
+      {
+        "name": "Lord Cromwell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2594",
+        "twfy_id": "uk.org.publicwhip/person/25228"
+      },
+      {
+        "name": "Lord James Bethell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Lord Lipsey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2492",
+        "twfy_id": "uk.org.publicwhip/person/13645"
+      },
+      {
+        "name": "Manuela Perteghella",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5122",
+        "twfy_id": "uk.org.publicwhip/person/26569"
+      },
+      {
+        "name": "Marie Goldman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5073",
+        "twfy_id": "uk.org.publicwhip/person/26338"
+      },
+      {
+        "name": "Martin Wrigley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5111",
+        "twfy_id": "uk.org.publicwhip/person/26484"
+      },
+      {
+        "name": "Matt Bishop",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5323",
+        "twfy_id": "uk.org.publicwhip/person/26574"
+      },
+      {
+        "name": "Mike Tapp",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5266",
+        "twfy_id": "uk.org.publicwhip/person/26605"
+      },
+      {
+        "name": "Munira Wilson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4776",
+        "twfy_id": "uk.org.publicwhip/person/25820"
+      },
+      {
+        "name": "Neil Duncan Jordan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5359",
+        "twfy_id": "uk.org.publicwhip/person/26633"
+      },
+      {
+        "name": "Olivia Blake",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4864",
+        "twfy_id": "uk.org.publicwhip/person/25908"
+      },
+      {
+        "name": "Peter Prinsley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5163",
+        "twfy_id": "uk.org.publicwhip/person/26383"
+      },
+      {
+        "name": "Pippa Heylings",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5078",
+        "twfy_id": "uk.org.publicwhip/person/26421"
+      },
+      {
+        "name": "Polly Billington",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5123",
+        "twfy_id": "uk.org.publicwhip/person/26360"
+      },
+      {
+        "name": "Richard Foord",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4942",
+        "twfy_id": "uk.org.publicwhip/person/26086"
+      },
+      {
+        "name": "Richard Quigley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5144",
+        "twfy_id": "uk.org.publicwhip/person/26373"
+      },
+      {
+        "name": "Roz Savage",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5352",
+        "twfy_id": "uk.org.publicwhip/person/26603"
+      },
+      {
+        "name": "Sam Rushworth",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5108",
+        "twfy_id": "uk.org.publicwhip/person/26323"
+      },
+      {
+        "name": "Sarah Dyke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4995",
+        "twfy_id": "uk.org.publicwhip/person/26270"
+      },
+      {
+        "name": "Sarah Russell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5324",
+        "twfy_id": "uk.org.publicwhip/person/26571"
+      },
+      {
+        "name": "Steve Darling",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5066",
+        "twfy_id": "uk.org.publicwhip/person/26349"
+      },
+      {
+        "name": "Steve Race",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5064",
+        "twfy_id": "uk.org.publicwhip/person/26345"
+      },
+      {
+        "name": "Vikki Slade",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582"
+      },
+      {
+        "name": "Zoe Franklin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5313",
+        "twfy_id": "uk.org.publicwhip/person/26555"
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Ellie Chowns MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Oliver Ratcliffe, Seahorse Environmental. Tel: 07807 378292",
+    "public_enquiry_point_email": null,
+    "secretariat": "Seahorse Environmental acts as the group's secretariat. https://www.seahorseenvironmental.co.uk/",
+    "website": {
+      "status": "search",
+      "url": "http://www.waterpollutionappg.co.uk/"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-24",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "24 Oct to 23 Oct",
+    "next_reporting_deadline": "2026-02-24"
+  },
+  "registrable_benefits": null,
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/water-pollution.htm"
+}

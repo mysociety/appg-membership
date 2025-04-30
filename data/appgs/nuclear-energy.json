@@ -1,0 +1,427 @@
+{
+  "slug": "nuclear-energy",
+  "title": "All-Party Parliamentary Group on Nuclear Energy",
+  "purpose": "To explore the opportunities and challenges currently facing the civil nuclear sector to better understand, support and call for further development of new nuclear across the UK on a cross-party basis.",
+  "category": "Subject Group",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Charlotte Nichols",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25885",
+      "mnis_id": "4799"
+    },
+    {
+      "role": "Co-Chair",
+      "name": "David Mundell",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/11970",
+      "mnis_id": "1512"
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Ravensdale",
+      "party": "Crossbench",
+      "twfy_id": "uk.org.publicwhip/person/25745",
+      "mnis_id": "4715"
+    },
+    {
+      "role": "Secretary",
+      "name": "Liz Saville Roberts",
+      "party": "Plaid Cymru",
+      "twfy_id": "uk.org.publicwhip/person/25302",
+      "mnis_id": "4521"
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": "https://sites.google.com/tusne.org/nuclearenergyappg/chair-members",
+    "last_updated": "2025-04-28",
+    "members": [
+      {
+        "name": "Charlotte Nichols",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4799",
+        "twfy_id": "uk.org.publicwhip/person/25885"
+      },
+      {
+        "name": "David Mundell",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1512",
+        "twfy_id": "uk.org.publicwhip/person/11970"
+      },
+      {
+        "name": "Lord Ravensdale",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4715",
+        "twfy_id": "uk.org.publicwhip/person/25745"
+      },
+      {
+        "name": "Liz Saville Roberts",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4521",
+        "twfy_id": "uk.org.publicwhip/person/25302"
+      },
+      {
+        "name": "Josh MacAlister",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5033",
+        "twfy_id": "uk.org.publicwhip/person/26321"
+      },
+      {
+        "name": "Jonathan Brash",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5045",
+        "twfy_id": "uk.org.publicwhip/person/26339"
+      },
+      {
+        "name": "Andrew Pakes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5243",
+        "twfy_id": "uk.org.publicwhip/person/26601"
+      },
+      {
+        "name": "Lizzi Collinge",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5225",
+        "twfy_id": "uk.org.publicwhip/person/26592"
+      },
+      {
+        "name": "Elsie Blundell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5084",
+        "twfy_id": "uk.org.publicwhip/person/26481"
+      },
+      {
+        "name": "Jack Abbott",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5131",
+        "twfy_id": "uk.org.publicwhip/person/26385"
+      },
+      {
+        "name": "Jess Asato",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5156",
+        "twfy_id": "uk.org.publicwhip/person/26386"
+      },
+      {
+        "name": "James Asser",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5211",
+        "twfy_id": "uk.org.publicwhip/person/26594"
+      },
+      {
+        "name": "Julie Minns",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5094",
+        "twfy_id": "uk.org.publicwhip/person/26403"
+      },
+      {
+        "name": "Lewis Atkinson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5028",
+        "twfy_id": "uk.org.publicwhip/person/26309"
+      },
+      {
+        "name": "Liam Byrne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1171",
+        "twfy_id": "uk.org.publicwhip/person/11360"
+      },
+      {
+        "name": "Llinos Medi",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5085",
+        "twfy_id": "uk.org.publicwhip/person/26454"
+      },
+      {
+        "name": "Luke Myer",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5147",
+        "twfy_id": "uk.org.publicwhip/person/26411"
+      },
+      {
+        "name": "Sarah Champion",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4267",
+        "twfy_id": "uk.org.publicwhip/person/25168"
+      },
+      {
+        "name": "Martin Vickers",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3957",
+        "twfy_id": "uk.org.publicwhip/person/24814"
+      },
+      {
+        "name": "Michelle Scrogham",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5049",
+        "twfy_id": "uk.org.publicwhip/person/26322"
+      },
+      {
+        "name": "Sarah Owen",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4777",
+        "twfy_id": "uk.org.publicwhip/person/25823"
+      },
+      {
+        "name": "Sarah Hall",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5154",
+        "twfy_id": "uk.org.publicwhip/person/26416"
+      },
+      {
+        "name": "Dave Robertson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5126",
+        "twfy_id": "uk.org.publicwhip/person/26374"
+      },
+      {
+        "name": "Graeme Downie",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5275",
+        "twfy_id": "uk.org.publicwhip/person/26503"
+      },
+      {
+        "name": "Chris McDonald",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5116",
+        "twfy_id": "uk.org.publicwhip/person/26367"
+      },
+      {
+        "name": "Tom Rutland",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5222",
+        "twfy_id": "uk.org.publicwhip/person/26467"
+      },
+      {
+        "name": "Andrew Snowden",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5072",
+        "twfy_id": "uk.org.publicwhip/person/26347"
+      },
+      {
+        "name": "Stella Creasy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4088",
+        "twfy_id": "uk.org.publicwhip/person/24949"
+      },
+      {
+        "name": "Lloyd Hatton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5217",
+        "twfy_id": "uk.org.publicwhip/person/26471"
+      },
+      {
+        "name": "Tom Hayes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5210",
+        "twfy_id": "uk.org.publicwhip/person/26566"
+      },
+      {
+        "name": "Steve Race",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5064",
+        "twfy_id": "uk.org.publicwhip/person/26345"
+      },
+      {
+        "name": "Rachel Gilmour",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5252",
+        "twfy_id": "uk.org.publicwhip/person/26543"
+      },
+      {
+        "name": "Claire Young",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5140",
+        "twfy_id": "uk.org.publicwhip/person/26458"
+      },
+      {
+        "name": "John Lamont",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4608",
+        "twfy_id": "uk.org.publicwhip/person/14026"
+      },
+      {
+        "name": "Jamie Stone",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4612",
+        "twfy_id": "uk.org.publicwhip/person/25668"
+      },
+      {
+        "name": "Tony Vaughan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5067",
+        "twfy_id": "uk.org.publicwhip/person/26346"
+      },
+      {
+        "name": "Baroness Coffey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4098",
+        "twfy_id": "uk.org.publicwhip/person/24771"
+      },
+      {
+        "name": "Baroness Bloomfield",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4582",
+        "twfy_id": "uk.org.publicwhip/person/25582"
+      },
+      {
+        "name": "Lord Howell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "993",
+        "twfy_id": "uk.org.publicwhip/person/13074"
+      },
+      {
+        "name": "Baroness Golding",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "281",
+        "twfy_id": "uk.org.publicwhip/person/10233"
+      },
+      {
+        "name": "Lord Spellar",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "318",
+        "twfy_id": "uk.org.publicwhip/person/10558"
+      },
+      {
+        "name": "Lord Rooker",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "302",
+        "twfy_id": "uk.org.publicwhip/person/10511"
+      },
+      {
+        "name": "Lord McNicol",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4702",
+        "twfy_id": "uk.org.publicwhip/person/25731"
+      },
+      {
+        "name": "Lord Mountevens",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Rt Hon Lord Naseby PC",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Viscount Trenchard",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1829",
+        "twfy_id": "uk.org.publicwhip/person/13177"
+      },
+      {
+        "name": "Viscount Hanworth",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2648",
+        "twfy_id": "uk.org.publicwhip/person/25071"
+      },
+      {
+        "name": "Earl Attlee",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3425",
+        "twfy_id": "uk.org.publicwhip/person/12875"
+      },
+      {
+        "name": "Lord Inglewood",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1980",
+        "twfy_id": "uk.org.publicwhip/person/13490"
+      },
+      {
+        "name": "Lord Wigley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "547",
+        "twfy_id": "uk.org.publicwhip/person/10635"
+      },
+      {
+        "name": "Lord Birt",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2533",
+        "twfy_id": "uk.org.publicwhip/person/13502"
+      },
+      {
+        "name": "Lord Liddle",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4156",
+        "twfy_id": "uk.org.publicwhip/person/24975"
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Charlotte Nichols MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 3000.",
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Millie Beaver, Nuclear Industry Association. Tel: 07803 696 786",
+    "public_enquiry_point_email": null,
+    "secretariat": "Nuclear Industry Association acts as the group's secretariat. https://www.niauk.org/",
+    "website": {
+      "status": "register",
+      "url": "https://sites.google.com/tusne.org/nuclearenergyappg/"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-03",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "03 Sep to 02 Sep",
+    "next_reporting_deadline": "2026-01-03"
+  },
+  "registrable_benefits": null,
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/nuclear-energy.htm"
+}

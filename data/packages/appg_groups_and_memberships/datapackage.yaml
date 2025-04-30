@@ -1,0 +1,46 @@
+name: appg_groups_and_memberships
+title: APPG Groups and Memberships
+description : |
+  APPG register with enxperimental ML membership scrapers.
+version: 0.1.0
+licenses:
+  
+  - name: CC-BY-4.0
+    path: https://creativecommons.org/licenses/by/4.0/
+    title: Creative Commons Attribution 4.0 International License
+  
+contributors:
+  - title: mySociety
+    path: https://mysociety.org
+    role: author
+
+
+custom:
+  build: project build
+  tests:
+    - test_appg_groups_and_memberships
+  dataset_order: 0
+  download_options:
+    gate: default
+    survey: default
+    header_text: default
+  formats:
+    csv: true
+    parquet: true
+    gpkg: false
+    geojson: false
+  is_geodata: false
+  composite:
+    xlsx:
+      include: all
+      exclude: none
+      render: true
+    sqlite:
+      include: all
+      exclude: none
+      render: true
+    json:
+      include: all
+      exclude: none
+      render: true
+

@@ -1,0 +1,259 @@
+{
+  "slug": "london",
+  "title": "All-Party Parliamentary Group for London",
+  "purpose": "The APPG is a forum for MPs and Peers to work together on a cross-party basis to strengthen the capital's voice in Parliament. The group’s purpose is to promote the capital in the interests of all Londoners.",
+  "category": "Subject Group",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Florence Eshalomi",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/25759",
+      "mnis_id": "4870"
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Munira Wilson",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/25820",
+      "mnis_id": "4776"
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Peter Fortune",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26027",
+      "mnis_id": "5209"
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Dan Tomlinson",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26502",
+      "mnis_id": "5282"
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": "https://www.londoncouncils.gov.uk/all-party-parliamentary-group-appg-london",
+    "last_updated": "2025-04-28",
+    "members": [
+      {
+        "name": "Florence Eshalomi",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4870",
+        "twfy_id": "uk.org.publicwhip/person/25759"
+      },
+      {
+        "name": "Peter Fortune",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5209",
+        "twfy_id": "uk.org.publicwhip/person/26027"
+      },
+      {
+        "name": "Munira Wilson",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4776",
+        "twfy_id": "uk.org.publicwhip/person/25820"
+      },
+      {
+        "name": "Dan Tomlinson",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5282",
+        "twfy_id": "uk.org.publicwhip/person/26502"
+      },
+      {
+        "name": "Liam Conlon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5132",
+        "twfy_id": "uk.org.publicwhip/person/26401"
+      },
+      {
+        "name": "Lord Tope CBE",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1703",
+        "twfy_id": "uk.org.publicwhip/person/13542"
+      },
+      {
+        "name": "David Simmonds",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4872",
+        "twfy_id": "uk.org.publicwhip/person/25892"
+      },
+      {
+        "name": "Marsha De Cordova",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4676",
+        "twfy_id": "uk.org.publicwhip/person/25620"
+      },
+      {
+        "name": "Dawn Butler",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1489",
+        "twfy_id": "uk.org.publicwhip/person/11447"
+      },
+      {
+        "name": "Danny Beales",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5339",
+        "twfy_id": "uk.org.publicwhip/person/26619"
+      },
+      {
+        "name": "Rachel Blake",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5257",
+        "twfy_id": "uk.org.publicwhip/person/26546"
+      },
+      {
+        "name": "Natasha Irons",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5119",
+        "twfy_id": "uk.org.publicwhip/person/26404"
+      },
+      {
+        "name": "Daniel Francis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5184",
+        "twfy_id": "uk.org.publicwhip/person/26493"
+      },
+      {
+        "name": "Deirde Costigan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5075",
+        "twfy_id": "uk.org.publicwhip/person/26384"
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383"
+      },
+      {
+        "name": "The Baroness Pidgeon MBE",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Lord Davies of Brixton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Baroness Jones of Moulsecoomb",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Lord Harris of Haringey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Baroness O'Neill of Bexley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Baroness Hamwee",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2652",
+        "twfy_id": "uk.org.publicwhip/person/13422"
+      },
+      {
+        "name": "Baroness Ludford",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1867",
+        "twfy_id": "uk.org.publicwhip/person/13299"
+      },
+      {
+        "name": "Lord Greenhalgh",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4877",
+        "twfy_id": "uk.org.publicwhip/person/25937"
+      },
+      {
+        "name": "Earl Russell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4983",
+        "twfy_id": "uk.org.publicwhip/person/26260"
+      },
+      {
+        "name": "Rupa Huq",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4511",
+        "twfy_id": "uk.org.publicwhip/person/25284"
+      },
+      {
+        "name": "Kate Osamor",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4515",
+        "twfy_id": "uk.org.publicwhip/person/25365"
+      },
+      {
+        "name": "Lord Ranger of Northwood",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Nesil Caliskan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5180",
+        "twfy_id": "uk.org.publicwhip/person/26474"
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Florence Eshalomi MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 6552.",
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Daniel Kosky, London Councils",
+    "public_enquiry_point_email": null,
+    "secretariat": "London Councils acts as the group's secretariat. https://www.londoncouncils.gov.uk",
+    "website": {
+      "status": "register",
+      "url": "https://www.londoncouncils.gov.uk/all-party-parliamentary-group-appg-london"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-09",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "09 Sep to 08 Sep",
+    "next_reporting_deadline": "2026-01-09"
+  },
+  "registrable_benefits": null,
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/london.htm"
+}

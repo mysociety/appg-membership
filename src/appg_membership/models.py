@@ -1,0 +1,242 @@
+from __future__ import annotations
+
+from datetime import date
+from pathlib import Path
+from typing import List, Literal, Optional
+
+from pydantic import BaseModel, EmailStr, Field, HttpUrl, RootModel, field_validator
+
+
+class Member(BaseModel):
+    name: str
+    is_officer: bool = False
+    member_type: Literal["mp", "lord", "other"]
+    mnis_id: Optional[str] = None
+    twfy_id: Optional[str] = None
+
+
+class MemberList(BaseModel):
+    source_method: Literal["ai_search", "manual", "empty"] = "empty"
+    source_url: Optional[HttpUrl] = None
+    last_updated: Optional[date] = None
+    members: List[Member] = Field(default_factory=list)
+
+
+class Officer(BaseModel):
+    role: str
+    name: str
+    party: str
+    twfy_id: Optional[str] = None
+    mnis_id: Optional[str] = None
+
+
+class WebsiteSource(BaseModel):
+    status: Literal[
+        "register", "no_register", "search", "no_search", "bad_search", "manual"
+    ] = "no_register"
+    url: Optional[HttpUrl] = None
+
+
+class ContactDetails(BaseModel):
+    registered_contact_name: Optional[str] = None
+    registered_contact_address: Optional[str] = None
+    registered_contact_email: Optional[EmailStr] = None
+
+    public_enquiry_point_name: Optional[str] = None
+    public_enquiry_point_email: Optional[EmailStr] = None
+
+    secretariat: Optional[str] = None
+    website: WebsiteSource
+
+    def flattened_dict(self) -> dict[str, str]:
+        """
+        Flatten the contact details into a dictionary.
+        """
+        return {
+            "registered_contact_name": self.registered_contact_name or "",
+            "registered_contact_address": self.registered_contact_address or "",
+            "registered_contact_email": self.registered_contact_email or "",
+            "public_enquiry_point_name": self.public_enquiry_point_name or "",
+            "public_enquiry_point_email": self.public_enquiry_point_email or "",
+            "secretariat": self.secretariat or "",
+            "website": str(self.website.url) or "",
+            "website_status": self.website.status or "",
+        }
+
+    @field_validator("registered_contact_email", mode="before")
+    def _fix_invalid_email(cls, v: str | EmailStr | None) -> Optional[EmailStr]:
+        if v and "no email supplied" in v.lower():
+            return None
+
+        return v
+
+
+class AGMDetails(BaseModel):
+    date_of_most_recent_agm: Optional[date] = None
+    published_income_expenditure_statement: bool = False
+    reporting_year: Optional[str] = None
+    next_reporting_deadline: Optional[date] = None
+
+    # normalise Yes / No → bool for convenience
+    @field_validator("published_income_expenditure_statement", mode="before")
+    def _yn_to_bool(cls, v: str | bool | None) -> bool:
+        if v is None:
+            return False
+        if isinstance(v, bool):
+            return v
+        return v.strip().lower().startswith("y")
+
+
+class APPG(BaseModel):
+    slug: str
+    title: str
+    purpose: Optional[str] = None
+    category: Optional[str] = None
+
+    officers: List[Officer] = []
+    members_list: MemberList = Field(default_factory=MemberList)
+    contact_details: ContactDetails = ContactDetails(website=WebsiteSource())
+    agm: Optional[AGMDetails] = None
+
+    registrable_benefits: Optional[str] = None
+    source_url: Optional[HttpUrl] = None
+
+    def flattened_dict(self) -> dict[str, str]:
+        """
+        Flatten the APPG into a dictionary.
+        """
+        data = {
+            "slug": self.slug,
+            "title": self.title,
+            "purpose": self.purpose or "",
+            "category": self.category or "",
+            "registrable_benefits": self.registrable_benefits or "",
+            "source_url": str(self.source_url) if self.source_url else "",
+        }
+
+        data.update(self.contact_details.flattened_dict())
+
+        if self.agm:
+            data.update(self.agm.model_dump())
+
+        return data
+
+    def has_website(self) -> bool:
+        """
+        Check if the APPG has a website.
+        """
+        if self.contact_details.website.url:
+            return True
+        else:
+            return False
+
+    @classmethod
+    def load(cls, slug: str) -> APPG:
+        """
+        Load an APPG from a slug.
+        """
+        base_folder = Path("data", "appgs")
+        appg_file = base_folder / f"{slug}.json"
+
+        if not appg_file.exists():
+            raise FileNotFoundError(f"APPG file not found: {appg_file}")
+
+        with appg_file.open("r", encoding="utf-8") as f:
+            return cls.model_validate_json(f.read())
+
+    def save(self) -> None:
+        """
+        Save the APPG to a file.
+        """
+        base_folder = Path("data", "appgs")
+        appg_file = base_folder / f"{self.slug}.json"
+
+        if not base_folder.exists():
+            base_folder.mkdir(parents=True)
+
+        with appg_file.open("w", encoding="utf-8") as f:
+            f.write(self.model_dump_json(indent=2))
+
+
+class APPGList(RootModel):
+    root: List[APPG]
+
+    @classmethod
+    def load(cls) -> APPGList:
+        """
+        Load all APPGs from the data folder.
+        """
+        base_folder = Path("data", "appgs")
+        appg_files = list(base_folder.glob("*.json"))
+
+        appgs = []
+        for appg_file in appg_files:
+            with appg_file.open("r", encoding="utf-8") as f:
+                appgs.append(APPG.model_validate_json(f.read()))
+
+        appgs.sort(key=lambda x: x.title.lower())
+
+        return cls(root=appgs)
+
+    def __len__(self) -> int:
+        return len(self.root)
+
+    def __iter__(self):
+        return iter(self.root)
+
+
+class NameCorrection(BaseModel):
+    """
+    A class to hold name corrections for APPGs.
+    """
+
+    original: str
+    canon: str
+
+
+class NameCorrectionList(RootModel):
+    root: List[NameCorrection]
+
+    def __iter__(self):
+        return iter(self.root)
+
+    def __len__(self) -> int:
+        return len(self.root)
+
+    def add_bad_names(self, bad_names: List[str]) -> None:
+        """
+        Add bad names to the list of name corrections.
+        """
+        keys = {item.original for item in self.root}
+        for name in bad_names:
+            if name not in keys:
+                self.root.append(NameCorrection(original=name, canon=""))
+        self.save()
+
+    def as_dict(self) -> dict[str, str]:
+        """
+        Convert the name corrections to a dictionary.
+        """
+        return {item.original: item.canon.lower() for item in self.root if item.canon}
+
+    def save(self) -> None:
+        """
+        Save the name corrections to a file.
+        """
+        path = Path("data", "raw", "mp_name_corrections.json")
+        if not path.parent.exists():
+            path.parent.mkdir(parents=True)
+
+        with path.open("w", encoding="utf-8") as f:
+            f.write(self.model_dump_json(indent=2))
+
+    @classmethod
+    def load(cls) -> NameCorrectionList:
+        """
+        Load all name corrections from the data folder.
+        """
+        path = Path("data", "raw", "mp_name_corrections.json")
+        if not path.exists():
+            raise FileNotFoundError(f"Name corrections file not found: {path}")
+        with path.open("r", encoding="utf-8") as f:
+            return cls.model_validate_json(f.read())

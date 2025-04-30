@@ -1,0 +1,91 @@
+{
+  "slug": "diabetes",
+  "title": "All-Party Parliamentary Group for Diabetes",
+  "purpose": "The APPG provides a conduit for diabetes charities, researchers and experts to parliamentarians. It will facilitate discussions about policy, research and treatment of diabetes.",
+  "category": "Subject Group",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Tom Gordon",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26312",
+      "mnis_id": "5032"
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Sarah Bool",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26635",
+      "mnis_id": "5355"
+    },
+    {
+      "role": "Officer",
+      "name": "Alex McIntyre",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26434",
+      "mnis_id": "5349"
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Rennard",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/13277",
+      "mnis_id": "2484"
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": "https://diabetesappg.wordpress.com/about/",
+    "last_updated": "2025-04-28",
+    "members": [
+      {
+        "name": "Tom Gordon",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5032",
+        "twfy_id": "uk.org.publicwhip/person/26312"
+      },
+      {
+        "name": "Sarah Bool",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5355",
+        "twfy_id": "uk.org.publicwhip/person/26635"
+      },
+      {
+        "name": "The Lord Rennard MBE",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Alex McIntyre",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5349",
+        "twfy_id": "uk.org.publicwhip/person/26434"
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Tom Gordon MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Alicia Kernaghan, Office of Tom Gordon MP. Tel: 020 7219 2049",
+    "public_enquiry_point_email": null,
+    "secretariat": "Diabetes UK and Breakthrough T1D jointly act as the group's secretariat. https://www.diabetes.org.uk and https://www.breakthrought1d.org",
+    "website": {
+      "status": "register",
+      "url": "https://diabetesappg.wordpress.com/"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2025-02-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 Feb to 11 Feb",
+    "next_reporting_deadline": "2026-06-12"
+  },
+  "registrable_benefits": null,
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/diabetes.htm"
+}

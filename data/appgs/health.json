@@ -1,0 +1,91 @@
+{
+  "slug": "health",
+  "title": "All-Party Parliamentary Health Group",
+  "purpose": "To provide a cross-party forum that brings together parliamentarians and senior health leaders to discuss key issues on the NHS, health reform and future trends.",
+  "category": "Subject Group",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Dr Simon Opher",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26313",
+      "mnis_id": "5030"
+    },
+    {
+      "role": "Officer",
+      "name": "Kevin McKenna",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26529",
+      "mnis_id": "5300"
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Bethell",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25740",
+      "mnis_id": "4708"
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Watkins of Tavistock",
+      "party": "Crossbench",
+      "twfy_id": null,
+      "mnis_id": null
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": "https://www.policyconnect.org.uk/aphg/people",
+    "last_updated": "2025-04-29",
+    "members": [
+      {
+        "name": "Dr. Simon Opher",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5030",
+        "twfy_id": "uk.org.publicwhip/person/26313"
+      },
+      {
+        "name": "Baroness Mary Watkins",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Lord James Bethell",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null
+      },
+      {
+        "name": "Kevin McKenna",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5300",
+        "twfy_id": "uk.org.publicwhip/person/26529"
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Dr Simon Opher MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 02072 197116.",
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Jasmin Adebisi , Policy Connect. Tel: 020 7202 8585",
+    "public_enquiry_point_email": null,
+    "secretariat": "Policy Connect acts as the group's secretariat. http://www.policyconnect.org.uk/",
+    "website": {
+      "status": "register",
+      "url": "https://www.policyconnect.org.uk/aphg"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-15",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "15 Oct to 14 Oct",
+    "next_reporting_deadline": "2026-02-15"
+  },
+  "registrable_benefits": null,
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/health.htm"
+}
