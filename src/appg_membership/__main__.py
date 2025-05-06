@@ -8,9 +8,9 @@ def fetch_appg_index():
     """
     Fetch the APPG index from the UK Parliament website.
     """
-    from .fetch_index import fetch_from_index
+    from .fetch_index import fetch_all
 
-    fetch_from_index()
+    fetch_all()
 
 
 @app.command()
@@ -75,6 +75,16 @@ def correct_unmatched_names(threshold: float = 0.5, max_suggestions: int = 5):
     from .bad_name import correct_names
 
     correct_names(threshold=threshold, max_suggestions=max_suggestions)
+
+
+@app.command()
+def generate_diffs():
+    """
+    Generate diffs between the current and previous releases.
+    """
+    from .diff import generate_diffs
+
+    generate_diffs()
 
 
 def main():

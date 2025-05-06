@@ -6,6 +6,12 @@ from typing import List, Literal, Optional
 
 from pydantic import BaseModel, EmailStr, Field, HttpUrl, RootModel, field_validator
 
+register_dates = [
+    "250102",  # 2 January 2025
+    "250212",  # 12 February 2025
+    "250328",  # 28 March 2025
+]
+
 
 class Member(BaseModel):
     name: str
@@ -99,6 +105,8 @@ class APPG(BaseModel):
     agm: Optional[AGMDetails] = None
 
     registrable_benefits: Optional[str] = None
+
+    index_date: str = ""
     source_url: Optional[HttpUrl] = None
 
     def flattened_dict(self) -> dict[str, str]:
@@ -144,11 +152,14 @@ class APPG(BaseModel):
         with appg_file.open("r", encoding="utf-8") as f:
             return cls.model_validate_json(f.read())
 
-    def save(self) -> None:
+    def save(self, release: str | None = None) -> None:
         """
         Save the APPG to a file.
         """
-        base_folder = Path("data", "appgs")
+        if release:
+            base_folder = Path("data", "raw", "releases", release)
+        else:
+            base_folder = Path("data", "appgs")
         appg_file = base_folder / f"{self.slug}.json"
 
         if not base_folder.exists():
@@ -162,11 +173,14 @@ class APPGList(RootModel):
     root: List[APPG]
 
     @classmethod
-    def load(cls) -> APPGList:
+    def load(cls, release: str | None = None) -> APPGList:
         """
         Load all APPGs from the data folder.
         """
-        base_folder = Path("data", "appgs")
+        if release:
+            base_folder = Path("data", "raw", "releases", release)
+        else:
+            base_folder = Path("data", "appgs")
         appg_files = list(base_folder.glob("*.json"))
 
         appgs = []

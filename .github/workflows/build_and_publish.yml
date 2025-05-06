@@ -31,6 +31,7 @@ jobs:
           run: |
             export PATH="/root/.local/bin:$PATH"
             script/test
+            project generate-diffs
             dataset build --all
             dataset version auto --auto-ban major --all --publish
             
