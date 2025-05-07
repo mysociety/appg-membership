@@ -4,13 +4,13 @@ app = Typer(pretty_exceptions_enable=False)
 
 
 @app.command()
-def fetch_appg_index():
+def fetch_appg_index(latest_only: bool = False):
     """
     Fetch the APPG index from the UK Parliament website.
     """
     from .fetch_index import fetch_all
 
-    fetch_all()
+    fetch_all(latest_only=latest_only)
 
 
 @app.command()

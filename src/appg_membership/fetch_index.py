@@ -9,10 +9,12 @@ from bs4 import BeautifulSoup, Tag
 from pydantic.networks import HttpUrl
 from tqdm import tqdm
 
+from appg_membership.classify_appg_agent import classify_appg
 from appg_membership.config import settings
 from appg_membership.models import (
     APPG,
     AGMDetails,
+    AppgCategory,
     ContactDetails,
     Officer,
     WebsiteSource,
@@ -352,11 +354,20 @@ def fetch_from_index(index_date: str, is_latest: bool = False):
                 appg.update_from(current)
             except FileNotFoundError:
                 rich.print(f"APPG {slug} not found in the current index.")
+            if appg.category != "Subject Group":
+                appg.categories = [AppgCategory.COUNTRY_GROUP]
+            if len(appg.categories) == 0:
+                appg = classify_appg(appg)
             appg.save()
 
 
-def fetch_all():
-    for register_date in register_dates:
+def fetch_all(latest_only: bool = False):
+    if latest_only:
+        registers = register_dates[:-1]
+    else:
+        registers = register_dates
+
+    for register_date in registers:
         rich.print(f"Fetching APPGs from register date: {register_date}")
         fetch_from_index(register_date, is_latest=register_date == register_dates[-1])
 

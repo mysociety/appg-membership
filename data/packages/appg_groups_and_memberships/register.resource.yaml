@@ -54,6 +54,12 @@ schema:
     constraints:
       unique: true
     example: https://publications.parliament.uk/pa/cm/cmallparty/250328/access-to-justice.htm
+  - name: categories
+    type: string
+    description: Pipe seperated list of (mysociety added) categories for the APPG
+    constraints:
+      unique: false
+    example: Animals & Animal Welfare
   - name: registered_contact_name
     type: string
     description: Name of the registered contact
@@ -240,4 +246,4 @@ schema:
       "1,928", "Received": "25/10/2024", "Registered": "10/03/2025", "benefit_type":
       "Financial Benefits"}, {"Source": "SIBA", "Value \u00a3s": "2,564", "Received":
       "21/03/2025", "Registered": "26/03/2025", "benefit_type": "Financial Benefits"}]'
-hash: 1d00503c3ca38cc9b613bd6f05d470f7
+hash: 100c30b87222908093e3330d06b4a17f

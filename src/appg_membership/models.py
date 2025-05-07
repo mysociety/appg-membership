@@ -5,6 +5,7 @@ from json import dumps
 from pathlib import Path
 from typing import List, Literal, Optional
 
+from backports.strenum import StrEnum
 from pydantic import BaseModel, EmailStr, Field, HttpUrl, RootModel, field_validator
 
 register_dates = [
@@ -15,6 +16,33 @@ register_dates = [
     "250212",  # 12 February 2025
     "250328",  # 28 March 2025
 ]
+
+
+class AppgCategory(StrEnum):
+    HEALTH_MEDICINE_PUBLIC_HEALTH = "Health, Medicine & Public Health"
+    SOCIAL_CARE_WELFARE_FAMILY_SUPPORT = "Social Care, Welfare & Family Support"
+    EDUCATION_SKILLS_YOUTH = "Education, Skills & Youth"
+    SCIENCE_TECHNOLOGY_INNOVATION = "Science, Technology & Innovation"
+    ENVIRONMENT_CLIMATE_SUSTAINABILITY = "Environment, Climate & Sustainability"
+    ENERGY_UTILITIES = "Energy & Utilities"
+    INFRASTRUCTURE_TRANSPORT_MOBILITY = "Infrastructure, Transport & Mobility"
+    ECONOMY_BUSINESS_INDUSTRY = "Economy, Business & Industry"
+    FINANCE_MARKETS_CONSUMER_AFFAIRS = "Finance, Markets & Consumer Affairs"
+    FOOD_AGRICULTURE_RURAL_AFFAIRS = "Food, Agriculture & Rural Affairs"
+    ANIMALS_ANIMAL_WELFARE = "Animals & Animal Welfare"
+    ARTS_CULTURE_HERITAGE_MEDIA = "Arts, Culture, Heritage & Media"
+    SPORT_RECREATION_PHYSICAL_ACTIVITY = "Sport, Recreation & Physical Activity"
+    JUSTICE_LAW_SECURITY = "Justice, Law & Security"
+    HUMAN_RIGHTS_EQUALITY_SOCIAL_JUSTICE = "Human Rights, Equality & Social Justice"
+    INTERNATIONAL_AFFAIRS_DEVELOPMENT_TRADE = (
+        "International Affairs, Development & Trade"
+    )
+    REGIONS_NATIONS_DEVOLUTION = "Regions, Nations & Devolution"
+    HOUSING_PLANNING_BUILT_ENVIRONMENT = "Housing, Planning & Built Environment"
+    GOVERNANCE_DEMOCRACY_POLITICAL_REFORM = "Governance, Democracy & Political Reform"
+    RELIGION_FAITH_BELIEF_COMMUNITIES = "Religion, Faith & Belief Communities"
+    OTHER = "Other"
+    COUNTRY_GROUP = "Country Group"
 
 
 class Member(BaseModel):
@@ -118,6 +146,7 @@ class APPG(BaseModel):
 
     index_date: str = ""
     source_url: Optional[HttpUrl] = None
+    categories: list[AppgCategory] = Field(default_factory=list)
 
     def update_from(self, other: APPG):
         """
@@ -125,6 +154,7 @@ class APPG(BaseModel):
         Like members_list and the website (if it's not an official one in the new register).
         """
         self.members_list = other.members_list
+        self.categories = other.categories
         if self.contact_details.website.status != "register":
             self.contact_details.website = other.contact_details.website
         return self
@@ -145,6 +175,8 @@ class APPG(BaseModel):
         # Add detailed benefits data as a JSON string
         if self.detailed_benefits:
             data["detailed_benefits"] = dumps(self.detailed_benefits)
+
+        data["categories"] = "|".join(self.categories)
 
         data.update(self.contact_details.flattened_dict())
 

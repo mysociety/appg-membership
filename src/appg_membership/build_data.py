@@ -107,12 +107,34 @@ def build_members():
     df.to_parquet(package_path / "members.parquet", index=False)
 
 
+def build_categories():
+    """
+    Build the categories for the APPG membership package.
+    """
+    items = APPGList.load()
+
+    data = []
+
+    for item in items:
+        for category in item.categories:
+            data.append(
+                {
+                    "appg_slug": item.slug,
+                    "category_slug": category.name,
+                    "category_name": category.value,
+                }
+            )
+    df = pd.DataFrame(data)
+    df.to_parquet(package_path / "categories.parquet", index=False)
+
+
 def build():
     """
     Build the data files for the APPG membership package.
     """
     build_register()
     build_members()
+    build_categories()
 
 
 if __name__ == "__main__":
