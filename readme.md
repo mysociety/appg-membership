@@ -21,8 +21,8 @@ Branching out from where we know the website, an agent looks for a membership pa
 
 ### Manual info
 
-W
+We are storing some membership lists from information requests in data/raw/september. We'll want a different process to handle results from emails. 
 
 ## Parliament ID assignment
 
-
+This is handled through automatic matching to people.json - and a spelling reconciliation tool. 
