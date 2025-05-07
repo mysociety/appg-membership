@@ -341,9 +341,17 @@ def fetch_from_index(index_date: str, is_latest: bool = False):
     urls = list(set(urls))
     urls.sort()
 
-    rich.print(f"Found {len(urls)} APPG URLs in the index.")
+    # Filter out non-APPG URLs (introduction and topical-issues)
+    excluded_slugs = ["introduction", "topical-issues"]
+    filtered_urls = [
+        url for url in urls if url.split("/")[-1].split(".")[0] not in excluded_slugs
+    ]
 
-    for u in tqdm(urls):
+    rich.print(
+        f"Found {len(filtered_urls)} APPG URLs in the index (excluded {len(urls) - len(filtered_urls)} non-APPG URLs)."
+    )
+
+    for u in tqdm(filtered_urls):
         slug = u.split("/")[-1].split(".")[0]
         tqdm.write(f"Fetching APPG: {slug}")
         appg = get_appg_data(u, index_date=index_date)
