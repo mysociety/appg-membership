@@ -9,28 +9,32 @@
       "name": "Apsana Begum",
       "party": "Independent",
       "twfy_id": "uk.org.publicwhip/person/25914",
-      "mnis_id": "4790"
+      "mnis_id": "4790",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Rachel Blake",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26546",
-      "mnis_id": "5257"
+      "mnis_id": "5257",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Hussain",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25046",
-      "mnis_id": "4221"
+      "mnis_id": "4221",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Balfe",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25209",
-      "mnis_id": "4302"
+      "mnis_id": "4302",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/bangladesh.htm"
 }

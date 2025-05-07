@@ -9,28 +9,32 @@
       "name": "Luke Murphy",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Carla Denyer",
       "party": "Green Party",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Pippa Heylings",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Goldsmith of Richmond Park",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,7 @@
     "next_reporting_deadline": "2025-11-29"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
   "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/climate-change.htm"
 }

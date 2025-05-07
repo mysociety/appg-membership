@@ -9,28 +9,32 @@
       "name": "Fabian Hamilton",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10256",
-      "mnis_id": "415"
+      "mnis_id": "415",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Griffiths of Burry Port",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Baroness Hooper",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13081",
-      "mnis_id": "2005"
+      "mnis_id": "2005",
+      "removed": false
     },
     {
       "role": "Secretary",
       "name": "Kate Osamor",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/25365",
-      "mnis_id": "4515"
+      "mnis_id": "4515",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/haiti.htm"
 }

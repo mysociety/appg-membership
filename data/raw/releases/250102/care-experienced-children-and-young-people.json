@@ -9,28 +9,32 @@
       "name": "Josh MacAlister",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Patrick Spencer",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Tyler of Enfield",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Wood of Anfield",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,7 @@
     "next_reporting_deadline": "2026-03-26"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
   "index_date": "250102",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/care-experienced-children-and-young-people.htm"
 }

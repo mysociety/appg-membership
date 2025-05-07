@@ -9,28 +9,32 @@
       "name": "Sam Rushworth",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26323",
-      "mnis_id": "5108"
+      "mnis_id": "5108",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Garden of Frognal",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Young of Norwood Green",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Damian Hinds",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24782",
-      "mnis_id": "3969"
+      "mnis_id": "3969",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/t-levels.htm"
 }

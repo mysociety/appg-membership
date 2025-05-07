@@ -9,28 +9,32 @@
       "name": "Mr Luke Charters",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26480",
-      "mnis_id": "5199"
+      "mnis_id": "5199",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jim Shannon",
       "party": "Democratic Unionist Party",
       "twfy_id": "uk.org.publicwhip/person/13864",
-      "mnis_id": "4131"
+      "mnis_id": "4131",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Helen Morgan",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26056",
-      "mnis_id": "4934"
+      "mnis_id": "4934",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Charlie Dewhirst",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26461",
-      "mnis_id": "5169"
+      "mnis_id": "5169",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-11"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/uk-food-security.htm"
 }

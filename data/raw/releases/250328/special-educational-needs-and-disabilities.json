@@ -9,28 +9,32 @@
       "name": "Olivia Blake",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Gregory Stafford",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Shockat Adam",
       "party": "Independent",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jen Craft",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,7 @@
     "next_reporting_deadline": "2026-02-16"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
   "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/special-educational-needs-and-disabilities.htm"
 }

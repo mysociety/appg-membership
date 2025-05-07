@@ -9,28 +9,32 @@
       "name": "David Pinto-Duschinsky",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26632",
-      "mnis_id": "5360"
+      "mnis_id": "5360",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lauren Edwards",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26597",
-      "mnis_id": "5298"
+      "mnis_id": "5298",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Viscount Trenchard",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13177",
-      "mnis_id": "1829"
+      "mnis_id": "1829",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Sharpe of Epsom",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-21"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/financial-markets-and-services.htm"
 }

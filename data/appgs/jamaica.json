@@ -9,28 +9,32 @@
       "name": "Dawn Butler",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/11447",
-      "mnis_id": "1489"
+      "mnis_id": "1489",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Marsha De Cordova",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25620",
-      "mnis_id": "4676"
+      "mnis_id": "4676",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Lawrence of Clarendon",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Helen Grant",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24796",
-      "mnis_id": "4018"
+      "mnis_id": "4018",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-17"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/jamaica.htm"
 }

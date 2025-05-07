@@ -9,28 +9,32 @@
       "name": "Llinos Medi",
       "party": "Plaid Cymru",
       "twfy_id": "uk.org.publicwhip/person/26454",
-      "mnis_id": "5085"
+      "mnis_id": "5085",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jessica Morden",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/11732",
-      "mnis_id": "1548"
+      "mnis_id": "1548",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Bloomfield of Hinton Waldrist",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ann Davies",
       "party": "Plaid Cymru",
       "twfy_id": "uk.org.publicwhip/person/26359",
-      "mnis_id": "5177"
+      "mnis_id": "5177",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-05-21"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/hospitality-events-major-food-and-drink-businesses-in-wales.htm"
 }

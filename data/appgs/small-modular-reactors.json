@@ -9,28 +9,32 @@
       "name": "Baggy Shanker",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26489",
-      "mnis_id": "5176"
+      "mnis_id": "5176",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Andrew Bowie",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25703",
-      "mnis_id": "4601"
+      "mnis_id": "4601",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Catherine Atkinson",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26405",
-      "mnis_id": "5143"
+      "mnis_id": "5143",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Walney",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/24837",
-      "mnis_id": "3917"
+      "mnis_id": "3917",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5176",
-        "twfy_id": "uk.org.publicwhip/person/26489"
+        "twfy_id": "uk.org.publicwhip/person/26489",
+        "removed": false
       },
       {
         "name": "Andrew Bowie",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4601",
-        "twfy_id": "uk.org.publicwhip/person/25703"
+        "twfy_id": "uk.org.publicwhip/person/25703",
+        "removed": false
       },
       {
         "name": "Catherine Atkinson",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5143",
-        "twfy_id": "uk.org.publicwhip/person/26405"
+        "twfy_id": "uk.org.publicwhip/person/26405",
+        "removed": false
       },
       {
         "name": "Lord Walney",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "3917",
-        "twfy_id": "uk.org.publicwhip/person/24837"
+        "twfy_id": "uk.org.publicwhip/person/24837",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-03-19"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/small-modular-reactors.htm"
 }

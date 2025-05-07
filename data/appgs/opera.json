@@ -9,28 +9,32 @@
       "name": "Bambos Charalambous",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25676",
-      "mnis_id": "4610"
+      "mnis_id": "4610",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Aberdare",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/24696",
-      "mnis_id": "3898"
+      "mnis_id": "3898",
+      "removed": false
     },
     {
       "role": "Secretary",
       "name": "Dr Simon Opher",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26313",
-      "mnis_id": "5030"
+      "mnis_id": "5030",
+      "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Dame Harriett Baldwin",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24785",
-      "mnis_id": "4107"
+      "mnis_id": "4107",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2025-11-23"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/opera.htm"
 }

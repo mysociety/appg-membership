@@ -9,28 +9,32 @@
       "name": "Sam Rushworth",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Tyrie",
       "party": "Non-affiliated",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Kit Malthouse",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Baroness Kramer",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,7 @@
     "next_reporting_deadline": "2026-04-03"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
   "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/extraordinary-rendition.htm"
 }

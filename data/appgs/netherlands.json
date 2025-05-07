@@ -9,28 +9,32 @@
       "name": "Mr Clive Betts",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10045",
-      "mnis_id": "394"
+      "mnis_id": "394",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Taylor of Holbeach",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Touhig",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10600",
-      "mnis_id": "542"
+      "mnis_id": "542",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ben Lake",
       "party": "Plaid Cymru",
       "twfy_id": "uk.org.publicwhip/person/25669",
-      "mnis_id": "4630"
+      "mnis_id": "4630",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/netherlands.htm"
 }

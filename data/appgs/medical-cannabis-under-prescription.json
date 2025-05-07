@@ -9,28 +9,32 @@
       "name": "Tonia Antoniazzi",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25634",
-      "mnis_id": "4623"
+      "mnis_id": "4623",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sir Jeremy Wright",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/11791",
-      "mnis_id": "1560"
+      "mnis_id": "1560",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Walmsley",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13113",
-      "mnis_id": "2547"
+      "mnis_id": "2547",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Andy McDonald",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25169",
-      "mnis_id": "4269"
+      "mnis_id": "4269",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-16"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/medical-cannabis-under-prescription.htm"
 }

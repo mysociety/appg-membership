@@ -9,28 +9,32 @@
       "name": "Kirsty Blackman",
       "party": "Scottish National Party",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord McNicol of West Kilbride",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Damian Hinds",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Rennard",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
   "index_date": "250212",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250212/political-and-media-literacy.htm"
 }

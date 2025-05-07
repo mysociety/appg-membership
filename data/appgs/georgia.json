@@ -9,28 +9,32 @@
       "name": "Mark Pritchard",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/11946",
-      "mnis_id": "1576"
+      "mnis_id": "1576",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jessica Morden",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/11732",
-      "mnis_id": "1548"
+      "mnis_id": "1548",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Beith",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/10034",
-      "mnis_id": "513"
+      "mnis_id": "513",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Teverson",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13732",
-      "mnis_id": "3789"
+      "mnis_id": "3789",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-09"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/georgia.htm"
 }

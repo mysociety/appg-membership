@@ -9,28 +9,32 @@
       "name": "Dame Siobhain McDonagh",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10381",
-      "mnis_id": "193"
+      "mnis_id": "193",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ed Davey",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/10155",
-      "mnis_id": "188"
+      "mnis_id": "188",
+      "removed": false
     },
     {
       "role": "Secretary",
       "name": "Gregory Stafford",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26626",
-      "mnis_id": "5351"
+      "mnis_id": "5351",
+      "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Luke Taylor",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26443",
-      "mnis_id": "5103"
+      "mnis_id": "5103",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,35 +47,40 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "193",
-        "twfy_id": "uk.org.publicwhip/person/10381"
+        "twfy_id": "uk.org.publicwhip/person/10381",
+        "removed": false
       },
       {
         "name": "Sir Edward Davey",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "188",
-        "twfy_id": "uk.org.publicwhip/person/10155"
+        "twfy_id": "uk.org.publicwhip/person/10155",
+        "removed": false
       },
       {
         "name": "Greg Stafford",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5351",
-        "twfy_id": "uk.org.publicwhip/person/26626"
+        "twfy_id": "uk.org.publicwhip/person/26626",
+        "removed": false
       },
       {
         "name": "Luke Taylor",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5103",
-        "twfy_id": "uk.org.publicwhip/person/26443"
+        "twfy_id": "uk.org.publicwhip/person/26443",
+        "removed": false
       },
       {
         "name": "Paul Kohler",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5321",
-        "twfy_id": "uk.org.publicwhip/person/26570"
+        "twfy_id": "uk.org.publicwhip/person/26570",
+        "removed": false
       }
     ]
   },
@@ -94,5 +103,7 @@
     "next_reporting_deadline": "2026-01-11"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/ahmadiyya-muslim-community.htm"
 }

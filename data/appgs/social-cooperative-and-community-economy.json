@@ -9,28 +9,32 @@
       "name": "Patrick Hurley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26463",
-      "mnis_id": "5052"
+      "mnis_id": "5052",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Thornton",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/13543",
-      "mnis_id": "1782"
+      "mnis_id": "1782",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Balfe",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25209",
-      "mnis_id": "4302"
+      "mnis_id": "4302",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Josh Babarinde",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26353",
-      "mnis_id": "5086"
+      "mnis_id": "5086",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-04-10"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/social-cooperative-and-community-economy.htm"
 }

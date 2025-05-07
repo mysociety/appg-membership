@@ -9,28 +9,32 @@
       "name": "Jess Brown-Fuller",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26372",
-      "mnis_id": "5335"
+      "mnis_id": "5335",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Andrew Griffith",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25927",
-      "mnis_id": "4874"
+      "mnis_id": "4874",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Josh Fenton-Glynn",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26545",
-      "mnis_id": "5295"
+      "mnis_id": "5295",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Alison Bennett",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26498",
-      "mnis_id": "5283"
+      "mnis_id": "5283",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-27"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/infant-feeding.htm"
 }

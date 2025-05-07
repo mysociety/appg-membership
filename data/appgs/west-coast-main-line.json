@@ -9,28 +9,32 @@
       "name": "Cat Smith",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25432",
-      "mnis_id": "4436"
+      "mnis_id": "4436",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Llinos Medi",
       "party": "Plaid Cymru",
       "twfy_id": "uk.org.publicwhip/person/26454",
-      "mnis_id": "5085"
+      "mnis_id": "5085",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Esther McVey",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24882",
-      "mnis_id": "4084"
+      "mnis_id": "4084",
+      "removed": false
     },
     {
       "role": "Honorary Secretary",
       "name": "Ms Julie Minns",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26403",
-      "mnis_id": "5094"
+      "mnis_id": "5094",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4436",
-        "twfy_id": "uk.org.publicwhip/person/25432"
+        "twfy_id": "uk.org.publicwhip/person/25432",
+        "removed": false
       },
       {
         "name": "Esther McVey",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4084",
-        "twfy_id": "uk.org.publicwhip/person/24882"
+        "twfy_id": "uk.org.publicwhip/person/24882",
+        "removed": false
       },
       {
         "name": "Llinos Medi",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5085",
-        "twfy_id": "uk.org.publicwhip/person/26454"
+        "twfy_id": "uk.org.publicwhip/person/26454",
+        "removed": false
       },
       {
         "name": "Julie Minns",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5094",
-        "twfy_id": "uk.org.publicwhip/person/26403"
+        "twfy_id": "uk.org.publicwhip/person/26403",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-02-08"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/west-coast-main-line.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Chi Onwurah",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24807",
-      "mnis_id": "4124"
+      "mnis_id": "4124",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Mann",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/11093",
-      "mnis_id": "1387"
+      "mnis_id": "1387",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Crathorne",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/12952",
-      "mnis_id": "3380"
+      "mnis_id": "3380",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Jo White",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26358",
-      "mnis_id": "5105"
+      "mnis_id": "5105",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2025-11-23"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/jazz.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Jo Platt",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/25611",
-      "mnis_id": "4673"
+      "mnis_id": "4673",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Tessa Munt",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/24942",
-      "mnis_id": "4089"
+      "mnis_id": "4089",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Offord of Garvel",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Debbie Abrahams",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25034",
-      "mnis_id": "4212"
+      "mnis_id": "4212",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,182 +47,208 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4673",
-        "twfy_id": "uk.org.publicwhip/person/25611"
+        "twfy_id": "uk.org.publicwhip/person/25611",
+        "removed": false
       },
       {
         "name": "Tessa Munt",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4089",
-        "twfy_id": "uk.org.publicwhip/person/24942"
+        "twfy_id": "uk.org.publicwhip/person/24942",
+        "removed": false
       },
       {
         "name": "Lord Offord of Garvel",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Debbie Abrahams",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4212",
-        "twfy_id": "uk.org.publicwhip/person/25034"
+        "twfy_id": "uk.org.publicwhip/person/25034",
+        "removed": false
       },
       {
         "name": "Dame Harriett Baldwin",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4107",
-        "twfy_id": "uk.org.publicwhip/person/24785"
+        "twfy_id": "uk.org.publicwhip/person/24785",
+        "removed": false
       },
       {
         "name": "Lord Bethell",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4708",
-        "twfy_id": "uk.org.publicwhip/person/25740"
+        "twfy_id": "uk.org.publicwhip/person/25740",
+        "removed": false
       },
       {
         "name": "Luke Charters",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5199",
-        "twfy_id": "uk.org.publicwhip/person/26480"
+        "twfy_id": "uk.org.publicwhip/person/26480",
+        "removed": false
       },
       {
         "name": "Daisey Cooper",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4769",
-        "twfy_id": "uk.org.publicwhip/person/25901"
+        "twfy_id": "uk.org.publicwhip/person/25901",
+        "removed": false
       },
       {
         "name": "Mims Davies",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4513",
-        "twfy_id": "uk.org.publicwhip/person/25330"
+        "twfy_id": "uk.org.publicwhip/person/25330",
+        "removed": false
       },
       {
         "name": "Maya Ellis",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5228",
-        "twfy_id": "uk.org.publicwhip/person/26479"
+        "twfy_id": "uk.org.publicwhip/person/26479",
+        "removed": false
       },
       {
         "name": "Tim Farron",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1591",
-        "twfy_id": "uk.org.publicwhip/person/11923"
+        "twfy_id": "uk.org.publicwhip/person/11923",
+        "removed": false
       },
       {
         "name": "Monica Harding",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5299",
-        "twfy_id": "uk.org.publicwhip/person/26516"
+        "twfy_id": "uk.org.publicwhip/person/26516",
+        "removed": false
       },
       {
         "name": "Louise Jones",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5258",
-        "twfy_id": "uk.org.publicwhip/person/26586"
+        "twfy_id": "uk.org.publicwhip/person/26586",
+        "removed": false
       },
       {
         "name": "Paul Kohler",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5321",
-        "twfy_id": "uk.org.publicwhip/person/26570"
+        "twfy_id": "uk.org.publicwhip/person/26570",
+        "removed": false
       },
       {
         "name": "Clive Lewis",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4500",
-        "twfy_id": "uk.org.publicwhip/person/25356"
+        "twfy_id": "uk.org.publicwhip/person/25356",
+        "removed": false
       },
       {
         "name": "Rachel Maskell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4471",
-        "twfy_id": "uk.org.publicwhip/person/25433"
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
       },
       {
         "name": "John McDonnell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "178",
-        "twfy_id": "uk.org.publicwhip/person/10383"
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
       },
       {
         "name": "Dr Simon Opher",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5030",
-        "twfy_id": "uk.org.publicwhip/person/26313"
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
       },
       {
         "name": "Steve Race",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5064",
-        "twfy_id": "uk.org.publicwhip/person/26345"
+        "twfy_id": "uk.org.publicwhip/person/26345",
+        "removed": false
       },
       {
         "name": "Baroness Scott of Needham Market",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Bradley Thomas",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5186",
-        "twfy_id": "uk.org.publicwhip/person/26561"
+        "twfy_id": "uk.org.publicwhip/person/26561",
+        "removed": false
       },
       {
         "name": "Baroness Thornton",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "1782",
-        "twfy_id": "uk.org.publicwhip/person/13543"
+        "twfy_id": "uk.org.publicwhip/person/13543",
+        "removed": false
       },
       {
         "name": "Lord Triesman",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3651",
-        "twfy_id": "uk.org.publicwhip/person/12839"
+        "twfy_id": "uk.org.publicwhip/person/12839",
+        "removed": false
       },
       {
         "name": "Paul Waugh",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5071",
-        "twfy_id": "uk.org.publicwhip/person/26319"
+        "twfy_id": "uk.org.publicwhip/person/26319",
+        "removed": false
       },
       {
         "name": "Max Wilkinson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5055",
-        "twfy_id": "uk.org.publicwhip/person/26344"
+        "twfy_id": "uk.org.publicwhip/person/26344",
+        "removed": false
       },
       {
         "name": "Munira Wilson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4776",
-        "twfy_id": "uk.org.publicwhip/person/25820"
+        "twfy_id": "uk.org.publicwhip/person/25820",
+        "removed": false
       }
     ]
   },
@@ -241,5 +271,7 @@
     "next_reporting_deadline": "2026-04-17"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/myalgic-encephalomyelitis-me.htm"
 }

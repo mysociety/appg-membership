@@ -9,28 +9,32 @@
       "name": "Rachel Taylor",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26478",
-      "mnis_id": "5065"
+      "mnis_id": "5065",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Sater",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25734",
-      "mnis_id": "4700"
+      "mnis_id": "4700",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jim Dickson",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26547",
-      "mnis_id": "5223"
+      "mnis_id": "5223",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Max Wilkinson",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26344",
-      "mnis_id": "5055"
+      "mnis_id": "5055",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-08"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/sport-and-physical-activity.htm"
 }

@@ -9,28 +9,32 @@
       "name": "George Freeman",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24817",
-      "mnis_id": "4020"
+      "mnis_id": "4020",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Liam Byrne",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/11360",
-      "mnis_id": "1171"
+      "mnis_id": "1171",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Finlay of Llandaff",
       "party": "Crossbench",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Brinton",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25066",
-      "mnis_id": "4241"
+      "mnis_id": "4241",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-07-12"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/children-of-alcoholics.htm"
 }

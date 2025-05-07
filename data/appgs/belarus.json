@@ -9,28 +9,32 @@
       "name": "Wendy Morton",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25342",
-      "mnis_id": "4358"
+      "mnis_id": "4358",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Laurence Turner",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26517",
-      "mnis_id": "5234"
+      "mnis_id": "5234",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Austin of Dudley",
       "party": "Non-affiliated",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Saqib Bhatti",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25847",
-      "mnis_id": "4818"
+      "mnis_id": "4818",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-07-19"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/belarus.htm"
 }

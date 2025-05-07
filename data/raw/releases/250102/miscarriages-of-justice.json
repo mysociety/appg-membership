@@ -9,28 +9,32 @@
       "name": "Kim Johnson",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Garnier",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Liz Saville Roberts",
       "party": "Plaid Cymru",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Woodley",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,7 @@
     "next_reporting_deadline": "2026-02-15"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
   "index_date": "250102",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/miscarriages-of-justice.htm"
 }

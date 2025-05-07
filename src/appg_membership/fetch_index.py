@@ -172,6 +172,71 @@ def _parse_agm_details(table: Optional[Tag]) -> Optional[AGMDetails]:
     )
 
 
+def _parse_registrable_benefits(
+    table: Optional[Tag],
+) -> tuple[Optional[str], list[dict[str, str]]]:
+    """
+    Parse registrable benefits from the benefits table.
+    Returns a tuple of:
+    - Simple benefit text (for backward compatibility)
+    - List of detailed benefit dictionaries with column names as keys
+    """
+    if not table:
+        return None, []
+
+    rows = table.find_all("tr")
+    if len(rows) <= 1:  # Only has header row or empty
+        return None, []
+
+    # Check if it has "None" as content
+    if len(rows) == 2:
+        benefits_text = rows[1].get_text(strip=True)
+        if benefits_text.lower() == "none":
+            return None, []
+
+    # Process detailed benefits table
+    detailed_benefits: list[dict[str, str]] = []
+    current_benefit_type = ""
+    header_cells = []
+
+    # Analyze the table structure
+    for row_idx, row in enumerate(rows):
+        cells = row.find_all("td")
+        if not cells:
+            continue
+
+        # Check if this is a category header row (spans multiple columns)
+        colspan = cells[0].get("colspan")
+        if colspan and int(colspan) > 1:
+            # This is a category header row
+            current_benefit_type = cells[0].get_text(strip=True)
+            continue
+
+        # If this has 4 columns and looks like a header row
+        if len(cells) == 4 and any("Source" in cell.get_text() for cell in cells):
+            # This is the header row - grab the column names
+            header_cells = [cell.get_text(strip=True) for cell in cells]
+            continue
+
+        # If this has 4 columns and we have headers, it's a data row
+        if len(cells) == 4 and header_cells:
+            # Create a dictionary with the original column names as keys
+            benefit_data = {
+                header_cells[i]: cells[i].get_text(strip=True)
+                for i in range(len(cells))
+            }
+
+            # Add the benefit type
+            benefit_data["benefit_type"] = current_benefit_type
+
+            detailed_benefits.append(benefit_data)
+
+    # For backward compatibility, we also return the simple benefit text
+    simple_benefit = current_benefit_type if detailed_benefits else None
+
+    return simple_benefit, detailed_benefits
+
+
 def parse_appg_html(html: str, *, slug: str, source_url: str, index_date: str) -> APPG:
     """
     Parse one APPG register page's HTML and return an APPG instance.
@@ -188,6 +253,7 @@ def parse_appg_html(html: str, *, slug: str, source_url: str, index_date: str) -
     contact_details = ContactDetails(website=WebsiteSource())
     agm = None
     registrable_benefits = None
+    detailed_benefits = []
 
     # --- 1. Overview table (should always exist) ---------------------------- #
     if tables:
@@ -217,12 +283,9 @@ def parse_appg_html(html: str, *, slug: str, source_url: str, index_date: str) -
         tables, "Registrable benefits received by the group"
     )
     if benefits_table:
-        rows = benefits_table.find_all("tr")
-        if len(rows) > 1:
-            benefits_text = rows[1].get_text(strip=True)
-            registrable_benefits = (
-                None if benefits_text.lower() == "none" else benefits_text
-            )
+        registrable_benefits, detailed_benefits = _parse_registrable_benefits(
+            benefits_table
+        )
 
     return APPG(
         title=title,
@@ -233,6 +296,7 @@ def parse_appg_html(html: str, *, slug: str, source_url: str, index_date: str) -
         contact_details=contact_details,
         agm=agm,
         registrable_benefits=registrable_benefits,
+        detailed_benefits=detailed_benefits,
         source_url=HttpUrl(source_url),
         index_date=index_date,
     )

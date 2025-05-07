@@ -9,28 +9,32 @@
       "name": "Steve Witherden",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26583",
-      "mnis_id": "5221"
+      "mnis_id": "5221",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Manuela Perteghella",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26569",
-      "mnis_id": "5122"
+      "mnis_id": "5122",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Al Pinkerton",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26593",
-      "mnis_id": "5288"
+      "mnis_id": "5288",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Greg Smith",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25925",
-      "mnis_id": "4778"
+      "mnis_id": "4778",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-05-14"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/gaps-in-covid-19-financial-support.htm"
 }

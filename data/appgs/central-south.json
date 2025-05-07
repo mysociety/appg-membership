@@ -9,28 +9,32 @@
       "name": "Amanda Martin",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26430",
-      "mnis_id": "5294"
+      "mnis_id": "5294",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Luke Murphy",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26488",
-      "mnis_id": "5248"
+      "mnis_id": "5248",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Paul Holmes",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25808",
-      "mnis_id": "4803"
+      "mnis_id": "4803",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Darren Paffey",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26431",
-      "mnis_id": "5270"
+      "mnis_id": "5270",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-17"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/central-south.htm"
 }

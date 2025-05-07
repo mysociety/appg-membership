@@ -9,28 +9,32 @@
       "name": "Ruth Jones",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25746",
-      "mnis_id": "4716"
+      "mnis_id": "4716",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jack Rankin",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26622",
-      "mnis_id": "5340"
+      "mnis_id": "5340",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Gurinder Singh Josan",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26348",
-      "mnis_id": "5059"
+      "mnis_id": "5059",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Matt Western",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25701",
-      "mnis_id": "4617"
+      "mnis_id": "4617",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4716",
-        "twfy_id": "uk.org.publicwhip/person/25746"
+        "twfy_id": "uk.org.publicwhip/person/25746",
+        "removed": false
       },
       {
         "name": "Jack Rankin",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5340",
-        "twfy_id": "uk.org.publicwhip/person/26622"
+        "twfy_id": "uk.org.publicwhip/person/26622",
+        "removed": false
       },
       {
         "name": "Gurinder Josan",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5059",
-        "twfy_id": "uk.org.publicwhip/person/26348"
+        "twfy_id": "uk.org.publicwhip/person/26348",
+        "removed": false
       },
       {
         "name": "Matt Western",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4617",
-        "twfy_id": "uk.org.publicwhip/person/25701"
+        "twfy_id": "uk.org.publicwhip/person/25701",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,43 @@
     "next_reporting_deadline": "2025-11-24"
   },
   "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "Queen's University, Belfast",
+      "Value £s": "2,000",
+      "Received": "18/10/2024",
+      "Registered": "05/12/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Oxford Instruments",
+      "Value £s": "10,000",
+      "Received": "16/09/2024",
+      "Registered": "05/12/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Swansea University",
+      "Value £s": "2,500",
+      "Received": "08/10/2024",
+      "Registered": "05/12/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Plessey Semiconductors",
+      "Value £s": "15,000",
+      "Received": "12/09/2024",
+      "Registered": "05/12/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Vishay",
+      "Value £s": "15,000",
+      "Received": "19/09/2024",
+      "Registered": "05/12/2024",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/semiconductors.htm"
 }

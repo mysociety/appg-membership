@@ -9,28 +9,32 @@
       "name": "Andrew Griffith",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25927",
-      "mnis_id": "4874"
+      "mnis_id": "4874",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Rees of Ludlow",
       "party": "Crossbench",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Viscount Stansgate",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26044",
-      "mnis_id": "4925"
+      "mnis_id": "4925",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "James Wild",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25866",
-      "mnis_id": "4787"
+      "mnis_id": "4787",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,154 +47,176 @@
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "James Wild",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4787",
-        "twfy_id": "uk.org.publicwhip/person/25866"
+        "twfy_id": "uk.org.publicwhip/person/25866",
+        "removed": false
       },
       {
         "name": "Viscount Stansgate",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4925",
-        "twfy_id": "uk.org.publicwhip/person/26044"
+        "twfy_id": "uk.org.publicwhip/person/26044",
+        "removed": false
       },
       {
         "name": "Richard Holden",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4813",
-        "twfy_id": "uk.org.publicwhip/person/25893"
+        "twfy_id": "uk.org.publicwhip/person/25893",
+        "removed": false
       },
       {
         "name": "Jerome Mayhew",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4739",
-        "twfy_id": "uk.org.publicwhip/person/25904"
+        "twfy_id": "uk.org.publicwhip/person/25904",
+        "removed": false
       },
       {
         "name": "Tonia Antoniazzi",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4623",
-        "twfy_id": "uk.org.publicwhip/person/25634"
+        "twfy_id": "uk.org.publicwhip/person/25634",
+        "removed": false
       },
       {
         "name": "Lady Bakewell of Hardington Mandeville",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Carrington",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4712",
-        "twfy_id": "uk.org.publicwhip/person/25743"
+        "twfy_id": "uk.org.publicwhip/person/25743",
+        "removed": false
       },
       {
         "name": "Lord Grantchester",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3577",
-        "twfy_id": "uk.org.publicwhip/person/13570"
+        "twfy_id": "uk.org.publicwhip/person/13570",
+        "removed": false
       },
       {
         "name": "Viscount Hanworth",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "2648",
-        "twfy_id": "uk.org.publicwhip/person/25071"
+        "twfy_id": "uk.org.publicwhip/person/25071",
+        "removed": false
       },
       {
         "name": "Sir Iain Duncan Smith",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "152",
-        "twfy_id": "uk.org.publicwhip/person/10180"
+        "twfy_id": "uk.org.publicwhip/person/10180",
+        "removed": false
       },
       {
         "name": "Ben Lake",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4630",
-        "twfy_id": "uk.org.publicwhip/person/25669"
+        "twfy_id": "uk.org.publicwhip/person/25669",
+        "removed": false
       },
       {
         "name": "Rt Hon David Mundell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1512",
-        "twfy_id": "uk.org.publicwhip/person/11970"
+        "twfy_id": "uk.org.publicwhip/person/11970",
+        "removed": false
       },
       {
         "name": "Tim Farron",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1591",
-        "twfy_id": "uk.org.publicwhip/person/11923"
+        "twfy_id": "uk.org.publicwhip/person/11923",
+        "removed": false
       },
       {
         "name": "Lady Neville-Rolfe",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Rennard",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "2484",
-        "twfy_id": "uk.org.publicwhip/person/13277"
+        "twfy_id": "uk.org.publicwhip/person/13277",
+        "removed": false
       },
       {
         "name": "Greg Smith",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4778",
-        "twfy_id": "uk.org.publicwhip/person/25925"
+        "twfy_id": "uk.org.publicwhip/person/25925",
+        "removed": false
       },
       {
         "name": "Lord Taylor of Holbeach CBE",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Vaux of Harrowden",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "The Rt Hon John Whittingdale OBE",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "39",
-        "twfy_id": "uk.org.publicwhip/person/10632"
+        "twfy_id": "uk.org.publicwhip/person/10632",
+        "removed": false
       },
       {
         "name": "Rt Hon John Whittingdale OBE",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "39",
-        "twfy_id": "uk.org.publicwhip/person/10632"
+        "twfy_id": "uk.org.publicwhip/person/10632",
+        "removed": false
       },
       {
         "name": "Martin John Rees, Baron Rees of Ludlow",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -213,5 +239,7 @@
     "next_reporting_deadline": "2026-03-06"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/dark-skies.htm"
 }

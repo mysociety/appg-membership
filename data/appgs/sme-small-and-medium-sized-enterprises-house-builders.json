@@ -9,28 +9,32 @@
       "name": "Sarah Edwards",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26277",
-      "mnis_id": "5001"
+      "mnis_id": "5001",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Mike Wood",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25362",
-      "mnis_id": "4384"
+      "mnis_id": "4384",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Snape",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10554",
-      "mnis_id": "319"
+      "mnis_id": "319",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Austin of Dudley",
       "party": "Non-affiliated",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-06-03"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/sme-small-and-medium-sized-enterprises-house-builders.htm"
 }

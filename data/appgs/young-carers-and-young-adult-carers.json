@@ -9,28 +9,32 @@
       "name": "Chris Vince",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26350",
-      "mnis_id": "5237"
+      "mnis_id": "5237",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Alison Bennett",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26498",
-      "mnis_id": "5283"
+      "mnis_id": "5283",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Keeley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/11943",
-      "mnis_id": "1588"
+      "mnis_id": "1588",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Young of Cookham",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/young-carers-and-young-adult-carers.htm"
 }

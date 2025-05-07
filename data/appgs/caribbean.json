@@ -9,28 +9,32 @@
       "name": "Juliet Campbell",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26337",
-      "mnis_id": "5058"
+      "mnis_id": "5058",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dame Caroline Dinenage",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24873",
-      "mnis_id": "4008"
+      "mnis_id": "4008",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Paulette Hamilton",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26061",
-      "mnis_id": "4938"
+      "mnis_id": "4938",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Benjamin",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/24987",
-      "mnis_id": "4167"
+      "mnis_id": "4167",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-23"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/caribbean.htm"
 }

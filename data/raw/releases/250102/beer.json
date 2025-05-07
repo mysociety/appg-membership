@@ -9,28 +9,32 @@
       "name": "Tonia Antoniazzi",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Greg Smith",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jamie Stone",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Pete Wishart",
       "party": "Scottish National Party",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,57 @@
     "next_reporting_deadline": "2025-11-29"
   },
   "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "ABInBev",
+      "Value £s": "4,294",
+      "Received": "30/09/2024",
+      "Registered": "10/10/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Carlsberg",
+      "Value £s": "4,294",
+      "Received": "02/10/2024",
+      "Registered": "10/10/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Diageo",
+      "Value £s": "4,294",
+      "Received": "02/10/2024",
+      "Registered": "10/10/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Molson Coors",
+      "Value £s": "4,294",
+      "Received": "14/10/2024",
+      "Registered": "22/10/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Stonegate",
+      "Value £s": "4,294",
+      "Received": "14/10/2024",
+      "Registered": "22/10/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Heineken",
+      "Value £s": "4,294",
+      "Received": "14/10/2024",
+      "Registered": "22/10/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Greene King",
+      "Value £s": "4,294",
+      "Received": "14/10/2024",
+      "Registered": "22/10/2024",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
   "index_date": "250102",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/beer.htm"
 }

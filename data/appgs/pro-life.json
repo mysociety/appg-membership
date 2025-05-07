@@ -9,28 +9,32 @@
       "name": "Carla Lockhart",
       "party": "Democratic Unionist Party",
       "twfy_id": "uk.org.publicwhip/person/25562",
-      "mnis_id": "4857"
+      "mnis_id": "4857",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Eaton",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25003",
-      "mnis_id": "4184"
+      "mnis_id": "4184",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mary Glindon",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24927",
-      "mnis_id": "4126"
+      "mnis_id": "4126",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness O'Loan",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/24694",
-      "mnis_id": "3902"
+      "mnis_id": "3902",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/pro-life.htm"
 }

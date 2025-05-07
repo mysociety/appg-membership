@@ -9,28 +9,32 @@
       "name": "Yasmin Qureshi",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24775",
-      "mnis_id": "3924"
+      "mnis_id": "3924",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Mobarik",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25235",
-      "mnis_id": "4335"
+      "mnis_id": "4335",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sarah Owen",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25823",
-      "mnis_id": "4777"
+      "mnis_id": "4777",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Afzal Khan",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25662",
-      "mnis_id": "4671"
+      "mnis_id": "4671",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-09"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/pakistan.htm"
 }

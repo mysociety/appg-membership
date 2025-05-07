@@ -9,28 +9,32 @@
       "name": "Dr Ben Spencer",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25889",
-      "mnis_id": "4785"
+      "mnis_id": "4785",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Anna Gelderd",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26618",
-      "mnis_id": "5353"
+      "mnis_id": "5353",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness McIntosh of Pickering",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Beith",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/10034",
-      "mnis_id": "513"
+      "mnis_id": "513",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-26"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/nordic-countries.htm"
 }

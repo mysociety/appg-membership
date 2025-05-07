@@ -9,28 +9,32 @@
       "name": "Mr Luke Charters",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26480",
-      "mnis_id": "5199"
+      "mnis_id": "5199",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Samantha Niblett",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26414",
-      "mnis_id": "5150"
+      "mnis_id": "5150",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord McNicol of West Kilbride",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Elliott of Mickle Fell",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,147 +47,168 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5199",
-        "twfy_id": "uk.org.publicwhip/person/26480"
+        "twfy_id": "uk.org.publicwhip/person/26480",
+        "removed": false
       },
       {
         "name": "Samantha Niblett",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5150",
-        "twfy_id": "uk.org.publicwhip/person/26414"
+        "twfy_id": "uk.org.publicwhip/person/26414",
+        "removed": false
       },
       {
         "name": "Lord Vaizey of Didcot",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord McNicol of West Kilbride",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Anna Gelderd",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5353",
-        "twfy_id": "uk.org.publicwhip/person/26618"
+        "twfy_id": "uk.org.publicwhip/person/26618",
+        "removed": false
       },
       {
         "name": "Gregor Poynton",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5167",
-        "twfy_id": "uk.org.publicwhip/person/26428"
+        "twfy_id": "uk.org.publicwhip/person/26428",
+        "removed": false
       },
       {
         "name": "Chris Coghlan",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5198",
-        "twfy_id": "uk.org.publicwhip/person/26445"
+        "twfy_id": "uk.org.publicwhip/person/26445",
+        "removed": false
       },
       {
         "name": "Leigh Ingham",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5290",
-        "twfy_id": "uk.org.publicwhip/person/26392"
+        "twfy_id": "uk.org.publicwhip/person/26392",
+        "removed": false
       },
       {
         "name": "Henry Tufnell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5121",
-        "twfy_id": "uk.org.publicwhip/person/26387"
+        "twfy_id": "uk.org.publicwhip/person/26387",
+        "removed": false
       },
       {
         "name": "Louise Jones",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5258",
-        "twfy_id": "uk.org.publicwhip/person/26586"
+        "twfy_id": "uk.org.publicwhip/person/26586",
+        "removed": false
       },
       {
         "name": "Maya Ellis",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5228",
-        "twfy_id": "uk.org.publicwhip/person/26479"
+        "twfy_id": "uk.org.publicwhip/person/26479",
+        "removed": false
       },
       {
         "name": "Lucy Rigby",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5333",
-        "twfy_id": "uk.org.publicwhip/person/26596"
+        "twfy_id": "uk.org.publicwhip/person/26596",
+        "removed": false
       },
       {
         "name": "Dan Aldridge",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5172",
-        "twfy_id": "uk.org.publicwhip/person/26453"
+        "twfy_id": "uk.org.publicwhip/person/26453",
+        "removed": false
       },
       {
         "name": "Adam Jogee",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5168",
-        "twfy_id": "uk.org.publicwhip/person/26541"
+        "twfy_id": "uk.org.publicwhip/person/26541",
+        "removed": false
       },
       {
         "name": "Alex Sobel",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4658",
-        "twfy_id": "uk.org.publicwhip/person/25680"
+        "twfy_id": "uk.org.publicwhip/person/25680",
+        "removed": false
       },
       {
         "name": "Bob Blackman",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4005",
-        "twfy_id": "uk.org.publicwhip/person/24945"
+        "twfy_id": "uk.org.publicwhip/person/24945",
+        "removed": false
       },
       {
         "name": "Lord Moynihan of Chelsea",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Elliott of Mickle Fell",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Holmes of Richmond",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Taylor of Warwick",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Vaux of Harrowden",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -206,5 +231,7 @@
     "next_reporting_deadline": "2026-01-10"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/financial-technology.htm"
 }

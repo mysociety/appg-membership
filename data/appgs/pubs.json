@@ -9,28 +9,32 @@
       "name": "Charlotte Nichols",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25885",
-      "mnis_id": "4799"
+      "mnis_id": "4799",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Blake Stephenson",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26355",
-      "mnis_id": "5100"
+      "mnis_id": "5100",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ben Maguire",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26623",
-      "mnis_id": "5350"
+      "mnis_id": "5350",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mr Richard Holden",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25893",
-      "mnis_id": "4813"
+      "mnis_id": "4813",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-06-11"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/pubs.htm"
 }

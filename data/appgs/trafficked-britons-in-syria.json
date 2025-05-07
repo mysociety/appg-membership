@@ -9,28 +9,32 @@
       "name": "Mr Andrew Mitchell",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/11115",
-      "mnis_id": "1211"
+      "mnis_id": "1211",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Jay of Ewelme",
       "party": "Crossbench",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Winterton of Doncaster",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "David Davis",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10162",
-      "mnis_id": "373"
+      "mnis_id": "373",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "1442",
-        "twfy_id": "uk.org.publicwhip/person/10785"
+        "twfy_id": "uk.org.publicwhip/person/10785",
+        "removed": false
       },
       {
         "name": "Jay of Ewelme",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Apsana Begum",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4790",
-        "twfy_id": "uk.org.publicwhip/person/25914"
+        "twfy_id": "uk.org.publicwhip/person/25914",
+        "removed": false
       },
       {
         "name": "Sir David Davis",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "373",
-        "twfy_id": "uk.org.publicwhip/person/10162"
+        "twfy_id": "uk.org.publicwhip/person/10162",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-05-22"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/trafficked-britons-in-syria.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Sarah Champion",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Martin Vickers",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Beith",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Faulkner of Worcester",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,7 @@
     "next_reporting_deadline": "2026-01-03"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
   "index_date": "250102",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/channel-islands.htm"
 }

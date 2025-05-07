@@ -9,28 +9,32 @@
       "name": "Andrew Pakes",
       "party": "Labour (Co-op)",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Gareth Snell",
       "party": "Labour (Co-op)",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Wrigglesworth",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Viscount Trenchard",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,7 @@
     "next_reporting_deadline": "2026-04-10"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
   "index_date": "250212",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250212/mutuals.htm"
 }

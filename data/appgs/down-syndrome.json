@@ -9,28 +9,32 @@
       "name": "Damian Hinds",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24782",
-      "mnis_id": "3969"
+      "mnis_id": "3969",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Andrew Cooper",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26447",
-      "mnis_id": "5195"
+      "mnis_id": "5195",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Hollins",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/25016",
-      "mnis_id": "4190"
+      "mnis_id": "4190",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Jack Abbott",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26385",
-      "mnis_id": "5131"
+      "mnis_id": "5131",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-08"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/down-syndrome.htm"
 }

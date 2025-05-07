@@ -9,28 +9,32 @@
       "name": "Juliet Campbell",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26337",
-      "mnis_id": "5058"
+      "mnis_id": "5058",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Addington",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13368",
-      "mnis_id": "3453"
+      "mnis_id": "3453",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Lucas",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13301",
-      "mnis_id": "1879"
+      "mnis_id": "1879",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "David Baines",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26565",
-      "mnis_id": "5092"
+      "mnis_id": "5092",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-13"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/dyslexia.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Michelle Welsh",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26550",
-      "mnis_id": "5226"
+      "mnis_id": "5226",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Carlile of Berriew",
       "party": "Crossbench",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Finkelstein",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25201",
-      "mnis_id": "4283"
+      "mnis_id": "4283",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Juliet Campbell",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26337",
-      "mnis_id": "5058"
+      "mnis_id": "5058",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-04-03"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/children-in-police-custody.htm"
 }

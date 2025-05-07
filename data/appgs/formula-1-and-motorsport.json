@@ -9,28 +9,32 @@
       "name": "Greg Smith",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25925",
-      "mnis_id": "4778"
+      "mnis_id": "4778",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Hain",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10252",
-      "mnis_id": "567"
+      "mnis_id": "567",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Sarah Bool",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26635",
-      "mnis_id": "5355"
+      "mnis_id": "5355",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Jess Brown-Fuller",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26372",
-      "mnis_id": "5335"
+      "mnis_id": "5335",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2025-11-29"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/formula-1-and-motorsport.htm"
 }

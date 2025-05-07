@@ -9,28 +9,32 @@
       "name": "Alex Baker",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26444",
-      "mnis_id": "5173"
+      "mnis_id": "5173",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Michelle Scrogham",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26322",
-      "mnis_id": "5049"
+      "mnis_id": "5049",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Graeme Downie",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26503",
-      "mnis_id": "5275"
+      "mnis_id": "5275",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Viscount Trenchard",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13177",
-      "mnis_id": "1829"
+      "mnis_id": "1829",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-19"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/defence-and-security-sectors-supporting-local-communities.htm"
 }

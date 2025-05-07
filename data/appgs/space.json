@@ -9,28 +9,32 @@
       "name": "Mark Garnier",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24824",
-      "mnis_id": "4074"
+      "mnis_id": "4074",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Chi Onwurah",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24807",
-      "mnis_id": "4124"
+      "mnis_id": "4124",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Kevin Bonavia",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26330",
-      "mnis_id": "5051"
+      "mnis_id": "5051",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Gordon McKee",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26462",
-      "mnis_id": "5189"
+      "mnis_id": "5189",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-09"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/space.htm"
 }

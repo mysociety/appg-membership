@@ -9,28 +9,32 @@
       "name": "Dame Siobhain McDonagh",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10381",
-      "mnis_id": "193"
+      "mnis_id": "193",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sarah Owen",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25823",
-      "mnis_id": "4777"
+      "mnis_id": "4777",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Mims Davies",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25330",
-      "mnis_id": "4513"
+      "mnis_id": "4513",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Polak",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25457",
-      "mnis_id": "4547"
+      "mnis_id": "4547",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-10"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/brain-tumours.htm"
 }

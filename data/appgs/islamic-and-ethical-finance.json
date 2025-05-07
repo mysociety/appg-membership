@@ -9,28 +9,32 @@
       "name": "Naz Shah",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25385",
-      "mnis_id": "4409"
+      "mnis_id": "4409",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Robbie Moore",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25922",
-      "mnis_id": "4861"
+      "mnis_id": "4861",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Alderdice",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13371",
-      "mnis_id": "3478"
+      "mnis_id": "3478",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Iqbal Mohamed",
       "party": "Independent",
       "twfy_id": "uk.org.publicwhip/person/26620",
-      "mnis_id": "5268"
+      "mnis_id": "5268",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4409",
-        "twfy_id": "uk.org.publicwhip/person/25385"
+        "twfy_id": "uk.org.publicwhip/person/25385",
+        "removed": false
       },
       {
         "name": "Lord Alderdice",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "3478",
-        "twfy_id": "uk.org.publicwhip/person/13371"
+        "twfy_id": "uk.org.publicwhip/person/13371",
+        "removed": false
       },
       {
         "name": "Afzal Khan",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4671",
-        "twfy_id": "uk.org.publicwhip/person/25662"
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
       },
       {
         "name": "Robbie Moore",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4861",
-        "twfy_id": "uk.org.publicwhip/person/25922"
+        "twfy_id": "uk.org.publicwhip/person/25922",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-04-03"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/islamic-and-ethical-finance.htm"
 }

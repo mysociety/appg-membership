@@ -9,28 +9,32 @@
       "name": "Catherine Fookes",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26510",
-      "mnis_id": "5291"
+      "mnis_id": "5291",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Davies of Gower",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Claire Young",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26458",
-      "mnis_id": "5140"
+      "mnis_id": "5140",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Wilcox of Newport",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-05-07"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/western-gateway.htm"
 }

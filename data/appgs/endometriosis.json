@@ -9,28 +9,32 @@
       "name": "Bell Ribeiro-Addy",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25856",
-      "mnis_id": "4764"
+      "mnis_id": "4764",
+      "removed": false
     },
     {
       "role": "Deputy Chair",
       "name": "Sir Alec Shelbrooke",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24893",
-      "mnis_id": "3997"
+      "mnis_id": "3997",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Gill Furniss",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25489",
-      "mnis_id": "4571"
+      "mnis_id": "4571",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Rachel Taylor",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26478",
-      "mnis_id": "5065"
+      "mnis_id": "5065",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4764",
-        "twfy_id": "uk.org.publicwhip/person/25856"
+        "twfy_id": "uk.org.publicwhip/person/25856",
+        "removed": false
       },
       {
         "name": "Sir Alec Shelbrooke",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "3997",
-        "twfy_id": "uk.org.publicwhip/person/24893"
+        "twfy_id": "uk.org.publicwhip/person/24893",
+        "removed": false
       },
       {
         "name": "Gill Furniss",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4571",
-        "twfy_id": "uk.org.publicwhip/person/25489"
+        "twfy_id": "uk.org.publicwhip/person/25489",
+        "removed": false
       },
       {
         "name": "Rachel Taylor",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5065",
-        "twfy_id": "uk.org.publicwhip/person/26478"
+        "twfy_id": "uk.org.publicwhip/person/26478",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-02-15"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/endometriosis.htm"
 }

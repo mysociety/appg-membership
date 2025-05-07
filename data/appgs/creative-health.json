@@ -9,28 +9,32 @@
       "name": "Dr Simon Opher",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26313",
-      "mnis_id": "5030"
+      "mnis_id": "5030",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Dame Caroline Dinenage",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24873",
-      "mnis_id": "4008"
+      "mnis_id": "4008",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Howarth of Newport",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Kamall",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25976",
-      "mnis_id": "4909"
+      "mnis_id": "4909",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,182 +47,208 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5030",
-        "twfy_id": "uk.org.publicwhip/person/26313"
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
       },
       {
         "name": "Dame Caroline Dinenage",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4008",
-        "twfy_id": "uk.org.publicwhip/person/24873"
+        "twfy_id": "uk.org.publicwhip/person/24873",
+        "removed": false
       },
       {
         "name": "Rt Hon Lord Howarth of Newport",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Kamall of Edmonton",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Kay Andrews",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Ilora Finlay of Llandaff",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Sheila Hollins",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Ruth Lister of Burtesset",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Rt Hon. Baroness Nicky Morgan of Cotes",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Rt Hon. Baroness Estelle Morris of Yardley",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Rt Hon. Baroness Jan Royall of Blaisdon",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Lola Young of Hornsey",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Sadik Al-Hassan",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5312",
-        "twfy_id": "uk.org.publicwhip/person/26527"
+        "twfy_id": "uk.org.publicwhip/person/26527",
+        "removed": false
       },
       {
         "name": "Catherine Atkinson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5143",
-        "twfy_id": "uk.org.publicwhip/person/26405"
+        "twfy_id": "uk.org.publicwhip/person/26405",
+        "removed": false
       },
       {
         "name": "Lewis Atkinson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5028",
-        "twfy_id": "uk.org.publicwhip/person/26309"
+        "twfy_id": "uk.org.publicwhip/person/26309",
+        "removed": false
       },
       {
         "name": "Polly Billington",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5123",
-        "twfy_id": "uk.org.publicwhip/person/26360"
+        "twfy_id": "uk.org.publicwhip/person/26360",
+        "removed": false
       },
       {
         "name": "Aphra Brandreth",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5241",
-        "twfy_id": "uk.org.publicwhip/person/26553"
+        "twfy_id": "uk.org.publicwhip/person/26553",
+        "removed": false
       },
       {
         "name": "Victoria Collins",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5201",
-        "twfy_id": "uk.org.publicwhip/person/26539"
+        "twfy_id": "uk.org.publicwhip/person/26539",
+        "removed": false
       },
       {
         "name": "Dr Beccy Cooper",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5307",
-        "twfy_id": "uk.org.publicwhip/person/26515"
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
       },
       {
         "name": "Cat Eccles",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5293",
-        "twfy_id": "uk.org.publicwhip/person/26587"
+        "twfy_id": "uk.org.publicwhip/person/26587",
+        "removed": false
       },
       {
         "name": "Josh Fenton – Glynn",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5295",
-        "twfy_id": "uk.org.publicwhip/person/26545"
+        "twfy_id": "uk.org.publicwhip/person/26545",
+        "removed": false
       },
       {
         "name": "Wera Hobhouse",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4602",
-        "twfy_id": "uk.org.publicwhip/person/25648"
+        "twfy_id": "uk.org.publicwhip/person/25648",
+        "removed": false
       },
       {
         "name": "Rachel Hopkins",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4873",
-        "twfy_id": "uk.org.publicwhip/person/25809"
+        "twfy_id": "uk.org.publicwhip/person/25809",
+        "removed": false
       },
       {
         "name": "Peter Prinsley",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5163",
-        "twfy_id": "uk.org.publicwhip/person/26383"
+        "twfy_id": "uk.org.publicwhip/person/26383",
+        "removed": false
       },
       {
         "name": "Bell Ribeiro-Addy",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4764",
-        "twfy_id": "uk.org.publicwhip/person/25856"
+        "twfy_id": "uk.org.publicwhip/person/25856",
+        "removed": false
       },
       {
         "name": "John Slinger",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5127",
-        "twfy_id": "uk.org.publicwhip/person/26564"
+        "twfy_id": "uk.org.publicwhip/person/26564",
+        "removed": false
       }
     ]
   },
@@ -241,5 +271,7 @@
     "next_reporting_deadline": "2026-03-26"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/creative-health.htm"
 }

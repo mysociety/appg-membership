@@ -9,28 +9,32 @@
       "name": "David Baines",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Ms Marie Rimmer",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Deputy Chair",
       "name": "Lord Caine",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Secretary",
       "name": "Chris Webb",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,7 @@
     "next_reporting_deadline": "2026-05-15"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
   "index_date": "250212",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250212/rugby-football-league.htm"
 }

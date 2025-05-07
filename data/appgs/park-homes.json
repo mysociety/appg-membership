@@ -9,28 +9,32 @@
       "name": "Sir Christopher Chope",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10103",
-      "mnis_id": "242"
+      "mnis_id": "242",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Rachel Hopkins",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25809",
-      "mnis_id": "4873"
+      "mnis_id": "4873",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mr Joshua Reynolds",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26608",
-      "mnis_id": "5343"
+      "mnis_id": "5343",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dr Ben Spencer",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25889",
-      "mnis_id": "4785"
+      "mnis_id": "4785",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "242",
-        "twfy_id": "uk.org.publicwhip/person/10103"
+        "twfy_id": "uk.org.publicwhip/person/10103",
+        "removed": false
       },
       {
         "name": "VACANT",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Joshua Reynolds",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5343",
-        "twfy_id": "uk.org.publicwhip/person/26608"
+        "twfy_id": "uk.org.publicwhip/person/26608",
+        "removed": false
       },
       {
         "name": "Dr Ben Spencer",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4785",
-        "twfy_id": "uk.org.publicwhip/person/25889"
+        "twfy_id": "uk.org.publicwhip/person/25889",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-01-09"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/park-homes.htm"
 }

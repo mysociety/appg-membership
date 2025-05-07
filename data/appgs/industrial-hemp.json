@@ -9,28 +9,32 @@
       "name": "Ben Lake",
       "party": "Plaid Cymru",
       "twfy_id": "uk.org.publicwhip/person/25669",
-      "mnis_id": "4630"
+      "mnis_id": "4630",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Jones of Penybont",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Sewell of Sanderstead",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jas Athwal",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26439",
-      "mnis_id": "5227"
+      "mnis_id": "5227",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,14 +47,16 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4465",
-        "twfy_id": "uk.org.publicwhip/person/25288"
+        "twfy_id": "uk.org.publicwhip/person/25288",
+        "removed": false
       },
       {
         "name": "Jeff Smith",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4456",
-        "twfy_id": "uk.org.publicwhip/person/25366"
+        "twfy_id": "uk.org.publicwhip/person/25366",
+        "removed": false
       }
     ]
   },
@@ -73,5 +79,7 @@
     "next_reporting_deadline": "2026-07-04"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/industrial-hemp.htm"
 }

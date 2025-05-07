@@ -9,28 +9,32 @@
       "name": "Josh Newbury",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Henry Tufnell",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sir Christopher Chope",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Whitty",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,7 @@
     "next_reporting_deadline": "2025-11-23"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
   "index_date": "250212",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250212/energy-studies.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Dr Jeevun Sandher",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26521",
-      "mnis_id": "5259"
+      "mnis_id": "5259",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "James Naish",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26329",
-      "mnis_id": "5047"
+      "mnis_id": "5047",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Graham Stuart",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/11406",
-      "mnis_id": "1482"
+      "mnis_id": "1482",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Naseby",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13704",
-      "mnis_id": "1251"
+      "mnis_id": "1251",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-10"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/hydrogen.htm"
 }

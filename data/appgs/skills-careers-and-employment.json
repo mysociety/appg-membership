@@ -9,28 +9,32 @@
       "name": "Lauren Edwards",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26597",
-      "mnis_id": "5298"
+      "mnis_id": "5298",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Sir John Hayes",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/21356",
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Garden of Frognal",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Norton of Louth",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,140 +47,160 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5298",
-        "twfy_id": "uk.org.publicwhip/person/26597"
+        "twfy_id": "uk.org.publicwhip/person/26597",
+        "removed": false
       },
       {
         "name": "Sir John Hayes",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": null,
-        "twfy_id": "uk.org.publicwhip/person/21356"
+        "twfy_id": "uk.org.publicwhip/person/21356",
+        "removed": false
       },
       {
         "name": "Lord Norton of Louth",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Sue Garden",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Kenneth Stevenson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5200",
-        "twfy_id": "uk.org.publicwhip/person/26535"
+        "twfy_id": "uk.org.publicwhip/person/26535",
+        "removed": false
       },
       {
         "name": "Gregor Poynton",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5167",
-        "twfy_id": "uk.org.publicwhip/person/26428"
+        "twfy_id": "uk.org.publicwhip/person/26428",
+        "removed": false
       },
       {
         "name": "Lola McEvoy",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5037",
-        "twfy_id": "uk.org.publicwhip/person/26315"
+        "twfy_id": "uk.org.publicwhip/person/26315",
+        "removed": false
       },
       {
         "name": "Darren Paffey",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5270",
-        "twfy_id": "uk.org.publicwhip/person/26431"
+        "twfy_id": "uk.org.publicwhip/person/26431",
+        "removed": false
       },
       {
         "name": "Jayne Kirkham",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5279",
-        "twfy_id": "uk.org.publicwhip/person/26525"
+        "twfy_id": "uk.org.publicwhip/person/26525",
+        "removed": false
       },
       {
         "name": "Jenny Riddell-Carpenter",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5160",
-        "twfy_id": "uk.org.publicwhip/person/26472"
+        "twfy_id": "uk.org.publicwhip/person/26472",
+        "removed": false
       },
       {
         "name": "Antonia Bance",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5048",
-        "twfy_id": "uk.org.publicwhip/person/26342"
+        "twfy_id": "uk.org.publicwhip/person/26342",
+        "removed": false
       },
       {
         "name": "Sarah Hall",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5154",
-        "twfy_id": "uk.org.publicwhip/person/26416"
+        "twfy_id": "uk.org.publicwhip/person/26416",
+        "removed": false
       },
       {
         "name": "Richard Quigley",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5144",
-        "twfy_id": "uk.org.publicwhip/person/26373"
+        "twfy_id": "uk.org.publicwhip/person/26373",
+        "removed": false
       },
       {
         "name": "Lord Jim Knight",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Bruce Aberdare",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord David Blunkett",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Lucas",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "1879",
-        "twfy_id": "uk.org.publicwhip/person/13301"
+        "twfy_id": "uk.org.publicwhip/person/13301",
+        "removed": false
       },
       {
         "name": "Lord Bilimoria, CBE DL",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Watson of Invergowrie",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Willetts",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "53",
-        "twfy_id": "uk.org.publicwhip/person/10637"
+        "twfy_id": "uk.org.publicwhip/person/10637",
+        "removed": false
       }
     ]
   },
@@ -199,5 +223,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/skills-careers-and-employment.htm"
 }

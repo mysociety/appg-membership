@@ -9,28 +9,32 @@
       "name": "David Mundell",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/11970",
-      "mnis_id": "1512"
+      "mnis_id": "1512",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Mendelsohn",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25189",
-      "mnis_id": "4286"
+      "mnis_id": "4286",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Dan Norris",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10458",
-      "mnis_id": "221"
+      "mnis_id": "221",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Polak",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25457",
-      "mnis_id": "4547"
+      "mnis_id": "4547",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-04"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/war-crimes.htm"
 }

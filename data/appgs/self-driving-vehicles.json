@@ -9,28 +9,32 @@
       "name": "Chris Curtis",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26396",
-      "mnis_id": "5118"
+      "mnis_id": "5118",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Gordon McKee",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26462",
-      "mnis_id": "5189"
+      "mnis_id": "5189",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mr Richard Holden",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25893",
-      "mnis_id": "4813"
+      "mnis_id": "4813",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Emily Darlington",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26412",
-      "mnis_id": "5139"
+      "mnis_id": "5139",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/self-driving-vehicles.htm"
 }

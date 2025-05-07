@@ -9,28 +9,32 @@
       "name": "Mr Tanmanjeet Singh Dhesi",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25695",
-      "mnis_id": "4638"
+      "mnis_id": "4638",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness May of Maidenhead",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Ruth Cadbury",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25343",
-      "mnis_id": "4389"
+      "mnis_id": "4389",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Matt Rodda",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25691",
-      "mnis_id": "4654"
+      "mnis_id": "4654",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-13"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/western-rail-link-to-heathrow.htm"
 }

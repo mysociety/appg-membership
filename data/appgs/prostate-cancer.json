@@ -9,28 +9,32 @@
       "name": "Mr Calvin Bailey",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26340",
-      "mnis_id": "5054"
+      "mnis_id": "5054",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Ben Obese-Jecty",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26354",
-      "mnis_id": "5089"
+      "mnis_id": "5089",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Josh Babarinde",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26353",
-      "mnis_id": "5086"
+      "mnis_id": "5086",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Peter Prinsley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26383",
-      "mnis_id": "5163"
+      "mnis_id": "5163",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-04-17"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/prostate-cancer.htm"
 }

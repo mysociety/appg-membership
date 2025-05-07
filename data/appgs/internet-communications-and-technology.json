@@ -9,28 +9,32 @@
       "name": "Dame Caroline Dinenage",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24873",
-      "mnis_id": "4008"
+      "mnis_id": "4008",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Samantha Niblett",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26414",
-      "mnis_id": "5150"
+      "mnis_id": "5150",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Neville-Rolfe",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25205",
-      "mnis_id": "4284"
+      "mnis_id": "4284",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Clement-Jones",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13517",
-      "mnis_id": "3396"
+      "mnis_id": "3396",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,154 +47,176 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4008",
-        "twfy_id": "uk.org.publicwhip/person/24873"
+        "twfy_id": "uk.org.publicwhip/person/24873",
+        "removed": false
       },
       {
         "name": "Samantha Niblett",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5150",
-        "twfy_id": "uk.org.publicwhip/person/26414"
+        "twfy_id": "uk.org.publicwhip/person/26414",
+        "removed": false
       },
       {
         "name": "Lord Clement Jones",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Neville Rolfe",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Alex Sobel",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4658",
-        "twfy_id": "uk.org.publicwhip/person/25680"
+        "twfy_id": "uk.org.publicwhip/person/25680",
+        "removed": false
       },
       {
         "name": "Alison Griffiths",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5203",
-        "twfy_id": "uk.org.publicwhip/person/26536"
+        "twfy_id": "uk.org.publicwhip/person/26536",
+        "removed": false
       },
       {
         "name": "Andrew Pakes",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5243",
-        "twfy_id": "uk.org.publicwhip/person/26601"
+        "twfy_id": "uk.org.publicwhip/person/26601",
+        "removed": false
       },
       {
         "name": "Anna McMorrin",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4632",
-        "twfy_id": "uk.org.publicwhip/person/25647"
+        "twfy_id": "uk.org.publicwhip/person/25647",
+        "removed": false
       },
       {
         "name": "Baroness Bakewell",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4285",
-        "twfy_id": "uk.org.publicwhip/person/25194"
+        "twfy_id": "uk.org.publicwhip/person/25194",
+        "removed": false
       },
       {
         "name": "Baroness Blower",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4724",
-        "twfy_id": "uk.org.publicwhip/person/25777"
+        "twfy_id": "uk.org.publicwhip/person/25777",
+        "removed": false
       },
       {
         "name": "Baroness Finlay",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3609",
-        "twfy_id": "uk.org.publicwhip/person/13471"
+        "twfy_id": "uk.org.publicwhip/person/13471",
+        "removed": false
       },
       {
         "name": "Baroness Hamwee",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "2652",
-        "twfy_id": "uk.org.publicwhip/person/13422"
+        "twfy_id": "uk.org.publicwhip/person/13422",
+        "removed": false
       },
       {
         "name": "Baroness Harding of Winscombe",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Hooper",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "2005",
-        "twfy_id": "uk.org.publicwhip/person/13081"
+        "twfy_id": "uk.org.publicwhip/person/13081",
+        "removed": false
       },
       {
         "name": "Baroness Nicholson of Winterbourne",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Fairhead",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4690",
-        "twfy_id": "uk.org.publicwhip/person/25719"
+        "twfy_id": "uk.org.publicwhip/person/25719",
+        "removed": false
       },
       {
         "name": "Baroness Thornton",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "1782",
-        "twfy_id": "uk.org.publicwhip/person/13543"
+        "twfy_id": "uk.org.publicwhip/person/13543",
+        "removed": false
       },
       {
         "name": "Baroness Uddin",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "1827",
-        "twfy_id": "uk.org.publicwhip/person/13274"
+        "twfy_id": "uk.org.publicwhip/person/13274",
+        "removed": false
       },
       {
         "name": "Baroness Vere of Norbiton",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Watkins of Tavistock",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Bill Esterson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4061",
-        "twfy_id": "uk.org.publicwhip/person/24905"
+        "twfy_id": "uk.org.publicwhip/person/24905",
+        "removed": false
       },
       {
         "name": "Bob Blackman",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4005",
-        "twfy_id": "uk.org.publicwhip/person/24945"
+        "twfy_id": "uk.org.publicwhip/person/24945",
+        "removed": false
       }
     ]
   },
@@ -213,5 +239,71 @@
     "next_reporting_deadline": "2026-02-21"
   },
   "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "Hutchinson 3G Ltd",
+      "Value £s": "6,000",
+      "Received": "24/10/2024",
+      "Registered": "05/11/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "ACT The App Association",
+      "Value £s": "7,500",
+      "Received": "25/10/2024",
+      "Registered": "05/11/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Access Partnership",
+      "Value £s": "2,400",
+      "Received": "19/11/2024",
+      "Registered": "18/11/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Fujitsu",
+      "Value £s": "6,000",
+      "Received": "06/11/2024",
+      "Registered": "03/12/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Cloud NC",
+      "Value £s": "2,880",
+      "Received": "20/03/2025",
+      "Registered": "24/03/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Hutchinson 3G Limited",
+      "Value £s": "7,200",
+      "Received": "14/03/2025",
+      "Registered": "24/03/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Zaizi",
+      "Value £s": "2,880",
+      "Received": "11/03/2025",
+      "Registered": "24/03/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Jisc",
+      "Value £s": "7,200",
+      "Received": "03/03/2025",
+      "Registered": "24/03/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "BT",
+      "Value £s": "7,200",
+      "Received": "20/03/2025",
+      "Registered": "25/03/2025",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/internet-communications-and-technology.htm"
 }

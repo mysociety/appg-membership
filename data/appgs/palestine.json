@@ -9,28 +9,32 @@
       "name": "Debbie Abrahams",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25034",
-      "mnis_id": "4212"
+      "mnis_id": "4212",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Warsi",
       "party": "Non-affiliated",
       "twfy_id": "uk.org.publicwhip/person/13937",
-      "mnis_id": "3839"
+      "mnis_id": "3839",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Andy McDonald",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25169",
-      "mnis_id": "4269"
+      "mnis_id": "4269",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Abtisam Mohamed",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26413",
-      "mnis_id": "5142"
+      "mnis_id": "5142",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-05"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/palestine.htm"
 }

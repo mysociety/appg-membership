@@ -9,28 +9,32 @@
       "name": "Deirdre Costigan",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26384",
-      "mnis_id": "5075"
+      "mnis_id": "5075",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Shinkwin",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25470",
-      "mnis_id": "4557"
+      "mnis_id": "4557",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "David Burton-Sampson",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26442",
-      "mnis_id": "5106"
+      "mnis_id": "5106",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Rachel Blake",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26546",
-      "mnis_id": "5257"
+      "mnis_id": "5257",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-05-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/micromobility.htm"
 }

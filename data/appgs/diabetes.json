@@ -9,28 +9,32 @@
       "name": "Tom Gordon",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26312",
-      "mnis_id": "5032"
+      "mnis_id": "5032",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sarah Bool",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26635",
-      "mnis_id": "5355"
+      "mnis_id": "5355",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Alex McIntyre",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26434",
-      "mnis_id": "5349"
+      "mnis_id": "5349",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Rennard",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13277",
-      "mnis_id": "2484"
+      "mnis_id": "2484",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5032",
-        "twfy_id": "uk.org.publicwhip/person/26312"
+        "twfy_id": "uk.org.publicwhip/person/26312",
+        "removed": false
       },
       {
         "name": "Sarah Bool",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5355",
-        "twfy_id": "uk.org.publicwhip/person/26635"
+        "twfy_id": "uk.org.publicwhip/person/26635",
+        "removed": false
       },
       {
         "name": "The Lord Rennard MBE",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Alex McIntyre",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5349",
-        "twfy_id": "uk.org.publicwhip/person/26434"
+        "twfy_id": "uk.org.publicwhip/person/26434",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-06-12"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/diabetes.htm"
 }

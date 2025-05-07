@@ -9,28 +9,32 @@
       "name": "Luke Myer",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26411",
-      "mnis_id": "5147"
+      "mnis_id": "5147",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Henry Tufnell",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26387",
-      "mnis_id": "5121"
+      "mnis_id": "5121",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Josh Newbury",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26317",
-      "mnis_id": "5034"
+      "mnis_id": "5034",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Charlie Dewhirst",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26461",
-      "mnis_id": "5169"
+      "mnis_id": "5169",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-09"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/carbon-capture-utilisation-and-storage.htm"
 }

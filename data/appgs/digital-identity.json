@@ -9,28 +9,32 @@
       "name": "Dr Allison Gardner",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26621",
-      "mnis_id": "5334"
+      "mnis_id": "5334",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Uddin",
       "party": "Non-affiliated",
       "twfy_id": "uk.org.publicwhip/person/13274",
-      "mnis_id": "1827"
+      "mnis_id": "1827",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "David Williams",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26397",
-      "mnis_id": "5151"
+      "mnis_id": "5151",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Arbuthnot of Edrom",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,140 +47,160 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5334",
-        "twfy_id": "uk.org.publicwhip/person/26621"
+        "twfy_id": "uk.org.publicwhip/person/26621",
+        "removed": false
       },
       {
         "name": "Baroness Uddin",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "1827",
-        "twfy_id": "uk.org.publicwhip/person/13274"
+        "twfy_id": "uk.org.publicwhip/person/13274",
+        "removed": false
       },
       {
         "name": "David Williams",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5151",
-        "twfy_id": "uk.org.publicwhip/person/26397"
+        "twfy_id": "uk.org.publicwhip/person/26397",
+        "removed": false
       },
       {
         "name": "Lord Arbuthnot of Edrom",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Verma",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3790",
-        "twfy_id": "uk.org.publicwhip/person/13730"
+        "twfy_id": "uk.org.publicwhip/person/13730",
+        "removed": false
       },
       {
         "name": "Baroness McGregor-Smith",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4554",
-        "twfy_id": "uk.org.publicwhip/person/25474"
+        "twfy_id": "uk.org.publicwhip/person/25474",
+        "removed": false
       },
       {
         "name": "Baroness Hollins",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4190",
-        "twfy_id": "uk.org.publicwhip/person/25016"
+        "twfy_id": "uk.org.publicwhip/person/25016",
+        "removed": false
       },
       {
         "name": "Baroness Neville-Jones",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3840",
-        "twfy_id": "uk.org.publicwhip/person/13936"
+        "twfy_id": "uk.org.publicwhip/person/13936",
+        "removed": false
       },
       {
         "name": "Baroness Neville Rolfe",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Pidding",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4552",
-        "twfy_id": "uk.org.publicwhip/person/25467"
+        "twfy_id": "uk.org.publicwhip/person/25467",
+        "removed": false
       },
       {
         "name": "Baroness Fulbrook",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Taylor of Warwick",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Bob Blackman",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4005",
-        "twfy_id": "uk.org.publicwhip/person/24945"
+        "twfy_id": "uk.org.publicwhip/person/24945",
+        "removed": false
       },
       {
         "name": "Lord Vaux of Harrowden",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Lucas",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "1879",
-        "twfy_id": "uk.org.publicwhip/person/13301"
+        "twfy_id": "uk.org.publicwhip/person/13301",
+        "removed": false
       },
       {
         "name": "Lord Mackenzie of Framwellgate",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Jo Platt",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4673",
-        "twfy_id": "uk.org.publicwhip/person/25611"
+        "twfy_id": "uk.org.publicwhip/person/25611",
+        "removed": false
       },
       {
         "name": "Lord Holmes",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4294",
-        "twfy_id": "uk.org.publicwhip/person/25208"
+        "twfy_id": "uk.org.publicwhip/person/25208",
+        "removed": false
       },
       {
         "name": "Baroness Williams of Trafford",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Jake Richards",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5082",
-        "twfy_id": "uk.org.publicwhip/person/26486"
+        "twfy_id": "uk.org.publicwhip/person/26486",
+        "removed": false
       }
     ]
   },
@@ -199,5 +223,7 @@
     "next_reporting_deadline": "2026-01-11"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/digital-identity.htm"
 }

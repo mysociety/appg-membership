@@ -9,28 +9,32 @@
       "name": "Mr Richard Holden",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25893",
-      "mnis_id": "4813"
+      "mnis_id": "4813",
+      "removed": false
     },
     {
       "role": "Deputy Chair",
       "name": "Graham Stringer",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10576",
-      "mnis_id": "449"
+      "mnis_id": "449",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Young of Acton",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Cox",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/13559",
-      "mnis_id": "3364"
+      "mnis_id": "3364",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-05-29"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/freedom-of-speech.htm"
 }

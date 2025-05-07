@@ -9,21 +9,24 @@
       "name": "Gavin Robinson",
       "party": "Democratic Unionist Party",
       "twfy_id": "uk.org.publicwhip/person/25280",
-      "mnis_id": "4360"
+      "mnis_id": "4360",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Jones of Moulsecoomb",
       "party": "Green Party",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sir Jeremy Wright",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/11791",
-      "mnis_id": "1560"
+      "mnis_id": "1560",
+      "removed": false
     }
   ],
   "members_list": {
@@ -36,28 +39,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4360",
-        "twfy_id": "uk.org.publicwhip/person/25280"
+        "twfy_id": "uk.org.publicwhip/person/25280",
+        "removed": false
       },
       {
         "name": "John Slinger",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5127",
-        "twfy_id": "uk.org.publicwhip/person/26564"
+        "twfy_id": "uk.org.publicwhip/person/26564",
+        "removed": false
       },
       {
         "name": "Baroness Jones of Moulsecoomb",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Sir Jeremy Wright",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "1560",
-        "twfy_id": "uk.org.publicwhip/person/11791"
+        "twfy_id": "uk.org.publicwhip/person/11791",
+        "removed": false
       }
     ]
   },
@@ -80,5 +87,7 @@
     "next_reporting_deadline": "2025-11-23"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/restorative-justice.htm"
 }

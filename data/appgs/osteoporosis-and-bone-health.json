@@ -9,28 +9,32 @@
       "name": "Sonia Kumar",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26590",
-      "mnis_id": "5274"
+      "mnis_id": "5274",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Black of Brentwood",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Matt Bishop",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26574",
-      "mnis_id": "5323"
+      "mnis_id": "5323",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Chisholm of Owlpen",
       "party": "Non-affiliated",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5274",
-        "twfy_id": "uk.org.publicwhip/person/26590"
+        "twfy_id": "uk.org.publicwhip/person/26590",
+        "removed": false
       },
       {
         "name": "Lord Black of Brentwood",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Matt Bishop",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5323",
-        "twfy_id": "uk.org.publicwhip/person/26574"
+        "twfy_id": "uk.org.publicwhip/person/26574",
+        "removed": false
       },
       {
         "name": "Baroness Chisholm of Owlpen",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-03-12"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/osteoporosis-and-bone-health.htm"
 }

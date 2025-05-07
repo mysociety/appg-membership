@@ -9,28 +9,32 @@
       "name": "Lillian Jones",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26327",
-      "mnis_id": "5043"
+      "mnis_id": "5043",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Steve Witherden",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26583",
-      "mnis_id": "5221"
+      "mnis_id": "5221",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Graham Leadbitter",
       "party": "Scottish National Party",
       "twfy_id": "uk.org.publicwhip/person/26499",
-      "mnis_id": "5277"
+      "mnis_id": "5277",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Harriet Cross",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26538",
-      "mnis_id": "5311"
+      "mnis_id": "5311",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-15"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/wood-panel-industry.htm"
 }

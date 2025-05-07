@@ -9,28 +9,32 @@
       "name": "Mr Jonathan Brash",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26339",
-      "mnis_id": "5045"
+      "mnis_id": "5045",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Garden of Frognal",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Johnson of Marylebone",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Frank McNally",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26424",
-      "mnis_id": "5183"
+      "mnis_id": "5183",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,259 +47,296 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5045",
-        "twfy_id": "uk.org.publicwhip/person/26339"
+        "twfy_id": "uk.org.publicwhip/person/26339",
+        "removed": false
       },
       {
         "name": "Lord Johnson of Marylebone",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Garden of Frognal",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Frack McNally",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5183",
-        "twfy_id": "uk.org.publicwhip/person/26424"
+        "twfy_id": "uk.org.publicwhip/person/26424",
+        "removed": false
       },
       {
         "name": "Neil Duncan-Jordan",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5359",
-        "twfy_id": "uk.org.publicwhip/person/26633"
+        "twfy_id": "uk.org.publicwhip/person/26633",
+        "removed": false
       },
       {
         "name": "Dr Sam Rushworth",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5108",
-        "twfy_id": "uk.org.publicwhip/person/26323"
+        "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
       },
       {
         "name": "Richard Quigley",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5144",
-        "twfy_id": "uk.org.publicwhip/person/26373"
+        "twfy_id": "uk.org.publicwhip/person/26373",
+        "removed": false
       },
       {
         "name": "Lauren Edwards",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5298",
-        "twfy_id": "uk.org.publicwhip/person/26597"
+        "twfy_id": "uk.org.publicwhip/person/26597",
+        "removed": false
       },
       {
         "name": "Gareth Snell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4595",
-        "twfy_id": "uk.org.publicwhip/person/25601"
+        "twfy_id": "uk.org.publicwhip/person/25601",
+        "removed": false
       },
       {
         "name": "Jo White",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5105",
-        "twfy_id": "uk.org.publicwhip/person/26358"
+        "twfy_id": "uk.org.publicwhip/person/26358",
+        "removed": false
       },
       {
         "name": "Sarah Dyke",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4995",
-        "twfy_id": "uk.org.publicwhip/person/26270"
+        "twfy_id": "uk.org.publicwhip/person/26270",
+        "removed": false
       },
       {
         "name": "Will Forster",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5322",
-        "twfy_id": "uk.org.publicwhip/person/26560"
+        "twfy_id": "uk.org.publicwhip/person/26560",
+        "removed": false
       },
       {
         "name": "Zoe Franklin",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5313",
-        "twfy_id": "uk.org.publicwhip/person/26555"
+        "twfy_id": "uk.org.publicwhip/person/26555",
+        "removed": false
       },
       {
         "name": "Pippa Heylings",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5078",
-        "twfy_id": "uk.org.publicwhip/person/26421"
+        "twfy_id": "uk.org.publicwhip/person/26421",
+        "removed": false
       },
       {
         "name": "James Asser",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5211",
-        "twfy_id": "uk.org.publicwhip/person/26594"
+        "twfy_id": "uk.org.publicwhip/person/26594",
+        "removed": false
       },
       {
         "name": "Julia Buckley",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5171",
-        "twfy_id": "uk.org.publicwhip/person/26436"
+        "twfy_id": "uk.org.publicwhip/person/26436",
+        "removed": false
       },
       {
         "name": "Jim Dickson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5223",
-        "twfy_id": "uk.org.publicwhip/person/26547"
+        "twfy_id": "uk.org.publicwhip/person/26547",
+        "removed": false
       },
       {
         "name": "Catherine Atkinson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5143",
-        "twfy_id": "uk.org.publicwhip/person/26405"
+        "twfy_id": "uk.org.publicwhip/person/26405",
+        "removed": false
       },
       {
         "name": "Sharon Hodgson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1521",
-        "twfy_id": "uk.org.publicwhip/person/11592"
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
       },
       {
         "name": "Gill Furniss",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4571",
-        "twfy_id": "uk.org.publicwhip/person/25489"
+        "twfy_id": "uk.org.publicwhip/person/25489",
+        "removed": false
       },
       {
         "name": "Kirith Entwistle",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5095",
-        "twfy_id": "uk.org.publicwhip/person/26378"
+        "twfy_id": "uk.org.publicwhip/person/26378",
+        "removed": false
       },
       {
         "name": "Luke Murphy",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5248",
-        "twfy_id": "uk.org.publicwhip/person/26488"
+        "twfy_id": "uk.org.publicwhip/person/26488",
+        "removed": false
       },
       {
         "name": "The Rt Hon. Lord Blunkett",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "395",
-        "twfy_id": "uk.org.publicwhip/person/10050"
+        "twfy_id": "uk.org.publicwhip/person/10050",
+        "removed": false
       },
       {
         "name": "Lord Austin of Dudley",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "The Rt Hon Sir Gavin Williamson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4108",
-        "twfy_id": "uk.org.publicwhip/person/24729"
+        "twfy_id": "uk.org.publicwhip/person/24729",
+        "removed": false
       },
       {
         "name": "Sarah Champion",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4267",
-        "twfy_id": "uk.org.publicwhip/person/25168"
+        "twfy_id": "uk.org.publicwhip/person/25168",
+        "removed": false
       },
       {
         "name": "Baroness Whitaker",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "2510",
-        "twfy_id": "uk.org.publicwhip/person/12957"
+        "twfy_id": "uk.org.publicwhip/person/12957",
+        "removed": false
       },
       {
         "name": "Lord Addington",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3453",
-        "twfy_id": "uk.org.publicwhip/person/13368"
+        "twfy_id": "uk.org.publicwhip/person/13368",
+        "removed": false
       },
       {
         "name": "Lord Aberdare",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3898",
-        "twfy_id": "uk.org.publicwhip/person/24696"
+        "twfy_id": "uk.org.publicwhip/person/24696",
+        "removed": false
       },
       {
         "name": "Lord Storey CBE",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4238",
-        "twfy_id": "uk.org.publicwhip/person/25060"
+        "twfy_id": "uk.org.publicwhip/person/25060",
+        "removed": false
       },
       {
         "name": "The Rt Hon Baroness Morris of Yardley",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Afzal Khan CBE",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4671",
-        "twfy_id": "uk.org.publicwhip/person/25662"
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
       },
       {
         "name": "Lord Watson of Invergowrie",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Wolf of Dulwich DBE",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Dan Aldridge",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5172",
-        "twfy_id": "uk.org.publicwhip/person/26453"
+        "twfy_id": "uk.org.publicwhip/person/26453",
+        "removed": false
       },
       {
         "name": "The Rt Hon. John McDonnell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "178",
-        "twfy_id": "uk.org.publicwhip/person/10383"
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
       },
       {
         "name": "Leigh Ingham",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5290",
-        "twfy_id": "uk.org.publicwhip/person/26392"
+        "twfy_id": "uk.org.publicwhip/person/26392",
+        "removed": false
       }
     ]
   },
@@ -318,5 +359,7 @@
     "next_reporting_deadline": "2026-05-21"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/further-education-and-lifelong-learning.htm"
 }

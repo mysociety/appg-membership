@@ -9,28 +9,32 @@
       "name": "Danny Kruger",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25913",
-      "mnis_id": "4858"
+      "mnis_id": "4858",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "The Lord Bishop of Southwark",
       "party": "Bishops",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Cat Smith",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25432",
-      "mnis_id": "4436"
+      "mnis_id": "4436",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sir Edward Leigh",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10352",
-      "mnis_id": "345"
+      "mnis_id": "345",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4858",
-        "twfy_id": "uk.org.publicwhip/person/25913"
+        "twfy_id": "uk.org.publicwhip/person/25913",
+        "removed": false
       },
       {
         "name": "The Lord Bishop of Southwark",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Cat Smith",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4436",
-        "twfy_id": "uk.org.publicwhip/person/25432"
+        "twfy_id": "uk.org.publicwhip/person/25432",
+        "removed": false
       },
       {
         "name": "Sir Edward Leigh",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "345",
-        "twfy_id": "uk.org.publicwhip/person/10352"
+        "twfy_id": "uk.org.publicwhip/person/10352",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-02-22"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/christianity-in-the-holy-land.htm"
 }

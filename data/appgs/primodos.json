@@ -9,28 +9,32 @@
       "name": "Yasmin Qureshi",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24775",
-      "mnis_id": "3924"
+      "mnis_id": "3924",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ed Davey",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/10155",
-      "mnis_id": "188"
+      "mnis_id": "188",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Esther McVey",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24882",
-      "mnis_id": "4084"
+      "mnis_id": "4084",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Perran Moon",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26482",
-      "mnis_id": "5208"
+      "mnis_id": "5208",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-06-04"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/primodos.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Rachel Taylor",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26478",
-      "mnis_id": "5065"
+      "mnis_id": "5065",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Hain",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10252",
-      "mnis_id": "567"
+      "mnis_id": "567",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dr Kieran Mullan",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25883",
-      "mnis_id": "4860"
+      "mnis_id": "4860",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord St John of Bletso",
       "party": "Crossbench",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/south-africa.htm"
 }

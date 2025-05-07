@@ -9,28 +9,32 @@
       "name": "Peter Swallow",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26369",
-      "mnis_id": "5165"
+      "mnis_id": "5165",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Tristan Osborne",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26589",
-      "mnis_id": "5220"
+      "mnis_id": "5220",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness O'Neill of Bexley",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sam Carling",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26558",
-      "mnis_id": "5308"
+      "mnis_id": "5308",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,189 +47,216 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5165",
-        "twfy_id": "uk.org.publicwhip/person/26369"
+        "twfy_id": "uk.org.publicwhip/person/26369",
+        "removed": false
       },
       {
         "name": "Tristan Osborne",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5220",
-        "twfy_id": "uk.org.publicwhip/person/26589"
+        "twfy_id": "uk.org.publicwhip/person/26589",
+        "removed": false
       },
       {
         "name": "Sam Carling",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5308",
-        "twfy_id": "uk.org.publicwhip/person/26558"
+        "twfy_id": "uk.org.publicwhip/person/26558",
+        "removed": false
       },
       {
         "name": "Baroness O'Neill",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "4967",
-        "twfy_id": "uk.org.publicwhip/person/26110"
+        "twfy_id": "uk.org.publicwhip/person/26110",
+        "removed": false
       },
       {
         "name": "Dave Robertson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5126",
-        "twfy_id": "uk.org.publicwhip/person/26374"
+        "twfy_id": "uk.org.publicwhip/person/26374",
+        "removed": false
       },
       {
         "name": "Baroness Morris of Yardley",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Blower",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4724",
-        "twfy_id": "uk.org.publicwhip/person/25777"
+        "twfy_id": "uk.org.publicwhip/person/25777",
+        "removed": false
       },
       {
         "name": "Sharon Hodgson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1521",
-        "twfy_id": "uk.org.publicwhip/person/11592"
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
       },
       {
         "name": "Kim Johnson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4824",
-        "twfy_id": "uk.org.publicwhip/person/25803"
+        "twfy_id": "uk.org.publicwhip/person/25803",
+        "removed": false
       },
       {
         "name": "Lord Hampton",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4951",
-        "twfy_id": "uk.org.publicwhip/person/26096"
+        "twfy_id": "uk.org.publicwhip/person/26096",
+        "removed": false
       },
       {
         "name": "Lord Aberdare",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3898",
-        "twfy_id": "uk.org.publicwhip/person/24696"
+        "twfy_id": "uk.org.publicwhip/person/24696",
+        "removed": false
       },
       {
         "name": "Lord Storey",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4238",
-        "twfy_id": "uk.org.publicwhip/person/25060"
+        "twfy_id": "uk.org.publicwhip/person/25060",
+        "removed": false
       },
       {
         "name": "Lord Watson of Invergowrie",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Natalie Fleet",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5053",
-        "twfy_id": "uk.org.publicwhip/person/26343"
+        "twfy_id": "uk.org.publicwhip/person/26343",
+        "removed": false
       },
       {
         "name": "Amanda Martin",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5294",
-        "twfy_id": "uk.org.publicwhip/person/26430"
+        "twfy_id": "uk.org.publicwhip/person/26430",
+        "removed": false
       },
       {
         "name": "Andy McNae",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5134",
-        "twfy_id": "uk.org.publicwhip/person/26391"
+        "twfy_id": "uk.org.publicwhip/person/26391",
+        "removed": false
       },
       {
         "name": "Chris Vince",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5237",
-        "twfy_id": "uk.org.publicwhip/person/26350"
+        "twfy_id": "uk.org.publicwhip/person/26350",
+        "removed": false
       },
       {
         "name": "Ellie Chowns",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5249",
-        "twfy_id": "uk.org.publicwhip/person/26577"
+        "twfy_id": "uk.org.publicwhip/person/26577",
+        "removed": false
       },
       {
         "name": "Ian Byrne",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4831",
-        "twfy_id": "uk.org.publicwhip/person/25816"
+        "twfy_id": "uk.org.publicwhip/person/25816",
+        "removed": false
       },
       {
         "name": "Jack Abbott",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5131",
-        "twfy_id": "uk.org.publicwhip/person/26385"
+        "twfy_id": "uk.org.publicwhip/person/26385",
+        "removed": false
       },
       {
         "name": "Jodie Gosling",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5036",
-        "twfy_id": "uk.org.publicwhip/person/26314"
+        "twfy_id": "uk.org.publicwhip/person/26314",
+        "removed": false
       },
       {
         "name": "Marie Goldman",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5073",
-        "twfy_id": "uk.org.publicwhip/person/26338"
+        "twfy_id": "uk.org.publicwhip/person/26338",
+        "removed": false
       },
       {
         "name": "Mark Sewards",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5166",
-        "twfy_id": "uk.org.publicwhip/person/26440"
+        "twfy_id": "uk.org.publicwhip/person/26440",
+        "removed": false
       },
       {
         "name": "Rachael Maskell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4471",
-        "twfy_id": "uk.org.publicwhip/person/25433"
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
       },
       {
         "name": "Rupa Huq",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4511",
-        "twfy_id": "uk.org.publicwhip/person/25284"
+        "twfy_id": "uk.org.publicwhip/person/25284",
+        "removed": false
       },
       {
         "name": "Sam Rushworth",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5108",
-        "twfy_id": "uk.org.publicwhip/person/26323"
+        "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
       },
       {
         "name": "Lord Knight of Weymouth",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -248,5 +279,7 @@
     "next_reporting_deadline": "2026-03-26"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/schools-learning-and-assessment.htm"
 }

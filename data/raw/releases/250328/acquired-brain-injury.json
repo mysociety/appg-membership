@@ -9,28 +9,32 @@
       "name": "Sir John Hayes",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Andy McDonald",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Morris of Yardley",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ian Byrne",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,7 @@
     "next_reporting_deadline": "2026-07-05"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
   "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/acquired-brain-injury.htm"
 }

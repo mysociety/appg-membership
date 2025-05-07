@@ -9,28 +9,32 @@
       "name": "Blair McDougall",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26490",
-      "mnis_id": "5076"
+      "mnis_id": "5076",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sir Iain Duncan Smith",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10180",
-      "mnis_id": "152"
+      "mnis_id": "152",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Alton of Liverpool",
       "party": "Crossbench",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Irene Campbell",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26419",
-      "mnis_id": "5145"
+      "mnis_id": "5145",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,77 +47,88 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "3924",
-        "twfy_id": "uk.org.publicwhip/person/24775"
+        "twfy_id": "uk.org.publicwhip/person/24775",
+        "removed": false
       },
       {
         "name": "Rt Hon Alistair Carmichael",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "1442",
-        "twfy_id": "uk.org.publicwhip/person/10785"
+        "twfy_id": "uk.org.publicwhip/person/10785",
+        "removed": false
       },
       {
         "name": "Afzal Khan",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4671",
-        "twfy_id": "uk.org.publicwhip/person/25662"
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
       },
       {
         "name": "Lord Alton of Liverpool",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Anderson of Ipswich",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Nusrat Ghani",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4460",
-        "twfy_id": "uk.org.publicwhip/person/25354"
+        "twfy_id": "uk.org.publicwhip/person/25354",
+        "removed": false
       },
       {
         "name": "Lyn Brown",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "1583",
-        "twfy_id": "uk.org.publicwhip/person/11921"
+        "twfy_id": "uk.org.publicwhip/person/11921",
+        "removed": false
       },
       {
         "name": "Chris Law",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4403",
-        "twfy_id": "uk.org.publicwhip/person/25270"
+        "twfy_id": "uk.org.publicwhip/person/25270",
+        "removed": false
       },
       {
         "name": "Mark Pritchard",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "1576",
-        "twfy_id": "uk.org.publicwhip/person/11946"
+        "twfy_id": "uk.org.publicwhip/person/11946",
+        "removed": false
       },
       {
         "name": "Coalition for Genocide Response",
         "is_officer": true,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Arise Foundation",
         "is_officer": true,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -136,5 +151,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/uyghurs.htm"
 }

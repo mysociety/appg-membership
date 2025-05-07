@@ -9,28 +9,32 @@
       "name": "Chi Onwurah",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24807",
-      "mnis_id": "4124"
+      "mnis_id": "4124",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Oates",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25464",
-      "mnis_id": "4549"
+      "mnis_id": "4549",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dame Harriett Baldwin",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24785",
-      "mnis_id": "4107"
+      "mnis_id": "4107",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Kate Osamor",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/25365",
-      "mnis_id": "4515"
+      "mnis_id": "4515",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,175 +47,200 @@
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "147",
-        "twfy_id": "uk.org.publicwhip/person/10052"
+        "twfy_id": "uk.org.publicwhip/person/10052",
+        "removed": false
       },
       {
         "name": "Chi Onwurah",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4124",
-        "twfy_id": "uk.org.publicwhip/person/24807"
+        "twfy_id": "uk.org.publicwhip/person/24807",
+        "removed": false
       },
       {
         "name": "Lord Jonny Oates",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Harriett Baldwin",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4107",
-        "twfy_id": "uk.org.publicwhip/person/24785"
+        "twfy_id": "uk.org.publicwhip/person/24785",
+        "removed": false
       },
       {
         "name": "Kate Osamor",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4515",
-        "twfy_id": "uk.org.publicwhip/person/25365"
+        "twfy_id": "uk.org.publicwhip/person/25365",
+        "removed": false
       },
       {
         "name": "Sam Rushworth",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5108",
-        "twfy_id": "uk.org.publicwhip/person/26323"
+        "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
       },
       {
         "name": "Lord David Alton",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Alex Ballinger",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5238",
-        "twfy_id": "uk.org.publicwhip/person/26580"
+        "twfy_id": "uk.org.publicwhip/person/26580",
+        "removed": false
       },
       {
         "name": "Calvin Bailey",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5054",
-        "twfy_id": "uk.org.publicwhip/person/26340"
+        "twfy_id": "uk.org.publicwhip/person/26340",
+        "removed": false
       },
       {
         "name": "Lord Henry Bellingham",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Ellie Chowns",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5249",
-        "twfy_id": "uk.org.publicwhip/person/26577"
+        "twfy_id": "uk.org.publicwhip/person/26577",
+        "removed": false
       },
       {
         "name": "Anna Gelderd",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5353",
-        "twfy_id": "uk.org.publicwhip/person/26618"
+        "twfy_id": "uk.org.publicwhip/person/26618",
+        "removed": false
       },
       {
         "name": "Monica Harding",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5299",
-        "twfy_id": "uk.org.publicwhip/person/26516"
+        "twfy_id": "uk.org.publicwhip/person/26516",
+        "removed": false
       },
       {
         "name": "Baroness Gloria Hooper",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Jack McConnell",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Calum Miller",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5346",
-        "twfy_id": "uk.org.publicwhip/person/26617"
+        "twfy_id": "uk.org.publicwhip/person/26617",
+        "removed": false
       },
       {
         "name": "Brian Matthew",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5214",
-        "twfy_id": "uk.org.publicwhip/person/26509"
+        "twfy_id": "uk.org.publicwhip/person/26509",
+        "removed": false
       },
       {
         "name": "Baroness Lindsay Northover",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Taiwo Owatemi",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4779",
-        "twfy_id": "uk.org.publicwhip/person/25915"
+        "twfy_id": "uk.org.publicwhip/person/25915",
+        "removed": false
       },
       {
         "name": "Lord Dolar Popat",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Bell Ribeiro Addy",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4764",
-        "twfy_id": "uk.org.publicwhip/person/25856"
+        "twfy_id": "uk.org.publicwhip/person/25856",
+        "removed": false
       },
       {
         "name": "Baroness Shas Sheehan",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Anthony St John",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Manzilla Uddin",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Melanie Ward",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5240",
-        "twfy_id": "uk.org.publicwhip/person/26610"
+        "twfy_id": "uk.org.publicwhip/person/26610",
+        "removed": false
       }
     ]
   },
@@ -234,5 +263,7 @@
     "next_reporting_deadline": "2026-01-12"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/africa.htm"
 }

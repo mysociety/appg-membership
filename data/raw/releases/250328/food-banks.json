@@ -9,28 +9,32 @@
       "name": "Wendy Chamberlain",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Neil Coyle",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "John Glen",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "The Lord Bishop of Manchester",
       "party": "Bishops",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,7 @@
     "next_reporting_deadline": "2026-02-23"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
   "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/food-banks.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Ruth Jones",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25746",
-      "mnis_id": "4716"
+      "mnis_id": "4716",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "The Lord Bishop of Bristol",
       "party": "Bishops",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sam Carling",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26558",
-      "mnis_id": "5308"
+      "mnis_id": "5308",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Stewart of Dirleton",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,217 +47,248 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4716",
-        "twfy_id": "uk.org.publicwhip/person/25746"
+        "twfy_id": "uk.org.publicwhip/person/25746",
+        "removed": false
       },
       {
         "name": "The Lord Bishop of Bristol, Viv Faull",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Sam Carling",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5308",
-        "twfy_id": "uk.org.publicwhip/person/26558"
+        "twfy_id": "uk.org.publicwhip/person/26558",
+        "removed": false
       },
       {
         "name": "Lord Keith Stewart of Dirleton",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Polly Billington",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5123",
-        "twfy_id": "uk.org.publicwhip/person/26360"
+        "twfy_id": "uk.org.publicwhip/person/26360",
+        "removed": false
       },
       {
         "name": "Lord Clive Brooke of Alverthorpe",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "The Lord Bishop of Manchester, David Walker",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Shelia Hollins",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "The Lord Bishop of Newcastle, Helen-Ann Hartley",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Afzal Khan",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4671",
-        "twfy_id": "uk.org.publicwhip/person/25662"
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
       },
       {
         "name": "Gurinder Josan",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5059",
-        "twfy_id": "uk.org.publicwhip/person/26348"
+        "twfy_id": "uk.org.publicwhip/person/26348",
+        "removed": false
       },
       {
         "name": "John Glen",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4051",
-        "twfy_id": "uk.org.publicwhip/person/24839"
+        "twfy_id": "uk.org.publicwhip/person/24839",
+        "removed": false
       },
       {
         "name": "Preet Kaur Gill",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4603",
-        "twfy_id": "uk.org.publicwhip/person/25666"
+        "twfy_id": "uk.org.publicwhip/person/25666",
+        "removed": false
       },
       {
         "name": "Sarah Champion",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4267",
-        "twfy_id": "uk.org.publicwhip/person/25168"
+        "twfy_id": "uk.org.publicwhip/person/25168",
+        "removed": false
       },
       {
         "name": "Rachael Maskell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4471",
-        "twfy_id": "uk.org.publicwhip/person/25433"
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
       },
       {
         "name": "Marsha de Cordova",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4676",
-        "twfy_id": "uk.org.publicwhip/person/25620"
+        "twfy_id": "uk.org.publicwhip/person/25620",
+        "removed": false
       },
       {
         "name": "Rosie Duffield",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4616",
-        "twfy_id": "uk.org.publicwhip/person/25656"
+        "twfy_id": "uk.org.publicwhip/person/25656",
+        "removed": false
       },
       {
         "name": "Tim Farron",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1591",
-        "twfy_id": "uk.org.publicwhip/person/11923"
+        "twfy_id": "uk.org.publicwhip/person/11923",
+        "removed": false
       },
       {
         "name": "Lord James Weir",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Rebecca Smith",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5301",
-        "twfy_id": "uk.org.publicwhip/person/26512"
+        "twfy_id": "uk.org.publicwhip/person/26512",
+        "removed": false
       },
       {
         "name": "Luke Myer",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5147",
-        "twfy_id": "uk.org.publicwhip/person/26411"
+        "twfy_id": "uk.org.publicwhip/person/26411",
+        "removed": false
       },
       {
         "name": "Baroness Kath Pinnock",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Monica Harding",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5299",
-        "twfy_id": "uk.org.publicwhip/person/26516"
+        "twfy_id": "uk.org.publicwhip/person/26516",
+        "removed": false
       },
       {
         "name": "Baroness Tanni Grey-Thompson",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Donald Curry of Kirkharle",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Michael Farmer",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Richard Harries of Pentregarth",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Monroe Palmer of Childs Hill",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Cat Smith",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4436",
-        "twfy_id": "uk.org.publicwhip/person/25432"
+        "twfy_id": "uk.org.publicwhip/person/25432",
+        "removed": false
       },
       {
         "name": "The Lord Bishop of Gloucester, Rachel Treweek",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Nuala O’Loan",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -276,5 +311,7 @@
     "next_reporting_deadline": "2026-05-27"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/safeguarding-in-faith-communities.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Dr Neil Hudson",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25875",
-      "mnis_id": "4853"
+      "mnis_id": "4853",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Trees",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/25162",
-      "mnis_id": "4260"
+      "mnis_id": "4260",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dr Danny Chambers",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26607",
-      "mnis_id": "5304"
+      "mnis_id": "5304",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Johanna Baxter",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26375",
-      "mnis_id": "5063"
+      "mnis_id": "5063",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,581 +47,664 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4853",
-        "twfy_id": "uk.org.publicwhip/person/25875"
+        "twfy_id": "uk.org.publicwhip/person/25875",
+        "removed": false
       },
       {
         "name": "Professor the Lord Trees",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Danny Chambers MP",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5304",
-        "twfy_id": "uk.org.publicwhip/person/26607"
+        "twfy_id": "uk.org.publicwhip/person/26607",
+        "removed": false
       },
       {
         "name": "Johanna Baxter MP",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5063",
-        "twfy_id": "uk.org.publicwhip/person/26375"
+        "twfy_id": "uk.org.publicwhip/person/26375",
+        "removed": false
       },
       {
         "name": "Irene Campbell MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5145",
-        "twfy_id": "uk.org.publicwhip/person/26419"
+        "twfy_id": "uk.org.publicwhip/person/26419",
+        "removed": false
       },
       {
         "name": "Adrian Ramsay MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5320",
-        "twfy_id": "uk.org.publicwhip/person/26514"
+        "twfy_id": "uk.org.publicwhip/person/26514",
+        "removed": false
       },
       {
         "name": "Sarah Edwards MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5001",
-        "twfy_id": "uk.org.publicwhip/person/26277"
+        "twfy_id": "uk.org.publicwhip/person/26277",
+        "removed": false
       },
       {
         "name": "Ruth Jones MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4716",
-        "twfy_id": "uk.org.publicwhip/person/25746"
+        "twfy_id": "uk.org.publicwhip/person/25746",
+        "removed": false
       },
       {
         "name": "Cat Eccles MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5293",
-        "twfy_id": "uk.org.publicwhip/person/26587"
+        "twfy_id": "uk.org.publicwhip/person/26587",
+        "removed": false
       },
       {
         "name": "Becky Gittons MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5181",
-        "twfy_id": "uk.org.publicwhip/person/26568"
+        "twfy_id": "uk.org.publicwhip/person/26568",
+        "removed": false
       },
       {
         "name": "Imogen Walker MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5136",
-        "twfy_id": "uk.org.publicwhip/person/26409"
+        "twfy_id": "uk.org.publicwhip/person/26409",
+        "removed": false
       },
       {
         "name": "Andrew Rosindell MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1447",
-        "twfy_id": "uk.org.publicwhip/person/11199"
+        "twfy_id": "uk.org.publicwhip/person/11199",
+        "removed": false
       },
       {
         "name": "Louie French MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4932",
-        "twfy_id": "uk.org.publicwhip/person/26055"
+        "twfy_id": "uk.org.publicwhip/person/26055",
+        "removed": false
       },
       {
         "name": "Rachel Maskell MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4471",
-        "twfy_id": "uk.org.publicwhip/person/25433"
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
       },
       {
         "name": "Gill Furniss MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4571",
-        "twfy_id": "uk.org.publicwhip/person/25489"
+        "twfy_id": "uk.org.publicwhip/person/25489",
+        "removed": false
       },
       {
         "name": "James Naish MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5047",
-        "twfy_id": "uk.org.publicwhip/person/26329"
+        "twfy_id": "uk.org.publicwhip/person/26329",
+        "removed": false
       },
       {
         "name": "Sarah Champion MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4267",
-        "twfy_id": "uk.org.publicwhip/person/25168"
+        "twfy_id": "uk.org.publicwhip/person/25168",
+        "removed": false
       },
       {
         "name": "Andrew George MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "227",
-        "twfy_id": "uk.org.publicwhip/person/10222"
+        "twfy_id": "uk.org.publicwhip/person/10222",
+        "removed": false
       },
       {
         "name": "Emma Foody MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5029",
-        "twfy_id": "uk.org.publicwhip/person/26311"
+        "twfy_id": "uk.org.publicwhip/person/26311",
+        "removed": false
       },
       {
         "name": "Sarah Dyke MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4995",
-        "twfy_id": "uk.org.publicwhip/person/26270"
+        "twfy_id": "uk.org.publicwhip/person/26270",
+        "removed": false
       },
       {
         "name": "Sian Berry MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5314",
-        "twfy_id": "uk.org.publicwhip/person/25752"
+        "twfy_id": "uk.org.publicwhip/person/25752",
+        "removed": false
       },
       {
         "name": "Lord de Clifford",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4997",
-        "twfy_id": "uk.org.publicwhip/person/26274"
+        "twfy_id": "uk.org.publicwhip/person/26274",
+        "removed": false
       },
       {
         "name": "Lord Bradley",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "452",
-        "twfy_id": "uk.org.publicwhip/person/10059"
+        "twfy_id": "uk.org.publicwhip/person/10059",
+        "removed": false
       },
       {
         "name": "Dr Neil Hudson",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4853",
-        "twfy_id": "uk.org.publicwhip/person/25875"
+        "twfy_id": "uk.org.publicwhip/person/25875",
+        "removed": false
       },
       {
         "name": "Professor The Lord Trees",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Danny Chambers",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5304",
-        "twfy_id": "uk.org.publicwhip/person/26607"
+        "twfy_id": "uk.org.publicwhip/person/26607",
+        "removed": false
       },
       {
         "name": "Johanna Baxter",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5063",
-        "twfy_id": "uk.org.publicwhip/person/26375"
+        "twfy_id": "uk.org.publicwhip/person/26375",
+        "removed": false
       },
       {
         "name": "Irene Campbell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5145",
-        "twfy_id": "uk.org.publicwhip/person/26419"
+        "twfy_id": "uk.org.publicwhip/person/26419",
+        "removed": false
       },
       {
         "name": "Adrian Ramsay",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5320",
-        "twfy_id": "uk.org.publicwhip/person/26514"
+        "twfy_id": "uk.org.publicwhip/person/26514",
+        "removed": false
       },
       {
         "name": "Sarah Edwards",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5001",
-        "twfy_id": "uk.org.publicwhip/person/26277"
+        "twfy_id": "uk.org.publicwhip/person/26277",
+        "removed": false
       },
       {
         "name": "Ruth Jones",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4716",
-        "twfy_id": "uk.org.publicwhip/person/25746"
+        "twfy_id": "uk.org.publicwhip/person/25746",
+        "removed": false
       },
       {
         "name": "Cat Eccles",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5293",
-        "twfy_id": "uk.org.publicwhip/person/26587"
+        "twfy_id": "uk.org.publicwhip/person/26587",
+        "removed": false
       },
       {
         "name": "Becky Gittons",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5181",
-        "twfy_id": "uk.org.publicwhip/person/26568"
+        "twfy_id": "uk.org.publicwhip/person/26568",
+        "removed": false
       },
       {
         "name": "Imogen Walker",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5136",
-        "twfy_id": "uk.org.publicwhip/person/26409"
+        "twfy_id": "uk.org.publicwhip/person/26409",
+        "removed": false
       },
       {
         "name": "Andrew Rosindell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1447",
-        "twfy_id": "uk.org.publicwhip/person/11199"
+        "twfy_id": "uk.org.publicwhip/person/11199",
+        "removed": false
       },
       {
         "name": "Louie French",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4932",
-        "twfy_id": "uk.org.publicwhip/person/26055"
+        "twfy_id": "uk.org.publicwhip/person/26055",
+        "removed": false
       },
       {
         "name": "Rachel Maskell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4471",
-        "twfy_id": "uk.org.publicwhip/person/25433"
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
       },
       {
         "name": "Gill Furniss",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4571",
-        "twfy_id": "uk.org.publicwhip/person/25489"
+        "twfy_id": "uk.org.publicwhip/person/25489",
+        "removed": false
       },
       {
         "name": "James Naish",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5047",
-        "twfy_id": "uk.org.publicwhip/person/26329"
+        "twfy_id": "uk.org.publicwhip/person/26329",
+        "removed": false
       },
       {
         "name": "Sarah Champion",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4267",
-        "twfy_id": "uk.org.publicwhip/person/25168"
+        "twfy_id": "uk.org.publicwhip/person/25168",
+        "removed": false
       },
       {
         "name": "Andrew George",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "227",
-        "twfy_id": "uk.org.publicwhip/person/10222"
+        "twfy_id": "uk.org.publicwhip/person/10222",
+        "removed": false
       },
       {
         "name": "Emma Foody",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5029",
-        "twfy_id": "uk.org.publicwhip/person/26311"
+        "twfy_id": "uk.org.publicwhip/person/26311",
+        "removed": false
       },
       {
         "name": "Sarah Dyke",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4995",
-        "twfy_id": "uk.org.publicwhip/person/26270"
+        "twfy_id": "uk.org.publicwhip/person/26270",
+        "removed": false
       },
       {
         "name": "Sian Berry",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5314",
-        "twfy_id": "uk.org.publicwhip/person/25752"
+        "twfy_id": "uk.org.publicwhip/person/25752",
+        "removed": false
       },
       {
         "name": "Animal Defenders International",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "ALAW",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Animal Free Research UK",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Battersea",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "BASC",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Blue Cross",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Born Free Foundation",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Brooke Animal Charity",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "BSAVA",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "CIWF",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Companion Animal Sector Council",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Country Landowners Association",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Countryside Alliance",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Cruelty Free International",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Dog Breeding Reform Group",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Dogs for Good",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Dogs Trust",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "The Donkey Sanctuary",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Freedom for Animals",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Four Paws",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Humane Slaughter Association",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Humane Society International",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "IFAW",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "League Against Cruel Sports",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Mayhew Animal Home",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "National Anti-Vivisection Society",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "One Kind",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "One Voice for Animals UK",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "PDSA",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "PETA",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "PfMA",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Pets as Therapy",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Redwings",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "RSPCA",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Wild Futures",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Woodgreen Animal Charity",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "World Horse Welfare",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Neil Hudson",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4853",
-        "twfy_id": "uk.org.publicwhip/person/25875"
+        "twfy_id": "uk.org.publicwhip/person/25875",
+        "removed": false
       },
       {
         "name": "Lord De Clifford",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4997",
-        "twfy_id": "uk.org.publicwhip/person/26274"
+        "twfy_id": "uk.org.publicwhip/person/26274",
+        "removed": false
       }
     ]
   },
@@ -640,5 +727,7 @@
     "next_reporting_deadline": "2026-02-22"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/animal-welfare.htm"
 }

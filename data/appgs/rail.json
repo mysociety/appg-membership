@@ -9,28 +9,32 @@
       "name": "Martin Vickers",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24814",
-      "mnis_id": "3957"
+      "mnis_id": "3957",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Berkeley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25179",
-      "mnis_id": "4276"
+      "mnis_id": "4276",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Grey-Thompson",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/24707",
-      "mnis_id": "3862"
+      "mnis_id": "3862",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Catherine Atkinson",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26405",
-      "mnis_id": "5143"
+      "mnis_id": "5143",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-03"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/rail.htm"
 }

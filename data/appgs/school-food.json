@@ -9,28 +9,32 @@
       "name": "Mrs Sharon Hodgson",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/11592",
-      "mnis_id": "1521"
+      "mnis_id": "1521",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Munira Wilson",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25820",
-      "mnis_id": "4776"
+      "mnis_id": "4776",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Blower",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25777",
-      "mnis_id": "4724"
+      "mnis_id": "4724",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Wasserman",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25037",
-      "mnis_id": "4207"
+      "mnis_id": "4207",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-22"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/school-food.htm"
 }

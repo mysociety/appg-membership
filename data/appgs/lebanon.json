@@ -9,28 +9,32 @@
       "name": "Sir John Hayes",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/21356",
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Dubs",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/13000",
-      "mnis_id": "805"
+      "mnis_id": "805",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Nicholson of Winterbourne",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sir Edward Leigh",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10352",
-      "mnis_id": "345"
+      "mnis_id": "345",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-16"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/lebanon.htm"
 }

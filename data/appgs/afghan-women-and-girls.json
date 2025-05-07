@@ -9,28 +9,32 @@
       "name": "Wendy Chamberlain",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25872",
-      "mnis_id": "4765"
+      "mnis_id": "4765",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sir Julian Lewis",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10358",
-      "mnis_id": "54"
+      "mnis_id": "54",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Alice Macdonald",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26450",
-      "mnis_id": "5133"
+      "mnis_id": "5133",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness D'Souza",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/13444",
-      "mnis_id": "3709"
+      "mnis_id": "3709",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-04-17"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/afghan-women-and-girls.htm"
 }

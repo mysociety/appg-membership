@@ -9,21 +9,24 @@
       "name": "Kit Malthouse",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord West of Spithead",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Sharpe of Epsom",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -51,6 +54,7 @@
     "next_reporting_deadline": "2026-02-14"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
   "index_date": "250102",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/cyber-security-and-business-resilience.htm"
 }

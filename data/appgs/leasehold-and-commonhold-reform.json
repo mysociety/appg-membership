@@ -9,28 +9,32 @@
       "name": "Mike Amesbury",
       "party": "Independent",
       "twfy_id": "uk.org.publicwhip/person/25702",
-      "mnis_id": "4667"
+      "mnis_id": "4667",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Neil O'Brien",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25679",
-      "mnis_id": "4679"
+      "mnis_id": "4679",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Amanda Hack",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26449",
-      "mnis_id": "5149"
+      "mnis_id": "5149",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Jack Abbott",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26385",
-      "mnis_id": "5131"
+      "mnis_id": "5131",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-08"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/leasehold-and-commonhold-reform.htm"
 }

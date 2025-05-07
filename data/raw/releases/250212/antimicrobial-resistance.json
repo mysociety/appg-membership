@@ -9,28 +9,32 @@
       "name": "Dr Beccy Cooper",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Mackinlay of Richborough",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Secretary",
       "name": "Dr Danny Chambers",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Baroness Bennett of Manor Castle",
       "party": "Green Party",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,7 @@
     "next_reporting_deadline": "2026-05-21"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
   "index_date": "250212",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250212/antimicrobial-resistance.htm"
 }

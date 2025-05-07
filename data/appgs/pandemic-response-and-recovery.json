@@ -9,28 +9,32 @@
       "name": "Esther McVey",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24882",
-      "mnis_id": "4084"
+      "mnis_id": "4084",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Graham Stringer",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10576",
-      "mnis_id": "449"
+      "mnis_id": "449",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sammy Wilson",
       "party": "Democratic Unionist Party",
       "twfy_id": "uk.org.publicwhip/person/11374",
-      "mnis_id": "1593"
+      "mnis_id": "1593",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sir Christopher Chope",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10103",
-      "mnis_id": "242"
+      "mnis_id": "242",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,140 +47,160 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "449",
-        "twfy_id": "uk.org.publicwhip/person/10576"
+        "twfy_id": "uk.org.publicwhip/person/10576",
+        "removed": false
       },
       {
         "name": "Rt Hon Esther McVey",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4084",
-        "twfy_id": "uk.org.publicwhip/person/24882"
+        "twfy_id": "uk.org.publicwhip/person/24882",
+        "removed": false
       },
       {
         "name": "Rt Hon Sammy Wilson",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "1593",
-        "twfy_id": "uk.org.publicwhip/person/11374"
+        "twfy_id": "uk.org.publicwhip/person/11374",
+        "removed": false
       },
       {
         "name": "Sir Christopher Chope",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "242",
-        "twfy_id": "uk.org.publicwhip/person/10103"
+        "twfy_id": "uk.org.publicwhip/person/10103",
+        "removed": false
       },
       {
         "name": "Sir Iain Duncan Smith",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "152",
-        "twfy_id": "uk.org.publicwhip/person/10180"
+        "twfy_id": "uk.org.publicwhip/person/10180",
+        "removed": false
       },
       {
         "name": "Yasmin Qureshi",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "3924",
-        "twfy_id": "uk.org.publicwhip/person/24775"
+        "twfy_id": "uk.org.publicwhip/person/24775",
+        "removed": false
       },
       {
         "name": "Lord Frost",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4879",
-        "twfy_id": "uk.org.publicwhip/person/25943"
+        "twfy_id": "uk.org.publicwhip/person/25943",
+        "removed": false
       },
       {
         "name": "Lord Alton of Liverpool",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Danny Kruger",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4858",
-        "twfy_id": "uk.org.publicwhip/person/25913"
+        "twfy_id": "uk.org.publicwhip/person/25913",
+        "removed": false
       },
       {
         "name": "Lord Reay",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4713",
-        "twfy_id": "uk.org.publicwhip/person/25744"
+        "twfy_id": "uk.org.publicwhip/person/25744",
+        "removed": false
       },
       {
         "name": "Baroness Foster of Oxton",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Lilley",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "68",
-        "twfy_id": "uk.org.publicwhip/person/10362"
+        "twfy_id": "uk.org.publicwhip/person/10362",
+        "removed": false
       },
       {
         "name": "Lord Ashcombe",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4957",
-        "twfy_id": "uk.org.publicwhip/person/26100"
+        "twfy_id": "uk.org.publicwhip/person/26100",
+        "removed": false
       },
       {
         "name": "Rupert Lowe",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5158",
-        "twfy_id": "uk.org.publicwhip/person/26361"
+        "twfy_id": "uk.org.publicwhip/person/26361",
+        "removed": false
       },
       {
         "name": "The Earl of Leicester",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Morrissey",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4881",
-        "twfy_id": "uk.org.publicwhip/person/25946"
+        "twfy_id": "uk.org.publicwhip/person/25946",
+        "removed": false
       },
       {
         "name": "Lord Brady of Altrincham",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Strathcarron",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4937",
-        "twfy_id": "uk.org.publicwhip/person/26060"
+        "twfy_id": "uk.org.publicwhip/person/26060",
+        "removed": false
       },
       {
         "name": "Baroness Fox of Buckley",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Robathan",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "334",
-        "twfy_id": "uk.org.publicwhip/person/10503"
+        "twfy_id": "uk.org.publicwhip/person/10503",
+        "removed": false
       }
     ]
   },
@@ -199,5 +223,7 @@
     "next_reporting_deadline": "2026-02-14"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/pandemic-response-and-recovery.htm"
 }

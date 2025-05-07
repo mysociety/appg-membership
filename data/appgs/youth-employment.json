@@ -9,28 +9,32 @@
       "name": "Mims Davies",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25330",
-      "mnis_id": "4513"
+      "mnis_id": "4513",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Rosie Wrighting",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26615",
-      "mnis_id": "5331"
+      "mnis_id": "5331",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Caroline Johnson",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25597",
-      "mnis_id": "4592"
+      "mnis_id": "4592",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Josh Dean",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26456",
-      "mnis_id": "5187"
+      "mnis_id": "5187",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4513",
-        "twfy_id": "uk.org.publicwhip/person/25330"
+        "twfy_id": "uk.org.publicwhip/person/25330",
+        "removed": false
       },
       {
         "name": "Rosie Wrighting",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5331",
-        "twfy_id": "uk.org.publicwhip/person/26615"
+        "twfy_id": "uk.org.publicwhip/person/26615",
+        "removed": false
       },
       {
         "name": "Josh Dean",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5187",
-        "twfy_id": "uk.org.publicwhip/person/26456"
+        "twfy_id": "uk.org.publicwhip/person/26456",
+        "removed": false
       },
       {
         "name": "Dr Caroline Johnson",
         "is_officer": true,
         "member_type": "other",
         "mnis_id": "4592",
-        "twfy_id": "uk.org.publicwhip/person/25597"
+        "twfy_id": "uk.org.publicwhip/person/25597",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-04-04"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/youth-employment.htm"
 }

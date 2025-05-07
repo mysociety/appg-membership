@@ -9,28 +9,32 @@
       "name": "Martin Rhodes",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26575",
-      "mnis_id": "5251"
+      "mnis_id": "5251",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "John Lamont",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/14026",
-      "mnis_id": "4608"
+      "mnis_id": "4608",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Ann Davies",
       "party": "Plaid Cymru",
       "twfy_id": "uk.org.publicwhip/person/26359",
-      "mnis_id": "5177"
+      "mnis_id": "5177",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Rupa Huq",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25284",
-      "mnis_id": "4511"
+      "mnis_id": "4511",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,49 +47,56 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5251",
-        "twfy_id": "uk.org.publicwhip/person/26575"
+        "twfy_id": "uk.org.publicwhip/person/26575",
+        "removed": false
       },
       {
         "name": "John Lamont",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4608",
-        "twfy_id": "uk.org.publicwhip/person/14026"
+        "twfy_id": "uk.org.publicwhip/person/14026",
+        "removed": false
       },
       {
         "name": "Rupa Huq",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4511",
-        "twfy_id": "uk.org.publicwhip/person/25284"
+        "twfy_id": "uk.org.publicwhip/person/25284",
+        "removed": false
       },
       {
         "name": "Ann Davies",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5177",
-        "twfy_id": "uk.org.publicwhip/person/26359"
+        "twfy_id": "uk.org.publicwhip/person/26359",
+        "removed": false
       },
       {
         "name": "Ben Coleman",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5344",
-        "twfy_id": "uk.org.publicwhip/person/26602"
+        "twfy_id": "uk.org.publicwhip/person/26602",
+        "removed": false
       },
       {
         "name": "Rachael Maskell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4471",
-        "twfy_id": "uk.org.publicwhip/person/25433"
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
       },
       {
         "name": "Warinder Juss",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5230",
-        "twfy_id": "uk.org.publicwhip/person/26533"
+        "twfy_id": "uk.org.publicwhip/person/26533",
+        "removed": false
       }
     ]
   },
@@ -108,5 +119,7 @@
     "next_reporting_deadline": "2026-06-12"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/fairtrade.htm"
 }

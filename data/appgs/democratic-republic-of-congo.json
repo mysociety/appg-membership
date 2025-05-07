@@ -9,28 +9,32 @@
       "name": "Sir Gavin Williamson",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24729",
-      "mnis_id": "4108"
+      "mnis_id": "4108",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Gordon McKee",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26462",
-      "mnis_id": "5189"
+      "mnis_id": "5189",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Verma",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13730",
-      "mnis_id": "3790"
+      "mnis_id": "3790",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Adam Jogee",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26541",
-      "mnis_id": "5168"
+      "mnis_id": "5168",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-16"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/democratic-republic-of-congo.htm"
 }

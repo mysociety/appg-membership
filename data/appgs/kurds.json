@@ -9,28 +9,32 @@
       "name": "Steve Race",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26345",
-      "mnis_id": "5064"
+      "mnis_id": "5064",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Verma",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13730",
-      "mnis_id": "3790"
+      "mnis_id": "3790",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Blower",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25777",
-      "mnis_id": "4724"
+      "mnis_id": "4724",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Peter Lamb",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26612",
-      "mnis_id": "5345"
+      "mnis_id": "5345",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-07-10"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/kurds.htm"
 }

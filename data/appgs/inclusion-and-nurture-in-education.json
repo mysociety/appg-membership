@@ -9,28 +9,32 @@
       "name": "Sarah Hall",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26416",
-      "mnis_id": "5154"
+      "mnis_id": "5154",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Mott",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26259",
-      "mnis_id": "4984"
+      "mnis_id": "4984",
+      "removed": false
     },
     {
       "role": "Secretary",
       "name": "Jo Platt",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/25611",
-      "mnis_id": "4673"
+      "mnis_id": "4673",
+      "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Graeme Downie",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26503",
-      "mnis_id": "5275"
+      "mnis_id": "5275",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-05"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/inclusion-and-nurture-in-education.htm"
 }

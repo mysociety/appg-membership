@@ -9,28 +9,32 @@
       "name": "Luke Taylor",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26443",
-      "mnis_id": "5103"
+      "mnis_id": "5103",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Foster of Oxton",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Graeme Downie",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26503",
-      "mnis_id": "5275"
+      "mnis_id": "5275",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Gavin Robinson",
       "party": "Democratic Unionist Party",
       "twfy_id": "uk.org.publicwhip/person/25280",
-      "mnis_id": "4360"
+      "mnis_id": "4360",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-03"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/aviation-travel-and-aerospace.htm"
 }

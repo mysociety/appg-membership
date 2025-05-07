@@ -9,21 +9,24 @@
       "name": "Lord Sharkey",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25022",
-      "mnis_id": "4196"
+      "mnis_id": "4196",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Josh Dean",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26456",
-      "mnis_id": "5187"
+      "mnis_id": "5187",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lewis Cocking",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26316",
-      "mnis_id": "5050"
+      "mnis_id": "5050",
+      "removed": false
     }
   ],
   "members_list": {
@@ -51,5 +54,7 @@
     "next_reporting_deadline": "2026-02-08"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/future-of-financial-services.htm"
 }

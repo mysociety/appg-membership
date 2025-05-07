@@ -9,28 +9,32 @@
       "name": "Wendy Chamberlain",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25872",
-      "mnis_id": "4765"
+      "mnis_id": "4765",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Graham Leadbitter",
       "party": "Scottish National Party",
       "twfy_id": "uk.org.publicwhip/person/26499",
-      "mnis_id": "5277"
+      "mnis_id": "5277",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Douglas McAllister",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26334",
-      "mnis_id": "5057"
+      "mnis_id": "5057",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Andrew Bowie",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25703",
-      "mnis_id": "4601"
+      "mnis_id": "4601",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-02"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/scotch-whisky.htm"
 }

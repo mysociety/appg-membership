@@ -9,28 +9,32 @@
       "name": "Gill Furniss",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25489",
-      "mnis_id": "4571"
+      "mnis_id": "4571",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Elliott of Mickle Fell",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "The Earl of Lindsay",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mark Sewards",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26440",
-      "mnis_id": "5166"
+      "mnis_id": "5166",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4571",
-        "twfy_id": "uk.org.publicwhip/person/25489"
+        "twfy_id": "uk.org.publicwhip/person/25489",
+        "removed": false
       },
       {
         "name": "Baron Elliott of Mickle Fell",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "The Earl of Lindsay",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Mark Sewards",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5166",
-        "twfy_id": "uk.org.publicwhip/person/26440"
+        "twfy_id": "uk.org.publicwhip/person/26440",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-06-12"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/consumer-protection.htm"
 }

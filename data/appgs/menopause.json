@@ -9,28 +9,32 @@
       "name": "Carolyn Harris",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25308",
-      "mnis_id": "4480"
+      "mnis_id": "4480",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Simon Hoare",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25427",
-      "mnis_id": "4494"
+      "mnis_id": "4494",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Kirsteen Sullivan",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26501",
-      "mnis_id": "5179"
+      "mnis_id": "5179",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Susan Murray",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26429",
-      "mnis_id": "5157"
+      "mnis_id": "5157",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-22"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/menopause.htm"
 }

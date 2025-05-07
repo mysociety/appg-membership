@@ -9,28 +9,32 @@
       "name": "Helen Morgan",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26056",
-      "mnis_id": "4934"
+      "mnis_id": "4934",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sir Ashley Fox",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26370",
-      "mnis_id": "5101"
+      "mnis_id": "5101",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Julia Buckley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26436",
-      "mnis_id": "5171"
+      "mnis_id": "5171",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness McIntosh of Pickering",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-16"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/flooding-and-flooded-communities.htm"
 }

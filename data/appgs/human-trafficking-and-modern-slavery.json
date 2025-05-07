@@ -9,28 +9,32 @@
       "name": "Dame Karen Bradley",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24725",
-      "mnis_id": "4110"
+      "mnis_id": "4110",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Butler-Sloss",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/13879",
-      "mnis_id": "3804"
+      "mnis_id": "3804",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Rosena Allin-Khan",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25579",
-      "mnis_id": "4573"
+      "mnis_id": "4573",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Tom Collins",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26351",
-      "mnis_id": "5087"
+      "mnis_id": "5087",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4110",
-        "twfy_id": "uk.org.publicwhip/person/24725"
+        "twfy_id": "uk.org.publicwhip/person/24725",
+        "removed": false
       },
       {
         "name": "Baroness Elizabeth Butler-Sloss",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Dr. Rosena Allin-Khan",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4573",
-        "twfy_id": "uk.org.publicwhip/person/25579"
+        "twfy_id": "uk.org.publicwhip/person/25579",
+        "removed": false
       },
       {
         "name": "Tom Collins",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5087",
-        "twfy_id": "uk.org.publicwhip/person/26351"
+        "twfy_id": "uk.org.publicwhip/person/26351",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-03-20"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/human-trafficking-and-modern-slavery.htm"
 }

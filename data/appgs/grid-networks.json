@@ -9,28 +9,32 @@
       "name": "Mary Glindon",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24927",
-      "mnis_id": "4126"
+      "mnis_id": "4126",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Arbuthnot of Edrom",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Tom Collins",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26351",
-      "mnis_id": "5087"
+      "mnis_id": "5087",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Mark Ferguson",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26310",
-      "mnis_id": "5031"
+      "mnis_id": "5031",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,161 +47,184 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4126",
-        "twfy_id": "uk.org.publicwhip/person/24927"
+        "twfy_id": "uk.org.publicwhip/person/24927",
+        "removed": false
       },
       {
         "name": "The Rt Hon. the Lord Arbuthnot of Edrom",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Alex Sobel",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4658",
-        "twfy_id": "uk.org.publicwhip/person/25680"
+        "twfy_id": "uk.org.publicwhip/person/25680",
+        "removed": false
       },
       {
         "name": "Ben Goldborough",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5205",
-        "twfy_id": "uk.org.publicwhip/person/26530"
+        "twfy_id": "uk.org.publicwhip/person/26530",
+        "removed": false
       },
       {
         "name": "Bill Esterson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4061",
-        "twfy_id": "uk.org.publicwhip/person/24905"
+        "twfy_id": "uk.org.publicwhip/person/24905",
+        "removed": false
       },
       {
         "name": "Dave Doogan",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4736",
-        "twfy_id": "uk.org.publicwhip/person/25796"
+        "twfy_id": "uk.org.publicwhip/person/25796",
+        "removed": false
       },
       {
         "name": "David Smith",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5218",
-        "twfy_id": "uk.org.publicwhip/person/26606"
+        "twfy_id": "uk.org.publicwhip/person/26606",
+        "removed": false
       },
       {
         "name": "Edward Morello",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5326",
-        "twfy_id": "uk.org.publicwhip/person/26604"
+        "twfy_id": "uk.org.publicwhip/person/26604",
+        "removed": false
       },
       {
         "name": "Emma Lewell-Buck",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4277",
-        "twfy_id": "uk.org.publicwhip/person/25181"
+        "twfy_id": "uk.org.publicwhip/person/25181",
+        "removed": false
       },
       {
         "name": "Graeme Downie",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5275",
-        "twfy_id": "uk.org.publicwhip/person/26503"
+        "twfy_id": "uk.org.publicwhip/person/26503",
+        "removed": false
       },
       {
         "name": "Grahame Morris",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "3973",
-        "twfy_id": "uk.org.publicwhip/person/24715"
+        "twfy_id": "uk.org.publicwhip/person/24715",
+        "removed": false
       },
       {
         "name": "Helen Morgan",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4934",
-        "twfy_id": "uk.org.publicwhip/person/26056"
+        "twfy_id": "uk.org.publicwhip/person/26056",
+        "removed": false
       },
       {
         "name": "Jack Abbott",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5131",
-        "twfy_id": "uk.org.publicwhip/person/26385"
+        "twfy_id": "uk.org.publicwhip/person/26385",
+        "removed": false
       },
       {
         "name": "Joe Morris",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5081",
-        "twfy_id": "uk.org.publicwhip/person/26468"
+        "twfy_id": "uk.org.publicwhip/person/26468",
+        "removed": false
       },
       {
         "name": "Julie Buckley",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5171",
-        "twfy_id": "uk.org.publicwhip/person/26436"
+        "twfy_id": "uk.org.publicwhip/person/26436",
+        "removed": false
       },
       {
         "name": "Julie Minns",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5094",
-        "twfy_id": "uk.org.publicwhip/person/26403"
+        "twfy_id": "uk.org.publicwhip/person/26403",
+        "removed": false
       },
       {
         "name": "The Rt Hon. the Lord David Howell of Guildford",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "The Rt Hon. the Lord Livingston of Parkhead",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "The Rt Hon. the Lord Naseby",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "1251",
-        "twfy_id": "uk.org.publicwhip/person/13704"
+        "twfy_id": "uk.org.publicwhip/person/13704",
+        "removed": false
       },
       {
         "name": "The Rt Hon. the Lord Lucas and Dingwall",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "The Rt Hon. the Lord Teverson",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3789",
-        "twfy_id": "uk.org.publicwhip/person/13732"
+        "twfy_id": "uk.org.publicwhip/person/13732",
+        "removed": false
       },
       {
         "name": "Mark Ferguson",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5031",
-        "twfy_id": "uk.org.publicwhip/person/26310"
+        "twfy_id": "uk.org.publicwhip/person/26310",
+        "removed": false
       },
       {
         "name": "Tom Collins",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5087",
-        "twfy_id": "uk.org.publicwhip/person/26351"
+        "twfy_id": "uk.org.publicwhip/person/26351",
+        "removed": false
       }
     ]
   },
@@ -220,5 +247,7 @@
     "next_reporting_deadline": "2026-01-09"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/grid-networks.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Alex Ballinger",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26580",
-      "mnis_id": "5238"
+      "mnis_id": "5238",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Mr Paul Foster",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26487",
-      "mnis_id": "5074"
+      "mnis_id": "5074",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Amanda Martin",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26430",
-      "mnis_id": "5294"
+      "mnis_id": "5294",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ben Obese-Jecty",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26354",
-      "mnis_id": "5089"
+      "mnis_id": "5089",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-21"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/armed-forces.htm"
 }

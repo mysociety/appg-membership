@@ -9,28 +9,32 @@
       "name": "Dr Rosena Allin-Khan",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25579",
-      "mnis_id": "4573"
+      "mnis_id": "4573",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jeremy Hunt",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/11859",
-      "mnis_id": "1572"
+      "mnis_id": "1572",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Wera Hobhouse",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25648",
-      "mnis_id": "4602"
+      "mnis_id": "4602",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Peter Prinsley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26383",
-      "mnis_id": "5163"
+      "mnis_id": "5163",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-06-12"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/emergency-care.htm"
 }

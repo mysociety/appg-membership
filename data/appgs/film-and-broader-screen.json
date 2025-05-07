@@ -9,28 +9,32 @@
       "name": "Nick Smith",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24728",
-      "mnis_id": "3928"
+      "mnis_id": "3928",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Mendoza",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25952",
-      "mnis_id": "4890"
+      "mnis_id": "4890",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Keeley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/11943",
-      "mnis_id": "1588"
+      "mnis_id": "1588",
+      "removed": false
     },
     {
       "role": "Secretary",
       "name": "Gill German",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26394",
-      "mnis_id": "5104"
+      "mnis_id": "5104",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/film-and-broader-screen.htm"
 }

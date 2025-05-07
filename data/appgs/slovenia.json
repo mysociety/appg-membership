@@ -9,28 +9,32 @@
       "name": "Dr Beccy Cooper",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26515",
-      "mnis_id": "5307"
+      "mnis_id": "5307",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord German",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/24984",
-      "mnis_id": "4163"
+      "mnis_id": "4163",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Gregory Stafford",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26626",
-      "mnis_id": "5351"
+      "mnis_id": "5351",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Aberdare",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/24696",
-      "mnis_id": "3898"
+      "mnis_id": "3898",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-23"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/slovenia.htm"
 }

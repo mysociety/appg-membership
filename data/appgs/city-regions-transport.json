@@ -9,28 +9,32 @@
       "name": "Mr Clive Betts",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10045",
-      "mnis_id": "394"
+      "mnis_id": "394",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Laurence Turner",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26517",
-      "mnis_id": "5234"
+      "mnis_id": "5234",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Siân Berry",
       "party": "Green Party",
       "twfy_id": "uk.org.publicwhip/person/25752",
-      "mnis_id": "5314"
+      "mnis_id": "5314",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord McLoughlin",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10397",
-      "mnis_id": "333"
+      "mnis_id": "333",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,147 +47,168 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "394",
-        "twfy_id": "uk.org.publicwhip/person/10045"
+        "twfy_id": "uk.org.publicwhip/person/10045",
+        "removed": false
       },
       {
         "name": "Laurence Turner",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5234",
-        "twfy_id": "uk.org.publicwhip/person/26517"
+        "twfy_id": "uk.org.publicwhip/person/26517",
+        "removed": false
       },
       {
         "name": "Sian Berry",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5314",
-        "twfy_id": "uk.org.publicwhip/person/25752"
+        "twfy_id": "uk.org.publicwhip/person/25752",
+        "removed": false
       },
       {
         "name": "The Rt Hon. the Lord McLoughlin CH",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Alex Sobel",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4658",
-        "twfy_id": "uk.org.publicwhip/person/25680"
+        "twfy_id": "uk.org.publicwhip/person/25680",
+        "removed": false
       },
       {
         "name": "Elsie Blundell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5084",
-        "twfy_id": "uk.org.publicwhip/person/26481"
+        "twfy_id": "uk.org.publicwhip/person/26481",
+        "removed": false
       },
       {
         "name": "Baroness Pidgeon MBE",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Jo Platt",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4673",
-        "twfy_id": "uk.org.publicwhip/person/25611"
+        "twfy_id": "uk.org.publicwhip/person/25611",
+        "removed": false
       },
       {
         "name": "Tom Hayes",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5210",
-        "twfy_id": "uk.org.publicwhip/person/26566"
+        "twfy_id": "uk.org.publicwhip/person/26566",
+        "removed": false
       },
       {
         "name": "Baroness Vere of Norbiton",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Liz Twist",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4618",
-        "twfy_id": "uk.org.publicwhip/person/25623"
+        "twfy_id": "uk.org.publicwhip/person/25623",
+        "removed": false
       },
       {
         "name": "Connor Naismith",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5273",
-        "twfy_id": "uk.org.publicwhip/person/26506"
+        "twfy_id": "uk.org.publicwhip/person/26506",
+        "removed": false
       },
       {
         "name": "Sharon Hodgson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1521",
-        "twfy_id": "uk.org.publicwhip/person/11592"
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
       },
       {
         "name": "Jon Pearce",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5115",
-        "twfy_id": "uk.org.publicwhip/person/26362"
+        "twfy_id": "uk.org.publicwhip/person/26362",
+        "removed": false
       },
       {
         "name": "Daniel Francis",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5184",
-        "twfy_id": "uk.org.publicwhip/person/26493"
+        "twfy_id": "uk.org.publicwhip/person/26493",
+        "removed": false
       },
       {
         "name": "Emma Lewell-Buck",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4277",
-        "twfy_id": "uk.org.publicwhip/person/25181"
+        "twfy_id": "uk.org.publicwhip/person/25181",
+        "removed": false
       },
       {
         "name": "Lord Berkeley OBE",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4276",
-        "twfy_id": "uk.org.publicwhip/person/25179"
+        "twfy_id": "uk.org.publicwhip/person/25179",
+        "removed": false
       },
       {
         "name": "Rachael Maskell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4471",
-        "twfy_id": "uk.org.publicwhip/person/25433"
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
       },
       {
         "name": "Afzal Khan",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4671",
-        "twfy_id": "uk.org.publicwhip/person/25662"
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
       },
       {
         "name": "James Frith",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4637",
-        "twfy_id": "uk.org.publicwhip/person/25622"
+        "twfy_id": "uk.org.publicwhip/person/25622",
+        "removed": false
       },
       {
         "name": "Rt Hon. the Lord Brady of Altrincham",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -206,5 +231,7 @@
     "next_reporting_deadline": "2026-04-11"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/city-regions-transport.htm"
 }

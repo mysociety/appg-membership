@@ -9,21 +9,24 @@
       "name": "Martin Vickers",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24814",
-      "mnis_id": "3957"
+      "mnis_id": "3957",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Dr Rosena Allin-Khan",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25579",
-      "mnis_id": "4573"
+      "mnis_id": "4573",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dan Carden",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25642",
-      "mnis_id": "4651"
+      "mnis_id": "4651",
+      "removed": false
     }
   ],
   "members_list": {
@@ -36,70 +39,80 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "1566",
-        "twfy_id": "uk.org.publicwhip/person/11817"
+        "twfy_id": "uk.org.publicwhip/person/11817",
+        "removed": false
       },
       {
         "name": "Lord Rogan",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "2478",
-        "twfy_id": "uk.org.publicwhip/person/13330"
+        "twfy_id": "uk.org.publicwhip/person/13330",
+        "removed": false
       },
       {
         "name": "Viscount Waverley",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "1744",
-        "twfy_id": "uk.org.publicwhip/person/12899"
+        "twfy_id": "uk.org.publicwhip/person/12899",
+        "removed": false
       },
       {
         "name": "Sir Jeffrey Donaldson",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "650",
-        "twfy_id": "uk.org.publicwhip/person/10172"
+        "twfy_id": "uk.org.publicwhip/person/10172",
+        "removed": false
       },
       {
         "name": "Martin Vickers",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "3957",
-        "twfy_id": "uk.org.publicwhip/person/24814"
+        "twfy_id": "uk.org.publicwhip/person/24814",
+        "removed": false
       },
       {
         "name": "Robert Halfon",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "3985",
-        "twfy_id": "uk.org.publicwhip/person/24784"
+        "twfy_id": "uk.org.publicwhip/person/24784",
+        "removed": false
       },
       {
         "name": "Bob Stewart",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "3919",
-        "twfy_id": "uk.org.publicwhip/person/24907"
+        "twfy_id": "uk.org.publicwhip/person/24907",
+        "removed": false
       },
       {
         "name": "Rupa Huq",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4511",
-        "twfy_id": "uk.org.publicwhip/person/25284"
+        "twfy_id": "uk.org.publicwhip/person/25284",
+        "removed": false
       },
       {
         "name": "Andrew Slaughter",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "1516",
-        "twfy_id": "uk.org.publicwhip/person/11559"
+        "twfy_id": "uk.org.publicwhip/person/11559",
+        "removed": false
       },
       {
         "name": "Lord Panteg",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -122,5 +135,7 @@
     "next_reporting_deadline": "2026-01-04"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/poland.htm"
 }

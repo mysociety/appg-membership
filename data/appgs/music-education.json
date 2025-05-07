@@ -9,28 +9,32 @@
       "name": "Bambos Charalambous",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25676",
-      "mnis_id": "4610"
+      "mnis_id": "4610",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Keeley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/11943",
-      "mnis_id": "1588"
+      "mnis_id": "1588",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Black of Brentwood",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Anna Sabine",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26497",
-      "mnis_id": "5286"
+      "mnis_id": "5286",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,63 +47,72 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4610",
-        "twfy_id": "uk.org.publicwhip/person/25676"
+        "twfy_id": "uk.org.publicwhip/person/25676",
+        "removed": false
       },
       {
         "name": "Baroness Keeley",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "1588",
-        "twfy_id": "uk.org.publicwhip/person/11943"
+        "twfy_id": "uk.org.publicwhip/person/11943",
+        "removed": false
       },
       {
         "name": "Baron Black of Brentwood",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Anna Sabine",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5286",
-        "twfy_id": "uk.org.publicwhip/person/26497"
+        "twfy_id": "uk.org.publicwhip/person/26497",
+        "removed": false
       },
       {
         "name": "Polly Billington",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5123",
-        "twfy_id": "uk.org.publicwhip/person/26360"
+        "twfy_id": "uk.org.publicwhip/person/26360",
+        "removed": false
       },
       {
         "name": "Wera Hobhouse",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4602",
-        "twfy_id": "uk.org.publicwhip/person/25648"
+        "twfy_id": "uk.org.publicwhip/person/25648",
+        "removed": false
       },
       {
         "name": "Baroness McIntosh of Hudnall",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Simon Opher",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5030",
-        "twfy_id": "uk.org.publicwhip/person/26313"
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
       },
       {
         "name": "John Slinger",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5127",
-        "twfy_id": "uk.org.publicwhip/person/26564"
+        "twfy_id": "uk.org.publicwhip/person/26564",
+        "removed": false
       }
     ]
   },
@@ -122,5 +135,7 @@
     "next_reporting_deadline": "2026-02-22"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/music-education.htm"
 }

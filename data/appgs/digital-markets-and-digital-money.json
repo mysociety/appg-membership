@@ -9,28 +9,32 @@
       "name": "Lauren Edwards",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26597",
-      "mnis_id": "5298"
+      "mnis_id": "5298",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Ranger of Northwood",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Blake Stephenson",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26355",
-      "mnis_id": "5100"
+      "mnis_id": "5100",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Verma",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13730",
-      "mnis_id": "3790"
+      "mnis_id": "3790",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,105 +47,120 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5298",
-        "twfy_id": "uk.org.publicwhip/person/26597"
+        "twfy_id": "uk.org.publicwhip/person/26597",
+        "removed": false
       },
       {
         "name": "Lord Ranger of Northwood",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Verma",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "3790",
-        "twfy_id": "uk.org.publicwhip/person/13730"
+        "twfy_id": "uk.org.publicwhip/person/13730",
+        "removed": false
       },
       {
         "name": "Blake Stephenson",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5100",
-        "twfy_id": "uk.org.publicwhip/person/26355"
+        "twfy_id": "uk.org.publicwhip/person/26355",
+        "removed": false
       },
       {
         "name": "De La Rue",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "DFMI",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "UCL",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "City, University of London",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Paul Sisnett",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Andrew Henderson",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Keith Bear",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Kunal Jhanji",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Brunello Rosa",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Geoffery Goodell",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Muhammad Tanoli",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -164,5 +183,7 @@
     "next_reporting_deadline": "2026-02-21"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/digital-markets-and-digital-money.htm"
 }

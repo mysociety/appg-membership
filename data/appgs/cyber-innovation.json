@@ -9,28 +9,32 @@
       "name": "Dan Aldridge",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26453",
-      "mnis_id": "5172"
+      "mnis_id": "5172",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Max Wilkinson",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26344",
-      "mnis_id": "5055"
+      "mnis_id": "5055",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sarah Edwards",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26277",
-      "mnis_id": "5001"
+      "mnis_id": "5001",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "John Glen",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24839",
-      "mnis_id": "4051"
+      "mnis_id": "4051",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-04-18"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/cyber-innovation.htm"
 }

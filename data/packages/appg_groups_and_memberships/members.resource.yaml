@@ -108,4 +108,12 @@ schema:
     constraints:
       unique: false
     example: None
-hash: 481516c98b4a15a287f24b9930aa8262
+  - name: removed
+    type: string
+    description: Is this a previous member who is no longer a member.
+    constraints:
+      unique: false
+      enum:
+      - 'False'
+    example: 'False'
+hash: daaa8f21c39dde2a3e4f5ef3a1897886

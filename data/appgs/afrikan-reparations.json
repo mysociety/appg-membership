@@ -9,28 +9,32 @@
       "name": "Bell Ribeiro-Addy",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25856",
-      "mnis_id": "4764"
+      "mnis_id": "4764",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Clive Lewis",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25356",
-      "mnis_id": "4500"
+      "mnis_id": "4500",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Vaizey of Didcot",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Ms Diane Abbott",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10001",
-      "mnis_id": "172"
+      "mnis_id": "172",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,140 +47,160 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4764",
-        "twfy_id": "uk.org.publicwhip/person/25856"
+        "twfy_id": "uk.org.publicwhip/person/25856",
+        "removed": false
       },
       {
         "name": "Clive Lewis",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4500",
-        "twfy_id": "uk.org.publicwhip/person/25356"
+        "twfy_id": "uk.org.publicwhip/person/25356",
+        "removed": false
       },
       {
         "name": "The Rt. Hon. Diane Abbott",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "172",
-        "twfy_id": "uk.org.publicwhip/person/10001"
+        "twfy_id": "uk.org.publicwhip/person/10001",
+        "removed": false
       },
       {
         "name": "Lord Ed Vaizey",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Dawn Butler",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "1489",
-        "twfy_id": "uk.org.publicwhip/person/11447"
+        "twfy_id": "uk.org.publicwhip/person/11447",
+        "removed": false
       },
       {
         "name": "Kate Osamor",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4515",
-        "twfy_id": "uk.org.publicwhip/person/25365"
+        "twfy_id": "uk.org.publicwhip/person/25365",
+        "removed": false
       },
       {
         "name": "The Rt. Hon. Jeremy Corbyn",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "185",
-        "twfy_id": "uk.org.publicwhip/person/10133"
+        "twfy_id": "uk.org.publicwhip/person/10133",
+        "removed": false
       },
       {
         "name": "The Rt. Hon. Baroness Shami Chakrabarti",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Christine Blower",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord John Hendy KC",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Simon Woolley",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Doreen Lawrence",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Apsana Begum",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4790",
-        "twfy_id": "uk.org.publicwhip/person/25914"
+        "twfy_id": "uk.org.publicwhip/person/25914",
+        "removed": false
       },
       {
         "name": "Marsha De Cordova",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4676",
-        "twfy_id": "uk.org.publicwhip/person/25620"
+        "twfy_id": "uk.org.publicwhip/person/25620",
+        "removed": false
       },
       {
         "name": "Nadia Whittome",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4869",
-        "twfy_id": "uk.org.publicwhip/person/25845"
+        "twfy_id": "uk.org.publicwhip/person/25845",
+        "removed": false
       },
       {
         "name": "Zarah Sultana",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4786",
-        "twfy_id": "uk.org.publicwhip/person/25909"
+        "twfy_id": "uk.org.publicwhip/person/25909",
+        "removed": false
       },
       {
         "name": "Diane Abbott",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "172",
-        "twfy_id": "uk.org.publicwhip/person/10001"
+        "twfy_id": "uk.org.publicwhip/person/10001",
+        "removed": false
       },
       {
         "name": "Jeremy Corbyn",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "185",
-        "twfy_id": "uk.org.publicwhip/person/10133"
+        "twfy_id": "uk.org.publicwhip/person/10133",
+        "removed": false
       },
       {
         "name": "Baroness Shami Chakrabarti",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord John Hendy",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -199,5 +223,7 @@
     "next_reporting_deadline": "2025-11-29"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/afrikan-reparations.htm"
 }

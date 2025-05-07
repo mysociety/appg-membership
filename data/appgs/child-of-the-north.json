@@ -9,28 +9,32 @@
       "name": "Emma Lewell",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25181",
-      "mnis_id": "4277"
+      "mnis_id": "4277",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Kim Johnson",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25803",
-      "mnis_id": "4824"
+      "mnis_id": "4824",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Charlie Dewhirst",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26461",
-      "mnis_id": "5169"
+      "mnis_id": "5169",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Tom Morrison",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26400",
-      "mnis_id": "5090"
+      "mnis_id": "5090",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,140 +47,160 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4277",
-        "twfy_id": "uk.org.publicwhip/person/25181"
+        "twfy_id": "uk.org.publicwhip/person/25181",
+        "removed": false
       },
       {
         "name": "Rachel Maskell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4471",
-        "twfy_id": "uk.org.publicwhip/person/25433"
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
       },
       {
         "name": "Sharon Hodgson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1521",
-        "twfy_id": "uk.org.publicwhip/person/11592"
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
       },
       {
         "name": "Mary Glindon",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4126",
-        "twfy_id": "uk.org.publicwhip/person/24927"
+        "twfy_id": "uk.org.publicwhip/person/24927",
+        "removed": false
       },
       {
         "name": "Mike Amesbury",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4667",
-        "twfy_id": "uk.org.publicwhip/person/25702"
+        "twfy_id": "uk.org.publicwhip/person/25702",
+        "removed": false
       },
       {
         "name": "Mary Kelly Foy",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4753",
-        "twfy_id": "uk.org.publicwhip/person/25833"
+        "twfy_id": "uk.org.publicwhip/person/25833",
+        "removed": false
       },
       {
         "name": "Ian Byrne",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4831",
-        "twfy_id": "uk.org.publicwhip/person/25816"
+        "twfy_id": "uk.org.publicwhip/person/25816",
+        "removed": false
       },
       {
         "name": "Afzal Khan",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4671",
-        "twfy_id": "uk.org.publicwhip/person/25662"
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
       },
       {
         "name": "The Lord Bishop of Leeds",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Lister of Burtersett",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Rt Hon. the Baroness Armstrong of Hill Top",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Debbie Abrahams",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4212",
-        "twfy_id": "uk.org.publicwhip/person/25034"
+        "twfy_id": "uk.org.publicwhip/person/25034",
+        "removed": false
       },
       {
         "name": "Imran Hussain",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4394",
-        "twfy_id": "uk.org.publicwhip/person/25375"
+        "twfy_id": "uk.org.publicwhip/person/25375",
+        "removed": false
       },
       {
         "name": "Kate Osborne",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4783",
-        "twfy_id": "uk.org.publicwhip/person/25794"
+        "twfy_id": "uk.org.publicwhip/person/25794",
+        "removed": false
       },
       {
         "name": "The Rt. Rev Lord Bishop of Newcastle",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Sam Rushworth",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5108",
-        "twfy_id": "uk.org.publicwhip/person/26323"
+        "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
       },
       {
         "name": "Tim Farron",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1591",
-        "twfy_id": "uk.org.publicwhip/person/11923"
+        "twfy_id": "uk.org.publicwhip/person/11923",
+        "removed": false
       },
       {
         "name": "Chris Webb",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5025",
-        "twfy_id": "uk.org.publicwhip/person/26305"
+        "twfy_id": "uk.org.publicwhip/person/26305",
+        "removed": false
       },
       {
         "name": "Kirith Entwhistle",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5095",
-        "twfy_id": "uk.org.publicwhip/person/26378"
+        "twfy_id": "uk.org.publicwhip/person/26378",
+        "removed": false
       },
       {
         "name": "Maya Ellis",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5228",
-        "twfy_id": "uk.org.publicwhip/person/26479"
+        "twfy_id": "uk.org.publicwhip/person/26479",
+        "removed": false
       }
     ]
   },
@@ -199,5 +223,7 @@
     "next_reporting_deadline": "2026-01-11"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/child-of-the-north.htm"
 }

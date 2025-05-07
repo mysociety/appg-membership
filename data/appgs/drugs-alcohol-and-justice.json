@@ -9,28 +9,32 @@
       "name": "Grahame Morris",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24715",
-      "mnis_id": "3973"
+      "mnis_id": "3973",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Earl Attlee",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/12875",
-      "mnis_id": "3425"
+      "mnis_id": "3425",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "John McDonnell",
       "party": "Independent",
       "twfy_id": "uk.org.publicwhip/person/10383",
-      "mnis_id": "178"
+      "mnis_id": "178",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Rachael Maskell",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/25433",
-      "mnis_id": "4471"
+      "mnis_id": "4471",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-11"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/drugs-alcohol-and-justice.htm"
 }

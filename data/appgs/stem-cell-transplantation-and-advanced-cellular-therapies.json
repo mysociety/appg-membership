@@ -9,28 +9,32 @@
       "name": "Mr Clive Betts",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10045",
-      "mnis_id": "394"
+      "mnis_id": "394",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sorcha Eastwood",
       "party": "Alliance",
       "twfy_id": "uk.org.publicwhip/person/26071",
-      "mnis_id": "5125"
+      "mnis_id": "5125",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "John Glen",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24839",
-      "mnis_id": "4051"
+      "mnis_id": "4051",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Morgan of Drefelin",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,161 +47,184 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "394",
-        "twfy_id": "uk.org.publicwhip/person/10045"
+        "twfy_id": "uk.org.publicwhip/person/10045",
+        "removed": false
       },
       {
         "name": "Sorcha Eastwood",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5125",
-        "twfy_id": "uk.org.publicwhip/person/26071"
+        "twfy_id": "uk.org.publicwhip/person/26071",
+        "removed": false
       },
       {
         "name": "Rt Hon John Glen",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4051",
-        "twfy_id": "uk.org.publicwhip/person/24839"
+        "twfy_id": "uk.org.publicwhip/person/24839",
+        "removed": false
       },
       {
         "name": "Baroness Morgan of Drefelin",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Alison Bennett",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5283",
-        "twfy_id": "uk.org.publicwhip/person/26498"
+        "twfy_id": "uk.org.publicwhip/person/26498",
+        "removed": false
       },
       {
         "name": "Baroness Brinton",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4241",
-        "twfy_id": "uk.org.publicwhip/person/25066"
+        "twfy_id": "uk.org.publicwhip/person/25066",
+        "removed": false
       },
       {
         "name": "Dawn Butler",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1489",
-        "twfy_id": "uk.org.publicwhip/person/11447"
+        "twfy_id": "uk.org.publicwhip/person/11447",
+        "removed": false
       },
       {
         "name": "Steve Darling",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5066",
-        "twfy_id": "uk.org.publicwhip/person/26349"
+        "twfy_id": "uk.org.publicwhip/person/26349",
+        "removed": false
       },
       {
         "name": "Baroness Finlay of Llandaff",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Allison Gardner",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5334",
-        "twfy_id": "uk.org.publicwhip/person/26621"
+        "twfy_id": "uk.org.publicwhip/person/26621",
+        "removed": false
       },
       {
         "name": "Baroness Healy of Primrose Hill",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Pippa Heylings",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5078",
-        "twfy_id": "uk.org.publicwhip/person/26421"
+        "twfy_id": "uk.org.publicwhip/person/26421",
+        "removed": false
       },
       {
         "name": "Baroness Hollins",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4190",
-        "twfy_id": "uk.org.publicwhip/person/25016"
+        "twfy_id": "uk.org.publicwhip/person/25016",
+        "removed": false
       },
       {
         "name": "Ruth Jones",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4716",
-        "twfy_id": "uk.org.publicwhip/person/25746"
+        "twfy_id": "uk.org.publicwhip/person/25746",
+        "removed": false
       },
       {
         "name": "Afzal Khan",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4671",
-        "twfy_id": "uk.org.publicwhip/person/25662"
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
       },
       {
         "name": "Rachael Maskell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4471",
-        "twfy_id": "uk.org.publicwhip/person/25433"
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
       },
       {
         "name": "Lord Mendelsohn",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4286",
-        "twfy_id": "uk.org.publicwhip/person/25189"
+        "twfy_id": "uk.org.publicwhip/person/25189",
+        "removed": false
       },
       {
         "name": "Lord Moynihan of Chelsea OBE",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Ritchie of Downpatrick",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Thornton",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "1782",
-        "twfy_id": "uk.org.publicwhip/person/13543"
+        "twfy_id": "uk.org.publicwhip/person/13543",
+        "removed": false
       },
       {
         "name": "Liz Twist",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4618",
-        "twfy_id": "uk.org.publicwhip/person/25623"
+        "twfy_id": "uk.org.publicwhip/person/25623",
+        "removed": false
       },
       {
         "name": "Rt Hon Sir Gavin Williamson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4108",
-        "twfy_id": "uk.org.publicwhip/person/24729"
+        "twfy_id": "uk.org.publicwhip/person/24729",
+        "removed": false
       },
       {
         "name": "Steve Yemm",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5194",
-        "twfy_id": "uk.org.publicwhip/person/26469"
+        "twfy_id": "uk.org.publicwhip/person/26469",
+        "removed": false
       }
     ]
   },
@@ -220,5 +247,7 @@
     "next_reporting_deadline": "2026-03-05"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/stem-cell-transplantation-and-advanced-cellular-therapies.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Paulette Hamilton",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26061",
-      "mnis_id": "4938"
+      "mnis_id": "4938",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Charlie Maynard",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26544",
-      "mnis_id": "5325"
+      "mnis_id": "5325",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Moylan",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25947",
-      "mnis_id": "4883"
+      "mnis_id": "4883",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Allison Gardner",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26621",
-      "mnis_id": "5334"
+      "mnis_id": "5334",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,203 +47,232 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4938",
-        "twfy_id": "uk.org.publicwhip/person/26061"
+        "twfy_id": "uk.org.publicwhip/person/26061",
+        "removed": false
       },
       {
         "name": "Allison Gardner",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5334",
-        "twfy_id": "uk.org.publicwhip/person/26621"
+        "twfy_id": "uk.org.publicwhip/person/26621",
+        "removed": false
       },
       {
         "name": "Charlie Maynard",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5325",
-        "twfy_id": "uk.org.publicwhip/person/26544"
+        "twfy_id": "uk.org.publicwhip/person/26544",
+        "removed": false
       },
       {
         "name": "Lord Moylan",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "4883",
-        "twfy_id": "uk.org.publicwhip/person/25947"
+        "twfy_id": "uk.org.publicwhip/person/25947",
+        "removed": false
       },
       {
         "name": "Adam Jogee",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5168",
-        "twfy_id": "uk.org.publicwhip/person/26541"
+        "twfy_id": "uk.org.publicwhip/person/26541",
+        "removed": false
       },
       {
         "name": "Alison Bennett",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5283",
-        "twfy_id": "uk.org.publicwhip/person/26498"
+        "twfy_id": "uk.org.publicwhip/person/26498",
+        "removed": false
       },
       {
         "name": "Baroness Finlay",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3609",
-        "twfy_id": "uk.org.publicwhip/person/13471"
+        "twfy_id": "uk.org.publicwhip/person/13471",
+        "removed": false
       },
       {
         "name": "Carla Lockhart",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4857",
-        "twfy_id": "uk.org.publicwhip/person/25562"
+        "twfy_id": "uk.org.publicwhip/person/25562",
+        "removed": false
       },
       {
         "name": "Chris Bloore",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5109",
-        "twfy_id": "uk.org.publicwhip/person/26357"
+        "twfy_id": "uk.org.publicwhip/person/26357",
+        "removed": false
       },
       {
         "name": "Clive Jones",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5207",
-        "twfy_id": "uk.org.publicwhip/person/26377"
+        "twfy_id": "uk.org.publicwhip/person/26377",
+        "removed": false
       },
       {
         "name": "Danny Beales",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5339",
-        "twfy_id": "uk.org.publicwhip/person/26619"
+        "twfy_id": "uk.org.publicwhip/person/26619",
+        "removed": false
       },
       {
         "name": "Dawn Butler",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1489",
-        "twfy_id": "uk.org.publicwhip/person/11447"
+        "twfy_id": "uk.org.publicwhip/person/11447",
+        "removed": false
       },
       {
         "name": "Freddie van Mierlo",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5296",
-        "twfy_id": "uk.org.publicwhip/person/26540"
+        "twfy_id": "uk.org.publicwhip/person/26540",
+        "removed": false
       },
       {
         "name": "Joani Reid",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5079",
-        "twfy_id": "uk.org.publicwhip/person/26418"
+        "twfy_id": "uk.org.publicwhip/person/26418",
+        "removed": false
       },
       {
         "name": "Josh Fenton-Glynn",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5295",
-        "twfy_id": "uk.org.publicwhip/person/26545"
+        "twfy_id": "uk.org.publicwhip/person/26545",
+        "removed": false
       },
       {
         "name": "Katie White",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5260",
-        "twfy_id": "uk.org.publicwhip/person/26520"
+        "twfy_id": "uk.org.publicwhip/person/26520",
+        "removed": false
       },
       {
         "name": "Katrina Murray",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5309",
-        "twfy_id": "uk.org.publicwhip/person/26494"
+        "twfy_id": "uk.org.publicwhip/person/26494",
+        "removed": false
       },
       {
         "name": "Lillian Jones",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5043",
-        "twfy_id": "uk.org.publicwhip/person/26327"
+        "twfy_id": "uk.org.publicwhip/person/26327",
+        "removed": false
       },
       {
         "name": "Lola McEvoy",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5037",
-        "twfy_id": "uk.org.publicwhip/person/26315"
+        "twfy_id": "uk.org.publicwhip/person/26315",
+        "removed": false
       },
       {
         "name": "Lord Aberdare",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3898",
-        "twfy_id": "uk.org.publicwhip/person/24696"
+        "twfy_id": "uk.org.publicwhip/person/24696",
+        "removed": false
       },
       {
         "name": "Lord Kamall",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4909",
-        "twfy_id": "uk.org.publicwhip/person/25976"
+        "twfy_id": "uk.org.publicwhip/person/25976",
+        "removed": false
       },
       {
         "name": "Lord Stanley Fink",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Maureen Burke",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": "5137",
-        "twfy_id": "uk.org.publicwhip/person/26455"
+        "twfy_id": "uk.org.publicwhip/person/26455",
+        "removed": false
       },
       {
         "name": "Melanie Ward",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5240",
-        "twfy_id": "uk.org.publicwhip/person/26610"
+        "twfy_id": "uk.org.publicwhip/person/26610",
+        "removed": false
       },
       {
         "name": "Patrick Hurley",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5052",
-        "twfy_id": "uk.org.publicwhip/person/26463"
+        "twfy_id": "uk.org.publicwhip/person/26463",
+        "removed": false
       },
       {
         "name": "Paul Davies",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5317",
-        "twfy_id": "uk.org.publicwhip/person/26537"
+        "twfy_id": "uk.org.publicwhip/person/26537",
+        "removed": false
       },
       {
         "name": "Peter Prinsley",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5163",
-        "twfy_id": "uk.org.publicwhip/person/26383"
+        "twfy_id": "uk.org.publicwhip/person/26383",
+        "removed": false
       },
       {
         "name": "Sharon Hodgson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1521",
-        "twfy_id": "uk.org.publicwhip/person/11592"
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
       },
       {
         "name": "Steff Aquarone",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5164",
-        "twfy_id": "uk.org.publicwhip/person/26491"
+        "twfy_id": "uk.org.publicwhip/person/26491",
+        "removed": false
       }
     ]
   },
@@ -262,5 +295,7 @@
     "next_reporting_deadline": "2026-05-14"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/less-survivable-cancers.htm"
 }

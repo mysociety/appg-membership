@@ -9,28 +9,32 @@
       "name": "Sir Iain Duncan Smith",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10180",
-      "mnis_id": "152"
+      "mnis_id": "152",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Ms Marie Rimmer",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25321",
-      "mnis_id": "4457"
+      "mnis_id": "4457",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Phil Brickell",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26368",
-      "mnis_id": "5128"
+      "mnis_id": "5128",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Austin of Dudley",
       "party": "Non-affiliated",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-15"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/magnitsky-sanctions-and-reparation.htm"
 }

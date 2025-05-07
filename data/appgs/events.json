@@ -9,28 +9,32 @@
       "name": "Shaun Davies",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26332",
-      "mnis_id": "5041"
+      "mnis_id": "5041",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jack Rankin",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26622",
-      "mnis_id": "5340"
+      "mnis_id": "5340",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "David Baines",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26565",
-      "mnis_id": "5092"
+      "mnis_id": "5092",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Gill German",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26394",
-      "mnis_id": "5104"
+      "mnis_id": "5104",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,133 +47,152 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5041",
-        "twfy_id": "uk.org.publicwhip/person/26332"
+        "twfy_id": "uk.org.publicwhip/person/26332",
+        "removed": false
       },
       {
         "name": "Jack Rankin",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5340",
-        "twfy_id": "uk.org.publicwhip/person/26622"
+        "twfy_id": "uk.org.publicwhip/person/26622",
+        "removed": false
       },
       {
         "name": "David Baines",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5092",
-        "twfy_id": "uk.org.publicwhip/person/26565"
+        "twfy_id": "uk.org.publicwhip/person/26565",
+        "removed": false
       },
       {
         "name": "Gill German",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5104",
-        "twfy_id": "uk.org.publicwhip/person/26394"
+        "twfy_id": "uk.org.publicwhip/person/26394",
+        "removed": false
       },
       {
         "name": "Polly Billington",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5123",
-        "twfy_id": "uk.org.publicwhip/person/26360"
+        "twfy_id": "uk.org.publicwhip/person/26360",
+        "removed": false
       },
       {
         "name": "James Asser",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5211",
-        "twfy_id": "uk.org.publicwhip/person/26594"
+        "twfy_id": "uk.org.publicwhip/person/26594",
+        "removed": false
       },
       {
         "name": "Barry Gardiner",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "146",
-        "twfy_id": "uk.org.publicwhip/person/10220"
+        "twfy_id": "uk.org.publicwhip/person/10220",
+        "removed": false
       },
       {
         "name": "Jessica Morden",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1548",
-        "twfy_id": "uk.org.publicwhip/person/11732"
+        "twfy_id": "uk.org.publicwhip/person/11732",
+        "removed": false
       },
       {
         "name": "Kim Johnson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4824",
-        "twfy_id": "uk.org.publicwhip/person/25803"
+        "twfy_id": "uk.org.publicwhip/person/25803",
+        "removed": false
       },
       {
         "name": "Tom Gordon",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5032",
-        "twfy_id": "uk.org.publicwhip/person/26312"
+        "twfy_id": "uk.org.publicwhip/person/26312",
+        "removed": false
       },
       {
         "name": "Martin Rhodes",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5251",
-        "twfy_id": "uk.org.publicwhip/person/26575"
+        "twfy_id": "uk.org.publicwhip/person/26575",
+        "removed": false
       },
       {
         "name": "Rachel Taylor",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5065",
-        "twfy_id": "uk.org.publicwhip/person/26478"
+        "twfy_id": "uk.org.publicwhip/person/26478",
+        "removed": false
       },
       {
         "name": "Chris Webb",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5025",
-        "twfy_id": "uk.org.publicwhip/person/26305"
+        "twfy_id": "uk.org.publicwhip/person/26305",
+        "removed": false
       },
       {
         "name": "Mike Wood",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4384",
-        "twfy_id": "uk.org.publicwhip/person/25362"
+        "twfy_id": "uk.org.publicwhip/person/25362",
+        "removed": false
       },
       {
         "name": "Raccoon Media Group",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Scottish Event Campus",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Experience Oxfordshire",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Event Hire Association",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Togather",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -192,5 +215,7 @@
     "next_reporting_deadline": "2026-04-17"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/events.htm"
 }

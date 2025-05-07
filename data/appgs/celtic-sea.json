@@ -9,28 +9,32 @@
       "name": "Jayne Kirkham",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26525",
-      "mnis_id": "5279"
+      "mnis_id": "5279",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Henry Tufnell",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26387",
-      "mnis_id": "5121"
+      "mnis_id": "5121",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Rebecca Smith",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26512",
-      "mnis_id": "5301"
+      "mnis_id": "5301",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Ian Roome",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26388",
-      "mnis_id": "5138"
+      "mnis_id": "5138",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-08"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/celtic-sea.htm"
 }

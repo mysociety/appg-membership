@@ -9,28 +9,32 @@
       "name": "Irene Campbell",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26419",
-      "mnis_id": "5145"
+      "mnis_id": "5145",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "The Earl of Courtown",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Neil Duncan-Jordan",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26633",
-      "mnis_id": "5359"
+      "mnis_id": "5359",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Ben Obese-Jecty",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26354",
-      "mnis_id": "5089"
+      "mnis_id": "5089",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-04-11"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/phasing-out-animal-experiments-in-medical-research.htm"
 }

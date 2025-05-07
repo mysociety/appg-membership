@@ -9,28 +9,32 @@
       "name": "Sarah Owen",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25823",
-      "mnis_id": "4777"
+      "mnis_id": "4777",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Warsi",
       "party": "Non-affiliated",
       "twfy_id": "uk.org.publicwhip/person/13937",
-      "mnis_id": "3839"
+      "mnis_id": "3839",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Sarfraz",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25948",
-      "mnis_id": "4882"
+      "mnis_id": "4882",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Afzal Khan",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25662",
-      "mnis_id": "4671"
+      "mnis_id": "4671",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,15 @@
     "next_reporting_deadline": "2026-01-10"
   },
   "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "The Lady Fatemah (A.S.) Charitable Trust",
+      "Value £s": "25,000",
+      "Received": "05/11/2024",
+      "Registered": "18/11/2024",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/british-muslims.htm"
 }

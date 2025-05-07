@@ -9,28 +9,32 @@
       "name": "Jake Richards",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26486",
-      "mnis_id": "5082"
+      "mnis_id": "5082",
+      "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Chris Vince",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26350",
-      "mnis_id": "5237"
+      "mnis_id": "5237",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Evans of Rainow",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Wrottesley",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26090",
-      "mnis_id": "1746"
+      "mnis_id": "1746",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-25"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/football-club.htm"
 }

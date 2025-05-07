@@ -9,28 +9,32 @@
       "name": "Imran Hussain",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25375",
-      "mnis_id": "4394"
+      "mnis_id": "4394",
+      "removed": false
     },
     {
       "role": "Senior Vice Chair",
       "name": "Tahir Ali",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25888",
-      "mnis_id": "4747"
+      "mnis_id": "4747",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Mobarik",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25235",
-      "mnis_id": "4335"
+      "mnis_id": "4335",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Debbie Abrahams",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25034",
-      "mnis_id": "4212"
+      "mnis_id": "4212",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-12"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/kashmir.htm"
 }

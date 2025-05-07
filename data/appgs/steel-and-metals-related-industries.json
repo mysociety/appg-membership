@@ -9,28 +9,32 @@
       "name": "Mr Jonathan Brash",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26339",
-      "mnis_id": "5045"
+      "mnis_id": "5045",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Martin Vickers",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24814",
-      "mnis_id": "3957"
+      "mnis_id": "3957",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Marie Tidball",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26390",
-      "mnis_id": "5098"
+      "mnis_id": "5098",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Mr Jonathan Brash",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26339",
-      "mnis_id": "5045"
+      "mnis_id": "5045",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-11"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/steel-and-metals-related-industries.htm"
 }

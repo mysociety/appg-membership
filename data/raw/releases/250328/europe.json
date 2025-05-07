@@ -9,28 +9,32 @@
       "name": "Dr Rosena Allin-Khan",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Kirkhope of Harrogate",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Wera Hobhouse",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ellie Chowns",
       "party": "Green Party",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,15 @@
     "next_reporting_deadline": "2026-02-22"
   },
   "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "European Movement UK",
+      "Value £s": "2,000",
+      "Received": "22/10/2024",
+      "Registered": "23/10/2024",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
   "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/europe.htm"
 }

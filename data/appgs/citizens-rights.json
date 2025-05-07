@@ -9,28 +9,32 @@
       "name": "Manuela Perteghella",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26569",
-      "mnis_id": "5122"
+      "mnis_id": "5122",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Goudie",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/12915",
-      "mnis_id": "3575"
+      "mnis_id": "3575",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Balfe",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25209",
-      "mnis_id": "4302"
+      "mnis_id": "4302",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "James Asser",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26594",
-      "mnis_id": "5211"
+      "mnis_id": "5211",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-05-15"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/citizens-rights.htm"
 }

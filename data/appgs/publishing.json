@@ -9,28 +9,32 @@
       "name": "Valerie Vaz",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24852",
-      "mnis_id": "4076"
+      "mnis_id": "4076",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Rebuck",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25234",
-      "mnis_id": "4332"
+      "mnis_id": "4332",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Bonham-Carter of Yarnbury",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sir Julian Lewis",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10358",
-      "mnis_id": "54"
+      "mnis_id": "54",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,98 +47,112 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4659",
-        "twfy_id": "uk.org.publicwhip/person/25686"
+        "twfy_id": "uk.org.publicwhip/person/25686",
+        "removed": false
       },
       {
         "name": "Baroness Rebuck",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "4332",
-        "twfy_id": "uk.org.publicwhip/person/25234"
+        "twfy_id": "uk.org.publicwhip/person/25234",
+        "removed": false
       },
       {
         "name": "Baroness Bonham Carter of Yarnbury",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Clement-Jones",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3396",
-        "twfy_id": "uk.org.publicwhip/person/13517"
+        "twfy_id": "uk.org.publicwhip/person/13517",
+        "removed": false
       },
       {
         "name": "Lord Foster of Bath",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "David Jones",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": null,
-        "twfy_id": "uk.org.publicwhip/person/21739"
+        "twfy_id": "uk.org.publicwhip/person/21739",
+        "removed": false
       },
       {
         "name": "John Hayes",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": null,
-        "twfy_id": "uk.org.publicwhip/person/21356"
+        "twfy_id": "uk.org.publicwhip/person/21356",
+        "removed": false
       },
       {
         "name": "Greg Smith",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4778",
-        "twfy_id": "uk.org.publicwhip/person/25925"
+        "twfy_id": "uk.org.publicwhip/person/25925",
+        "removed": false
       },
       {
         "name": "Giles Watling",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4677",
-        "twfy_id": "uk.org.publicwhip/person/25644"
+        "twfy_id": "uk.org.publicwhip/person/25644",
+        "removed": false
       },
       {
         "name": "Lord Strathcarron",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4937",
-        "twfy_id": "uk.org.publicwhip/person/26060"
+        "twfy_id": "uk.org.publicwhip/person/26060",
+        "removed": false
       },
       {
         "name": "Lord Black of Brentwood",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Gilbert of Panteg",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Sir John Whittingdale",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "39",
-        "twfy_id": "uk.org.publicwhip/person/10632"
+        "twfy_id": "uk.org.publicwhip/person/10632",
+        "removed": false
       },
       {
         "name": "Lord Taylor of Warwick",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -157,5 +175,7 @@
     "next_reporting_deadline": "2026-01-10"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/publishing.htm"
 }

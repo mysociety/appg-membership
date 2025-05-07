@@ -9,28 +9,32 @@
       "name": "Andrew Rosindell",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/11199",
-      "mnis_id": "1447"
+      "mnis_id": "1447",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Kamall",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25976",
-      "mnis_id": "4909"
+      "mnis_id": "4909",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Adam Jogee",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26541",
-      "mnis_id": "5168"
+      "mnis_id": "5168",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Uddin",
       "party": "Non-affiliated",
       "twfy_id": "uk.org.publicwhip/person/13274",
-      "mnis_id": "1827"
+      "mnis_id": "1827",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2025-11-25"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/commonwealth.htm"
 }

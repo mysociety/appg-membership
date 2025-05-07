@@ -9,28 +9,32 @@
       "name": "Clive Efford",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10185",
-      "mnis_id": "165"
+      "mnis_id": "165",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Sir Julian Lewis",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10358",
-      "mnis_id": "54"
+      "mnis_id": "54",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Pete Wishart",
       "party": "Scottish National Party",
       "twfy_id": "uk.org.publicwhip/person/11333",
-      "mnis_id": "1440"
+      "mnis_id": "1440",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Featherstone",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/11641",
-      "mnis_id": "1531"
+      "mnis_id": "1531",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-04-17"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/haemophilia-and-contaminated-blood.htm"
 }

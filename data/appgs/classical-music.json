@@ -9,28 +9,32 @@
       "name": "Valerie Vaz",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24852",
-      "mnis_id": "4076"
+      "mnis_id": "4076",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Keeley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/11943",
-      "mnis_id": "1588"
+      "mnis_id": "1588",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Berkeley of Knighton",
       "party": "Crossbench",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sir Alec Shelbrooke",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24893",
-      "mnis_id": "3997"
+      "mnis_id": "3997",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-27"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/classical-music.htm"
 }

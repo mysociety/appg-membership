@@ -9,28 +9,32 @@
       "name": "Mrs Elsie Blundell",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26481",
-      "mnis_id": "5084"
+      "mnis_id": "5084",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Catherine Atkinson",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26405",
-      "mnis_id": "5143"
+      "mnis_id": "5143",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Moylan",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25947",
-      "mnis_id": "4883"
+      "mnis_id": "4883",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Pidgeon",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26645",
-      "mnis_id": "5366"
+      "mnis_id": "5366",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5084",
-        "twfy_id": "uk.org.publicwhip/person/26481"
+        "twfy_id": "uk.org.publicwhip/person/26481",
+        "removed": false
       },
       {
         "name": "Catherine Atkinson",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5143",
-        "twfy_id": "uk.org.publicwhip/person/26405"
+        "twfy_id": "uk.org.publicwhip/person/26405",
+        "removed": false
       },
       {
         "name": "Lord (Daniel) Moylan",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness (Caroline) Pidgeon",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-06-12"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/women-in-transport.htm"
 }

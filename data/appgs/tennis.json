@@ -9,28 +9,32 @@
       "name": "Mr Toby Perkins",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24845",
-      "mnis_id": "3952"
+      "mnis_id": "3952",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Helen Grant",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24796",
-      "mnis_id": "4018"
+      "mnis_id": "4018",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Marsha De Cordova",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25620",
-      "mnis_id": "4676"
+      "mnis_id": "4676",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Keeley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/11943",
-      "mnis_id": "1588"
+      "mnis_id": "1588",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-02"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/tennis.htm"
 }

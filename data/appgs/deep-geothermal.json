@@ -9,28 +9,32 @@
       "name": "Dr Kieran Mullan",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25883",
-      "mnis_id": "4860"
+      "mnis_id": "4860",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Tom Hayes",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26566",
-      "mnis_id": "5210"
+      "mnis_id": "5210",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Jayne Kirkham",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26525",
-      "mnis_id": "5279"
+      "mnis_id": "5279",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Cameron of Dillington",
       "party": "Crossbench",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4860",
-        "twfy_id": "uk.org.publicwhip/person/25883"
+        "twfy_id": "uk.org.publicwhip/person/25883",
+        "removed": false
       },
       {
         "name": "Ms Jayne Kirkham",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5279",
-        "twfy_id": "uk.org.publicwhip/person/26525"
+        "twfy_id": "uk.org.publicwhip/person/26525",
+        "removed": false
       },
       {
         "name": "Mr Tom Hayes",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5210",
-        "twfy_id": "uk.org.publicwhip/person/26566"
+        "twfy_id": "uk.org.publicwhip/person/26566",
+        "removed": false
       },
       {
         "name": "The Lord Cameron of Dillington",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-01-05"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/deep-geothermal.htm"
 }

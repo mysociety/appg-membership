@@ -9,28 +9,32 @@
       "name": "Dan Aldridge",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26453",
-      "mnis_id": "5172"
+      "mnis_id": "5172",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lucy Rigby",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26596",
-      "mnis_id": "5333"
+      "mnis_id": "5333",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Verma",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13730",
-      "mnis_id": "3790"
+      "mnis_id": "3790",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Clement-Jones",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13517",
-      "mnis_id": "3396"
+      "mnis_id": "3396",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,161 +47,184 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5172",
-        "twfy_id": "uk.org.publicwhip/person/26453"
+        "twfy_id": "uk.org.publicwhip/person/26453",
+        "removed": false
       },
       {
         "name": "Lucy Rigby",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5333",
-        "twfy_id": "uk.org.publicwhip/person/26596"
+        "twfy_id": "uk.org.publicwhip/person/26596",
+        "removed": false
       },
       {
         "name": "Baroness Verma",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "3790",
-        "twfy_id": "uk.org.publicwhip/person/13730"
+        "twfy_id": "uk.org.publicwhip/person/13730",
+        "removed": false
       },
       {
         "name": "Lord Tim Clement-Jones",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Jamie Stone",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4612",
-        "twfy_id": "uk.org.publicwhip/person/25668"
+        "twfy_id": "uk.org.publicwhip/person/25668",
+        "removed": false
       },
       {
         "name": "Maya Ellis",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5228",
-        "twfy_id": "uk.org.publicwhip/person/26479"
+        "twfy_id": "uk.org.publicwhip/person/26479",
+        "removed": false
       },
       {
         "name": "Siobhain McDonagh",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "193",
-        "twfy_id": "uk.org.publicwhip/person/10381"
+        "twfy_id": "uk.org.publicwhip/person/10381",
+        "removed": false
       },
       {
         "name": "Kirsty Blackman",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4357",
-        "twfy_id": "uk.org.publicwhip/person/25314"
+        "twfy_id": "uk.org.publicwhip/person/25314",
+        "removed": false
       },
       {
         "name": "Liz Saville Roberts",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4521",
-        "twfy_id": "uk.org.publicwhip/person/25302"
+        "twfy_id": "uk.org.publicwhip/person/25302",
+        "removed": false
       },
       {
         "name": "Baroness Kennedy",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4303",
-        "twfy_id": "uk.org.publicwhip/person/25212"
+        "twfy_id": "uk.org.publicwhip/person/25212",
+        "removed": false
       },
       {
         "name": "BT Group",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Vodafone",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Virgin Money",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Nominet",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Virgin Media",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Jisc",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Good Things Foundation",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "People Know How",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "The APLE Collective",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lightning Reach",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "BCS, The Chartered Institute for IT",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "The Digital Poverty Alliance",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "We Are Group",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -220,5 +247,7 @@
     "next_reporting_deadline": "2026-02-09"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/digital-inclusion.htm"
 }

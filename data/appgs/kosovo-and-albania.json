@@ -9,28 +9,32 @@
       "name": "Martin Vickers",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24814",
-      "mnis_id": "3957"
+      "mnis_id": "3957",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Wendy Morton",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25342",
-      "mnis_id": "4358"
+      "mnis_id": "4358",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Gill Furniss",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25489",
-      "mnis_id": "4571"
+      "mnis_id": "4571",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Richard Foord",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26086",
-      "mnis_id": "4942"
+      "mnis_id": "4942",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-04"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/kosovo-and-albania.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Helen Morgan",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26056",
-      "mnis_id": "4934"
+      "mnis_id": "4934",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Viscount Camrose",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26062",
-      "mnis_id": "4939"
+      "mnis_id": "4939",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Alison Taylor",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26563",
-      "mnis_id": "5093"
+      "mnis_id": "5093",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Richard Foord",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26086",
-      "mnis_id": "4942"
+      "mnis_id": "4942",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-16"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/digital-communities.htm"
 }

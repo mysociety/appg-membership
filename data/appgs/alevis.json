@@ -9,28 +9,32 @@
       "name": "Bambos Charalambous",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25676",
-      "mnis_id": "4610"
+      "mnis_id": "4610",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Ruth Jones",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25746",
-      "mnis_id": "4716"
+      "mnis_id": "4716",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Dan Aldridge",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26453",
-      "mnis_id": "5172"
+      "mnis_id": "5172",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sir Alec Shelbrooke",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24893",
-      "mnis_id": "3997"
+      "mnis_id": "3997",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-06-10"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/alevis.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Peter Swallow",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26369",
-      "mnis_id": "5165"
+      "mnis_id": "5165",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Katie Lam",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26588",
-      "mnis_id": "5285"
+      "mnis_id": "5285",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Charlotte Cane",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26425",
-      "mnis_id": "5182"
+      "mnis_id": "5182",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Young of Old Scone",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,182 +47,208 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5165",
-        "twfy_id": "uk.org.publicwhip/person/26369"
+        "twfy_id": "uk.org.publicwhip/person/26369",
+        "removed": false
       },
       {
         "name": "Katie Lam",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5285",
-        "twfy_id": "uk.org.publicwhip/person/26588"
+        "twfy_id": "uk.org.publicwhip/person/26588",
+        "removed": false
       },
       {
         "name": "Charlotte Cane",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5182",
-        "twfy_id": "uk.org.publicwhip/person/26425"
+        "twfy_id": "uk.org.publicwhip/person/26425",
+        "removed": false
       },
       {
         "name": "Baroness Young of Old Scone",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Louise Jones",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5258",
-        "twfy_id": "uk.org.publicwhip/person/26586"
+        "twfy_id": "uk.org.publicwhip/person/26586",
+        "removed": false
       },
       {
         "name": "Joani Reid",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5079",
-        "twfy_id": "uk.org.publicwhip/person/26418"
+        "twfy_id": "uk.org.publicwhip/person/26418",
+        "removed": false
       },
       {
         "name": "Kevin Bonavia",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5051",
-        "twfy_id": "uk.org.publicwhip/person/26330"
+        "twfy_id": "uk.org.publicwhip/person/26330",
+        "removed": false
       },
       {
         "name": "Rachael Maskell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4471",
-        "twfy_id": "uk.org.publicwhip/person/25433"
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
       },
       {
         "name": "Andy McNae",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5134",
-        "twfy_id": "uk.org.publicwhip/person/26391"
+        "twfy_id": "uk.org.publicwhip/person/26391",
+        "removed": false
       },
       {
         "name": "David Smith",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5218",
-        "twfy_id": "uk.org.publicwhip/person/26606"
+        "twfy_id": "uk.org.publicwhip/person/26606",
+        "removed": false
       },
       {
         "name": "Dame Harriett Baldwin",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4107",
-        "twfy_id": "uk.org.publicwhip/person/24785"
+        "twfy_id": "uk.org.publicwhip/person/24785",
+        "removed": false
       },
       {
         "name": "Lord Aberdare",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3898",
-        "twfy_id": "uk.org.publicwhip/person/24696"
+        "twfy_id": "uk.org.publicwhip/person/24696",
+        "removed": false
       },
       {
         "name": "Lord Thomas of Gresford",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Nicholson",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "1164",
-        "twfy_id": "uk.org.publicwhip/person/13706"
+        "twfy_id": "uk.org.publicwhip/person/13706",
+        "removed": false
       },
       {
         "name": "Professor Lord Parekh",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Hope of Craighead",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Coussins",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3829",
-        "twfy_id": "uk.org.publicwhip/person/13922"
+        "twfy_id": "uk.org.publicwhip/person/13922",
+        "removed": false
       },
       {
         "name": "Lord Boswell of Aynho",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord King of Bridgwater",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord True",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4200",
-        "twfy_id": "uk.org.publicwhip/person/25028"
+        "twfy_id": "uk.org.publicwhip/person/25028",
+        "removed": false
       },
       {
         "name": "Lord Evans of Weardale",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Effingham",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Professor Baroness Black of Strome",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Oxford",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Watson of Wyre Forest",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Professor Lord Parekh FBA",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -241,5 +271,7 @@
     "next_reporting_deadline": "2026-02-21"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/classics.htm"
 }

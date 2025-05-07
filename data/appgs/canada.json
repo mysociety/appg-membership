@@ -9,28 +9,32 @@
       "name": "Matt Western",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25701",
-      "mnis_id": "4617"
+      "mnis_id": "4617",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Emily Darlington",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26412",
-      "mnis_id": "5139"
+      "mnis_id": "5139",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mr Peter Bedford",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26625",
-      "mnis_id": "5330"
+      "mnis_id": "5330",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Blake Stephenson",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26355",
-      "mnis_id": "5100"
+      "mnis_id": "5100",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-09"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/canada.htm"
 }

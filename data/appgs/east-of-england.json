@@ -9,28 +9,32 @@
       "name": "Jess Asato",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26386",
-      "mnis_id": "5156"
+      "mnis_id": "5156",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Andrew Pakes",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26601",
-      "mnis_id": "5243"
+      "mnis_id": "5243",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Blake Stephenson",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26355",
-      "mnis_id": "5100"
+      "mnis_id": "5100",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Marie Goldman",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26338",
-      "mnis_id": "5073"
+      "mnis_id": "5073",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,21 +47,24 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5156",
-        "twfy_id": "uk.org.publicwhip/person/26386"
+        "twfy_id": "uk.org.publicwhip/person/26386",
+        "removed": false
       },
       {
         "name": "Blake Stephenson",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5100",
-        "twfy_id": "uk.org.publicwhip/person/26355"
+        "twfy_id": "uk.org.publicwhip/person/26355",
+        "removed": false
       },
       {
         "name": "Marie Goldman",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5073",
-        "twfy_id": "uk.org.publicwhip/person/26338"
+        "twfy_id": "uk.org.publicwhip/person/26338",
+        "removed": false
       }
     ]
   },
@@ -80,5 +87,7 @@
     "next_reporting_deadline": "2026-01-09"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/east-of-england.htm"
 }

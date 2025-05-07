@@ -9,28 +9,32 @@
       "name": "Fabian Hamilton",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10256",
-      "mnis_id": "415"
+      "mnis_id": "415",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Monica Harding",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26516",
-      "mnis_id": "5299"
+      "mnis_id": "5299",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Chris Webb",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26305",
-      "mnis_id": "5025"
+      "mnis_id": "5025",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Randall of Uxbridge",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/british-council-and-soft-power.htm"
 }

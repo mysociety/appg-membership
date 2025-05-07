@@ -9,28 +9,32 @@
       "name": "Ruth Jones",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jack Rankin",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Gurinder Singh Josan",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Matt Western",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,43 @@
     "next_reporting_deadline": "2025-11-24"
   },
   "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "Queen's University, Belfast",
+      "Value £s": "2,000",
+      "Received": "18/10/2024",
+      "Registered": "05/12/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Oxford Instruments",
+      "Value £s": "10,000",
+      "Received": "16/09/2024",
+      "Registered": "05/12/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Swansea University",
+      "Value £s": "2,500",
+      "Received": "08/10/2024",
+      "Registered": "05/12/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Plessey Semiconductors",
+      "Value £s": "15,000",
+      "Received": "12/09/2024",
+      "Registered": "05/12/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Vishay",
+      "Value £s": "15,000",
+      "Received": "19/09/2024",
+      "Registered": "05/12/2024",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
   "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/semiconductors.htm"
 }

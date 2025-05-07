@@ -9,28 +9,32 @@
       "name": "Sir Mark Hendrick",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/10682",
-      "mnis_id": "473"
+      "mnis_id": "473",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Viscount Trenchard",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13177",
-      "mnis_id": "1829"
+      "mnis_id": "1829",
+      "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Mark Garnier",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24824",
-      "mnis_id": "4074"
+      "mnis_id": "4074",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Spellar",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10558",
-      "mnis_id": "318"
+      "mnis_id": "318",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-03"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/japan.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Andrew Rosindell",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/11199",
-      "mnis_id": "1447"
+      "mnis_id": "1447",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Dan Carden",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25642",
-      "mnis_id": "4651"
+      "mnis_id": "4651",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Gavin Robinson",
       "party": "Democratic Unionist Party",
       "twfy_id": "uk.org.publicwhip/person/25280",
-      "mnis_id": "4360"
+      "mnis_id": "4360",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Damien Egan",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26287",
-      "mnis_id": "5010"
+      "mnis_id": "5010",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2025-11-25"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/crown-dependencies-and-british-overseas-territories.htm"
 }

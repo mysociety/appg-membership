@@ -9,28 +9,32 @@
       "name": "Alex Sobel",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/25680",
-      "mnis_id": "4658"
+      "mnis_id": "4658",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sir John Whittingdale",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10632",
-      "mnis_id": "39"
+      "mnis_id": "39",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sarah Green",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26034",
-      "mnis_id": "4918"
+      "mnis_id": "4918",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "David Burton-Sampson",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26442",
-      "mnis_id": "5106"
+      "mnis_id": "5106",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-10"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/ukraine.htm"
 }

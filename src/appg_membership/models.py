@@ -1,12 +1,16 @@
 from __future__ import annotations
 
 from datetime import date
+from json import dumps
 from pathlib import Path
 from typing import List, Literal, Optional
 
 from pydantic import BaseModel, EmailStr, Field, HttpUrl, RootModel, field_validator
 
 register_dates = [
+    "240828",  # 28 August 2024
+    "241009",  # 9 October 2024
+    "241120",  # 20 November 2024
     "250102",  # 2 January 2025
     "250212",  # 12 February 2025
     "250328",  # 28 March 2025
@@ -107,6 +111,10 @@ class APPG(BaseModel):
     agm: Optional[AGMDetails] = None
 
     registrable_benefits: Optional[str] = None
+    detailed_benefits: list[dict[str, str]] = Field(
+        default_factory=list,
+        description="List of detailed benefits with structured data.",
+    )
 
     index_date: str = ""
     source_url: Optional[HttpUrl] = None
@@ -133,6 +141,10 @@ class APPG(BaseModel):
             "registrable_benefits": self.registrable_benefits or "",
             "source_url": str(self.source_url) if self.source_url else "",
         }
+
+        # Add detailed benefits data as a JSON string
+        if self.detailed_benefits:
+            data["detailed_benefits"] = dumps(self.detailed_benefits)
 
         data.update(self.contact_details.flattened_dict())
 

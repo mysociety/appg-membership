@@ -9,28 +9,32 @@
       "name": "Chris Webb",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26305",
-      "mnis_id": "5025"
+      "mnis_id": "5025",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Damian Hinds",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24782",
-      "mnis_id": "3969"
+      "mnis_id": "3969",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Caroline Voaden",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26511",
-      "mnis_id": "5216"
+      "mnis_id": "5216",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dan Aldridge",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26453",
-      "mnis_id": "5172"
+      "mnis_id": "5172",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5025",
-        "twfy_id": "uk.org.publicwhip/person/26305"
+        "twfy_id": "uk.org.publicwhip/person/26305",
+        "removed": false
       },
       {
         "name": "Damian Hinds",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "3969",
-        "twfy_id": "uk.org.publicwhip/person/24782"
+        "twfy_id": "uk.org.publicwhip/person/24782",
+        "removed": false
       },
       {
         "name": "Caroline Voaden",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5216",
-        "twfy_id": "uk.org.publicwhip/person/26511"
+        "twfy_id": "uk.org.publicwhip/person/26511",
+        "removed": false
       },
       {
         "name": "Dan Aldridge",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5172",
-        "twfy_id": "uk.org.publicwhip/person/26453"
+        "twfy_id": "uk.org.publicwhip/person/26453",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-01-04"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/hospitality-and-tourism.htm"
 }

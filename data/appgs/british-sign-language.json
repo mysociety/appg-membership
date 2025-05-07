@@ -9,28 +9,32 @@
       "name": "Jen Craft",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26341",
-      "mnis_id": "5056"
+      "mnis_id": "5056",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Charlotte Nichols",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25885",
-      "mnis_id": "4799"
+      "mnis_id": "4799",
+      "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Katie Lam",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26588",
-      "mnis_id": "5285"
+      "mnis_id": "5285",
+      "removed": false
     },
     {
       "role": "Secretary",
       "name": "Perran Moon",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26482",
-      "mnis_id": "5208"
+      "mnis_id": "5208",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-06-26"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/british-sign-language.htm"
 }

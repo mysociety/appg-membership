@@ -9,28 +9,32 @@
       "name": "Bob Blackman",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24945",
-      "mnis_id": "4005"
+      "mnis_id": "4005",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Brinton",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25066",
-      "mnis_id": "4241"
+      "mnis_id": "4241",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Goddard of Stockport",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mary Glindon",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24927",
-      "mnis_id": "4126"
+      "mnis_id": "4126",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2025-11-29"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/fire-safety-and-rescue.htm"
 }

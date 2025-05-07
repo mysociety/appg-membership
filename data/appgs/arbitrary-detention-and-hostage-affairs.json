@@ -9,28 +9,32 @@
       "name": "Alicia Kearns",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25906",
-      "mnis_id": "4805"
+      "mnis_id": "4805",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Brendan O'Hara",
       "party": "Scottish National Party",
       "twfy_id": "uk.org.publicwhip/person/25370",
-      "mnis_id": "4371"
+      "mnis_id": "4371",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Kennedy of The Shaws",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Tim Roca",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26549",
-      "mnis_id": "5287"
+      "mnis_id": "5287",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,175 +47,200 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4805",
-        "twfy_id": "uk.org.publicwhip/person/25906"
+        "twfy_id": "uk.org.publicwhip/person/25906",
+        "removed": false
       },
       {
         "name": "Brendan O'Hara",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4371",
-        "twfy_id": "uk.org.publicwhip/person/25370"
+        "twfy_id": "uk.org.publicwhip/person/25370",
+        "removed": false
       },
       {
         "name": "Baroness Helena Kennedy",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Tim Roca",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5287",
-        "twfy_id": "uk.org.publicwhip/person/26549"
+        "twfy_id": "uk.org.publicwhip/person/26549",
+        "removed": false
       },
       {
         "name": "Lord Tim Clement-Jones",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Ian Austin",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Douglas Macallister",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5057",
-        "twfy_id": "uk.org.publicwhip/person/26334"
+        "twfy_id": "uk.org.publicwhip/person/26334",
+        "removed": false
       },
       {
         "name": "Sir John Whittingdale",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "39",
-        "twfy_id": "uk.org.publicwhip/person/10632"
+        "twfy_id": "uk.org.publicwhip/person/10632",
+        "removed": false
       },
       {
         "name": "Lord David Alton",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Brinton",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4241",
-        "twfy_id": "uk.org.publicwhip/person/25066"
+        "twfy_id": "uk.org.publicwhip/person/25066",
+        "removed": false
       },
       {
         "name": "Lord Dubs",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "805",
-        "twfy_id": "uk.org.publicwhip/person/13000"
+        "twfy_id": "uk.org.publicwhip/person/13000",
+        "removed": false
       },
       {
         "name": "Baroness Bennett",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4719",
-        "twfy_id": "uk.org.publicwhip/person/25776"
+        "twfy_id": "uk.org.publicwhip/person/25776",
+        "removed": false
       },
       {
         "name": "Baroness Hodge",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "140",
-        "twfy_id": "uk.org.publicwhip/person/10281"
+        "twfy_id": "uk.org.publicwhip/person/10281",
+        "removed": false
       },
       {
         "name": "Bob Blackman",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4005",
-        "twfy_id": "uk.org.publicwhip/person/24945"
+        "twfy_id": "uk.org.publicwhip/person/24945",
+        "removed": false
       },
       {
         "name": "Sam Rushworth",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5108",
-        "twfy_id": "uk.org.publicwhip/person/26323"
+        "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
       },
       {
         "name": "Joe Powell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5229",
-        "twfy_id": "uk.org.publicwhip/person/26477"
+        "twfy_id": "uk.org.publicwhip/person/26477",
+        "removed": false
       },
       {
         "name": "Lillian Jones",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5043",
-        "twfy_id": "uk.org.publicwhip/person/26327"
+        "twfy_id": "uk.org.publicwhip/person/26327",
+        "removed": false
       },
       {
         "name": "Lord Purvis",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4293",
-        "twfy_id": "uk.org.publicwhip/person/14080"
+        "twfy_id": "uk.org.publicwhip/person/14080",
+        "removed": false
       },
       {
         "name": "Michael Payne",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5146",
-        "twfy_id": "uk.org.publicwhip/person/26408"
+        "twfy_id": "uk.org.publicwhip/person/26408",
+        "removed": false
       },
       {
         "name": "Oliver Ryan",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5135",
-        "twfy_id": "uk.org.publicwhip/person/26381"
+        "twfy_id": "uk.org.publicwhip/person/26381",
+        "removed": false
       },
       {
         "name": "Lord Mann",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "1387",
-        "twfy_id": "uk.org.publicwhip/person/11093"
+        "twfy_id": "uk.org.publicwhip/person/11093",
+        "removed": false
       },
       {
         "name": "Phil Brickell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5128",
-        "twfy_id": "uk.org.publicwhip/person/26368"
+        "twfy_id": "uk.org.publicwhip/person/26368",
+        "removed": false
       },
       {
         "name": "Tom Tugendhat",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4462",
-        "twfy_id": "uk.org.publicwhip/person/25374"
+        "twfy_id": "uk.org.publicwhip/person/25374",
+        "removed": false
       },
       {
         "name": "Lord Ahmad",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4210",
-        "twfy_id": "uk.org.publicwhip/person/25040"
+        "twfy_id": "uk.org.publicwhip/person/25040",
+        "removed": false
       },
       {
         "name": "Andrew Mitchell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1211",
-        "twfy_id": "uk.org.publicwhip/person/11115"
+        "twfy_id": "uk.org.publicwhip/person/11115",
+        "removed": false
       }
     ]
   },
@@ -234,5 +263,7 @@
     "next_reporting_deadline": "2026-01-04"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/arbitrary-detention-and-hostage-affairs.htm"
 }

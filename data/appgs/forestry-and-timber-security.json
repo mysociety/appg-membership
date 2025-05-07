@@ -9,28 +9,32 @@
       "name": "Ben Lake",
       "party": "Plaid Cymru",
       "twfy_id": "uk.org.publicwhip/person/25669",
-      "mnis_id": "4630"
+      "mnis_id": "4630",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Clark of Windermere",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "David Chadwick",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26518",
-      "mnis_id": "5284"
+      "mnis_id": "5284",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Colgrain",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25610",
-      "mnis_id": "4596"
+      "mnis_id": "4596",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/forestry-and-timber-security.htm"
 }

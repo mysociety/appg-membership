@@ -9,28 +9,32 @@
       "name": "Adam Jogee",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26541",
-      "mnis_id": "5168"
+      "mnis_id": "5168",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Colum Eastwood",
       "party": "Social Democratic & Labour Party",
       "twfy_id": "uk.org.publicwhip/person/25130",
-      "mnis_id": "4846"
+      "mnis_id": "4846",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sarah Bool",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26635",
-      "mnis_id": "5355"
+      "mnis_id": "5355",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Berger",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24924",
-      "mnis_id": "4036"
+      "mnis_id": "4036",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-07-11"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/ireland-and-the-irish-in-britain.htm"
 }

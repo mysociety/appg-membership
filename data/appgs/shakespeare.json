@@ -9,28 +9,32 @@
       "name": "Manuela Perteghella",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26569",
-      "mnis_id": "5122"
+      "mnis_id": "5122",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "James Wild",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25866",
-      "mnis_id": "4787"
+      "mnis_id": "4787",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Neil Coyle",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25326",
-      "mnis_id": "4368"
+      "mnis_id": "4368",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Bonham-Carter of Yarnbury",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5122",
-        "twfy_id": "uk.org.publicwhip/person/26569"
+        "twfy_id": "uk.org.publicwhip/person/26569",
+        "removed": false
       },
       {
         "name": "James Wild",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4787",
-        "twfy_id": "uk.org.publicwhip/person/25866"
+        "twfy_id": "uk.org.publicwhip/person/25866",
+        "removed": false
       },
       {
         "name": "Neil Coyle",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4368",
-        "twfy_id": "uk.org.publicwhip/person/25326"
+        "twfy_id": "uk.org.publicwhip/person/25326",
+        "removed": false
       },
       {
         "name": "Baroness Bonham-Carter",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "3699",
-        "twfy_id": "uk.org.publicwhip/person/12838"
+        "twfy_id": "uk.org.publicwhip/person/12838",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-03-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/shakespeare.htm"
 }

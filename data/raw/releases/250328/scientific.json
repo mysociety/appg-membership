@@ -9,28 +9,32 @@
       "name": "George Freeman",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "President",
       "name": "Viscount Stansgate",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Northover",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sam Carling",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,29 @@
     "next_reporting_deadline": "2025-11-30"
   },
   "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "AWE PLC",
+      "Value £s": "5,000",
+      "Received": "12/09/2024",
+      "Registered": "24/09/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Dyson Technology Ltd",
+      "Value £s": "5,000",
+      "Received": "22/11/2024",
+      "Registered": "22/01/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Nutrition Society",
+      "Value £s": "5,000",
+      "Received": "29/11/2024",
+      "Registered": "22/01/2025",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
   "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/scientific.htm"
 }

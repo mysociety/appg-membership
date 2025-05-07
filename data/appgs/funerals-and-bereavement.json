@@ -9,28 +9,32 @@
       "name": "Cat Smith",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25432",
-      "mnis_id": "4436"
+      "mnis_id": "4436",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Frank McNally",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26424",
-      "mnis_id": "5183"
+      "mnis_id": "5183",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Garden of Frognal",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord De Mauley",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13173",
-      "mnis_id": "2202"
+      "mnis_id": "2202",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-04"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/funerals-and-bereavement.htm"
 }

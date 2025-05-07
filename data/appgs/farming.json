@@ -9,28 +9,32 @@
       "name": "Catherine Fookes",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26510",
-      "mnis_id": "5291"
+      "mnis_id": "5291",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Andrew Pakes",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26601",
-      "mnis_id": "5243"
+      "mnis_id": "5243",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Helen Whately",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25398",
-      "mnis_id": "4527"
+      "mnis_id": "4527",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Rachel Gilmour",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26543",
-      "mnis_id": "5252"
+      "mnis_id": "5252",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/farming.htm"
 }

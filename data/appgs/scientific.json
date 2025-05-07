@@ -9,28 +9,32 @@
       "name": "George Freeman",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24817",
-      "mnis_id": "4020"
+      "mnis_id": "4020",
+      "removed": false
     },
     {
       "role": "President",
       "name": "Viscount Stansgate",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26044",
-      "mnis_id": "4925"
+      "mnis_id": "4925",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Northover",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13434",
-      "mnis_id": "2539"
+      "mnis_id": "2539",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sam Carling",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26558",
-      "mnis_id": "5308"
+      "mnis_id": "5308",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4020",
-        "twfy_id": "uk.org.publicwhip/person/24817"
+        "twfy_id": "uk.org.publicwhip/person/24817",
+        "removed": false
       },
       {
         "name": "Viscount Stansgate",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "4925",
-        "twfy_id": "uk.org.publicwhip/person/26044"
+        "twfy_id": "uk.org.publicwhip/person/26044",
+        "removed": false
       },
       {
         "name": "Baroness Northover",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "2539",
-        "twfy_id": "uk.org.publicwhip/person/13434"
+        "twfy_id": "uk.org.publicwhip/person/13434",
+        "removed": false
       },
       {
         "name": "Sam Carling",
         "is_officer": true,
         "member_type": "other",
         "mnis_id": "5308",
-        "twfy_id": "uk.org.publicwhip/person/26558"
+        "twfy_id": "uk.org.publicwhip/person/26558",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,29 @@
     "next_reporting_deadline": "2025-11-30"
   },
   "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "AWE PLC",
+      "Value £s": "5,000",
+      "Received": "12/09/2024",
+      "Registered": "24/09/2024",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Dyson Technology Ltd",
+      "Value £s": "5,000",
+      "Received": "22/11/2024",
+      "Registered": "22/01/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Nutrition Society",
+      "Value £s": "5,000",
+      "Received": "29/11/2024",
+      "Registered": "22/01/2025",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/scientific.htm"
 }

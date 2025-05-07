@@ -9,28 +9,32 @@
       "name": "Alex Baker",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26444",
-      "mnis_id": "5173"
+      "mnis_id": "5173",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Euan Stainbank",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26407",
-      "mnis_id": "5110"
+      "mnis_id": "5110",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Graham Stuart",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/11406",
-      "mnis_id": "1482"
+      "mnis_id": "1482",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Julia Buckley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26436",
-      "mnis_id": "5171"
+      "mnis_id": "5171",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-27"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/british-buses.htm"
 }

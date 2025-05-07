@@ -9,28 +9,32 @@
       "name": "Dr Rupa Huq",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25284",
-      "mnis_id": "4511"
+      "mnis_id": "4511",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Barker",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13524",
-      "mnis_id": "2501"
+      "mnis_id": "2501",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Maya Ellis",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26479",
-      "mnis_id": "5228"
+      "mnis_id": "5228",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Sugg",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25586",
-      "mnis_id": "4584"
+      "mnis_id": "4584",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/sexual-and-reproductive-health-in-the-uk.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Andy MacNae",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26391",
-      "mnis_id": "5134"
+      "mnis_id": "5134",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Alison Bennett",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26498",
-      "mnis_id": "5283"
+      "mnis_id": "5283",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Michelle Welsh",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26550",
-      "mnis_id": "5226"
+      "mnis_id": "5226",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Saqib Bhatti",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25847",
-      "mnis_id": "4818"
+      "mnis_id": "4818",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5134",
-        "twfy_id": "uk.org.publicwhip/person/26391"
+        "twfy_id": "uk.org.publicwhip/person/26391",
+        "removed": false
       },
       {
         "name": "Alison Bennett",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5283",
-        "twfy_id": "uk.org.publicwhip/person/26498"
+        "twfy_id": "uk.org.publicwhip/person/26498",
+        "removed": false
       },
       {
         "name": "Saqib Bhatti",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4818",
-        "twfy_id": "uk.org.publicwhip/person/25847"
+        "twfy_id": "uk.org.publicwhip/person/25847",
+        "removed": false
       },
       {
         "name": "Michelle Welsh",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5226",
-        "twfy_id": "uk.org.publicwhip/person/26550"
+        "twfy_id": "uk.org.publicwhip/person/26550",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-04-10"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/baby-loss.htm"
 }

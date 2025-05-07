@@ -9,28 +9,32 @@
       "name": "Mr Jonathan Brash",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26339",
-      "mnis_id": "5045"
+      "mnis_id": "5045",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Bethell",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25740",
-      "mnis_id": "4708"
+      "mnis_id": "4708",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Cryer",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10143",
-      "mnis_id": "181"
+      "mnis_id": "181",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Vikki Slade",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26582",
-      "mnis_id": "5327"
+      "mnis_id": "5327",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-27"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/swimming.htm"
 }

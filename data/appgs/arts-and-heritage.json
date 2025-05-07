@@ -9,28 +9,32 @@
       "name": "Dan Carden",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25642",
-      "mnis_id": "4651"
+      "mnis_id": "4651",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Crathorne",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/12952",
-      "mnis_id": "3380"
+      "mnis_id": "3380",
+      "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Lord Stirrup",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/25057",
-      "mnis_id": "4233"
+      "mnis_id": "4233",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Charlotte Cane",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26425",
-      "mnis_id": "5182"
+      "mnis_id": "5182",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-04"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/arts-and-heritage.htm"
 }

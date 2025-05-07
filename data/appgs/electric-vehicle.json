@@ -9,28 +9,32 @@
       "name": "Matt Western",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25701",
-      "mnis_id": "4617"
+      "mnis_id": "4617",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Perran Moon",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26482",
-      "mnis_id": "5208"
+      "mnis_id": "5208",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Birt",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/13502",
-      "mnis_id": "2533"
+      "mnis_id": "2533",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Young of Cookham",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4617",
-        "twfy_id": "uk.org.publicwhip/person/25701"
+        "twfy_id": "uk.org.publicwhip/person/25701",
+        "removed": false
       },
       {
         "name": "Perran Moon",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5208",
-        "twfy_id": "uk.org.publicwhip/person/26482"
+        "twfy_id": "uk.org.publicwhip/person/26482",
+        "removed": false
       },
       {
         "name": "Lord Birt",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "2533",
-        "twfy_id": "uk.org.publicwhip/person/13502"
+        "twfy_id": "uk.org.publicwhip/person/13502",
+        "removed": false
       },
       {
         "name": "Lord Young of Cookham",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-01-10"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/electric-vehicle.htm"
 }

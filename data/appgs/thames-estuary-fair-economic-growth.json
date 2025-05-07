@@ -9,28 +9,32 @@
       "name": "Jim Dickson",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26547",
-      "mnis_id": "5223"
+      "mnis_id": "5223",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Julia Lopez",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25652",
-      "mnis_id": "4647"
+      "mnis_id": "4647",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Lauren Sullivan",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26435",
-      "mnis_id": "5269"
+      "mnis_id": "5269",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "James Asser",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26594",
-      "mnis_id": "5211"
+      "mnis_id": "5211",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-04-03"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/thames-estuary-fair-economic-growth.htm"
 }

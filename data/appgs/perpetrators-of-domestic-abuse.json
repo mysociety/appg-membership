@@ -9,28 +9,32 @@
       "name": "Jess Asato",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26386",
-      "mnis_id": "5156"
+      "mnis_id": "5156",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Bertin",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25589",
-      "mnis_id": "4577"
+      "mnis_id": "4577",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Matthew Patrick",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26432",
-      "mnis_id": "5162"
+      "mnis_id": "5162",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Liz Saville Roberts",
       "party": "Plaid Cymru",
       "twfy_id": "uk.org.publicwhip/person/25302",
-      "mnis_id": "4521"
+      "mnis_id": "4521",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5156",
-        "twfy_id": "uk.org.publicwhip/person/26386"
+        "twfy_id": "uk.org.publicwhip/person/26386",
+        "removed": false
       },
       {
         "name": "Baroness Bertin",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "4577",
-        "twfy_id": "uk.org.publicwhip/person/25589"
+        "twfy_id": "uk.org.publicwhip/person/25589",
+        "removed": false
       },
       {
         "name": "Liz Saville Roberts",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4521",
-        "twfy_id": "uk.org.publicwhip/person/25302"
+        "twfy_id": "uk.org.publicwhip/person/25302",
+        "removed": false
       },
       {
         "name": "Matthew Patrick",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5162",
-        "twfy_id": "uk.org.publicwhip/person/26432"
+        "twfy_id": "uk.org.publicwhip/person/26432",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-01-04"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/perpetrators-of-domestic-abuse.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Ian Byrne",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25816",
-      "mnis_id": "4831"
+      "mnis_id": "4831",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Michael Payne",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26408",
-      "mnis_id": "5146"
+      "mnis_id": "5146",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Olly Glover",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26572",
-      "mnis_id": "5318"
+      "mnis_id": "5318",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Aphra Brandreth",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26553",
-      "mnis_id": "5241"
+      "mnis_id": "5241",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4831",
-        "twfy_id": "uk.org.publicwhip/person/25816"
+        "twfy_id": "uk.org.publicwhip/person/25816",
+        "removed": false
       },
       {
         "name": "Aphra Brandreth",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5241",
-        "twfy_id": "uk.org.publicwhip/person/26553"
+        "twfy_id": "uk.org.publicwhip/person/26553",
+        "removed": false
       },
       {
         "name": "Michael Payne",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5146",
-        "twfy_id": "uk.org.publicwhip/person/26408"
+        "twfy_id": "uk.org.publicwhip/person/26408",
+        "removed": false
       },
       {
         "name": "Olly Glover",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5318",
-        "twfy_id": "uk.org.publicwhip/person/26572"
+        "twfy_id": "uk.org.publicwhip/person/26572",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-03-26"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/motor-neurone-disease.htm"
 }

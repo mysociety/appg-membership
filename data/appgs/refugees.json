@@ -9,28 +9,32 @@
       "name": "Laura Kyrke-Smith",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26629",
-      "mnis_id": "5341"
+      "mnis_id": "5341",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Dubs",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/13000",
-      "mnis_id": "805"
+      "mnis_id": "805",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Zöe Franklin",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26555",
-      "mnis_id": "5313"
+      "mnis_id": "5313",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Stroud",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25459",
-      "mnis_id": "4546"
+      "mnis_id": "4546",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-10"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/refugees.htm"
 }

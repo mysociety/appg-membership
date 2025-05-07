@@ -9,28 +9,32 @@
       "name": "Paul Davies",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26537",
-      "mnis_id": "5317"
+      "mnis_id": "5317",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Finlay of Llandaff",
       "party": "Crossbench",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Naushabah Khan",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26562",
-      "mnis_id": "5215"
+      "mnis_id": "5215",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Shinkwin",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25470",
-      "mnis_id": "4557"
+      "mnis_id": "4557",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,140 +47,160 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5317",
-        "twfy_id": "uk.org.publicwhip/person/26537"
+        "twfy_id": "uk.org.publicwhip/person/26537",
+        "removed": false
       },
       {
         "name": "Baroness Finlay of Llandaff",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Shinkwin",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "4557",
-        "twfy_id": "uk.org.publicwhip/person/25470"
+        "twfy_id": "uk.org.publicwhip/person/25470",
+        "removed": false
       },
       {
         "name": "Naushabah Khan",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5215",
-        "twfy_id": "uk.org.publicwhip/person/26562"
+        "twfy_id": "uk.org.publicwhip/person/26562",
+        "removed": false
       },
       {
         "name": "Sadik Al-Hassan",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5312",
-        "twfy_id": "uk.org.publicwhip/person/26527"
+        "twfy_id": "uk.org.publicwhip/person/26527",
+        "removed": false
       },
       {
         "name": "Kevin McKenna",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5300",
-        "twfy_id": "uk.org.publicwhip/person/26529"
+        "twfy_id": "uk.org.publicwhip/person/26529",
+        "removed": false
       },
       {
         "name": "Dr. Simon Opher",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5030",
-        "twfy_id": "uk.org.publicwhip/person/26313"
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
       },
       {
         "name": "Harpreet Uppal",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5289",
-        "twfy_id": "uk.org.publicwhip/person/26508"
+        "twfy_id": "uk.org.publicwhip/person/26508",
+        "removed": false
       },
       {
         "name": "Aphra Brandreth",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5241",
-        "twfy_id": "uk.org.publicwhip/person/26553"
+        "twfy_id": "uk.org.publicwhip/person/26553",
+        "removed": false
       },
       {
         "name": "Wera Hobhouse",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4602",
-        "twfy_id": "uk.org.publicwhip/person/25648"
+        "twfy_id": "uk.org.publicwhip/person/25648",
+        "removed": false
       },
       {
         "name": "Jim Shannon",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4131",
-        "twfy_id": "uk.org.publicwhip/person/13864"
+        "twfy_id": "uk.org.publicwhip/person/13864",
+        "removed": false
       },
       {
         "name": "Ian Byrne",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4831",
-        "twfy_id": "uk.org.publicwhip/person/25816"
+        "twfy_id": "uk.org.publicwhip/person/25816",
+        "removed": false
       },
       {
         "name": "Lord Best",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3605",
-        "twfy_id": "uk.org.publicwhip/person/13507"
+        "twfy_id": "uk.org.publicwhip/person/13507",
+        "removed": false
       },
       {
         "name": "Liz Twist",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4618",
-        "twfy_id": "uk.org.publicwhip/person/25623"
+        "twfy_id": "uk.org.publicwhip/person/25623",
+        "removed": false
       },
       {
         "name": "Baroness Margaret Ritchie",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4130",
-        "twfy_id": "uk.org.publicwhip/person/13856"
+        "twfy_id": "uk.org.publicwhip/person/13856",
+        "removed": false
       },
       {
         "name": "Baroness Pinnock",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4341",
-        "twfy_id": "uk.org.publicwhip/person/25244"
+        "twfy_id": "uk.org.publicwhip/person/25244",
+        "removed": false
       },
       {
         "name": "Lord Goddard",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4334",
-        "twfy_id": "uk.org.publicwhip/person/25247"
+        "twfy_id": "uk.org.publicwhip/person/25247",
+        "removed": false
       },
       {
         "name": "The Rt. Hon Lord Whitty",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "2444",
-        "twfy_id": "uk.org.publicwhip/person/12958"
+        "twfy_id": "uk.org.publicwhip/person/12958",
+        "removed": false
       },
       {
         "name": "Baroness Bennett of Manor Castle",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baron Marlesford",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -199,5 +223,7 @@
     "next_reporting_deadline": "2026-02-28"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/carbon-monoxide.htm"
 }

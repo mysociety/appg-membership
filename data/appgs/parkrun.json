@@ -9,28 +9,32 @@
       "name": "Nick Smith",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24728",
-      "mnis_id": "3928"
+      "mnis_id": "3928",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "James Wild",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25866",
-      "mnis_id": "4787"
+      "mnis_id": "4787",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Cat Smith",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25432",
-      "mnis_id": "4436"
+      "mnis_id": "4436",
+      "removed": false
     },
     {
       "role": "Secretary",
       "name": "Valerie Vaz",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24852",
-      "mnis_id": "4076"
+      "mnis_id": "4076",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-02-22"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/parkrun.htm"
 }

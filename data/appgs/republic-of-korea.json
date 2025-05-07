@@ -9,28 +9,32 @@
       "name": "Ed Davey",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/10155",
-      "mnis_id": "188"
+      "mnis_id": "188",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mr Paul Kohler",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26570",
-      "mnis_id": "5321"
+      "mnis_id": "5321",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jonathan Davies",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26557",
-      "mnis_id": "5256"
+      "mnis_id": "5256",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dr Ben Spencer",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25889",
-      "mnis_id": "4785"
+      "mnis_id": "4785",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-07-18"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/republic-of-korea.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Tom Collins",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26351",
-      "mnis_id": "5087"
+      "mnis_id": "5087",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Farmer",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25233",
-      "mnis_id": "4321"
+      "mnis_id": "4321",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Rebecca Paul",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26466",
-      "mnis_id": "5297"
+      "mnis_id": "5297",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Adam Dance",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26459",
-      "mnis_id": "5191"
+      "mnis_id": "5191",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-06-05"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/family-hubs.htm"
 }

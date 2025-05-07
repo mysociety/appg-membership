@@ -9,28 +9,32 @@
       "name": "Alberto Costa",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25413",
-      "mnis_id": "4439"
+      "mnis_id": "4439",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Goddard of Stockport",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Gascoigne",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26263",
-      "mnis_id": "4986"
+      "mnis_id": "4986",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Steve Witherden",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26583",
-      "mnis_id": "5221"
+      "mnis_id": "5221",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,140 +47,160 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4439",
-        "twfy_id": "uk.org.publicwhip/person/25413"
+        "twfy_id": "uk.org.publicwhip/person/25413",
+        "removed": false
       },
       {
         "name": "David Goddard ",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Steve Witherden",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5221",
-        "twfy_id": "uk.org.publicwhip/person/26583"
+        "twfy_id": "uk.org.publicwhip/person/26583",
+        "removed": false
       },
       {
         "name": "Ben Gasgoine",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Geoffrey Dear",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Derek Twigg",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "429",
-        "twfy_id": "uk.org.publicwhip/person/10610"
+        "twfy_id": "uk.org.publicwhip/person/10610",
+        "removed": false
       },
       {
         "name": "Alex Sobel",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4658",
-        "twfy_id": "uk.org.publicwhip/person/25680"
+        "twfy_id": "uk.org.publicwhip/person/25680",
+        "removed": false
       },
       {
         "name": "Sarah Champion",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4267",
-        "twfy_id": "uk.org.publicwhip/person/25168"
+        "twfy_id": "uk.org.publicwhip/person/25168",
+        "removed": false
       },
       {
         "name": "Tim Bowsell",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Dee Doocey",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lewis Cocking",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5050",
-        "twfy_id": "uk.org.publicwhip/person/26316"
+        "twfy_id": "uk.org.publicwhip/person/26316",
+        "removed": false
       },
       {
         "name": "Lord Waverely",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Dan Carden",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4651",
-        "twfy_id": "uk.org.publicwhip/person/25642"
+        "twfy_id": "uk.org.publicwhip/person/25642",
+        "removed": false
       },
       {
         "name": "Andrew Stone",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "George Foulkes",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "579",
-        "twfy_id": "uk.org.publicwhip/person/10211"
+        "twfy_id": "uk.org.publicwhip/person/10211",
+        "removed": false
       },
       {
         "name": "Peter Bowness",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Marks",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "5018",
-        "twfy_id": "uk.org.publicwhip/person/26297"
+        "twfy_id": "uk.org.publicwhip/person/26297",
+        "removed": false
       },
       {
         "name": "Lord Dykes",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "810",
-        "twfy_id": "uk.org.publicwhip/person/13051"
+        "twfy_id": "uk.org.publicwhip/person/13051",
+        "removed": false
       },
       {
         "name": "Lord Balfe",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4302",
-        "twfy_id": "uk.org.publicwhip/person/25209"
+        "twfy_id": "uk.org.publicwhip/person/25209",
+        "removed": false
       },
       {
         "name": "Lord Dubs",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "805",
-        "twfy_id": "uk.org.publicwhip/person/13000"
+        "twfy_id": "uk.org.publicwhip/person/13000",
+        "removed": false
       }
     ]
   },
@@ -199,5 +223,7 @@
     "next_reporting_deadline": "2025-11-30"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/greece.htm"
 }

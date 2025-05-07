@@ -9,28 +9,32 @@
       "name": "James Naish",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26329",
-      "mnis_id": "5047"
+      "mnis_id": "5047",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Rosie Wrighting",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26615",
-      "mnis_id": "5331"
+      "mnis_id": "5331",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jonathan Davies",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26557",
-      "mnis_id": "5256"
+      "mnis_id": "5256",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord McLoughlin",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10397",
-      "mnis_id": "333"
+      "mnis_id": "333",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-27"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/east-midlands.htm"
 }

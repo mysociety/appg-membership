@@ -9,28 +9,32 @@
       "name": "Bob Blackman",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24945",
-      "mnis_id": "4005"
+      "mnis_id": "4005",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Navendu Mishra",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25836",
-      "mnis_id": "4811"
+      "mnis_id": "4811",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Shivani Raja",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26363",
-      "mnis_id": "5068"
+      "mnis_id": "5068",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Luke Taylor",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26443",
-      "mnis_id": "5103"
+      "mnis_id": "5103",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,224 +47,256 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4005",
-        "twfy_id": "uk.org.publicwhip/person/24945"
+        "twfy_id": "uk.org.publicwhip/person/24945",
+        "removed": false
       },
       {
         "name": "MP Navendu Mishra",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4811",
-        "twfy_id": "uk.org.publicwhip/person/25836"
+        "twfy_id": "uk.org.publicwhip/person/25836",
+        "removed": false
       },
       {
         "name": "MP Luke Taylor",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5103",
-        "twfy_id": "uk.org.publicwhip/person/26443"
+        "twfy_id": "uk.org.publicwhip/person/26443",
+        "removed": false
       },
       {
         "name": "MP Neil Hudson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4853",
-        "twfy_id": "uk.org.publicwhip/person/25875"
+        "twfy_id": "uk.org.publicwhip/person/25875",
+        "removed": false
       },
       {
         "name": "MP Bobby Dean",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5083",
-        "twfy_id": "uk.org.publicwhip/person/26371"
+        "twfy_id": "uk.org.publicwhip/person/26371",
+        "removed": false
       },
       {
         "name": "MP Paula Barker",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4828",
-        "twfy_id": "uk.org.publicwhip/person/25819"
+        "twfy_id": "uk.org.publicwhip/person/25819",
+        "removed": false
       },
       {
         "name": "MP Louie French",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4932",
-        "twfy_id": "uk.org.publicwhip/person/26055"
+        "twfy_id": "uk.org.publicwhip/person/26055",
+        "removed": false
       },
       {
         "name": "MP Jim Dickson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5223",
-        "twfy_id": "uk.org.publicwhip/person/26547"
+        "twfy_id": "uk.org.publicwhip/person/26547",
+        "removed": false
       },
       {
         "name": "Baroness Sandeep Verma",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Bob Blackman",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4005",
-        "twfy_id": "uk.org.publicwhip/person/24945"
+        "twfy_id": "uk.org.publicwhip/person/24945",
+        "removed": false
       },
       {
         "name": "Navendu Mishra",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4811",
-        "twfy_id": "uk.org.publicwhip/person/25836"
+        "twfy_id": "uk.org.publicwhip/person/25836",
+        "removed": false
       },
       {
         "name": "Luke Taylor",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5103",
-        "twfy_id": "uk.org.publicwhip/person/26443"
+        "twfy_id": "uk.org.publicwhip/person/26443",
+        "removed": false
       },
       {
         "name": "Neil Hudson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4853",
-        "twfy_id": "uk.org.publicwhip/person/25875"
+        "twfy_id": "uk.org.publicwhip/person/25875",
+        "removed": false
       },
       {
         "name": "Bobby Dean",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5083",
-        "twfy_id": "uk.org.publicwhip/person/26371"
+        "twfy_id": "uk.org.publicwhip/person/26371",
+        "removed": false
       },
       {
         "name": "Paula Barker",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4828",
-        "twfy_id": "uk.org.publicwhip/person/25819"
+        "twfy_id": "uk.org.publicwhip/person/25819",
+        "removed": false
       },
       {
         "name": "Louie French",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4932",
-        "twfy_id": "uk.org.publicwhip/person/26055"
+        "twfy_id": "uk.org.publicwhip/person/26055",
+        "removed": false
       },
       {
         "name": "Jim Dickson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5223",
-        "twfy_id": "uk.org.publicwhip/person/26547"
+        "twfy_id": "uk.org.publicwhip/person/26547",
+        "removed": false
       },
       {
         "name": "Shivani Raja",
         "is_officer": true,
         "member_type": "other",
         "mnis_id": "5068",
-        "twfy_id": "uk.org.publicwhip/person/26363"
+        "twfy_id": "uk.org.publicwhip/person/26363",
+        "removed": false
       },
       {
         "name": "Luke Murphy",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5248",
-        "twfy_id": "uk.org.publicwhip/person/26488"
+        "twfy_id": "uk.org.publicwhip/person/26488",
+        "removed": false
       },
       {
         "name": "Deidre Costigan",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5075",
-        "twfy_id": "uk.org.publicwhip/person/26384"
+        "twfy_id": "uk.org.publicwhip/person/26384",
+        "removed": false
       },
       {
         "name": "Damian Hinds",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "3969",
-        "twfy_id": "uk.org.publicwhip/person/24782"
+        "twfy_id": "uk.org.publicwhip/person/24782",
+        "removed": false
       },
       {
         "name": "Laura Kyrke-Smith",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": "5341",
-        "twfy_id": "uk.org.publicwhip/person/26629"
+        "twfy_id": "uk.org.publicwhip/person/26629",
+        "removed": false
       },
       {
         "name": "Andrew Mitchell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1211",
-        "twfy_id": "uk.org.publicwhip/person/11115"
+        "twfy_id": "uk.org.publicwhip/person/11115",
+        "removed": false
       },
       {
         "name": "Gregor Poynton",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5167",
-        "twfy_id": "uk.org.publicwhip/person/26428"
+        "twfy_id": "uk.org.publicwhip/person/26428",
+        "removed": false
       },
       {
         "name": "Susan Murray",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5157",
-        "twfy_id": "uk.org.publicwhip/person/26429"
+        "twfy_id": "uk.org.publicwhip/person/26429",
+        "removed": false
       },
       {
         "name": "Valerie Vaz",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4076",
-        "twfy_id": "uk.org.publicwhip/person/24852"
+        "twfy_id": "uk.org.publicwhip/person/24852",
+        "removed": false
       },
       {
         "name": "Lord Dholakia",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "2685",
-        "twfy_id": "uk.org.publicwhip/person/13662"
+        "twfy_id": "uk.org.publicwhip/person/13662",
+        "removed": false
       },
       {
         "name": "Barry Gardiner",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "146",
-        "twfy_id": "uk.org.publicwhip/person/10220"
+        "twfy_id": "uk.org.publicwhip/person/10220",
+        "removed": false
       },
       {
         "name": "Baroness Verma",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "3790",
-        "twfy_id": "uk.org.publicwhip/person/13730"
+        "twfy_id": "uk.org.publicwhip/person/13730",
+        "removed": false
       },
       {
         "name": "Jack Rankin",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5340",
-        "twfy_id": "uk.org.publicwhip/person/26622"
+        "twfy_id": "uk.org.publicwhip/person/26622",
+        "removed": false
       },
       {
         "name": "Kirsteen Sullivan",
         "is_officer": false,
         "member_type": "other",
         "mnis_id": "5179",
-        "twfy_id": "uk.org.publicwhip/person/26501"
+        "twfy_id": "uk.org.publicwhip/person/26501",
+        "removed": false
       },
       {
         "name": "Tom Morrison",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5090",
-        "twfy_id": "uk.org.publicwhip/person/26400"
+        "twfy_id": "uk.org.publicwhip/person/26400",
+        "removed": false
       }
     ]
   },
@@ -283,5 +319,7 @@
     "next_reporting_deadline": "2026-01-11"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/british-hindus.htm"
 }

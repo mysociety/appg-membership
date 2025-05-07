@@ -9,28 +9,32 @@
       "name": "Gill Furniss",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25489",
-      "mnis_id": "4571"
+      "mnis_id": "4571",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Jo Platt",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/25611",
-      "mnis_id": "4673"
+      "mnis_id": "4673",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Kirith Entwistle",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26378",
-      "mnis_id": "5095"
+      "mnis_id": "5095",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Dame Caroline Dinenage",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24873",
-      "mnis_id": "4008"
+      "mnis_id": "4008",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,84 +47,96 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4571",
-        "twfy_id": "uk.org.publicwhip/person/25489"
+        "twfy_id": "uk.org.publicwhip/person/25489",
+        "removed": false
       },
       {
         "name": "Dame Caroline Dinenage",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4008",
-        "twfy_id": "uk.org.publicwhip/person/24873"
+        "twfy_id": "uk.org.publicwhip/person/24873",
+        "removed": false
       },
       {
         "name": "Jo Platt",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4673",
-        "twfy_id": "uk.org.publicwhip/person/25611"
+        "twfy_id": "uk.org.publicwhip/person/25611",
+        "removed": false
       },
       {
         "name": "Kirith Entwistle",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5095",
-        "twfy_id": "uk.org.publicwhip/person/26378"
+        "twfy_id": "uk.org.publicwhip/person/26378",
+        "removed": false
       },
       {
         "name": "Cherilyn Mackrory",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4758",
-        "twfy_id": "uk.org.publicwhip/person/25802"
+        "twfy_id": "uk.org.publicwhip/person/25802",
+        "removed": false
       },
       {
         "name": "Nickie Aiken",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4741",
-        "twfy_id": "uk.org.publicwhip/person/25817"
+        "twfy_id": "uk.org.publicwhip/person/25817",
+        "removed": false
       },
       {
         "name": "Rosie Duffield",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4616",
-        "twfy_id": "uk.org.publicwhip/person/25656"
+        "twfy_id": "uk.org.publicwhip/person/25656",
+        "removed": false
       },
       {
         "name": "Sharon Hodgson",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "1521",
-        "twfy_id": "uk.org.publicwhip/person/11592"
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
       },
       {
         "name": "Baroness Jenkin",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "4229",
-        "twfy_id": "uk.org.publicwhip/person/25064"
+        "twfy_id": "uk.org.publicwhip/person/25064",
+        "removed": false
       },
       {
         "name": "Kirsten Oswald",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4413",
-        "twfy_id": "uk.org.publicwhip/person/25294"
+        "twfy_id": "uk.org.publicwhip/person/25294",
+        "removed": false
       },
       {
         "name": "Bell Ribeiro-Addy",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4764",
-        "twfy_id": "uk.org.publicwhip/person/25856"
+        "twfy_id": "uk.org.publicwhip/person/25856",
+        "removed": false
       },
       {
         "name": "Alison Thewliss",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4430",
-        "twfy_id": "uk.org.publicwhip/person/25327"
+        "twfy_id": "uk.org.publicwhip/person/25327",
+        "removed": false
       }
     ]
   },
@@ -143,5 +159,7 @@
     "next_reporting_deadline": "2026-02-08"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/womens-health.htm"
 }

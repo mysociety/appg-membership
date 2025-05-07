@@ -9,28 +9,32 @@
       "name": "Bob Blackman",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24945",
-      "mnis_id": "4005"
+      "mnis_id": "4005",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Mary Kelly Foy",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25833",
-      "mnis_id": "4753"
+      "mnis_id": "4753",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jim Dickson",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26547",
-      "mnis_id": "5223"
+      "mnis_id": "5223",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Rennard",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13277",
-      "mnis_id": "2484"
+      "mnis_id": "2484",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,154 +47,176 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4005",
-        "twfy_id": "uk.org.publicwhip/person/24945"
+        "twfy_id": "uk.org.publicwhip/person/24945",
+        "removed": false
       },
       {
         "name": "Mary Foy",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4753",
-        "twfy_id": "uk.org.publicwhip/person/25833"
+        "twfy_id": "uk.org.publicwhip/person/25833",
+        "removed": false
       },
       {
         "name": "Lord Rennard",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "2484",
-        "twfy_id": "uk.org.publicwhip/person/13277"
+        "twfy_id": "uk.org.publicwhip/person/13277",
+        "removed": false
       },
       {
         "name": "Jim Dickson",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5223",
-        "twfy_id": "uk.org.publicwhip/person/26547"
+        "twfy_id": "uk.org.publicwhip/person/26547",
+        "removed": false
       },
       {
         "name": "Lord Young of Cookham",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Faulkner of Worcester",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Josh Fenton-Glynn",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5295",
-        "twfy_id": "uk.org.publicwhip/person/26545"
+        "twfy_id": "uk.org.publicwhip/person/26545",
+        "removed": false
       },
       {
         "name": "Lord Foulkes of Cumnock",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Bethell",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "4708",
-        "twfy_id": "uk.org.publicwhip/person/25740"
+        "twfy_id": "uk.org.publicwhip/person/25740",
+        "removed": false
       },
       {
         "name": "Baroness Bennett of Manor Castle",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Rachael Maskell",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4471",
-        "twfy_id": "uk.org.publicwhip/person/25433"
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
       },
       {
         "name": "Baroness Finlay of Llandaff",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Baroness Northover",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "2539",
-        "twfy_id": "uk.org.publicwhip/person/13434"
+        "twfy_id": "uk.org.publicwhip/person/13434",
+        "removed": false
       },
       {
         "name": "Lord Storey",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4238",
-        "twfy_id": "uk.org.publicwhip/person/25060"
+        "twfy_id": "uk.org.publicwhip/person/25060",
+        "removed": false
       },
       {
         "name": "Liz Twist",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4618",
-        "twfy_id": "uk.org.publicwhip/person/25623"
+        "twfy_id": "uk.org.publicwhip/person/25623",
+        "removed": false
       },
       {
         "name": "Baroness Gale",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "2503",
-        "twfy_id": "uk.org.publicwhip/person/13310"
+        "twfy_id": "uk.org.publicwhip/person/13310",
+        "removed": false
       },
       {
         "name": "Karl Turner",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4030",
-        "twfy_id": "uk.org.publicwhip/person/24767"
+        "twfy_id": "uk.org.publicwhip/person/24767",
+        "removed": false
       },
       {
         "name": "Sharon Hodgson",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1521",
-        "twfy_id": "uk.org.publicwhip/person/11592"
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
       },
       {
         "name": "Lord Davies of Brixton",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Florence Eshalomi",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4870",
-        "twfy_id": "uk.org.publicwhip/person/25759"
+        "twfy_id": "uk.org.publicwhip/person/25759",
+        "removed": false
       },
       {
         "name": "Dr Beccy Cooper",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5307",
-        "twfy_id": "uk.org.publicwhip/person/26515"
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
       },
       {
         "name": "Sadik Al-Hassan",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5312",
-        "twfy_id": "uk.org.publicwhip/person/26527"
+        "twfy_id": "uk.org.publicwhip/person/26527",
+        "removed": false
       }
     ]
   },
@@ -213,5 +239,7 @@
     "next_reporting_deadline": "2026-02-14"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/smoking-and-health.htm"
 }

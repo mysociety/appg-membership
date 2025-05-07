@@ -9,28 +9,32 @@
       "name": "Jeremy Hunt",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/11859",
-      "mnis_id": "1572"
+      "mnis_id": "1572",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Anna Dixon",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26524",
-      "mnis_id": "5281"
+      "mnis_id": "5281",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dr Rosena Allin-Khan",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25579",
-      "mnis_id": "4573"
+      "mnis_id": "4573",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sir Bernard Jenkin",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10312",
-      "mnis_id": "40"
+      "mnis_id": "40",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "1572",
-        "twfy_id": "uk.org.publicwhip/person/11859"
+        "twfy_id": "uk.org.publicwhip/person/11859",
+        "removed": false
       },
       {
         "name": "Anna Dixon",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5281",
-        "twfy_id": "uk.org.publicwhip/person/26524"
+        "twfy_id": "uk.org.publicwhip/person/26524",
+        "removed": false
       },
       {
         "name": "Dr Rosena Allin-Khan",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4573",
-        "twfy_id": "uk.org.publicwhip/person/25579"
+        "twfy_id": "uk.org.publicwhip/person/25579",
+        "removed": false
       },
       {
         "name": "Bernard Jenkin",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "40",
-        "twfy_id": "uk.org.publicwhip/person/10312"
+        "twfy_id": "uk.org.publicwhip/person/10312",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-03-19"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/patient-safety.htm"
 }

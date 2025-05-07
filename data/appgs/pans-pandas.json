@@ -9,28 +9,32 @@
       "name": "Wendy Chamberlain",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25872",
-      "mnis_id": "4765"
+      "mnis_id": "4765",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "John Glen",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24839",
-      "mnis_id": "4051"
+      "mnis_id": "4051",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Mr James Frith",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25622",
-      "mnis_id": "4637"
+      "mnis_id": "4637",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Matt Bishop",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26574",
-      "mnis_id": "5323"
+      "mnis_id": "5323",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4765",
-        "twfy_id": "uk.org.publicwhip/person/25872"
+        "twfy_id": "uk.org.publicwhip/person/25872",
+        "removed": false
       },
       {
         "name": "Matt Bishop",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5323",
-        "twfy_id": "uk.org.publicwhip/person/26574"
+        "twfy_id": "uk.org.publicwhip/person/26574",
+        "removed": false
       },
       {
         "name": "John Glen",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4051",
-        "twfy_id": "uk.org.publicwhip/person/24839"
+        "twfy_id": "uk.org.publicwhip/person/24839",
+        "removed": false
       },
       {
         "name": "James Frith",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4637",
-        "twfy_id": "uk.org.publicwhip/person/25622"
+        "twfy_id": "uk.org.publicwhip/person/25622",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-05-08"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/pans-pandas.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Mark Sewards",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26440",
-      "mnis_id": "5166"
+      "mnis_id": "5166",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mr Luke Charters",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26480",
-      "mnis_id": "5199"
+      "mnis_id": "5199",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Kirkhope of Harrogate",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Wallace of Saltaire",
       "party": "Liberal Democrat",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,15 @@
     "next_reporting_deadline": "2026-02-22"
   },
   "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "Yorkshire Leaders Board",
+      "Value £s": "10,000",
+      "Received": "17/02/2025",
+      "Registered": "20/02/2025",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/yorkshire-and-northern-lincolnshire.htm"
 }

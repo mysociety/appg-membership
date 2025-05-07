@@ -9,28 +9,32 @@
       "name": "Noah Law",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26513",
-      "mnis_id": "5302"
+      "mnis_id": "5302",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Northover",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13434",
-      "mnis_id": "2539"
+      "mnis_id": "2539",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Perran Moon",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26482",
-      "mnis_id": "5208"
+      "mnis_id": "5208",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Lancaster of Kimbolton",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-11"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/critical-minerals.htm"
 }

@@ -9,28 +9,32 @@
       "name": "Oliver Ryan",
       "party": "Independent",
       "twfy_id": "uk.org.publicwhip/person/26381",
-      "mnis_id": "5135"
+      "mnis_id": "5135",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Uddin",
       "party": "Non-affiliated",
       "twfy_id": "uk.org.publicwhip/person/13274",
-      "mnis_id": "1827"
+      "mnis_id": "1827",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "John Slinger",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26564",
-      "mnis_id": "5127"
+      "mnis_id": "5127",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Simon Hoare",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25427",
-      "mnis_id": "4494"
+      "mnis_id": "4494",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-05-21"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/saudi-arabia.htm"
 }

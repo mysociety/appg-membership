@@ -9,28 +9,32 @@
       "name": "Mary Glindon",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24927",
-      "mnis_id": "4126"
+      "mnis_id": "4126",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Euan Stainbank",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26407",
-      "mnis_id": "5110"
+      "mnis_id": "5110",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Naseby",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13704",
-      "mnis_id": "1251"
+      "mnis_id": "1251",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Brady of Altrincham",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,28 +47,32 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4126",
-        "twfy_id": "uk.org.publicwhip/person/24927"
+        "twfy_id": "uk.org.publicwhip/person/24927",
+        "removed": false
       },
       {
         "name": "Euan Stainbank",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5110",
-        "twfy_id": "uk.org.publicwhip/person/26407"
+        "twfy_id": "uk.org.publicwhip/person/26407",
+        "removed": false
       },
       {
         "name": "Lord Naseby",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "1251",
-        "twfy_id": "uk.org.publicwhip/person/13704"
+        "twfy_id": "uk.org.publicwhip/person/13704",
+        "removed": false
       },
       {
         "name": "Lord Brady",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "435",
-        "twfy_id": "uk.org.publicwhip/person/10062"
+        "twfy_id": "uk.org.publicwhip/person/10062",
+        "removed": false
       }
     ]
   },
@@ -87,5 +95,7 @@
     "next_reporting_deadline": "2026-01-02"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/responsible-vaping.htm"
 }

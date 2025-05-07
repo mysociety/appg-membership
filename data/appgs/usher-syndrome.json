@@ -9,28 +9,32 @@
       "name": "Mark Ferguson",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26310",
-      "mnis_id": "5031"
+      "mnis_id": "5031",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Nicholson of Winterbourne",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Katrina Murray",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26494",
-      "mnis_id": "5309"
+      "mnis_id": "5309",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Anna Gelderd",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26618",
-      "mnis_id": "5353"
+      "mnis_id": "5353",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-12"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/usher-syndrome.htm"
 }

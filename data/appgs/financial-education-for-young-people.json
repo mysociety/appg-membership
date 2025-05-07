@@ -9,28 +9,32 @@
       "name": "Jerome Mayhew",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25904",
-      "mnis_id": "4739"
+      "mnis_id": "4739",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Claire Hazelgrove",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26496",
-      "mnis_id": "5306"
+      "mnis_id": "5306",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Blunkett",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10050",
-      "mnis_id": "395"
+      "mnis_id": "395",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Sater",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25734",
-      "mnis_id": "4700"
+      "mnis_id": "4700",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-01-09"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/financial-education-for-young-people.htm"
 }

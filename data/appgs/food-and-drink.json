@@ -9,28 +9,32 @@
       "name": "Mike Reader",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26630",
-      "mnis_id": "5316"
+      "mnis_id": "5316",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Amanda Hack",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26449",
-      "mnis_id": "5149"
+      "mnis_id": "5149",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Blower",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25777",
-      "mnis_id": "4724"
+      "mnis_id": "4724",
+      "removed": false
     },
     {
       "role": "Secretary",
       "name": "Baroness McIntosh of Pickering",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-19"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/food-and-drink.htm"
 }

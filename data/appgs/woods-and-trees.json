@@ -9,28 +9,32 @@
       "name": "Alex Mayer",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26395",
-      "mnis_id": "5141"
+      "mnis_id": "5141",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sarah Dyke",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26270",
-      "mnis_id": "4995"
+      "mnis_id": "4995",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Katie Lam",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26588",
-      "mnis_id": "5285"
+      "mnis_id": "5285",
+      "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Young of Old Scone",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,35 +47,40 @@
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5141",
-        "twfy_id": "uk.org.publicwhip/person/26395"
+        "twfy_id": "uk.org.publicwhip/person/26395",
+        "removed": false
       },
       {
         "name": "Josh Newbury",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5034",
-        "twfy_id": "uk.org.publicwhip/person/26317"
+        "twfy_id": "uk.org.publicwhip/person/26317",
+        "removed": false
       },
       {
         "name": "Baroness Young of Old Scone",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Earl of Caithness",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
-        "twfy_id": null
+        "twfy_id": null,
+        "removed": false
       },
       {
         "name": "Lord Roborough",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4953",
-        "twfy_id": "uk.org.publicwhip/person/26099"
+        "twfy_id": "uk.org.publicwhip/person/26099",
+        "removed": false
       }
     ]
   },
@@ -94,5 +103,7 @@
     "next_reporting_deadline": "2026-01-11"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/woods-and-trees.htm"
 }

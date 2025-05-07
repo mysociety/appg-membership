@@ -9,28 +9,32 @@
       "name": "Fabian Hamilton",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Garnier",
       "party": "Conservative",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Markus Campbell-Savours",
       "party": "Labour",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Ellie Chowns",
       "party": "Green Party",
       "twfy_id": null,
-      "mnis_id": null
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,6 +62,15 @@
     "next_reporting_deadline": "2025-08-01"
   },
   "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "Barrow Cadbury Trust via Parliamentary Human Rights Trust (2 year restricted grant covering June 2023 to June 2025)",
+      "Value £s": "70,000",
+      "Received": "09/06/2023",
+      "Registered": "18/07/2023",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
   "index_date": "250212",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250212/human-rights.htm"
 }

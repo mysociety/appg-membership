@@ -9,28 +9,32 @@
       "name": "Dr Neil Shastri-Hurst",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26437",
-      "mnis_id": "5197"
+      "mnis_id": "5197",
+      "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Fred Thomas",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26441",
-      "mnis_id": "5174"
+      "mnis_id": "5174",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Sarah Bool",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26635",
-      "mnis_id": "5355"
+      "mnis_id": "5355",
+      "removed": false
     },
     {
       "role": "Officer",
       "name": "Anna Gelderd",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26618",
-      "mnis_id": "5353"
+      "mnis_id": "5353",
+      "removed": false
     }
   ],
   "members_list": {
@@ -58,5 +62,7 @@
     "next_reporting_deadline": "2026-03-19"
   },
   "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250328",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/defence-technology.htm"
 }
