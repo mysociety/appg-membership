@@ -537,64 +537,27 @@
   ],
   "updated_appgs": [
     {
-      "slug": "environment",
-      "title": "All-Party Parliamentary Group for the Environment",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/environment.htm"
-    },
-    {
       "slug": "semiconductors",
       "title": "All-Party Parliamentary Group for Semiconductors",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/semiconductors.htm"
     },
     {
-      "slug": "scientific",
-      "title": "Parliamentary and Scientific Committee (an All-Party Parliamentary Group)",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/scientific.htm"
-    },
-    {
       "slug": "italy",
       "title": "All-Party Parliamentary Group on Italy",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/italy.htm"
+    },
+    {
+      "slug": "environment",
+      "title": "All-Party Parliamentary Group for the Environment",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/environment.htm"
+    },
+    {
+      "slug": "scientific",
+      "title": "Parliamentary and Scientific Committee (an All-Party Parliamentary Group)",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/scientific.htm"
     }
   ],
   "differences": [
-    {
-      "slug": "environment",
-      "name": "All-Party Parliamentary Group for the Environment",
-      "differences": [
-        {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        },
-        {
-          "key": "detailed_benefits__0__Registered",
-          "old_value": "",
-          "new_value": "04/10/2024"
-        },
-        {
-          "key": "registrable_benefits",
-          "old_value": "None",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__0__Source",
-          "old_value": "",
-          "new_value": "WSP"
-        },
-        {
-          "key": "detailed_benefits__0__Received",
-          "old_value": "",
-          "new_value": "30/09/2024"
-        },
-        {
-          "key": "detailed_benefits__0__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/environment.htm"
-    },
     {
       "slug": "semiconductors",
       "name": "All-Party Parliamentary Group for Semiconductors",
@@ -608,43 +571,6 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/semiconductors.htm"
     },
     {
-      "slug": "scientific",
-      "name": "Parliamentary and Scientific Committee (an All-Party Parliamentary Group)",
-      "differences": [
-        {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        },
-        {
-          "key": "detailed_benefits__0__Registered",
-          "old_value": "",
-          "new_value": "24/09/2024"
-        },
-        {
-          "key": "registrable_benefits",
-          "old_value": "None",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__0__Source",
-          "old_value": "",
-          "new_value": "AWE PLC"
-        },
-        {
-          "key": "detailed_benefits__0__Received",
-          "old_value": "",
-          "new_value": "12/09/2024"
-        },
-        {
-          "key": "detailed_benefits__0__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/scientific.htm"
-    },
-    {
       "slug": "italy",
       "name": "All-Party Parliamentary Group on Italy",
       "differences": [
@@ -655,6 +581,80 @@
         }
       ],
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/italy.htm"
+    },
+    {
+      "slug": "environment",
+      "name": "All-Party Parliamentary Group for the Environment",
+      "differences": [
+        {
+          "key": "detailed_benefits__0__Registered",
+          "old_value": "",
+          "new_value": "04/10/2024"
+        },
+        {
+          "key": "detailed_benefits__0__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "",
+          "new_value": "30/09/2024"
+        },
+        {
+          "key": "detailed_benefits__0__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__0__Source",
+          "old_value": "",
+          "new_value": "WSP"
+        },
+        {
+          "key": "registrable_benefits",
+          "old_value": "None",
+          "new_value": "Financial Benefits"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/environment.htm"
+    },
+    {
+      "slug": "scientific",
+      "name": "Parliamentary and Scientific Committee (an All-Party Parliamentary Group)",
+      "differences": [
+        {
+          "key": "detailed_benefits__0__Registered",
+          "old_value": "",
+          "new_value": "24/09/2024"
+        },
+        {
+          "key": "detailed_benefits__0__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "",
+          "new_value": "12/09/2024"
+        },
+        {
+          "key": "detailed_benefits__0__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__0__Source",
+          "old_value": "",
+          "new_value": "AWE PLC"
+        },
+        {
+          "key": "registrable_benefits",
+          "old_value": "None",
+          "new_value": "Financial Benefits"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/scientific.htm"
     }
   ]
 }
