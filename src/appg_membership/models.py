@@ -19,6 +19,7 @@ class Member(BaseModel):
     member_type: Literal["mp", "lord", "other"]
     mnis_id: Optional[str] = None
     twfy_id: Optional[str] = None
+    removed: bool = False
 
 
 class MemberList(BaseModel):
@@ -34,6 +35,7 @@ class Officer(BaseModel):
     party: str
     twfy_id: Optional[str] = None
     mnis_id: Optional[str] = None
+    removed: bool = False
 
 
 class WebsiteSource(BaseModel):
@@ -108,6 +110,16 @@ class APPG(BaseModel):
 
     index_date: str = ""
     source_url: Optional[HttpUrl] = None
+
+    def update_from(self, other: APPG):
+        """
+        Update elements that have been updated from other processes.
+        Like members_list and the website (if it's not an official one in the new register).
+        """
+        self.members_list = other.members_list
+        if self.contact_details.website.status != "register":
+            self.contact_details.website = other.contact_details.website
+        return self
 
     def flattened_dict(self) -> dict[str, str]:
         """

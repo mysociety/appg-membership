@@ -197,20 +197,38 @@ def update_appgs_membership(override: bool = False, slug: str = ""):
             appg.members_list.source_method = "ai_search"
             appg.members_list.last_updated = date.today()
             appg.members_list.source_url = HttpUrl(search.source_url())
+
+            # Get all new members from the search
+            new_members_names = [member.name for member in search.all_members()]
             added_count = 0
-            for new_members in search.all_members():
-                if new_members.name not in [x.name for x in appg.members_list.members]:
+            removed_count = 0
+
+            # Mark existing members as removed if they're not in the new list
+            for existing_member in appg.members_list.members:
+                if existing_member.name not in new_members_names:
+                    if not existing_member.removed:
+                        existing_member.removed = True
+                        removed_count += 1
+                else:
+                    # If the member was previously marked as removed but is now present, unmark them
+                    if existing_member.removed:
+                        existing_member.removed = False
+
+            # Add new members that aren't already in the list
+            for new_member in search.all_members():
+                if new_member.name not in [x.name for x in appg.members_list.members]:
                     appg.members_list.members.append(
                         Member(
-                            name=new_members.name,
-                            is_officer=new_members.is_officer,
-                            member_type=new_members.type,
+                            name=new_member.name,
+                            is_officer=new_member.is_officer,
+                            member_type=new_member.type,
                         )
                     )
                     added_count += 1
-            if added_count > 0:
+
+            if added_count > 0 or removed_count > 0:
                 tqdm.write(
-                    f"Added {added_count} new members to {appg.title} ({len(appg.members_list.members)} total)"
+                    f"Added {added_count} new members and marked {removed_count} members as removed for {appg.title} ({len(appg.members_list.members)} total)"
                 )
             appg.save()
 
