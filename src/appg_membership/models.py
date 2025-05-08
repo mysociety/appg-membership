@@ -57,9 +57,22 @@ class Member(BaseModel):
 
 class MemberList(BaseModel):
     source_method: Literal["ai_search", "manual", "empty"] = "empty"
-    source_url: Optional[HttpUrl] = None
+    source_url: list[HttpUrl] = Field(default_factory=list)
     last_updated: Optional[date] = None
     members: List[Member] = Field(default_factory=list)
+
+    @field_validator("source_url", mode="before")
+    def _check_source_url(cls, v: HttpUrl | list[HttpUrl] | None) -> list[HttpUrl]:
+        """
+        Check if the source URL is a list of URLs.
+        Backward compatibility for the old format.
+        """
+        if isinstance(v, str):
+            return [HttpUrl(v)]
+        elif isinstance(v, list):
+            return [HttpUrl(url) for url in v]
+        else:
+            return []
 
 
 class Officer(BaseModel):

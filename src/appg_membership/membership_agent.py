@@ -68,13 +68,16 @@ class APPGMemberList(BaseModel):
         description="The source page(s) that contain the membership list",
     )
 
-    def source_url(self) -> str:
+    def single_url_string(self) -> str:
+        return ", ".join(str(x.source_url) for x in self.source_pages)
+
+    def source_urls(self) -> list[HttpUrl]:
         """
         Get the source URL of the first source page.
         """
         if self.source_pages:
-            return self.source_pages[0].source_url
-        return ""
+            return [HttpUrl(x.source_url) for x in self.source_pages]
+        return []
 
     def all_members(self) -> list[APPGMember]:
         """
@@ -144,7 +147,7 @@ def search_for_appg_members(appg: APPG, recursion: int = 0) -> APPGMemberList:
         print(f"Error: {e}")
         return APPGMemberList(members_list_found=False, source_pages=[])
 
-    if results.source_url:
+    if results.source_pages:
         # Check if the members are present in the source URL
         if results.check_names_present():
             return results
@@ -186,17 +189,17 @@ def update_appgs_membership(override: bool = False, slug: str = ""):
             if appg.members_list.source_method in ["empty", "ai_search"]:
                 appg.members_list.source_method = "empty"
                 appg.members_list.last_updated = date.today()
-                appg.members_list.source_url = None
+                appg.members_list.source_url = []
                 appg.members_list.members = []
                 appg.save()
 
-        if search.members_list_found and search.source_url:
+        if search.members_list_found and search.source_pages:
             tqdm.write(
-                f"Found members list for {appg.title}: {search.source_url()} ({len(search.all_members())} members)"
+                f"Found members list for {appg.title}: {search.single_url_string()} ({len(search.all_members())} members)"
             )
             appg.members_list.source_method = "ai_search"
             appg.members_list.last_updated = date.today()
-            appg.members_list.source_url = HttpUrl(search.source_url())
+            appg.members_list.source_url = search.source_urls()
 
             # Get all new members from the search
             new_members_names = [member.name for member in search.all_members()]
