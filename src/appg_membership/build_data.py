@@ -4,11 +4,27 @@ from pathlib import Path
 import pandas as pd
 from mysoc_validator import Popolo
 
-from appg_membership.models import APPGList
+from appg_membership.models import APPGList, register_dates
 
 package_path = Path("data", "packages", "appg_groups_and_memberships")
 
-last_register = date(2025, 3, 28)
+
+# Convert the latest register date string to a datetime.date object
+def get_latest_register_date():
+    """
+    Get the latest register date from models.register_dates
+    Converts the string format (YYMMDD) to a date object
+    """
+    latest_register = register_dates[-1]
+    # Parse YYMMDD format to date object
+    year = int("20" + latest_register[0:2])  # Convert YY to full year
+    month = int(latest_register[2:4])
+    day = int(latest_register[4:6])
+    return date(year, month, day)
+
+
+# Use the latest register date dynamically
+last_register = get_latest_register_date()
 
 
 def build_register():

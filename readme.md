@@ -1,4 +1,3 @@
-
 # APPG Membership
 
 Scraper and raw data for UK Parliament APPG information.
@@ -25,4 +24,126 @@ We are storing some membership lists from information requests in data/raw/septe
 
 ## Parliament ID assignment
 
-This is handled through automatic matching to people.json - and a spelling reconciliation tool. 
+This is handled through automatic matching to people.json - and a spelling reconciliation tool.
+
+## Updating When a New APPG Register is Released
+
+When a new APPG register is published, follow these steps to update the system:
+
+### 1. Update the Register Date in models.py
+
+1. Open `/src/appg_membership/models.py`
+2. Add the new register date to the `register_dates` list at the top of the file
+   ```python
+   register_dates = [
+       "240828",  # 28 August 2024
+       "241009",  # 9 October 2024
+       "241120",  # 20 November 2024
+       "250102",  # 2 January 2025
+       "250212",  # 12 February 2025
+       "250328",  # 28 March 2025
+       "250507",  # 7 May 2025
+       "YYMMDD",  # Add the new date here in format YYMMDD with a comment
+   ]
+   ```
+
+### 2. Fetch the New Register
+
+Run the following command to fetch only the latest register:
+
+```bash
+project fetch_appg_index --latest-only
+```
+
+This will:
+- Download the APPG index from the UK Parliament website
+- Parse the HTML for each APPG
+- Save the data to JSON files in the `data/appgs/` directory
+- Preserve any membership data from previous registers
+
+### 3. Search for Missing Websites
+
+```bash
+project search_for_websites
+```
+
+This command will search for websites for APPGs that don't have one listed in the register, marking potential matches with 'search_precheck' status.
+
+### 4. Review Website Candidates
+
+```bash
+project review_websites
+```
+
+This interactive tool allows you to review each automatically found website:
+- **a**: Accept the URL as valid (status → 'search')
+- **r**: Reject the URL as invalid (URL cleared, status → 'bad_search')
+- **m**: Enter a different URL manually (status → 'manual')
+- **s**: Skip this APPG for now (status remains 'search_precheck')
+- **q**: Quit the review process and save progress
+
+You can open each URL in a browser to verify it's the correct website before making a decision.
+
+### 5. Scrape Membership Information
+
+```bash
+project scrape_memberships
+```
+
+This will attempt to extract membership lists from websites with 'search' or 'manual' status.
+
+### 6. Load Membership Spreadsheets
+
+```bash
+project load_spreadsheets
+```
+
+This loads any available spreadsheets with membership information.
+
+### 7. Add Person IDs to Members
+
+```bash
+project add_person_ids
+```
+
+This matches member names to known parliament members and assigns IDs.
+
+### 8. Correct Unmatched Names
+
+```bash
+project correct_unmatched_names
+```
+
+This interactive tool helps fix name mismatches:
+- Shows potential matches for unmatched names
+- Lets you select the correct match or enter manually
+
+### 9. Build the Final Dataset
+
+```bash
+project build
+```
+
+This compiles all the data into the final package format. The system will automatically use the latest register date from `models.py`.
+
+### 10. Generate Diffs Between Registers
+
+```bash
+project generate_diffs
+```
+
+This creates diff reports showing what changed between consecutive registers, which are saved to:
+- `data/interim/diffs/` (JSON format)
+- `docs/_diffs/` (Markdown format for the Jekyll site)
+
+### 11. Verify the Results
+
+After completing these steps, check:
+1. New JSON files in `data/appgs/` are correctly updated
+2. The diff report in `docs/_diffs/` shows expected changes
+3. The website records the appropriate number of accepted/rejected sites
+4. Membership information has been extracted where available
+
+### 12. Rebuild the Documentation Site (if hosting)
+
+Run the Jekyll build process to update the documentation site with the new diffs.
