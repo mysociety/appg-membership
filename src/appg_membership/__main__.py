@@ -103,6 +103,24 @@ def generate_diffs():
     generate_diffs()
 
 
+@app.command()
+def export_crowdsource(output_path: str = None):
+    """
+    Export an Excel file for external crowdsourcing of APPG information.
+
+    Creates an Excel spreadsheet with information about all APPGs including their current website
+    and membership status. The spreadsheet can be used to crowdsource verification of whether
+    APPGs have websites or membership lists that weren't found by automatic methods.
+
+    Args:
+        output_path: Optional path for the output Excel file. If not provided,
+                    a file will be created in data/exports/ with a timestamp.
+    """
+    from .export_data import export_for_crowdsource
+
+    export_for_crowdsource(output_path)
+
+
 def main():
     """
     Main function to run the Typer app.

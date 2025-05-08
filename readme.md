@@ -144,6 +144,30 @@ After completing these steps, check:
 3. The website records the appropriate number of accepted/rejected sites
 4. Membership information has been extracted where available
 
-### 12. Rebuild the Documentation Site (if hosting)
+### 12. Export Data for External Crowdsourcing (Optional)
+
+If you need external help to verify websites and membership information that the automatic scraping couldn't find:
+
+```bash
+python -m appg_membership export_crowdsource
+```
+
+This creates an Excel spreadsheet with the following fields:
+- `starting_status`: Current status (no_website, website, website_no_members, website_members_list)
+- `review_status`: Blank column for crowdsourcers to fill
+- `appg_slug`: Unique identifier for the APPG
+- `appg_name`: Full name of the APPG
+- `parliament_source_url`: URL to the official parliament page
+- `google_link`: Pre-populated Google search link
+- `appg_website`: Current website URL if available
+- `appg_members_page`: Members page URL if available
+
+The Excel file is saved to `data/exports/` with a timestamp in the filename, or you can specify a custom path:
+
+```bash
+python -m appg_membership export_crowdsource --output-path=/path/to/your/file.xlsx
+```
+
+### 13. Rebuild the Documentation Site (if hosting)
 
 Run the Jekyll build process to update the documentation site with the new diffs.
