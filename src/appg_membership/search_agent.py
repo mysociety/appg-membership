@@ -1,3 +1,4 @@
+import httpx
 from pydantic import BaseModel, Field
 from pydantic.networks import HttpUrl
 from pydantic_ai import Agent
@@ -22,6 +23,18 @@ class APPGSearchOutput(BaseModel):
     )
 
 
+def check_if_url_404(url: str) -> bool:
+    """
+    Check if the given URL gives a 404 code.
+    """
+    try:
+        response = httpx.get(url)
+        return response.status_code == 404
+    except httpx.RequestError as e:
+        print(f"Error checking URL {url}: {e}")
+        return True
+
+
 prompt = """
 You are searching for the page on the internet of a given all party parliamentary group (APPG) in the UK Parliament.
 You will be given the name of the APPG and you should search for the page on the UK Parliament website.
@@ -35,13 +48,15 @@ Sometimes you will find a blog post or a news article about the APPG, but not th
 You might need to try several variations of the name of the APPG to find the page.
 for instance '[x] APPG' or 'All-Party Parliamentary Group on [x]'
 
+Sometimes an APPG's website used to exist but doesn't - worth checking the final candidate for a 404 error.
+
 """
 
 # Create a new agent instance with the provided message and output type
 agent = Agent(
     model,
     system_prompt=prompt,
-    tools=[tavily_search_tool(api_key=settings.TAVITY_API_KEY)],
+    tools=[tavily_search_tool(api_key=settings.TAVITY_API_KEY), check_if_url_404],
     output_type=APPGSearchOutput,
 )
 
