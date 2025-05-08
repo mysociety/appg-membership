@@ -537,9 +537,9 @@
   ],
   "updated_appgs": [
     {
-      "slug": "semiconductors",
-      "title": "All-Party Parliamentary Group for Semiconductors",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/semiconductors.htm"
+      "slug": "italy",
+      "title": "All-Party Parliamentary Group on Italy",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/italy.htm"
     },
     {
       "slug": "scientific",
@@ -552,32 +552,32 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/environment.htm"
     },
     {
-      "slug": "italy",
-      "title": "All-Party Parliamentary Group on Italy",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/italy.htm"
+      "slug": "semiconductors",
+      "title": "All-Party Parliamentary Group for Semiconductors",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/semiconductors.htm"
     }
   ],
   "differences": [
     {
-      "slug": "semiconductors",
-      "name": "All-Party Parliamentary Group for Semiconductors",
+      "slug": "italy",
+      "name": "All-Party Parliamentary Group on Italy",
       "differences": [
         {
-          "key": "officers__2__name",
-          "old_value": "Gurinder Josan",
-          "new_value": "Gurinder Singh Josan"
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Charlie Mannix Beale, Office of  Alberto Costa MP. Tel: 020 7219 1049",
+          "new_value": "Charlie Mannix Beale, Office of Alberto Costa MP. Tel: 020 7219 1049"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/semiconductors.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/italy.htm"
     },
     {
       "slug": "scientific",
       "name": "Parliamentary and Scientific Committee (an All-Party Parliamentary Group)",
       "differences": [
         {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
+          "key": "registrable_benefits",
+          "old_value": "None",
+          "new_value": "Financial Benefits"
         },
         {
           "key": "detailed_benefits__0__benefit_type",
@@ -585,19 +585,19 @@
           "new_value": "Financial Benefits"
         },
         {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "",
+          "new_value": "12/09/2024"
+        },
+        {
           "key": "detailed_benefits__0__Registered",
           "old_value": "",
           "new_value": "24/09/2024"
         },
         {
-          "key": "registrable_benefits",
-          "old_value": "None",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__0__Received",
+          "key": "detailed_benefits__0__Value £s",
           "old_value": "",
-          "new_value": "12/09/2024"
+          "new_value": "5,000"
         },
         {
           "key": "detailed_benefits__0__Source",
@@ -612,9 +612,9 @@
       "name": "All-Party Parliamentary Group for the Environment",
       "differences": [
         {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
+          "key": "registrable_benefits",
+          "old_value": "None",
+          "new_value": "Financial Benefits"
         },
         {
           "key": "detailed_benefits__0__benefit_type",
@@ -622,19 +622,19 @@
           "new_value": "Financial Benefits"
         },
         {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "",
+          "new_value": "30/09/2024"
+        },
+        {
           "key": "detailed_benefits__0__Registered",
           "old_value": "",
           "new_value": "04/10/2024"
         },
         {
-          "key": "registrable_benefits",
-          "old_value": "None",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__0__Received",
+          "key": "detailed_benefits__0__Value £s",
           "old_value": "",
-          "new_value": "30/09/2024"
+          "new_value": "5,000"
         },
         {
           "key": "detailed_benefits__0__Source",
@@ -645,16 +645,16 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/environment.htm"
     },
     {
-      "slug": "italy",
-      "name": "All-Party Parliamentary Group on Italy",
+      "slug": "semiconductors",
+      "name": "All-Party Parliamentary Group for Semiconductors",
       "differences": [
         {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Charlie Mannix Beale, Office of  Alberto Costa MP. Tel: 020 7219 1049",
-          "new_value": "Charlie Mannix Beale, Office of Alberto Costa MP. Tel: 020 7219 1049"
+          "key": "officers__2__name",
+          "old_value": "Gurinder Josan",
+          "new_value": "Gurinder Singh Josan"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/italy.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/semiconductors.htm"
     }
   ]
 }
