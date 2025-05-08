@@ -86,7 +86,13 @@ class Officer(BaseModel):
 
 class WebsiteSource(BaseModel):
     status: Literal[
-        "register", "no_register", "search", "no_search", "bad_search", "manual"
+        "register",
+        "no_register",
+        "search_precheck",
+        "search",
+        "no_search",
+        "bad_search",
+        "manual",
     ] = "no_register"
     url: Optional[HttpUrl] = None
 

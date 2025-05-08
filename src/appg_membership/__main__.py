@@ -24,6 +24,22 @@ def search_for_websites():
 
 
 @app.command()
+def review_websites():
+    """
+    Interactive terminal app to review websites found by automatic search.
+
+    Reviews all APPGs with a 'search_precheck' status, allowing you to:
+    - Accept the URL (changes status to 'search')
+    - Reject the URL (sets URL to None and status to 'bad_search')
+    - Provide a manual URL (sets the URL and status to 'manual')
+    - Skip for now (keep as 'search_precheck')
+    """
+    from .website_review import review_website_candidates
+
+    review_website_candidates()
+
+
+@app.command()
 def scrape_memberships():
     """
     Update the membership of APPGs via scraper.

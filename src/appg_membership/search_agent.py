@@ -88,7 +88,7 @@ def update_website(override: bool = False, slug: str = ""):
             tqdm.write(f"Searching for {appg.title}...")
             search = search_for_appg(appg)
             if search.has_website and search.url:
-                appg.contact_details.website.status = "search"
+                appg.contact_details.website.status = "search_precheck"
                 appg.contact_details.website.url = HttpUrl(search.url)
                 tqdm.write(
                     f"Found website for {appg.title}: {search.url} ({search.desc})"
