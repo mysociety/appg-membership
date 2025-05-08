@@ -15,6 +15,7 @@ register_dates = [
     "250102",  # 2 January 2025
     "250212",  # 12 February 2025
     "250328",  # 28 March 2025
+    "250507",  # 7 May 2025
 ]
 
 

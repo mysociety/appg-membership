@@ -1,0 +1,105 @@
+{
+  "slug": "global-tuberculosis",
+  "title": "All-Party Parliamentary Group for Global Tuberculosis",
+  "purpose": "The APPG's mission is to accelerate progress towards ending the global TB epidemic. We work primarily through the UK parliament to push the UK government to improve its policies on TB and devote more resources to tackling the epidemic.",
+  "category": "Subject Group",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Sojan Joseph",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26578",
+      "mnis_id": "5247",
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Lord Herbert of South Downs",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Kate Osamor",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/25365",
+      "mnis_id": "4515",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Baroness Suttie",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/25198",
+      "mnis_id": "4298",
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": "https://appg-tb.org.uk/about/",
+    "last_updated": "2025-05-08",
+    "members": [
+      {
+        "name": "Sojan Joseph",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5247",
+        "twfy_id": "uk.org.publicwhip/person/26578",
+        "removed": false
+      },
+      {
+        "name": "Lord Nick Herbert",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Kate Osamor",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4515",
+        "twfy_id": "uk.org.publicwhip/person/25365",
+        "removed": false
+      },
+      {
+        "name": "Baroness Suttie",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4298",
+        "twfy_id": "uk.org.publicwhip/person/25198",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Sojan Joseph MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 4535.",
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Aqsa Shah, Results UK. Tel: 020 7073 2647",
+    "public_enquiry_point_email": null,
+    "secretariat": "Results UK acts as the group's secretariat. https://www.results.org.uk/",
+    "website": {
+      "status": "register",
+      "url": "https://appg-tb.org.uk/"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2025-03-24",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "24 Mar to 23 Mar",
+    "next_reporting_deadline": "2026-07-24"
+  },
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250507",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/global-tuberculosis.htm",
+  "categories": [
+    "Health, Medicine & Public Health",
+    "International Affairs, Development & Trade"
+  ]
+}

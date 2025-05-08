@@ -94,10 +94,39 @@
     "reporting_year": "10 Sep to 09 Sep",
     "next_reporting_deadline": "2026-01-10"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "250328",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/engineering.htm",
+  "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "Rolls Royce",
+      "Value £s": "5,000",
+      "Received": "31/01/2025",
+      "Registered": "31/03/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Institute of Civil Engineers",
+      "Value £s": "5,000",
+      "Received": "13/02/2025",
+      "Registered": "31/03/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Royal Commission for the Exhibition of 1851",
+      "Value £s": "5,000",
+      "Received": "05/03/2025",
+      "Registered": "31/03/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Royal Academy of Engineering",
+      "Value £s": "5,000",
+      "Received": "21/03/2025",
+      "Registered": "31/03/2025",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
+  "index_date": "250507",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/engineering.htm",
   "categories": [
     "Education, Skills & Youth",
     "Science, Technology & Innovation"

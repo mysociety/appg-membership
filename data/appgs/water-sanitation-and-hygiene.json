@@ -6,14 +6,6 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Laura Kyrke-Smith",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26629",
-      "mnis_id": "5341",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Dr Rupa Huq",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25284",
@@ -26,6 +18,14 @@
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26509",
       "mnis_id": "5214",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lee Pitcher",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26464",
+      "mnis_id": "5233",
       "removed": false
     },
     {
@@ -44,10 +44,10 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Laura Kyrke-Smith MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_name": "Dr Rupa Huq MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 6865.",
     "registered_contact_email": null,
-    "public_enquiry_point_name": "Timothy Ingram, WaterAid. Tel: 020 7934 4594",
+    "public_enquiry_point_name": "George Bose, WaterAid. Tel: 020 7793 5121",
     "public_enquiry_point_email": null,
     "secretariat": "WaterAid acts as the group's secretariat. https://www.wateraid.org/",
     "website": {
@@ -63,8 +63,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250328",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250328/water-sanitation-and-hygiene.htm",
+  "index_date": "250507",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/water-sanitation-and-hygiene.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "International Affairs, Development & Trade"

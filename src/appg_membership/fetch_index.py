@@ -371,7 +371,7 @@ def fetch_from_index(index_date: str, is_latest: bool = False):
 
 def fetch_all(latest_only: bool = False):
     if latest_only:
-        registers = register_dates[:-1]
+        registers = register_dates[-1:]
     else:
         registers = register_dates
 
