@@ -104,7 +104,7 @@ def generate_diffs():
 
 
 @app.command()
-def export_crowdsource(output_path: str = None):
+def export_crowdsource(output_path: str | None = None):
     """
     Export an Excel file for external crowdsourcing of APPG information.
 
