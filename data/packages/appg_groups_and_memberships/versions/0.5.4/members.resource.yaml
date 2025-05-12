@@ -1,0 +1,121 @@
+title: APPG Memberships
+description: "APPG Memberships scraped using experimental ML scraper.\nDO NOT RELY\
+  \ ON 'ai_search' MEMBERSHIP DATA YET - needs further validation.\n"
+custom:
+  row_count: 7402
+path: members.parquet
+name: members
+profile: data-resource
+scheme: file
+format: parquet
+hashing: md5
+encoding: utf-8
+schema:
+  fields:
+  - name: name
+    type: string
+    description: Original name from the scraper (may contain typos)
+    constraints:
+      unique: false
+    example: ALAW
+  - name: officer_role
+    type: string
+    description: Role of the member in the APPG
+    constraints:
+      unique: false
+      enum:
+      - Assistant Chair
+      - Chair & Registered Contact
+      - Co-Chair
+      - Co-Vice-Chair
+      - Deputy Chair
+      - Honorary President
+      - Honorary Secretary
+      - Officer
+      - President
+      - Secretary
+      - Senior Vice Chair
+      - Treasurer
+      - Vice Chair
+    example: Assistant Chair
+  - name: twfy_id
+    type: string
+    description: TheyWorkForYou ID for the member
+    constraints:
+      unique: false
+    example: uk.org.publicwhip/person/10001
+  - name: mnis_id
+    type: string
+    description: Parliamentary ID for the member
+    constraints:
+      unique: false
+    example: '1028'
+  - name: canon_name
+    type: string
+    description: Name from the TWFY database
+    constraints:
+      unique: false
+    example: Abena Oppong-Asare
+  - name: appg
+    type: string
+    description: Slugified name of the APPG
+    constraints:
+      unique: false
+    example: abraham-accords
+  - name: is_officer
+    type: boolean
+    description: Is the member an officer of the APPG?
+    constraints:
+      unique: false
+      enum:
+      - false
+      - true
+    example: 'False'
+  - name: member_type
+    type: string
+    description: Type of member (trusting source, not always right)
+    constraints:
+      unique: false
+      enum:
+      - lord
+      - mp
+      - other
+    example: lord
+  - name: source
+    type: string
+    description: Source of the data
+    constraints:
+      unique: false
+      enum:
+      - ai_search
+      - manual
+      - parliament
+    example: ai_search
+  - name: last_updated
+    type: string
+    description: Date the data was last updated
+    constraints:
+      unique: false
+      enum:
+      - '2024-12-01'
+      - '2025-04-28'
+      - '2025-04-29'
+      - '2025-04-30'
+      - '2025-05-07'
+      - '2025-05-08'
+    example: '2024-12-01'
+  - name: url_source
+    type: string
+    description: URL of the source of the data
+    constraints:
+      unique: false
+    example: "[HttpUrl('http://www.appg-endoflifechoice.org.uk/members')]"
+  - name: removed
+    type: string
+    description: Is this a previous member who is no longer a member.
+    constraints:
+      unique: false
+      enum:
+      - 'False'
+    example: 'False'
+hash: 176488525cf9ff0224cff3668b53251f
