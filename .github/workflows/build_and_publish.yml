@@ -34,6 +34,7 @@ jobs:
             project generate-diffs
             dataset build --all
             dataset version auto --auto-ban major --all --publish
+            dataset publish --all
             
       - name: Push new data
         id: auto-commit-action

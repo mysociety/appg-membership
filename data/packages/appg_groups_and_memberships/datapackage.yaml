@@ -1,6 +1,8 @@
 name: appg_groups_and_memberships
 title: APPG Groups and Memberships
-description: "APPG register with experimental ML membership scrapers.\n"
+description: |
+  APPG register with experimental ML membership scrapers.
+  DO NOT REPLY ON 'ai_search' MEMBERSHIP DATA YET - needs further validation.
 version: 0.5.2
 licenses:
 - name: CC-BY-4.0

@@ -105,10 +105,6 @@ class DiffResult(BaseModel):
                 f.write("- [Removed APPGs](#removed-appgs)\n")
             if self.updated_appgs:
                 f.write("- [Updated APPGs](#updated-appgs)\n")
-                for appg in sorted(self.updated_appgs, key=lambda x: x.title):
-                    # Create kebab-case anchor link
-                    anchor = f"changes-to-{appg.slug.lower().replace('_', '-')}"
-                    f.write(f"  - [{appg.title}](#{anchor})\n")
             f.write("\n")
 
             # Write summary section
