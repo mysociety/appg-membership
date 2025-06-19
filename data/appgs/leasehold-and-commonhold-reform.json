@@ -5,6 +5,22 @@
   "category": "Subject Group",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Joe Powell",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26477",
+      "mnis_id": "5229",
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Amanda Hack",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26449",
+      "mnis_id": "5149",
+      "removed": false
+    },
+    {
       "role": "Co-Chair",
       "name": "Neil O'Brien",
       "party": "Conservative",
@@ -13,19 +29,11 @@
       "removed": false
     },
     {
-      "role": "Officer",
-      "name": "Amanda Hack",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26449",
-      "mnis_id": "5149",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Jack Abbott",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26385",
-      "mnis_id": "5131",
+      "role": "Co-Chair",
+      "name": "Mr Joshua Reynolds",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26608",
+      "mnis_id": "5343",
       "removed": false
     }
   ],
@@ -36,8 +44,8 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
+    "registered_contact_name": "Joe Powell MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": null,
     "public_enquiry_point_name": "Sebastian O’Kelly, Leasehold Knowledge Partnership. Tel: 07808 328 230",
     "public_enquiry_point_email": null,
@@ -55,8 +63,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250507",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/leasehold-and-commonhold-reform.htm",
+  "index_date": "250618",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250618/leasehold-and-commonhold-reform.htm",
   "categories": [
     "Housing, Planning & Built Environment"
   ]

@@ -13,6 +13,14 @@
       "removed": false
     },
     {
+      "role": "Co-Chair",
+      "name": "Sam Carling",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26558",
+      "mnis_id": "5308",
+      "removed": false
+    },
+    {
       "role": "President",
       "name": "Viscount Stansgate",
       "party": "Labour",
@@ -26,14 +34,6 @@
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13434",
       "mnis_id": "2539",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Sam Carling",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26558",
-      "mnis_id": "5308",
       "removed": false
     }
   ],
@@ -118,10 +118,80 @@
       "Received": "29/11/2024",
       "Registered": "22/01/2025",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Parliamentary Scientific and Technical Information Foundation",
+      "Value £s": "5,000",
+      "Received": "26/03/2025",
+      "Registered": "13/05/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Institute for Biomedical Science",
+      "Value £s": "2,500",
+      "Received": "03/04/2025",
+      "Registered": "13/05/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Royal Society of Chemistry",
+      "Value £s": "5,000",
+      "Received": "04/04/2025",
+      "Registered": "13/05/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Clay Mathematics Institute",
+      "Value £s": "5,000",
+      "Received": "04/04/2025",
+      "Registered": "13/05/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Physiological Society",
+      "Value £s": "5,000",
+      "Received": "10/04/2025",
+      "Registered": "13/05/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "University of Warwick",
+      "Value £s": "5,000",
+      "Received": "23/04/2025",
+      "Registered": "13/05/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Nutrition Society",
+      "Value £s": "5,000",
+      "Received": "02/05/2025",
+      "Registered": "13/05/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Royal Academy of Engineering",
+      "Value £s": "5,000",
+      "Received": "07/05/2025",
+      "Registered": "13/05/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "London Mathematical Society",
+      "Value £s": "5,000",
+      "Received": "07/05/2025",
+      "Registered": "13/05/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "UK Research and Innovation",
+      "Value £s": "5,000",
+      "Received": "07/05/2025",
+      "Registered": "13/05/2025",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "250507",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/scientific.htm",
+  "index_date": "250618",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250618/scientific.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

@@ -6,26 +6,26 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Deirdre Costigan",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26384",
-      "mnis_id": "5075",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Alberto Costa",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25413",
-      "mnis_id": "4439",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "James Asser",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26594",
       "mnis_id": "5211",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Claire Young",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26458",
+      "mnis_id": "5140",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Lucas",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/13301",
+      "mnis_id": "1879",
       "removed": false
     },
     {
@@ -591,7 +591,7 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Deirdre Costigan MP",
+    "registered_contact_name": "James Asser MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": null,
     "public_enquiry_point_name": "Henry Bettley, Keep Britain Tidy. Tel: 01942 612655",
@@ -610,8 +610,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250507",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/tidy-britain.htm",
+  "index_date": "250618",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250618/tidy-britain.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

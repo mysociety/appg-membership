@@ -52,7 +52,7 @@ When a new APPG register is published, follow these steps to update the system:
 Run the following command to fetch only the latest register:
 
 ```bash
-project fetch_appg_index --latest-only
+project fetch-appg-index --latest-only
 ```
 
 This will:
@@ -64,7 +64,7 @@ This will:
 ### 3. Search for Missing Websites
 
 ```bash
-project search_for_websites
+project search-for-websites
 ```
 
 This command will search for websites for APPGs that don't have one listed in the register, marking potential matches with 'search_precheck' status.
@@ -72,7 +72,7 @@ This command will search for websites for APPGs that don't have one listed in th
 ### 4. Review Website Candidates
 
 ```bash
-project review_websites
+project review-websites
 ```
 
 This interactive tool allows you to review each automatically found website:
@@ -87,7 +87,7 @@ You can open each URL in a browser to verify it's the correct website before mak
 ### 5. Scrape Membership Information
 
 ```bash
-project scrape_memberships
+project scrape-memberships
 ```
 
 This will attempt to extract membership lists from websites with 'search' or 'manual' status.
@@ -95,7 +95,7 @@ This will attempt to extract membership lists from websites with 'search' or 'ma
 ### 6. Load Membership Spreadsheets
 
 ```bash
-project load_spreadsheets
+project load-spreadsheets
 ```
 
 This loads any available spreadsheets with membership information.
@@ -103,7 +103,7 @@ This loads any available spreadsheets with membership information.
 ### 7. Add Person IDs to Members
 
 ```bash
-project add_person_ids
+project add-person-ids
 ```
 
 This matches member names to known parliament members and assigns IDs.
@@ -111,7 +111,7 @@ This matches member names to known parliament members and assigns IDs.
 ### 8. Correct Unmatched Names
 
 ```bash
-project correct_unmatched_names
+project correct-unmatched-names
 ```
 
 This interactive tool helps fix name mismatches:
@@ -129,7 +129,7 @@ This compiles all the data into the final package format. The system will automa
 ### 10. Generate Diffs Between Registers
 
 ```bash
-project generate_diffs
+project generate-diffs
 ```
 
 This creates diff reports showing what changed between consecutive registers, which are saved to:

@@ -6,10 +6,18 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Dan Carden",
+      "name": "Catherine Atkinson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25642",
-      "mnis_id": "4651",
+      "twfy_id": "uk.org.publicwhip/person/26405",
+      "mnis_id": "5143",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Baroness Bonham-Carter of Yarnbury",
+      "party": "Liberal Democrat",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -22,18 +30,10 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Lord Hannan of Kingsclere",
+      "name": "Baroness Hooper",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Baroness Bonham-Carter of Yarnbury",
-      "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13081",
+      "mnis_id": "2005",
       "removed": false
     }
   ],
@@ -44,8 +44,8 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Dan Carden MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 6236.",
+    "registered_contact_name": "Catherine Atkinson MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": null,
     "public_enquiry_point_name": null,
     "public_enquiry_point_email": null,
@@ -63,8 +63,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250507",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/mexico.htm",
+  "index_date": "250618",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250618/mexico.htm",
   "categories": [
     "Country Group"
   ]
