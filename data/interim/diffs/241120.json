@@ -712,9 +712,79 @@
   ],
   "updated_appgs": [
     {
+      "slug": "ocean",
+      "title": "All-Party Parliamentary Group for the Ocean",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/ocean.htm"
+    },
+    {
+      "slug": "access-to-justice",
+      "title": "All-Party Parliamentary Group on Access to Justice",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/access-to-justice.htm"
+    },
+    {
+      "slug": "formula-1-and-motorsport",
+      "title": "All-Party Parliamentary Group on Formula 1 and Motorsport",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/formula-1-and-motorsport.htm"
+    },
+    {
+      "slug": "gypsies-travellers-and-roma",
+      "title": "All-Party Parliamentary Group for Gypsies, Travellers and Roma",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/gypsies-travellers-and-roma.htm"
+    },
+    {
+      "slug": "london",
+      "title": "All-Party Parliamentary Group for London",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/london.htm"
+    },
+    {
+      "slug": "poland",
+      "title": "All-Party Parliamentary Group on Poland",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/poland.htm"
+    },
+    {
+      "slug": "british-jews",
+      "title": "All-Party Parliamentary Group on British Jews",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-jews.htm"
+    },
+    {
+      "slug": "taiwan",
+      "title": "British-Taiwanese All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/taiwan.htm"
+    },
+    {
+      "slug": "autism",
+      "title": "All-Party Parliamentary Group on Autism",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/autism.htm"
+    },
+    {
+      "slug": "south-west",
+      "title": "All-Party Parliamentary Group for the great South West",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-west.htm"
+    },
+    {
       "slug": "water",
       "title": "All-Party Parliamentary Water Group",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/water.htm"
+    },
+    {
+      "slug": "south-east",
+      "title": "All-Party Parliamentary Group for the South East",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-east.htm"
+    },
+    {
+      "slug": "football",
+      "title": "Football All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/football.htm"
+    },
+    {
+      "slug": "kinship-care",
+      "title": "All-Party Parliamentary Group on Kinship Care",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/kinship-care.htm"
+    },
+    {
+      "slug": "japan",
+      "title": "All-Party Parliamentary Group on Japan",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/japan.htm"
     },
     {
       "slug": "steel-and-metals-related-industries",
@@ -727,14 +797,34 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/human-rights.htm"
     },
     {
+      "slug": "pharmacy",
+      "title": "All-Party Parliamentary Group on Pharmacy",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/pharmacy.htm"
+    },
+    {
+      "slug": "beer",
+      "title": "All-Party Parliamentary Beer Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/beer.htm"
+    },
+    {
+      "slug": "engineering",
+      "title": "All-Party Parliamentary Engineering Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/engineering.htm"
+    },
+    {
+      "slug": "semiconductors",
+      "title": "All-Party Parliamentary Group for Semiconductors",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/semiconductors.htm"
+    },
+    {
       "slug": "brain-tumours",
       "title": "All-Party Parliamentary Group on Brain Tumours",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/brain-tumours.htm"
     },
     {
-      "slug": "formula-1-and-motorsport",
-      "title": "All-Party Parliamentary Group on Formula 1 and Motorsport",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/formula-1-and-motorsport.htm"
+      "slug": "music",
+      "title": "All-Party Parliamentary Group on Music",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/music.htm"
     },
     {
       "slug": "child-of-the-north",
@@ -747,107 +837,227 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/uk-food-security.htm"
     },
     {
-      "slug": "semiconductors",
-      "title": "All-Party Parliamentary Group for Semiconductors",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/semiconductors.htm"
-    },
-    {
       "slug": "electric-vehicle",
       "title": "Electric Vehicle All-Party Parliamentary Group",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/electric-vehicle.htm"
     },
     {
-      "slug": "british-jews",
-      "title": "All-Party Parliamentary Group on British Jews",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-jews.htm"
-    },
-    {
       "slug": "british-muslims",
       "title": "All-Party Parliamentary Group on British Muslims",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-muslims.htm"
-    },
-    {
-      "slug": "poland",
-      "title": "All-Party Parliamentary Group on Poland",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/poland.htm"
-    },
-    {
-      "slug": "gypsies-travellers-and-roma",
-      "title": "All-Party Parliamentary Group for Gypsies, Travellers and Roma",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/gypsies-travellers-and-roma.htm"
-    },
-    {
-      "slug": "taiwan",
-      "title": "British-Taiwanese All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/taiwan.htm"
-    },
-    {
-      "slug": "kinship-care",
-      "title": "All-Party Parliamentary Group on Kinship Care",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/kinship-care.htm"
-    },
-    {
-      "slug": "south-west",
-      "title": "All-Party Parliamentary Group for the great South West",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-west.htm"
-    },
-    {
-      "slug": "pharmacy",
-      "title": "All-Party Parliamentary Group on Pharmacy",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/pharmacy.htm"
-    },
-    {
-      "slug": "ocean",
-      "title": "All-Party Parliamentary Group for the Ocean",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/ocean.htm"
-    },
-    {
-      "slug": "engineering",
-      "title": "All-Party Parliamentary Engineering Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/engineering.htm"
-    },
-    {
-      "slug": "london",
-      "title": "All-Party Parliamentary Group for London",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/london.htm"
-    },
-    {
-      "slug": "football",
-      "title": "Football All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/football.htm"
-    },
-    {
-      "slug": "south-east",
-      "title": "All-Party Parliamentary Group for the South East",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-east.htm"
-    },
-    {
-      "slug": "autism",
-      "title": "All-Party Parliamentary Group on Autism",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/autism.htm"
-    },
-    {
-      "slug": "access-to-justice",
-      "title": "All-Party Parliamentary Group on Access to Justice",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/access-to-justice.htm"
-    },
-    {
-      "slug": "beer",
-      "title": "All-Party Parliamentary Beer Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/beer.htm"
-    },
-    {
-      "slug": "music",
-      "title": "All-Party Parliamentary Group on Music",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/music.htm"
-    },
-    {
-      "slug": "japan",
-      "title": "All-Party Parliamentary Group on Japan",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/japan.htm"
     }
   ],
   "differences": [
+    {
+      "slug": "ocean",
+      "name": "All-Party Parliamentary Group for the Ocean",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Tendo Consulting,  . Tel: 020 7175 8363",
+          "new_value": "Tendo Consulting. Tel: 020 7175 8363"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/ocean.htm"
+    },
+    {
+      "slug": "access-to-justice",
+      "name": "All-Party Parliamentary Group on Access to Justice",
+      "differences": [
+        {
+          "key": "officers__3__mnis_id",
+          "old_value": "",
+          "new_value": "None"
+        },
+        {
+          "key": "officers__3__party",
+          "old_value": "",
+          "new_value": "Liberal Democrat"
+        },
+        {
+          "key": "officers__2__party",
+          "old_value": "Liberal Democrat",
+          "new_value": "Conservative"
+        },
+        {
+          "key": "contact_details__registered_contact_name",
+          "old_value": "None",
+          "new_value": "Catherine Atkinson MP"
+        },
+        {
+          "key": "officers__0__role",
+          "old_value": "Vice Chair",
+          "new_value": "Chair & Registered Contact"
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Mr Paul Kohler",
+          "new_value": "Dr Neil Shastri-Hurst"
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "",
+          "new_value": "False"
+        },
+        {
+          "key": "officers__0__name",
+          "old_value": "Lord Bach",
+          "new_value": "Catherine Atkinson"
+        },
+        {
+          "key": "officers__3__role",
+          "old_value": "",
+          "new_value": "Vice Chair"
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "",
+          "new_value": "Mr Paul Kohler"
+        },
+        {
+          "key": "officers__1__role",
+          "old_value": "Vice Chair",
+          "new_value": "Co-Chair"
+        },
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "None",
+          "new_value": "House of Commons, London, SW1A 0AA."
+        },
+        {
+          "key": "officers__3__twfy_id",
+          "old_value": "",
+          "new_value": "None"
+        },
+        {
+          "key": "officers__1__name",
+          "old_value": "Dr Neil Shastri-Hurst",
+          "new_value": "Lord Bach"
+        },
+        {
+          "key": "officers__1__party",
+          "old_value": "Conservative",
+          "new_value": "Labour"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/access-to-justice.htm"
+    },
+    {
+      "slug": "formula-1-and-motorsport",
+      "name": "All-Party Parliamentary Group on Formula 1 and Motorsport",
+      "differences": [
+        {
+          "key": "officers__3__party",
+          "old_value": "Labour",
+          "new_value": "Liberal Democrat"
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "Callum Anderson",
+          "new_value": "Jess Brown-Fuller"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/formula-1-and-motorsport.htm"
+    },
+    {
+      "slug": "gypsies-travellers-and-roma",
+      "name": "All-Party Parliamentary Group for Gypsies, Travellers and Roma",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "None",
+          "new_value": "Friends, Families and Travellers. Tel: 01273 234777"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/gypsies-travellers-and-roma.htm"
+    },
+    {
+      "slug": "london",
+      "name": "All-Party Parliamentary Group for London",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Amy Leppänen, London Councils. Tel: 020 7934 9759",
+          "new_value": "Daniel Kosky, London Councils"
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "Liam Conlon",
+          "new_value": "Dan Tomlinson"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/london.htm"
+    },
+    {
+      "slug": "poland",
+      "name": "All-Party Parliamentary Group on Poland",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "George Byczynski",
+          "new_value": "Ryan Soraghan, Officer of Dr Rosena Allin-Khan MP"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/poland.htm"
+    },
+    {
+      "slug": "british-jews",
+      "name": "All-Party Parliamentary Group on British Jews",
+      "differences": [
+        {
+          "key": "contact_details__website__status",
+          "old_value": "no_register",
+          "new_value": "register"
+        },
+        {
+          "key": "contact_details__website__url",
+          "old_value": "None",
+          "new_value": "https://bod.org.uk/appg-british-jews/"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-jews.htm"
+    },
+    {
+      "slug": "taiwan",
+      "name": "British-Taiwanese All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "officers__2__party",
+          "old_value": "Labour",
+          "new_value": "Crossbench"
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Lord Faulkner of Worcester",
+          "new_value": "Baroness D'Souza"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/taiwan.htm"
+    },
+    {
+      "slug": "autism",
+      "name": "All-Party Parliamentary Group on Autism",
+      "differences": [
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "House of Commons, London, SW1A 0AA.",
+          "new_value": "House of Commons, London, SW1A 0AA. Tel: 02072197636."
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/autism.htm"
+    },
+    {
+      "slug": "south-west",
+      "name": "All-Party Parliamentary Group for the great South West",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "James Antell, Henham Strategy. Tel: 07446918161",
+          "new_value": "James Antell, Henham Strategy"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-west.htm"
+    },
     {
       "slug": "water",
       "name": "All-Party Parliamentary Water Group",
@@ -861,18 +1071,166 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/water.htm"
     },
     {
+      "slug": "south-east",
+      "name": "All-Party Parliamentary Group for the South East",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Sean McKee, South East Councils . Tel: 01732 227 048",
+          "new_value": "Sean McKee, South East Councils. Tel: 01732 227 048"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-east.htm"
+    },
+    {
+      "slug": "football",
+      "name": "Football All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Lexington Communications . Tel: 020 7025 2300",
+          "new_value": "Lexington Communications. Tel: 020 7025 2300"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/football.htm"
+    },
+    {
+      "slug": "kinship-care",
+      "name": "All-Party Parliamentary Group on Kinship Care",
+      "differences": [
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "House of Commons, London, SW1A 0AA.",
+          "new_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7185."
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/kinship-care.htm"
+    },
+    {
+      "slug": "japan",
+      "name": "All-Party Parliamentary Group on Japan",
+      "differences": [
+        {
+          "key": "detailed_benefits__2__Value £s",
+          "old_value": "2,000",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__Registered",
+          "old_value": "27/03/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__Source",
+          "old_value": "Mitsui Sunitomo Insurance London Office",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__2__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Registered",
+          "old_value": "27/03/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__Registered",
+          "old_value": "29/05/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__Received",
+          "old_value": "12/03/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__Source",
+          "old_value": "Mitsubishi Electric",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Value £s",
+          "old_value": "2,750",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__2__Received",
+          "old_value": "10/05/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Source",
+          "old_value": "Kawasaki Heavy Industries",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "12/03/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__Received",
+          "old_value": "15/05/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__Value £s",
+          "old_value": "2,000",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__2__Registered",
+          "old_value": "29/05/2024",
+          "new_value": ""
+        },
+        {
+          "key": "registrable_benefits",
+          "old_value": "Financial Benefits",
+          "new_value": "None"
+        },
+        {
+          "key": "detailed_benefits__2__Source",
+          "old_value": "Chugai Pharma Europe",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__Value £s",
+          "old_value": "2,750",
+          "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/japan.htm"
+    },
+    {
       "slug": "steel-and-metals-related-industries",
       "name": "All-Party Parliamentary Group for Steel and Metals-Related Industries",
       "differences": [
         {
-          "key": "officers__0__name",
-          "old_value": "Carolyn Harris",
-          "new_value": "Mr Jonathan Brash"
-        },
-        {
           "key": "contact_details__registered_contact_name",
           "old_value": "Carolyn Harris MP",
           "new_value": "Mr Jonathan Brash MP"
+        },
+        {
+          "key": "officers__0__name",
+          "old_value": "Carolyn Harris",
+          "new_value": "Mr Jonathan Brash"
         },
         {
           "key": "contact_details__registered_contact_address",
@@ -895,6 +1253,329 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/human-rights.htm"
     },
     {
+      "slug": "pharmacy",
+      "name": "All-Party Parliamentary Group on Pharmacy",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Greg Sutherland, M+F Health Communications  . Tel: 07845641251",
+          "new_value": "Greg Sutherland, M+F Health Communications. Tel: 07845641251"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/pharmacy.htm"
+    },
+    {
+      "slug": "beer",
+      "name": "All-Party Parliamentary Beer Group",
+      "differences": [
+        {
+          "key": "detailed_benefits__2__Value £s",
+          "old_value": "",
+          "new_value": "4,294"
+        },
+        {
+          "key": "detailed_benefits__4__Value £s",
+          "old_value": "",
+          "new_value": "4,294"
+        },
+        {
+          "key": "detailed_benefits__3__Source",
+          "old_value": "",
+          "new_value": "Molson Coors"
+        },
+        {
+          "key": "detailed_benefits__1__Registered",
+          "old_value": "",
+          "new_value": "10/10/2024"
+        },
+        {
+          "key": "detailed_benefits__4__Registered",
+          "old_value": "",
+          "new_value": "22/10/2024"
+        },
+        {
+          "key": "detailed_benefits__2__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__4__Source",
+          "old_value": "",
+          "new_value": "Stonegate"
+        },
+        {
+          "key": "detailed_benefits__0__Registered",
+          "old_value": "",
+          "new_value": "10/10/2024"
+        },
+        {
+          "key": "detailed_benefits__6__Registered",
+          "old_value": "",
+          "new_value": "22/10/2024"
+        },
+        {
+          "key": "detailed_benefits__3__Registered",
+          "old_value": "",
+          "new_value": "22/10/2024"
+        },
+        {
+          "key": "detailed_benefits__1__Received",
+          "old_value": "",
+          "new_value": "02/10/2024"
+        },
+        {
+          "key": "detailed_benefits__5__Source",
+          "old_value": "",
+          "new_value": "Heineken"
+        },
+        {
+          "key": "detailed_benefits__6__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__1__Source",
+          "old_value": "",
+          "new_value": "Carlsberg"
+        },
+        {
+          "key": "detailed_benefits__5__Received",
+          "old_value": "",
+          "new_value": "14/10/2024"
+        },
+        {
+          "key": "detailed_benefits__0__Value £s",
+          "old_value": "",
+          "new_value": "4,294"
+        },
+        {
+          "key": "detailed_benefits__2__Received",
+          "old_value": "",
+          "new_value": "02/10/2024"
+        },
+        {
+          "key": "detailed_benefits__5__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__0__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__4__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__5__Registered",
+          "old_value": "",
+          "new_value": "22/10/2024"
+        },
+        {
+          "key": "detailed_benefits__0__Source",
+          "old_value": "",
+          "new_value": "ABInBev"
+        },
+        {
+          "key": "detailed_benefits__3__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__4__Received",
+          "old_value": "",
+          "new_value": "14/10/2024"
+        },
+        {
+          "key": "detailed_benefits__6__Value £s",
+          "old_value": "",
+          "new_value": "4,294"
+        },
+        {
+          "key": "detailed_benefits__1__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "",
+          "new_value": "30/09/2024"
+        },
+        {
+          "key": "detailed_benefits__6__Received",
+          "old_value": "",
+          "new_value": "14/10/2024"
+        },
+        {
+          "key": "detailed_benefits__3__Received",
+          "old_value": "",
+          "new_value": "14/10/2024"
+        },
+        {
+          "key": "detailed_benefits__3__Value £s",
+          "old_value": "",
+          "new_value": "4,294"
+        },
+        {
+          "key": "detailed_benefits__2__Registered",
+          "old_value": "",
+          "new_value": "10/10/2024"
+        },
+        {
+          "key": "detailed_benefits__5__Value £s",
+          "old_value": "",
+          "new_value": "4,294"
+        },
+        {
+          "key": "detailed_benefits__6__Source",
+          "old_value": "",
+          "new_value": "Greene King"
+        },
+        {
+          "key": "detailed_benefits__2__Source",
+          "old_value": "",
+          "new_value": "Diageo"
+        },
+        {
+          "key": "registrable_benefits",
+          "old_value": "None",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__1__Value £s",
+          "old_value": "",
+          "new_value": "4,294"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/beer.htm"
+    },
+    {
+      "slug": "engineering",
+      "name": "All-Party Parliamentary Engineering Group",
+      "differences": [
+        {
+          "key": "detailed_benefits__2__Value £s",
+          "old_value": "5,000",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__Registered",
+          "old_value": "26/02/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__Source",
+          "old_value": "Sizewell C Limited",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__2__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Registered",
+          "old_value": "23/01/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__Registered",
+          "old_value": "25/03/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__Received",
+          "old_value": "31/01/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__Source",
+          "old_value": "Laing O’Rourke",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Value £s",
+          "old_value": "5,000",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__2__Received",
+          "old_value": "22/02/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Source",
+          "old_value": "Safran Landing Systems",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "22/01/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__Received",
+          "old_value": "18/03/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__Value £s",
+          "old_value": "5,000",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__2__Registered",
+          "old_value": "26/02/2024",
+          "new_value": ""
+        },
+        {
+          "key": "registrable_benefits",
+          "old_value": "Financial Benefits",
+          "new_value": "None"
+        },
+        {
+          "key": "detailed_benefits__2__Source",
+          "old_value": "Institute of Civil Engineers (ICE)",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__Value £s",
+          "old_value": "5,000",
+          "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/engineering.htm"
+    },
+    {
+      "slug": "semiconductors",
+      "name": "All-Party Parliamentary Group for Semiconductors",
+      "differences": [
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "House of Commons, London, SW1A 0AA. Tel: 01633 256268.",
+          "new_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 8921."
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/semiconductors.htm"
+    },
+    {
       "slug": "brain-tumours",
       "name": "All-Party Parliamentary Group on Brain Tumours",
       "differences": [
@@ -907,21 +1588,21 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/brain-tumours.htm"
     },
     {
-      "slug": "formula-1-and-motorsport",
-      "name": "All-Party Parliamentary Group on Formula 1 and Motorsport",
+      "slug": "music",
+      "name": "All-Party Parliamentary Group on Music",
       "differences": [
         {
-          "key": "officers__3__party",
-          "old_value": "Labour",
-          "new_value": "Liberal Democrat"
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Hannah McLennan, UK Music . Tel: 07763 603 709",
+          "new_value": "Hannah McLennan, UK Music. Tel: 07763 603 709"
         },
         {
-          "key": "officers__3__name",
-          "old_value": "Callum Anderson",
-          "new_value": "Jess Brown-Fuller"
+          "key": "contact_details__website__url",
+          "old_value": "http://allpartymusicgroup.org.uk/",
+          "new_value": "https://appgonmusic.wordpress.com/"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/formula-1-and-motorsport.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/music.htm"
     },
     {
       "slug": "child-of-the-north",
@@ -948,18 +1629,6 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/uk-food-security.htm"
     },
     {
-      "slug": "semiconductors",
-      "name": "All-Party Parliamentary Group for Semiconductors",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA. Tel: 01633 256268.",
-          "new_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 8921."
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/semiconductors.htm"
-    },
-    {
       "slug": "electric-vehicle",
       "name": "Electric Vehicle All-Party Parliamentary Group",
       "differences": [
@@ -972,26 +1641,24 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/electric-vehicle.htm"
     },
     {
-      "slug": "british-jews",
-      "name": "All-Party Parliamentary Group on British Jews",
-      "differences": [
-        {
-          "key": "contact_details__website__url",
-          "old_value": "None",
-          "new_value": "https://bod.org.uk/appg-british-jews/"
-        },
-        {
-          "key": "contact_details__website__status",
-          "old_value": "no_register",
-          "new_value": "register"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-jews.htm"
-    },
-    {
       "slug": "british-muslims",
       "name": "All-Party Parliamentary Group on British Muslims",
       "differences": [
+        {
+          "key": "detailed_benefits__0__Registered",
+          "old_value": "",
+          "new_value": "18/11/2024"
+        },
+        {
+          "key": "detailed_benefits__0__Value £s",
+          "old_value": "",
+          "new_value": "25,000"
+        },
+        {
+          "key": "detailed_benefits__0__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
         {
           "key": "detailed_benefits__0__Source",
           "old_value": "",
@@ -1006,676 +1673,9 @@
           "key": "registrable_benefits",
           "old_value": "None",
           "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "",
-          "new_value": "25,000"
-        },
-        {
-          "key": "detailed_benefits__0__Registered",
-          "old_value": "",
-          "new_value": "18/11/2024"
-        },
-        {
-          "key": "detailed_benefits__0__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
         }
       ],
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-muslims.htm"
-    },
-    {
-      "slug": "poland",
-      "name": "All-Party Parliamentary Group on Poland",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "George Byczynski",
-          "new_value": "Ryan Soraghan, Officer of Dr Rosena Allin-Khan MP"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/poland.htm"
-    },
-    {
-      "slug": "gypsies-travellers-and-roma",
-      "name": "All-Party Parliamentary Group for Gypsies, Travellers and Roma",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "None",
-          "new_value": "Friends, Families and Travellers. Tel: 01273 234777"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/gypsies-travellers-and-roma.htm"
-    },
-    {
-      "slug": "taiwan",
-      "name": "British-Taiwanese All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Lord Faulkner of Worcester",
-          "new_value": "Baroness D'Souza"
-        },
-        {
-          "key": "officers__2__party",
-          "old_value": "Labour",
-          "new_value": "Crossbench"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/taiwan.htm"
-    },
-    {
-      "slug": "kinship-care",
-      "name": "All-Party Parliamentary Group on Kinship Care",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA.",
-          "new_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7185."
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/kinship-care.htm"
-    },
-    {
-      "slug": "south-west",
-      "name": "All-Party Parliamentary Group for the great South West",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "James Antell, Henham Strategy. Tel: 07446918161",
-          "new_value": "James Antell, Henham Strategy"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-west.htm"
-    },
-    {
-      "slug": "pharmacy",
-      "name": "All-Party Parliamentary Group on Pharmacy",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Greg Sutherland, M+F Health Communications  . Tel: 07845641251",
-          "new_value": "Greg Sutherland, M+F Health Communications. Tel: 07845641251"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/pharmacy.htm"
-    },
-    {
-      "slug": "ocean",
-      "name": "All-Party Parliamentary Group for the Ocean",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Tendo Consulting,  . Tel: 020 7175 8363",
-          "new_value": "Tendo Consulting. Tel: 020 7175 8363"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/ocean.htm"
-    },
-    {
-      "slug": "engineering",
-      "name": "All-Party Parliamentary Engineering Group",
-      "differences": [
-        {
-          "key": "detailed_benefits__2__Value £s",
-          "old_value": "5,000",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__Value £s",
-          "old_value": "5,000",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Source",
-          "old_value": "Safran Landing Systems",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__2__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__Source",
-          "old_value": "Laing O’Rourke",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__2__Received",
-          "old_value": "22/02/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__Received",
-          "old_value": "18/03/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Received",
-          "old_value": "22/01/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__Registered",
-          "old_value": "26/02/2024",
-          "new_value": ""
-        },
-        {
-          "key": "registrable_benefits",
-          "old_value": "Financial Benefits",
-          "new_value": "None"
-        },
-        {
-          "key": "detailed_benefits__2__Source",
-          "old_value": "Institute of Civil Engineers (ICE)",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__Value £s",
-          "old_value": "5,000",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__Registered",
-          "old_value": "25/03/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__Source",
-          "old_value": "Sizewell C Limited",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "5,000",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Registered",
-          "old_value": "23/01/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__Received",
-          "old_value": "31/01/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__2__Registered",
-          "old_value": "26/02/2024",
-          "new_value": ""
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/engineering.htm"
-    },
-    {
-      "slug": "london",
-      "name": "All-Party Parliamentary Group for London",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Amy Leppänen, London Councils. Tel: 020 7934 9759",
-          "new_value": "Daniel Kosky, London Councils"
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Liam Conlon",
-          "new_value": "Dan Tomlinson"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/london.htm"
-    },
-    {
-      "slug": "football",
-      "name": "Football All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Lexington Communications . Tel: 020 7025 2300",
-          "new_value": "Lexington Communications. Tel: 020 7025 2300"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/football.htm"
-    },
-    {
-      "slug": "south-east",
-      "name": "All-Party Parliamentary Group for the South East",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Sean McKee, South East Councils . Tel: 01732 227 048",
-          "new_value": "Sean McKee, South East Councils. Tel: 01732 227 048"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-east.htm"
-    },
-    {
-      "slug": "autism",
-      "name": "All-Party Parliamentary Group on Autism",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA.",
-          "new_value": "House of Commons, London, SW1A 0AA. Tel: 02072197636."
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/autism.htm"
-    },
-    {
-      "slug": "access-to-justice",
-      "name": "All-Party Parliamentary Group on Access to Justice",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Mr Paul Kohler",
-          "new_value": "Dr Neil Shastri-Hurst"
-        },
-        {
-          "key": "officers__0__name",
-          "old_value": "Lord Bach",
-          "new_value": "Catherine Atkinson"
-        },
-        {
-          "key": "officers__1__party",
-          "old_value": "Conservative",
-          "new_value": "Labour"
-        },
-        {
-          "key": "officers__3__mnis_id",
-          "old_value": "",
-          "new_value": "None"
-        },
-        {
-          "key": "officers__1__role",
-          "old_value": "Vice Chair",
-          "new_value": "Co-Chair"
-        },
-        {
-          "key": "officers__3__removed",
-          "old_value": "",
-          "new_value": "False"
-        },
-        {
-          "key": "officers__1__name",
-          "old_value": "Dr Neil Shastri-Hurst",
-          "new_value": "Lord Bach"
-        },
-        {
-          "key": "officers__2__party",
-          "old_value": "Liberal Democrat",
-          "new_value": "Conservative"
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "",
-          "new_value": "Liberal Democrat"
-        },
-        {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "None",
-          "new_value": "Catherine Atkinson MP"
-        },
-        {
-          "key": "officers__3__role",
-          "old_value": "",
-          "new_value": "Vice Chair"
-        },
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "None",
-          "new_value": "House of Commons, London, SW1A 0AA."
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "",
-          "new_value": "Mr Paul Kohler"
-        },
-        {
-          "key": "officers__0__role",
-          "old_value": "Vice Chair",
-          "new_value": "Chair & Registered Contact"
-        },
-        {
-          "key": "officers__3__twfy_id",
-          "old_value": "",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/access-to-justice.htm"
-    },
-    {
-      "slug": "beer",
-      "name": "All-Party Parliamentary Beer Group",
-      "differences": [
-        {
-          "key": "detailed_benefits__2__Value £s",
-          "old_value": "",
-          "new_value": "4,294"
-        },
-        {
-          "key": "detailed_benefits__3__Value £s",
-          "old_value": "",
-          "new_value": "4,294"
-        },
-        {
-          "key": "detailed_benefits__0__Source",
-          "old_value": "",
-          "new_value": "ABInBev"
-        },
-        {
-          "key": "detailed_benefits__6__Registered",
-          "old_value": "",
-          "new_value": "22/10/2024"
-        },
-        {
-          "key": "detailed_benefits__4__Registered",
-          "old_value": "",
-          "new_value": "22/10/2024"
-        },
-        {
-          "key": "detailed_benefits__6__Source",
-          "old_value": "",
-          "new_value": "Greene King"
-        },
-        {
-          "key": "detailed_benefits__2__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__2__Received",
-          "old_value": "",
-          "new_value": "02/10/2024"
-        },
-        {
-          "key": "detailed_benefits__1__Source",
-          "old_value": "",
-          "new_value": "Carlsberg"
-        },
-        {
-          "key": "detailed_benefits__3__Received",
-          "old_value": "",
-          "new_value": "14/10/2024"
-        },
-        {
-          "key": "detailed_benefits__6__Value £s",
-          "old_value": "",
-          "new_value": "4,294"
-        },
-        {
-          "key": "detailed_benefits__0__Received",
-          "old_value": "",
-          "new_value": "30/09/2024"
-        },
-        {
-          "key": "detailed_benefits__1__Registered",
-          "old_value": "",
-          "new_value": "10/10/2024"
-        },
-        {
-          "key": "registrable_benefits",
-          "old_value": "None",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__2__Source",
-          "old_value": "",
-          "new_value": "Diageo"
-        },
-        {
-          "key": "detailed_benefits__1__Value £s",
-          "old_value": "",
-          "new_value": "4,294"
-        },
-        {
-          "key": "detailed_benefits__1__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__5__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__4__Value £s",
-          "old_value": "",
-          "new_value": "4,294"
-        },
-        {
-          "key": "detailed_benefits__5__Value £s",
-          "old_value": "",
-          "new_value": "4,294"
-        },
-        {
-          "key": "detailed_benefits__5__Registered",
-          "old_value": "",
-          "new_value": "22/10/2024"
-        },
-        {
-          "key": "detailed_benefits__3__Registered",
-          "old_value": "",
-          "new_value": "22/10/2024"
-        },
-        {
-          "key": "detailed_benefits__4__Source",
-          "old_value": "",
-          "new_value": "Stonegate"
-        },
-        {
-          "key": "detailed_benefits__6__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__3__Source",
-          "old_value": "",
-          "new_value": "Molson Coors"
-        },
-        {
-          "key": "detailed_benefits__4__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "",
-          "new_value": "4,294"
-        },
-        {
-          "key": "detailed_benefits__5__Received",
-          "old_value": "",
-          "new_value": "14/10/2024"
-        },
-        {
-          "key": "detailed_benefits__0__Registered",
-          "old_value": "",
-          "new_value": "10/10/2024"
-        },
-        {
-          "key": "detailed_benefits__4__Received",
-          "old_value": "",
-          "new_value": "14/10/2024"
-        },
-        {
-          "key": "detailed_benefits__6__Received",
-          "old_value": "",
-          "new_value": "14/10/2024"
-        },
-        {
-          "key": "detailed_benefits__1__Received",
-          "old_value": "",
-          "new_value": "02/10/2024"
-        },
-        {
-          "key": "detailed_benefits__0__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__5__Source",
-          "old_value": "",
-          "new_value": "Heineken"
-        },
-        {
-          "key": "detailed_benefits__3__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__2__Registered",
-          "old_value": "",
-          "new_value": "10/10/2024"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/beer.htm"
-    },
-    {
-      "slug": "music",
-      "name": "All-Party Parliamentary Group on Music",
-      "differences": [
-        {
-          "key": "contact_details__website__url",
-          "old_value": "http://allpartymusicgroup.org.uk/",
-          "new_value": "https://appgonmusic.wordpress.com/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Hannah McLennan, UK Music . Tel: 07763 603 709",
-          "new_value": "Hannah McLennan, UK Music. Tel: 07763 603 709"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/music.htm"
-    },
-    {
-      "slug": "japan",
-      "name": "All-Party Parliamentary Group on Japan",
-      "differences": [
-        {
-          "key": "detailed_benefits__2__Value £s",
-          "old_value": "2,000",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__Value £s",
-          "old_value": "2,000",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Source",
-          "old_value": "Kawasaki Heavy Industries",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__2__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__Source",
-          "old_value": "Mitsubishi Electric",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__2__Received",
-          "old_value": "10/05/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__Received",
-          "old_value": "15/05/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Received",
-          "old_value": "12/03/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__Registered",
-          "old_value": "27/03/2024",
-          "new_value": ""
-        },
-        {
-          "key": "registrable_benefits",
-          "old_value": "Financial Benefits",
-          "new_value": "None"
-        },
-        {
-          "key": "detailed_benefits__2__Source",
-          "old_value": "Chugai Pharma Europe",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__Value £s",
-          "old_value": "2,750",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__Registered",
-          "old_value": "29/05/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__Source",
-          "old_value": "Mitsui Sunitomo Insurance London Office",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "2,750",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Registered",
-          "old_value": "27/03/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__Received",
-          "old_value": "12/03/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__2__Registered",
-          "old_value": "29/05/2024",
-          "new_value": ""
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/japan.htm"
     }
   ]
 }
