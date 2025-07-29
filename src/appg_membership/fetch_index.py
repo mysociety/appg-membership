@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 from datetime import date, datetime
 from typing import List, Optional
 
@@ -20,6 +21,19 @@ from appg_membership.models import (
     WebsiteSource,
     register_dates,
 )
+
+
+def _is_valid_email(email: str) -> bool:
+    """
+    Validate if an email address is properly formatted.
+    Returns True if valid, False otherwise.
+    """
+    if not email or "@" not in email:
+        return False
+
+    # Basic email validation pattern
+    pattern = r"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"
+    return bool(re.match(pattern, email))
 
 
 def _get_value_from_row(row: Tag) -> str:
@@ -69,66 +83,98 @@ def _parse_contact_details(table: Optional[Tag]) -> Optional[ContactDetails]:
     if not table:
         return None
 
-    # Use <strong> tags as anchors, then read the next siblings' text
-    text = table.get_text("\n", strip=True)
+    def _extract_section_content(label: str) -> tuple[list[str], Optional[str]]:
+        """
+        Extract the content after a label (like 'Registered Contact:') and find any email in that section.
+        Returns (text_lines, email_address).
+        """
+        # Find all <strong> tags in the table
+        strong_tags = table.find_all("strong")
+        target_strong = None
 
-    def _extract_block(label: str) -> list[str]:
-        """Return lines following *label:* until the next label or end."""
-        lines = text.splitlines()
-        try:
-            start = next(
-                i
-                for i, line in enumerate(lines)
-                if line.lower().startswith(label.lower())
-            )
-            block: list[str] = []
-            for line in lines[start + 1 :]:
-                if line.endswith(":"):
-                    break
-                block.append(line)
-            return block
-        except StopIteration:
-            return []
+        for strong in strong_tags:
+            if strong.get_text(strip=True).lower() == label.lower():
+                target_strong = strong
+                break
 
-    reg_block = _extract_block("Registered Contact:")
-    pub_block = _extract_block("Public Enquiry Point:")
-    sec_block = _extract_block("Secretariat:")
-    web_block = _extract_block("Group's Website:")
+        if not target_strong:
+            return [], None
 
+        # Get the parent paragraph and all following paragraphs until we hit another <strong>
+        current = target_strong.parent
+        content_paragraphs = []
+        email = None
+
+        # Process the current paragraph and following siblings
+        while current:
+            current = current.next_sibling
+            if not current:
+                break
+
+            # Skip non-tag elements (like text nodes)
+            if not hasattr(current, "name"):
+                continue
+
+            # If we hit another paragraph with a <strong> tag, we're done with this section
+            if current.name == "p" and current.find("strong"):
+                break
+
+            # If this is a paragraph, extract its content
+            if current.name == "p":
+                # Look for email links in this paragraph
+                email_links = current.find_all(
+                    "a", href=lambda x: x and x.startswith("mailto:")
+                )
+                if (
+                    email_links and not email
+                ):  # Take the first email found in this section
+                    extracted_email = email_links[0]["href"].replace("mailto:", "")
+                    # Validate the email before storing it
+                    if _is_valid_email(extracted_email):
+                        email = extracted_email
+
+                # Get the text content (excluding the email link text if present)
+                text_content = current.get_text(strip=True)
+                if text_content and not text_content.startswith("Email:"):
+                    content_paragraphs.append(text_content)
+
+        return content_paragraphs, email
+
+    # Extract sections
+    reg_content, reg_email = _extract_section_content("Registered Contact:")
+    pub_content, pub_email = _extract_section_content("Public Enquiry Point:")
+    sec_content, _ = _extract_section_content("Secretariat:")
+    web_content, _ = _extract_section_content("Group's Website:")
+
+    # Parse registered contact details
     rc_name = ""
     rc_addr = None
-    if reg_block:
-        rc_parts = reg_block[0].split(",", 1) if reg_block else ["", ""]
-        rc_name = rc_parts[0].strip()
-        if len(rc_parts) > 1:
+    if reg_content:
+        # The first line usually contains name and address
+        first_line = reg_content[0]
+        if "," in first_line:
+            rc_parts = first_line.split(",", 1)
+            rc_name = rc_parts[0].strip()
             rc_addr = rc_parts[1].strip()
+        else:
+            rc_name = first_line.strip()
 
-    if web_block:
-        web = WebsiteSource(status="register", url=HttpUrl(web_block[0]))
+    # Parse public enquiry point name
+    pub_name = pub_content[0] if pub_content else None
+
+    # Parse website
+    if web_content:
+        web = WebsiteSource(status="register", url=HttpUrl(web_content[0]))
     else:
         web = WebsiteSource()
 
     return ContactDetails(
         registered_contact_name=rc_name or None,
         registered_contact_address=rc_addr,
-        registered_contact_email=next(
-            (
-                item.split(":", 1)[1].strip()
-                for item in reg_block
-                if item.lower().startswith("email:")
-            ),
-            None,
-        ),
-        public_enquiry_point_name=pub_block[0] if pub_block else None,
-        public_enquiry_point_email=next(
-            (
-                item.split(":", 1)[1].strip()
-                for item in pub_block
-                if item.lower().startswith("email:")
-            ),
-            None,
-        ),
-        secretariat=" ".join(sec_block) if sec_block else None,
+        registered_contact_email=reg_email,
+        public_enquiry_point_name=pub_name,
+        public_enquiry_point_email=pub_email,
+        secretariat=" ".join(sec_content) if sec_content else None,
         website=web,
     )
 
