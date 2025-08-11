@@ -1,0 +1,2270 @@
+{
+  "person_id": "uk.org.publicwhip/person/26346",
+  "person_name": "Tony Vaughan",
+  "public_speech": "To ask the Secretary of State for the Home Department, what proportion of migrants are granted settlement after (a) five years and (b) ten years for which the latest data is available.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-21/54067/",
+  "relevance_summary": {
+    "summary": "The MP has flagged several interests as relevant to their question about the proportion of migrants granted settlement after five and ten years. First, the MP has a professional interest in immigration through their work as a barrister, which might involve dealing with immigration law cases. This professional background could inform their queries about immigration and settlement issues. Second, the question aligns with the work typically associated with the Legal Aid Agency, which the MP seems to be connected to through their legal work, as it often deals with migrant rights and related issues. Finally, the MP's association with the Refugee, Asylum and Migration Policy Project (RAMP), from which they receive research services, suggests a direct link to migration policy interests and potentially informs the question being asked.",
+    "abuse_score": "medium"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP may have a professional interest in immigration and migrants through their work as a barrister, potentially dealing with cases related to immigration law. Therefore, their query about migrants and settlement could be influenced by their legal background and work at a chamber specializing in legal services.",
+      "regmem_entry": {
+        "id": "5988",
+        "content": "Barrister - Doughty Street Chambers",
+        "content_format": "string",
+        "date_registered": "2024-07-10",
+        "date_published": "2024-07-12",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Barrister",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Doughty Street Chambers",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "Legal services",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "54 Doughty Street, London WC1N 2LS",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "12449",
+            "content": "Payment received on 23 April 2025 - £4,017.14",
+            "content_format": "string",
+            "date_registered": "2025-05-19",
+            "date_published": "2025-05-19",
+            "date_received": "2025-04-23",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2025-04-23",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "For work done before 4 July 2024",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "4017.14",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "none since my election",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "confidential",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "12449",
+            "item_hash": "3540fce379"
+          },
+          {
+            "id": "12453",
+            "content": "Payment received on 09 May 2025 - £202.20",
+            "content_format": "string",
+            "date_registered": "2025-05-19",
+            "date_published": "2025-05-19",
+            "date_received": "2025-05-09",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2025-05-09",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "202.20",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "none since my election",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "confidential",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "12453",
+            "item_hash": "bbaf5a854d"
+          },
+          {
+            "id": "12452",
+            "content": "Payment received on 07 May 2025 - £868.71",
+            "content_format": "string",
+            "date_registered": "2025-05-19",
+            "date_published": "2025-05-19",
+            "date_received": "2025-05-07",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2025-05-07",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "868.71",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "none since my election",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "confidential",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "12452",
+            "item_hash": "726df0e363"
+          },
+          {
+            "id": "12450",
+            "content": "Payment received on 24 April 2025 - £224.51",
+            "content_format": "string",
+            "date_registered": "2025-05-19",
+            "date_published": "2025-05-19",
+            "date_received": "2025-04-24",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2025-04-24",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "224.51",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "none since my election",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "confidential",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "12450",
+            "item_hash": "4368f38bac"
+          },
+          {
+            "id": "12451",
+            "content": "Payment received on 25 April 2025 - £2,457.58",
+            "content_format": "string",
+            "date_registered": "2025-05-19",
+            "date_published": "2025-05-19",
+            "date_received": "2025-04-25",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2025-04-25",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "2457.58",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "none since my election",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "confidential",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "12451",
+            "item_hash": "1b8489ed89"
+          },
+          {
+            "id": "11776",
+            "content": "Payment received on 23 January 2025 - £2,563.60",
+            "content_format": "string",
+            "date_registered": "2025-02-06",
+            "date_published": "2025-02-07",
+            "date_received": "2025-01-23",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2025-01-23",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "Payment for work done before 4 July 2024",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "2563.60",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "10.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "Approximate",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "11776",
+            "item_hash": "57d66b3769"
+          },
+          {
+            "id": "11775",
+            "content": "Payment received on 10 January 2025 - £4,899.02",
+            "content_format": "string",
+            "date_registered": "2025-02-06",
+            "date_published": "2025-02-07",
+            "date_received": "2025-01-10",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2025-01-10",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "Payment is for work done before 4 July 2024",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "4899.02",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "20.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "Approximate",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "11775",
+            "item_hash": "f5a049307d"
+          },
+          {
+            "id": "11777",
+            "content": "Payment received on 06 February 2025 - £7,992.78",
+            "content_format": "string",
+            "date_registered": "2025-02-06",
+            "date_published": "2025-02-06",
+            "date_received": "2025-02-06",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2025-02-06",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "Payment for work done before 4 July 2024",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "7992.78",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "40.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "Approximate",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "11777",
+            "item_hash": "849078798a"
+          },
+          {
+            "id": "11511",
+            "content": "Payment received on 04 December 2024 - £529.02",
+            "content_format": "string",
+            "date_registered": "2024-12-16",
+            "date_published": "2024-12-16",
+            "date_received": "2024-12-04",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-12-04",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "For work done before 4 July 2024",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "529.02",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "5.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "Hours worked is approx",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "11511",
+            "item_hash": "f5bb22afd3"
+          },
+          {
+            "id": "11456",
+            "content": "Payment received on 07 November 2024 - £11,947.75",
+            "content_format": "string",
+            "date_registered": "2024-12-09",
+            "date_published": "2024-12-09",
+            "date_received": "2024-11-07",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-11-07",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "For work done before 4 July 2024",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "11947.75",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "none since my election",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "11456",
+            "item_hash": "c7478ae698"
+          },
+          {
+            "id": "11457",
+            "content": "Payment received on 22 November 2024 - £2,628.13",
+            "content_format": "string",
+            "date_registered": "2024-12-07",
+            "date_published": "2024-12-07",
+            "date_received": "2024-11-22",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-11-22",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "For work done before 4 July 2024",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "2628.13",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "none since my election",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "11457",
+            "item_hash": "2521bcd010"
+          },
+          {
+            "id": "11455",
+            "content": "Payment received on 04 November 2024 - £4,640.00",
+            "content_format": "string",
+            "date_registered": "2024-12-07",
+            "date_published": "2024-12-07",
+            "date_received": "2024-11-04",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-11-04",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "For work done before 4 July 2024",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "4640.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "none since my election",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "11455",
+            "item_hash": "d0a7cfd165"
+          },
+          {
+            "id": "11458",
+            "content": "Payment received on 01 November 2024 - £2,428.17",
+            "content_format": "string",
+            "date_registered": "2024-12-07",
+            "date_published": "2024-12-07",
+            "date_received": "2024-11-01",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-11-01",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "For work done before 4 July 2024",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "2428.17",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "none since my election",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "11458",
+            "item_hash": "f87c9c6a73"
+          },
+          {
+            "id": "11411",
+            "content": "Payment received on 10 October 2024 - £1,063.69",
+            "content_format": "string",
+            "date_registered": "2024-11-28",
+            "date_published": "2024-12-03",
+            "date_received": "2024-10-10",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-10-10",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "Payment for work carried out before 4th July 2024",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "1063.69",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "5.50",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential, Duncan Lewis Solicitors Ltd",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "Sackville House, 143-149 Fenchurch Street, London EC3M 6BL",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_nature_of_business",
+                "display_as": "Ultimate Payer Nature Of Business",
+                "description": "Brief description of the ultimate payer's business (if different to parent interest)",
+                "type": "string",
+                "value": "Solicitors",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "11411",
+            "item_hash": "3a68d9a9be"
+          },
+          {
+            "id": "10636",
+            "content": "Payment received on 08 August 2024 - £1,162.00",
+            "content_format": "string",
+            "date_registered": "2024-09-04",
+            "date_published": "2024-09-18",
+            "date_received": "2024-08-08",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-08-08",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "Payment is for work done before 4 July 2024. Doughty Street Chambers takes around 20% of this figure",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "1162.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "19.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "approximate hours worked",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "Birnberg Peirce Ltd, 14 Inverness Street London United Kingdom",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_nature_of_business",
+                "display_as": "Ultimate Payer Nature Of Business",
+                "description": "Brief description of the ultimate payer's business (if different to parent interest)",
+                "type": "string",
+                "value": "Solicitors",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "10636",
+            "item_hash": "1454518ef0"
+          },
+          {
+            "id": "9781",
+            "content": "Payment received on 19 July 2024 - £120.00",
+            "content_format": "string",
+            "date_registered": "2024-08-03",
+            "date_published": "2024-08-04",
+            "date_received": "2024-07-19",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-07-19",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "120.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.30",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "Work undertaken prior to 4 July 2024",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "Kingsley Napley LLP 20 Bonhill Street London EC2A 4DN",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_nature_of_business",
+                "display_as": "Ultimate Payer Nature Of Business",
+                "description": "Brief description of the ultimate payer's business (if different to parent interest)",
+                "type": "string",
+                "value": "Law firm",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "9781",
+            "item_hash": "7bcff46796"
+          },
+          {
+            "id": "9785",
+            "content": "Payment received on 08 July 2024 - £243.27",
+            "content_format": "string",
+            "date_registered": "2024-08-03",
+            "date_published": "2024-08-04",
+            "date_received": "2024-07-08",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-07-08",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "Payment is for work done before 4 July 2024. Doughty Street Chambers takes around 20% of this figure",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "243.27",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "1.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "estimated hours",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "is_ultimate_payer_different",
+                "display_as": "Is Ultimate Payer Different",
+                "description": "Whether the ultimate payer is different to the payer specified in linked parent interest",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_name",
+                "display_as": "Ultimate Payer Name",
+                "description": "Name of the ultimate payer (if different to parent interest)",
+                "type": "string",
+                "value": "Confidential",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "ultimate_payer_address",
+                "display_as": "Ultimate Payer Address",
+                "description": "Address of the ultimate payer, if this can be publicly shared (if different to parent interest)",
+                "type": "string",
+                "value": "Simpson Millar Solicitors, 39 St Paul's Street, Leeds LS1 2JG",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "9785",
+            "item_hash": "fea98feca4"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "5988",
+        "item_hash": "6b61e1f1cf"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The question about migrants and settlement status may relate to legal services or implications surrounding migration and settlement law, which is relevant to the work of a barrister, especially one providing services to clients through the Legal Aid Agency. This agency might deal with cases involving migrant rights and settlement issues, implying a potential intersection of professional interest with the inquiry.",
+      "regmem_entry": {
+        "id": "5989",
+        "content": "Barrister - Legal Aid Agency",
+        "content_format": "string",
+        "date_registered": "2024-08-03",
+        "date_published": "2024-08-03",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Barrister",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Legal Aid Agency",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "Legal services provided by me to a lay client, who is assisted by the Agency.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "102 Petty France, London SW1H 9AJ",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "9786",
+            "content": "Payment received on 08 August 2024 - £328.41",
+            "content_format": "string",
+            "date_registered": "2024-08-03",
+            "date_published": "2024-08-04",
+            "date_received": "2024-08-08",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-08-08",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "Exact. Doughty Street Chambers will take around 20% of this sum.",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "328.41",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "3.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "approximately",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "9786",
+            "item_hash": "8026d3e82a"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "5989",
+        "item_hash": "78345adfa7"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The written question pertains to the settlement of migrants, which is directly related to the interests of the Refugee, Asylum and Migration Policy Project (RAMP). The MP is receiving research services from RAMP, which may inform their questions about migration policy.",
+      "regmem_entry": {
+        "id": "11703",
+        "content": "The Refugee, Asylum and Migration Policy Project (RAMP) - £3,120.00",
+        "content_format": "string",
+        "date_registered": "2025-01-27",
+        "date_published": "2025-01-27",
+        "date_received": "2025-01-01",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "donation_source",
+            "display_as": "Donation Source",
+            "description": "How the donation was received",
+            "type": "string",
+            "value": "(b) Any other support not included in Category 2(a)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "In kind",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "Research services provided for 2 days per week between 1st January 2025 and 31st March 2025",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "3120.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_date",
+            "display_as": "Received Date",
+            "description": "Date on which the benefit was received",
+            "type": "date",
+            "value": "2025-01-01",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "accepted_date",
+            "display_as": "Accepted Date",
+            "description": "Date on which the benefit was accepted",
+            "type": "date",
+            "value": "2025-01-01",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_end_date",
+            "display_as": "Received End Date",
+            "description": "End date, if the benefit was received over time",
+            "type": "date",
+            "value": "2025-03-31",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "The Refugee, Asylum and Migration Policy Project (RAMP)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "The Courtyard, High Street, Ascot SL5 7HP",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Company",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_name",
+            "display_as": "Donor Company Name",
+            "description": "Name of the donor company",
+            "type": "string",
+            "value": "The Refugee, Asylum and Migration Policy Project (RAMP)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier",
+            "display_as": "Donor Company Identifier",
+            "description": "Company registration number",
+            "type": "string",
+            "value": "12373468",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier_source",
+            "display_as": "Donor Company Identifier Source",
+            "description": "Source of company identifier",
+            "type": "string",
+            "value": "Companies House",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11703",
+        "item_hash": "347cd9472b"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The MP has declared an interest related to 'The Refugee, Asylum and Migration Policy Project (RAMP)', which appears directly connected to the MP's question about migrants and settlement data. RAMP is related to policy on asylum and migration, making it relevant to the context of inquiry about settlement proportions.",
+      "regmem_entry": {
+        "id": "11016",
+        "content": "The Refugee, Asylum and Migration Policy Project (RAMP) - £5,280.00",
+        "content_format": "string",
+        "date_registered": "2024-10-17",
+        "date_published": "2024-10-18",
+        "date_received": "2024-10-14",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "donation_source",
+            "display_as": "Donation Source",
+            "description": "How the donation was received",
+            "type": "string",
+            "value": "(b) Any other support not included in Category 2(a)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "In kind",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "Research services provided for two days a week for up to 22 days between 14 October 2024 and 31 December 2024 (value stated is the maximum)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "5280.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_date",
+            "display_as": "Received Date",
+            "description": "Date on which the benefit was received",
+            "type": "date",
+            "value": "2024-10-14",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "accepted_date",
+            "display_as": "Accepted Date",
+            "description": "Date on which the benefit was accepted",
+            "type": "date",
+            "value": "2024-10-14",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_end_date",
+            "display_as": "Received End Date",
+            "description": "End date, if the benefit was received over time",
+            "type": "date",
+            "value": "2024-12-31",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "The Refugee, Asylum and Migration Policy Project (RAMP)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "The Courtyard, High Street, Ascot SL5 7HP",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Company",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_name",
+            "display_as": "Donor Company Name",
+            "description": "Name of the donor company",
+            "type": "string",
+            "value": "The Refugee, Asylum and Migration Policy Project (RAMP)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier",
+            "display_as": "Donor Company Identifier",
+            "description": "Company registration number",
+            "type": "string",
+            "value": "12373468",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier_source",
+            "display_as": "Donor Company Identifier Source",
+            "description": "Source of company identifier",
+            "type": "string",
+            "value": "Companies House",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11016",
+        "item_hash": "20094afee1"
+      }
+    }
+  ]
+}

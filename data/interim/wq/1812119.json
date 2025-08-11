@@ -1,0 +1,104 @@
+{
+  "person_id": "uk.org.publicwhip/person/10133",
+  "person_name": "Jeremy Corbyn",
+  "public_speech": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if he will support the establishment of an independent public inquiry into the UK's involvement in Israeli operations in Gaza since October 2023.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-12/59282/",
+  "relevance_summary": {
+    "summary": "The MP has flagged two main interests relevant to the question asked: 1) Their role as an Unpaid Director of Jeremy Corbyn Campaign Ltd, which supports political organizations and may inform their stance on foreign policy issues; and 2) Their role as the unpaid director of the Peace and Justice Project, which is aligned with promoting peace and justice internationally. Both positions suggest a predisposition towards supporting inquiries involving foreign policy and justice, as these are central to the organizations with which they are involved.",
+    "abuse_score": "low"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP's role as an Unpaid Director of Jeremy Corbyn Campaign Ltd, which supports political organisations, could influence his interest in inquiries related to foreign policy issues such as the UK's involvement in Israeli operations in Gaza. This connection may inform his political stance or the questions he raises in Parliament.",
+      "regmem_entry": {
+        "id": "11181",
+        "content": "Unpaid Director of Jeremy Corbyn Campaign Ltd, supporting the activities of political organisations",
+        "content_format": "string",
+        "date_registered": "2024-11-05",
+        "date_published": "2024-11-11",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-09-25",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Unpaid Director of Jeremy Corbyn Campaign Ltd, supporting the activities of political organisations",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11181",
+        "item_hash": "f604a6ceaf"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The written question pertains to an independent public inquiry into the UK's involvement in Israeli operations in Gaza, which is an international peace and justice issue. The MP's role as the unpaid director of the Peace and Justice Project, which promotes peace and justice issues both domestically and internationally, is relevant to the question. The interest aligns with the subject matter of the inquiry, indicating that there is a potential connection between the MP's advocacy as part of their role and the content of the question.",
+      "regmem_entry": {
+        "id": "1395",
+        "content": "Unpaid director of the Peace and Justice Project, a company limited by guarantee. The company promotes peace and justice issues, both domestic and international.",
+        "content_format": "string",
+        "date_registered": "2021-02-26",
+        "date_published": "2024-03-18",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2020-10-13",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Unpaid director of the Peace and Justice Project, a company limited by guarantee. The company promotes peace and justice issues, both domestic and international.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "1395",
+        "item_hash": "d48a78196d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "person_id": "uk.org.publicwhip/person/24961",
+  "person_name": "Julian Smith",
+  "public_speech": "To ask the Secretary of State for Justice, whether she had made an assessment of the potential merits of the use of mandatory mediation in (a) group actions and (b) class action claims.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-22/54255/",
+  "relevance_summary": {
+    "summary": "The primary interest flagged as relevant is the MP's role as Chair (Director & Trustee) at the Centre for Effective Dispute Resolution Limited (CEDR). The MP's question about mandatory mediation in group and class action claims is directly related to CEDR's focus on dispute resolution. Even though the MP's role at CEDR is unpaid, the position gives them influence over dispute resolution processes and could potentially align with CEDR's interests.",
+    "abuse_score": "medium"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP is asking about mandatory mediation in the context of group actions and class action claims. The fact that they are Chair (Director & Trustee) of the Centre for Effective Dispute Resolution Limited (CEDR), an organization involved in dispute resolution, is relevant to the question as it directly relates to mediation, which is a form of dispute resolution. Even though the role is unpaid, it could provide a platform with influential insights into dispute resolution processes, potentially including mandatory mediation.",
+      "regmem_entry": {
+        "id": "11530",
+        "content": "Chair, (Director & Trustee) of Centre for Effective Dispute Resolution Limited (CEDR). This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-12-19",
+        "date_published": "2024-12-20",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-12-12",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Chair, (Director & Trustee) of Centre for Effective Dispute Resolution Limited (CEDR). This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11530",
+        "item_hash": "43fee4593d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "person_id": "uk.org.publicwhip/person/26377",
+  "person_name": "Clive Jones",
+  "public_speech": "To ask the Secretary of State for Health and Social Care, with reference to his Department's press release entitled Patients and pupils to benefit from school and hospital repairs, published on 30 May 2025, how that funding will be delivered to the NHS; a",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-02/56572/",
+  "relevance_summary": {
+    "summary": "The MP has declared an interest related to an NHS Foundation Trust, specifically being a Governor of an NHS trust, which is unpaid. This role could influence the MP's perspective or provide insights into NHS funding, making the interest relevant. The question involves the delivery of funding to the NHS, as mentioned in a departmental press release, which could align with the MP's interests in the effective functioning of the NHS due to their role.",
+    "abuse_score": "low"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The question pertains to funding for the NHS, and the MP has declared an interest related to an NHS Foundation Trust. Although the role is unpaid, being a Governor of an NHS trust could influence the MP's perspective or insights regarding NHS funding. Therefore, it is relevant to consider this interest.",
+      "regmem_entry": {
+        "id": "6173",
+        "content": "Governor of the Royal Berkshire Hospital NHS Foundation Trust. This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-07-11",
+        "date_published": "2024-07-11",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-07-05",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Governor of the Royal Berkshire Hospital NHS Foundation Trust. This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "6173",
+        "item_hash": "c5304493cc"
+      }
+    }
+  ]
+}

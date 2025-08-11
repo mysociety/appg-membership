@@ -1,0 +1,156 @@
+{
+  "person_id": "uk.org.publicwhip/person/26575",
+  "person_name": "Martin Rhodes",
+  "public_speech": "To ask the Secretary of State for the Home Department, with reference to the Government response to House of Lords Modern Slavery Act 2015 Committee, Report of Session 2024-25, The Modern Slavery Act 2015: Becoming World-Leading Again, what progress she h",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-27/63486/",
+  "relevance_summary": {
+    "summary": "The interest flagged as relevant relates to the MP's declared position as Chief Executive of the Scottish Fair Trade Forum. This organization promotes fair trade and likely has a vested interest in ethical practices in areas such as modern slavery. The question, which addresses the Modern Slavery Act 2015 and seeks an update on government progress, aligns with the Forum's interests in promoting ethical and fair trading practices.",
+    "abuse_score": "medium"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The question pertains to the Modern Slavery Act 2015, and the MP has declared an interest as Chief Executive of the Scottish Fair Trade Forum. The Scottish Fair Trade Forum, which promotes fair trade, likely has an interest in the ethics and practices surrounding issues like modern slavery. Therefore, their perspective and interests may be relevant to discussions about the Modern Slavery Act.",
+      "regmem_entry": {
+        "id": "6299",
+        "content": "Employee - Chief Executive - Scottish Fair Trade Forum",
+        "content_format": "string",
+        "date_registered": "2024-07-30",
+        "date_published": "2024-07-30",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Employee - Chief Executive",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date the agreement ended",
+            "type": "date",
+            "value": "2024-07-25",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_until_further_notice",
+            "display_as": "Is Until Further Notice",
+            "description": "Whether the agreement is until further notice",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Scottish Fair Trade Forum",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "Registered charity and company limited by guarantee promoting Fair Trade",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "Robertson House, 152 Bath Street, Glasgow G2 4TB",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "8075",
+            "content": "Payment received on 25 July 2024 - £836.02",
+            "content_format": "string",
+            "date_registered": "2024-07-30",
+            "date_published": "2024-07-30",
+            "date_received": "2024-07-25",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-07-25",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "payment for 5 days work during my notice period starting from my resignation on being elected.",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "836.02",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "35.00",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "8075",
+            "item_hash": "e64a236b97"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "6299",
+        "item_hash": "d9a5f9c8e6"
+      }
+    }
+  ]
+}

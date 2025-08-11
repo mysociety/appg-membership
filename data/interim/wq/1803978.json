@@ -1,0 +1,285 @@
+{
+  "person_id": "uk.org.publicwhip/person/25836",
+  "person_name": "Navendu Mishra",
+  "public_speech": "To ask the Secretary of State for Transport, what assessment she has made of the adequacy of funding for the British Transport Police.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-19/53192/",
+  "relevance_summary": {
+    "summary": "The MP raised a question regarding the adequacy of funding for the British Transport Police. The following reasons were flagged as relevant:\n1. The MP received a donation from the RMT Union. This union represents transport workers who may be affected by or work with the British Transport Police, suggesting potential influence.\n2. Unite the Union, which is concerned with public sector funding and worker conditions, including issues related to the British Transport Police, might see this question as aligned with their interests.\n3. ASLEF, a union for train drivers and railway workers, has an interest in the safety and working conditions of its members, which are related to the activities of the British Transport Police. This could indicate a connection between the MP's query and their declared interests in ASLEF.\n\nOverall, the MP's query pertains to public sector funding and overlaps with union interests in ensuring adequate policing and worker conditions.",
+    "abuse_score": "medium"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The Register of Interest entry shows that the MP received a donation from the RMT Union, which represents transport workers, including those who may be affected by or work with the British Transport Police. The question about funding for the British Transport Police could be influenced by this association.",
+      "regmem_entry": {
+        "id": "5971",
+        "content": "RMT Union (National Union of Rail, Maritime and Transport Workers) - £2,000.00",
+        "content_format": "string",
+        "date_registered": "2024-07-09",
+        "date_published": "2024-07-12",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "donation_source",
+            "display_as": "Donation Source",
+            "description": "How the donation was received",
+            "type": "string",
+            "value": "(a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "Monetary",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "to Stockport Constituency Labour Party for general election campaigning",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "2000.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "RMT Union (National Union of Rail, Maritime and Transport Workers)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "39 Chalton Street, London NW1 1JD",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Trade Union",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "5971",
+        "item_hash": "98e5c27bab"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "Unite the Union, as a trade union, typically has interests in public sector funding and workers' conditions, including those related to the British Transport Police. The question about funding adequacy for the British Transport Police could relate to broader issues of public sector funding that are of concern to trade unions. Therefore, there is a potential relevance between the interest declared and the question asked.",
+      "regmem_entry": {
+        "id": "5974",
+        "content": "Unite the Union - £5,000.00",
+        "content_format": "string",
+        "date_registered": "2024-07-09",
+        "date_published": "2024-07-12",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "donation_source",
+            "display_as": "Donation Source",
+            "description": "How the donation was received",
+            "type": "string",
+            "value": "(a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "Monetary",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "to Stockport Constituency Labour Party for general election campaigning.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "5000.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "Unite the Union",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "128 Theobalds Road, Holborn, London, WC1X 8TN",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Trade Union",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "5974",
+        "item_hash": "de804f7122"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The MP's question about the adequacy of funding for the British Transport Police may be influenced by their interest in ASLEF, a trade union representing train drivers and other railway workers. ASLEF may be concerned about the adequacy of transport policing, which could directly affect its members' safety and working conditions. Therefore, there might be a relevant connection between the MP's declared interest and their written question.",
+      "regmem_entry": {
+        "id": "5969",
+        "content": "ASLEF (Associated Society of Locomotive Engineers and Firemen) - £1,000.00",
+        "content_format": "string",
+        "date_registered": "2024-07-09",
+        "date_published": "2024-07-11",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "donation_source",
+            "display_as": "Donation Source",
+            "description": "How the donation was received",
+            "type": "string",
+            "value": "(a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "Monetary",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "donated to Stockport Constituency Labour Party for general election campaigning",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "1000.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "ASLEF (Associated Society of Locomotive Engineers and Firemen)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "75-77 St John Street, Finsbury, London EC1M 4NN",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Trade Union",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "5969",
+        "item_hash": "7230cc825a"
+      }
+    }
+  ]
+}

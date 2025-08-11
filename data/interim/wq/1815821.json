@@ -1,0 +1,749 @@
+{
+  "person_id": "uk.org.publicwhip/person/26332",
+  "person_name": "Shaun Davies",
+  "public_speech": "To ask the Secretary of State for Housing, Communities and Local Government, if she will publish the criteria by which communities may qualify for capital grants from upper tier local authorities for physical and social regeneration funding.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-24/62286/",
+  "relevance_summary": {
+    "summary": "The MP has raised a question about the criteria for communities to qualify for capital grants for physical and social regeneration funding from local authorities. This question is considered relevant due to several of the MP's declared interests. These include being an advisor for the Local Government Association and a non-executive director at Wrekin Housing Group, which is a registered social landlord potentially benefiting from such funding. Additionally, the MP's roles as a Councillor and Council Leader at Telford and Wrekin Council, a member of the Telford Town Deal Board, and as an Honorary Vice President of the Local Government Association could impact their perspective or influence regarding local government funding policies and criteria. Furthermore, there's a monetary donation from Lord Kuldip Sahota linked to potential interests in local funding decisions, possibly affecting Telford's funding dynamics. The MP's roles and affiliations may connect them to funding processes and potential benefits from the grants for related projects or entities.",
+    "abuse_score": "high"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP is inquiring about funding criteria from local authorities for regeneration projects, and is also an advisor for the Local Government Association. This position could potentially influence or relate to the MP's understanding or interest in the funding processes and criteria within local government contexts, thus making it relevant to the register of interests.",
+      "regmem_entry": {
+        "id": "6115",
+        "content": "Advisor - Local Government Association",
+        "content_format": "string",
+        "date_registered": "2024-07-18",
+        "date_published": "2024-07-19",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Advisor",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "start_date",
+            "display_as": "Start Date",
+            "description": "Date the agreement started",
+            "type": "date",
+            "value": "2024-07-05",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date the agreement ended",
+            "type": "date",
+            "value": "2024-07-31",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_until_further_notice",
+            "display_as": "Is Until Further Notice",
+            "description": "Whether the agreement is until further notice",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Local Government Association",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "Smith Square, London SW1P 3HZ",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "6121",
+            "content": "Payment expected for services on 12 July 2024 - £1,810.00",
+            "content_format": "string",
+            "date_registered": "2024-07-18",
+            "date_published": "2024-07-18",
+            "date_received": "2024-07-12",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-07-12",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "for 5 days of support spread across July",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "1810.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "40.00",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "6121",
+            "item_hash": "f5bdf76791"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "6115",
+        "item_hash": "052a160e2c"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The MP is a non-executive director at Wrekin Housing Group, which is a registered social landlord. The question about criteria for capital grants for regeneration funding is relevant to their declared interest because such funding could potentially benefit housing groups like Wrekin Housing Group. The MP's role may involve oversight or influence in securing or advocating for such funds, therefore the interest is directly relevant to the government funding topic being questioned.",
+      "regmem_entry": {
+        "id": "9829",
+        "content": "Non-executive director - Wrekin Housing Group",
+        "content_format": "string",
+        "date_registered": "2024-08-03",
+        "date_published": "2024-08-04",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Non-executive director",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date the agreement ended",
+            "type": "date",
+            "value": "2024-12-18",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_until_further_notice",
+            "display_as": "Is Until Further Notice",
+            "description": "Whether the agreement is until further notice",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Wrekin Housing Group",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_paid_as_director_of_payer",
+            "display_as": "Is Paid As Director Of Payer",
+            "description": "Whether the Member is a director of the payment source",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "Registered Social Landlord",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "Colliers Way, Old Park, Telford TF3 4AW",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "9831",
+            "content": "Agreement starting 04 July 2024 - £710.00",
+            "content_format": "string",
+            "date_registered": "2024-08-03",
+            "date_published": "2024-08-04",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "start_date",
+                "display_as": "Start Date",
+                "description": "Date the remuneration started",
+                "type": "date",
+                "value": "2024-07-04",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "end_date",
+                "display_as": "End Date",
+                "description": "Date the remuneration ended",
+                "type": "date",
+                "value": "2024-12-13",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "710.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "15.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "approximately",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "9831",
+            "item_hash": "6195e9d433"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "9829",
+        "item_hash": "bbee8632f9"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The MP's role as a Councillor and Council Leader at Telford and Wrekin Council is relevant because the question concerns the criteria for capital grants for physical and social regeneration funding, which could directly affect local councils, including Telford and Wrekin Council. This could imply a potential benefit to the council they are leading, making the interest declaration relevant.",
+      "regmem_entry": {
+        "id": "6107",
+        "content": "Councillor, and until 17 July 2024, Council Leader - Telford and Wrekin Council",
+        "content_format": "string",
+        "date_registered": "2024-07-18",
+        "date_published": "2024-07-18",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Councillor, and until 17 July 2024, Council Leader",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Telford and Wrekin Council",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "Local Government",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "Telford and Wrekin Council,  Southwater 1, Telford TF34JG",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "6112",
+            "content": "Agreement starting 04 July 2024 - £1,028.00",
+            "content_format": "string",
+            "date_registered": "2024-07-18",
+            "date_published": "2024-07-18",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "start_date",
+                "display_as": "Start Date",
+                "description": "Date the remuneration started",
+                "type": "date",
+                "value": "2024-07-04",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "end_date",
+                "display_as": "End Date",
+                "description": "Date the remuneration ended",
+                "type": "date",
+                "value": "2024-08-24",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Weekly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "1028.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "10.00",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "6112",
+            "item_hash": "9d16b88ab8"
+          },
+          {
+            "id": "6110",
+            "content": "Agreement starting 05 July 2024 - £1,319.38",
+            "content_format": "string",
+            "date_registered": "2024-07-18",
+            "date_published": "2024-07-18",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "start_date",
+                "display_as": "Start Date",
+                "description": "Date the remuneration started",
+                "type": "date",
+                "value": "2024-07-05",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "end_date",
+                "display_as": "End Date",
+                "description": "Date the remuneration ended",
+                "type": "date",
+                "value": "2024-07-17",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Weekly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "Balance payment as Leader of Telford and Wrekin Council",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "1319.38",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "25.00",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "6110",
+            "item_hash": "fe88fa2ca6"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "6107",
+        "item_hash": "1cc2c66771"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The question relates to funding criteria for local communities, and the register of interest indicates that Lord Kuldip Sahota of Telford provided a monetary donation related to support linked to an MP. This suggests a potential interest in the allocation of such funds, especially if the donation could be seen as influencing or related to funding decisions or criteria for local areas, possibly including Telford.",
+      "regmem_entry": {
+        "id": "6313",
+        "content": "Lord Kuldip Sahota of Telford - £2,475.00",
+        "content_format": "string",
+        "date_registered": "2024-07-18",
+        "date_published": "2024-07-19",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "donation_source",
+            "display_as": "Donation Source",
+            "description": "How the donation was received",
+            "type": "string",
+            "value": "(a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "Monetary",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "2475.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "Lord Kuldip Sahota of Telford",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Individual",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "6313",
+        "item_hash": "187c52efba"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "As a member of the Telford Town Deal Board, the MP may have an interest in the criteria used for communities to qualify for capital grants for regeneration. The Telford Town Deal Board likely deals with similar funding and development issues, making the interest relevant to the written question.",
+      "regmem_entry": {
+        "id": "11339",
+        "content": "Member of the Telford Town Deal Board (unpaid)",
+        "content_format": "string",
+        "date_registered": "2025-02-08",
+        "date_published": "2025-02-10",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-11-22",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Member of the Telford Town Deal Board (unpaid)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11339",
+        "item_hash": "807d62f3f2"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The MP's position as Honorary Vice President of the Local Government Association, even though it is an unpaid role, is relevant in this context as it may influence their interest or perspective regarding local government funding and policies. Being associated with a key body that interacts with local authorities, they might have insights, influence, or interests concerning the distribution of funding for community projects. This could be important when discussing criteria for grants from local governments.",
+      "regmem_entry": {
+        "id": "10703",
+        "content": "Honorary Vice President of the Local Government Association. This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-09-17",
+        "date_published": "2024-09-17",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-09-12",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Honorary Vice President of the Local Government Association. This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "10703",
+        "item_hash": "b1d034f962"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The MP's role as a Non-Executive Director of Wrekin Housing Group is relevant to the question about criteria for capital grants for regeneration funding. The housing group could potentially benefit from such grants, and the MP's position may influence or be perceived to influence decisions related to funding allocations in the housing sector.",
+      "regmem_entry": {
+        "id": "6103",
+        "content": "Non-Executive Director of Wrekin Housing Group.",
+        "content_format": "string",
+        "date_registered": "2024-07-11",
+        "date_published": "2024-07-11",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date on which the interest ended",
+            "type": "date",
+            "value": "2024-12-13",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Non-Executive Director of Wrekin Housing Group.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Financial interest or material benefit",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "6103",
+        "item_hash": "9233fb2f08"
+      }
+    }
+  ]
+}

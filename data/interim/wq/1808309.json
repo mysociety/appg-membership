@@ -1,0 +1,350 @@
+{
+  "person_id": "uk.org.publicwhip/person/26622",
+  "person_name": "Jack Rankin",
+  "public_speech": "To ask the Chancellor of the Exchequer, if she will make an assessment of the potential impact of the proposals on the harmonisation of gambling duties outlined in the consultation entitled The Tax Treatment of Remote Gambling, last updated on 6 May 2025,",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-02/56579/",
+  "relevance_summary": {
+    "summary": "The question raised concerns the potential impact of proposals to harmonise gambling duties. The interests flagged include a £2,500 monetary donation to the MP's local party association from Susan Shield, whose potential ties to the gambling industry are unclear but warrant further investigation. Furthermore, the MP has received hospitality from both Arena Racing Corporation Limited and Ascot Racecourse Limited. These companies have stakes in the gambling industry, suggesting that the MP's question may influence sectors where these companies operate.",
+    "abuse_score": "high"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The question pertains to the potential impact of proposals on the harmonisation of gambling duties, and the registered interest involves a monetary donation of £2,500 to the MP's local party association. There is a possible relevance if the donor, Susan Shield, has any interest or stake in the gambling industry, or if the donation is intended to influence policies related to gambling. However, since the donation source and donor status are not explicitly linked to the gambling industry, determining the relevance requires further investigation into Susan Shield's potential interests or intentions behind the donation.",
+      "regmem_entry": {
+        "id": "6614",
+        "content": "Susan Shield - £2,500.00",
+        "content_format": "string",
+        "date_registered": "2024-07-18",
+        "date_published": "2024-07-19",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "donation_source",
+            "display_as": "Donation Source",
+            "description": "How the donation was received",
+            "type": "string",
+            "value": "(a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "Monetary",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "to the Jack Rankin Fighting Fund Donation c/o Windsor Conservative Association",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "2500.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "Susan Shield",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Individual",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "6614",
+        "item_hash": "d2e6eb78a5"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The MP is asking about the harmonisation of gambling duties, which directly impacts the gambling industry and stakeholders such as Arena Racing Corporation Limited. Since the MP received hospitality from Arena Racing Corporation Limited, a company likely to be affected by changes in gambling duties, this interest is relevant to their question.",
+      "regmem_entry": {
+        "id": "11672",
+        "content": "Arena Racing Corporation Limited - £312.00",
+        "content_format": "string",
+        "date_registered": "2025-01-20",
+        "date_published": "2025-01-20",
+        "date_received": "2025-01-08",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "In kind",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "Two tickets including hospitality to Royal Windsor Racecourse for the 'Berkshire Winter Million'",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "312.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_date",
+            "display_as": "Received Date",
+            "description": "Date on which the benefit was received",
+            "type": "date",
+            "value": "2025-01-08",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "accepted_date",
+            "display_as": "Accepted Date",
+            "description": "Date on which the benefit was accepted",
+            "type": "date",
+            "value": "2025-01-08",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_end_date",
+            "display_as": "Received End Date",
+            "description": "End date, if the benefit was received over time",
+            "type": "date",
+            "value": "2025-01-17",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "Arena Racing Corporation Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "Millbank Tower, 21-24 Millbank, London SW1P 4QP",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Company",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_name",
+            "display_as": "Donor Company Name",
+            "description": "Name of the donor company",
+            "type": "string",
+            "value": "Arena Racing Corporation Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier",
+            "display_as": "Donor Company Identifier",
+            "description": "Company registration number",
+            "type": "string",
+            "value": "07997040",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier_source",
+            "display_as": "Donor Company Identifier Source",
+            "description": "Source of company identifier",
+            "type": "string",
+            "value": "Companies House",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11672",
+        "item_hash": "4489ee4b2c"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The register of interest shows that the MP received hospitality from Ascot Racecourse Limited, which is related to the horse racing industry. The speech or written question is about the harmonisation of gambling duties, which could potentially affect the profitability and operations of venues like Ascot Racecourse that may be involved in gambling activities through betting on horse races. Therefore, there is a relevant connection between the MP's interest and the subject of the question.",
+      "regmem_entry": {
+        "id": "11104",
+        "content": "Ascot Racecourse Limited - £675.00",
+        "content_format": "string",
+        "date_registered": "2024-10-29",
+        "date_published": "2024-11-01",
+        "date_received": "2024-10-19",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "In kind",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "Hosted at 'QIPCO British Champions Day' in a hospitality box with two family members",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "675.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_date",
+            "display_as": "Received Date",
+            "description": "Date on which the benefit was received",
+            "type": "date",
+            "value": "2024-10-19",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "accepted_date",
+            "display_as": "Accepted Date",
+            "description": "Date on which the benefit was accepted",
+            "type": "date",
+            "value": "2024-10-19",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_end_date",
+            "display_as": "Received End Date",
+            "description": "End date, if the benefit was received over time",
+            "type": "date",
+            "value": "2024-10-19",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "Ascot Racecourse Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "Ascot Racecourse, Ascot, Berkshire, SL5 7JX",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Company",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_name",
+            "display_as": "Donor Company Name",
+            "description": "Name of the donor company",
+            "type": "string",
+            "value": "Ascot Racecourse Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier",
+            "display_as": "Donor Company Identifier",
+            "description": "Company registration number",
+            "type": "string",
+            "value": "04320977",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier_source",
+            "display_as": "Donor Company Identifier Source",
+            "description": "Source of company identifier",
+            "type": "string",
+            "value": "Companies House",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11104",
+        "item_hash": "9ec2c3b6c5"
+      }
+    }
+  ]
+}

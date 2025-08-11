@@ -5,6 +5,14 @@
   "category": "Subject Group",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Graeme Downie",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26503",
+      "mnis_id": "5275",
+      "removed": false
+    },
+    {
       "role": "Officer",
       "name": "Baroness Browning",
       "party": "Conservative",
@@ -71,12 +79,12 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Graeme Downie MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "graeme.downie.mp@parliament.uk",
     "public_enquiry_point_name": "Laura Mullaney, Parkinson's UK. Tel: 07964 036906",
-    "public_enquiry_point_email": null,
-    "secretariat": "Parkinson's UK acts as the group's secretariat. https://www.parkinsons.org.uk/",
+    "public_enquiry_point_email": "lmullaney@parkinsons.org.uk",
+    "secretariat": "Parkinson's UK acts as the group's secretariat.https://www.parkinsons.org.uk/",
     "website": {
       "status": "register",
       "url": "https://www.parkinsons.org.uk/get-involved/parkinsons-uk-parliament"
@@ -90,8 +98,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250618",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250618/parkinsons.htm",
+  "index_date": "250731",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/parkinsons.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

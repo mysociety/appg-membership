@@ -1,0 +1,289 @@
+{
+  "person_id": "uk.org.publicwhip/person/26622",
+  "person_name": "Jack Rankin",
+  "public_speech": "To ask the Secretary of State for Energy Security and Net Zero, whether policies on smart thermostats will be included in the Warm Homes Plan.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-04/904520/",
+  "relevance_summary": {
+    "summary": "The interests flagged as relevant involve the MP's professional ties and shareholding in two companies: Pexapark (UK) Limited and Crocus and Bluebell Limited. Both companies provide advisory services related to energy markets and renewable energy. The question posed is about smart thermostats and their inclusion in the Warm Homes Plan, which are related to energy efficiency policies—a direct area of interest for both companies.",
+    "abuse_score": "high"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The question is about energy policies specifically related to smart thermostats and the Warm Homes Plan. The MP's declaration of interest is related to energy markets transaction advisory with Pexapark (UK) Limited, a renewable energy advisory and software company. This connection indicates a potential overlap between the MP's professional interests and the policy area in question.",
+      "regmem_entry": {
+        "id": "7745",
+        "content": "Energy markets transaction advisory. - Pexapark (UK) Limited",
+        "content_format": "string",
+        "date_registered": "2024-07-29",
+        "date_published": "2024-07-29",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Energy markets transaction advisory.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Pexapark (UK) Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "Renewable energy advisory and software company.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "c/o BDO LLP, 55 Baker Street, London W1U 7EU",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "10909",
+            "content": "Payment received on 30 September 2024 - £19,590.00",
+            "content_format": "string",
+            "date_registered": "2024-10-05",
+            "date_published": "2024-10-05",
+            "date_received": "2024-09-30",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-09-30",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "Commission-type payment paid for work mainly conducted before I was elected a Member of Parliament.",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "19590.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "No additional hours to declare.",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "10909",
+            "item_hash": "5ab8e9b477"
+          },
+          {
+            "id": "7746",
+            "content": "Agreement - £8,750.00",
+            "content_format": "string",
+            "date_registered": "2024-07-29",
+            "date_published": "2024-08-04",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "end_date",
+                "display_as": "End Date",
+                "description": "Date the remuneration ended",
+                "type": "date",
+                "value": "2024-08-31",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "8750.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "20.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "Approximate time spent handing-over during my notice period.",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "7746",
+            "item_hash": "2a7cdb0a8c"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "7745",
+        "item_hash": "973f360677"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The question about smart thermostats in the Warm Homes Plan relates to energy efficiency and renewable energy, which is directly connected to the advisory services provided by Crocus and Bluebell Limited. Since Crocus and Bluebell Limited provides energy market and environmental advisory services, and the MP holds shares in this company, there could be a potential conflict of interest or perceived bias in matters related to energy policy, thus making this interest relevant to the question.",
+      "regmem_entry": {
+        "id": "10524",
+        "content": "Shares in Crocus and Bluebell Limited",
+        "content_format": "string",
+        "date_registered": "2024-08-22",
+        "date_published": "2024-08-22",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "shareholding_threshold",
+            "display_as": "Shareholding Threshold",
+            "description": "Registrable threshold for this shareholding interest",
+            "type": "string",
+            "value": "(i) Shareholdings: over 15% of issued share capital",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "registrable_date",
+            "display_as": "Registrable Date",
+            "description": "Date on which the holding was acquired, or achieved registrable value",
+            "type": "date",
+            "value": "2024-08-12",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "organisation_name",
+            "display_as": "Organisation Name",
+            "description": "Name of the company or partnership",
+            "type": "string",
+            "value": "Crocus and Bluebell Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "organisation_description",
+            "display_as": "Organisation Description",
+            "description": "Nature of the company or partnership's business",
+            "type": "string",
+            "value": "Provides energy markets and environmental advisory services to the generators of renewable power, in particular the structuring of long-term power purchase agreements to reach financial close for new build renewable projects.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "held_on_behalf_of",
+            "display_as": "Held On Behalf Of",
+            "description": "Held jointly or on behalf of a spouse, partner, or dependent child",
+            "type": "string",
+            "value": "Jointly with my wife",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "10524",
+        "item_hash": "7d7ec310d9"
+      }
+    }
+  ]
+}

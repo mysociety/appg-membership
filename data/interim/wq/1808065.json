@@ -1,0 +1,104 @@
+{
+  "person_id": "uk.org.publicwhip/person/25872",
+  "person_name": "Wendy Chamberlain",
+  "public_speech": "To ask the Secretary of State for Work and Pensions, what the median processing time for Carer's Allowance applications was in (a) 2023, (b) 2024 and (c) 2025.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-02/56340/",
+  "relevance_summary": {
+    "summary": "The interests flagged as relevant include the MP's honorary position with Carers UK and their unpaid directorship at The Fife Carers Centre. Both positions are connected to carers: Carers UK is focused on carers' advocacy, and The Fife Carers Centre likely assists carers who may apply for Carer's Allowance. Thus, the inquiry into processing times directly concerns the beneficiaries of these organizations.",
+    "abuse_score": "medium"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP is inquiring about Carer's Allowance processing times, which directly relates to the interests of carers, the focus of Carers UK, where the MP holds an honorary position. Although the role is unremunerated, the association with Carers UK indicates a potential influence or advocacy interest in issues affecting carers, making the declared interest relevant.",
+      "regmem_entry": {
+        "id": "11410",
+        "content": "Honorary Vice President of Carers UK (unremunerated)",
+        "content_format": "string",
+        "date_registered": "2024-12-02",
+        "date_published": "2024-12-02",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-11-25",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Honorary Vice President of Carers UK (unremunerated)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11410",
+        "item_hash": "ed4ed0dc98"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The MP has declared an interest as an unpaid director of The Fife Carers Centre. This role is relevant to the question about Carer's Allowance processing times, as The Fife Carers Centre likely deals with carers who may be applying for such allowances. Thus, the interest directly relates to the topic of the written question.",
+      "regmem_entry": {
+        "id": "11034",
+        "content": "Unpaid Director of The Fife Carers Centre (registered company number: SC282309)",
+        "content_format": "string",
+        "date_registered": "2024-10-18",
+        "date_published": "2024-10-21",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-10-17",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Unpaid Director of The Fife Carers Centre (registered company number: SC282309)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11034",
+        "item_hash": "2f7098f95c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "penal-affairs",
+  "title": "All-Party Parliamentary Group on Penal Affairs",
+  "purpose": "To increase its members' knowledge of penal affairs and to work through parliamentary channels for reform of the penal system.",
+  "category": "Subject Group",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Pam Cox",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26324",
+      "mnis_id": "5042",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Tessa Munt",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/24942",
+      "mnis_id": "4089",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Garnier",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/10221",
+      "mnis_id": "337",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Prashar",
+      "party": "Crossbench",
+      "twfy_id": "uk.org.publicwhip/person/13071",
+      "mnis_id": "2476",
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": [
+      "https://prisonreformtrust.org.uk/wp-content/uploads/2025/07/minute-of-APPG-on-Penal-Affairs-meeting-170625.pdf",
+      "https://prisonreformtrust.org.uk/wp-content/uploads/2023/06/Minutes-of-APPG-meeting-and-AGM-23.05.23.pdf"
+    ],
+    "last_updated": "2025-08-11",
+    "members": [
+      {
+        "name": "Pam Cox",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5042",
+        "twfy_id": "uk.org.publicwhip/person/26324",
+        "removed": false
+      },
+      {
+        "name": "Baroness Prashar",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "2476",
+        "twfy_id": "uk.org.publicwhip/person/13071",
+        "removed": false
+      },
+      {
+        "name": "Lord Carlile of Berriew",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Garnier",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "337",
+        "twfy_id": "uk.org.publicwhip/person/10221",
+        "removed": false
+      },
+      {
+        "name": "Ruth Cadbury",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4389",
+        "twfy_id": "uk.org.publicwhip/person/25343",
+        "removed": false
+      },
+      {
+        "name": "Lee Pitcher",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5233",
+        "twfy_id": "uk.org.publicwhip/person/26464",
+        "removed": false
+      },
+      {
+        "name": "Baroness Healy of Primrose Hill",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Andy Slaughter",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1516",
+        "twfy_id": "uk.org.publicwhip/person/11559",
+        "removed": false
+      },
+      {
+        "name": "The Bishop of Lichfield",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Marie Goldman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5073",
+        "twfy_id": "uk.org.publicwhip/person/26338",
+        "removed": false
+      },
+      {
+        "name": "Paul Maynard",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "3926",
+        "twfy_id": "uk.org.publicwhip/person/24764",
+        "removed": false
+      },
+      {
+        "name": "Lord Carlile",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "1138",
+        "twfy_id": "uk.org.publicwhip/person/13674",
+        "removed": false
+      },
+      {
+        "name": "Carolyn Harris",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4480",
+        "twfy_id": "uk.org.publicwhip/person/25308",
+        "removed": false
+      },
+      {
+        "name": "Marie Rimmer",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4457",
+        "twfy_id": "uk.org.publicwhip/person/25321",
+        "removed": false
+      },
+      {
+        "name": "Andrew Selous",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1453",
+        "twfy_id": "uk.org.publicwhip/person/11216",
+        "removed": false
+      },
+      {
+        "name": "Lord Hodgson of Astley Abbotts",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Pam Cox MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "pam.cox.mp@parliament.uk",
+    "public_enquiry_point_name": "Mark Day, Prison Reform Trust. Tel: 020 7689 7746",
+    "public_enquiry_point_email": "mark.day@prisonreformtrust.org.uk",
+    "secretariat": "Prison Reform Trust acts as the group's secretariat.http://www.prisonreformtrust.org.uk/",
+    "website": {
+      "status": "register",
+      "url": "https://prisonreformtrust.org.uk/policy-legislation/appg/"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2025-06-17",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "17 Jun to 16 Jun",
+    "next_reporting_deadline": "2026-10-17"
+  },
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "250731",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/penal-affairs.htm",
+  "categories": [
+    "Justice, Law & Security"
+  ]
+}

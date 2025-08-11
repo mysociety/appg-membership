@@ -1,6 +1,5 @@
 title: APPG Memberships
-description: "APPG Memberships scraped using experimental ML scraper.\nDO NOT RELY\
-  \ ON 'ai_search' MEMBERSHIP DATA YET - needs further validation.\n"
+description: "APPG Memberships scraped using experimental ML scraper"
 custom:
   row_count: 7704
 path: members.parquet

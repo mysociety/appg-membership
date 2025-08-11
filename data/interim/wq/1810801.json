@@ -1,0 +1,739 @@
+{
+  "person_id": "uk.org.publicwhip/person/26517",
+  "person_name": "Laurence Turner",
+  "public_speech": "To ask the Secretary of State for Housing, Communities and Local Government, whether local authorities are able to prevent new employees from joining the Local Government Pension Scheme.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-09/58490/",
+  "relevance_summary": {
+    "summary": "The MP's background as a Trade Union Official with the GMB Union and involvement in the GMB Parliamentary Group is relevant to the question about the Local Government Pension Scheme because trade unions often deal with employee rights and benefits, including pensions. Additionally, the MP has received monetary donations from unions like UNISON and GMB Midlands, both representing local government and public sector workers. The MP's question about whether local authorities can prevent new employees from joining the pension scheme may be influenced by these relationships, as it pertains to issues of worker rights and benefits, which are key interests of both GMB and UNISON. The trade unions' donations and involvement signify a vested interest in the pensions and benefits of local government employees who are represented by these unions.",
+    "abuse_score": "high"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP's previous role as a Trade Union Official with GMB Union is relevant because trade unions are often involved in matters relating to employee rights and benefits, including pension schemes. Therefore, the MP's question on the Local Government Pension Scheme may be influenced by their background and interest in labor rights, making the interest relevant.",
+      "regmem_entry": {
+        "id": "8196",
+        "content": "Trade Union Official - GMB Union",
+        "content_format": "string",
+        "date_registered": "2024-07-30",
+        "date_published": "2024-07-30",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Trade Union Official",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date the agreement ended",
+            "type": "date",
+            "value": "2024-07-05",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_until_further_notice",
+            "display_as": "Is Until Further Notice",
+            "description": "Whether the agreement is until further notice",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "GMB Union",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "22 Stephenson Way, London NW1 2HD",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "8358",
+            "content": "Payment expected for services on 06 August 2024 - £2,772.30",
+            "content_format": "string",
+            "date_registered": "2024-07-30",
+            "date_published": "2024-07-30",
+            "date_received": "2024-08-06",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-08-06",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "One off payment for (a) untaken accrued annual leave, and (b) percentage uplift applied retrospectively for all staff to earnings since April as part of annual salary uprating.",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "2772.30",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "No additional hours.",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "8358",
+            "item_hash": "cb89be2fb8"
+          },
+          {
+            "id": "8197",
+            "content": "Agreement - £5,704.29",
+            "content_format": "string",
+            "date_registered": "2024-07-30",
+            "date_published": "2024-07-30",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "end_date",
+                "display_as": "End Date",
+                "description": "Date the remuneration ended",
+                "type": "date",
+                "value": "2024-07-05",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "5704.29",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "160.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "Estimated hours based on an average 40 hour week (contract was for unspecified hours)",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "8197",
+            "item_hash": "ea16c4ceb1"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "8196",
+        "item_hash": "6d91961a5c"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The question relates to local government employees' rights, specifically regarding the Local Government Pension Scheme. As a Trade Union Official for the GMB Union, the MP has a relevant interest in employment rights and pension schemes that affect workers, which aligns with the union's focus on protecting and advocating for workers' benefits and rights.",
+      "regmem_entry": {
+        "id": "8196",
+        "content": "Trade Union Official - GMB Union",
+        "content_format": "string",
+        "date_registered": "2024-07-30",
+        "date_published": "2024-07-30",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Trade Union Official",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date the agreement ended",
+            "type": "date",
+            "value": "2024-07-05",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_until_further_notice",
+            "display_as": "Is Until Further Notice",
+            "description": "Whether the agreement is until further notice",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "GMB Union",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "22 Stephenson Way, London NW1 2HD",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "8358",
+            "content": "Payment expected for services on 06 August 2024 - £2,772.30",
+            "content_format": "string",
+            "date_registered": "2024-07-30",
+            "date_published": "2024-07-30",
+            "date_received": "2024-08-06",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-08-06",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "One off payment for (a) untaken accrued annual leave, and (b) percentage uplift applied retrospectively for all staff to earnings since April as part of annual salary uprating.",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "2772.30",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "No additional hours.",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "8358",
+            "item_hash": "cb89be2fb8"
+          },
+          {
+            "id": "8197",
+            "content": "Agreement - £5,704.29",
+            "content_format": "string",
+            "date_registered": "2024-07-30",
+            "date_published": "2024-07-30",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "end_date",
+                "display_as": "End Date",
+                "description": "Date the remuneration ended",
+                "type": "date",
+                "value": "2024-07-05",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "5704.29",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "160.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "Estimated hours based on an average 40 hour week (contract was for unspecified hours)",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "8197",
+            "item_hash": "ea16c4ceb1"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "8196",
+        "item_hash": "6d91961a5c"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The question relates to local government employees and their pension scheme, which is a matter of interest to trade unions like UNISON, as they represent the interests of public sector workers. UNISON, being a trade union that has donated money to the MP, could have an interest in matters affecting local government employees, making the MP's registered interest relevant to the question.",
+      "regmem_entry": {
+        "id": "8360",
+        "content": "UNISON - £1,000.00",
+        "content_format": "string",
+        "date_registered": "2024-07-30",
+        "date_published": "2024-08-04",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "donation_source",
+            "display_as": "Donation Source",
+            "description": "How the donation was received",
+            "type": "string",
+            "value": "(a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "Monetary",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "1000.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "UNISON",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "130 Euston Road, London, NW1 2AY",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Trade Union",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "8360",
+        "item_hash": "8797265ef1"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The question pertains to the Local Government Pension Scheme, which is relevant to employees who might be members of a trade union like UNISON. Since UNISON is a prominent trade union representing workers in public services, including local government, the interest declared (a monetary donation from UNISON) is relevant to the subject matter of the question about local government employment and pension schemes.",
+      "regmem_entry": {
+        "id": "8359",
+        "content": "UNISON - £4,000.00",
+        "content_format": "string",
+        "date_registered": "2024-07-31",
+        "date_published": "2024-07-31",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "donation_source",
+            "display_as": "Donation Source",
+            "description": "How the donation was received",
+            "type": "string",
+            "value": "(a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "Monetary",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "4000.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "UNISON",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "130 Euston Road, London NW1 2AY",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Trade Union",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "8359",
+        "item_hash": "bc07a13825"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The MP has declared a monetary donation from GMB Midlands, a trade union. This could be relevant to the question about local authorities and the Local Government Pension Scheme as trade unions frequently have involvement with employment terms and pension schemes. The declaration could imply an interest in supporting policies that align with trade union perspectives.",
+      "regmem_entry": {
+        "id": "8199",
+        "content": "GMB Midlands - £8,818.66",
+        "content_format": "string",
+        "date_registered": "2024-07-30",
+        "date_published": "2024-07-31",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "donation_source",
+            "display_as": "Donation Source",
+            "description": "How the donation was received",
+            "type": "string",
+            "value": "(a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "Monetary",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "for print costs associated with my election campaign",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "8818.66",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "GMB Midlands",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "542 Woodborough Road, Mapperley, Nottingham NG3 5FJ",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Trade Union",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "8199",
+        "item_hash": "1d07e6a2fe"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The GMB is a trade union which often represents workers' rights, including those related to pensions and employment conditions. As chair of the GMB Parliamentary Group, the MP may have an interest in questions about pension schemes, as these can impact GMB members and their employment benefits.",
+      "regmem_entry": {
+        "id": "11305",
+        "content": "Chair of the GMB Parliamentary Group. This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-11-20",
+        "date_published": "2024-11-20",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-11-11",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Chair of the GMB Parliamentary Group. This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11305",
+        "item_hash": "6b9da0aaaa"
+      }
+    }
+  ]
+}

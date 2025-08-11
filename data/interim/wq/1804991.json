@@ -1,0 +1,113 @@
+{
+  "person_id": "uk.org.publicwhip/person/24961",
+  "person_name": "Julian Smith",
+  "public_speech": "To ask the Secretary of State for Justice, whether she has had recent discussions with Lawtech UK on the feasibility study for an SME online dispute resolution platform.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-21/53845/",
+  "relevance_summary": {
+    "summary": "The MP is inquiring about discussions related to an online dispute resolution platform. They are relevantly connected as they serve as Chair, Director, and Trustee of the Centre for Effective Dispute Resolution Limited (CEDR), a position which, while unpaid, indicates a professional interest in dispute resolution. Additionally, they chair The Alternative Dispute Resolution Taskforce, although it pertains to a different sector. The MP's expertise and roles in ADR make the inquiry into dispute resolution platforms more pertinent due to overlapping ADR processes.",
+    "abuse_score": "medium"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP is asking about discussions related to an online dispute resolution platform, and they are the Chair (Director & Trustee) of the Centre for Effective Dispute Resolution Limited (CEDR). Although the role is unpaid, there could be a relevant interest due to the involvement in an organization specializing in dispute resolution.",
+      "regmem_entry": {
+        "id": "11530",
+        "content": "Chair, (Director & Trustee) of Centre for Effective Dispute Resolution Limited (CEDR). This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-12-19",
+        "date_published": "2024-12-20",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-12-12",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Chair, (Director & Trustee) of Centre for Effective Dispute Resolution Limited (CEDR). This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11530",
+        "item_hash": "43fee4593d"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The written question is related to discussions about an SME online dispute resolution platform, which ties into the MP's role as Chair of The Alternative Dispute Resolution (ADR) Taskforce, albeit for a different sector (Electricity Network Infrastructure). The MP's expertise and role in ADR make it relevant to inquire about dispute resolution platforms more broadly, due to shared themes in ADR processes.",
+      "regmem_entry": {
+        "id": "4541",
+        "content": "Chair of The Alternative Dispute Resolution (ADR) Taskforce for Electricity Network Infrastructure, Department for Energy Security and Net Zero. This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-03-19",
+        "date_published": "2024-04-15",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-03-18",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date on which the interest ended",
+            "type": "date",
+            "value": "2025-05-07",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Chair of The Alternative Dispute Resolution (ADR) Taskforce for Electricity Network Infrastructure, Department for Energy Security and Net Zero. This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "4541",
+        "item_hash": "fcec0bd368"
+      }
+    }
+  ]
+}

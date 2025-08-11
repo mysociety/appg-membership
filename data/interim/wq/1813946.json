@@ -1,0 +1,173 @@
+{
+  "person_id": "uk.org.publicwhip/person/26314",
+  "person_name": "Jodie Gosling",
+  "public_speech": "To ask the Secretary of State for Education, what assessment she has made of the adequacy of funding available to schools to purchase Adrenaline Autoinjector Pens for pupils with allergies.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-18/60945/",
+  "relevance_summary": {
+    "summary": "The interest flagged as relevant is the MP's previous occupation as a teacher, providing them with firsthand experience about school funding and the need for adequate health emergency equipment like Adrenaline Autoinjector Pens. This background might influence their understanding and concern regarding the adequacy of funding in schools for such essential items.",
+    "abuse_score": "low"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP's previous occupation as a teacher may provide them with firsthand experience or insight into issues related to school funding and the necessities for adequately equipping schools to handle health emergencies such as allergies. This interest is relevant to their question about funding for Adrenaline Autoinjector Pens, which are crucial for managing pupil allergies in schools.",
+      "regmem_entry": {
+        "id": "7955",
+        "content": "Teacher - Coventry City Council",
+        "content_format": "string",
+        "date_registered": "2024-07-29",
+        "date_published": "2024-07-29",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Teacher",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date the agreement ended",
+            "type": "date",
+            "value": "2024-07-04",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_until_further_notice",
+            "display_as": "Is Until Further Notice",
+            "description": "Whether the agreement is until further notice",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Coventry City Council",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "Primary school",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "Joseph Cash Primary School, Owenford Rd, Coventry CV63FS",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "7959",
+            "content": "Agreement - £357.90",
+            "content_format": "string",
+            "date_registered": "2024-07-29",
+            "date_published": "2024-07-29",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "end_date",
+                "display_as": "End Date",
+                "description": "Date the remuneration ended",
+                "type": "date",
+                "value": "2024-07-04",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "Final payment",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "357.90",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "40.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "Worked 0.4 of ft teachers 39 wks a yr",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "7959",
+            "item_hash": "e09445dbbb"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "7955",
+        "item_hash": "be0131b99c"
+      }
+    }
+  ]
+}

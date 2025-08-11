@@ -1,0 +1,340 @@
+{
+  "person_id": "uk.org.publicwhip/person/24961",
+  "person_name": "Julian Smith",
+  "public_speech": "To ask the Secretary of State for Housing, Communities and Local Government, what discussions she has had with relevant stakeholders on the potential merits of increasing the use of mediation in the planning process.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-22/54252/",
+  "relevance_summary": {
+    "summary": "The MP's speech or question focuses on increasing the use of mediation in the planning process. Several interests are flagged as relevant due to the MP's connections:\n1. The MP received a donation from Yorkshire Land Limited, which is linked to the property and land industry. This industry could be significantly influenced by changes in the planning process.\n2. The MP has interests in property, with rental income in London, meaning changes in planning could impact their property value and related regulations.\n3. The MP is involved with the Centre for Effective Dispute Resolution Limited (CEDR) as Chair, Director, and Trustee, positioning them closely with mediation and dispute resolution themes.\n4. The MP also chairs an Alternative Dispute Resolution Taskforce within the Electricity Network Infrastructure, showcasing their expertise in mediation, which could translate to other sectors, like planning.",
+    "abuse_score": "high"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP's question relates to the planning process, and they have received a donation from Yorkshire Land Limited, which is connected to the property and land industry. Therefore, the interest is relevant as the topic could impact businesses in that industry, including Yorkshire Land Limited.",
+      "regmem_entry": {
+        "id": "6185",
+        "content": "Yorkshire Land Limited - £2,000.00",
+        "content_format": "string",
+        "date_registered": "2024-07-12",
+        "date_published": "2024-07-12",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "donation_source",
+            "display_as": "Donation Source",
+            "description": "How the donation was received",
+            "type": "string",
+            "value": "(a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "Monetary",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "2000.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "Yorkshire Land Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "Tattersall House, East Parade, Harrogate, North Yorkshire HG1 5LT",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Company",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_name",
+            "display_as": "Donor Company Name",
+            "description": "Name of the donor company",
+            "type": "string",
+            "value": "Yorkshire Land Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier",
+            "display_as": "Donor Company Identifier",
+            "description": "Company registration number",
+            "type": "string",
+            "value": "02185995",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier_source",
+            "display_as": "Donor Company Identifier Source",
+            "description": "Source of company identifier",
+            "type": "string",
+            "value": "Companies House",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "6185",
+        "item_hash": "c569e229a0"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The MP is asking about mediation in the planning process, which can directly affect property and real estate transactions. Since the MP has an interest in property, especially with rental income in London, changes in the planning process might impact the value, development, or regulations affecting such properties. Therefore, the interest in property could be relevant to the question about planning process mediation.",
+      "regmem_entry": {
+        "id": "2941",
+        "content": "Property in London",
+        "content_format": "string",
+        "date_registered": "2013-04-23",
+        "date_published": "2024-01-01",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "start_date",
+            "display_as": "Start Date",
+            "description": "Date on which the land or property was acquired, or achieved registrable value",
+            "type": "date",
+            "value": "2016-08-04",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "location",
+            "display_as": "Location",
+            "description": "Location of the land or property",
+            "type": "string",
+            "value": "London",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "property_description",
+            "display_as": "Property Description",
+            "description": "A description of the property",
+            "type": "string",
+            "value": "A second property was sold on 14 February 2025 and a third property was sold on 28 February 2025).",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "property_owner_details",
+            "display_as": "Property Owner Details",
+            "description": "Details about the ownership arrangements",
+            "type": "string",
+            "value": "co-owned with a family member",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "registrable_rental_income",
+            "display_as": "Registrable Rental Income",
+            "description": "Property has a rental income exceeding registrable threshold",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "rental_income_details",
+            "display_as": "Rental Income Details",
+            "description": "Details of any other recipients of rental income",
+            "type": "string",
+            "value": "rental income is paid to my partner and I",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "rental_income_start_date",
+            "display_as": "Rental Income Start Date",
+            "description": "Date on which the property began generating rental income",
+            "type": "date",
+            "value": "2016-08-04",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "number_of_properties",
+            "display_as": "Number Of Properties",
+            "description": "The number of properties this interest relates to",
+            "type": "int",
+            "value": 1,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_any_rental_income_paid_to_another_person",
+            "display_as": "Is Any Rental Income Paid To Another Person",
+            "description": "Whether any rental income is paid to another person or organisation",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "country",
+            "display_as": "Country",
+            "description": "Country in which the land or property is located",
+            "type": "string",
+            "value": "United Kingdom",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "property_type",
+            "display_as": "Property Type",
+            "description": "The type of property",
+            "type": "string",
+            "value": "Residential",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "2941",
+        "item_hash": "f4f7f6cca9"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The MP's role as Chair, Director, & Trustee of the Centre for Effective Dispute Resolution Limited (CEDR), which is focused on dispute resolution and is directly related to mediation, makes it relevant to discussions on increasing the use of mediation in the planning process.",
+      "regmem_entry": {
+        "id": "11530",
+        "content": "Chair, (Director & Trustee) of Centre for Effective Dispute Resolution Limited (CEDR). This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-12-19",
+        "date_published": "2024-12-20",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-12-12",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Chair, (Director & Trustee) of Centre for Effective Dispute Resolution Limited (CEDR). This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11530",
+        "item_hash": "43fee4593d"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The speech or question concerns mediation in the planning process, which involves dispute resolution methods. The MP's role as Chair of an Alternative Dispute Resolution Taskforce is directly related to mediation and dispute resolution practices, albeit in a different sector (Electricity Network Infrastructure). This indicates involvement and expertise in mediation methods, which is relevant to increasing the use of mediation in the planning process.",
+      "regmem_entry": {
+        "id": "4541",
+        "content": "Chair of The Alternative Dispute Resolution (ADR) Taskforce for Electricity Network Infrastructure, Department for Energy Security and Net Zero. This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-03-19",
+        "date_published": "2024-04-15",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-03-18",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date on which the interest ended",
+            "type": "date",
+            "value": "2025-05-07",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Chair of The Alternative Dispute Resolution (ADR) Taskforce for Electricity Network Infrastructure, Department for Energy Security and Net Zero. This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "4541",
+        "item_hash": "fcec0bd368"
+      }
+    }
+  ]
+}

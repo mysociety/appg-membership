@@ -14,14 +14,6 @@
     },
     {
       "role": "Co-Chair",
-      "name": "Mr Luke Charters",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26480",
-      "mnis_id": "5199",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
       "name": "David Burton-Sampson",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26442",
@@ -425,10 +417,10 @@
   "contact_details": {
     "registered_contact_name": "Lloyd Hatton MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": null,
-    "public_enquiry_point_name": "Laurie Woodiwiss, Athena Foundation. Tel: 07540405005",
-    "public_enquiry_point_email": null,
-    "secretariat": "Athena Foundation acts as the group's secretariat. https://www.theathenafoundation.org.uk/",
+    "registered_contact_email": "lloyd.hatton.mp@parliament.uk",
+    "public_enquiry_point_name": "Hugo Mann, Athena Foundation. Tel: 07764 862485",
+    "public_enquiry_point_email": "hugo@theathenafoundation.org.uk",
+    "secretariat": "Athena Foundation acts as the group's secretariat.https://www.theathenafoundation.org.uk/",
     "website": {
       "status": "register",
       "url": "https://www.appgbanking.org.uk/"
@@ -442,8 +434,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250618",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250618/fair-banking.htm",
+  "index_date": "250731",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/fair-banking.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

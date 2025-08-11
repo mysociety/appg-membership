@@ -1,0 +1,49 @@
+{
+  "person_id": "uk.org.publicwhip/person/26425",
+  "person_name": "Charlotte Cane",
+  "public_speech": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the merits of applying the same ethical sourcing requirements that apply to Great British Energy to private sector solar developers operating in the UK.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-30/55914/",
+  "relevance_summary": {
+    "summary": "The MP has flagged their position as an Honorary Director at a solar farm as relevant to their question about extending ethical sourcing requirements to private sector solar developers in the UK. While the role is unpaid, it potentially influences their perspective or indicates a specific interest in energy sector regulations.",
+    "abuse_score": "low"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP's question concerns ethical sourcing requirements for solar developers in the UK, and their role as an Honorary Director at a solar farm could influence their perspective or indicate an interest in the regulation of solar development. Although the role is unpaid, it is still a relevant interest.",
+      "regmem_entry": {
+        "id": "6129",
+        "content": "Honorary Director Reach Community Solar Farm Ltd. This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-07-11",
+        "date_published": "2024-07-11",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Honorary Director Reach Community Solar Farm Ltd. This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "6129",
+        "item_hash": "c667fd6471"
+      }
+    }
+  ]
+}

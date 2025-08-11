@@ -46,9 +46,9 @@
   "contact_details": {
     "registered_contact_name": "Bob Blackman MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7082.",
-    "registered_contact_email": null,
+    "registered_contact_email": "bob.blackman.mp@parliament.uk",
     "public_enquiry_point_name": "Ronnie King, Office of Lord Hendy. Tel: 07836266614",
-    "public_enquiry_point_email": null,
+    "public_enquiry_point_email": "kingrb@parliament.uk",
     "secretariat": null,
     "website": {
       "status": "register",
@@ -61,10 +61,25 @@
     "reporting_year": "29 Jul to 28 Jul",
     "next_reporting_deadline": "2025-11-29"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "250618",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250618/fire-safety-and-rescue.htm",
+  "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "Fire Sector Federation",
+      "Value £s": "3,000",
+      "Received": "21/10/2024",
+      "Registered": "04/07/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Fire Sector Federation",
+      "Value £s": "3,000",
+      "Received": "11/07/2025",
+      "Registered": "14/07/2025",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
+  "index_date": "250731",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/fire-safety-and-rescue.htm",
   "categories": [
     "Justice, Law & Security",
     "Housing, Planning & Built Environment"

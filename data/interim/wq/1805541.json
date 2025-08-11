@@ -1,0 +1,402 @@
+{
+  "person_id": "uk.org.publicwhip/person/25597",
+  "person_name": "Caroline Johnson",
+  "public_speech": "To ask the Secretary of State for Health and Social Care, on what date he received the Review Body on Doctors’ and Dentists’ Remuneration report on resident doctors pay.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-22/54318/",
+  "relevance_summary": {
+    "summary": "The question pertains to the timing of when the Secretary of State for Health and Social Care received a report on doctors' and dentists' remuneration. This is relevant to the MP as they are a practicing Consultant Paediatrician at the North West Anglia NHS Foundation Trust. The inquiry into doctors' pay changes bears a direct connection to the MP's professional and financial interests within the NHS, as changes might impact their own remuneration.",
+    "abuse_score": "medium"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The question is about doctors' remuneration, which is directly relevant to the MP's role as a consultant paediatrician. There could be a perceived conflict of interest, as changes in doctors' pay could potentially affect their own remuneration.",
+      "regmem_entry": {
+        "id": "4865",
+        "content": "Consultant paediatrician - North West Anglia NHS Foundation Trust",
+        "content_format": "string",
+        "date_registered": "2017-01-09",
+        "date_published": "2024-03-18",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Consultant paediatrician",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "North West Anglia NHS Foundation Trust",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "Peterborough City Hospital, Bretton Gate, Bretton PE3 9GZ",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "11215",
+            "content": "Payment received on 25 October 2024 - £713.40",
+            "content_format": "string",
+            "date_registered": "2024-11-04",
+            "date_published": "2024-11-11",
+            "date_received": "2024-10-25",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-10-25",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "713.40",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "A backdated amount of £713.40 was also received in the pay packet of 25 October 2024",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "11215",
+            "item_hash": "83e65f13c6"
+          },
+          {
+            "id": "4866",
+            "content": "Agreement starting 25 September 2023 - £25,203.60",
+            "content_format": "string",
+            "date_registered": "2023-10-26",
+            "date_published": "2024-03-18",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Yearly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "start_date",
+                "display_as": "Start Date",
+                "description": "Date the remuneration started",
+                "type": "date",
+                "value": "2023-09-25",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Yearly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "pay has increased from £23,776.80 to £25,203.60 per annum. In addition, I received a payment in October 2024 for work on 3 days during recess covering industrial action in December 2023 and January 2024. The gross payment was £6,068.64, for 39 hours of strike cover pay in total, comprising 23 additional hours and 13 paid at a redeployment rate.",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "25203.60",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "336.00",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "4866",
+            "item_hash": "4cf6c6a139"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "4865",
+        "item_hash": "f687f784ea"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The MP's interest as a Consultant Paediatrician at the North West Anglia NHS Foundation Trust is relevant because the question pertains to doctors' remuneration, which directly affects the MP's professional context and financial interests as a practicing doctor within the NHS.",
+      "regmem_entry": {
+        "id": "4865",
+        "content": "Consultant paediatrician - North West Anglia NHS Foundation Trust",
+        "content_format": "string",
+        "date_registered": "2017-01-09",
+        "date_published": "2024-03-18",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Consultant paediatrician",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "North West Anglia NHS Foundation Trust",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "Peterborough City Hospital, Bretton Gate, Bretton PE3 9GZ",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "11215",
+            "content": "Payment received on 25 October 2024 - £713.40",
+            "content_format": "string",
+            "date_registered": "2024-11-04",
+            "date_published": "2024-11-11",
+            "date_received": "2024-10-25",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-10-25",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "713.40",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "A backdated amount of £713.40 was also received in the pay packet of 25 October 2024",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "11215",
+            "item_hash": "83e65f13c6"
+          },
+          {
+            "id": "4866",
+            "content": "Agreement starting 25 September 2023 - £25,203.60",
+            "content_format": "string",
+            "date_registered": "2023-10-26",
+            "date_published": "2024-03-18",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Yearly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "start_date",
+                "display_as": "Start Date",
+                "description": "Date the remuneration started",
+                "type": "date",
+                "value": "2023-09-25",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Yearly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "pay has increased from £23,776.80 to £25,203.60 per annum. In addition, I received a payment in October 2024 for work on 3 days during recess covering industrial action in December 2023 and January 2024. The gross payment was £6,068.64, for 39 hours of strike cover pay in total, comprising 23 additional hours and 13 paid at a redeployment rate.",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "25203.60",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "336.00",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "4866",
+            "item_hash": "4cf6c6a139"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "4865",
+        "item_hash": "f687f784ea"
+      }
+    }
+  ]
+}

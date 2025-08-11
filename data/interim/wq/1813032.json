@@ -1,0 +1,173 @@
+{
+  "person_id": "uk.org.publicwhip/person/26569",
+  "person_name": "Manuela Perteghella",
+  "public_speech": "To ask the Secretary of State for Education, whether she plans to introduce a requirement for all councillors to complete corporate parenting training covering (a) safeguarding, (b) duties under the Children and Social Work Act 2017 and (c) the responsibi",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-16/60236/",
+  "relevance_summary": {
+    "summary": "The question is regarding the potential introduction of mandatory corporate parenting training for all councillors, which covers safeguarding, duties under the Children and Social Work Act 2017, and other responsibilities. The reason this is flagged as relevant is because the MP is a District Councillor for Stratford-on-Avon District Council which means any changes to training requirements would directly affect their role and responsibilities.",
+    "abuse_score": "low"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP is asking a question related to corporate parenting training for councillors, and their declared interest shows they are a District Councillor for Stratford-on-Avon District Council. This role is directly relevant to the subject of the question, as it could be affected by any requirements introduced for councillor training.",
+      "regmem_entry": {
+        "id": "6584",
+        "content": "District Councillor - Stratford-on-Avon District Council",
+        "content_format": "string",
+        "date_registered": "2024-08-01",
+        "date_published": "2024-08-01",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "District Councillor",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date the agreement ended",
+            "type": "date",
+            "value": "2025-03-14",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_until_further_notice",
+            "display_as": "Is Until Further Notice",
+            "description": "Whether the agreement is until further notice",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Stratford-on-Avon District Council",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "local authority",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "Elizabeth House Church Street Stratford upon Avon CV37 6HX",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "6586",
+            "content": "Agreement - £561.75",
+            "content_format": "string",
+            "date_registered": "2024-08-01",
+            "date_published": "2024-08-01",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "end_date",
+                "display_as": "End Date",
+                "description": "Date the remuneration ended",
+                "type": "date",
+                "value": "2024-08-01",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Weekly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "I have asked that my allowance is stopped from 1 August 2024.",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "561.75",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "20.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "this is an approximate figure",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "6586",
+            "item_hash": "1b768b442f"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "6584",
+        "item_hash": "2292d92a5d"
+      }
+    }
+  ]
+}

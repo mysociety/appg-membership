@@ -5,14 +5,6 @@
   "category": "Subject Group",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Mr Luke Charters",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26480",
-      "mnis_id": "5199",
-      "removed": false
-    },
-    {
       "role": "Vice Chair",
       "name": "Jim Shannon",
       "party": "Democratic Unionist Party",
@@ -44,12 +36,12 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Mr Luke Charters MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
     "registered_contact_email": null,
-    "public_enquiry_point_name": "Richard Griffiths, British Poultry Council",
-    "public_enquiry_point_email": null,
-    "secretariat": "British Poultry Council acts as the group's secretariat. https://britishpoultry.org.uk/",
+    "public_enquiry_point_name": "Tom Haynes, National Pig Association. Tel: 024 7685 8780",
+    "public_enquiry_point_email": "Tom.Haynes@npanet.org.uk",
+    "secretariat": "National Pig Association acts as the group's secretariat.https://nationalpigassociation.co.uk/",
     "website": {
       "status": "no_search",
       "url": null
@@ -63,8 +55,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250618",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250618/uk-food-security.htm",
+  "index_date": "250731",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/uk-food-security.htm",
   "categories": [
     "Food, Agriculture & Rural Affairs"
   ]

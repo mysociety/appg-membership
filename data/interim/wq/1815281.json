@@ -1,0 +1,146 @@
+{
+  "person_id": "uk.org.publicwhip/person/26316",
+  "person_name": "Lewis Cocking",
+  "public_speech": "To ask the Secretary of State for Housing, Communities and Local Government, pursuant to the Answer of 16 June 2025 to Question 57573 on Housing: Sales, when her Department plans to launch the consultation on new reforms to the section 20 ‘major works’ pr",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-23/61849/",
+  "relevance_summary": {
+    "summary": "The interest flagged is related to housing and community developments, specifically concerning reforms to the section 20 'major works' program. This is deemed relevant due to the MP's role and responsibilities as a councillor at Hertfordshire County Council, implying a direct involvement in local governance and public interest matters which the consultation may affect.",
+    "abuse_score": "low"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The written question pertains to housing and community developments, which are directly relevant to the duties of a councillor in terms of local governance and public interest matters. Therefore, the MP's role and responsibilities as a councillor at Hertfordshire County Council could have a bearing on the subject matter of the consultation on new reforms to the section 20 'major works' program.",
+      "regmem_entry": {
+        "id": "6253",
+        "content": "Councillor - Hertfordshire County Council",
+        "content_format": "string",
+        "date_registered": "2024-07-15",
+        "date_published": "2024-07-15",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Councillor",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "start_date",
+            "display_as": "Start Date",
+            "description": "Date the agreement started",
+            "type": "date",
+            "value": "2021-05-06",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date the agreement ended",
+            "type": "date",
+            "value": "2025-05-06",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_until_further_notice",
+            "display_as": "Is Until Further Notice",
+            "description": "Whether the agreement is until further notice",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Hertfordshire County Council",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "County Hall, Pegs Lane, Hertford SG13 8DQ",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "6267",
+            "content": "Agreement - £11,751.00",
+            "content_format": "string",
+            "date_registered": "2024-07-15",
+            "date_published": "2024-07-15",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Yearly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "11751.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "10.00",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "6267",
+            "item_hash": "cce0ad1bc0"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "6253",
+        "item_hash": "296c3d754c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "person_id": "uk.org.publicwhip/person/26534",
+  "person_name": "Seamus Logan",
+  "public_speech": "To ask the Secretary of State for Environment, Food and Rural Affairs, what funding his Department is allocating to Darwin Plus grants; and whether this funding has changed since the Spending Review 2025.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-18/61101/",
+  "relevance_summary": {
+    "summary": "The MP asked about the allocation of funding to Darwin Plus grants, which support environmental projects in UK Overseas Territories like the Falkland Islands. The MP had a sponsored visit to the Falkland Islands by the Falkland Islands Government, which could provide insights or influence that might affect their perspective or stance on funding related to that area.",
+    "abuse_score": "medium"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The question asked is about the Darwin Plus grants, which are aimed at environmental projects in UK Overseas Territories, including the Falkland Islands. The MP's interest declaration involves a visit to the Falkland Islands, sponsored by the Falkland Islands Government, which could provide insight or influence in relation to projects or funding in that region. This makes the interest relevant to the question asked, as it could impact or be perceived to impact the MP's stance or understanding of funding allocations to the region.",
+      "regmem_entry": {
+        "id": "11901",
+        "content": "International visit to Falkland Islands between 16 February 2025 and 22 February 2025",
+        "content_format": "string",
+        "date_registered": "2025-03-01",
+        "date_published": "2025-03-03",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "visit_locations",
+            "display_as": "Visit Locations",
+            "description": "Destinations visited",
+            "type": "container",
+            "value": [
+              [
+                {
+                  "source": "official",
+                  "slug": "country",
+                  "display_as": "Country",
+                  "description": "Country visited",
+                  "type": "string",
+                  "value": "Falkland Islands",
+                  "annotations": []
+                },
+                {
+                  "source": "official",
+                  "slug": "destination",
+                  "display_as": "Destination",
+                  "description": "Destinations within the country, if applicable",
+                  "type": "string",
+                  "value": "Stanley, Goose Green, San Carlos, RAF Mt Pleasant",
+                  "annotations": []
+                }
+              ]
+            ],
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "purpose",
+            "display_as": "Purpose",
+            "description": "Purpose of the visit",
+            "type": "string",
+            "value": "To develop a better understanding of issues affecting the Falkland Islands",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "start_date",
+            "display_as": "Start Date",
+            "description": "Date Member left the UK",
+            "type": "date",
+            "value": "2025-02-16",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date Member returned to the UK",
+            "type": "date",
+            "value": "2025-02-22",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donors",
+            "display_as": "Donors",
+            "description": "Donors and value of visits",
+            "type": "container",
+            "value": [
+              [
+                {
+                  "source": "official",
+                  "slug": "name",
+                  "display_as": "Name",
+                  "description": "Name of the donor",
+                  "type": "string",
+                  "value": "Falkland Islands Government",
+                  "annotations": []
+                },
+                {
+                  "source": "official",
+                  "slug": "is_private_individual",
+                  "display_as": "Is Private Individual",
+                  "description": "Whether the donor is a private individual",
+                  "type": "boolean",
+                  "value": false,
+                  "annotations": []
+                },
+                {
+                  "source": "official",
+                  "slug": "public_address",
+                  "display_as": "Public Address",
+                  "description": "Address of the donor, if this can be publicly shared",
+                  "type": "string",
+                  "value": "C/O 14, Broadway, London SW1 0BH",
+                  "annotations": []
+                },
+                {
+                  "source": "official",
+                  "slug": "payment_type",
+                  "display_as": "Payment Type",
+                  "description": "Whether elements of the trip were funded by a monetary donation or in kind",
+                  "type": "string",
+                  "value": "In kind",
+                  "annotations": []
+                },
+                {
+                  "source": "official",
+                  "slug": "payment_description",
+                  "display_as": "Payment Description",
+                  "description": "Description of the funding or in kind donation",
+                  "type": "string",
+                  "value": "Flights (£1,572.00), accommodation (£636.00), UK taxis (£390.80), Falkland Islands transport (£218.68), meals (£235.28), wreaths (£28.08), insurance (£25.00), Wi-Fi access (£56.00), gifts (£37.30), museum (£5.00)",
+                  "annotations": []
+                },
+                {
+                  "source": "official",
+                  "slug": "value",
+                  "display_as": "Value",
+                  "description": "Value of the funded elements of the visit",
+                  "type": "decimal",
+                  "value": "3204.14",
+                  "annotations": []
+                },
+                {
+                  "source": "official",
+                  "slug": "is_sole_beneficiary",
+                  "display_as": "Is Sole Beneficiary",
+                  "description": "Whether anyone accompanied the Member on this visit or undertook it on their behalf",
+                  "type": "boolean",
+                  "value": true,
+                  "annotations": []
+                }
+              ]
+            ],
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11901",
+        "item_hash": "aa3feab64f"
+      }
+    }
+  ]
+}

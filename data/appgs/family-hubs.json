@@ -27,14 +27,6 @@
       "twfy_id": "uk.org.publicwhip/person/26466",
       "mnis_id": "5297",
       "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Adam Dance",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26459",
-      "mnis_id": "5191",
-      "removed": false
     }
   ],
   "members_list": {
@@ -46,10 +38,10 @@
   "contact_details": {
     "registered_contact_name": "Tom Collins MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 07543 467626.",
-    "registered_contact_email": null,
+    "registered_contact_email": "tom.collins.mp@parliament.uk",
     "public_enquiry_point_name": "Catherine Barker, Spurgeons. Tel: 07504 860862",
-    "public_enquiry_point_email": null,
-    "secretariat": "Spurgeons acts as the group's secretariat. https://spurgeons.org/",
+    "public_enquiry_point_email": "cbarker@spurgeons.org",
+    "secretariat": "Spurgeons acts as the group's secretariat.https://spurgeons.org/",
     "website": {
       "status": "register",
       "url": "https://spurgeons.org/about-us/advocacy-for-children-and-families/appg-spurgeons/"
@@ -63,8 +55,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250618",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250618/family-hubs.htm",
+  "index_date": "250731",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/family-hubs.htm",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Education, Skills & Youth"

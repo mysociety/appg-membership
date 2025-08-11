@@ -1,0 +1,194 @@
+{
+  "person_id": "uk.org.publicwhip/person/25836",
+  "person_name": "Navendu Mishra",
+  "public_speech": "To ask the Secretary of State for Transport, if her Department will make an assessment of the adequacy of rail (a) capacity and (b) performance of Manchester Airport Station.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-16/52891/",
+  "relevance_summary": {
+    "summary": "The MP has asked a question regarding the assessment of the adequacy of rail capacity and performance at Manchester Airport Station. The interest flagged is a donation from the RMT Union, which is closely associated with rail and transport workers, and a donation from ASLEF, a trade union for locomotive engineers and firemen.",
+    "abuse_score": "high"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP is asking a question related to the rail performance at Manchester Airport Station, while having received a donation from the RMT Union, a union closely associated with rail and transport workers. This could present a potential conflict of interest or bias given the union's connection to the rail industry.",
+      "regmem_entry": {
+        "id": "5971",
+        "content": "RMT Union (National Union of Rail, Maritime and Transport Workers) - £2,000.00",
+        "content_format": "string",
+        "date_registered": "2024-07-09",
+        "date_published": "2024-07-12",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "donation_source",
+            "display_as": "Donation Source",
+            "description": "How the donation was received",
+            "type": "string",
+            "value": "(a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "Monetary",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "to Stockport Constituency Labour Party for general election campaigning",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "2000.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "RMT Union (National Union of Rail, Maritime and Transport Workers)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "39 Chalton Street, London NW1 1JD",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Trade Union",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "5971",
+        "item_hash": "98e5c27bab"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The interest declared is a donation from ASLEF, a trade union for locomotive engineers and firemen, to the MP’s local party. The question about rail capacity and performance at Manchester Airport Station is relevant because ASLEF represents workers in the railway industry, and the adequacy of rail services could directly impact the members of this union.",
+      "regmem_entry": {
+        "id": "5969",
+        "content": "ASLEF (Associated Society of Locomotive Engineers and Firemen) - £1,000.00",
+        "content_format": "string",
+        "date_registered": "2024-07-09",
+        "date_published": "2024-07-11",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "donation_source",
+            "display_as": "Donation Source",
+            "description": "How the donation was received",
+            "type": "string",
+            "value": "(a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "Monetary",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "donated to Stockport Constituency Labour Party for general election campaigning",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "1000.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "ASLEF (Associated Society of Locomotive Engineers and Firemen)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "75-77 St John Street, Finsbury, London EC1M 4NN",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Trade Union",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "5969",
+        "item_hash": "7230cc825a"
+      }
+    }
+  ]
+}

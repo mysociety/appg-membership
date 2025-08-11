@@ -1,0 +1,140 @@
+{
+  "person_id": "uk.org.publicwhip/person/26364",
+  "person_name": "Shockat Adam",
+  "public_speech": "To ask the Secretary of State for Health and Social Care, what recent assessment his Department has made of the potential impact of combined cataract and trabecular bypasses on glaucoma progression.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-23/62134/",
+  "relevance_summary": {
+    "summary": "The MP has queried about the impact of combined cataract and trabecular bypasses on glaucoma progression. This is relevant to his roles as Director of Alpha Eye Clinic LTD, which provides ophthalmology services, and Sask Optics Ltd, a chain of optometry practices. Both establishments could benefit from insights into the procedures highlighted in the question, suggesting a potential interest concern given the MP's professional involvement in the field.",
+    "abuse_score": "medium"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The written question concerns the impact of certain ophthalmologic procedures on glaucoma, which is directly related to the field of ophthalmology services. As the MP is a director of Alpha Eye Clinic LTD, which specializes in ophthalmology services, there is a potential interest concern due to the direct connection between his professional role and the subject matter of his question.",
+      "regmem_entry": {
+        "id": "8550",
+        "content": "Director - Alpha Eye Clinic LTD",
+        "content_format": "string",
+        "date_registered": "2024-07-31",
+        "date_published": "2024-08-04",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Director",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Alpha Eye Clinic LTD",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_paid_as_director_of_payer",
+            "display_as": "Is Paid As Director Of Payer",
+            "description": "Whether the Member is a director of the payment source",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "Ophthalmology services",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "S11 The Atkins Building lower Bond Street  Hinckley LE10 1QU",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "8550",
+        "item_hash": "04bea982bf"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The question pertains to cataract and trabecular bypass surgeries, which are relevant to the field of optometry, the nature of business of Sask Optics Ltd. As a Director of Sask Optics Ltd, which is a chain of optometry practices, there might be an interest in developments and assessments related to procedures affecting eye health, such as those mentioned in the question.",
+      "regmem_entry": {
+        "id": "8300",
+        "content": "Director - Sask Optics Ltd",
+        "content_format": "string",
+        "date_registered": "2024-07-31",
+        "date_published": "2024-07-31",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Director",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Sask Optics Ltd",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_paid_as_director_of_payer",
+            "display_as": "Is Paid As Director Of Payer",
+            "description": "Whether the Member is a director of the payment source",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "Chain of Optometry Practices",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "T03 The Atkins Building, Lower Bond Street, Hinckley, Leicestershire LE10 1QU",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "8300",
+        "item_hash": "0a843e0d89"
+      }
+    }
+  ]
+}

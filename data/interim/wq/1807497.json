@@ -1,0 +1,49 @@
+{
+  "person_id": "uk.org.publicwhip/person/26569",
+  "person_name": "Manuela Perteghella",
+  "public_speech": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to help ensure that the 10 Year Health Plan will help people with arthritis.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-30/55930/",
+  "relevance_summary": {
+    "summary": "The MP has an unpaid role as a member of the University College London Hospitals NHS Foundation Trust, which is relevant to the question on how the 10 Year Health Plan will help people with arthritis. This role might provide the MP with insights or potential biases in healthcare, especially regarding hospital trust decisions related to arthritis care.",
+    "abuse_score": "low"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP's unpaid role as a member of the University College London Hospitals NHS Foundation Trust could influence their interest in the 10 Year Health Plan and its impact on arthritis treatment. Therefore, declaring this interest is relevant to understanding any potential biases or insights the MP may have in the healthcare domain, particularly in hospital trust decisions related to arthritis care.",
+      "regmem_entry": {
+        "id": "8369",
+        "content": "Member of University College London Hospitals NHS Foundation Trust. This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-08-01",
+        "date_published": "2024-08-01",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Member of University College London Hospitals NHS Foundation Trust. This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "8369",
+        "item_hash": "e54119a904"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "person_id": "uk.org.publicwhip/person/26377",
+  "person_name": "Clive Jones",
+  "public_speech": "To ask the Secretary of State for Health and Social Care, what steps his Department is planning to take to (a) develop and (b) maintain (i) national service specifications and (ii) minimum service requirements for the breast screening programme once commi",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-19/53352/",
+  "relevance_summary": {
+    "summary": "The interest flagged as relevant is the MP's position as a Governor of the Royal Berkshire Hospital NHS Foundation Trust, which provides them with a governance role in healthcare service frameworks. This position may influence their interest in the national service specifications and minimum service requirements for the breast screening programme.",
+    "abuse_score": "low"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "As a Governor of the Royal Berkshire Hospital NHS Foundation Trust, the MP might have a direct interest in healthcare service frameworks, such as the breast screening programme, due to their governance role in an NHS foundation trust. This interest is relevant as it pertains to national service specifications and minimum service requirements related to healthcare provision.",
+      "regmem_entry": {
+        "id": "6173",
+        "content": "Governor of the Royal Berkshire Hospital NHS Foundation Trust. This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-07-11",
+        "date_published": "2024-07-11",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-07-05",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Governor of the Royal Berkshire Hospital NHS Foundation Trust. This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "6173",
+        "item_hash": "c5304493cc"
+      }
+    }
+  ]
+}

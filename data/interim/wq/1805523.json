@@ -1,0 +1,58 @@
+{
+  "person_id": "uk.org.publicwhip/person/24961",
+  "person_name": "Julian Smith",
+  "public_speech": "To ask the Secretary of State for Justice, what recent discussions she has had with relevant stakeholders on the enforcement of third party litigation funding agreements following the PACCAR judgement.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-22/54250/",
+  "relevance_summary": {
+    "summary": "The interest in this context is from The Centre for Effective Dispute Resolution Limited (CEDR), as enforcement of third party litigation funding agreements pertains to dispute resolution processes, which is CEDR's focus area. The MP asking the question is the Chair of CEDR, even though the position is unpaid, which suggests a potential link between his role and the stakeholders or perspectives relevant to this discussion.",
+    "abuse_score": "medium"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The Centre for Effective Dispute Resolution Limited (CEDR) is likely to have an interest in the enforcement of third party litigation funding agreements, as it pertains to dispute resolution processes. The role of the MP as Chair, although unpaid, provides a connection to stakeholders or perspectives that may be relevant in discussions related to litigation and dispute resolution.",
+      "regmem_entry": {
+        "id": "11530",
+        "content": "Chair, (Director & Trustee) of Centre for Effective Dispute Resolution Limited (CEDR). This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-12-19",
+        "date_published": "2024-12-20",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-12-12",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Chair, (Director & Trustee) of Centre for Effective Dispute Resolution Limited (CEDR). This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11530",
+        "item_hash": "43fee4593d"
+      }
+    }
+  ]
+}

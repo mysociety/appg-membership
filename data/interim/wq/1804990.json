@@ -1,0 +1,58 @@
+{
+  "person_id": "uk.org.publicwhip/person/24961",
+  "person_name": "Julian Smith",
+  "public_speech": "To ask the Secretary of State for Justice, what assessment she has made of the potential impact of mandatory self-regulation on third party litigation funders.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-21/53844/",
+  "relevance_summary": {
+    "summary": "The question asked regarding the potential impact of mandatory self-regulation on third-party litigation funders is relevant because the MP is the Chair of the Centre for Effective Dispute Resolution Limited (CEDR). This role gives the MP insight into dispute resolution processes, which may be affected by any regulation concerning third-party litigation funders. The interest is professionally significant but not financially, as the MP holds an unpaid role at CEDR, indicating no direct financial benefit but possible professional influence.",
+    "abuse_score": "low"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The question pertains to third party litigation funders and the potential impact of mandatory self-regulation. As the Chair of the Centre for Effective Dispute Resolution Limited (CEDR), the MP may have insight into dispute resolution processes, and any regulation affecting third party litigation funders may influence or intersect with dispute resolution practices. However, since it's an unpaid role, the interest may not directly impact financial benefits but could be relevant in terms of professional involvement and influence in the field.",
+      "regmem_entry": {
+        "id": "11530",
+        "content": "Chair, (Director & Trustee) of Centre for Effective Dispute Resolution Limited (CEDR). This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-12-19",
+        "date_published": "2024-12-20",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-12-12",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Chair, (Director & Trustee) of Centre for Effective Dispute Resolution Limited (CEDR). This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11530",
+        "item_hash": "43fee4593d"
+      }
+    }
+  ]
+}

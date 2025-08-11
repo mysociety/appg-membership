@@ -1,0 +1,58 @@
+{
+  "person_id": "uk.org.publicwhip/person/26377",
+  "person_name": "Clive Jones",
+  "public_speech": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 10 June 2025 to Question 57594 on Urinary Tract Infections: Vaccination, whether the Joint Committee on Vaccination and Immunisation (a) is reviewing and (b) plans to revi",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-11/59218/",
+  "relevance_summary": {
+    "summary": "The interest of the MP as a Governor of the Royal Berkshire Hospital NHS Foundation Trust is flagged as relevant because, although the position is unpaid, it relates to health policy and vaccination programs. This role might provide the MP with insights or a unique perspective into these areas, informing their inquiry into the Joint Committee on Vaccination and Immunisation's review of urinary tract infection vaccinations.",
+    "abuse_score": "low"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP's role as a Governor of the Royal Berkshire Hospital NHS Foundation Trust, even though unpaid, could have relevance to questions related to health policy and vaccination programs, such as those posed to the Secretary of State for Health and Social Care. Their position may provide them with insights or a perspective that informs their interest in the subject matter of urinary tract infections and vaccinations, making the declared interest potentially relevant to the discussion or question raised.",
+      "regmem_entry": {
+        "id": "6173",
+        "content": "Governor of the Royal Berkshire Hospital NHS Foundation Trust. This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-07-11",
+        "date_published": "2024-07-11",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-07-05",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Governor of the Royal Berkshire Hospital NHS Foundation Trust. This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "6173",
+        "item_hash": "c5304493cc"
+      }
+    }
+  ]
+}

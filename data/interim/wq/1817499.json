@@ -1,0 +1,211 @@
+{
+  "person_id": "uk.org.publicwhip/person/26575",
+  "person_name": "Martin Rhodes",
+  "public_speech": "To ask the Secretary of State for Business and Trade, with reference to the United Nations' framework entitled Protect, respect and remedy and the United Nations document entitled Guiding Principles on Business and Human Rights, published in June 2011, wh",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-27/63485/",
+  "relevance_summary": {
+    "summary": "The interests flagged as relevant include the MP's previous role as Chief Executive of the Scottish Fair Trade Forum and current role as a board member of the World Fair Trade Organization - Europe. Both organizations are involved in promoting fair trade and ethical business practices, which directly align with the themes of the United Nations' framework on business and human rights. The question itself pertains to these specific topics, making the MP's affiliations relevant to the discussion.",
+    "abuse_score": "low"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The question relates to the United Nations' framework on business and human rights, which corresponds to the mission of the Scottish Fair Trade Forum promoting fair trade and ethical business practices. As the MP was the Chief Executive of the Scottish Fair Trade Forum, it is relevant to declare this interest when discussing topics related to business, trade, and human rights principles.",
+      "regmem_entry": {
+        "id": "6299",
+        "content": "Employee - Chief Executive - Scottish Fair Trade Forum",
+        "content_format": "string",
+        "date_registered": "2024-07-30",
+        "date_published": "2024-07-30",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Employee - Chief Executive",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date the agreement ended",
+            "type": "date",
+            "value": "2024-07-25",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_until_further_notice",
+            "display_as": "Is Until Further Notice",
+            "description": "Whether the agreement is until further notice",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Scottish Fair Trade Forum",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "Registered charity and company limited by guarantee promoting Fair Trade",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "Robertson House, 152 Bath Street, Glasgow G2 4TB",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "8075",
+            "content": "Payment received on 25 July 2024 - £836.02",
+            "content_format": "string",
+            "date_registered": "2024-07-30",
+            "date_published": "2024-07-30",
+            "date_received": "2024-07-25",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-07-25",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "payment for 5 days work during my notice period starting from my resignation on being elected.",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "836.02",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "35.00",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "8075",
+            "item_hash": "e64a236b97"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "6299",
+        "item_hash": "d9a5f9c8e6"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The MP's role as a board member of the World Fair Trade Organization - Europe is relevant to the question about the United Nations' framework on business and human rights. The World Fair Trade Organization is involved in promoting fair trade practices, which aligns with the principles of protecting human rights in business. Therefore, the interest is pertinent to the topic being addressed in the question.",
+      "regmem_entry": {
+        "id": "8077",
+        "content": "Board member of the World Fair Trade Organization - Europe",
+        "content_format": "string",
+        "date_registered": "2024-08-30",
+        "date_published": "2024-08-30",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-07-04",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date on which the interest ended",
+            "type": "date",
+            "value": "2024-07-24",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Board member of the World Fair Trade Organization - Europe",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "8077",
+        "item_hash": "d7e3620174"
+      }
+    }
+  ]
+}

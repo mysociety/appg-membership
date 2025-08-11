@@ -1,0 +1,268 @@
+{
+  "person_id": "uk.org.publicwhip/person/26622",
+  "person_name": "Jack Rankin",
+  "public_speech": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of the proposals outlined in the consultation entitled The Tax Treatment of Remote Gambling, last updated on 6 May 2025, on black market gambling.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-02/56580/",
+  "relevance_summary": {
+    "summary": "The interests flagged as relevant involve the MP receiving hospitality from Arena Racing Corporation Limited and having a registered interest with Ascot Racecourse. Both of these organizations are linked to the gambling industry, and the question posed is about the tax treatment of remote gambling. This tax change could have an impact on gambling-related companies, leading to a potential conflict of interest or perception of bias in the MP's inquiry.",
+    "abuse_score": "high"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The register of interest entry indicates that the MP received hospitality from Arena Racing Corporation Limited, a company involved in racing and possibly gambling-related activities. The question posed to the Chancellor involves the tax treatment of remote gambling, which could impact companies like Arena Racing Corporation if they have gambling interests. As such, there could be a conflict of interest or a perception of bias, making the registration of the interest relevant to the question being asked.",
+      "regmem_entry": {
+        "id": "11672",
+        "content": "Arena Racing Corporation Limited - £312.00",
+        "content_format": "string",
+        "date_registered": "2025-01-20",
+        "date_published": "2025-01-20",
+        "date_received": "2025-01-08",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "In kind",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "Two tickets including hospitality to Royal Windsor Racecourse for the 'Berkshire Winter Million'",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "312.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_date",
+            "display_as": "Received Date",
+            "description": "Date on which the benefit was received",
+            "type": "date",
+            "value": "2025-01-08",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "accepted_date",
+            "display_as": "Accepted Date",
+            "description": "Date on which the benefit was accepted",
+            "type": "date",
+            "value": "2025-01-08",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_end_date",
+            "display_as": "Received End Date",
+            "description": "End date, if the benefit was received over time",
+            "type": "date",
+            "value": "2025-01-17",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "Arena Racing Corporation Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "Millbank Tower, 21-24 Millbank, London SW1P 4QP",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Company",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_name",
+            "display_as": "Donor Company Name",
+            "description": "Name of the donor company",
+            "type": "string",
+            "value": "Arena Racing Corporation Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier",
+            "display_as": "Donor Company Identifier",
+            "description": "Company registration number",
+            "type": "string",
+            "value": "07997040",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier_source",
+            "display_as": "Donor Company Identifier Source",
+            "description": "Source of company identifier",
+            "type": "string",
+            "value": "Companies House",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11672",
+        "item_hash": "4489ee4b2c"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The question pertains to gambling, specifically remote gambling, and the MP's registered interest is with Ascot Racecourse, which is related to the gambling industry. This could pose a potential conflict of interest, as changes in tax treatment could impact both black market gambling and legal gambling venues like Ascot Racecourse.",
+      "regmem_entry": {
+        "id": "11104",
+        "content": "Ascot Racecourse Limited - £675.00",
+        "content_format": "string",
+        "date_registered": "2024-10-29",
+        "date_published": "2024-11-01",
+        "date_received": "2024-10-19",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "In kind",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "Hosted at 'QIPCO British Champions Day' in a hospitality box with two family members",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "675.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_date",
+            "display_as": "Received Date",
+            "description": "Date on which the benefit was received",
+            "type": "date",
+            "value": "2024-10-19",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "accepted_date",
+            "display_as": "Accepted Date",
+            "description": "Date on which the benefit was accepted",
+            "type": "date",
+            "value": "2024-10-19",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_end_date",
+            "display_as": "Received End Date",
+            "description": "End date, if the benefit was received over time",
+            "type": "date",
+            "value": "2024-10-19",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "Ascot Racecourse Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "Ascot Racecourse, Ascot, Berkshire, SL5 7JX",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Company",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_name",
+            "display_as": "Donor Company Name",
+            "description": "Name of the donor company",
+            "type": "string",
+            "value": "Ascot Racecourse Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier",
+            "display_as": "Donor Company Identifier",
+            "description": "Company registration number",
+            "type": "string",
+            "value": "04320977",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier_source",
+            "display_as": "Donor Company Identifier Source",
+            "description": "Source of company identifier",
+            "type": "string",
+            "value": "Companies House",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11104",
+        "item_hash": "9ec2c3b6c5"
+      }
+    }
+  ]
+}

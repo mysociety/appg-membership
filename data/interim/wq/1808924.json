@@ -1,0 +1,137 @@
+{
+  "person_id": "uk.org.publicwhip/person/26491",
+  "person_name": "Steffan Aquarone",
+  "public_speech": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether he has made an assessment of the potential merits of introducing penalties to local government for delays in implementing food waste collections due to (a) market congestion fo",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-03/57013/",
+  "relevance_summary": {
+    "summary": "The interest of the MP as a County Councillor is flagged as relevant because the question pertains to penalties for local government delays in implementing food waste collections. As a local government official, the MP may have a vested interest in the regulatory framework affecting local councils, including their own. This could impact the operational responsibilities and penalties their council might face.",
+    "abuse_score": "low"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP's role as a County Councillor could be relevant to the question about penalties for delays in food waste collection. As a local government official, the MP may have an interest in how local councils are regulated and penalized, which could affect their own council's operations and responsibilities.",
+      "regmem_entry": {
+        "id": "6168",
+        "content": "County Councillor - Norfolk County Councillor",
+        "content_format": "string",
+        "date_registered": "2024-08-04",
+        "date_published": "2024-08-04",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "County Councillor",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Norfolk County Councillor",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "Elected member",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "Martinuea Lane, Norwich NR1 2DH",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "6170",
+            "content": "Agreement - £12,469.00",
+            "content_format": "string",
+            "date_registered": "2024-08-04",
+            "date_published": "2024-08-04",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Yearly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Yearly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "12469.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "No specific contracted hours",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "6170",
+            "item_hash": "063f2c71e9"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "6168",
+        "item_hash": "7a0ab357f5"
+      }
+    }
+  ]
+}

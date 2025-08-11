@@ -225,10 +225,10 @@
   "contact_details": {
     "registered_contact_name": "Bob Blackman MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7082.",
-    "registered_contact_email": null,
+    "registered_contact_email": "bob.blackman.mp@parliament.uk",
     "public_enquiry_point_name": "Helen Duffy, Action on Smoking and Health (ASH). Tel: 020 7404 0242",
-    "public_enquiry_point_email": null,
-    "secretariat": "Action on Smoking and Health (ASH) acts as the group's secretariat. https://ash.org.uk/",
+    "public_enquiry_point_email": "helen.duffy@ash.org.uk",
+    "secretariat": "Action on Smoking and Health (ASH) acts as the group's secretariat.https://ash.org.uk/",
     "website": {
       "status": "register",
       "url": "https://ash.org.uk/about/who-we-work-with/appg"
@@ -242,8 +242,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250618",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250618/smoking-and-health.htm",
+  "index_date": "250731",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/smoking-and-health.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"

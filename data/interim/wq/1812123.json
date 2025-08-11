@@ -1,0 +1,396 @@
+{
+  "person_id": "uk.org.publicwhip/person/10133",
+  "person_name": "Jeremy Corbyn",
+  "public_speech": "To ask the Secretary of State for Defence, which defence contractors and associated corporate entities were granted sight of the Strategic Defence Review prior to its official presentation to the House.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-12/59283/",
+  "relevance_summary": {
+    "summary": "The MP has raised a question about which defence contractors had access to the Strategic Defence Review before its official release. The relevance arises because the MP has received a payment from JBC Defence Ltd, a company in the defense sector. Although the payment was for legal fees, the nature of JBC Defence Ltd's involvement in defense makes the relationship potentially relevant. The question could suggest a potential conflict of interest if JBC Defence Ltd, or associated entities, were granted early access, as there's a financial connection between the MP and the company.",
+    "abuse_score": "medium"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The question asked by the MP relates to defence contractors and the register of interest entry shows that the MP has received a payment from JBC Defence Ltd, which is a company involved in defense. The interest declared could potentially be relevant to the question as it pertains to the subject of defense contractors and their access to strategic information.",
+      "regmem_entry": {
+        "id": "11492",
+        "content": "JBC Defence Ltd - £2,916.67",
+        "content_format": "string",
+        "date_registered": "2024-12-12",
+        "date_published": "2024-12-12",
+        "date_received": "2024-12-09",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "Monetary",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "Legal fees paid to my solicitor in the case of Millett Vs Corbyn",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "2916.67",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_date",
+            "display_as": "Received Date",
+            "description": "Date on which the benefit was received",
+            "type": "date",
+            "value": "2024-12-09",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "accepted_date",
+            "display_as": "Accepted Date",
+            "description": "Date on which the benefit was accepted",
+            "type": "date",
+            "value": "2024-12-09",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "JBC Defence Ltd",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "Lytchett House, 13 Freeland Park, Wareham Road, Lytchett Matravers, Poole Dorset BH16 6FH",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Company",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_name",
+            "display_as": "Donor Company Name",
+            "description": "Name of the donor company",
+            "type": "string",
+            "value": "JBC Defence Ltd",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier",
+            "display_as": "Donor Company Identifier",
+            "description": "Company registration number",
+            "type": "string",
+            "value": "12956185",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier_source",
+            "display_as": "Donor Company Identifier Source",
+            "description": "Source of company identifier",
+            "type": "string",
+            "value": "Companies House",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11492",
+        "item_hash": "0fc2d34db0"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The question relates to defence contractors having access to the Strategic Defence Review, and the register of interest indicates a monetary relationship with JBC Defence Ltd, which is a Company. Although the payment was related to legal fees, the company's involvement in defence suggests a potential conflict of interest or at least a perceived relevance to the question being raised.",
+      "regmem_entry": {
+        "id": "10925",
+        "content": "JBC Defence Ltd - £2,916.67",
+        "content_format": "string",
+        "date_registered": "2024-10-07",
+        "date_published": "2024-10-08",
+        "date_received": "2024-10-07",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "Monetary",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "Legal fees paid to my solicitor in the case of Millett Vs Corbyn",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "2916.67",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_date",
+            "display_as": "Received Date",
+            "description": "Date on which the benefit was received",
+            "type": "date",
+            "value": "2024-10-07",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "accepted_date",
+            "display_as": "Accepted Date",
+            "description": "Date on which the benefit was accepted",
+            "type": "date",
+            "value": "2024-10-07",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "JBC Defence Ltd",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "Lytchett House, 13 Friedland Park, Wareham Road, Lytchett Matravers, Poole, Dorset BH16 6FH",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Company",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_name",
+            "display_as": "Donor Company Name",
+            "description": "Name of the donor company",
+            "type": "string",
+            "value": "JBC Defence Ltd",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier",
+            "display_as": "Donor Company Identifier",
+            "description": "Company registration number",
+            "type": "string",
+            "value": "12956185",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier_source",
+            "display_as": "Donor Company Identifier Source",
+            "description": "Source of company identifier",
+            "type": "string",
+            "value": "Companies House",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "10925",
+        "item_hash": "682fe4f770"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The MP has declared an interest in JBC Defence Ltd, which is relevant because the question asked relates to defence contractors and corporate entities. There is a potential conflict of interest if JBC Defence Ltd, or any associated entities, were granted sight of the Strategic Defence Review. The funding received from JBC Defence Ltd indicates a connection that should be disclosed and considered in light of the question posed about defence contractors.",
+      "regmem_entry": {
+        "id": "5981",
+        "content": "JBC Defence Ltd - £2,916.67",
+        "content_format": "string",
+        "date_registered": "2024-07-09",
+        "date_published": "2024-07-12",
+        "date_received": "2024-06-04",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "Monetary",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "The money went directly to the solicitor in the case of case of Millett Vs Corbyn",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "2916.67",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_date",
+            "display_as": "Received Date",
+            "description": "Date on which the benefit was received",
+            "type": "date",
+            "value": "2024-06-04",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "accepted_date",
+            "display_as": "Accepted Date",
+            "description": "Date on which the benefit was accepted",
+            "type": "date",
+            "value": "2024-06-04",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_sole_beneficiary",
+            "display_as": "Is Sole Beneficiary",
+            "description": "Whether Member is the sole beneficiary",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "JBC Defence Ltd",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "Lytchett House, 13 Freeland Park, Wareham, Poole,  \r\nDorset BH16 6FA",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Company",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_name",
+            "display_as": "Donor Company Name",
+            "description": "Name of the donor company",
+            "type": "string",
+            "value": "JBC Defence Ltd",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier",
+            "display_as": "Donor Company Identifier",
+            "description": "Company registration number",
+            "type": "string",
+            "value": "12956185",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier_source",
+            "display_as": "Donor Company Identifier Source",
+            "description": "Source of company identifier",
+            "type": "string",
+            "value": "Companies House",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "5981",
+        "item_hash": "4e88566ee6"
+      }
+    }
+  ]
+}

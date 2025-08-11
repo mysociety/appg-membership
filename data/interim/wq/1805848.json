@@ -1,0 +1,195 @@
+{
+  "person_id": "uk.org.publicwhip/person/26625",
+  "person_name": "Peter Bedford",
+  "public_speech": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the potential impact of increases to betting levies on employment within the horseracing industry.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-22/54587/",
+  "relevance_summary": {
+    "summary": "The MP has ties to entities within the betting and gaming sector, specifically through received tickets and hospitality from Hestview Limited and a charity bet from the Betting & Gaming Council. The inquiry is directly related to the betting industry, as it concerns the impact of betting levies on the horseracing industry, potentially affecting the interests of these entities.",
+    "abuse_score": "high"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP's inquiry about the impact of betting levies on the horseracing industry could be influenced by their received tickets and hospitality from Hestview Limited, a company likely associated with the betting industry. This constitutes a potential conflict of interest because the question could directly or indirectly affect the donator's business interests in the betting sector.",
+      "regmem_entry": {
+        "id": "12014",
+        "content": "Hestview Limited - £700.00",
+        "content_format": "string",
+        "date_registered": "2025-03-14",
+        "date_published": "2025-03-14",
+        "date_received": "2025-03-12",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "payment_type",
+            "display_as": "Payment Type",
+            "description": "Whether the benefit was monetary or in kind",
+            "type": "string",
+            "value": "In kind",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payment_description",
+            "display_as": "Payment Description",
+            "description": "Description of the payment",
+            "type": "string",
+            "value": "Two tickets, including hospitality, at Day 2 (Wednesday) of the Cheltenham Festival 2025.\r\nNotional monetary value: £350 per ticket (including hospitality)",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "value",
+            "display_as": "Value",
+            "description": "Value of the benefit",
+            "type": "decimal",
+            "value": "700.00",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "received_date",
+            "display_as": "Received Date",
+            "description": "Date on which the benefit was received",
+            "type": "date",
+            "value": "2025-03-12",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "accepted_date",
+            "display_as": "Accepted Date",
+            "description": "Date on which the benefit was accepted",
+            "type": "date",
+            "value": "2025-03-12",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "Hestview Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_public_address",
+            "display_as": "Donor Public Address",
+            "description": "Address of the donor, if this can be publicly shared",
+            "type": "string",
+            "value": "4 Wellington Place, Leeds, West Yorkshire LS1 4AP",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_status",
+            "display_as": "Donor Status",
+            "description": "Status of the donor",
+            "type": "string",
+            "value": "Company",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_name",
+            "display_as": "Donor Company Name",
+            "description": "Name of the donor company",
+            "type": "string",
+            "value": "Hestview Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier",
+            "display_as": "Donor Company Identifier",
+            "description": "Company registration number",
+            "type": "string",
+            "value": "01100741",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_company_identifier_source",
+            "display_as": "Donor Company Identifier Source",
+            "description": "Source of company identifier",
+            "type": "string",
+            "value": "Companies House",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "12014",
+        "item_hash": "e9fd6700e1"
+      }
+    },
+    {
+      "relevance": "relevant",
+      "reason": "The written question regarding the impact of increases to betting levies on the horseracing industry is relevant to the interest declared, as they involve the betting and gaming sector. The MP received a charity bet from the Betting & Gaming Council, indicating a potential connection to or interest in the outcomes of regulations affecting this sector.",
+      "regmem_entry": {
+        "id": "12114",
+        "content": "Charity Bet (£50) for the 2025 Grand National; of which any winnings, plus an additional £250 will be donated to a local charity of my choice.",
+        "content_format": "string",
+        "date_registered": "2025-03-31",
+        "date_published": "2025-03-31",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2025-03-29",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date on which the interest ended",
+            "type": "date",
+            "value": "2025-03-29",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "donor_name",
+            "display_as": "Donor Name",
+            "description": "Name of the donor",
+            "type": "string",
+            "value": "Betting & Gaming Council",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Charity Bet (£50) for the 2025 Grand National; of which any winnings, plus an additional £250 will be donated to a local charity of my choice.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Other",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "12114",
+        "item_hash": "318240057c"
+      }
+    }
+  ]
+}

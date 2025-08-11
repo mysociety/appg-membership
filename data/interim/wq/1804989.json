@@ -1,0 +1,58 @@
+{
+  "person_id": "uk.org.publicwhip/person/24961",
+  "person_name": "Julian Smith",
+  "public_speech": "To ask the Secretary of State for Health and Social Care, whether he has made an assessment of the potential merits of increasing the use of the current mediation scheme for medical negligence disputes.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-21/53843/",
+  "relevance_summary": {
+    "summary": "The interest flagged as relevant revolves around the MP's unpaid position as Chair of the Centre for Effective Dispute Resolution Limited (CEDR). The organization is linked to mediation services, which are pertinent to the question about increasing the use of mediation in medical negligence disputes. This connection is significant as it may affect the MP's behavior or perceived impartiality due to the promotional benefits CEDR might receive from any policy promoting widespread mediation usage.",
+    "abuse_score": "medium"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP's question relates to increasing the use of mediation schemes for medical negligence disputes, and he holds an unpaid position as Chair of the Centre for Effective Dispute Resolution Limited (CEDR). This organization is likely involved in mediation services, making the interest relevant as it could potentially influence or be perceived to influence the MP's stance or advocacy for mediation in medical negligence disputes.",
+      "regmem_entry": {
+        "id": "11530",
+        "content": "Chair, (Director & Trustee) of Centre for Effective Dispute Resolution Limited (CEDR). This is an unpaid role.",
+        "content_format": "string",
+        "date_registered": "2024-12-19",
+        "date_published": "2024-12-20",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "arose_on",
+            "display_as": "Arose On",
+            "description": "Date on which the interest arose, or became registrable",
+            "type": "date",
+            "value": "2024-12-12",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "description",
+            "display_as": "Description",
+            "description": "Description of the interest",
+            "type": "string",
+            "value": "Chair, (Director & Trustee) of Centre for Effective Dispute Resolution Limited (CEDR). This is an unpaid role.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "miscellaneous_interest_type",
+            "display_as": "Miscellaneous Interest Type",
+            "description": "The type of interest",
+            "type": "string",
+            "value": "Unpaid role",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [],
+        "info_type": "entry",
+        "comparable_id": "11530",
+        "item_hash": "43fee4593d"
+      }
+    }
+  ]
+}

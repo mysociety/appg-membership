@@ -1,0 +1,225 @@
+{
+  "person_id": "uk.org.publicwhip/person/26622",
+  "person_name": "Jack Rankin",
+  "public_speech": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department has made an assessment of the potential merits of providing support for smart thermostats as part of the Warm Homes Plan.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-05-14/52535/",
+  "relevance_summary": {
+    "summary": "The interest flagged is an advisory role with Pexapark (UK) Limited, a company in the renewable energy sector. The written question is about support for smart thermostats under the Warm Homes Plan, which relates to energy efficiency. There's a connection because smart thermostats can reduce energy consumption, an interest relevant to the renewable energy sector.",
+    "abuse_score": "medium"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The registered interest concerns an advisory role with Pexapark (UK) Limited, a renewable energy advisory and software company. The written question is about the potential support for smart thermostats, which are relevant to energy efficiency and may be part of the renewable energy sector's interest. Therefore, there might be a relevant connection between the MP's question about energy-efficiency initiatives like the Warm Homes Plan and their advisory position with a company involved in the renewable energy sector.",
+      "regmem_entry": {
+        "id": "7745",
+        "content": "Energy markets transaction advisory. - Pexapark (UK) Limited",
+        "content_format": "string",
+        "date_registered": "2024-07-29",
+        "date_published": "2024-07-29",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Energy markets transaction advisory.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Pexapark (UK) Limited",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "Renewable energy advisory and software company.",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "c/o BDO LLP, 55 Baker Street, London W1U 7EU",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "10909",
+            "content": "Payment received on 30 September 2024 - £19,590.00",
+            "content_format": "string",
+            "date_registered": "2024-10-05",
+            "date_published": "2024-10-05",
+            "date_received": "2024-09-30",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-09-30",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "Commission-type payment paid for work mainly conducted before I was elected a Member of Parliament.",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "19590.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "No additional hours to declare.",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "10909",
+            "item_hash": "5ab8e9b477"
+          },
+          {
+            "id": "7746",
+            "content": "Agreement - £8,750.00",
+            "content_format": "string",
+            "date_registered": "2024-07-29",
+            "date_published": "2024-08-04",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "end_date",
+                "display_as": "End Date",
+                "description": "Date the remuneration ended",
+                "type": "date",
+                "value": "2024-08-31",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "8750.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "20.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "Approximate time spent handing-over during my notice period.",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "7746",
+            "item_hash": "2a7cdb0a8c"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "7745",
+        "item_hash": "973f360677"
+      }
+    }
+  ]
+}

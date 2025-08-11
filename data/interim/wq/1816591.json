@@ -1,0 +1,137 @@
+{
+  "person_id": "uk.org.publicwhip/person/26491",
+  "person_name": "Steffan Aquarone",
+  "public_speech": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment she has made of the potential impact of removing funding for the development of neighbourhood plans on parish councils.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-25/62866/",
+  "relevance_summary": {
+    "summary": "The MP, acting also as a County Councillor for Norfolk County, flagged interest because county councillors work closely with parish councils. This role provides potential insights into the operations and funding needs of parish councils, which may be impacted by the removal of funding for neighbourhood plans. This indicates a vested interest in understanding how these changes could affect local communities that are part of the county council's jurisdiction.",
+    "abuse_score": "low"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP's role as a County Councillor for Norfolk County could be relevant to the question about the impact on parish councils because county councillors often work closely with parish councils and may have a vested interest or insight into their operations and funding needs. The removal of funding for neighbourhood plans could directly impact the communities that the county council serves.",
+      "regmem_entry": {
+        "id": "6168",
+        "content": "County Councillor - Norfolk County Councillor",
+        "content_format": "string",
+        "date_registered": "2024-08-04",
+        "date_published": "2024-08-04",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "County Councillor",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "Norfolk County Councillor",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "Elected member",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "Martinuea Lane, Norwich NR1 2DH",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "6170",
+            "content": "Agreement - £12,469.00",
+            "content_format": "string",
+            "date_registered": "2024-08-04",
+            "date_published": "2024-08-04",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Yearly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Yearly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "12469.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "0.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "No specific contracted hours",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "6170",
+            "item_hash": "063f2c71e9"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "6168",
+        "item_hash": "7a0ab357f5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "person_id": "uk.org.publicwhip/person/26569",
+  "person_name": "Manuela Perteghella",
+  "public_speech": "To ask the Secretary of State for Science, Innovation and Technology, if he will (a) grant libraries the right to archive eBooks and (b) ensure perpetual access to licensed works.",
+  "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-06-02/56550/",
+  "relevance_summary": {
+    "summary": "The interest flagged as relevant is the MP's role as an Associate Lecturer at The Open University. This position is significant because universities, including The Open University, rely heavily on access to digital resources like eBooks for educational purposes. Consequently, the MP may be inclined to advocate for policies that improve digital access, which would benefit educational institutions by facilitating easier and more permanent access to eBooks and licensed works for teaching and research purposes.",
+    "abuse_score": "low"
+  },
+  "relevant_interests": [
+    {
+      "relevance": "relevant",
+      "reason": "The MP's role as an Associate Lecturer at The Open University, a higher education institution, is relevant to the question about the rights for libraries to archive eBooks and ensure perpetual access to licensed works. Universities often rely on access to eBooks and digital resources for teaching and research, and thus the MP may have a vested interest in promoting digital access policies that benefit educational institutions.",
+      "regmem_entry": {
+        "id": "6581",
+        "content": "Associate Lecturer - The Open University",
+        "content_format": "string",
+        "date_registered": "2024-08-01",
+        "date_published": "2024-08-01",
+        "null_entry": false,
+        "annotations": [],
+        "details": [
+          {
+            "source": "official",
+            "slug": "job_title",
+            "display_as": "Job Title",
+            "description": "Type of work or service being provided",
+            "type": "string",
+            "value": "Associate Lecturer",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "end_date",
+            "display_as": "End Date",
+            "description": "Date the agreement ended",
+            "type": "date",
+            "value": "2024-08-23",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "is_until_further_notice",
+            "display_as": "Is Until Further Notice",
+            "description": "Whether the agreement is until further notice",
+            "type": "boolean",
+            "value": true,
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_name",
+            "display_as": "Payer Name",
+            "description": "Name of the payer",
+            "type": "string",
+            "value": "The Open University",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_nature_of_business",
+            "display_as": "Payer Nature Of Business",
+            "description": "Brief description of the payer's business",
+            "type": "string",
+            "value": "University, higher education institution",
+            "annotations": []
+          },
+          {
+            "source": "official",
+            "slug": "payer_public_address",
+            "display_as": "Payer Public Address",
+            "description": "Address of the payer, if this can be publicly shared",
+            "type": "string",
+            "value": "Walton Hall, Milton Keynes MK7 6AA",
+            "annotations": []
+          }
+        ],
+        "sub_entries": [
+          {
+            "id": "10603",
+            "content": "Payment received on 23 August 2024 - £310.53",
+            "content_format": "string",
+            "date_registered": "2024-08-30",
+            "date_published": "2024-09-02",
+            "date_received": "2024-08-23",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "payment_received",
+                "display_as": "Payment Received",
+                "description": "Whether payment has been received",
+                "type": "boolean",
+                "value": true,
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "received_date",
+                "display_as": "Received Date",
+                "description": "Date the payment was received or date the services were completed or provided on, if payment not received",
+                "type": "date",
+                "value": "2024-08-23",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_description",
+                "display_as": "Payment Description",
+                "description": "Description of payment",
+                "type": "string",
+                "value": "final pay",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "310.53",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "16.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "approximate",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "10603",
+            "item_hash": "e5bf2bb397"
+          },
+          {
+            "id": "6583",
+            "content": "Agreement starting 23 July 2024 - £418.54",
+            "content_format": "string",
+            "date_registered": "2024-08-01",
+            "date_published": "2024-08-01",
+            "null_entry": false,
+            "annotations": [],
+            "details": [
+              {
+                "source": "official",
+                "slug": "regularity_of_payment",
+                "display_as": "Regularity Of Payment",
+                "description": "Regularity of the payment. Periods are weekly, monthly, quarterly or yearly",
+                "type": "string",
+                "value": "Monthly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "start_date",
+                "display_as": "Start Date",
+                "description": "Date the remuneration started",
+                "type": "date",
+                "value": "2024-07-23",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "end_date",
+                "display_as": "End Date",
+                "description": "Date the remuneration ended",
+                "type": "date",
+                "value": "2024-08-23",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "period_for_hours_worked",
+                "display_as": "Period For Hours Worked",
+                "description": "Period for hours worked.  Periods are weekly, monthly, quarterly or yearly.",
+                "type": "string",
+                "value": "Weekly",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "payment_type",
+                "display_as": "Payment Type",
+                "description": "Whether the payment was monetary or in kind",
+                "type": "string",
+                "value": "Monetary",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "value",
+                "display_as": "Value",
+                "description": "Amount or value of the payment",
+                "type": "decimal",
+                "value": "418.54",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_worked",
+                "display_as": "Hours Worked",
+                "description": "Number of hours worked. If a regular payment, this is hours worked per period",
+                "type": "decimal",
+                "value": "8.00",
+                "annotations": []
+              },
+              {
+                "source": "official",
+                "slug": "hours_details",
+                "display_as": "Hours Details",
+                "description": "Additional information about the hours worked",
+                "type": "string",
+                "value": "FT 0.115",
+                "annotations": []
+              }
+            ],
+            "sub_entries": [],
+            "info_type": "subentry",
+            "comparable_id": "6583",
+            "item_hash": "0064028161"
+          }
+        ],
+        "info_type": "entry",
+        "comparable_id": "6581",
+        "item_hash": "9fa74ce03e"
+      }
+    }
+  ]
+}
