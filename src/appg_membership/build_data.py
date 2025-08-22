@@ -87,9 +87,7 @@ def build_members():
             item["member_type"] = officer_type(officer.name)
             item["source"] = "parliament"
             item["last_updated"] = last_register
-            item["url_source"] = (
-                x.source_url if isinstance(x.source_url, str) else str(x.source_url)
-            )
+            item["url_source"] = extract_source_url(x.source_url)  # type: ignore
             data.append(item)
         for member in x.members_list.members:
             canon_name = None
@@ -103,7 +101,7 @@ def build_members():
             item["appg"] = x.slug
             item["source"] = x.members_list.source_method
             item["last_updated"] = x.members_list.last_updated
-            item["url_source"] = str(x.members_list.source_url)
+            item["url_source"] = extract_source_url(x.members_list.source_url)  # type:ignore
             data.append(item)
 
     df = pd.DataFrame(data)
