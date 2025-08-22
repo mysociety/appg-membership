@@ -62,6 +62,11 @@ def build_members():
     items = APPGList.load()
     pop = Popolo.from_parlparse()
 
+    def extract_source_url(item: str | list[str]) -> str:
+        if isinstance(item, list):
+            return str(item[0]) if item else ""
+        return str(item)
+
     data = []
     for x in items:
         for officer in x.officers:
@@ -82,7 +87,9 @@ def build_members():
             item["member_type"] = officer_type(officer.name)
             item["source"] = "parliament"
             item["last_updated"] = last_register
-            item["url_source"] = str(x.source_url)
+            item["url_source"] = (
+                x.source_url if isinstance(x.source_url, str) else str(x.source_url)
+            )
             data.append(item)
         for member in x.members_list.members:
             canon_name = None
