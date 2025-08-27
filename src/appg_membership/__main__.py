@@ -1,3 +1,4 @@
+import typer
 from typer import Typer
 
 app = Typer(pretty_exceptions_enable=False)
@@ -119,6 +120,52 @@ def export_crowdsource(output_path: str | None = None):
     from .export_data import export_for_crowdsource
 
     export_for_crowdsource(output_path)
+
+
+@app.command()
+def find_old_members(format: str = "list"):
+    """
+    Find APPGs that have members who are no longer MPs.
+
+    Args:
+        format: Output format - 'list' for individual messages or 'table' for summary table sorted by percentage
+
+    With 'list' format: Shows individual messages for each person who is listed
+    as a member of an APPG but is no longer in Parliament.
+
+    With 'table' format: Shows a summary table with APPG names, total number of
+    'old' members (those no longer serving in Parliament), and the proportion
+    of old members to total members, sorted by percentage (highest to lowest).
+    """
+    from .old_members import find_appgs_with_old_members
+
+    if format not in ["list", "table"]:
+        print("Error: format must be either 'list' or 'table'")
+        return
+
+    find_appgs_with_old_members(format_type=format)
+
+
+@app.command()
+def blank_membership_information(appg_slug: str):
+    """
+    Blank the membership information for a given APPG slug.
+
+    This command is used to remove outdated or inaccurate membership information
+    that was automatically sourced. It will:
+    - Set the source method to 'empty'
+    - Remove all members from the membership list
+    - Clear source URLs and update timestamp
+    - Save the changes to the APPG file
+
+    Args:
+        appg_slug: The slug of the APPG to blank membership information for
+    """
+    from .blank_membership import blank_membership_information
+
+    success = blank_membership_information(appg_slug)
+    if not success:
+        raise typer.Exit(1)
 
 
 def main():

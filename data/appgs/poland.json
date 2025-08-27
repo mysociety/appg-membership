@@ -30,93 +30,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://appgpoland.uk/2021/04/13/agm-and-a-talk-with-the-polish-ambassador/"
-    ],
-    "last_updated": "2025-04-28",
-    "members": [
-      {
-        "name": "Daniel Kawczynski",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "1566",
-        "twfy_id": "uk.org.publicwhip/person/11817",
-        "removed": false
-      },
-      {
-        "name": "Lord Rogan",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "2478",
-        "twfy_id": "uk.org.publicwhip/person/13330",
-        "removed": false
-      },
-      {
-        "name": "Viscount Waverley",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "1744",
-        "twfy_id": "uk.org.publicwhip/person/12899",
-        "removed": false
-      },
-      {
-        "name": "Sir Jeffrey Donaldson",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "650",
-        "twfy_id": "uk.org.publicwhip/person/10172",
-        "removed": false
-      },
-      {
-        "name": "Martin Vickers",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "3957",
-        "twfy_id": "uk.org.publicwhip/person/24814",
-        "removed": false
-      },
-      {
-        "name": "Robert Halfon",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "3985",
-        "twfy_id": "uk.org.publicwhip/person/24784",
-        "removed": false
-      },
-      {
-        "name": "Bob Stewart",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "3919",
-        "twfy_id": "uk.org.publicwhip/person/24907",
-        "removed": false
-      },
-      {
-        "name": "Rupa Huq",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4511",
-        "twfy_id": "uk.org.publicwhip/person/25284",
-        "removed": false
-      },
-      {
-        "name": "Andrew Slaughter",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "1516",
-        "twfy_id": "uk.org.publicwhip/person/11559",
-        "removed": false
-      },
-      {
-        "name": "Lord Panteg",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      }
-    ]
+    "source_method": "empty",
+    "source_url": [],
+    "last_updated": null,
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Martin Vickers MP",

@@ -1,4 +1,5 @@
 from mysoc_validator import Popolo
+from mysoc_validator.models.popolo import Person
 
 from appg_membership.models import APPGList, NameCorrectionList
 
@@ -82,11 +83,33 @@ def add_person_ids():
     items = APPGList.load()
     pop = Popolo.from_parlparse()
 
-    name_lookup = {}
+    name_lookup: dict[str, Person] = {}
 
     for person in pop.persons:
         for name in person.names:
-            name_lookup[name_adaptor(name.nice_name())] = person
+            tidied_name = name_adaptor(name.nice_name())
+            if tidied_name in name_lookup:
+                previous_person = name_lookup[tidied_name]
+                previous_memberships = previous_person.memberships()
+                current_memberships = person.memberships()
+                # get highest end_date for both
+                previous_highest_end_date = max(
+                    (m.end_date for m in previous_memberships if m.end_date),
+                    default=None,
+                )
+                current_highest_end_date = max(
+                    (m.end_date for m in current_memberships if m.end_date),
+                    default=None,
+                )
+                # if current is higher than previous, replace
+                if current_highest_end_date and (
+                    not previous_highest_end_date
+                    or current_highest_end_date > previous_highest_end_date
+                ):
+                    name_lookup[tidied_name] = person
+
+            else:
+                name_lookup[tidied_name] = person
 
     bad_names = []
 
@@ -96,7 +119,7 @@ def add_person_ids():
             if reduced_name in name_lookup:
                 person = name_lookup[reduced_name]
                 officer.twfy_id = person.id
-                officer.mnis_id = person.get_identifier("datadotparl_id")
+                officer.mnis_id = str(person.get_identifier("datadotparl_id"))
             else:
                 if not is_lord(officer.name):
                     bad_names.append(reduced_name)
@@ -105,7 +128,7 @@ def add_person_ids():
             if reduced_name in name_lookup:
                 person = name_lookup[reduced_name]
                 member.twfy_id = person.id
-                member.mnis_id = person.get_identifier("datadotparl_id")
+                member.mnis_id = str(person.get_identifier("datadotparl_id"))
             else:
                 if member.member_type == "mp":
                     bad_names.append(reduced_name)

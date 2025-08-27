@@ -168,6 +168,72 @@ The Excel file is saved to `data/exports/` with a timestamp in the filename, or 
 python -m appg_membership export_crowdsource --output-path=/path/to/your/file.xlsx
 ```
 
-### 13. Rebuild the Documentation Site (if hosting)
+### 13. Review Outdated Membership Lists
+
+```bash
+project find-old-members
+```
+
+This command helps review whether automatically sourced membership lists are out of date and should be removed. The purpose is to identify APPGs where the membership information may no longer be accurate because listed members are no longer serving in Parliament.
+
+The command offers two output formats:
+
+**List format (default):**
+```bash
+project find-old-members --format list
+```
+Shows individual messages for each person who is no longer in Parliament but still listed as an APPG member:
+```
+John Smith is listed as a member of artificial-intelligence but is no longer in Parliament
+Jane Doe is listed as a member of climate-change but is no longer in Parliament
+```
+
+**Table format:**
+```bash
+project find-old-members --format table
+```
+Shows a summary table sorted by percentage of outdated members (highest first), helping prioritize which APPGs need the most urgent review:
+
+| APPG Slug | Old Members | Total | Proportion |
+|-----------|-------------|-------|------------|
+| example-appg | 5 | 10 | 50.0% |
+
+Use this information to:
+- Identify APPGs with high percentages of former MPs that may need membership list updates
+- Remove or flag outdated automatically sourced membership lists
+- Prioritize APPGs for manual verification or re-scraping
+
+### 14. Remove Outdated Membership Lists
+
+When you identify APPGs with problematic membership lists (especially those marked as "Significant" in the table format), you can remove the outdated information:
+
+```bash
+project blank-membership-information <appg-slug>
+```
+
+This command will:
+- Set the membership source method to 'empty'
+- Remove all members from the membership list
+- Clear source URLs and timestamps
+- Save the changes to the APPG file
+
+**Example:**
+```bash
+project blank-membership-information artificial-intelligence
+```
+
+**When to use this command:**
+- APPGs with high proportions of former MPs (especially ≥33% marked as "Significant")
+- Membership lists that are clearly outdated or inaccurate
+- Cases where re-scraping is not feasible and manual verification shows the list is wrong
+
+**What happens after blanking:**
+- The APPG will show as having no membership information
+- It can be re-scraped in future runs if a valid membership page becomes available
+- The official officers from the parliamentary register remain unchanged
+
+This approach is preferable to keeping inaccurate data, as it clearly indicates that membership information needs to be sourced rather than presenting outdated lists as current.
+
+### 15. Rebuild the Documentation Site (if hosting)
 
 Run the Jekyll build process to update the documentation site with the new diffs.
