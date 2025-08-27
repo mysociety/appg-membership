@@ -1,0 +1,166 @@
+title: APPG Register
+description: APPG Register as a spreadsheet
+custom:
+  row_count: 542
+path: register.parquet
+name: register
+profile: data-resource
+scheme: file
+format: parquet
+hashing: md5
+encoding: utf-8
+schema:
+  fields:
+  - name: slug
+    type: string
+    description: Slugified name of the APPG
+    constraints:
+      unique: true
+    example: abraham-accords
+  - name: title
+    type: string
+    description: Title of the APPG
+    constraints:
+      unique: true
+    example: Adult Social Care All-Party Parliamentary Group
+  - name: purpose
+    type: string
+    description: Purpose of the APPG
+    constraints:
+      unique: true
+    example: "'To raise awareness of disadvantages and poor outcomes faced by men\
+      \ and boys in education, mental and physical health and law; to influence attitudes,\
+      \ role models, policy and legislation that will lead to positive differences\
+      \ to their well-being and lives."
+  - name: category
+    type: string
+    description: Category of the APPG
+    constraints:
+      unique: false
+      enum:
+      - Country, Area or Region Group
+      - Subject Group
+    example: Country, Area or Region Group
+  - name: registrable_benefits
+    type: string
+    description: Registrable benefits of the APPG
+    constraints:
+      unique: false
+      enum:
+      - ''
+      - Financial Benefits
+    example: ''
+  - name: source_url
+    type: string
+    description: URL of the APPG on the Parliament website
+    constraints:
+      unique: true
+    example: https://publications.parliament.uk/pa/cm/cmallparty/250507/kuwait.htm
+  - name: categories
+    type: string
+    description: Pipe seperated list of (mysociety added) categories for the APPG
+    constraints:
+      unique: false
+    example: Animals & Animal Welfare
+  - name: registered_contact_name
+    type: string
+    description: Name of the registered contact
+    constraints:
+      unique: false
+    example: Abtisam Mohamed MP
+  - name: registered_contact_address
+    type: string
+    description: Address of the registered contact
+    constraints:
+      unique: false
+    example: ''
+  - name: registered_contact_email
+    type: string
+    description: Email of the registered contact
+    constraints:
+      unique: false
+    example: ''
+  - name: public_enquiry_point_name
+    type: string
+    description: Name of the public enquiry point
+    constraints:
+      unique: false
+    example: ''
+  - name: public_enquiry_point_email
+    type: string
+    description: Email of the public enquiry point
+    constraints:
+      unique: false
+    example: ''
+  - name: secretariat
+    type: string
+    description: Name of the secretariat
+    constraints:
+      unique: false
+    example: ''
+  - name: website
+    type: string
+    description: URL of the APPG website
+    constraints:
+      unique: false
+    example: None
+  - name: website_status
+    type: string
+    description: Status of the APPG website
+    constraints:
+      unique: false
+      enum:
+      - bad_search
+      - manual
+      - no_search
+      - register
+      - search
+    example: bad_search
+  - name: date_of_most_recent_agm
+    type: string
+    description: Date of the most recent AGM
+    constraints:
+      unique: false
+    example: '2024-07-22'
+  - name: published_income_expenditure_statement
+    type: boolean
+    description: Published income and expenditure statement
+    constraints:
+      unique: false
+      enum:
+      - false
+    example: 'False'
+  - name: reporting_year
+    type: string
+    description: Reporting year of the APPG
+    constraints:
+      unique: false
+    example: 01 Apr to 31 Mar
+  - name: next_reporting_deadline
+    type: string
+    description: Next reporting deadline for the APPG
+    constraints:
+      unique: false
+    example: '2025-08-01'
+  - name: detailed_benefits
+    type: string
+    description: Json dict of the benefits of the APPG
+    constraints:
+      unique: false
+    example: '[{"Source": "ABInBev", "Value \u00a3s": "4,294", "Received": "30/09/2024",
+      "Registered": "10/10/2024", "benefit_type": "Financial Benefits"}, {"Source":
+      "Carlsberg", "Value \u00a3s": "4,294", "Received": "02/10/2024", "Registered":
+      "10/10/2024", "benefit_type": "Financial Benefits"}, {"Source": "Diageo", "Value
+      \u00a3s": "4,294", "Received": "02/10/2024", "Registered": "10/10/2024", "benefit_type":
+      "Financial Benefits"}, {"Source": "Molson Coors", "Value \u00a3s": "4,294",
+      "Received": "14/10/2024", "Registered": "22/10/2024", "benefit_type": "Financial
+      Benefits"}, {"Source": "Stonegate", "Value \u00a3s": "4,294", "Received": "14/10/2024",
+      "Registered": "22/10/2024", "benefit_type": "Financial Benefits"}, {"Source":
+      "Heineken", "Value \u00a3s": "4,294", "Received": "14/10/2024", "Registered":
+      "22/10/2024", "benefit_type": "Financial Benefits"}, {"Source": "Greene King",
+      "Value \u00a3s": "4,294", "Received": "14/10/2024", "Registered": "22/10/2024",
+      "benefit_type": "Financial Benefits"}, {"Source": "Asahi", "Value \u00a3s":
+      "1,928", "Received": "25/10/2024", "Registered": "10/03/2025", "benefit_type":
+      "Financial Benefits"}, {"Source": "SIBA", "Value \u00a3s": "2,564", "Received":
+      "21/03/2025", "Registered": "26/03/2025", "benefit_type": "Financial Benefits"}]'
+hash: 58ea0b208a06c06782cbff90e9a65602
