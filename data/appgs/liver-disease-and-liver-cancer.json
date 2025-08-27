@@ -38,10 +38,195 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-08-27",
+    "members": [
+      {
+        "name": "Danny Chambers MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5304",
+        "twfy_id": "uk.org.publicwhip/person/26607",
+        "removed": false
+      },
+      {
+        "name": "Vicki Slade MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582",
+        "removed": false
+      },
+      {
+        "name": "Jim Shannon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4131",
+        "twfy_id": "uk.org.publicwhip/person/13864",
+        "removed": false
+      },
+      {
+        "name": "Peter Dowd MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4397",
+        "twfy_id": "uk.org.publicwhip/person/25309",
+        "removed": false
+      },
+      {
+        "name": "Ben Lake MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4630",
+        "twfy_id": "uk.org.publicwhip/person/25669",
+        "removed": false
+      },
+      {
+        "name": "Sir Roger Gale MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "87",
+        "twfy_id": "uk.org.publicwhip/person/10217",
+        "removed": false
+      },
+      {
+        "name": "Peter Lamb MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5345",
+        "twfy_id": "uk.org.publicwhip/person/26612",
+        "removed": false
+      },
+      {
+        "name": "Deirdre Costigan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5075",
+        "twfy_id": "uk.org.publicwhip/person/26384",
+        "removed": false
+      },
+      {
+        "name": "Martin Vickers MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3957",
+        "twfy_id": "uk.org.publicwhip/person/24814",
+        "removed": false
+      },
+      {
+        "name": "Douglas McAllister MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5057",
+        "twfy_id": "uk.org.publicwhip/person/26334",
+        "removed": false
+      },
+      {
+        "name": "Michael Wheeler MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5242",
+        "twfy_id": "uk.org.publicwhip/person/26551",
+        "removed": false
+      },
+      {
+        "name": "Sir John Hayes MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "350",
+        "twfy_id": "uk.org.publicwhip/person/10265",
+        "removed": false
+      },
+      {
+        "name": "Afzal Khan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4671",
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
+      },
+      {
+        "name": "Vikki Slade MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582",
+        "removed": false
+      },
+      {
+        "name": "Rebecca Smith MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5301",
+        "twfy_id": "uk.org.publicwhip/person/26512",
+        "removed": false
+      },
+      {
+        "name": "Preet Kaur Gill MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4603",
+        "twfy_id": "uk.org.publicwhip/person/25666",
+        "removed": false
+      },
+      {
+        "name": "Marie Rimmer MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4457",
+        "twfy_id": "uk.org.publicwhip/person/25321",
+        "removed": false
+      },
+      {
+        "name": "Navendu Mishra MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4811",
+        "twfy_id": "uk.org.publicwhip/person/25836",
+        "removed": false
+      },
+      {
+        "name": "Caroline Nokes MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4048",
+        "twfy_id": "uk.org.publicwhip/person/24809",
+        "removed": false
+      },
+      {
+        "name": "Lord Brooke",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3335",
+        "twfy_id": "uk.org.publicwhip/person/13611",
+        "removed": false
+      },
+      {
+        "name": "Baroness Finlay",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3609",
+        "twfy_id": "uk.org.publicwhip/person/13471",
+        "removed": false
+      },
+      {
+        "name": "Lord Sarfraz",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4882",
+        "twfy_id": "uk.org.publicwhip/person/25948",
+        "removed": false
+      },
+      {
+        "name": "Baroness Winterton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "390",
+        "twfy_id": "uk.org.publicwhip/person/10648",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Dr Beccy Cooper MP",

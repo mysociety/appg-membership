@@ -100,7 +100,29 @@ project load-spreadsheets
 
 This loads any available spreadsheets with membership information.
 
-### 7. Add Person IDs to Members
+### 7. Load Manual Membership Data
+
+```bash
+project load-manual-data
+```
+
+This downloads and processes manual APPG membership data from Google Docs. This file: https://docs.google.com/document/d/1IzlRjxXyT8qmU3_-xLO3z_VmTnPIjkb1Hz6SFtkBnKs/edit?tab=t.0#heading=h.pc6wfp5a5op2 
+
+ The command will:
+- Download a Google Docs document as markdown (or use `--skip-download` to use an existing file)
+- Parse the document structure where:
+  - H1: Ignored
+  - H2: APPG title  
+  - H3: Either "notes" (ignored) or "members" (processed)
+  - If no H3s under H2, all content is treated as members
+- Match APPG titles to existing files using flexible matching
+- Update membership lists with `source_method: "manual"`
+- Only update APPGs that currently have `empty` or `manual` source methods
+
+**Options:**
+- `--skip-download`: Skip downloading and use existing markdown file at `data/raw/manual/manual_membership.md`
+
+### 8. Add Person IDs to Members
 
 ```bash
 project add-person-ids
@@ -108,7 +130,7 @@ project add-person-ids
 
 This matches member names to known parliament members and assigns IDs.
 
-### 8. Correct Unmatched Names
+### 9. Correct Unmatched Names
 
 ```bash
 project correct-unmatched-names
@@ -118,7 +140,7 @@ This interactive tool helps fix name mismatches:
 - Shows potential matches for unmatched names
 - Lets you select the correct match or enter manually
 
-### 9. Build the Final Dataset
+### 10. Build the Final Dataset
 
 ```bash
 project build
@@ -126,7 +148,7 @@ project build
 
 This compiles all the data into the final package format. The system will automatically use the latest register date from `models.py`.
 
-### 10. Generate Diffs Between Registers
+### 11. Generate Diffs Between Registers
 
 ```bash
 project generate-diffs
@@ -136,7 +158,17 @@ This creates diff reports showing what changed between consecutive registers, wh
 - `data/interim/diffs/` (JSON format)
 - `docs/_diffs/` (Markdown format for the Jekyll site)
 
-### 11. Verify the Results
+### 11. Generate Diffs Between Registers
+
+```bash
+project generate-diffs
+```
+
+This creates diff reports showing what changed between consecutive registers, which are saved to:
+- `data/interim/diffs/` (JSON format)
+- `docs/_diffs/` (Markdown format for the Jekyll site)
+
+### 12. Verify the Results
 
 After completing these steps, check:
 1. New JSON files in `data/appgs/` are correctly updated
@@ -144,7 +176,7 @@ After completing these steps, check:
 3. The website records the appropriate number of accepted/rejected sites
 4. Membership information has been extracted where available
 
-### 12. Export Data for External Crowdsourcing (Optional)
+### 13. Export Data for External Crowdsourcing (Optional)
 
 If you need external help to verify websites and membership information that the automatic scraping couldn't find:
 
@@ -168,7 +200,31 @@ The Excel file is saved to `data/exports/` with a timestamp in the filename, or 
 python -m appg_membership export_crowdsource --output-path=/path/to/your/file.xlsx
 ```
 
-### 13. Review Outdated Membership Lists
+### 13. Export Data for External Crowdsourcing (Optional)
+
+If you need external help to verify websites and membership information that the automatic scraping couldn't find:
+
+```bash
+python -m appg_membership export_crowdsource
+```
+
+This creates an Excel spreadsheet with the following fields:
+- `starting_status`: Current status (no_website, website, website_no_members, website_members_list)
+- `review_status`: Blank column for crowdsourcers to fill
+- `appg_slug`: Unique identifier for the APPG
+- `appg_name`: Full name of the APPG
+- `parliament_source_url`: URL to the official parliament page
+- `google_link`: Pre-populated Google search link
+- `appg_website`: Current website URL if available
+- `appg_members_page`: Members page URL if available
+
+The Excel file is saved to `data/exports/` with a timestamp in the filename, or you can specify a custom path:
+
+```bash
+python -m appg_membership export_crowdsource --output-path=/path/to/your/file.xlsx
+```
+
+### 14. Review Outdated Membership Lists
 
 ```bash
 project find-old-members
@@ -203,7 +259,7 @@ Use this information to:
 - Remove or flag outdated automatically sourced membership lists
 - Prioritize APPGs for manual verification or re-scraping
 
-### 14. Remove Outdated Membership Lists
+### 15. Remove Outdated Membership Lists
 
 When you identify APPGs with problematic membership lists (especially those marked as "Significant" in the table format), you can remove the outdated information:
 
@@ -234,6 +290,6 @@ project blank-membership-information artificial-intelligence
 
 This approach is preferable to keeping inaccurate data, as it clearly indicates that membership information needs to be sourced rather than presenting outdated lists as current.
 
-### 15. Rebuild the Documentation Site (if hosting)
+### 16. Rebuild the Documentation Site (if hosting)
 
 Run the Jekyll build process to update the documentation site with the new diffs.

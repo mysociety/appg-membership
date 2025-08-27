@@ -168,6 +168,29 @@ def blank_membership_information(appg_slug: str):
         raise typer.Exit(1)
 
 
+@app.command()
+def load_manual_data(skip_download: bool = False):
+    """
+    Load manual APPG membership data from Google Docs.
+
+    Downloads a Google Docs document as markdown and parses it to extract
+    APPG membership information. The document structure should be:
+    - H1: Ignored
+    - H2: APPG title
+    - H3: Either "notes" (ignored) or "members" (processed)
+    - If no H3s under H2, all content is treated as members
+    - Members are parsed as any line with content
+
+    Args:
+        skip_download: If True, skip downloading and use existing markdown file
+    """
+    from .load_manual_data import load_manual_data
+
+    success = load_manual_data(skip_download=skip_download)
+    if not success:
+        raise typer.Exit(1)
+
+
 def main():
     """
     Main function to run the Typer app.
