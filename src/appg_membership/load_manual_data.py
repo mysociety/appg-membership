@@ -171,6 +171,40 @@ def clean_member_name(line: str) -> Optional[str]:
     # Remove leading/trailing whitespace
     line = line.strip()
 
+    # Remove party names that appear after the name and title
+    # For MPs: stop after 'MP' (everything after 'MP' is likely party info)
+    if " MP " in line:
+        line = line.split(" MP ")[0] + " MP"
+
+    # For Lords and other titles: remove common party names at the end
+    party_names = [
+        "Labour",
+        "Conservative",
+        "Liberal Democrat",
+        "Liberal Democrats",
+        "LibDem",
+        "SNP",
+        "Plaid Cymru",
+        "Green",
+        "DUP",
+        "Ulster Unionist",
+        "SDLP",
+        "Alliance",
+        "Independent",
+        "Crossbench",
+        "Cross Bench",
+        "Crossbencher",
+        "Non-affiliated",
+        "Sinn Fein",
+        "Sinn Féin",
+    ]
+
+    # Create regex pattern to match party names at the end of the line
+    party_pattern = (
+        r"\s+(" + "|".join(re.escape(party) for party in party_names) + r")$"
+    )
+    line = re.sub(party_pattern, "", line, flags=re.IGNORECASE)
+
     # Skip if empty or looks like a header/non-name content
     if not line or line.startswith("#") or len(line) < 3:
         return None
