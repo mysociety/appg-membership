@@ -168,8 +168,240 @@ def clean_member_name(line: str) -> Optional[str]:
     line = re.sub(r"^\d+\\\.\s+", "", line)  # Escaped dots (Google Docs export)
     line = re.sub(r"^\\[-*+]\s+", "", line)  # Escaped bullet points (\-, \*, \+)
 
+    # Remove pipe characters and clean up
+    line = re.sub(r"^\|+\s*", "", line)  # Leading pipes
+    line = re.sub(r"\s*\|+$", "", line)  # Trailing pipes
+    line = re.sub(r"\|", "", line)  # Any remaining pipes
+
+    # Replace tabs with spaces and normalize whitespace
+    line = re.sub(r"\t", " ", line)  # Replace tabs with spaces
+    while "  " in line:  # Recursively replace double spaces with single spaces
+        line = line.replace("  ", " ")
+
     # Remove leading/trailing whitespace
     line = line.strip()
+
+    # Skip generic terms that should be ignored entirely
+    generic_terms = [
+        "members",
+        "members;",
+        "membership",
+        "officers:",
+        "officers",
+        "chair and officers",
+        "chair:",
+        "dep chair:",
+        "honorary president:",
+        "name organisation representing if applicable",
+        "non-parliamentarians:",
+        "donors",
+        "external",
+        ":----",
+    ]
+    if line.lower() in generic_terms:
+        return None
+
+    # Remove email addresses
+    line = re.sub(r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b", "", line)
+
+    # Remove role prefixes
+    line = re.sub(r"^(member|officer)\s+", "", line, flags=re.IGNORECASE)
+    line = re.sub(
+        r"^(chair|vice[\s-]*chair|deputy[\s-]*chair|honorary[\s-]*president|dep\s+chair):\s*",
+        "",
+        line,
+        flags=re.IGNORECASE,
+    )
+
+    # Remove constituency/commons information (pattern: "party commons constituency")
+    line = re.sub(
+        r"\s+(conservative|labour|liberal\s+democrat|libdem|snp|plaid\s+cymru|green|dup|independent)\s+commons\s+.*$",
+        "",
+        line,
+        flags=re.IGNORECASE,
+    )
+
+    # Handle duplicated names and leading numbers
+    words = line.split()
+    if words:
+        # Remove leading number if present
+        if words[0].isdigit():
+            words = words[1:]
+
+        # Handle name duplications (e.g., "john whittingdale sir john whittingdale")
+        if len(words) >= 4:
+            # Alternative check: look for "firstname lastname firstname lastname" pattern
+            if len(words) == 4:
+                if (
+                    words[0].lower() == words[2].lower()
+                    and words[1].lower() == words[3].lower()
+                ):
+                    words = words[:2]  # Take first occurrence
+
+            # Look for exact duplicated sequences
+            half_len = len(words) // 2
+            if half_len >= 2:
+                first_half = words[:half_len]
+                second_half = words[half_len:]
+
+                # Check if we have exact name duplication
+                if len(first_half) == len(second_half):
+                    # Compare ignoring titles
+                    title_words = [
+                        "sir",
+                        "dame",
+                        "lord",
+                        "lady",
+                        "baroness",
+                        "baron",
+                        "mr",
+                        "mrs",
+                        "ms",
+                        "miss",
+                        "dr",
+                    ]
+                    first_names = [
+                        w for w in first_half if w.lower() not in title_words
+                    ]
+                    second_names = [
+                        w for w in second_half if w.lower() not in title_words
+                    ]
+
+                    if (
+                        len(first_names) >= 2
+                        and len(second_names) >= 2
+                        and first_names[-1].lower() == second_names[-1].lower()
+                        and first_names[-2].lower() == second_names[-2].lower()
+                    ):
+                        # We have a duplication - prefer the version with title
+                        if any(w.lower() in title_words for w in second_half):
+                            words = second_half
+                        else:
+                            words = first_half
+
+            # Check for pattern: "firstname lastname title firstname lastname"
+            if len(words) == 5:
+                title_words = [
+                    "sir",
+                    "dame",
+                    "lord",
+                    "lady",
+                    "baroness",
+                    "baron",
+                    "mr",
+                    "mrs",
+                    "ms",
+                    "miss",
+                    "dr",
+                ]
+                if (
+                    words[2].lower() in title_words
+                    and words[0].lower() == words[3].lower()
+                    and words[1].lower() == words[4].lower()
+                ):
+                    words = words[2:]  # Take titled version
+
+        line = " ".join(words)
+
+    # Remove en-dash and em-dash role suffixes (e.g., "– vice chair", "— chair")
+    line = re.sub(
+        r"\s*[–—]\s*(vice[\s-]*chair|chair|officer|president).*$",
+        "",
+        line,
+        flags=re.IGNORECASE,
+    )
+
+    # Remove parenthetical roles and trailing party abbreviations
+    line = re.sub(
+        r"\s*\((vice[\s-]*chair|chair|officer)\)\s*(lab|con|libdem|lib|snp|green|dup|independent|crossbench)?\s*$",
+        "",
+        line,
+        flags=re.IGNORECASE,
+    )
+
+    # Remove standalone party names at the end (after whitespace)
+    line = re.sub(
+        r"\s+(lab|con|conservative|labour|libdem|liberal|democrat|snp|green|dup|independent|crossbench)\s*$",
+        "",
+        line,
+        flags=re.IGNORECASE,
+    )
+
+    # Remove honorific prefixes like "the hon"
+    line = re.sub(r"^(the\s+)?(rt\.?\s+)?(hon\.?\s+)", "", line, flags=re.IGNORECASE)
+
+    # Handle additional duplication patterns after initial processing
+    words = line.split()
+    if len(words) >= 3:
+        # Pattern: "name name" or "title name title name"
+        if len(words) == 2 and words[0].lower() == words[1].lower():
+            words = words[:1]  # Take single occurrence
+        elif len(words) == 4:
+            # Check for "title firstname lastname title firstname lastname"
+            title_words = [
+                "sir",
+                "dame",
+                "lord",
+                "lady",
+                "baroness",
+                "baron",
+                "mr",
+                "mrs",
+                "ms",
+                "miss",
+                "dr",
+            ]
+            if (
+                words[0].lower() in title_words
+                and words[2].lower() in title_words
+                and words[1].lower() == words[3].lower()
+            ):
+                words = words[2:4]  # Take second occurrence (usually has better title)
+        elif len(words) == 6:
+            # Check for "firstname lastname title firstname lastname" or vice versa
+            title_words = [
+                "sir",
+                "dame",
+                "lord",
+                "lady",
+                "baroness",
+                "baron",
+                "mr",
+                "mrs",
+                "ms",
+                "miss",
+                "dr",
+            ]
+            if (
+                len(words) >= 4
+                and words[2].lower() in title_words
+                and words[0].lower() == words[3].lower()
+                and words[1].lower() == words[4].lower()
+            ):
+                words = words[2:5]  # Take titled version
+            elif (
+                len(words) >= 6
+                and words[3].lower() in title_words
+                and words[0].lower() == words[4].lower()
+                and words[1].lower() == words[5].lower()
+            ):
+                words = words[3:6]  # Take titled version
+
+    line = " ".join(words)
+
+    # Replace tabs with spaces and normalize whitespace again
+    line = re.sub(r"\t", " ", line)
+    while "  " in line:
+        line = line.replace("  ", " ")
+    line = line.strip()
+
+    # Handle "mp," pattern - extract name before "mp,"
+    line_lower = line.lower()
+    if "mp," in line_lower:
+        # Find the position of "mp," and take everything before it + " MP"
+        mp_pos = line_lower.find("mp,")
+        if mp_pos > 0:
+            line = line[:mp_pos].strip() + " MP"
 
     # Remove party names that appear after the name and title
     # For MPs: stop after 'MP' (everything after 'MP' is likely party info)
@@ -230,6 +462,9 @@ def appg_title_to_slug(title: str) -> str:
         "All-Party Parliamentary Group for",
         "All-Party Parliamentary Group on",
         "All-Party Parliamentary Group",
+        "All Party-Parliamentary Group for",
+        "All Party-Parliamentary Group on",
+        "All Party-Parliamentary Group",
         "APPG for",
         "APPG on",
         "APPG",
@@ -238,6 +473,17 @@ def appg_title_to_slug(title: str) -> str:
     for prefix in prefixes_to_remove:
         if title_clean.startswith(prefix):
             title_clean = title_clean[len(prefix) :].strip()
+            break
+
+    # Remove common suffixes
+    suffixes_to_remove = [
+        "All-Party Parliamentary Group",
+        "APPG",
+    ]
+
+    for suffix in suffixes_to_remove:
+        if title_clean.endswith(suffix):
+            title_clean = title_clean[: -len(suffix)].strip()
             break
 
     # Convert to lowercase and replace spaces/special chars with hyphens
@@ -288,6 +534,9 @@ def find_matching_appg_file(title: str) -> Optional[str]:
                 "all-party parliamentary group for",
                 "all-party parliamentary group on",
                 "all-party parliamentary group",
+                "all party-parliamentary group for",
+                "all party-parliamentary group on",
+                "all party-parliamentary group",
                 "appg for",
                 "appg on",
                 "appg",
@@ -296,6 +545,16 @@ def find_matching_appg_file(title: str) -> Optional[str]:
                     existing_title = existing_title[len(prefix) :].strip()
                 if markdown_title.startswith(prefix):
                     markdown_title = markdown_title[len(prefix) :].strip()
+
+            # Remove common suffixes for comparison
+            for suffix in [
+                "all-party parliamentary group",
+                "appg",
+            ]:
+                if existing_title.endswith(suffix):
+                    existing_title = existing_title[: -len(suffix)].strip()
+                if markdown_title.endswith(suffix):
+                    markdown_title = markdown_title[: -len(suffix)].strip()
 
             # Check for match
             if existing_title == markdown_title:

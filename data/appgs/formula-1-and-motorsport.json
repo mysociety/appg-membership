@@ -38,10 +38,259 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-12",
+    "members": [
+      {
+        "name": "Bayo Alaba",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5097",
+        "twfy_id": "uk.org.publicwhip/person/26422",
+        "removed": false
+      },
+      {
+        "name": "Callum Anderson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5193",
+        "twfy_id": "uk.org.publicwhip/person/26380",
+        "removed": false
+      },
+      {
+        "name": "Lord Bailey Conservative Lords Lords",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Paula Barker",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4828",
+        "twfy_id": "uk.org.publicwhip/person/25819",
+        "removed": false
+      },
+      {
+        "name": "Sarah Bool",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5355",
+        "twfy_id": "uk.org.publicwhip/person/26635",
+        "removed": false
+      },
+      {
+        "name": "Karen Bradley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4110",
+        "twfy_id": "uk.org.publicwhip/person/24725",
+        "removed": false
+      },
+      {
+        "name": "Jess Brown-Fuller",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5335",
+        "twfy_id": "uk.org.publicwhip/person/26372",
+        "removed": false
+      },
+      {
+        "name": "Sarah Champion",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4267",
+        "twfy_id": "uk.org.publicwhip/person/25168",
+        "removed": false
+      },
+      {
+        "name": "Jonathan Davies",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5256",
+        "twfy_id": "uk.org.publicwhip/person/26557",
+        "removed": false
+      },
+      {
+        "name": "Charlie Dewhirst",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5169",
+        "twfy_id": "uk.org.publicwhip/person/26461",
+        "removed": false
+      },
+      {
+        "name": "Will Forster",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5322",
+        "twfy_id": "uk.org.publicwhip/person/26560",
+        "removed": false
+      },
+      {
+        "name": "Louie French",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4932",
+        "twfy_id": "uk.org.publicwhip/person/26055",
+        "removed": false
+      },
+      {
+        "name": "Mark Garnier",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4074",
+        "twfy_id": "uk.org.publicwhip/person/24824",
+        "removed": false
+      },
+      {
+        "name": "Chris Grayling Conservative Lords Lords",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Andrew Griffitth",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Peter Hain Labour Lords Vice-Chair Lords",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Liz Jarvis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5040",
+        "twfy_id": "uk.org.publicwhip/person/26325",
+        "removed": false
+      },
+      {
+        "name": "Adam Jogee",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5168",
+        "twfy_id": "uk.org.publicwhip/person/26541",
+        "removed": false
+      },
+      {
+        "name": "Syed Kamall Conservative Lords Lords",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Chris Kane",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5155",
+        "twfy_id": "uk.org.publicwhip/person/26415",
+        "removed": false
+      },
+      {
+        "name": "Stephen Parkinson Conservative Lords Lords",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Penn Conservative Lords Lords",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Prentis Conservative Lords Lords",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Yasmin Qureshi",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3924",
+        "twfy_id": "uk.org.publicwhip/person/24775",
+        "removed": false
+      },
+      {
+        "name": "Mike Reader",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5316",
+        "twfy_id": "uk.org.publicwhip/person/26630",
+        "removed": false
+      },
+      {
+        "name": "Joshua Reynolds",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5343",
+        "twfy_id": "uk.org.publicwhip/person/26608",
+        "removed": false
+      },
+      {
+        "name": "Dave Robertson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5126",
+        "twfy_id": "uk.org.publicwhip/person/26374",
+        "removed": false
+      },
+      {
+        "name": "Alec Shelbrooke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3997",
+        "twfy_id": "uk.org.publicwhip/person/24893",
+        "removed": false
+      },
+      {
+        "name": "Rebecca Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5301",
+        "twfy_id": "uk.org.publicwhip/person/26512",
+        "removed": false
+      },
+      {
+        "name": "Greg Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4778",
+        "twfy_id": "uk.org.publicwhip/person/25925",
+        "removed": false
+      },
+      {
+        "name": "Lord Strathcarron Conservative Lords Lords",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Greg Smith MP",

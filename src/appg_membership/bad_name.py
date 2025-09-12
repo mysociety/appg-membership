@@ -59,9 +59,20 @@ def calculate_string_distances(name, current_mps, threshold=0.7):
     return sorted(distances)
 
 
-def correct_names(threshold=0.5, max_suggestions=5):
+def correct_names(
+    threshold=0.5,
+    max_suggestions=5,
+    auto_ignore_threshold=0.41,
+    auto_approve_threshold=0.2,
+):
     """
     Interactive terminal app to correct misspelled MP names.
+
+    Args:
+        threshold: Standard threshold for showing suggestions
+        max_suggestions: Maximum number of suggestions to show
+        auto_ignore_threshold: If no matches exist below this threshold, auto-ignore the name
+        auto_approve_threshold: If only one match exists below this threshold, auto-approve it
     """
     console = Console()
 
@@ -80,9 +91,14 @@ def correct_names(threshold=0.5, max_suggestions=5):
 
     corrections = NameCorrectionList.load()
     corrected_count = 0
+    auto_ignored_count = 0
+    auto_approved_count = 0
 
     console.print(f"[bold]Found {len(bad_names)} names to correct[/bold]")
     console.print(f"Using threshold {threshold} (lower means stricter matching)")
+    console.print(
+        f"Auto-ignore threshold: {auto_ignore_threshold}, Auto-approve threshold: {auto_approve_threshold}"
+    )
 
     for bad_name in bad_names:
         original_name = bad_name.original
@@ -95,19 +111,58 @@ def correct_names(threshold=0.5, max_suggestions=5):
             original_name, current_mps, threshold=1.0
         )  # Allow high threshold for calculation
 
+        # Check for auto-ignore: no matches within generous threshold
+        generous_matches = [
+            (d, name) for d, name in distances if d <= auto_ignore_threshold
+        ]
+        if not generous_matches:
+            # Auto-ignore this name
+            for item in corrections.root:
+                if item.original == original_name:
+                    item.canon = "IGNORE"
+                    break
+            console.print(
+                f"[dim]Auto-ignored: no matches within generous threshold ({auto_ignore_threshold})[/dim]"
+            )
+            corrections.save()
+            auto_ignored_count += 1
+            continue
+
+        # Check for auto-approve: exactly one match within strict threshold
+        strict_matches = [
+            (d, name) for d, name in distances if d <= auto_approve_threshold
+        ]
+        if len(strict_matches) == 1:
+            # Auto-approve this single good match
+            distance, selected_mp = strict_matches[0]
+            for item in corrections.root:
+                if item.original == original_name:
+                    item.canon = selected_mp
+                    break
+            console.print(
+                f"[green]Auto-approved: {selected_mp} (distance: {distance:.3f})[/green]"
+            )
+            corrections.save()
+            corrected_count += 1
+            auto_approved_count += 1
+            continue
+
         # Filter by user-specified threshold and limit suggestions
         filtered_distances = [(d, name) for d, name in distances if d <= threshold]
         top_suggestions = heapq.nsmallest(max_suggestions, filtered_distances)
 
         if not top_suggestions:
-            console.print("[red]No matches found within threshold[/red]")
-            action = Prompt.ask(
-                "Options",
-                choices=["s", "m", "i", "k", "q"],
-                default="s",
-                show_choices=True,
-                show_default=True,
+            # No matches within the standard threshold - auto-ignore
+            for item in corrections.root:
+                if item.original == original_name:
+                    item.canon = "IGNORE"
+                    break
+            console.print(
+                f"[dim]Auto-ignored: no matches within standard threshold ({threshold})[/dim]"
             )
+            corrections.save()
+            auto_ignored_count += 1
+            continue
         else:
             # Show suggestions in a table
             table = Table(show_header=True, header_style="bold")
@@ -193,7 +248,9 @@ def correct_names(threshold=0.5, max_suggestions=5):
         corrections.save()
 
     console.print(
-        f"\n[bold green]Completed! Corrected {corrected_count} names.[/bold green]"
+        f"\n[bold green]Completed![/bold green] "
+        f"Corrected {corrected_count} names "
+        f"(including {auto_approved_count} auto-approved, {auto_ignored_count} auto-ignored)."
     )
 
 

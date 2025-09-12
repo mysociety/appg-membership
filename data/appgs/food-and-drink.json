@@ -38,10 +38,259 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-12",
+    "members": [
+      {
+        "name": "Mike Reader MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5316",
+        "twfy_id": "uk.org.publicwhip/person/26630",
+        "removed": false
+      },
+      {
+        "name": "Amanda Hack MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5149",
+        "twfy_id": "uk.org.publicwhip/person/26449",
+        "removed": false
+      },
+      {
+        "name": "Baroness Blower",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4724",
+        "twfy_id": "uk.org.publicwhip/person/25777",
+        "removed": false
+      },
+      {
+        "name": "Baroness McIntosh (Secretary)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sharon Hodgson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
+      },
+      {
+        "name": "Greg Smith MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4778",
+        "twfy_id": "uk.org.publicwhip/person/25925",
+        "removed": false
+      },
+      {
+        "name": "Charlotte Nichols MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4799",
+        "twfy_id": "uk.org.publicwhip/person/25885",
+        "removed": false
+      },
+      {
+        "name": "Chris McDonald MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5116",
+        "twfy_id": "uk.org.publicwhip/person/26367",
+        "removed": false
+      },
+      {
+        "name": "Danny Beales MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5339",
+        "twfy_id": "uk.org.publicwhip/person/26619",
+        "removed": false
+      },
+      {
+        "name": "James Asser MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5211",
+        "twfy_id": "uk.org.publicwhip/person/26594",
+        "removed": false
+      },
+      {
+        "name": "David Pinto-Duschinsky MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5360",
+        "twfy_id": "uk.org.publicwhip/person/26632",
+        "removed": false
+      },
+      {
+        "name": "Rosie Wrighting MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5331",
+        "twfy_id": "uk.org.publicwhip/person/26615",
+        "removed": false
+      },
+      {
+        "name": "Andrew Pakes MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5243",
+        "twfy_id": "uk.org.publicwhip/person/26601",
+        "removed": false
+      },
+      {
+        "name": "Baggy Shanker MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5176",
+        "twfy_id": "uk.org.publicwhip/person/26489",
+        "removed": false
+      },
+      {
+        "name": "Sarah Dyke MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4995",
+        "twfy_id": "uk.org.publicwhip/person/26270",
+        "removed": false
+      },
+      {
+        "name": "Helena Dollimore MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5192",
+        "twfy_id": "uk.org.publicwhip/person/26507",
+        "removed": false
+      },
+      {
+        "name": "Andrew Ranger MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5046",
+        "twfy_id": "uk.org.publicwhip/person/26336",
+        "removed": false
+      },
+      {
+        "name": "Ben Goldsbrough MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Nav Mishra MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Aphra Brandreth MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5241",
+        "twfy_id": "uk.org.publicwhip/person/26553",
+        "removed": false
+      },
+      {
+        "name": "Pete Wishart MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1440",
+        "twfy_id": "uk.org.publicwhip/person/11333",
+        "removed": false
+      },
+      {
+        "name": "Chris Kane MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5155",
+        "twfy_id": "uk.org.publicwhip/person/26415",
+        "removed": false
+      },
+      {
+        "name": "Pamela Nash MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3909",
+        "twfy_id": "uk.org.publicwhip/person/24737",
+        "removed": false
+      },
+      {
+        "name": "Dave Doogan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4736",
+        "twfy_id": "uk.org.publicwhip/person/25796",
+        "removed": false
+      },
+      {
+        "name": "Llinos Medi MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5085",
+        "twfy_id": "uk.org.publicwhip/person/26454",
+        "removed": false
+      },
+      {
+        "name": "Joshua Newbury MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Joshua Reynolds MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5343",
+        "twfy_id": "uk.org.publicwhip/person/26608",
+        "removed": false
+      },
+      {
+        "name": "Dave Robertson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5126",
+        "twfy_id": "uk.org.publicwhip/person/26374",
+        "removed": false
+      },
+      {
+        "name": "Linsey Farnsworth MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5107",
+        "twfy_id": "uk.org.publicwhip/person/26356",
+        "removed": false
+      },
+      {
+        "name": "Julie Minns MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5094",
+        "twfy_id": "uk.org.publicwhip/person/26403",
+        "removed": false
+      },
+      {
+        "name": "Jacob Collier MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5077",
+        "twfy_id": "uk.org.publicwhip/person/26382",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Mike Reader MP",

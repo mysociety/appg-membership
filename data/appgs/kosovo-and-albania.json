@@ -38,10 +38,275 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-12",
+    "members": [
+      {
+        "name": "Martin Vickers",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3957",
+        "twfy_id": "uk.org.publicwhip/person/24814",
+        "removed": false
+      },
+      {
+        "name": "Gill Furniss",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4571",
+        "twfy_id": "uk.org.publicwhip/person/25489",
+        "removed": false
+      },
+      {
+        "name": "Wendy Morton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4358",
+        "twfy_id": "uk.org.publicwhip/person/25342",
+        "removed": false
+      },
+      {
+        "name": "Richard Foord",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4942",
+        "twfy_id": "uk.org.publicwhip/person/26086",
+        "removed": false
+      },
+      {
+        "name": "Alex Sobel",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4658",
+        "twfy_id": "uk.org.publicwhip/person/25680",
+        "removed": false
+      },
+      {
+        "name": "Lord Bowness",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3496",
+        "twfy_id": "uk.org.publicwhip/person/12986",
+        "removed": false
+      },
+      {
+        "name": "Navendu Mishra",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4811",
+        "twfy_id": "uk.org.publicwhip/person/25836",
+        "removed": false
+      },
+      {
+        "name": "Tanmanjeet Dhesi",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Luke Pollard",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4682",
+        "twfy_id": "uk.org.publicwhip/person/25690",
+        "removed": false
+      },
+      {
+        "name": "Sir Roger Gale",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "87",
+        "twfy_id": "uk.org.publicwhip/person/10217",
+        "removed": false
+      },
+      {
+        "name": "Andrew Rosindell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1447",
+        "twfy_id": "uk.org.publicwhip/person/11199",
+        "removed": false
+      },
+      {
+        "name": "Baroness Liz Barker",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jim Shannon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4131",
+        "twfy_id": "uk.org.publicwhip/person/13864",
+        "removed": false
+      },
+      {
+        "name": "Lord Lancaster of Kimbolton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lady Anelay",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Harriet Baldwin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4107",
+        "twfy_id": "uk.org.publicwhip/person/24785",
+        "removed": false
+      },
+      {
+        "name": "Alicia Kearns",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4805",
+        "twfy_id": "uk.org.publicwhip/person/25906",
+        "removed": false
+      },
+      {
+        "name": "Baroness Blake of Leeds",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "John Whittingdale",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "39",
+        "twfy_id": "uk.org.publicwhip/person/10632",
+        "removed": false
+      },
+      {
+        "name": "Lord Ranger",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4729",
+        "twfy_id": "uk.org.publicwhip/person/25788",
+        "removed": false
+      },
+      {
+        "name": "Karl Turner",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4030",
+        "twfy_id": "uk.org.publicwhip/person/24767",
+        "removed": false
+      },
+      {
+        "name": "Charlie Dewhirst",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5169",
+        "twfy_id": "uk.org.publicwhip/person/26461",
+        "removed": false
+      },
+      {
+        "name": "Lord Syed Kamall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Gloria Hooper",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "David Taylor",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5348",
+        "twfy_id": "uk.org.publicwhip/person/26576",
+        "removed": false
+      },
+      {
+        "name": "Lord Peter Bowness",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Randall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "209",
+        "twfy_id": "uk.org.publicwhip/person/10660",
+        "removed": false
+      },
+      {
+        "name": "Paul Foster",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5074",
+        "twfy_id": "uk.org.publicwhip/person/26487",
+        "removed": false
+      },
+      {
+        "name": "Lord Lancaster of Kimbolton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "James Naish",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5047",
+        "twfy_id": "uk.org.publicwhip/person/26329",
+        "removed": false
+      },
+      {
+        "name": "Dave Robertson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5126",
+        "twfy_id": "uk.org.publicwhip/person/26374",
+        "removed": false
+      },
+      {
+        "name": "Baroness Bonham-Carter",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
+        "removed": false
+      },
+      {
+        "name": "Lord Cromwell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2594",
+        "twfy_id": "uk.org.publicwhip/person/25228",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Martin Vickers MP",

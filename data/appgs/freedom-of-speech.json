@@ -38,10 +38,291 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-12",
+    "members": [
+      {
+        "name": "Richard Holden",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4813",
+        "twfy_id": "uk.org.publicwhip/person/25893",
+        "removed": false
+      },
+      {
+        "name": "Graham Stringer",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "449",
+        "twfy_id": "uk.org.publicwhip/person/10576",
+        "removed": false
+      },
+      {
+        "name": "Claire, Baroness Fox of Buckley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Toby, Lord Young of Acton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Earl of Leicester",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Foster DBE",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Jenkin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4229",
+        "twfy_id": "uk.org.publicwhip/person/25064",
+        "removed": false
+      },
+      {
+        "name": "Lord Skidelsky FBA",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Strathcarron",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4937",
+        "twfy_id": "uk.org.publicwhip/person/26060",
+        "removed": false
+      },
+      {
+        "name": "Lord Jackson of Peterborough",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord MacKinley of Richborough",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sir John Hayes CBE MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "350",
+        "twfy_id": "uk.org.publicwhip/person/10265",
+        "removed": false
+      },
+      {
+        "name": "Sir Julian Lewis MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "54",
+        "twfy_id": "uk.org.publicwhip/person/10358",
+        "removed": false
+      },
+      {
+        "name": "Sir Alec Shelbrooke KBE MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Laura Trott MBE MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sir John Whittingdale OBE MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "39",
+        "twfy_id": "uk.org.publicwhip/person/10632",
+        "removed": false
+      },
+      {
+        "name": "Sir Bernard Jenkin MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "40",
+        "twfy_id": "uk.org.publicwhip/person/10312",
+        "removed": false
+      },
+      {
+        "name": "Tom Tugendhat MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4462",
+        "twfy_id": "uk.org.publicwhip/person/25374",
+        "removed": false
+      },
+      {
+        "name": "Tonia Antoniazzi MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4623",
+        "twfy_id": "uk.org.publicwhip/person/25634",
+        "removed": false
+      },
+      {
+        "name": "Gareth Bacon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4798",
+        "twfy_id": "uk.org.publicwhip/person/25750",
+        "removed": false
+      },
+      {
+        "name": "Peter Bedford MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5330",
+        "twfy_id": "uk.org.publicwhip/person/26625",
+        "removed": false
+      },
+      {
+        "name": "Dan Carden MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4651",
+        "twfy_id": "uk.org.publicwhip/person/25642",
+        "removed": false
+      },
+      {
+        "name": "Lewis Cocking MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5050",
+        "twfy_id": "uk.org.publicwhip/person/26316",
+        "removed": false
+      },
+      {
+        "name": "Charlie Dewhirst MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5169",
+        "twfy_id": "uk.org.publicwhip/person/26461",
+        "removed": false
+      },
+      {
+        "name": "Jerome Mayhew MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4739",
+        "twfy_id": "uk.org.publicwhip/person/25904",
+        "removed": false
+      },
+      {
+        "name": "Gagan Mohindra MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4804",
+        "twfy_id": "uk.org.publicwhip/person/25920",
+        "removed": false
+      },
+      {
+        "name": "Joy Morrissey MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4759",
+        "twfy_id": "uk.org.publicwhip/person/25878",
+        "removed": false
+      },
+      {
+        "name": "Shivani Raja MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5068",
+        "twfy_id": "uk.org.publicwhip/person/26363",
+        "removed": false
+      },
+      {
+        "name": "Jack Rankin MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5340",
+        "twfy_id": "uk.org.publicwhip/person/26622",
+        "removed": false
+      },
+      {
+        "name": "David Reed MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5347",
+        "twfy_id": "uk.org.publicwhip/person/26628",
+        "removed": false
+      },
+      {
+        "name": "Andrew Rosindell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1447",
+        "twfy_id": "uk.org.publicwhip/person/11199",
+        "removed": false
+      },
+      {
+        "name": "Rebecca Smith MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5301",
+        "twfy_id": "uk.org.publicwhip/person/26512",
+        "removed": false
+      },
+      {
+        "name": "Greg Stafford MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5351",
+        "twfy_id": "uk.org.publicwhip/person/26626",
+        "removed": false
+      },
+      {
+        "name": "Alex Burghart MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4613",
+        "twfy_id": "uk.org.publicwhip/person/25659",
+        "removed": false
+      },
+      {
+        "name": "Luke Myer MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5147",
+        "twfy_id": "uk.org.publicwhip/person/26411",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Mr Richard Holden MP",
