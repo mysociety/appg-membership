@@ -305,8 +305,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Government of Jersey and Government of Guernsey",
+      "Description": "Visit to Islands by Chair and staff member From : 24/06/2025 To  : 27/06/2025",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "06/08/2025",
+      "Registered": "05/08/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/channel-islands.htm",
   "categories": [

@@ -331,8 +331,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Front Foot Communications Ltd",
+      "Description": "Front Foot Communications Ltd is paid by the following to act as the group's secretariat: British Society of Plant Breeders, National Farmers Union, National Institute of Agricultural Botany, CropLife UK, Agricultural Industries Confederation, Agricultural Biotechnology Council, UK Flour Millers, Maltsters Association of Great Britain From : 11/11/2024 To  : 10/11/2025",
+      "Value £s In bands of £1,500": "22,501-24,000",
+      "Received": "11/11/2024",
+      "Registered": "12/11/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/science-and-technology-in-agriculture.htm",
   "categories": [

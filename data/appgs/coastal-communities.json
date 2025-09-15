@@ -371,8 +371,33 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Coastal Partnership Network",
+      "Description": "Joint Secretariat From : 24/10/2024 To  : 23/10/2025",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "24/10/2024",
+      "Registered": "21/11/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Coastal Communities Alliance",
+      "Description": "Joint Secretariat From : 24/10/2024 To  : 23/10/2025",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "24/10/2024",
+      "Registered": "21/11/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "LGA Coastal SIG",
+      "Description": "Joint Secretariat From : 24/10/2024 To  : 23/10/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "24/10/2024",
+      "Registered": "21/11/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/coastal-communities.htm",
   "categories": [

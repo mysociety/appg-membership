@@ -61,8 +61,33 @@
     "reporting_year": "04 Sep to 03 Sep",
     "next_reporting_deadline": "2026-01-04"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Society of Motor Manufacturers and Traders",
+      "Description": "Joint Secretariat From : 04/09/2024 To  : 03/09/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "04/09/2024",
+      "Registered": "18/09/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Motorsport Industry Association",
+      "Description": "Joint Secretariat From : 04/09/2024 To  : 03/09/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "04/09/2024",
+      "Registered": "18/09/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "RAC Foundation",
+      "Description": "Joint Secretariat From : 04/09/2024 To  : 03/09/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "04/09/2024",
+      "Registered": "18/09/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/motor.htm",
   "categories": []

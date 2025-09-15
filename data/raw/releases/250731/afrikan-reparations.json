@@ -61,8 +61,25 @@
     "reporting_year": "29 Jul to 28 Jul",
     "next_reporting_deadline": "2025-11-29"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Rockefeller Philanthropy",
+      "Description": "Conference",
+      "Value £s In bands of £1,500": "15,001-16,500",
+      "Received": "27/10/2024",
+      "Registered": "19/11/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Friends House",
+      "Description": "Conference",
+      "Value £s In bands of £1,500": "10,501-12,000",
+      "Received": "27/10/2024",
+      "Registered": "19/11/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/afrikan-reparations.htm",
   "categories": []

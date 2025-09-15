@@ -273,8 +273,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Oxfordshire Local Nature Partnership",
+      "Description": "Seretariat From : 12/02/2025 To  : 11/02/2026",
+      "Value £s In bands of £1,500": "13,501-15,000",
+      "Received": "12/02/2025",
+      "Registered": "13/02/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/local-nature-recovery.htm",
   "categories": [

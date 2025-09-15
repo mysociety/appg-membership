@@ -61,8 +61,17 @@
     "reporting_year": "12 Sep to 11 Sep",
     "next_reporting_deadline": "2026-01-12"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Royal African Society",
+      "Description": "Secretariat From : 12/09/2024 To  : 11/09/2025",
+      "Value £s In bands of £1,500": "37,501-39,000",
+      "Received": "12/09/2024",
+      "Registered": "19/09/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/africa.htm",
   "categories": []

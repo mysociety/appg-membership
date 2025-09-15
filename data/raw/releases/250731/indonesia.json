@@ -61,8 +61,17 @@
     "reporting_year": "22 Apr to 21 Apr",
     "next_reporting_deadline": "2026-08-22"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Secretariat",
+      "Description": "Equatorise is paid by the Indonesian Chamber of Commerce and Industry to act as the group's secretariat. From : 22/04/2025 To  : 23/04/0206",
+      "Value £s In bands of £1,500": "34,501-36,000",
+      "Received": "22/04/2025",
+      "Registered": "14/05/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/indonesia.htm",
   "categories": []

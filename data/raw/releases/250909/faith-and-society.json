@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "FaithAction",
+      "Description": "Secretariat From : 26/03/2025 To  : 25/03/2026",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "26/03/2025",
+      "Registered": "28/03/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/faith-and-society.htm",
   "categories": []

@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Independent British Vape Trade Association",
+      "Description": "The Independent British Vape Trade Association acts as the group's secretariat and pays CalComms to assist them in that role. From : 02/09/2024 To  : 01/09/2025",
+      "Value £s In bands of £1,500": "46,501-48,000",
+      "Received": "02/09/2024",
+      "Registered": "03/02/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/responsible-vaping.htm",
   "categories": []

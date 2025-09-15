@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "The Western Gateway",
+      "Description": "The Western Gateway acts as the group's secretariat and pays The Public Affairs Company to assist them with this role From : 07/01/2025 To  : 06/01/2026",
+      "Value £s In bands of £1,500": "15,001-16,500",
+      "Received": "07/01/2025",
+      "Registered": "31/12/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/western-gateway.htm",
   "categories": [

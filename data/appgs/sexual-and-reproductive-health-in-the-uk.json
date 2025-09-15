@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "College of Sexual and Reproductive Healthcare (formerly the Faculty of Sexual and Reproductive Healthcare)",
+      "Description": "College of Sexual and Reproductive Healthcare is funded by the following to act as the group's secretariat: Royal College of Obstetricians and Gynaecologists, MSI Reproductive Choices, Bayer Healthcare, and Organon Pharma (UK) Limited. From : 29/10/2024 To  : 28/10/2025",
+      "Value £s In bands of £1,500": "55,501-57,000",
+      "Received": "29/10/2024",
+      "Registered": "19/08/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/sexual-and-reproductive-health-in-the-uk.htm",
   "categories": [

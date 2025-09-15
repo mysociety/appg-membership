@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Construction Industry Council",
+      "Description": "Secretariat From : 07/05/2025 To  : 06/05/2026",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "07/05/2025",
+      "Registered": "27/05/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/built-environment.htm",
   "categories": []

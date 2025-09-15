@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "The World Wellbeing Movement",
+      "Description": "Secretariat From : 15/07/2025 To  : 14/07/2025",
+      "Value £s In bands of £1,500": "18,001-19,500",
+      "Received": "15/07/2025",
+      "Registered": "29/07/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/wellbeing-economics.htm",
   "categories": [

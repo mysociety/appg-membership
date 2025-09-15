@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Policy Connect",
+      "Description": "Policy Connect is funded by the following to act as the group's secretariat: AblityNet, Ace Centre, Aico, Bournemouth University, Brain in Hand, CEDIA: The Association for Smart Home Professionals, Dolphin Computer Access, Equality Solutions Group Limited, Habitatlearn, Hereward College, I Diversity Consulting, Jisc, Karten Network, Liberator, Manchester Metropolitan University, Matchware, Microsoft Ltd, No Isolation, NRS Healthcare, Portland Charity, TextHelp, Thriiver, Tobii Dinavox, University of Dundee From : 31/10/2024 To  : 30/10/2025",
+      "Value £s In bands of £1,500": "111,001-112,500",
+      "Received": "31/10/2024",
+      "Registered": "03/02/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/assistive-and-accessible-technology.htm",
   "categories": []

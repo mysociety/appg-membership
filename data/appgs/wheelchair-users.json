@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Whizz Kidz",
+      "Description": "Secretariat From : 20/05/2025 To  : 19/05/2026",
+      "Value £s In bands of £1,500": "13,501-15,000",
+      "Received": "20/05/2025",
+      "Registered": "12/06/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/wheelchair-users.htm",
   "categories": [

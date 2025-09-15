@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Healthcomms Consulting Ltd",
+      "Description": "Healthcomms Consulting Ltd paid by Slimming World, Eli Lilly, and Numan to act as the group's secretariat. From : 09/10/2024 To  : 08/10/2025",
+      "Value £s In bands of £1,500": "55,501-57,000",
+      "Received": "09/10/2024",
+      "Registered": "19/03/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/obesity.htm",
   "categories": []

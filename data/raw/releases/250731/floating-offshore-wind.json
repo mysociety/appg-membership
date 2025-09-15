@@ -61,8 +61,17 @@
     "reporting_year": "20 Nov to 19 Nov",
     "next_reporting_deadline": "2026-03-20"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "RenewableUK",
+      "Description": "Secretariat From : 20/11/2024 To  : 19/11/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "20/11/2024",
+      "Registered": "18/12/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/floating-offshore-wind.htm",
   "categories": []

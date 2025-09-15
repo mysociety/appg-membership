@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Connect Public Affairs",
+      "Description": "Connect Public Affairs is paid by the following to act as the group’s secretariat:  BAE Systems, London South Bank University, Warwick Manufacturing Group at Warwick University,  University of Salford, Co-op, Babcock International, Engineering UK, Multiverse, Go-Ahead Group, Manchester Metropolitan University, Ada - National College for Digital Skills From : 29/07/2024 To  : 28/07/2025",
+      "Value £s In bands of £1,500": "54,001-55,500",
+      "Received": "29/07/2024",
+      "Registered": "30/07/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/apprenticeships.htm",
   "categories": []

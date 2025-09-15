@@ -419,8 +419,25 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Authors’ Licensing and Collecting Society",
+      "Description": "Secretariat From : 15/10/2024 To  : 14/10/2025",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "15/10/2024",
+      "Registered": "06/11/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Authors' Licensing and Collecting Society",
+      "Description": "Reception",
+      "Value £s In bands of £1,500": "7,501-9,000",
+      "Received": "03/12/2024",
+      "Registered": "11/12/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/writers.htm",
   "categories": [

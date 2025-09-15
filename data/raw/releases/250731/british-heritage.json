@@ -61,8 +61,17 @@
     "reporting_year": "30 Jul to 29 Jul",
     "next_reporting_deadline": "2025-11-30"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Royal Society of St George",
+      "Description": "Reception",
+      "Value £s In bands of £1,500": "7,501-9,000",
+      "Received": "23/04/2025",
+      "Registered": "21/05/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/british-heritage.htm",
   "categories": []

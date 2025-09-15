@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Whitehouse Communications Ltd",
+      "Description": "Whitehouse Communications Ltd is funded by the following to act as the group's secretariat: Global, NewsNow, News UK, ScreenSkills, Bauer Media, Pact, All3Media, Small Green Shoots and Taylor-Wessing From : 10/09/2024 To  : 09/09/2025",
+      "Value £s In bands of £1,500": "28,501-30,000",
+      "Received": "10/09/2024",
+      "Registered": "10/09/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/media.htm",
   "categories": []

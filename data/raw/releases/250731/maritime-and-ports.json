@@ -61,8 +61,17 @@
     "reporting_year": "01 Apr to 31 Mar",
     "next_reporting_deadline": "2026-08-01"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Maritime UK",
+      "Description": "Secretariat From : 01/04/2025 To  : 31/03/2026",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "01/04/2025",
+      "Registered": "29/04/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/maritime-and-ports.htm",
   "categories": []

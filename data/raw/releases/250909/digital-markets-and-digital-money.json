@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Portdex Ltd",
+      "Description": "Portdex Ltd is paid by the following to act as the group's secretariat: paywith.glass (on behalf of the Digital Financial Markets Consortium), De La Rue plc From : 21/10/2024 To  : 20/10/2025",
+      "Value £s In bands of £1,500": "16,501-18,000",
+      "Received": "21/10/2024",
+      "Registered": "03/11/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/digital-markets-and-digital-money.htm",
   "categories": []

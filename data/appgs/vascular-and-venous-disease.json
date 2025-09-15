@@ -91,8 +91,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Healthcomms Consulting Ltd (part of PLMR group)",
+      "Description": "Healthcomms Consulting Ltd (part of the PLMR Group) is paid by the following to act as the group’s secretariat: Becton Dickinson, Boston Scientific, Inari Medical, Medtronic, and VeinCentre From : 23/10/2024 To  : 22/10/2025",
+      "Value £s In bands of £1,500": "64,501-66,000",
+      "Received": "23/10/2024",
+      "Registered": "28/10/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/vascular-and-venous-disease.htm",
   "categories": [

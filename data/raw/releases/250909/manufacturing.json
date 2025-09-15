@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Policy Connect",
+      "Description": "Policy Connect is funded by the following to act as the group's secretariat: Autodesk, Babcock, British Aerosol Manufacturers Association, Contracts Engineering, Confederation of Paper Industries, ERA Foundation, GAMBICA, High Value Manufacturing Catapult, Institution of Engineering and Technology, Made in Britain, Make UK, MTA, Nexperia, Optima UK, Tata Steel, Warwick Manufacturing Group From : 31/10/2024 To  : 30/10/2025",
+      "Value £s In bands of £1,500": "48,001-49,500",
+      "Received": "31/10/2024",
+      "Registered": "03/02/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/manufacturing.htm",
   "categories": []

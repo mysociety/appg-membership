@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Davies Tanner",
+      "Description": "Davies Tanner is partly funded by The Business of Events to act as the group's secretariat. From : 17/12/2024 To  : 16/12/2025",
+      "Value £s In bands of £1,500": "24,001-25,500",
+      "Received": "17/12/2024",
+      "Registered": "22/07/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/events.htm",
   "categories": []

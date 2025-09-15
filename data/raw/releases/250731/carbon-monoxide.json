@@ -61,8 +61,17 @@
     "reporting_year": "31 Oct to 30 Oct",
     "next_reporting_deadline": "2026-02-28"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Policy Connect",
+      "Description": "Policy Connect is funded by the following to act as the group's secretariat: Cadent Gas, Capita pie, Northern Gas Networks, SGN, The Council of Gas Detection and Environmental Monitoring, The Institution of Gas Engineers and Managers, Wales and West Utilities From : 31/10/2024 To  : 30/10/2025",
+      "Value £s In bands of £1,500": "127,501-129,000",
+      "Received": "31/10/2024",
+      "Registered": "01/11/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/carbon-monoxide.htm",
   "categories": []

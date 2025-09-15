@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Nurtureuk",
+      "Description": "Secretariat From : 05/11/2024 To  : 04/11/2025",
+      "Value £s In bands of £1,500": "24,001-25,500",
+      "Received": "05/11/2024",
+      "Registered": "29/11/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/inclusion-and-nurture-in-education.htm",
   "categories": [

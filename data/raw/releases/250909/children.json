@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "National Children's Bureau",
+      "Description": "Secretariat From : 21/10/2024 To  : 20/10/2025",
+      "Value £s In bands of £1,500": "13,501-15,000",
+      "Received": "21/10/2024",
+      "Registered": "19/11/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/children.htm",
   "categories": []

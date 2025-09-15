@@ -61,8 +61,17 @@
     "reporting_year": "21 Jan to 20 Jan",
     "next_reporting_deadline": "2026-05-21"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Night Time Industries Association",
+      "Description": "Secretariat From : 21/01/2025 To  : 20/01/2026",
+      "Value £s In bands of £1,500": "6,001-7,500",
+      "Received": "21/01/2025",
+      "Registered": "17/02/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/night-time-economy.htm",
   "categories": []

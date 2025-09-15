@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "DGA Group",
+      "Description": "DGA Group is paid by Derek Webb Campaign for Fairer Gambling to act as the APPG's secretariat From : 29/10/2024 To  : 28/10/2025",
+      "Value £s In bands of £1,500": "15,001-16,500",
+      "Received": "29/10/2024",
+      "Registered": "06/11/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/gambling-reform.htm",
   "categories": [

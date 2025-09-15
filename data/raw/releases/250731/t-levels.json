@@ -61,8 +61,17 @@
     "reporting_year": "29 Oct to 28 Oct",
     "next_reporting_deadline": "2026-02-28"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Connect Public Affairs",
+      "Description": "Connect Public Affairs is paid by the following to act as the group's secretariat: Gatsby Charitable Foundation and Engineering UK From : 29/10/2024 To  : 28/10/2025",
+      "Value £s In bands of £1,500": "24,001-25,500",
+      "Received": "29/10/2024",
+      "Registered": "19/11/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/t-levels.htm",
   "categories": []

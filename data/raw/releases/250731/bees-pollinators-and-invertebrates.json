@@ -61,8 +61,17 @@
     "reporting_year": "24 Jun to 23 Jun",
     "next_reporting_deadline": "2026-10-24"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Royal Entomological Society",
+      "Description": "Secretariat From : 24/06/2025 To  : 23/06/2026",
+      "Value £s In bands of £1,500": "15,001-16,500",
+      "Received": "24/06/2025",
+      "Registered": "16/07/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/bees-pollinators-and-invertebrates.htm",
   "categories": []

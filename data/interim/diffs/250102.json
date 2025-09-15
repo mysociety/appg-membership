@@ -477,44 +477,9 @@
   ],
   "updated_appgs": [
     {
-      "slug": "renewable-and-sustainable-energy",
-      "title": "All-Party Parliamentary Group for Renewable and Sustainable Energy",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/renewable-and-sustainable-energy.htm"
-    },
-    {
-      "slug": "digital-regulation-and-responsibility",
-      "title": "All-Party Parliamentary Group on Digital Regulation and Responsibility",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/digital-regulation-and-responsibility.htm"
-    },
-    {
-      "slug": "food-banks",
-      "title": "All-Party Parliamentary Group on Ending the Need for Food Banks",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/food-banks.htm"
-    },
-    {
-      "slug": "classics",
-      "title": "All-Party Parliamentary Group for Classics",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/classics.htm"
-    },
-    {
-      "slug": "cyber-security-and-business-resilience",
-      "title": "All-Party Parliamentary Group on Cyber Security and Business Resilience",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/cyber-security-and-business-resilience.htm"
-    },
-    {
-      "slug": "internet-communications-and-technology",
-      "title": "Parliamentary Internet, Communications and Technology Forum All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/internet-communications-and-technology.htm"
-    },
-    {
-      "slug": "italy",
-      "title": "All-Party Parliamentary Group on Italy",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/italy.htm"
-    },
-    {
-      "slug": "semiconductors",
-      "title": "All-Party Parliamentary Group for Semiconductors",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/semiconductors.htm"
+      "slug": "life-sciences",
+      "title": "All-Party Parliamentary Group for Life Sciences",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/life-sciences.htm"
     },
     {
       "slug": "cycling-and-walking",
@@ -522,9 +487,9 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/cycling-and-walking.htm"
     },
     {
-      "slug": "british-sikhs",
-      "title": "All-Party Parliamentary Group on British Sikhs",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/british-sikhs.htm"
+      "slug": "first-do-no-harm",
+      "title": "All-Party Parliamentary Group First Do No Harm",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/first-do-no-harm.htm"
     },
     {
       "slug": "environment",
@@ -532,19 +497,14 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/environment.htm"
     },
     {
-      "slug": "first-do-no-harm",
-      "title": "All-Party Parliamentary Group First Do No Harm",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/first-do-no-harm.htm"
+      "slug": "pharmacy",
+      "title": "All-Party Parliamentary Group on Pharmacy",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/pharmacy.htm"
     },
     {
-      "slug": "life-sciences",
-      "title": "All-Party Parliamentary Group for Life Sciences",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/life-sciences.htm"
-    },
-    {
-      "slug": "cricket",
-      "title": "All-Party Parliamentary Group for Cricket",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/cricket.htm"
+      "slug": "food-banks",
+      "title": "All-Party Parliamentary Group on Ending the Need for Food Banks",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/food-banks.htm"
     },
     {
       "slug": "africa",
@@ -552,9 +512,14 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/africa.htm"
     },
     {
-      "slug": "get-refusal",
-      "title": "All-Party Parliamentary Group on Get Refusal",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/get-refusal.htm"
+      "slug": "energy-studies",
+      "title": "All-Party Parliamentary Group for Energy Studies",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/energy-studies.htm"
+    },
+    {
+      "slug": "suicide-and-self-harm-prevention",
+      "title": "All-Party Parliamentary Group on Suicide and Self-Harm Prevention",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/suicide-and-self-harm-prevention.htm"
     },
     {
       "slug": "healthy-homes-and-buildings",
@@ -567,591 +532,57 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/tennis.htm"
     },
     {
-      "slug": "suicide-and-self-harm-prevention",
-      "title": "All-Party Parliamentary Group on Suicide and Self-Harm Prevention",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/suicide-and-self-harm-prevention.htm"
-    },
-    {
-      "slug": "energy-studies",
-      "title": "All-Party Parliamentary Group for Energy Studies",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/energy-studies.htm"
-    },
-    {
-      "slug": "pharmacy",
-      "title": "All-Party Parliamentary Group on Pharmacy",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/pharmacy.htm"
-    }
-  ],
-  "differences": [
-    {
-      "slug": "renewable-and-sustainable-energy",
-      "name": "All-Party Parliamentary Group for Renewable and Sustainable Energy",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Lord Callanan",
-          "new_value": "Wera Hobhouse"
-        },
-        {
-          "key": "officers__3__removed",
-          "old_value": "False",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__mnis_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__1__role",
-          "old_value": "Co-Chair",
-          "new_value": "Vice Chair"
-        },
-        {
-          "key": "officers__1__name",
-          "old_value": "Andrew Pakes",
-          "new_value": "Lord Callanan"
-        },
-        {
-          "key": "officers__1__party",
-          "old_value": "Labour (Co-op)",
-          "new_value": "Conservative"
-        },
-        {
-          "key": "officers__3__role",
-          "old_value": "Vice Chair",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "Liberal Democrat",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__twfy_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Wera Hobhouse",
-          "new_value": ""
-        },
-        {
-          "key": "officers__2__party",
-          "old_value": "Conservative",
-          "new_value": "Liberal Democrat"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/renewable-and-sustainable-energy.htm"
-    },
-    {
-      "slug": "digital-regulation-and-responsibility",
-      "name": "All-Party Parliamentary Group on Digital Regulation and Responsibility",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Sir Jeremy Wright",
-          "new_value": "Lord Clement-Jones"
-        },
-        {
-          "key": "officers__3__removed",
-          "old_value": "False",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__mnis_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__0__party",
-          "old_value": "Labour",
-          "new_value": "Crossbench"
-        },
-        {
-          "key": "officers__1__role",
-          "old_value": "Deputy Chair",
-          "new_value": "Vice Chair"
-        },
-        {
-          "key": "officers__1__name",
-          "old_value": "Baroness Kidron",
-          "new_value": "Sir Jeremy Wright"
-        },
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA.",
-          "new_value": "None"
-        },
-        {
-          "key": "officers__1__party",
-          "old_value": "Crossbench",
-          "new_value": "Conservative"
-        },
-        {
-          "key": "officers__3__role",
-          "old_value": "Vice Chair",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "Liberal Democrat",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__twfy_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "Josh Simons MP",
-          "new_value": "None"
-        },
-        {
-          "key": "officers__0__name",
-          "old_value": "Josh Simons",
-          "new_value": "Baroness Kidron"
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Lord Clement-Jones",
-          "new_value": ""
-        },
-        {
-          "key": "officers__0__role",
-          "old_value": "Chair & Registered Contact",
-          "new_value": "Deputy Chair"
-        },
-        {
-          "key": "officers__2__party",
-          "old_value": "Conservative",
-          "new_value": "Liberal Democrat"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/digital-regulation-and-responsibility.htm"
-    },
-    {
-      "slug": "food-banks",
-      "name": "All-Party Parliamentary Group on Ending the Need for Food Banks",
-      "differences": [
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "The Trussell Trust acts as the group's secretariat. https://www.trussell.org.uk/",
-          "new_value": "Trussell acts as the group's secretariat. https://www.trussell.org.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Zoe Shippen, The Trussell Trust. Tel: 07935 062 807",
-          "new_value": "Zoe Shippen, Trussell. Tel: 07935 062 807"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/food-banks.htm"
-    },
-    {
       "slug": "classics",
-      "name": "All-Party Parliamentary Group for Classics",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 5829.",
-          "new_value": "House of Commons, London, SW1A 0AA. Tel: 01344 918 198."
-        }
-      ],
+      "title": "All-Party Parliamentary Group for Classics",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/classics.htm"
     },
     {
-      "slug": "cyber-security-and-business-resilience",
-      "name": "All-Party Parliamentary Group on Cyber Security and Business Resilience",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Alison Griffiths",
-          "new_value": "Lord Sharpe of Epsom"
-        },
-        {
-          "key": "officers__3__removed",
-          "old_value": "False",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__mnis_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__role",
-          "old_value": "Officer",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "Conservative",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__twfy_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Lord Sharpe of Epsom",
-          "new_value": ""
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/cyber-security-and-business-resilience.htm"
+      "slug": "renewable-and-sustainable-energy",
+      "title": "All-Party Parliamentary Group for Renewable and Sustainable Energy",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/renewable-and-sustainable-energy.htm"
     },
     {
       "slug": "internet-communications-and-technology",
-      "name": "Parliamentary Internet, Communications and Technology Forum All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "detailed_benefits__3__Source",
-          "old_value": "",
-          "new_value": "Fujitsu"
-        },
-        {
-          "key": "detailed_benefits__3__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__3__Registered",
-          "old_value": "",
-          "new_value": "03/12/2024"
-        },
-        {
-          "key": "detailed_benefits__3__Value £s",
-          "old_value": "",
-          "new_value": "6,000"
-        },
-        {
-          "key": "detailed_benefits__3__Received",
-          "old_value": "",
-          "new_value": "06/11/2024"
-        }
-      ],
+      "title": "Parliamentary Internet, Communications and Technology Forum All-Party Parliamentary Group",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/internet-communications-and-technology.htm"
     },
     {
-      "slug": "italy",
-      "name": "All-Party Parliamentary Group on Italy",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Baroness Janke",
-          "new_value": "Baroness Bonham-Carter of Yarnbury"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/italy.htm"
+      "slug": "cyber-security-and-business-resilience",
+      "title": "All-Party Parliamentary Group on Cyber Security and Business Resilience",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/cyber-security-and-business-resilience.htm"
+    },
+    {
+      "slug": "cricket",
+      "title": "All-Party Parliamentary Group for Cricket",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/cricket.htm"
+    },
+    {
+      "slug": "digital-regulation-and-responsibility",
+      "title": "All-Party Parliamentary Group on Digital Regulation and Responsibility",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/digital-regulation-and-responsibility.htm"
     },
     {
       "slug": "semiconductors",
-      "name": "All-Party Parliamentary Group for Semiconductors",
-      "differences": [
-        {
-          "key": "detailed_benefits__4__Received",
-          "old_value": "",
-          "new_value": "19/09/2024"
-        },
-        {
-          "key": "detailed_benefits__1__Received",
-          "old_value": "",
-          "new_value": "16/09/2024"
-        },
-        {
-          "key": "detailed_benefits__2__Value £s",
-          "old_value": "",
-          "new_value": "2,500"
-        },
-        {
-          "key": "detailed_benefits__3__Source",
-          "old_value": "",
-          "new_value": "Plessey Semiconductors"
-        },
-        {
-          "key": "detailed_benefits__4__Value £s",
-          "old_value": "",
-          "new_value": "15,000"
-        },
-        {
-          "key": "detailed_benefits__3__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__2__Registered",
-          "old_value": "",
-          "new_value": "05/12/2024"
-        },
-        {
-          "key": "detailed_benefits__0__Received",
-          "old_value": "",
-          "new_value": "18/10/2024"
-        },
-        {
-          "key": "detailed_benefits__1__Registered",
-          "old_value": "",
-          "new_value": "05/12/2024"
-        },
-        {
-          "key": "detailed_benefits__1__Source",
-          "old_value": "",
-          "new_value": "Oxford Instruments"
-        },
-        {
-          "key": "detailed_benefits__1__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__0__Registered",
-          "old_value": "",
-          "new_value": "05/12/2024"
-        },
-        {
-          "key": "detailed_benefits__4__Source",
-          "old_value": "",
-          "new_value": "Vishay"
-        },
-        {
-          "key": "detailed_benefits__0__Source",
-          "old_value": "",
-          "new_value": "Queen's University, Belfast"
-        },
-        {
-          "key": "detailed_benefits__1__Value £s",
-          "old_value": "",
-          "new_value": "10,000"
-        },
-        {
-          "key": "detailed_benefits__2__Source",
-          "old_value": "",
-          "new_value": "Swansea University"
-        },
-        {
-          "key": "detailed_benefits__3__Registered",
-          "old_value": "",
-          "new_value": "05/12/2024"
-        },
-        {
-          "key": "detailed_benefits__4__Registered",
-          "old_value": "",
-          "new_value": "05/12/2024"
-        },
-        {
-          "key": "detailed_benefits__3__Value £s",
-          "old_value": "",
-          "new_value": "15,000"
-        },
-        {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "",
-          "new_value": "2,000"
-        },
-        {
-          "key": "detailed_benefits__0__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__4__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__2__Received",
-          "old_value": "",
-          "new_value": "08/10/2024"
-        },
-        {
-          "key": "registrable_benefits",
-          "old_value": "None",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__2__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__3__Received",
-          "old_value": "",
-          "new_value": "12/09/2024"
-        }
-      ],
+      "title": "All-Party Parliamentary Group for Semiconductors",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/semiconductors.htm"
     },
     {
-      "slug": "cycling-and-walking",
-      "name": "All-Party Parliamentary Group for Cycling and Walking",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Andy MacNae",
-          "new_value": "Olly Glover"
-        },
-        {
-          "key": "officers__1__role",
-          "old_value": "Co-Chair",
-          "new_value": "Treasurer"
-        },
-        {
-          "key": "officers__1__name",
-          "old_value": "Jesse Norman",
-          "new_value": "Andy MacNae"
-        },
-        {
-          "key": "officers__1__party",
-          "old_value": "Conservative",
-          "new_value": "Labour"
-        },
-        {
-          "key": "officers__2__role",
-          "old_value": "Treasurer",
-          "new_value": "Vice Chair"
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "Liberal Democrat",
-          "new_value": "Conservative"
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Olly Glover",
-          "new_value": "Lord Jamieson"
-        },
-        {
-          "key": "officers__2__party",
-          "old_value": "Labour",
-          "new_value": "Liberal Democrat"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/cycling-and-walking.htm"
+      "slug": "get-refusal",
+      "title": "All-Party Parliamentary Group on Get Refusal",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/get-refusal.htm"
     },
     {
       "slug": "british-sikhs",
-      "name": "All-Party Parliamentary Group on British Sikhs",
-      "differences": [
-        {
-          "key": "agm__date_of_most_recent_agm",
-          "old_value": "2024-11-15",
-          "new_value": "2024-10-15"
-        }
-      ],
+      "title": "All-Party Parliamentary Group on British Sikhs",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/british-sikhs.htm"
     },
     {
-      "slug": "environment",
-      "name": "All-Party Parliamentary Group for the Environment",
-      "differences": [
-        {
-          "key": "detailed_benefits__1__Received",
-          "old_value": "",
-          "new_value": "01/10/2024"
-        },
-        {
-          "key": "officers__0__party",
-          "old_value": "Labour",
-          "new_value": "Labour (Co-op)"
-        },
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 6004.",
-          "new_value": "House of Commons, London, SW1A 0AA."
-        },
-        {
-          "key": "detailed_benefits__1__Registered",
-          "old_value": "",
-          "new_value": "25/11/2024"
-        },
-        {
-          "key": "detailed_benefits__1__Source",
-          "old_value": "",
-          "new_value": "FCC Environment"
-        },
-        {
-          "key": "detailed_benefits__1__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "Alistair Strathern MP",
-          "new_value": "Andrew Pakes MP"
-        },
-        {
-          "key": "detailed_benefits__1__Value £s",
-          "old_value": "",
-          "new_value": "2,000"
-        },
-        {
-          "key": "officers__0__name",
-          "old_value": "Alistair Strathern",
-          "new_value": "Andrew Pakes"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/environment.htm"
-    },
-    {
-      "slug": "first-do-no-harm",
-      "name": "All-Party Parliamentary Group First Do No Harm",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Sir Alec Shelbrooke",
-          "new_value": "Sarah Green"
-        },
-        {
-          "key": "officers__3__removed",
-          "old_value": "False",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__mnis_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__1__role",
-          "old_value": "Co-Chair",
-          "new_value": "Officer"
-        },
-        {
-          "key": "officers__1__name",
-          "old_value": "Baroness Cumberlege",
-          "new_value": "Sir Alec Shelbrooke"
-        },
-        {
-          "key": "officers__3__role",
-          "old_value": "Officer",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "Liberal Democrat",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__twfy_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Sarah Green",
-          "new_value": ""
-        },
-        {
-          "key": "officers__2__party",
-          "old_value": "Conservative",
-          "new_value": "Liberal Democrat"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/first-do-no-harm.htm"
-    },
+      "slug": "italy",
+      "title": "All-Party Parliamentary Group on Italy",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/italy.htm"
+    }
+  ],
+  "differences": [
     {
       "slug": "life-sciences",
       "name": "All-Party Parliamentary Group for Life Sciences",
@@ -1170,17 +601,64 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/life-sciences.htm"
     },
     {
-      "slug": "cricket",
-      "name": "All-Party Parliamentary Group for Cricket",
+      "slug": "cycling-and-walking",
+      "name": "All-Party Parliamentary Group for Cycling and Walking",
       "differences": [
         {
-          "key": "officers__2__name",
-          "old_value": "Lord Haselhurst",
-          "new_value": "Ms Julie Minns"
+          "key": "officers__1__name",
+          "old_value": "Jesse Norman",
+          "new_value": "Andy MacNae"
         },
         {
-          "key": "officers__3__removed",
-          "old_value": "False",
+          "key": "officers__3__party",
+          "old_value": "Liberal Democrat",
+          "new_value": "Conservative"
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Andy MacNae",
+          "new_value": "Olly Glover"
+        },
+        {
+          "key": "officers__2__role",
+          "old_value": "Treasurer",
+          "new_value": "Vice Chair"
+        },
+        {
+          "key": "officers__2__party",
+          "old_value": "Labour",
+          "new_value": "Liberal Democrat"
+        },
+        {
+          "key": "officers__1__party",
+          "old_value": "Conservative",
+          "new_value": "Labour"
+        },
+        {
+          "key": "officers__1__role",
+          "old_value": "Co-Chair",
+          "new_value": "Treasurer"
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "Olly Glover",
+          "new_value": "Lord Jamieson"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/cycling-and-walking.htm"
+    },
+    {
+      "slug": "first-do-no-harm",
+      "name": "All-Party Parliamentary Group First Do No Harm",
+      "differences": [
+        {
+          "key": "officers__1__name",
+          "old_value": "Baroness Cumberlege",
+          "new_value": "Sir Alec Shelbrooke"
+        },
+        {
+          "key": "officers__3__twfy_id",
+          "old_value": "None",
           "new_value": ""
         },
         {
@@ -1189,37 +667,148 @@
           "new_value": ""
         },
         {
+          "key": "officers__3__party",
+          "old_value": "Liberal Democrat",
+          "new_value": ""
+        },
+        {
           "key": "officers__3__role",
           "old_value": "Officer",
           "new_value": ""
         },
         {
-          "key": "officers__2__role",
-          "old_value": "Honorary President",
+          "key": "officers__2__name",
+          "old_value": "Sir Alec Shelbrooke",
+          "new_value": "Sarah Green"
+        },
+        {
+          "key": "officers__2__party",
+          "old_value": "Conservative",
+          "new_value": "Liberal Democrat"
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "False",
+          "new_value": ""
+        },
+        {
+          "key": "officers__1__role",
+          "old_value": "Co-Chair",
           "new_value": "Officer"
         },
         {
-          "key": "officers__3__party",
-          "old_value": "Labour",
+          "key": "officers__3__name",
+          "old_value": "Sarah Green",
           "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/first-do-no-harm.htm"
+    },
+    {
+      "slug": "environment",
+      "name": "All-Party Parliamentary Group for the Environment",
+      "differences": [
+        {
+          "key": "detailed_benefits__1__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
         },
+        {
+          "key": "detailed_benefits__1__Registered",
+          "old_value": "",
+          "new_value": "25/11/2024"
+        },
+        {
+          "key": "officers__0__name",
+          "old_value": "Alistair Strathern",
+          "new_value": "Andrew Pakes"
+        },
+        {
+          "key": "detailed_benefits__1__Value £s",
+          "old_value": "",
+          "new_value": "2,000"
+        },
+        {
+          "key": "contact_details__registered_contact_name",
+          "old_value": "Alistair Strathern MP",
+          "new_value": "Andrew Pakes MP"
+        },
+        {
+          "key": "detailed_benefits__1__Source",
+          "old_value": "",
+          "new_value": "FCC Environment"
+        },
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 6004.",
+          "new_value": "House of Commons, London, SW1A 0AA."
+        },
+        {
+          "key": "officers__0__party",
+          "old_value": "Labour",
+          "new_value": "Labour (Co-op)"
+        },
+        {
+          "key": "detailed_benefits__1__Received",
+          "old_value": "",
+          "new_value": "01/10/2024"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/environment.htm"
+    },
+    {
+      "slug": "pharmacy",
+      "name": "All-Party Parliamentary Group on Pharmacy",
+      "differences": [
         {
           "key": "officers__3__twfy_id",
           "old_value": "None",
           "new_value": ""
         },
         {
-          "key": "officers__3__name",
-          "old_value": "Ms Julie Minns",
+          "key": "officers__3__mnis_id",
+          "old_value": "None",
           "new_value": ""
         },
         {
-          "key": "officers__2__party",
+          "key": "officers__3__party",
           "old_value": "Conservative",
-          "new_value": "Labour"
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__role",
+          "old_value": "Vice Chair",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "False",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "Baroness Cumberlege",
+          "new_value": ""
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/cricket.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/pharmacy.htm"
+    },
+    {
+      "slug": "food-banks",
+      "name": "All-Party Parliamentary Group on Ending the Need for Food Banks",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Zoe Shippen, The Trussell Trust. Tel: 07935 062 807",
+          "new_value": "Zoe Shippen, Trussell. Tel: 07935 062 807"
+        },
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "The Trussell Trust acts as the group's secretariat. https://www.trussell.org.uk/",
+          "new_value": "Trussell acts as the group's secretariat. https://www.trussell.org.uk/"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/food-banks.htm"
     },
     {
       "slug": "africa",
@@ -1234,29 +823,61 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/africa.htm"
     },
     {
-      "slug": "get-refusal",
-      "name": "All-Party Parliamentary Group on Get Refusal",
+      "slug": "energy-studies",
+      "name": "All-Party Parliamentary Group for Energy Studies",
       "differences": [
         {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "Ms Julie Minns MP",
-          "new_value": "Alex Baker MP"
+          "key": "officers__0__name",
+          "old_value": "Mark Garnier",
+          "new_value": "Josh Newbury"
         },
         {
-          "key": "officers__0__name",
-          "old_value": "Ms Julie Minns",
-          "new_value": "Alex Baker"
+          "key": "contact_details__registered_contact_name",
+          "old_value": "Mark Garnier MP",
+          "new_value": "Josh Newbury MP"
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Victoria Collins",
+          "new_value": "Sir Christopher Chope"
+        },
+        {
+          "key": "officers__2__party",
+          "old_value": "Liberal Democrat",
+          "new_value": "Conservative"
+        },
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7198.",
+          "new_value": "House of Commons, London, SW1A 0AA."
+        },
+        {
+          "key": "officers__0__party",
+          "old_value": "Conservative",
+          "new_value": "Labour"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/get-refusal.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/energy-studies.htm"
+    },
+    {
+      "slug": "suicide-and-self-harm-prevention",
+      "name": "All-Party Parliamentary Group on Suicide and Self-Harm Prevention",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Debbie Laycock, Samaritans",
+          "new_value": "Elliot Colburn, Samaritans"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/suicide-and-self-harm-prevention.htm"
     },
     {
       "slug": "healthy-homes-and-buildings",
       "name": "Healthy Homes and Buildings All-Party Parliamentary Group",
       "differences": [
         {
-          "key": "officers__3__removed",
-          "old_value": "False",
+          "key": "officers__3__twfy_id",
+          "old_value": "None",
           "new_value": ""
         },
         {
@@ -1265,18 +886,18 @@
           "new_value": ""
         },
         {
-          "key": "officers__3__role",
-          "old_value": "Vice Chair",
-          "new_value": ""
-        },
-        {
           "key": "officers__3__party",
           "old_value": "Conservative",
           "new_value": ""
         },
         {
-          "key": "officers__3__twfy_id",
-          "old_value": "None",
+          "key": "officers__3__role",
+          "old_value": "Vice Chair",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "False",
           "new_value": ""
         },
         {
@@ -1292,13 +913,8 @@
       "name": "All-Party Parliamentary Group on Tennis",
       "differences": [
         {
-          "key": "officers__2__name",
-          "old_value": "Tonia Antoniazzi",
-          "new_value": "Gordon McKee"
-        },
-        {
-          "key": "officers__3__removed",
-          "old_value": "False",
+          "key": "officers__3__twfy_id",
+          "old_value": "None",
           "new_value": ""
         },
         {
@@ -1307,9 +923,19 @@
           "new_value": ""
         },
         {
+          "key": "officers__3__party",
+          "old_value": "Labour",
+          "new_value": ""
+        },
+        {
           "key": "officers__3__role",
           "old_value": "Vice Chair",
           "new_value": ""
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Tonia Antoniazzi",
+          "new_value": "Gordon McKee"
         },
         {
           "key": "officers__2__role",
@@ -1317,13 +943,8 @@
           "new_value": "Vice Chair"
         },
         {
-          "key": "officers__3__party",
-          "old_value": "Labour",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__twfy_id",
-          "old_value": "None",
+          "key": "officers__3__removed",
+          "old_value": "False",
           "new_value": ""
         },
         {
@@ -1335,61 +956,29 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/tennis.htm"
     },
     {
-      "slug": "suicide-and-self-harm-prevention",
-      "name": "All-Party Parliamentary Group on Suicide and Self-Harm Prevention",
+      "slug": "classics",
+      "name": "All-Party Parliamentary Group for Classics",
       "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Debbie Laycock, Samaritans",
-          "new_value": "Elliot Colburn, Samaritans"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/suicide-and-self-harm-prevention.htm"
-    },
-    {
-      "slug": "energy-studies",
-      "name": "All-Party Parliamentary Group for Energy Studies",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Victoria Collins",
-          "new_value": "Sir Christopher Chope"
-        },
-        {
-          "key": "officers__0__party",
-          "old_value": "Conservative",
-          "new_value": "Labour"
-        },
         {
           "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7198.",
-          "new_value": "House of Commons, London, SW1A 0AA."
-        },
-        {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "Mark Garnier MP",
-          "new_value": "Josh Newbury MP"
-        },
-        {
-          "key": "officers__0__name",
-          "old_value": "Mark Garnier",
-          "new_value": "Josh Newbury"
-        },
-        {
-          "key": "officers__2__party",
-          "old_value": "Liberal Democrat",
-          "new_value": "Conservative"
+          "old_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 5829.",
+          "new_value": "House of Commons, London, SW1A 0AA. Tel: 01344 918 198."
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/energy-studies.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/classics.htm"
     },
     {
-      "slug": "pharmacy",
-      "name": "All-Party Parliamentary Group on Pharmacy",
+      "slug": "renewable-and-sustainable-energy",
+      "name": "All-Party Parliamentary Group for Renewable and Sustainable Energy",
       "differences": [
         {
-          "key": "officers__3__removed",
-          "old_value": "False",
+          "key": "officers__1__name",
+          "old_value": "Andrew Pakes",
+          "new_value": "Lord Callanan"
+        },
+        {
+          "key": "officers__3__twfy_id",
+          "old_value": "None",
           "new_value": ""
         },
         {
@@ -1398,8 +987,92 @@
           "new_value": ""
         },
         {
+          "key": "officers__3__party",
+          "old_value": "Liberal Democrat",
+          "new_value": ""
+        },
+        {
           "key": "officers__3__role",
           "old_value": "Vice Chair",
+          "new_value": ""
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Lord Callanan",
+          "new_value": "Wera Hobhouse"
+        },
+        {
+          "key": "officers__2__party",
+          "old_value": "Conservative",
+          "new_value": "Liberal Democrat"
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "False",
+          "new_value": ""
+        },
+        {
+          "key": "officers__1__party",
+          "old_value": "Labour (Co-op)",
+          "new_value": "Conservative"
+        },
+        {
+          "key": "officers__1__role",
+          "old_value": "Co-Chair",
+          "new_value": "Vice Chair"
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "Wera Hobhouse",
+          "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/renewable-and-sustainable-energy.htm"
+    },
+    {
+      "slug": "internet-communications-and-technology",
+      "name": "Parliamentary Internet, Communications and Technology Forum All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "detailed_benefits__3__Source",
+          "old_value": "",
+          "new_value": "Fujitsu"
+        },
+        {
+          "key": "detailed_benefits__3__Registered",
+          "old_value": "",
+          "new_value": "03/12/2024"
+        },
+        {
+          "key": "detailed_benefits__3__Value £s",
+          "old_value": "",
+          "new_value": "6,000"
+        },
+        {
+          "key": "detailed_benefits__3__Received",
+          "old_value": "",
+          "new_value": "06/11/2024"
+        },
+        {
+          "key": "detailed_benefits__3__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/internet-communications-and-technology.htm"
+    },
+    {
+      "slug": "cyber-security-and-business-resilience",
+      "name": "All-Party Parliamentary Group on Cyber Security and Business Resilience",
+      "differences": [
+        {
+          "key": "officers__3__twfy_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__mnis_id",
+          "old_value": "None",
           "new_value": ""
         },
         {
@@ -1408,17 +1081,344 @@
           "new_value": ""
         },
         {
+          "key": "officers__3__role",
+          "old_value": "Officer",
+          "new_value": ""
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Alison Griffiths",
+          "new_value": "Lord Sharpe of Epsom"
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "False",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "Lord Sharpe of Epsom",
+          "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/cyber-security-and-business-resilience.htm"
+    },
+    {
+      "slug": "cricket",
+      "name": "All-Party Parliamentary Group for Cricket",
+      "differences": [
+        {
           "key": "officers__3__twfy_id",
           "old_value": "None",
           "new_value": ""
         },
         {
+          "key": "officers__3__mnis_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__party",
+          "old_value": "Labour",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__role",
+          "old_value": "Officer",
+          "new_value": ""
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Lord Haselhurst",
+          "new_value": "Ms Julie Minns"
+        },
+        {
+          "key": "officers__2__role",
+          "old_value": "Honorary President",
+          "new_value": "Officer"
+        },
+        {
+          "key": "officers__2__party",
+          "old_value": "Conservative",
+          "new_value": "Labour"
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "False",
+          "new_value": ""
+        },
+        {
           "key": "officers__3__name",
-          "old_value": "Baroness Cumberlege",
+          "old_value": "Ms Julie Minns",
           "new_value": ""
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/pharmacy.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/cricket.htm"
+    },
+    {
+      "slug": "digital-regulation-and-responsibility",
+      "name": "All-Party Parliamentary Group on Digital Regulation and Responsibility",
+      "differences": [
+        {
+          "key": "officers__1__name",
+          "old_value": "Baroness Kidron",
+          "new_value": "Sir Jeremy Wright"
+        },
+        {
+          "key": "officers__3__twfy_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__0__role",
+          "old_value": "Chair & Registered Contact",
+          "new_value": "Deputy Chair"
+        },
+        {
+          "key": "officers__3__mnis_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__0__name",
+          "old_value": "Josh Simons",
+          "new_value": "Baroness Kidron"
+        },
+        {
+          "key": "officers__3__party",
+          "old_value": "Liberal Democrat",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__role",
+          "old_value": "Vice Chair",
+          "new_value": ""
+        },
+        {
+          "key": "contact_details__registered_contact_name",
+          "old_value": "Josh Simons MP",
+          "new_value": "None"
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Sir Jeremy Wright",
+          "new_value": "Lord Clement-Jones"
+        },
+        {
+          "key": "officers__2__party",
+          "old_value": "Conservative",
+          "new_value": "Liberal Democrat"
+        },
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "House of Commons, London, SW1A 0AA.",
+          "new_value": "None"
+        },
+        {
+          "key": "officers__0__party",
+          "old_value": "Labour",
+          "new_value": "Crossbench"
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "False",
+          "new_value": ""
+        },
+        {
+          "key": "officers__1__party",
+          "old_value": "Crossbench",
+          "new_value": "Conservative"
+        },
+        {
+          "key": "officers__1__role",
+          "old_value": "Deputy Chair",
+          "new_value": "Vice Chair"
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "Lord Clement-Jones",
+          "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/digital-regulation-and-responsibility.htm"
+    },
+    {
+      "slug": "semiconductors",
+      "name": "All-Party Parliamentary Group for Semiconductors",
+      "differences": [
+        {
+          "key": "detailed_benefits__1__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "registrable_benefits",
+          "old_value": "None",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__4__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__1__Registered",
+          "old_value": "",
+          "new_value": "05/12/2024"
+        },
+        {
+          "key": "detailed_benefits__4__Registered",
+          "old_value": "",
+          "new_value": "05/12/2024"
+        },
+        {
+          "key": "detailed_benefits__3__Source",
+          "old_value": "",
+          "new_value": "Plessey Semiconductors"
+        },
+        {
+          "key": "detailed_benefits__0__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__2__Registered",
+          "old_value": "",
+          "new_value": "05/12/2024"
+        },
+        {
+          "key": "detailed_benefits__3__Registered",
+          "old_value": "",
+          "new_value": "05/12/2024"
+        },
+        {
+          "key": "detailed_benefits__4__Value £s",
+          "old_value": "",
+          "new_value": "15,000"
+        },
+        {
+          "key": "detailed_benefits__3__Value £s",
+          "old_value": "",
+          "new_value": "15,000"
+        },
+        {
+          "key": "detailed_benefits__0__Source",
+          "old_value": "",
+          "new_value": "Queen's University, Belfast"
+        },
+        {
+          "key": "detailed_benefits__1__Value £s",
+          "old_value": "",
+          "new_value": "10,000"
+        },
+        {
+          "key": "detailed_benefits__3__Received",
+          "old_value": "",
+          "new_value": "12/09/2024"
+        },
+        {
+          "key": "detailed_benefits__0__Value £s",
+          "old_value": "",
+          "new_value": "2,000"
+        },
+        {
+          "key": "detailed_benefits__1__Source",
+          "old_value": "",
+          "new_value": "Oxford Instruments"
+        },
+        {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "",
+          "new_value": "18/10/2024"
+        },
+        {
+          "key": "detailed_benefits__2__Value £s",
+          "old_value": "",
+          "new_value": "2,500"
+        },
+        {
+          "key": "detailed_benefits__3__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__4__Source",
+          "old_value": "",
+          "new_value": "Vishay"
+        },
+        {
+          "key": "detailed_benefits__2__Received",
+          "old_value": "",
+          "new_value": "08/10/2024"
+        },
+        {
+          "key": "detailed_benefits__4__Received",
+          "old_value": "",
+          "new_value": "19/09/2024"
+        },
+        {
+          "key": "detailed_benefits__2__Source",
+          "old_value": "",
+          "new_value": "Swansea University"
+        },
+        {
+          "key": "detailed_benefits__2__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__0__Registered",
+          "old_value": "",
+          "new_value": "05/12/2024"
+        },
+        {
+          "key": "detailed_benefits__1__Received",
+          "old_value": "",
+          "new_value": "16/09/2024"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/semiconductors.htm"
+    },
+    {
+      "slug": "get-refusal",
+      "name": "All-Party Parliamentary Group on Get Refusal",
+      "differences": [
+        {
+          "key": "officers__0__name",
+          "old_value": "Ms Julie Minns",
+          "new_value": "Alex Baker"
+        },
+        {
+          "key": "contact_details__registered_contact_name",
+          "old_value": "Ms Julie Minns MP",
+          "new_value": "Alex Baker MP"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/get-refusal.htm"
+    },
+    {
+      "slug": "british-sikhs",
+      "name": "All-Party Parliamentary Group on British Sikhs",
+      "differences": [
+        {
+          "key": "agm__date_of_most_recent_agm",
+          "old_value": "2024-11-15",
+          "new_value": "2024-10-15"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/british-sikhs.htm"
+    },
+    {
+      "slug": "italy",
+      "name": "All-Party Parliamentary Group on Italy",
+      "differences": [
+        {
+          "key": "officers__2__name",
+          "old_value": "Baroness Janke",
+          "new_value": "Baroness Bonham-Carter of Yarnbury"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250102/italy.htm"
     }
   ]
 }

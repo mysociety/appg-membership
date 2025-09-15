@@ -61,8 +61,17 @@
     "reporting_year": "22 Oct to 21 Oct",
     "next_reporting_deadline": "2026-02-22"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Good Faith Partnership",
+      "Description": "Good Faith Partnership is paid by Greek Orthodox Patriarchate of Jerusalem to act as the group's secretariat From : 22/10/2024 To  : 21/10/2025",
+      "Value £s In bands of £1,500": "22,501-24,000",
+      "Received": "22/10/2024",
+      "Registered": "15/11/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/christianity-in-the-holy-land.htm",
   "categories": []

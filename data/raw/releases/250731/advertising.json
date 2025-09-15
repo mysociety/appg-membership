@@ -61,8 +61,33 @@
     "reporting_year": "22 Jan to 21 Jan",
     "next_reporting_deadline": "2026-05-22"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Advertising Association",
+      "Description": "Reception",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "22/01/2025",
+      "Registered": "26/02/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Incorporated Society of British Advertisers",
+      "Description": "Reception",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "22/01/2025",
+      "Registered": "26/02/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Institute of Practitioners in Advertising",
+      "Description": "Reception",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "22/01/2025",
+      "Registered": "26/02/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/advertising.htm",
   "categories": []

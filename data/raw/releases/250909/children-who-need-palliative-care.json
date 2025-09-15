@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Together for Short Lives",
+      "Description": "Secretariat From : 12/11/2024 To  : 11/11/2025",
+      "Value £s In bands of £1,500": "31,501-33,000",
+      "Received": "12/11/2024",
+      "Registered": "02/12/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/children-who-need-palliative-care.htm",
   "categories": []

@@ -61,8 +61,17 @@
     "reporting_year": "12 Nov to 11 Nov",
     "next_reporting_deadline": "2026-03-12"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Royal Osteoporosis Society",
+      "Description": "Royal Osteoporosis Society is funded by UCB and Theramex to act as the group's secretariat From : 12/11/2024 To  : 11/11/2025",
+      "Value £s In bands of £1,500": "24,001-25,500",
+      "Received": "12/11/2024",
+      "Registered": "12/12/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/osteoporosis-and-bone-health.htm",
   "categories": []

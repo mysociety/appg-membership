@@ -61,8 +61,17 @@
     "reporting_year": "02 Dec to 01 Dec",
     "next_reporting_deadline": "2026-04-02"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Medical Justice",
+      "Description": "Secretariat From : 02/12/2024 To  : 01/12/2025",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "02/12/2024",
+      "Registered": "04/12/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/immigration-detention.htm",
   "categories": []

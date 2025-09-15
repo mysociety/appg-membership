@@ -61,8 +61,17 @@
     "reporting_year": "08 Oct to 07 Oct",
     "next_reporting_deadline": "2026-02-08"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Healthcomms Consulting Ltd (part of the PLMR Group)",
+      "Description": "Healthcomms Consulting Ltd (part of the PLMR Group) is paid by grants from Gedeon Richter, Theramex, Besins Healthcare, Orion Pharma, and AbbVie to act as the group's secretariat. From : 08/10/2024 To  : 07/10/2025",
+      "Value £s In bands of £1,500": "66,001-67,500",
+      "Received": "08/10/2024",
+      "Registered": "24/07/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/womens-health.htm",
   "categories": []

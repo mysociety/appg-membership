@@ -243,8 +243,25 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Lodestone Communications",
+      "Description": "Lodestone Communications is paid by the following to act as the group's secretariat:  Virgin Money, BT Group, Nominet, Jisc, Vodafone, Virgin Media, Good Things Foundation From : 09/10/2024 To  : 08/10/2025",
+      "Value £s In bands of £1,500": "45,001-46,500",
+      "Received": "09/10/2024",
+      "Registered": "25/10/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Lodestone Communications",
+      "Description": "Lodestone Communications is paid by the following to meet cost of events, reports, website: Virgin Money, BT Group, Nominet, Jisc, Vodafone, Virgin Media, Good Things Foundation From : 09/10/2024 To  : 08/10/2025",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "09/10/2024",
+      "Registered": "25/10/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/digital-inclusion.htm",
   "categories": [

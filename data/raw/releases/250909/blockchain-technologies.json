@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "British Blockchain Association",
+      "Description": "Secretariat From : 17/03/2025 To  : 16/03/2026",
+      "Value £s In bands of £1,500": "19,501-21,000",
+      "Received": "17/03/2025",
+      "Registered": "04/04/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/blockchain-technologies.htm",
   "categories": []

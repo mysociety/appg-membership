@@ -61,8 +61,17 @@
     "reporting_year": "04 Jun to 03 Jun",
     "next_reporting_deadline": "2026-10-04"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "The Influencing the Corridors of Power Project (ICOP) at SOAS University of London",
+      "Description": "ICOP is paid by the Higher Education Fund to act as the group's secretariat. From : 04/06/2025 To  : 03/06/2026",
+      "Value £s In bands of £1,500": "28,501-30,000",
+      "Received": "04/06/2025",
+      "Registered": "10/06/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/intergenerational-inquiry.htm",
   "categories": []

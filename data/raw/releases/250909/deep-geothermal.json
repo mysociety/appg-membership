@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Association for Renewable Energy and Clean Technology (REA)",
+      "Description": "Association for Renewable Energy and Clean Technology (REA) is paid by the following to act as the group's secretariat: Angus Energy Plc, GT Energy Uk Limited, Schlumberger Oilfield UK Limited, Consortium Drilling Limited, IGAS Energy Plc, Nov Uk Holdings Limited, Rees Onshore Seismic Ltd, Weatherford U.K. Limited, Yellowstone Environmental Solutions Ltd, Eden Geothermal Ltd, Townrock Energy, Sproule (Veegeo), MWEM Services, Geothermal Engineering Limited,  EGS Energy Limited, Chubb From : 05/09/2024 To  : 04/09/2025",
+      "Value £s In bands of £1,500": "39,001-40,500",
+      "Received": "05/09/2024",
+      "Registered": "03/10/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/deep-geothermal.htm",
   "categories": []

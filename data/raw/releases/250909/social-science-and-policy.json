@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Palace Yard Events Limited",
+      "Description": "Palace Yard Events Limited is paid by by the Economic and Social Research Council to act as the group's secretariat From : 22/10/2024 To  : 21/10/2025",
+      "Value £s In bands of £1,500": "28,501-30,000",
+      "Received": "22/10/2024",
+      "Registered": "25/10/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/social-science-and-policy.htm",
   "categories": []

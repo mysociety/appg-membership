@@ -305,8 +305,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Keystone Consulting",
+      "Description": "Keystone Consulting is paid by Motorsport UK to act as the group's secretariat From : 29/07/2024 To  : 28/07/2025",
+      "Value £s In bands of £1,500": "7,501-9,000",
+      "Received": "29/07/2024",
+      "Registered": "27/08/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/formula-1-and-motorsport.htm",
   "categories": [

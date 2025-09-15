@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Cedarsoak Ltd",
+      "Description": "Report (research, writing, graphic design, printing and launch event costs).",
+      "Value £s In bands of £1,500": "85,501-87,000",
+      "Received": "18/03/2025",
+      "Registered": "10/04/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/israel.htm",
   "categories": []

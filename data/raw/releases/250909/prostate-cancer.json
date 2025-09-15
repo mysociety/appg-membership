@@ -56,8 +56,25 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Prostate Cancer Research",
+      "Description": "Joint Secretariat From : 17/12/2024 To  : 16/12/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "17/12/2024",
+      "Registered": "13/01/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Prostate Cancer UK",
+      "Description": "Joint Secretariat From : 17/12/2024 To  : 16/12/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "17/12/2024",
+      "Registered": "13/01/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/prostate-cancer.htm",
   "categories": []

@@ -61,8 +61,17 @@
     "reporting_year": "23 Jul to 22 Jul",
     "next_reporting_deadline": "2025-11-23"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "The Fusion Cluster",
+      "Description": "The Fusion Cluster acts as the group's secretariat and pays Henham Strategy to help them fulfil this role From : 23/07/2024 To  : 22/07/2025",
+      "Value £s In bands of £1,500": "49,501-51,000",
+      "Received": "23/07/2024",
+      "Registered": "30/07/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/fusion-energy.htm",
   "categories": []

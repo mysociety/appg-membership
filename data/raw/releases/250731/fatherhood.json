@@ -61,8 +61,17 @@
     "reporting_year": "13 May to 12 May",
     "next_reporting_deadline": "2026-09-13"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Future Men",
+      "Description": "Secretariat From : 13/05/2025 To  : 12/05/2026",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "13/05/2025",
+      "Registered": "20/05/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/fatherhood.htm",
   "categories": []

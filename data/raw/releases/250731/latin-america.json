@@ -61,8 +61,17 @@
     "reporting_year": "12 Mar to 11 Mar",
     "next_reporting_deadline": "2026-07-12"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Canning House",
+      "Description": "Secretariat From : 12/03/2025 To  : 11/03/2026",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "12/03/2025",
+      "Registered": "13/03/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/latin-america.htm",
   "categories": []

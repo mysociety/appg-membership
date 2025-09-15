@@ -228,6 +228,97 @@ def _parse_agm_details(table: Optional[Tag]) -> Optional[AGMDetails]:
     )
 
 
+def _find_benefits_tables(tables: List[Tag]) -> tuple[Optional[Tag], Optional[Tag]]:
+    """
+    Find benefits tables. Returns tuple of (header_table, data_table).
+
+    In some cases, the "Registrable benefits received by the group" table contains
+    only a header, and the actual benefits data is in a separate subsequent table
+    with headers like "Benefits In Kind", "Financial Benefits", etc.
+    """
+    header_table = _parse_table_by_header(
+        tables, "Registrable benefits received by the group"
+    )
+    data_table = None
+
+    if header_table:
+        # Check if this table has actual data beyond just headers
+        rows = header_table.find_all("tr")
+        has_data = False
+
+        for row in rows[1:]:  # Skip first row (header)
+            cells = row.find_all("td")
+            if not cells:
+                continue
+
+            # Check for actual content (not just "None" or empty)
+            text_content = row.get_text(strip=True).lower()
+            if text_content and text_content != "none":
+                # Check if this looks like a benefits category header or actual data
+                colspan = cells[0].get("colspan")
+                if colspan and int(colspan) > 1:
+                    # This is a category header, so there is data in this table
+                    has_data = True
+                    break
+                elif len(cells) >= 4:  # Looks like a data row
+                    has_data = True
+                    break
+
+        if has_data:
+            # The header table contains data
+            data_table = header_table
+        else:
+            # The header table is just a header, look for data in subsequent tables
+            header_index = tables.index(header_table)
+
+            # Check the next few tables for benefits data
+            for i in range(header_index + 1, min(header_index + 3, len(tables))):
+                candidate_table = tables[i]
+
+                # Look for tables with benefit-related headers
+                strong_tags = candidate_table.find_all("strong")
+                for strong in strong_tags:
+                    strong_text = strong.get_text(strip=True)
+                    if any(
+                        keyword in strong_text.lower()
+                        for keyword in [
+                            "benefits in kind",
+                            "financial benefits",
+                            "material benefits",
+                            "non-financial benefits",
+                            "source",
+                            "description",
+                        ]
+                    ):
+                        data_table = candidate_table
+                        break
+
+                if data_table:
+                    break
+
+                # Also check if this table has a structure that looks like benefits data
+                # (multiple columns including Source, Description, Value, etc.)
+                rows = candidate_table.find_all("tr")
+                if len(rows) >= 2:  # At least header + one data row
+                    header_row = None
+                    for row in rows:
+                        cells = row.find_all("td")
+                        if len(cells) >= 4:  # At least 4 columns
+                            row_text = row.get_text().lower()
+                            if "source" in row_text and (
+                                "value" in row_text or "received" in row_text
+                            ):
+                                header_row = row
+                                break
+
+                    if header_row and len(rows) > rows.index(header_row) + 1:
+                        # Found what looks like a benefits table
+                        data_table = candidate_table
+                        break
+
+    return header_table, data_table
+
+
 def _parse_registrable_benefits(
     table: Optional[Tag],
 ) -> tuple[Optional[str], list[dict[str, str]]]:
@@ -268,18 +359,18 @@ def _parse_registrable_benefits(
             current_benefit_type = cells[0].get_text(strip=True)
             continue
 
-        # If this has 4 columns and looks like a header row
-        if len(cells) == 4 and any("Source" in cell.get_text() for cell in cells):
+        # If this has 4+ columns and looks like a header row
+        if len(cells) >= 4 and any("Source" in cell.get_text() for cell in cells):
             # This is the header row - grab the column names
-            header_cells = [cell.get_text(strip=True) for cell in cells]
+            header_cells = [cell.get_text(strip=True, separator=" ") for cell in cells]
             continue
 
-        # If this has 4 columns and we have headers, it's a data row
-        if len(cells) == 4 and header_cells:
+        # If this has 4+ columns and we have headers, it's a data row
+        if len(cells) >= 4 and header_cells:
             # Create a dictionary with the original column names as keys
             benefit_data = {
-                header_cells[i]: cells[i].get_text(strip=True)
-                for i in range(len(cells))
+                header_cells[i]: cells[i].get_text(strip=True, separator=" ")
+                for i in range(min(len(cells), len(header_cells)))
             }
 
             # Add the benefit type
@@ -335,12 +426,11 @@ def parse_appg_html(html: str, *, slug: str, source_url: str, index_date: str) -
     agm = _parse_agm_details(agm_table)
 
     # --- 5. Registrable benefits ------------------------------------------- #
-    benefits_table = _parse_table_by_header(
-        tables, "Registrable benefits received by the group"
-    )
-    if benefits_table:
+    header_table, data_table = _find_benefits_tables(tables)
+
+    if data_table:
         registrable_benefits, detailed_benefits = _parse_registrable_benefits(
-            benefits_table
+            data_table
         )
 
     return APPG(

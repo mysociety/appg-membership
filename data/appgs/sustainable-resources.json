@@ -91,8 +91,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Policy Connect",
+      "Description": "Policy Connect is paid by the following to act as the group's secretariat: British Metals Recycling Association, Chartered Institute of Wastes Management, Compleat. East London Waste Authority, Environmental Services Association, FCC Environment, Fortis IBA, INCPEN, LARAC, North London Waste Authority (Haringey Council), OPRL, Packaging Federation, Plastics Europe, Recolight, Relondon, Root, Royal Institution of Chartered Surveyors, SUEZ, Textile, Recycling Association, University of Wales- Trinity Saint David, Valpak, WRAP, Zero Waste Scotland From : 31/10/2024 To  : 30/10/2025",
+      "Value £s In bands of £1,500": "37,501-39,000",
+      "Received": "31/10/2024",
+      "Registered": "05/02/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/sustainable-resources.htm",
   "categories": [

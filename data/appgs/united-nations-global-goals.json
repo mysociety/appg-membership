@@ -1043,8 +1043,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Bond",
+      "Description": "Secretariat From : 23/07/2024 To  : 22/07/2025",
+      "Value £s In bands of £1,500": "6,001-7,500",
+      "Received": "23/07/2024",
+      "Registered": "22/08/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/united-nations-global-goals.htm",
   "categories": [

@@ -56,8 +56,25 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Society of London Theatre",
+      "Description": "Joint Secretariat From : 02/04/2025 To  : 01/04/2026",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "02/04/2025",
+      "Registered": "03/04/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "UK Theatre",
+      "Description": "Joint Secretariat From : 02/04/2025 To  : 01/04/2026",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "02/04/2025",
+      "Registered": "03/04/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/theatre.htm",
   "categories": []

@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Policy Connect",
+      "Description": "Policy Connect is funded by the following to act as the group's secretariat: AAPT, Assura, Autism Centre of Excellence at the University of Cambridge, Becton Dickinson, Bournemouth University, Essex University, Health Innovation Network, IBMS, OrthoDx, Professional Standards Authority, Surrey University, Vertex Pharmaceuticals, Walgreens Boots Alliance From : 15/10/2024 To  : 14/10/2025",
+      "Value £s In bands of £1,500": "72,001-73,500",
+      "Received": "15/10/2024",
+      "Registered": "02/04/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/health.htm",
   "categories": []

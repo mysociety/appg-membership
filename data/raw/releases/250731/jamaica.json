@@ -61,8 +61,17 @@
     "reporting_year": "17 Oct to 16 Oct",
     "next_reporting_deadline": "2026-02-17"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "DMA Invest",
+      "Description": "Secreariat From : 17/10/2024 To  : 16/10/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "17/10/2024",
+      "Registered": "29/10/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/jamaica.htm",
   "categories": []

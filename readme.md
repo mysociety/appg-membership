@@ -158,15 +158,6 @@ This creates diff reports showing what changed between consecutive registers, wh
 - `data/interim/diffs/` (JSON format)
 - `docs/_diffs/` (Markdown format for the Jekyll site)
 
-### 11. Generate Diffs Between Registers
-
-```bash
-project generate-diffs
-```
-
-This creates diff reports showing what changed between consecutive registers, which are saved to:
-- `data/interim/diffs/` (JSON format)
-- `docs/_diffs/` (Markdown format for the Jekyll site)
 
 ### 12. Verify the Results
 

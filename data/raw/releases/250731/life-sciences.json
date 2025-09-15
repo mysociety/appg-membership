@@ -61,8 +61,25 @@
     "reporting_year": "15 Oct to 14 Oct",
     "next_reporting_deadline": "2026-02-15"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "UK BioIndustry Association",
+      "Description": "Joint Secretariat From : 15/10/2024 To  : 14/10/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "15/10/2024",
+      "Registered": "23/10/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Association of Medical Research Charities",
+      "Description": "Joint Secretariat From : 15/10/2024 To  : 14/10/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "15/10/2024",
+      "Registered": "23/10/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/life-sciences.htm",
   "categories": []

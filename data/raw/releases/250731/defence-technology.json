@@ -45,8 +45,17 @@
     "reporting_year": "19 Nov to 18 Nov",
     "next_reporting_deadline": "2026-03-19"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "APPG Secretariat Services Ltd",
+      "Description": "APPG Secretariat Services Ltd is paid by the following to act as the group's secretariat: Lockheed Martin, Capita, Leonardo, Story Homes, Ultra Electronics, Microsoft, Mishcon de Reya, Overwatch Aerospace, Thor Industries, Helsing, Airbus From : 19/11/2024 To  : 18/11/2025",
+      "Value £s In bands of £1,500": "60,001-61,500",
+      "Received": "19/11/2024",
+      "Registered": "10/07/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/defence-technology.htm",
   "categories": []

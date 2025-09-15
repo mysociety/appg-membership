@@ -61,8 +61,17 @@
     "reporting_year": "11 Feb to 10 Feb",
     "next_reporting_deadline": "2026-06-11"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Tendo Consulting",
+      "Description": "Tendo Consulting is paid by The Association for Project Management to act as the group's secretariat From : 11/02/2025 To  : 10/02/2026",
+      "Value £s In bands of £1,500": "24,001-25,500",
+      "Received": "11/02/2025",
+      "Registered": "05/03/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/project-delivery.htm",
   "categories": []

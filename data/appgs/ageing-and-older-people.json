@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Age UK",
+      "Description": "Secretariat From : 08/10/2024 To  : 07/10/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "08/10/2024",
+      "Registered": "31/10/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/ageing-and-older-people.htm",
   "categories": [

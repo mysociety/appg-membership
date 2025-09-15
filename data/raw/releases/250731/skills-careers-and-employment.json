@@ -61,8 +61,17 @@
     "reporting_year": "31 Oct to 30 Oct",
     "next_reporting_deadline": "2026-02-28"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Policy Connect",
+      "Description": "Policy Connect is funded by the following to act as the group's secretariat: ACCA, Career Development institute, Federation of Awarding Bodies, High Value Manufacturing Catapult, Institute of the Motor Industry, Nexperia, NOCN, South Thames College, University of Derby, Warwick Manufacturing Group, Youth Futures Foundation From : 31/10/2024 To  : 30/10/2025",
+      "Value £s In bands of £1,500": "40,501-42,000",
+      "Received": "31/10/2024",
+      "Registered": "05/02/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/skills-careers-and-employment.htm",
   "categories": []

@@ -56,8 +56,57 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "The 1928 Institute",
+      "Description": "Secretariat From : 29/07/2024 To  : 28/07/2025",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "29/07/2024",
+      "Registered": "31/07/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "ICICI Bank",
+      "Description": "Reception",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "09/10/2024",
+      "Registered": "16/10/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Infosys",
+      "Description": "Reception",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "09/10/2024",
+      "Registered": "16/10/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Observer Research Foundation",
+      "Description": "Visit to India From : 17/11/2024 To  : 22/11/2024 Cost Met : Flights, accommodation and food",
+      "Value £s In bands of £1,500": "10,501-12,000",
+      "Received": "17/11/2024",
+      "Registered": "20/12/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "The 1928 Institute",
+      "Description": "Visit to India From : 17/11/2024 To  : 22/11/2024 Cost Met : Flights, accommodation and food",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "17/11/2024",
+      "Registered": "20/12/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "UK India Business Council",
+      "Description": "Roundtable event",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "21/05/2025",
+      "Registered": "11/06/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/india.htm",
   "categories": []

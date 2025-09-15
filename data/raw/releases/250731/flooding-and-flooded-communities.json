@@ -61,8 +61,17 @@
     "reporting_year": "16 Oct to 15 Oct",
     "next_reporting_deadline": "2026-02-16"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "National Flood Forum",
+      "Description": "Secretariat From : 16/10/2024 To  : 15/10/2025",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "16/10/2024",
+      "Registered": "28/10/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/flooding-and-flooded-communities.htm",
   "categories": []

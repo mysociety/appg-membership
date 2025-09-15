@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Big Innovation Centre",
+      "Description": "Big Innovation Centre is paid by the following to act as the group's secretariat: AMI Limited, British Standards Institution, Brunel University London, BT Group, Capgemini, Centre for the Governance of AI, CMS Cameron McKenna Nabarro Olswang, Cognizant, Deloitte, Duolingo, Ernst & Young, Favom, Hewlett Packard Enterprise, Innovate UK, Osborne Clarke, Queen Mary University of London, Santander, Uptitude and WindWorkX From : 21/10/2024 To  : 20/10/2025",
+      "Value £s In bands of £1,500": "90,001-91,500",
+      "Received": "21/10/2024",
+      "Registered": "06/11/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/artificial-intelligence.htm",
   "categories": [

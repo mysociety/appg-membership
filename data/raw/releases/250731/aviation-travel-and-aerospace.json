@@ -61,8 +61,17 @@
     "reporting_year": "03 Sep to 02 Sep",
     "next_reporting_deadline": "2026-01-03"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Tendo Consulting",
+      "Description": "Tendo Consulting is paid by the following to act as the group's secretariat: ABTA, Airports UK, ADS, Gatwick Airport, Manchester Airport Group, IATA, Lanzajet, Ryanair From : 03/09/2024 To  : 02/09/2025",
+      "Value £s In bands of £1,500": "36,001-37,500",
+      "Received": "03/09/2024",
+      "Registered": "02/05/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/aviation-travel-and-aerospace.htm",
   "categories": []

@@ -61,8 +61,25 @@
     "reporting_year": "27 Nov to 26 Nov",
     "next_reporting_deadline": "2026-03-27"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "East Midlands Councils",
+      "Description": "Joint Secretariat From : 27/11/2024 To  : 26/11/2025",
+      "Value £s In bands of £1,500": "28,501-30,000",
+      "Received": "27/11/2024",
+      "Registered": "20/02/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "East Midlands Chambers of Commerce",
+      "Description": "Joint Secretariat From : 27/11/2024 To  : 26/11/2025",
+      "Value £s In bands of £1,500": "10,501-12,000",
+      "Received": "27/11/2024",
+      "Registered": "20/02/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/east-midlands.htm",
   "categories": []

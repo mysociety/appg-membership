@@ -61,8 +61,17 @@
     "reporting_year": "29 Oct to 28 Oct",
     "next_reporting_deadline": "2026-02-28"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Institute for the Future of Work",
+      "Description": "Institute for the Future of Work is paid by the following to act as the group's secretariat: Simmons and Simmons, Cisco, Prospect Union, Community Union, Pearson From : 29/10/2024 To  : 28/10/2025",
+      "Value £s In bands of £1,500": "19,501-21,000",
+      "Received": "29/10/2024",
+      "Registered": "04/11/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/future-of-work.htm",
   "categories": []

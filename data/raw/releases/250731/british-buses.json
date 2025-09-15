@@ -61,8 +61,17 @@
     "reporting_year": "27 Nov to 26 Nov",
     "next_reporting_deadline": "2026-03-27"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Beyond2050 ltd",
+      "Description": "Beyond2050 ltd is paid by Alexander Dennis and Wrightbus to act as the group's secretariat From : 27/11/2024 To  : 26/11/2025",
+      "Value £s In bands of £1,500": "39,001-40,500",
+      "Received": "27/11/2024",
+      "Registered": "20/12/2024",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/british-buses.htm",
   "categories": []

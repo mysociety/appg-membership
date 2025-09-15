@@ -61,8 +61,17 @@
     "reporting_year": "02 Apr to 01 Apr",
     "next_reporting_deadline": "2026-08-02"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "World Professional Billiards and Snooker Association",
+      "Description": "Secretariat From : 02/02/2025 To  : 01/02/2026",
+      "Value £s In bands of £1,500": "13,501-15,000",
+      "Received": "02/02/2025",
+      "Registered": "22/04/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250731",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/snooker.htm",
   "categories": []

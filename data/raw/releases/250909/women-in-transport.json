@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Women in Transport",
+      "Description": "JFG Communications acts as secretariat on behalf of Women in Transport and is part-funded by West Coast Partnership to do so. From : 12/02/2025 To  : 11/02/2026",
+      "Value £s In bands of £1,500": "27,001-28,500",
+      "Received": "12/02/2025",
+      "Registered": "11/03/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/women-in-transport.htm",
   "categories": []

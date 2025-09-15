@@ -56,8 +56,17 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Local Government Association",
+      "Description": "Secretariat From : 17/12/2024 To  : 16/12/2025",
+      "Value £s In bands of £1,500": "15,001-16,500",
+      "Received": "17/12/2024",
+      "Registered": "27/02/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/local-growth.htm",
   "categories": []

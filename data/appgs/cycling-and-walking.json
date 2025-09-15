@@ -1659,8 +1659,97 @@
     }
   },
   "agm": null,
-  "registrable_benefits": null,
-  "detailed_benefits": [],
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Lime",
+      "Description": "Reception",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "10/09/2024",
+      "Registered": "24/09/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Forest",
+      "Description": "Reception",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "10/09/2024",
+      "Registered": "24/09/2024",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Forest",
+      "Description": "Parliamentary Bike Ride",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "21/02/2025",
+      "Registered": "07/03/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Lime",
+      "Description": "Parliamentary Bike Ride",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "05/03/2025",
+      "Registered": "07/03/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "British Cycling",
+      "Description": "Active Travel and Social Justice report",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "11/04/2025",
+      "Registered": "19/05/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Leigh Day",
+      "Description": "Active Travel and Social Justice report",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "09/05/2025",
+      "Registered": "19/05/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Bikeability Trust",
+      "Description": "Sentencing report",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "12/05/2025",
+      "Registered": "19/05/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Forest",
+      "Description": "Parliamentary Bike Ride",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "13/06/2025",
+      "Registered": "28/07/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Embassy of the Kingdom of the Netherlands",
+      "Description": "Parliamentary Bike Ride",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "24/06/2025",
+      "Registered": "28/07/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Lime",
+      "Description": "Parliamentary Bike Ride",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "11/07/2025",
+      "Registered": "28/07/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Simon Bragg",
+      "Description": "Sentencing report",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "18/06/2025",
+      "Registered": "28/07/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
   "index_date": "250909",
   "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/cycling-and-walking.htm",
   "categories": [
