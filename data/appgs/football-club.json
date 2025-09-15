@@ -32,7 +32,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-09-12",
+    "last_updated": "2025-09-15",
     "members": [
       {
         "name": "Clive Betts MP",
@@ -198,8 +198,8 @@
         "name": "Cam Thomas MP",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5354",
+        "twfy_id": "uk.org.publicwhip/person/26532",
         "removed": false
       },
       {
@@ -232,16 +232,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-11-25",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "25 Nov to 24 Nov",
-    "next_reporting_deadline": "2026-03-25"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/football-club.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/football-club.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]

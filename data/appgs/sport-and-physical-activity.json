@@ -38,10 +38,179 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Rachel Taylor MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5065",
+        "twfy_id": "uk.org.publicwhip/person/26478",
+        "removed": false
+      },
+      {
+        "name": "Baroness Sater (Co-Chair)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jim Dixon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5223",
+        "twfy_id": "uk.org.publicwhip/person/26547",
+        "removed": false
+      },
+      {
+        "name": "Max Wilkinson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5055",
+        "twfy_id": "uk.org.publicwhip/person/26344",
+        "removed": false
+      },
+      {
+        "name": "Adam Jogee MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5168",
+        "twfy_id": "uk.org.publicwhip/person/26541",
+        "removed": false
+      },
+      {
+        "name": "Euan Stainbank MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5110",
+        "twfy_id": "uk.org.publicwhip/person/26407",
+        "removed": false
+      },
+      {
+        "name": "Danny Chambers MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5304",
+        "twfy_id": "uk.org.publicwhip/person/26607",
+        "removed": false
+      },
+      {
+        "name": "Andy McNae MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5134",
+        "twfy_id": "uk.org.publicwhip/person/26391",
+        "removed": false
+      },
+      {
+        "name": "Kirith Entwistle MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5095",
+        "twfy_id": "uk.org.publicwhip/person/26378",
+        "removed": false
+      },
+      {
+        "name": "Wendy Chamberlain MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4765",
+        "twfy_id": "uk.org.publicwhip/person/25872",
+        "removed": false
+      },
+      {
+        "name": "Vicky Slade MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582",
+        "removed": false
+      },
+      {
+        "name": "Toby Perkins MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3952",
+        "twfy_id": "uk.org.publicwhip/person/24845",
+        "removed": false
+      },
+      {
+        "name": "Andrew Lewin MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5061",
+        "twfy_id": "uk.org.publicwhip/person/26376",
+        "removed": false
+      },
+      {
+        "name": "Mims Davies MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4513",
+        "twfy_id": "uk.org.publicwhip/person/25330",
+        "removed": false
+      },
+      {
+        "name": "Lord Campbell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "627",
+        "twfy_id": "uk.org.publicwhip/person/10088",
+        "removed": false
+      },
+      {
+        "name": "Lord Addington",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3453",
+        "twfy_id": "uk.org.publicwhip/person/13368",
+        "removed": false
+      },
+      {
+        "name": "Anna Turley MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4449",
+        "twfy_id": "uk.org.publicwhip/person/25313",
+        "removed": false
+      },
+      {
+        "name": "Baroness Grey-Thompson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3862",
+        "twfy_id": "uk.org.publicwhip/person/24707",
+        "removed": false
+      },
+      {
+        "name": "Lucy Rigby MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5333",
+        "twfy_id": "uk.org.publicwhip/person/26596",
+        "removed": false
+      },
+      {
+        "name": "Kate Osbourne MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4783",
+        "twfy_id": "uk.org.publicwhip/person/25794",
+        "removed": false
+      },
+      {
+        "name": "Jack Abbott MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5131",
+        "twfy_id": "uk.org.publicwhip/person/26385",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Rachel Taylor MP",
@@ -55,16 +224,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-10-08",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "08 Oct to 07 Oct",
-    "next_reporting_deadline": "2026-02-08"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/sport-and-physical-activity.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/sport-and-physical-activity.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]

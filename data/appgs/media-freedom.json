@@ -40,7 +40,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-09-12",
+    "last_updated": "2025-09-15",
     "members": [
       {
         "name": "Sir John Whittingdale",
@@ -310,8 +310,8 @@
         "name": "Greg Stafford Gregory Stafford MP",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5351",
+        "twfy_id": "uk.org.publicwhip/person/26626",
         "removed": false
       },
       {
@@ -352,16 +352,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-10-29",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "29 Oct to 28 Oct",
-    "next_reporting_deadline": "2026-02-28"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/media-freedom.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/media-freedom.htm",
   "categories": [
     "Arts, Culture, Heritage & Media",
     "International Affairs, Development & Trade",

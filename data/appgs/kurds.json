@@ -40,7 +40,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-09-12",
+    "last_updated": "2025-09-15",
     "members": [
       {
         "name": "Steve Race",
@@ -198,8 +198,8 @@
         "name": "Dr Zubir Ahmad MP",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5213",
+        "twfy_id": "uk.org.publicwhip/person/26483",
         "removed": false
       },
       {
@@ -222,8 +222,8 @@
         "name": "Steve Yamm MP",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5194",
+        "twfy_id": "uk.org.publicwhip/person/26469",
         "removed": false
       },
       {
@@ -238,8 +238,8 @@
         "name": "Siobhan McDonagh MP",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "193",
+        "twfy_id": "uk.org.publicwhip/person/10381",
         "removed": false
       },
       {
@@ -254,8 +254,8 @@
         "name": "Graham Morris MP",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3973",
+        "twfy_id": "uk.org.publicwhip/person/24715",
         "removed": false
       },
       {
@@ -392,16 +392,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2025-03-10",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "10 Mar to 09 Mar",
-    "next_reporting_deadline": "2026-07-10"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/kurds.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/kurds.htm",
   "categories": [
     "Human Rights, Equality & Social Justice",
     "International Affairs, Development & Trade"

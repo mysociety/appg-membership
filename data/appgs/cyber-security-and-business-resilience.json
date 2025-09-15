@@ -30,10 +30,166 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
-    "source_url": [],
-    "last_updated": null,
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "http://www.appgcybersecurity.org/membership.html",
+      "http://www.appgcybersecurity.org/officers.html"
+    ],
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Kit Malthouse",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4495",
+        "twfy_id": "uk.org.publicwhip/person/25346",
+        "removed": false
+      },
+      {
+        "name": "Admiral the Rt Hon Lord West of Spithead GCB DSC PC ADC DUniv",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Sharpe of Epsom OBE",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Colum Eastwood",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4846",
+        "twfy_id": "uk.org.publicwhip/person/25130",
+        "removed": false
+      },
+      {
+        "name": "The Lord Mackenzie of Framwellgate",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Baroness Uddin",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Rt Hon. the Baroness Neville-Jones",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Baroness Neville-Rolfe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Pidding",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4552",
+        "twfy_id": "uk.org.publicwhip/person/25467",
+        "removed": false
+      },
+      {
+        "name": "Baroness Fulbrook",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Rt Hon Lord Arbuthnot of Edrom",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Paul Holmes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4803",
+        "twfy_id": "uk.org.publicwhip/person/25808",
+        "removed": false
+      },
+      {
+        "name": "Alex Brewer",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5263",
+        "twfy_id": "uk.org.publicwhip/person/26366",
+        "removed": false
+      },
+      {
+        "name": "Lord Reid of Cardowan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mark Garnier",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4074",
+        "twfy_id": "uk.org.publicwhip/person/24824",
+        "removed": false
+      },
+      {
+        "name": "Lord Hogan-Howe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4693",
+        "twfy_id": "uk.org.publicwhip/person/25722",
+        "removed": false
+      },
+      {
+        "name": "Daniel Aldridge",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5172",
+        "twfy_id": "uk.org.publicwhip/person/26453",
+        "removed": false
+      },
+      {
+        "name": "Dave Robertson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5126",
+        "twfy_id": "uk.org.publicwhip/person/26374",
+        "removed": false
+      },
+      {
+        "name": "Alison Griffiths",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5203",
+        "twfy_id": "uk.org.publicwhip/person/26536",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Kit Malthouse MP",
@@ -47,16 +203,11 @@
       "url": "http://www.appgcybersecurity.org/"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-10-14",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "14 Oct to 13 Oct",
-    "next_reporting_deadline": "2026-02-14"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/cyber-security-and-business-resilience.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/cyber-security-and-business-resilience.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

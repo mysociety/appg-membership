@@ -14,14 +14,6 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Rebecca Smith",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26512",
-      "mnis_id": "5301",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Wera Hobhouse",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25648",
@@ -34,6 +26,14 @@
       "party": "Green Party",
       "twfy_id": "uk.org.publicwhip/person/26514",
       "mnis_id": "5320",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Rebecca Smith",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26512",
+      "mnis_id": "5301",
       "removed": false
     }
   ],
@@ -1194,12 +1194,7 @@
       "url": "https://environment.inparliament.uk/"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-07-30",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "30 Jul to 29 Jul",
-    "next_reporting_deadline": "2025-11-30"
-  },
+  "agm": null,
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {
@@ -1264,10 +1259,31 @@
       "Received": "27/02/2025",
       "Registered": "23/04/2025",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Zurich",
+      "Value £s": "5,000",
+      "Received": "20/05/2025",
+      "Registered": "02/09/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Mitie",
+      "Value £s": "2,000",
+      "Received": "13/06/2025",
+      "Registered": "02/09/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Toureen",
+      "Value £s": "5,000",
+      "Received": "11/07/2025",
+      "Registered": "02/09/2025",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/environment.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/environment.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Energy & Utilities"

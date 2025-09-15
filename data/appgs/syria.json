@@ -38,10 +38,179 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Debbie Abrahams",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4212",
+        "twfy_id": "uk.org.publicwhip/person/25034",
+        "removed": false
+      },
+      {
+        "name": "Shockat Adam",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5120",
+        "twfy_id": "uk.org.publicwhip/person/26364",
+        "removed": false
+      },
+      {
+        "name": "Tahir Ali",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4747",
+        "twfy_id": "uk.org.publicwhip/person/25888",
+        "removed": false
+      },
+      {
+        "name": "Baroness Nathalie Bennett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Tessa Blackstone",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jess Brown-Fuller",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5335",
+        "twfy_id": "uk.org.publicwhip/person/26372",
+        "removed": false
+      },
+      {
+        "name": "Alistair Carmichael",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1442",
+        "twfy_id": "uk.org.publicwhip/person/10785",
+        "removed": false
+      },
+      {
+        "name": "Ellie Chowns",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5249",
+        "twfy_id": "uk.org.publicwhip/person/26577",
+        "removed": false
+      },
+      {
+        "name": "Baroness Julie Elliott",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4127",
+        "twfy_id": "uk.org.publicwhip/person/24710",
+        "removed": false
+      },
+      {
+        "name": "Stephen Gethins",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4434",
+        "twfy_id": "uk.org.publicwhip/person/25324",
+        "removed": false
+      },
+      {
+        "name": "Lord Peter Hain",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Helena Kennedy",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ayoub Khan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5357",
+        "twfy_id": "uk.org.publicwhip/person/26631",
+        "removed": false
+      },
+      {
+        "name": "Andy McDonald",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4269",
+        "twfy_id": "uk.org.publicwhip/person/25169",
+        "removed": false
+      },
+      {
+        "name": "Lord Mark McInnes",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Nosheena Mobarik",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Abtisam Mohamed",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5142",
+        "twfy_id": "uk.org.publicwhip/person/26413",
+        "removed": false
+      },
+      {
+        "name": "Baroness Lindsay Northover",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Jeremy Purvis",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Andy Slaughter",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1516",
+        "twfy_id": "uk.org.publicwhip/person/11559",
+        "removed": false
+      },
+      {
+        "name": "Steve Witherden",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5221",
+        "twfy_id": "uk.org.publicwhip/person/26583",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Mr Alistair Carmichael MP",
@@ -55,16 +224,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-12-19",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "19 Dec to 18 Dec",
-    "next_reporting_deadline": "2026-04-19"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/syria.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/syria.htm",
   "categories": [
     "Country Group"
   ]

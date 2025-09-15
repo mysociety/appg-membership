@@ -6,10 +6,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Dr Jeevun Sandher",
+      "name": "Tom Collins",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26521",
-      "mnis_id": "5259",
+      "twfy_id": "uk.org.publicwhip/person/26351",
+      "mnis_id": "5087",
       "removed": false
     },
     {
@@ -44,9 +44,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Dr Jeevun Sandher MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "jeevun.sandher.mp@parliament.uk",
+    "registered_contact_name": "Tom Collins MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 07543 467626.",
+    "registered_contact_email": "tom.collins.mp@parliament.uk",
     "public_enquiry_point_name": "Kate Weston, Connect Public Affairs. Tel: 020 7592 9592",
     "public_enquiry_point_email": "k.weston@connectpa.co.uk",
     "secretariat": "Connect acts as the group's secretariat.https://connectpa.co.uk/",
@@ -55,16 +55,11 @@
       "url": "https://www.connectpa.co.uk/appg-hydrogen"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-09-10",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2026-01-10"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/hydrogen.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/hydrogen.htm",
   "categories": [
     "Science, Technology & Innovation",
     "Environment, Climate & Sustainability",

@@ -14,6 +14,14 @@
     },
     {
       "role": "Officer",
+      "name": "Dr Ellie Chowns",
+      "party": "Green Party",
+      "twfy_id": "uk.org.publicwhip/person/26577",
+      "mnis_id": "5249",
+      "removed": false
+    },
+    {
+      "role": "Officer",
       "name": "Lord Garnier",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10221",
@@ -26,14 +34,6 @@
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26485",
       "mnis_id": "5124",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Ellie Chowns",
-      "party": "Green Party",
-      "twfy_id": "uk.org.publicwhip/person/26577",
-      "mnis_id": "5249",
       "removed": false
     }
   ],
@@ -470,16 +470,11 @@
     "public_enquiry_point_email": null,
     "secretariat": null,
     "website": {
-      "status": "search",
+      "status": "register",
       "url": "https://www.appghumanrights.com/"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-09-10",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "01 Apr to 31 Mar",
-    "next_reporting_deadline": "2025-08-01"
-  },
+  "agm": null,
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {
@@ -497,8 +492,8 @@
       "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/human-rights.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/human-rights.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

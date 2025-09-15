@@ -38,10 +38,171 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Mark Pritchard MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1576",
+        "twfy_id": "uk.org.publicwhip/person/11946",
+        "removed": false
+      },
+      {
+        "name": "Jeremy Corbyn MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "185",
+        "twfy_id": "uk.org.publicwhip/person/10133",
+        "removed": false
+      },
+      {
+        "name": "Baroness Gloria Hooper",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Donald Anderson of Swansea",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Afzal Khan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4671",
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
+      },
+      {
+        "name": "Lord Risby",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "139",
+        "twfy_id": "uk.org.publicwhip/person/10561",
+        "removed": false
+      },
+      {
+        "name": "Lord Dholakia",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2685",
+        "twfy_id": "uk.org.publicwhip/person/13662",
+        "removed": false
+      },
+      {
+        "name": "Charlie Dewhirst MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5169",
+        "twfy_id": "uk.org.publicwhip/person/26461",
+        "removed": false
+      },
+      {
+        "name": "Sir Desmond Swayne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "55",
+        "twfy_id": "uk.org.publicwhip/person/10580",
+        "removed": false
+      },
+      {
+        "name": "Wendy Morton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4358",
+        "twfy_id": "uk.org.publicwhip/person/25342",
+        "removed": false
+      },
+      {
+        "name": "Rupa Huq MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4511",
+        "twfy_id": "uk.org.publicwhip/person/25284",
+        "removed": false
+      },
+      {
+        "name": "Graham Stuart MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1482",
+        "twfy_id": "uk.org.publicwhip/person/11406",
+        "removed": false
+      },
+      {
+        "name": "Lord Dear",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3808",
+        "twfy_id": "uk.org.publicwhip/person/13884",
+        "removed": false
+      },
+      {
+        "name": "Baroness Mobarik CBE",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4335",
+        "twfy_id": "uk.org.publicwhip/person/25235",
+        "removed": false
+      },
+      {
+        "name": "Jim Shannon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4131",
+        "twfy_id": "uk.org.publicwhip/person/13864",
+        "removed": false
+      },
+      {
+        "name": "Kit Malthouse MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4495",
+        "twfy_id": "uk.org.publicwhip/person/25346",
+        "removed": false
+      },
+      {
+        "name": "Sammy Wilson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1593",
+        "twfy_id": "uk.org.publicwhip/person/11374",
+        "removed": false
+      },
+      {
+        "name": "Baroness Uddin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1827",
+        "twfy_id": "uk.org.publicwhip/person/13274",
+        "removed": false
+      },
+      {
+        "name": "David Mundell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1512",
+        "twfy_id": "uk.org.publicwhip/person/11970",
+        "removed": false
+      },
+      {
+        "name": "Lord David Alton of Liverpool",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Mark Pritchard MP",
@@ -55,16 +216,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2025-03-04",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "04 Mar to 03 Mar",
-    "next_reporting_deadline": "2026-07-04"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/egypt.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/egypt.htm",
   "categories": [
     "Country Group"
   ]

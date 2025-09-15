@@ -6,14 +6,14 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Rachael Maskell",
-      "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/25433",
-      "mnis_id": "4471",
+      "name": "Anneliese Dodds",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/25618",
+      "mnis_id": "4657",
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Officer",
       "name": "Stephen Gethins",
       "party": "Scottish National Party",
       "twfy_id": "uk.org.publicwhip/person/25324",
@@ -21,17 +21,17 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "Baroness Anelay of St Johns",
-      "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "role": "Officer",
+      "name": "Monica Harding",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26516",
+      "mnis_id": "5299",
       "removed": false
     },
     {
-      "role": "Treasurer",
-      "name": "Lord Curry of Kirkharle",
-      "party": "Crossbench",
+      "role": "Officer",
+      "name": "Baroness Anelay of St Johns",
+      "party": "Conservative",
       "twfy_id": null,
       "mnis_id": null,
       "removed": false
@@ -44,9 +44,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Rachael Maskell MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 4525.",
-    "registered_contact_email": "rachael.maskell.mp@parliament.uk",
+    "registered_contact_name": "Anneliese Dodds MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 2705.",
+    "registered_contact_email": "anneliese.dodds.mp@parliament.uk",
     "public_enquiry_point_name": "Glen Promnitz. Tel: 07456 192552",
     "public_enquiry_point_email": "grpromnitz@gmaiil.com",
     "secretariat": null,
@@ -55,12 +55,7 @@
       "url": "https://appgsudan.uk/"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-10-23",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "23 Oct to 22 Oct",
-    "next_reporting_deadline": "2026-02-23"
-  },
+  "agm": null,
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {
@@ -71,8 +66,8 @@
       "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/sudan-and-south-sudan.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/sudan-and-south-sudan.htm",
   "categories": [
     "Country Group"
   ]

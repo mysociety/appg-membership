@@ -40,14 +40,14 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-09-12",
+    "last_updated": "2025-09-15",
     "members": [
       {
         "name": "John McDonnnell",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
         "removed": false
       },
       {
@@ -224,16 +224,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2025-03-12",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "12 Mar to 11 Mar",
-    "next_reporting_deadline": "2026-07-12"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/speech-and-language-difficulties.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/speech-and-language-difficulties.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Education, Skills & Youth"

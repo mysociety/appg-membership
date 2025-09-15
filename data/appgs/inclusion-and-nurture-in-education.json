@@ -27,6 +27,14 @@
       "twfy_id": "uk.org.publicwhip/person/25611",
       "mnis_id": "4673",
       "removed": false
+    },
+    {
+      "role": "Treasurer",
+      "name": "Josh Dean",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26456",
+      "mnis_id": "5187",
+      "removed": false
     }
   ],
   "members_list": {
@@ -47,16 +55,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-11-05",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "05 Nov to 04 Nov",
-    "next_reporting_deadline": "2026-03-05"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/inclusion-and-nurture-in-education.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/inclusion-and-nurture-in-education.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

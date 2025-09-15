@@ -55,12 +55,7 @@
       "url": "https://appgbritishmuslims.org/"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-09-10",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2026-01-10"
-  },
+  "agm": null,
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {
@@ -69,10 +64,17 @@
       "Received": "05/11/2024",
       "Registered": "18/11/2024",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "The Aziz Foundation",
+      "Value £s": "30,000",
+      "Received": "30/07/2025",
+      "Registered": "21/08/2025",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/british-muslims.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/british-muslims.htm",
   "categories": [
     "Human Rights, Equality & Social Justice",
     "Religion, Faith & Belief Communities"

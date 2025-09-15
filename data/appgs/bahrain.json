@@ -40,7 +40,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-09-12",
+    "last_updated": "2025-09-15",
     "members": [
       {
         "name": "Afzal Khan",
@@ -78,8 +78,8 @@
         "name": "Nevendu Mishra",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4811",
+        "twfy_id": "uk.org.publicwhip/person/25836",
         "removed": false
       },
       {
@@ -126,8 +126,8 @@
         "name": "Tan Dehsi",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4638",
+        "twfy_id": "uk.org.publicwhip/person/25695",
         "removed": false
       },
       {
@@ -294,8 +294,8 @@
         "name": "Connar Rand",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5159",
+        "twfy_id": "uk.org.publicwhip/person/26473",
         "removed": false
       },
       {
@@ -318,8 +318,8 @@
         "name": "Sadik Al Hassan",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5312",
+        "twfy_id": "uk.org.publicwhip/person/26527",
         "removed": false
       },
       {
@@ -360,16 +360,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2025-04-29",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "29 Apr to 28 Apr",
-    "next_reporting_deadline": "2026-08-29"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/bahrain.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/bahrain.htm",
   "categories": [
     "Country Group"
   ]

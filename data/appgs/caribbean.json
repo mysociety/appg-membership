@@ -40,7 +40,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-09-12",
+    "last_updated": "2025-09-15",
     "members": [
       {
         "name": "Juliet Campbell",
@@ -62,8 +62,8 @@
         "name": "Paullette Hamilton",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4938",
+        "twfy_id": "uk.org.publicwhip/person/26061",
         "removed": false
       },
       {
@@ -192,16 +192,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-10-23",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "23 Oct to 22 Oct",
-    "next_reporting_deadline": "2026-02-23"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/caribbean.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/caribbean.htm",
   "categories": [
     "Country Group"
   ]

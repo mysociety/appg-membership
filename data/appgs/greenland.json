@@ -38,10 +38,77 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
-    "source_url": [],
-    "last_updated": null,
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://polarconnection.org/all-party-parliamentary-group-for-greenland-greenland-appg/"
+    ],
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Brendan O’Hara",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4371",
+        "twfy_id": "uk.org.publicwhip/person/25370",
+        "removed": false
+      },
+      {
+        "name": "Andrew Rosindell",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1447",
+        "twfy_id": "uk.org.publicwhip/person/11199",
+        "removed": false
+      },
+      {
+        "name": "Cat Smith",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4436",
+        "twfy_id": "uk.org.publicwhip/person/25432",
+        "removed": false
+      },
+      {
+        "name": "Drew Hendry",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4467",
+        "twfy_id": "uk.org.publicwhip/person/25382",
+        "removed": false
+      },
+      {
+        "name": "Carol Monaghan",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4443",
+        "twfy_id": "uk.org.publicwhip/person/25406",
+        "removed": false
+      },
+      {
+        "name": "David Linden",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4640",
+        "twfy_id": "uk.org.publicwhip/person/25677",
+        "removed": false
+      },
+      {
+        "name": "Alex Sobel",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4658",
+        "twfy_id": "uk.org.publicwhip/person/25680",
+        "removed": false
+      },
+      {
+        "name": "Gavin Newlands",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4420",
+        "twfy_id": "uk.org.publicwhip/person/25291",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Brendan O'Hara MP",
@@ -55,16 +122,11 @@
       "url": "https://polarconnection.org/all-party-parliamentary-group-for-greenland-greenland-appg/"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2025-06-09",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "09 Jun to 08 Jun",
-    "next_reporting_deadline": "2026-10-09"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/greenland.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/greenland.htm",
   "categories": [
     "Country Group"
   ]

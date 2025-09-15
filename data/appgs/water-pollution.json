@@ -6,7 +6,7 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Ellie Chowns",
+      "name": "Dr Ellie Chowns",
       "party": "Green Party",
       "twfy_id": "uk.org.publicwhip/person/26577",
       "mnis_id": "5249",
@@ -559,7 +559,7 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Ellie Chowns MP",
+    "registered_contact_name": "Dr Ellie Chowns MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "ellie.chowns.mp@parliament.uk",
     "public_enquiry_point_name": "Oliver Ratcliffe, Seahorse Environmental. Tel: 07807 378292",
@@ -570,16 +570,11 @@
       "url": "http://www.waterpollutionappg.co.uk/"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-10-24",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "24 Oct to 23 Oct",
-    "next_reporting_deadline": "2026-02-24"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/water-pollution.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/water-pollution.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

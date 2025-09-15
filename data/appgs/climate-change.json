@@ -14,18 +14,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Carla Denyer",
-      "party": "Green Party",
-      "twfy_id": "uk.org.publicwhip/person/26379",
-      "mnis_id": "5102",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Pippa Heylings",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26421",
       "mnis_id": "5078",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Carla Denyer",
+      "party": "Green Party",
+      "twfy_id": "uk.org.publicwhip/person/26379",
+      "mnis_id": "5102",
       "removed": false
     },
     {
@@ -84,22 +84,17 @@
     "registered_contact_email": "luke.murphy.mp@parliament.uk",
     "public_enquiry_point_name": "Zoe Avison, Uplift",
     "public_enquiry_point_email": "zoe@upliftuk.org",
-    "secretariat": "Uplift  acts as the group's secretariat.https://upliftuk.org/",
+    "secretariat": "Uplift acts as the group's secretariat.https://upliftuk.org/",
     "website": {
       "status": "register",
       "url": "https://www.climateappg.co.uk/"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-07-29",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "29 Jul to 28 Jul",
-    "next_reporting_deadline": "2025-11-29"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/climate-change.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/climate-change.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

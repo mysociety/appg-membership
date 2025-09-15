@@ -38,10 +38,419 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Parliamentarians",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Name",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Fabian Hamilton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "415",
+        "twfy_id": "uk.org.publicwhip/person/10256",
+        "removed": false
+      },
+      {
+        "name": "Tom Gordon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5032",
+        "twfy_id": "uk.org.publicwhip/person/26312",
+        "removed": false
+      },
+      {
+        "name": "Mark Sewards MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5166",
+        "twfy_id": "uk.org.publicwhip/person/26440",
+        "removed": false
+      },
+      {
+        "name": "Sir Alec Shelbrooke MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3997",
+        "twfy_id": "uk.org.publicwhip/person/24893",
+        "removed": false
+      },
+      {
+        "name": "Harpreet Uppal MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5289",
+        "twfy_id": "uk.org.publicwhip/person/26508",
+        "removed": false
+      },
+      {
+        "name": "Lord Newby of Rothwell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1916",
+        "twfy_id": "uk.org.publicwhip/person/13702",
+        "removed": false
+      },
+      {
+        "name": "Martin Vickers MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3957",
+        "twfy_id": "uk.org.publicwhip/person/24814",
+        "removed": false
+      },
+      {
+        "name": "Lord Best of Godmanstone",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Graham Stuart MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1482",
+        "twfy_id": "uk.org.publicwhip/person/11406",
+        "removed": false
+      },
+      {
+        "name": "Sarah Champion MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4267",
+        "twfy_id": "uk.org.publicwhip/person/25168",
+        "removed": false
+      },
+      {
+        "name": "Baroness Harris of Richmond",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Wallace of Saltaire",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Richard Burgon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4493",
+        "twfy_id": "uk.org.publicwhip/person/25391",
+        "removed": false
+      },
+      {
+        "name": "Lord Crathorne",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3380",
+        "twfy_id": "uk.org.publicwhip/person/12952",
+        "removed": false
+      },
+      {
+        "name": "Lord Blunkett of Brightside and Hillsborough",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Kim Leadbeater MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4923",
+        "twfy_id": "uk.org.publicwhip/person/26040",
+        "removed": false
+      },
+      {
+        "name": "Lord Kirkhope of Harrogate",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Scriven of Hunters Bar",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Bennett of Manor Castle",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jade Botterill MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5236",
+        "twfy_id": "uk.org.publicwhip/person/26465",
+        "removed": false
+      },
+      {
+        "name": "Archbishop of York",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Kevin Hollinrake MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4474",
+        "twfy_id": "uk.org.publicwhip/person/25415",
+        "removed": false
+      },
+      {
+        "name": "Marie Tidball MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5098",
+        "twfy_id": "uk.org.publicwhip/person/26390",
+        "removed": false
+      },
+      {
+        "name": "Lee Pitcher MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5233",
+        "twfy_id": "uk.org.publicwhip/person/26464",
+        "removed": false
+      },
+      {
+        "name": "Charlie Dewhurst MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5169",
+        "twfy_id": "uk.org.publicwhip/person/26461",
+        "removed": false
+      },
+      {
+        "name": "Katie White MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5260",
+        "twfy_id": "uk.org.publicwhip/person/26520",
+        "removed": false
+      },
+      {
+        "name": "Luke Charters MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5199",
+        "twfy_id": "uk.org.publicwhip/person/26480",
+        "removed": false
+      },
+      {
+        "name": "Baroness Pinnock of Cleckheaton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Paul Davies MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "None",
+        "twfy_id": "uk.org.publicwhip/person/26127",
+        "removed": false
+      },
+      {
+        "name": "Imran Hussain MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4394",
+        "twfy_id": "uk.org.publicwhip/person/25375",
+        "removed": false
+      },
+      {
+        "name": "External Members",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Future Humber",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Yorkshire Universities",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bradford University",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Hull University",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "First Bus",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Yorkshire Leaders Board",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Yorkshire & Humber Policy Engagement & Research Network",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Health Innovation Yorkshire and Humber",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Northern Powergrid",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Leeds Bradford Airport",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Walker Morris",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Leeds Building Society",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Drax",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Yorkshire Sports Foundation",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Yorkshire Building Society",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Yorkshire Climate Change Commisison",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sheffield Forgemasters",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Yorkshire Water",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Mark Sewards MP",
@@ -55,12 +464,7 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-10-22",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "22 Oct to 21 Oct",
-    "next_reporting_deadline": "2026-02-22"
-  },
+  "agm": null,
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {
@@ -71,8 +475,8 @@
       "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/yorkshire-and-northern-lincolnshire.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/yorkshire-and-northern-lincolnshire.htm",
   "categories": [
     "Regions, Nations & Devolution"
   ]

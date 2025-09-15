@@ -38,10 +38,379 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-04-29",
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Jo Platt Chair",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Goddard Officer Lib Dem",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Afzal Khan Officer Lib Dem",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Altrincham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4921",
+        "twfy_id": "uk.org.publicwhip/person/26035",
+        "removed": false
+      },
+      {
+        "name": "Debbie Abrahams",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4212",
+        "twfy_id": "uk.org.publicwhip/person/25034",
+        "removed": false
+      },
+      {
+        "name": "Lord Ashton Ashton None (for. Con.)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Elsie Blundell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5084",
+        "twfy_id": "uk.org.publicwhip/person/26481",
+        "removed": false
+      },
+      {
+        "name": "Lord Bradley Bradley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Phil Brickell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5128",
+        "twfy_id": "uk.org.publicwhip/person/26368",
+        "removed": false
+      },
+      {
+        "name": "Kirith Entwistle",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5095",
+        "twfy_id": "uk.org.publicwhip/person/26378",
+        "removed": false
+      },
+      {
+        "name": "James Frith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4637",
+        "twfy_id": "uk.org.publicwhip/person/25622",
+        "removed": false
+      },
+      {
+        "name": "Andrew Gwynne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1506",
+        "twfy_id": "uk.org.publicwhip/person/11531",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hughes Hughes",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mike Kane",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4316",
+        "twfy_id": "uk.org.publicwhip/person/25220",
+        "removed": false
+      },
+      {
+        "name": "Rebecca Long-Bailey",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4396",
+        "twfy_id": "uk.org.publicwhip/person/25368",
+        "removed": false
+      },
+      {
+        "name": "Jim McMahon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4569",
+        "twfy_id": "uk.org.publicwhip/person/25475",
+        "removed": false
+      },
+      {
+        "name": "Navendu Mishra",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4811",
+        "twfy_id": "uk.org.publicwhip/person/25836",
+        "removed": false
+      },
+      {
+        "name": "Tom Morrison Lib Dem",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5090",
+        "twfy_id": "uk.org.publicwhip/person/26400",
+        "removed": false
+      },
+      {
+        "name": "Lisa Nandy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4082",
+        "twfy_id": "uk.org.publicwhip/person/24831",
+        "removed": false
+      },
+      {
+        "name": "Lord O'Neil O'Neil XBench",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jon Pearce",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5115",
+        "twfy_id": "uk.org.publicwhip/person/26362",
+        "removed": false
+      },
+      {
+        "name": "Lucy Powell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4263",
+        "twfy_id": "uk.org.publicwhip/person/25165",
+        "removed": false
+      },
+      {
+        "name": "Yasmin Qureshi",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3924",
+        "twfy_id": "uk.org.publicwhip/person/24775",
+        "removed": false
+      },
+      {
+        "name": "Connor Rand",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5159",
+        "twfy_id": "uk.org.publicwhip/person/26473",
+        "removed": false
+      },
+      {
+        "name": "Angela Rayner",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4356",
+        "twfy_id": "uk.org.publicwhip/person/25429",
+        "removed": false
+      },
+      {
+        "name": "Jonathan Reynolds",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4119",
+        "twfy_id": "uk.org.publicwhip/person/24929",
+        "removed": false
+      },
+      {
+        "name": "Josh Simons",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5060",
+        "twfy_id": "uk.org.publicwhip/person/26328",
+        "removed": false
+      },
+      {
+        "name": "Lisa Smart Lib Dem",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jeff Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4456",
+        "twfy_id": "uk.org.publicwhip/person/25366",
+        "removed": false
+      },
+      {
+        "name": "Graham Stringer",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "449",
+        "twfy_id": "uk.org.publicwhip/person/10576",
+        "removed": false
+      },
+      {
+        "name": "Christian Wakeford",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4871",
+        "twfy_id": "uk.org.publicwhip/person/25874",
+        "removed": false
+      },
+      {
+        "name": "Paul Waugh",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5071",
+        "twfy_id": "uk.org.publicwhip/person/26319",
+        "removed": false
+      },
+      {
+        "name": "Andrew Western",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4979",
+        "twfy_id": "uk.org.publicwhip/person/26120",
+        "removed": false
+      },
+      {
+        "name": "Michael Wheeler",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5242",
+        "twfy_id": "uk.org.publicwhip/person/26551",
+        "removed": false
+      },
+      {
+        "name": "GM APPG Sponsors",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jonny Morgan Electricity North West",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Gaynor Kenyon United Utilities",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Andy Brown Manchester Airport",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Chris Woodroofe Manchester Airport",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tim Hawkins Manchester Airport",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Rebecca Hutchinson Manchester Airport",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Laura Harvey AutoTrader",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Nathan Coe AutoTrader",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "John McKenna Salford University",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Anna Hill The Growth Company",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jon Paul Rimington The Growth Company",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Jo Platt MP",
@@ -55,16 +424,11 @@
       "url": "https://gmappg.org.uk/"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-09-09",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "09 Sep to 08 Sep",
-    "next_reporting_deadline": "2026-01-09"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/greater-manchester.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/greater-manchester.htm",
   "categories": [
     "Regions, Nations & Devolution"
   ]

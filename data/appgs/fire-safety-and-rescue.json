@@ -38,10 +38,331 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-04-28",
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "APPG Officer and Chairman Bob Blackman CBE MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "APPG Officer and Vice Chair Mary Glindon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "APPG Officer and Vice Chair Lord Goddard",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "APPG Officer and Vice Chair – Baroness Brinton.",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Co Vice Chair – Lord John Hendy KC",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Co Vice Chair – Rt. Hon. Sir Desmond Swayne MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Grey-Thompson DBE, DL",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Andy Slaughter MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1516",
+        "twfy_id": "uk.org.publicwhip/person/11559",
+        "removed": false
+      },
+      {
+        "name": "Earl of Lytton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Kim Johnson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4824",
+        "twfy_id": "uk.org.publicwhip/person/25803",
+        "removed": false
+      },
+      {
+        "name": "Sir Geoffrey Clifton Brown MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "249",
+        "twfy_id": "uk.org.publicwhip/person/10119",
+        "removed": false
+      },
+      {
+        "name": "Mary Foy MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4753",
+        "twfy_id": "uk.org.publicwhip/person/25833",
+        "removed": false
+      },
+      {
+        "name": "Joe Powell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5229",
+        "twfy_id": "uk.org.publicwhip/person/26477",
+        "removed": false
+      },
+      {
+        "name": "Ann Davies MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5177",
+        "twfy_id": "uk.org.publicwhip/person/26359",
+        "removed": false
+      },
+      {
+        "name": "Apsana Begum MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4790",
+        "twfy_id": "uk.org.publicwhip/person/25914",
+        "removed": false
+      },
+      {
+        "name": "Chris Webb MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5025",
+        "twfy_id": "uk.org.publicwhip/person/26305",
+        "removed": false
+      },
+      {
+        "name": "Jim Shannon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4131",
+        "twfy_id": "uk.org.publicwhip/person/13864",
+        "removed": false
+      },
+      {
+        "name": "Lord Jim Knight",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Rachael Maskell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4471",
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
+      },
+      {
+        "name": "Helena Dollimore MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5192",
+        "twfy_id": "uk.org.publicwhip/person/26507",
+        "removed": false
+      },
+      {
+        "name": "Lord Naseby",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1251",
+        "twfy_id": "uk.org.publicwhip/person/13704",
+        "removed": false
+      },
+      {
+        "name": "Andy Macnae MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5134",
+        "twfy_id": "uk.org.publicwhip/person/26391",
+        "removed": false
+      },
+      {
+        "name": "Dave Robertson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5126",
+        "twfy_id": "uk.org.publicwhip/person/26374",
+        "removed": false
+      },
+      {
+        "name": "Group Advisers:",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ronnie King OBE, O.St.J, QFSM, F.I.Fire E",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mike Wood BA(Hons) Oxon FIFireE",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tom Roche Fire Sector Confederation Board Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Brian Robiinson BE, O.St.J, QFSM, F.I.Fire",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jane Duncan OBE \\- RIBA Specialist Fire Group",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Paul Bussey – RIBA Specialist Fire Group",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "John Cole \\- RIBA Specialist Fire Group",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Other non Parliamentary members:",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Steve McGuirk CBE, QFSM, DL, MA, BA(Hons), BSc. F.I.Fire E – Executive Board FS Confederation",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "John Spencer, Chairman Fire Sector Confederation",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dr Gavin Dunne BSc (Hons), MSc, PhD, FCABE, C. Build– Chief Exec. Fire Protection Association",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "David Williams Chairman Fire Protection Association",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Alasdair Perry – Chief Executive British Automatic Fire Sprinkler Association",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Nicole Hoffman BSc (Hons), PhD CEng FIFireE, CMath, FIMA, Tech Director AtkinsRealis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jessica Shaw Public Affairs Officer – LFB",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tillie Muir – Political Liaison – Fire Brigades Union.",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Bob Blackman MP",
@@ -55,12 +376,7 @@
       "url": "https://firesafetyrescueappg.co.uk/"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-07-29",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "29 Jul to 28 Jul",
-    "next_reporting_deadline": "2025-11-29"
-  },
+  "agm": null,
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {
@@ -78,8 +394,8 @@
       "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/fire-safety-and-rescue.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/fire-safety-and-rescue.htm",
   "categories": [
     "Justice, Law & Security",
     "Housing, Planning & Built Environment"

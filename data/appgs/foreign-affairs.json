@@ -40,7 +40,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-09-12",
+    "last_updated": "2025-09-15",
     "members": [
       {
         "name": "Mr Shockat Adam Independent",
@@ -70,8 +70,8 @@
         "name": "Ms. Nesil Caliskan",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5180",
+        "twfy_id": "uk.org.publicwhip/person/26474",
         "removed": false
       },
       {
@@ -94,8 +94,8 @@
         "name": "Mr. Fabian Hamilton",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "415",
+        "twfy_id": "uk.org.publicwhip/person/10256",
         "removed": false
       },
       {
@@ -238,8 +238,8 @@
         "name": "Miss Naz Shah",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4409",
+        "twfy_id": "uk.org.publicwhip/person/25385",
         "removed": false
       },
       {
@@ -270,8 +270,8 @@
         "name": "Mr Cameron Thomas Liberal",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5354",
+        "twfy_id": "uk.org.publicwhip/person/26532",
         "removed": false
       },
       {
@@ -328,16 +328,11 @@
       "url": "http://www.appgforeignaffairs.org/"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-10-28",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "28 Oct to 27 Oct",
-    "next_reporting_deadline": "2026-02-28"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/foreign-affairs.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/foreign-affairs.htm",
   "categories": [
     "International Affairs, Development & Trade"
   ]

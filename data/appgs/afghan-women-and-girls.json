@@ -40,7 +40,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-09-12",
+    "last_updated": "2025-09-15",
     "members": [
       {
         "name": "Afzal Khan",
@@ -134,8 +134,8 @@
         "name": "Kate Osamar",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4515",
+        "twfy_id": "uk.org.publicwhip/person/25365",
         "removed": false
       },
       {
@@ -190,8 +190,8 @@
         "name": "Rachel Maskall",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4471",
+        "twfy_id": "uk.org.publicwhip/person/25433",
         "removed": false
       },
       {
@@ -243,11 +243,11 @@
         "removed": false
       },
       {
-        "name": "Saqib Bhatti",
+        "name": "Saqib Bhatti Dairy APPG Ben Maguire Matt Bishop Lord Cameron of Dillington Simon Hoare Ann Davies Helen Morgan Caroline Voaden Paul Davies Mike Reader Catherine Fookes Sir John Hayes Vikki Slade David Mundell Jayne Kirkham Ben Lake Alicia Kearns Llinos Medi Sir Julian Lewis Alistair Carmichael Julie Minns Julia Buckley Sadik Al-Hassan Alison Hume Sarah Dyke Tim Farron Lord Curry of Kirkharle",
         "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4818",
-        "twfy_id": "uk.org.publicwhip/person/25847",
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -264,16 +264,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-12-17",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "17 Dec to 16 Dec",
-    "next_reporting_deadline": "2026-04-17"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/afghan-women-and-girls.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/afghan-women-and-girls.htm",
   "categories": [
     "Human Rights, Equality & Social Justice",
     "International Affairs, Development & Trade"

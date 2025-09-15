@@ -205,10 +205,18 @@ def _parse_agm_details(table: Optional[Tag]) -> Optional[AGMDetails]:
             return None
 
     # Get values with fallbacks for missing keys
+
     agm_date_str = mapping.get("Date of most recent AGM in this Parliament")
+    if agm_date_str is None:
+        agm_date_str = mapping.get("Date of IGM or most recent AGM in this Parliament")
+
     statement_str = mapping.get(
         "Did the group publish an income and expenditure statement relating to the AGM above?"
     )
+    if statement_str is None:
+        mapping.get(
+            "Did the group approve an income and expenditure statement at the AGM above? (not applicable to IGMs)"
+        )
     reporting_year = mapping.get("Reporting year")
     deadline_str = mapping.get("Next reporting deadline")
 

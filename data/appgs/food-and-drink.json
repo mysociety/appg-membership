@@ -40,7 +40,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-09-12",
+    "last_updated": "2025-09-15",
     "members": [
       {
         "name": "Mike Reader MP",
@@ -182,16 +182,16 @@
         "name": "Ben Goldsbrough MP",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5205",
+        "twfy_id": "uk.org.publicwhip/person/26530",
         "removed": false
       },
       {
         "name": "Nav Mishra MP",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4811",
+        "twfy_id": "uk.org.publicwhip/person/25836",
         "removed": false
       },
       {
@@ -246,8 +246,8 @@
         "name": "Joshua Newbury MP",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5034",
+        "twfy_id": "uk.org.publicwhip/person/26317",
         "removed": false
       },
       {
@@ -304,16 +304,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-11-19",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "19 Nov to 18 Nov",
-    "next_reporting_deadline": "2026-03-19"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/food-and-drink.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/food-and-drink.htm",
   "categories": [
     "Economy, Business & Industry",
     "Food, Agriculture & Rural Affairs"

@@ -234,12 +234,7 @@
       "url": "https://pictfor.org.uk/"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-10-21",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "21 Oct to 20 Oct",
-    "next_reporting_deadline": "2026-02-21"
-  },
+  "agm": null,
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {
@@ -311,10 +306,31 @@
       "Received": "31/03/2025",
       "Registered": "01/04/2025",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "SAP",
+      "Value £s": "7,200",
+      "Received": "07/05/2025",
+      "Registered": "23/07/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Latus Group",
+      "Value £s": "2,880",
+      "Received": "30/05/2025",
+      "Registered": "23/07/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Google",
+      "Value £s": "7,200",
+      "Received": "18/07/2025",
+      "Registered": "23/07/2025",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/internet-communications-and-technology.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/internet-communications-and-technology.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

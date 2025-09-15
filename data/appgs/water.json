@@ -22,10 +22,10 @@
     },
     {
       "role": "Officer",
-      "name": "Calum Miller",
+      "name": "Alex Brewer",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26617",
-      "mnis_id": "5346",
+      "twfy_id": "uk.org.publicwhip/person/26366",
+      "mnis_id": "5263",
       "removed": false
     },
     {
@@ -38,33 +38,453 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Lee Pitcher MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5233",
+        "twfy_id": "uk.org.publicwhip/person/26464",
+        "removed": false
+      },
+      {
+        "name": "Baroness McIntosh of Pickering",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Julia Buckley MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5171",
+        "twfy_id": "uk.org.publicwhip/person/26436",
+        "removed": false
+      },
+      {
+        "name": "Calum Miller MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5346",
+        "twfy_id": "uk.org.publicwhip/person/26617",
+        "removed": false
+      },
+      {
+        "name": "Amanda Hack MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5149",
+        "twfy_id": "uk.org.publicwhip/person/26449",
+        "removed": false
+      },
+      {
+        "name": "Barry Gardiner MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "146",
+        "twfy_id": "uk.org.publicwhip/person/10220",
+        "removed": false
+      },
+      {
+        "name": "Jess Brown Fuller MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5335",
+        "twfy_id": "uk.org.publicwhip/person/26372",
+        "removed": false
+      },
+      {
+        "name": "Alex Brewer MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5263",
+        "twfy_id": "uk.org.publicwhip/person/26366",
+        "removed": false
+      },
+      {
+        "name": "Shockat Adam MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5120",
+        "twfy_id": "uk.org.publicwhip/person/26364",
+        "removed": false
+      },
+      {
+        "name": "Al Pinkerton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5288",
+        "twfy_id": "uk.org.publicwhip/person/26593",
+        "removed": false
+      },
+      {
+        "name": "Steve Darling MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5066",
+        "twfy_id": "uk.org.publicwhip/person/26349",
+        "removed": false
+      },
+      {
+        "name": "Roz Savage MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5352",
+        "twfy_id": "uk.org.publicwhip/person/26603",
+        "removed": false
+      },
+      {
+        "name": "David Burtonsampson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5106",
+        "twfy_id": "uk.org.publicwhip/person/26442",
+        "removed": false
+      },
+      {
+        "name": "Lizzi Collinge MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5225",
+        "twfy_id": "uk.org.publicwhip/person/26592",
+        "removed": false
+      },
+      {
+        "name": "Tom Rutland MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5222",
+        "twfy_id": "uk.org.publicwhip/person/26467",
+        "removed": false
+      },
+      {
+        "name": "Sarah Green MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4918",
+        "twfy_id": "uk.org.publicwhip/person/26034",
+        "removed": false
+      },
+      {
+        "name": "Claire Young MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5140",
+        "twfy_id": "uk.org.publicwhip/person/26458",
+        "removed": false
+      },
+      {
+        "name": "Mike Reader MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5316",
+        "twfy_id": "uk.org.publicwhip/person/26630",
+        "removed": false
+      },
+      {
+        "name": "Anna Geldard MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5353",
+        "twfy_id": "uk.org.publicwhip/person/26618",
+        "removed": false
+      },
+      {
+        "name": "Helena Dollimore MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5192",
+        "twfy_id": "uk.org.publicwhip/person/26507",
+        "removed": false
+      },
+      {
+        "name": "Tony Vaughan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5067",
+        "twfy_id": "uk.org.publicwhip/person/26346",
+        "removed": false
+      },
+      {
+        "name": "Zoe Franklin MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5313",
+        "twfy_id": "uk.org.publicwhip/person/26555",
+        "removed": false
+      },
+      {
+        "name": "Lee Dillon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5310",
+        "twfy_id": "uk.org.publicwhip/person/26584",
+        "removed": false
+      },
+      {
+        "name": "Anna Dixon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5281",
+        "twfy_id": "uk.org.publicwhip/person/26524",
+        "removed": false
+      },
+      {
+        "name": "Mike Martin MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5219",
+        "twfy_id": "uk.org.publicwhip/person/26398",
+        "removed": false
+      },
+      {
+        "name": "Edward Morello MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5326",
+        "twfy_id": "uk.org.publicwhip/person/26604",
+        "removed": false
+      },
+      {
+        "name": "Lloyd Hatton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5217",
+        "twfy_id": "uk.org.publicwhip/person/26471",
+        "removed": false
+      },
+      {
+        "name": "Vikki Slade MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582",
+        "removed": false
+      },
+      {
+        "name": "Neil Duncan Jordan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5359",
+        "twfy_id": "uk.org.publicwhip/person/26633",
+        "removed": false
+      },
+      {
+        "name": "Jack Rankin MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5340",
+        "twfy_id": "uk.org.publicwhip/person/26622",
+        "removed": false
+      },
+      {
+        "name": "Peter Swallow MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5165",
+        "twfy_id": "uk.org.publicwhip/person/26369",
+        "removed": false
+      },
+      {
+        "name": "Chris Webb MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5025",
+        "twfy_id": "uk.org.publicwhip/person/26305",
+        "removed": false
+      },
+      {
+        "name": "Lorraine Beavers MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5232",
+        "twfy_id": "uk.org.publicwhip/person/26475",
+        "removed": false
+      },
+      {
+        "name": "Freddie Vanmierlo MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5296",
+        "twfy_id": "uk.org.publicwhip/person/26540",
+        "removed": false
+      },
+      {
+        "name": "Jayne Kirkham MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5279",
+        "twfy_id": "uk.org.publicwhip/person/26525",
+        "removed": false
+      },
+      {
+        "name": "Charlie Maynard MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5325",
+        "twfy_id": "uk.org.publicwhip/person/26544",
+        "removed": false
+      },
+      {
+        "name": "Jessie Mathewson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baronness Browning",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Whitty",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2444",
+        "twfy_id": "uk.org.publicwhip/person/12958",
+        "removed": false
+      },
+      {
+        "name": "Lord Reay",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4713",
+        "twfy_id": "uk.org.publicwhip/person/25744",
+        "removed": false
+      },
+      {
+        "name": "Baroness Bakewell of Hardington Mandeville",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Singh of Wimbledon",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Taylor of Holbeach",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Wigley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "547",
+        "twfy_id": "uk.org.publicwhip/person/10635",
+        "removed": false
+      },
+      {
+        "name": "Baroness Berridge",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4218",
+        "twfy_id": "uk.org.publicwhip/person/25049",
+        "removed": false
+      },
+      {
+        "name": "Sarah Dyke MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4995",
+        "twfy_id": "uk.org.publicwhip/person/26270",
+        "removed": false
+      },
+      {
+        "name": "Charlotte Cane MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5182",
+        "twfy_id": "uk.org.publicwhip/person/26425",
+        "removed": false
+      },
+      {
+        "name": "Blake Stephenson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5100",
+        "twfy_id": "uk.org.publicwhip/person/26355",
+        "removed": false
+      },
+      {
+        "name": "Megan Dearing",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lina Nieto Pacheco",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Richard Averley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lorna Devenish",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Benjamin Tritton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Lee Pitcher MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "lee.pitcher.mp@parliament.uk",
-    "public_enquiry_point_name": "Joseph Eaton , Office of Lee Pitcher MP. Tel: 020 7219 3622",
-    "public_enquiry_point_email": "waterappg@outlook.com",
+    "public_enquiry_point_name": "Joseph Eaton, Office of Lee Pitcher MP. Tel: 0207 219 6882",
+    "public_enquiry_point_email": "joseph.eaton@parliament.uk",
     "secretariat": null,
     "website": {
       "status": "bad_search",
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-09-03",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "03 Sep to 02 Sep",
-    "next_reporting_deadline": "2026-01-03"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/water.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/water.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

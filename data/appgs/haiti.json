@@ -38,10 +38,179 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Andrew Draper",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Chapman",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3972",
+        "twfy_id": "uk.org.publicwhip/person/24711",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hooper",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2005",
+        "twfy_id": "uk.org.publicwhip/person/13081",
+        "removed": false
+      },
+      {
+        "name": "Cat Smith MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4436",
+        "twfy_id": "uk.org.publicwhip/person/25432",
+        "removed": false
+      },
+      {
+        "name": "Fabian Hamilton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "415",
+        "twfy_id": "uk.org.publicwhip/person/10256",
+        "removed": false
+      },
+      {
+        "name": "Kate Osamor MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4515",
+        "twfy_id": "uk.org.publicwhip/person/25365",
+        "removed": false
+      },
+      {
+        "name": "Lord Alton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "738",
+        "twfy_id": "uk.org.publicwhip/person/13103",
+        "removed": false
+      },
+      {
+        "name": "Lord Boateng",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "147",
+        "twfy_id": "uk.org.publicwhip/person/10052",
+        "removed": false
+      },
+      {
+        "name": "Lord Cashman",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4340",
+        "twfy_id": "uk.org.publicwhip/person/25246",
+        "removed": false
+      },
+      {
+        "name": "Lord Foulkes",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "579",
+        "twfy_id": "uk.org.publicwhip/person/10211",
+        "removed": false
+      },
+      {
+        "name": "Lord Griffiths of Burry Port",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "lord Hastings",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3759",
+        "twfy_id": "uk.org.publicwhip/person/13718",
+        "removed": false
+      },
+      {
+        "name": "Lord Mconnell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Purvis of Tweed",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Touhig",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "542",
+        "twfy_id": "uk.org.publicwhip/person/10600",
+        "removed": false
+      },
+      {
+        "name": "Lord Woody",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Young",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "57",
+        "twfy_id": "uk.org.publicwhip/person/10659",
+        "removed": false
+      },
+      {
+        "name": "Ruth Jones MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4716",
+        "twfy_id": "uk.org.publicwhip/person/25746",
+        "removed": false
+      },
+      {
+        "name": "Sharon Hodgson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
+      },
+      {
+        "name": "Sir Chris Chope MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "242",
+        "twfy_id": "uk.org.publicwhip/person/10103",
+        "removed": false
+      },
+      {
+        "name": "Tonia Antoniazzi MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4623",
+        "twfy_id": "uk.org.publicwhip/person/25634",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Perran Moon MP",
@@ -55,16 +224,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-10-28",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "28 Oct to 27 Oct",
-    "next_reporting_deadline": "2026-02-28"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/haiti.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/haiti.htm",
   "categories": [
     "Country Group"
   ]

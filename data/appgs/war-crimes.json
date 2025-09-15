@@ -38,10 +38,427 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Chair & Registered Contact",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "David Mundell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1512",
+        "twfy_id": "uk.org.publicwhip/person/11970",
+        "removed": false
+      },
+      {
+        "name": "Co-Chair",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Mendelsohn",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4286",
+        "twfy_id": "uk.org.publicwhip/person/25189",
+        "removed": false
+      },
+      {
+        "name": "Officer",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Polak",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4547",
+        "twfy_id": "uk.org.publicwhip/person/25457",
+        "removed": false
+      },
+      {
+        "name": "Officer",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dan Norris MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "221",
+        "twfy_id": "uk.org.publicwhip/person/10458",
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bob Blackman MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4005",
+        "twfy_id": "uk.org.publicwhip/person/24945",
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Alton of Liverpool",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dame Margaret Hodge",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "140",
+        "twfy_id": "uk.org.publicwhip/person/10281",
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord David Richards of Herstmonceux",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord McNicol",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4702",
+        "twfy_id": "uk.org.publicwhip/person/25731",
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jo White MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5105",
+        "twfy_id": "uk.org.publicwhip/person/26358",
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Altmann CBE",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4533",
+        "twfy_id": "uk.org.publicwhip/person/25445",
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Deech",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3756",
+        "twfy_id": "uk.org.publicwhip/person/13322",
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord McConnell of Glenscorrodale",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Alex Baker MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5173",
+        "twfy_id": "uk.org.publicwhip/person/26444",
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mark Ferguson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5031",
+        "twfy_id": "uk.org.publicwhip/person/26310",
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Andrew Roberts of Belgravia\\*",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Dannatt",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4220",
+        "twfy_id": "uk.org.publicwhip/person/25050",
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Mackenzie\\*",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Ken McDonald",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Edward Faulks KC",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Charles Banner",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Howard of Limpney",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sir Jeremy Wright KC MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1560",
+        "twfy_id": "uk.org.publicwhip/person/11791",
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord David Wolfson KC\\*",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Terrance Etherton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Member",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Austin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1511",
+        "twfy_id": "uk.org.publicwhip/person/11553",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "David Mundell MP",
@@ -55,16 +472,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-09-04",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "04 Sep to 03 Sep",
-    "next_reporting_deadline": "2026-01-04"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/war-crimes.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/war-crimes.htm",
   "categories": [
     "Justice, Law & Security",
     "International Affairs, Development & Trade"

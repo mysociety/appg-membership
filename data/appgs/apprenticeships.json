@@ -22,18 +22,18 @@
     },
     {
       "role": "Officer",
-      "name": "Lord Aberdare",
-      "party": "Crossbench",
-      "twfy_id": "uk.org.publicwhip/person/24696",
-      "mnis_id": "3898",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Mr Peter Bedford",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26625",
       "mnis_id": "5330",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Hampton",
+      "party": "Crossbench",
+      "twfy_id": "uk.org.publicwhip/person/26096",
+      "mnis_id": "4951",
       "removed": false
     }
   ],
@@ -434,16 +434,11 @@
       "url": "https://www.appgapprenticeships.uk/"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-07-29",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "29 Jul to 28 Jul",
-    "next_reporting_deadline": "2025-11-29"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/apprenticeships.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/apprenticeships.htm",
   "categories": [
     "Education, Skills & Youth",
     "Economy, Business & Industry"

@@ -38,10 +38,195 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Mark Pritchard MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1576",
+        "twfy_id": "uk.org.publicwhip/person/11946",
+        "removed": false
+      },
+      {
+        "name": "Baroness Uddin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1827",
+        "twfy_id": "uk.org.publicwhip/person/13274",
+        "removed": false
+      },
+      {
+        "name": "Kate Osamor MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4515",
+        "twfy_id": "uk.org.publicwhip/person/25365",
+        "removed": false
+      },
+      {
+        "name": "Raymond Oxford, Earl of Oxford and Asquith",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord McConnell of Glenscorrodale",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Trefgarne",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1813",
+        "twfy_id": "uk.org.publicwhip/person/13540",
+        "removed": false
+      },
+      {
+        "name": "Baroness Whitaker",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2510",
+        "twfy_id": "uk.org.publicwhip/person/12957",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hooper",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2005",
+        "twfy_id": "uk.org.publicwhip/person/13081",
+        "removed": false
+      },
+      {
+        "name": "Viscount Waverley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1744",
+        "twfy_id": "uk.org.publicwhip/person/12899",
+        "removed": false
+      },
+      {
+        "name": "Baroness Verma",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3790",
+        "twfy_id": "uk.org.publicwhip/person/13730",
+        "removed": false
+      },
+      {
+        "name": "David Mundell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1512",
+        "twfy_id": "uk.org.publicwhip/person/11970",
+        "removed": false
+      },
+      {
+        "name": "Tahir Ali MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4747",
+        "twfy_id": "uk.org.publicwhip/person/25888",
+        "removed": false
+      },
+      {
+        "name": "Lord Dholakia",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2685",
+        "twfy_id": "uk.org.publicwhip/person/13662",
+        "removed": false
+      },
+      {
+        "name": "Harriett Baldwin MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4107",
+        "twfy_id": "uk.org.publicwhip/person/24785",
+        "removed": false
+      },
+      {
+        "name": "Lord Archie Hamilton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Hodgson of Abinger",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord McInnes of Kilwinning",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Stewart Jackson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Tariq Ahmad",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Afzal Khan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4671",
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
+      },
+      {
+        "name": "Lord Graham Brady",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Jonathan Markham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Foulkes",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "579",
+        "twfy_id": "uk.org.publicwhip/person/10211",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Mark Pritchard MP",
@@ -55,16 +240,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-09-03",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "03 Sep to 02 Sep",
-    "next_reporting_deadline": "2026-01-03"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/libya.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/libya.htm",
   "categories": [
     "Country Group"
   ]

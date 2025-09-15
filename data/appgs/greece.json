@@ -40,19 +40,19 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-09-12",
+    "last_updated": "2024-12-01",
     "members": [
       {
         "name": "Alberto Costa",
-        "is_officer": false,
+        "is_officer": true,
         "member_type": "mp",
         "mnis_id": "4439",
         "twfy_id": "uk.org.publicwhip/person/25413",
         "removed": false
       },
       {
-        "name": "The Lord Goddard of Stockport",
-        "is_officer": false,
+        "name": "David Goddard ",
+        "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
@@ -60,32 +60,24 @@
       },
       {
         "name": "Steve Witherden",
-        "is_officer": false,
+        "is_officer": true,
         "member_type": "mp",
         "mnis_id": "5221",
         "twfy_id": "uk.org.publicwhip/person/26583",
         "removed": false
       },
       {
-        "name": "The Lord Gascoigne",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "4986",
-        "twfy_id": "uk.org.publicwhip/person/26263",
-        "removed": false
-      },
-      {
-        "name": "The Lord Dear Kt",
-        "is_officer": false,
+        "name": "Ben Gasgoine",
+        "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
       },
       {
-        "name": "QPM DL",
+        "name": "Geoffrey Dear",
         "is_officer": false,
-        "member_type": "mp",
+        "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
@@ -115,7 +107,7 @@
         "removed": false
       },
       {
-        "name": "The Lord Boswell of Aynho.",
+        "name": "Tim Bowsell",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -123,7 +115,7 @@
         "removed": false
       },
       {
-        "name": "The Baroness Doocey OBE",
+        "name": "Dee Doocey",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -139,17 +131,9 @@
         "removed": false
       },
       {
-        "name": "The Viscount",
+        "name": "Lord Waverely",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Waverley",
-        "is_officer": false,
-        "member_type": "mp",
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
@@ -163,7 +147,7 @@
         "removed": false
       },
       {
-        "name": "The Lord Stone of",
+        "name": "Andrew Stone",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -171,15 +155,15 @@
         "removed": false
       },
       {
-        "name": "Blackheath",
+        "name": "George Foulkes",
         "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "member_type": "lord",
+        "mnis_id": "579",
+        "twfy_id": "uk.org.publicwhip/person/10211",
         "removed": false
       },
       {
-        "name": "The Lord Foulkes of Cumnock",
+        "name": "Peter Bowness",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -187,23 +171,15 @@
         "removed": false
       },
       {
-        "name": "The Lord Bowness CBE DL",
+        "name": "Lord Marks",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4206",
+        "twfy_id": "uk.org.publicwhip/person/25035",
         "removed": false
       },
       {
-        "name": "The Lord Marks of Henley-on-Thames KC",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "The Lord Dykes",
+        "name": "Lord Dykes",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "810",
@@ -211,7 +187,7 @@
         "removed": false
       },
       {
-        "name": "The Lord Balfe",
+        "name": "Lord Balfe",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4302",
@@ -219,99 +195,11 @@
         "removed": false
       },
       {
-        "name": "The Lord Dubs",
+        "name": "Lord Dubs",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "805",
         "twfy_id": "uk.org.publicwhip/person/13000",
-        "removed": false
-      },
-      {
-        "name": "The Lord Frost CMG",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "The Lord Davies of Gower",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "The Lord Mountevans",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "4539",
-        "twfy_id": "uk.org.publicwhip/person/25462",
-        "removed": false
-      },
-      {
-        "name": "The Lord Maude of Horsham.",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Valeria Vaz",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Peter Swallow",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5165",
-        "twfy_id": "uk.org.publicwhip/person/26369",
-        "removed": false
-      },
-      {
-        "name": "The Lord Robathan",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "334",
-        "twfy_id": "uk.org.publicwhip/person/10503",
-        "removed": false
-      },
-      {
-        "name": "The Earl of Liverpool",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "The Baroness Wolf of Dulwich DBE",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "The Baroness",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "McIntosh of Pickering The Baroness Janke Lord Bilimoria of Chelsea CBE DL",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
         "removed": false
       }
     ]
@@ -328,16 +216,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-07-30",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "30 Jul to 29 Jul",
-    "next_reporting_deadline": "2025-11-30"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/greece.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/greece.htm",
   "categories": [
     "Country Group"
   ]

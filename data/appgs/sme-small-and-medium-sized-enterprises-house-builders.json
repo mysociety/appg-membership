@@ -40,7 +40,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-09-12",
+    "last_updated": "2025-09-15",
     "members": [
       {
         "name": "Sian Berry MP",
@@ -86,8 +86,8 @@
         "name": "Bambos Charalambou MP",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4610",
+        "twfy_id": "uk.org.publicwhip/person/25676",
         "removed": false
       },
       {
@@ -190,8 +190,8 @@
         "name": "Mike Reeder MP",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5316",
+        "twfy_id": "uk.org.publicwhip/person/26630",
         "removed": false
       },
       {
@@ -246,8 +246,8 @@
         "name": "Siobhan McDonnagh MP",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "193",
+        "twfy_id": "uk.org.publicwhip/person/10381",
         "removed": false
       }
     ]
@@ -264,16 +264,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2025-02-03",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "03 Feb to 02 Feb",
-    "next_reporting_deadline": "2026-06-03"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/sme-small-and-medium-sized-enterprises-house-builders.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/sme-small-and-medium-sized-enterprises-house-builders.htm",
   "categories": [
     "Economy, Business & Industry",
     "Housing, Planning & Built Environment"

@@ -38,10 +38,331 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Brendan O’Hara chair",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4371",
+        "twfy_id": "uk.org.publicwhip/person/25370",
+        "removed": false
+      },
+      {
+        "name": "Clive Lewis vice chair",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Byron Davies vice chair",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Colum Eastwood vice chair",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Stephen Gethins",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4434",
+        "twfy_id": "uk.org.publicwhip/person/25324",
+        "removed": false
+      },
+      {
+        "name": "Stephen Flynn",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4735",
+        "twfy_id": "uk.org.publicwhip/person/25867",
+        "removed": false
+      },
+      {
+        "name": "Graham Leadbitter",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5277",
+        "twfy_id": "uk.org.publicwhip/person/26499",
+        "removed": false
+      },
+      {
+        "name": "Seamus Logan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5280",
+        "twfy_id": "uk.org.publicwhip/person/26534",
+        "removed": false
+      },
+      {
+        "name": "Dave Doogan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4736",
+        "twfy_id": "uk.org.publicwhip/person/25796",
+        "removed": false
+      },
+      {
+        "name": "Kirsty Blackman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4357",
+        "twfy_id": "uk.org.publicwhip/person/25314",
+        "removed": false
+      },
+      {
+        "name": "Pete Wishart",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1440",
+        "twfy_id": "uk.org.publicwhip/person/11333",
+        "removed": false
+      },
+      {
+        "name": "Chris Law",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4403",
+        "twfy_id": "uk.org.publicwhip/person/25270",
+        "removed": false
+      },
+      {
+        "name": "Ben Lake",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4630",
+        "twfy_id": "uk.org.publicwhip/person/25669",
+        "removed": false
+      },
+      {
+        "name": "Liz Savile-Roberts",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4521",
+        "twfy_id": "uk.org.publicwhip/person/25302",
+        "removed": false
+      },
+      {
+        "name": "Anne Davies",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5177",
+        "twfy_id": "uk.org.publicwhip/person/26359",
+        "removed": false
+      },
+      {
+        "name": "Llinos Medi",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5085",
+        "twfy_id": "uk.org.publicwhip/person/26454",
+        "removed": false
+      },
+      {
+        "name": "Abtisam Mohammad",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5142",
+        "twfy_id": "uk.org.publicwhip/person/26413",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Shockat Adam",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5120",
+        "twfy_id": "uk.org.publicwhip/person/26364",
+        "removed": false
+      },
+      {
+        "name": "Kim Johnstone",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4824",
+        "twfy_id": "uk.org.publicwhip/person/25803",
+        "removed": false
+      },
+      {
+        "name": "Richard Foord",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4942",
+        "twfy_id": "uk.org.publicwhip/person/26086",
+        "removed": false
+      },
+      {
+        "name": "Ellie Chowns",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5249",
+        "twfy_id": "uk.org.publicwhip/person/26577",
+        "removed": false
+      },
+      {
+        "name": "Baroness Lyn Brown",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1583",
+        "twfy_id": "uk.org.publicwhip/person/11921",
+        "removed": false
+      },
+      {
+        "name": "Fleur Anderson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4788",
+        "twfy_id": "uk.org.publicwhip/person/25813",
+        "removed": false
+      },
+      {
+        "name": "Zara Sultana",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4786",
+        "twfy_id": "uk.org.publicwhip/person/25909",
+        "removed": false
+      },
+      {
+        "name": "Jeremy Corbyn",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "185",
+        "twfy_id": "uk.org.publicwhip/person/10133",
+        "removed": false
+      },
+      {
+        "name": "Brian Leishman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5196",
+        "twfy_id": "uk.org.publicwhip/person/26492",
+        "removed": false
+      },
+      {
+        "name": "Sian Berry",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5314",
+        "twfy_id": "uk.org.publicwhip/person/25752",
+        "removed": false
+      },
+      {
+        "name": "Carla Denyer",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5102",
+        "twfy_id": "uk.org.publicwhip/person/26379",
+        "removed": false
+      },
+      {
+        "name": "Richard Burgon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4493",
+        "twfy_id": "uk.org.publicwhip/person/25391",
+        "removed": false
+      },
+      {
+        "name": "Andy McDonald",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4269",
+        "twfy_id": "uk.org.publicwhip/person/25169",
+        "removed": false
+      },
+      {
+        "name": "Non parliamentary",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ronan Lee",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Eva Tabbasam",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lilit Gevorgian",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Rachel Miner",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "James Burt",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Caroline Slifkin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Callie Lewis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Kim Sadique",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Brendan O'Hara MP",
@@ -55,16 +376,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2025-03-26",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "26 Mar to 25 Mar",
-    "next_reporting_deadline": "2026-07-26"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/genocide-prevention.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/genocide-prevention.htm",
   "categories": [
     "Justice, Law & Security",
     "Human Rights, Equality & Social Justice"

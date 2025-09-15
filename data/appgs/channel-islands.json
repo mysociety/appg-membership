@@ -38,16 +38,265 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Sarah Champion",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4267",
+        "twfy_id": "uk.org.publicwhip/person/25168",
+        "removed": false
+      },
+      {
+        "name": "Lord Richard Faulkner",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Martin Vickers MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3957",
+        "twfy_id": "uk.org.publicwhip/person/24814",
+        "removed": false
+      },
+      {
+        "name": "Lord Alan Beith",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Jill Pitkeathly",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Edward Faulks",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Byron Davies",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Gloria Hooper",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Tim Boswell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Dominic Johnson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Rebecca Smith MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5301",
+        "twfy_id": "uk.org.publicwhip/person/26512",
+        "removed": false
+      },
+      {
+        "name": "John Whittingdale MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "39",
+        "twfy_id": "uk.org.publicwhip/person/10632",
+        "removed": false
+      },
+      {
+        "name": "Baroness Lindsay Northover",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Francis NORTHBROOK",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Lucy NEVILLE-ROLFE",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Andrew Rosindell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1447",
+        "twfy_id": "uk.org.publicwhip/person/11199",
+        "removed": false
+      },
+      {
+        "name": "Lord Graham Brady",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Dennis Rogan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord David Pannick KC",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Anna Gelderd MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5353",
+        "twfy_id": "uk.org.publicwhip/person/26618",
+        "removed": false
+      },
+      {
+        "name": "Andrew Snowden MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5072",
+        "twfy_id": "uk.org.publicwhip/person/26347",
+        "removed": false
+      },
+      {
+        "name": "Gordon Mckee MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5189",
+        "twfy_id": "uk.org.publicwhip/person/26462",
+        "removed": false
+      },
+      {
+        "name": "Lord Purvis of Tweed",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "John Glenn MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4051",
+        "twfy_id": "uk.org.publicwhip/person/24839",
+        "removed": false
+      },
+      {
+        "name": "Maureen Burke MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5137",
+        "twfy_id": "uk.org.publicwhip/person/26455",
+        "removed": false
+      },
+      {
+        "name": "Wendy Morton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4358",
+        "twfy_id": "uk.org.publicwhip/person/25342",
+        "removed": false
+      },
+      {
+        "name": "Dave Robertson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5126",
+        "twfy_id": "uk.org.publicwhip/person/26374",
+        "removed": false
+      },
+      {
+        "name": "Caroline Dinenage MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4008",
+        "twfy_id": "uk.org.publicwhip/person/24873",
+        "removed": false
+      },
+      {
+        "name": "Lord Agnew of Oulton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Pitkeathly of Camden Town",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Fabian Hamilton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "415",
+        "twfy_id": "uk.org.publicwhip/person/10256",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Sarah Champion MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "sarah.champion.mp@parliament.uk",
-    "public_enquiry_point_name": "William Curley , Government of Jersey . Tel: 07341 981217",
+    "public_enquiry_point_name": "William Curley, Government of Jersey. Tel: 07341 981217",
     "public_enquiry_point_email": "w.curley@london.gov.je",
     "secretariat": "Government of Jersey and Government of Guernsey jointly act as the group's secretariat.https://www.gov.je/andhttps://www.gov.gg/",
     "website": {
@@ -55,16 +304,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-09-03",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "03 Sep to 02 Sep",
-    "next_reporting_deadline": "2026-01-03"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/channel-islands.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/channel-islands.htm",
   "categories": [
     "Country Group"
   ]

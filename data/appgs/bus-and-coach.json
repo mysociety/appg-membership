@@ -38,10 +38,403 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Alex Ballinger MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5238",
+        "twfy_id": "uk.org.publicwhip/person/26580",
+        "removed": false
+      },
+      {
+        "name": "Alex Mayer MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5141",
+        "twfy_id": "uk.org.publicwhip/person/26395",
+        "removed": false
+      },
+      {
+        "name": "Baroness Burt",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1567",
+        "twfy_id": "uk.org.publicwhip/person/11823",
+        "removed": false
+      },
+      {
+        "name": "Baroness Keeley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1588",
+        "twfy_id": "uk.org.publicwhip/person/11943",
+        "removed": false
+      },
+      {
+        "name": "Baroness Mackintosh",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Pigeon",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Chris Bloore MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5109",
+        "twfy_id": "uk.org.publicwhip/person/26357",
+        "removed": false
+      },
+      {
+        "name": "Dawn Butler MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1489",
+        "twfy_id": "uk.org.publicwhip/person/11447",
+        "removed": false
+      },
+      {
+        "name": "Gareth Snell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4595",
+        "twfy_id": "uk.org.publicwhip/person/25601",
+        "removed": false
+      },
+      {
+        "name": "Gurinder Singh Josan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5059",
+        "twfy_id": "uk.org.publicwhip/person/26348",
+        "removed": false
+      },
+      {
+        "name": "Lauren Edwards MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5298",
+        "twfy_id": "uk.org.publicwhip/person/26597",
+        "removed": false
+      },
+      {
+        "name": "Lord Austin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1511",
+        "twfy_id": "uk.org.publicwhip/person/11553",
+        "removed": false
+      },
+      {
+        "name": "Lord Berkeley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3526",
+        "twfy_id": "uk.org.publicwhip/person/13505",
+        "removed": false
+      },
+      {
+        "name": "Lord Grocutt",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Snape",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "319",
+        "twfy_id": "uk.org.publicwhip/person/10554",
+        "removed": false
+      },
+      {
+        "name": "Peter Prinsley MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5163",
+        "twfy_id": "uk.org.publicwhip/person/26383",
+        "removed": false
+      },
+      {
+        "name": "Preet Gill MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4603",
+        "twfy_id": "uk.org.publicwhip/person/25666",
+        "removed": false
+      },
+      {
+        "name": "Sarah Coombes MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5088",
+        "twfy_id": "uk.org.publicwhip/person/26452",
+        "removed": false
+      },
+      {
+        "name": "Sarah Edwards MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5001",
+        "twfy_id": "uk.org.publicwhip/person/26277",
+        "removed": false
+      },
+      {
+        "name": "Scott Arthur MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5212",
+        "twfy_id": "uk.org.publicwhip/person/26591",
+        "removed": false
+      },
+      {
+        "name": "Warinder Juss MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5230",
+        "twfy_id": "uk.org.publicwhip/person/26533",
+        "removed": false
+      },
+      {
+        "name": "APPG for Bus and coach external Members 2024/5",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Alexander Dennis Ltd",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Alfatronix Limited",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Arthur J Gallagher",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Backhouse Jones Ltd",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bus Users UK",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Campaign for Better Transport",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Centurion Travel",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Chartered Institute of Logistics and Transport UK",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Community Transport Association",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Confederation of Passenger Transport",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dawsongroup bus and coach",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "EvoBus UK",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "FirstGroup plc",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "McGills Buses",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mellor Bus",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "National Express",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "RATP DEV",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Reading Buses",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "RHA Coaches",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "S R Whiteway",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Smith Bowyer Clarke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Stagecoach Bus",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Stephensons of Essex",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Go Ahead Group Plc",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Transport UK Bus",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Trentbarton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "UK Coach Operators Association",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Mike Wood MP",
@@ -55,16 +448,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-07-22",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "22 Jul to 21 Jul",
-    "next_reporting_deadline": "2025-11-22"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/bus-and-coach.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/bus-and-coach.htm",
   "categories": [
     "Infrastructure, Transport & Mobility"
   ]

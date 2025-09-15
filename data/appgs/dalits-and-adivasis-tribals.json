@@ -38,10 +38,179 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Jeremy Corbyn MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "185",
+        "twfy_id": "uk.org.publicwhip/person/10133",
+        "removed": false
+      },
+      {
+        "name": "Lord Richard Harries Co-Chair",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Deben Vice Chair",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Diane Abbott MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "172",
+        "twfy_id": "uk.org.publicwhip/person/10001",
+        "removed": false
+      },
+      {
+        "name": "Baroness Thornton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1782",
+        "twfy_id": "uk.org.publicwhip/person/13543",
+        "removed": false
+      },
+      {
+        "name": "Lord Hussain Liberal",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Royall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3703",
+        "twfy_id": "uk.org.publicwhip/person/13452",
+        "removed": false
+      },
+      {
+        "name": "Lord Cashman",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4340",
+        "twfy_id": "uk.org.publicwhip/person/25246",
+        "removed": false
+      },
+      {
+        "name": "Afzal Khan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4671",
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
+      },
+      {
+        "name": "Baroness Northover Liberal",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Alton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "738",
+        "twfy_id": "uk.org.publicwhip/person/13103",
+        "removed": false
+      },
+      {
+        "name": "Lord Lancaster",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1544",
+        "twfy_id": "uk.org.publicwhip/person/11715",
+        "removed": false
+      },
+      {
+        "name": "Lord Bruce",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "615",
+        "twfy_id": "uk.org.publicwhip/person/10074",
+        "removed": false
+      },
+      {
+        "name": "Lord Foulkes",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "579",
+        "twfy_id": "uk.org.publicwhip/person/10211",
+        "removed": false
+      },
+      {
+        "name": "Jim Shannon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4131",
+        "twfy_id": "uk.org.publicwhip/person/13864",
+        "removed": false
+      },
+      {
+        "name": "Stephen Timms MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "163",
+        "twfy_id": "uk.org.publicwhip/person/10596",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Lord Purvis of Tweed Liberal",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mohamed Yasin MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4598",
+        "twfy_id": "uk.org.publicwhip/person/25649",
+        "removed": false
+      },
+      {
+        "name": "Lord Bishop of Southwark",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Annaliese Dodds MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4657",
+        "twfy_id": "uk.org.publicwhip/person/25618",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Jeremy Corbyn MP",
@@ -55,16 +224,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2025-03-19",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "19 Mar to 18 Mar",
-    "next_reporting_deadline": "2026-07-19"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/dalits-and-adivasis-tribals.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/dalits-and-adivasis-tribals.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

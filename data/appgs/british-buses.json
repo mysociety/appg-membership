@@ -6,18 +6,18 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Alex Baker",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26444",
-      "mnis_id": "5173",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
       "name": "Euan Stainbank",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26407",
       "mnis_id": "5110",
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Jim Allister",
+      "party": "Traditional Unionist Voice",
+      "twfy_id": "uk.org.publicwhip/person/25122",
+      "mnis_id": "5356",
       "removed": false
     },
     {
@@ -44,9 +44,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Alex Baker MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 4085.",
-    "registered_contact_email": "alex.baker.mp@parliament.uk",
+    "registered_contact_name": "Euan Stainbank MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "euan.stainbank.mp@parliament.uk",
     "public_enquiry_point_name": "Amelia Newton, Beyond2050 ltd. Tel: 07810 092 642",
     "public_enquiry_point_email": "busandcoachappg@beyond2050.co.uk",
     "secretariat": "Beyond2050 ltd acts as the group's secretariat.https://www.beyond2050.co.uk",
@@ -55,16 +55,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-11-27",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "27 Nov to 26 Nov",
-    "next_reporting_deadline": "2026-03-27"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/british-buses.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/british-buses.htm",
   "categories": [
     "Infrastructure, Transport & Mobility",
     "Economy, Business & Industry"

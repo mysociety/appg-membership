@@ -27,14 +27,6 @@
       "twfy_id": "uk.org.publicwhip/person/13385",
       "mnis_id": "2475",
       "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Fred Thomas",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26441",
-      "mnis_id": "5174",
-      "removed": false
     }
   ],
   "members_list": {
@@ -57,12 +49,7 @@
       "url": "https://www.appgmodernconflict.org/"
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2025-02-25",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "25 Mar to 24 Mar",
-    "next_reporting_deadline": "2026-07-25"
-  },
+  "agm": null,
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {
@@ -73,8 +60,8 @@
       "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/modern-conflict.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/modern-conflict.htm",
   "categories": [
     "Justice, Law & Security"
   ]

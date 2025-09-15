@@ -38,10 +38,195 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-15",
+    "members": [
+      {
+        "name": "Adam Jogee MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5168",
+        "twfy_id": "uk.org.publicwhip/person/26541",
+        "removed": false
+      },
+      {
+        "name": "Lord Hain",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "567",
+        "twfy_id": "uk.org.publicwhip/person/10252",
+        "removed": false
+      },
+      {
+        "name": "Dr Kieran Mullan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4860",
+        "twfy_id": "uk.org.publicwhip/person/25883",
+        "removed": false
+      },
+      {
+        "name": "Lord St John of Bletso",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Alderdice",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3478",
+        "twfy_id": "uk.org.publicwhip/person/13371",
+        "removed": false
+      },
+      {
+        "name": "Lord Northbrook",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3191",
+        "twfy_id": "uk.org.publicwhip/person/13435",
+        "removed": false
+      },
+      {
+        "name": "Lord Bellingham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1441",
+        "twfy_id": "uk.org.publicwhip/person/10726",
+        "removed": false
+      },
+      {
+        "name": "Baroness Bennett of Manor Castle",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Blackstone",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3561",
+        "twfy_id": "uk.org.publicwhip/person/13241",
+        "removed": false
+      },
+      {
+        "name": "Lord Boateng",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "147",
+        "twfy_id": "uk.org.publicwhip/person/10052",
+        "removed": false
+      },
+      {
+        "name": "Ruth Cadbury MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4389",
+        "twfy_id": "uk.org.publicwhip/person/25343",
+        "removed": false
+      },
+      {
+        "name": "Lord German",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4163",
+        "twfy_id": "uk.org.publicwhip/person/24984",
+        "removed": false
+      },
+      {
+        "name": "Christine Jardine MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4634",
+        "twfy_id": "uk.org.publicwhip/person/25675",
+        "removed": false
+      },
+      {
+        "name": "Kim Johnson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4824",
+        "twfy_id": "uk.org.publicwhip/person/25803",
+        "removed": false
+      },
+      {
+        "name": "Lord Strathcarron",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4937",
+        "twfy_id": "uk.org.publicwhip/person/26060",
+        "removed": false
+      },
+      {
+        "name": "Lord McInnes of Kilwinning",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Northover",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2539",
+        "twfy_id": "uk.org.publicwhip/person/13434",
+        "removed": false
+      },
+      {
+        "name": "Lord Oates",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4549",
+        "twfy_id": "uk.org.publicwhip/person/25464",
+        "removed": false
+      },
+      {
+        "name": "Lord Purvis of Tweed",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Risby",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "139",
+        "twfy_id": "uk.org.publicwhip/person/10561",
+        "removed": false
+      },
+      {
+        "name": "Rachel Taylor MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5065",
+        "twfy_id": "uk.org.publicwhip/person/26478",
+        "removed": false
+      },
+      {
+        "name": "Tricia Sibbons",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Angela Clark",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Rachel Taylor MP",
@@ -55,16 +240,11 @@
       "url": null
     }
   },
-  "agm": {
-    "date_of_most_recent_agm": "2024-10-29",
-    "published_income_expenditure_statement": false,
-    "reporting_year": "29 Oct to 28 Oct",
-    "next_reporting_deadline": "2026-02-28"
-  },
+  "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/south-africa.htm",
+  "index_date": "250909",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/south-africa.htm",
   "categories": [
     "Country Group"
   ]
