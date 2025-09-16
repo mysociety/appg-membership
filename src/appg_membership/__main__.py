@@ -44,7 +44,7 @@ def review_websites():
 def scrape_memberships(
     refresh_not_found: bool = False,
     refresh_previous_ai: bool = False,
-    slug: str | None = None,
+    slug: str = "",
 ):
     """
     Update the membership of APPGs via scraper.
