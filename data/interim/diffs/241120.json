@@ -712,64 +712,9 @@
   ],
   "updated_appgs": [
     {
-      "slug": "africa",
-      "title": "All-Party Parliamentary Group for Africa",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/africa.htm"
-    },
-    {
-      "slug": "fair-banking",
-      "title": "All-Party Parliamentary Group on Fair Banking",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/fair-banking.htm"
-    },
-    {
-      "slug": "antisemitism",
-      "title": "All-Party Parliamentary Group Against Antisemitism",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/antisemitism.htm"
-    },
-    {
-      "slug": "christians-in-parliament",
-      "title": "Christians in Parliament All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/christians-in-parliament.htm"
-    },
-    {
-      "slug": "get-refusal",
-      "title": "All-Party Parliamentary Group on Get Refusal",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/get-refusal.htm"
-    },
-    {
-      "slug": "ocean",
-      "title": "All-Party Parliamentary Group for the Ocean",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/ocean.htm"
-    },
-    {
-      "slug": "access-to-justice",
-      "title": "All-Party Parliamentary Group on Access to Justice",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/access-to-justice.htm"
-    },
-    {
-      "slug": "british-jews",
-      "title": "All-Party Parliamentary Group on British Jews",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-jews.htm"
-    },
-    {
-      "slug": "london",
-      "title": "All-Party Parliamentary Group for London",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/london.htm"
-    },
-    {
       "slug": "drugs-alcohol-and-justice",
       "title": "Drugs, Alcohol and Justice All-Party Parliamentary Group",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/drugs-alcohol-and-justice.htm"
-    },
-    {
-      "slug": "art-craft-and-design-in-education",
-      "title": "All-Party Parliamentary Group for Art, Craft and Design in Education",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/art-craft-and-design-in-education.htm"
-    },
-    {
-      "slug": "eye-health-and-visual-impairment",
-      "title": "All-Party Parliamentary Group on Eye Health and Visual Impairment",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/eye-health-and-visual-impairment.htm"
     },
     {
       "slug": "gardening-and-horticulture",
@@ -777,9 +722,59 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/gardening-and-horticulture.htm"
     },
     {
-      "slug": "child-of-the-north",
-      "title": "Child of the North All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/child-of-the-north.htm"
+      "slug": "apprenticeships",
+      "title": "All-Party Parliamentary Group on Apprenticeships",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/apprenticeships.htm"
+    },
+    {
+      "slug": "environment",
+      "title": "All-Party Parliamentary Group for the Environment",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/environment.htm"
+    },
+    {
+      "slug": "eye-health-and-visual-impairment",
+      "title": "All-Party Parliamentary Group on Eye Health and Visual Impairment",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/eye-health-and-visual-impairment.htm"
+    },
+    {
+      "slug": "craft",
+      "title": "All-Party Parliamentary Group for Craft",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/craft.htm"
+    },
+    {
+      "slug": "ahmadiyya-muslim-community",
+      "title": "All-Party Parliamentary Group for the Ahmadiyya Muslim Community",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/ahmadiyya-muslim-community.htm"
+    },
+    {
+      "slug": "climate-nature-and-security",
+      "title": "All-Party Parliamentary Group for Climate, Nature and Security",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/climate-nature-and-security.htm"
+    },
+    {
+      "slug": "taiwan",
+      "title": "British-Taiwanese All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/taiwan.htm"
+    },
+    {
+      "slug": "east-of-england",
+      "title": "East of England All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/east-of-england.htm"
+    },
+    {
+      "slug": "financial-technology",
+      "title": "All-Party Parliamentary Group on Financial Technology",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/financial-technology.htm"
+    },
+    {
+      "slug": "south-west",
+      "title": "All-Party Parliamentary Group for the great South West",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-west.htm"
+    },
+    {
+      "slug": "football-supporters",
+      "title": "All-Party Parliamentary Group for Football Supporters",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/football-supporters.htm"
     },
     {
       "slug": "bosnia-and-herzegovina",
@@ -787,49 +782,39 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/bosnia-and-herzegovina.htm"
     },
     {
-      "slug": "fusion-energy",
-      "title": "All-Party Parliamentary Group on Fusion Energy",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/fusion-energy.htm"
+      "slug": "beer",
+      "title": "All-Party Parliamentary Beer Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/beer.htm"
     },
     {
-      "slug": "uk-food-security",
-      "title": "All-Party Parliamentary Group on UK Food Security",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/uk-food-security.htm"
+      "slug": "ocean",
+      "title": "All-Party Parliamentary Group for the Ocean",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/ocean.htm"
     },
     {
-      "slug": "arts-and-heritage",
-      "title": "All-Party Parliamentary Arts and Heritage Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/arts-and-heritage.htm"
+      "slug": "formula-1-and-motorsport",
+      "title": "All-Party Parliamentary Group on Formula 1 and Motorsport",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/formula-1-and-motorsport.htm"
     },
     {
-      "slug": "dentistry-and-oral-health",
-      "title": "All-Party Parliamentary Group for Dentistry and Oral Health",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/dentistry-and-oral-health.htm"
+      "slug": "aviation-travel-and-aerospace",
+      "title": "All-Party Parliamentary Group for the Future of Aviation, Travel and Aerospace",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/aviation-travel-and-aerospace.htm"
     },
     {
-      "slug": "fair-elections",
-      "title": "All-Party Parliamentary Group for Fair Elections",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/fair-elections.htm"
+      "slug": "autism",
+      "title": "All-Party Parliamentary Group on Autism",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/autism.htm"
     },
     {
-      "slug": "chagos-british-indian-ocean-territory",
-      "title": "Chagos Islands (British Indian Ocean Territory) All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/chagos-british-indian-ocean-territory.htm"
+      "slug": "deep-geothermal",
+      "title": "All-Party Parliamentary Group on Deep Geothermal",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/deep-geothermal.htm"
     },
     {
-      "slug": "freight-and-logistics",
-      "title": "All-Party Parliamentary Group on Freight and Logistics",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/freight-and-logistics.htm"
-    },
-    {
-      "slug": "crown-dependencies-and-british-overseas-territories",
-      "title": "All-Party Parliamentary Group on the Crown Dependencies and British Overseas Territories",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/crown-dependencies-and-british-overseas-territories.htm"
-    },
-    {
-      "slug": "east-of-england",
-      "title": "East of England All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/east-of-england.htm"
+      "slug": "africa",
+      "title": "All-Party Parliamentary Group for Africa",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/africa.htm"
     },
     {
       "slug": "fire-safety-and-rescue",
@@ -842,64 +827,14 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/energy-studies.htm"
     },
     {
-      "slug": "environment",
-      "title": "All-Party Parliamentary Group for the Environment",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/environment.htm"
-    },
-    {
-      "slug": "deep-geothermal",
-      "title": "All-Party Parliamentary Group on Deep Geothermal",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/deep-geothermal.htm"
-    },
-    {
-      "slug": "formula-1-and-motorsport",
-      "title": "All-Party Parliamentary Group on Formula 1 and Motorsport",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/formula-1-and-motorsport.htm"
-    },
-    {
-      "slug": "gibraltar",
-      "title": "All-Party Parliamentary Group on Gibraltar",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/gibraltar.htm"
-    },
-    {
-      "slug": "ahmadiyya-muslim-community",
-      "title": "All-Party Parliamentary Group for the Ahmadiyya Muslim Community",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/ahmadiyya-muslim-community.htm"
-    },
-    {
       "slug": "climate-change",
       "title": "All-Party Parliamentary Group on Climate Change",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/climate-change.htm"
     },
     {
-      "slug": "financial-education-for-young-people",
-      "title": "All-Party Parliamentary Group on Financial Education for Young People",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/financial-education-for-young-people.htm"
-    },
-    {
-      "slug": "human-rights",
-      "title": "All-Party Parliamentary Human Rights Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/human-rights.htm"
-    },
-    {
-      "slug": "digital-identity",
-      "title": "All-Party Parliamentary Group on Digital Identity",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/digital-identity.htm"
-    },
-    {
-      "slug": "poland",
-      "title": "All-Party Parliamentary Group on Poland",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/poland.htm"
-    },
-    {
-      "slug": "steel-and-metals-related-industries",
-      "title": "All-Party Parliamentary Group for Steel and Metals-Related Industries",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/steel-and-metals-related-industries.htm"
-    },
-    {
-      "slug": "autism",
-      "title": "All-Party Parliamentary Group on Autism",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/autism.htm"
+      "slug": "global-sexual-and-reproductive-health-and-rights",
+      "title": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/global-sexual-and-reproductive-health-and-rights.htm"
     },
     {
       "slug": "canada",
@@ -907,24 +842,19 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/canada.htm"
     },
     {
-      "slug": "digital-regulation-and-responsibility",
-      "title": "All-Party Parliamentary Group on Digital Regulation and Responsibility",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/digital-regulation-and-responsibility.htm"
+      "slug": "british-heritage",
+      "title": "All-Party Parliamentary Group on British Heritage",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-heritage.htm"
     },
     {
-      "slug": "engineering",
-      "title": "All-Party Parliamentary Engineering Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/engineering.htm"
+      "slug": "semiconductors",
+      "title": "All-Party Parliamentary Group for Semiconductors",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/semiconductors.htm"
     },
     {
-      "slug": "carbon-capture-utilisation-and-storage",
-      "title": "All-Party Parliamentary Group on Carbon Capture, Utilisation and Storage",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/carbon-capture-utilisation-and-storage.htm"
-    },
-    {
-      "slug": "aviation-travel-and-aerospace",
-      "title": "All-Party Parliamentary Group for the Future of Aviation, Travel and Aerospace",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/aviation-travel-and-aerospace.htm"
+      "slug": "anti-corruption-and-responsible-tax",
+      "title": "All-Party Parliamentary Group on Anti-Corruption and Responsible Tax",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/anti-corruption-and-responsible-tax.htm"
     },
     {
       "slug": "afrikan-reparations",
@@ -937,104 +867,24 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/arbitrary-detention-and-hostage-affairs.htm"
     },
     {
-      "slug": "climate-nature-and-security",
-      "title": "All-Party Parliamentary Group for Climate, Nature and Security",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/climate-nature-and-security.htm"
+      "slug": "human-rights",
+      "title": "All-Party Parliamentary Human Rights Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/human-rights.htm"
     },
     {
-      "slug": "channel-islands",
-      "title": "Channel Islands All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/channel-islands.htm"
+      "slug": "get-refusal",
+      "title": "All-Party Parliamentary Group on Get Refusal",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/get-refusal.htm"
     },
     {
-      "slug": "music",
-      "title": "All-Party Parliamentary Group on Music",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/music.htm"
+      "slug": "fusion-energy",
+      "title": "All-Party Parliamentary Group on Fusion Energy",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/fusion-energy.htm"
     },
     {
-      "slug": "british-heritage",
-      "title": "All-Party Parliamentary Group on British Heritage",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-heritage.htm"
-    },
-    {
-      "slug": "gypsies-travellers-and-roma",
-      "title": "All-Party Parliamentary Group for Gypsies, Travellers and Roma",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/gypsies-travellers-and-roma.htm"
-    },
-    {
-      "slug": "south-east",
-      "title": "All-Party Parliamentary Group for the South East",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-east.htm"
-    },
-    {
-      "slug": "pharmacy",
-      "title": "All-Party Parliamentary Group on Pharmacy",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/pharmacy.htm"
-    },
-    {
-      "slug": "water",
-      "title": "All-Party Parliamentary Water Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/water.htm"
-    },
-    {
-      "slug": "cycling-and-walking",
-      "title": "All-Party Parliamentary Group for Cycling and Walking",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/cycling-and-walking.htm"
-    },
-    {
-      "slug": "south-west",
-      "title": "All-Party Parliamentary Group for the great South West",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-west.htm"
-    },
-    {
-      "slug": "apprenticeships",
-      "title": "All-Party Parliamentary Group on Apprenticeships",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/apprenticeships.htm"
-    },
-    {
-      "slug": "financial-technology",
-      "title": "All-Party Parliamentary Group on Financial Technology",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/financial-technology.htm"
-    },
-    {
-      "slug": "australia-and-new-zealand-anzac-and-the-pacific-islands",
-      "title": "All-Party Parliamentary Group for Australia and New Zealand (ANZAC) and the Pacific Islands",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/australia-and-new-zealand-anzac-and-the-pacific-islands.htm"
-    },
-    {
-      "slug": "brain-tumours",
-      "title": "All-Party Parliamentary Group on Brain Tumours",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/brain-tumours.htm"
-    },
-    {
-      "slug": "football",
-      "title": "Football All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/football.htm"
-    },
-    {
-      "slug": "anti-corruption-and-responsible-tax",
-      "title": "All-Party Parliamentary Group on Anti-Corruption and Responsible Tax",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/anti-corruption-and-responsible-tax.htm"
-    },
-    {
-      "slug": "japan",
-      "title": "All-Party Parliamentary Group on Japan",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/japan.htm"
-    },
-    {
-      "slug": "choice-at-the-end-of-life",
-      "title": "All-Party Parliamentary Group for Choice at the End of Life",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/choice-at-the-end-of-life.htm"
-    },
-    {
-      "slug": "british-muslims",
-      "title": "All-Party Parliamentary Group on British Muslims",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-muslims.htm"
-    },
-    {
-      "slug": "taiwan",
-      "title": "British-Taiwanese All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/taiwan.htm"
+      "slug": "digital-identity",
+      "title": "All-Party Parliamentary Group on Digital Identity",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/digital-identity.htm"
     },
     {
       "slug": "electric-vehicle",
@@ -1042,14 +892,29 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/electric-vehicle.htm"
     },
     {
-      "slug": "craft",
-      "title": "All-Party Parliamentary Group for Craft",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/craft.htm"
+      "slug": "japan",
+      "title": "All-Party Parliamentary Group on Japan",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/japan.htm"
     },
     {
-      "slug": "commonwealth",
-      "title": "All-Party Parliamentary Group for the Commonwealth",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/commonwealth.htm"
+      "slug": "fair-banking",
+      "title": "All-Party Parliamentary Group on Fair Banking",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/fair-banking.htm"
+    },
+    {
+      "slug": "chagos-british-indian-ocean-territory",
+      "title": "Chagos Islands (British Indian Ocean Territory) All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/chagos-british-indian-ocean-territory.htm"
+    },
+    {
+      "slug": "choice-at-the-end-of-life",
+      "title": "All-Party Parliamentary Group for Choice at the End of Life",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/choice-at-the-end-of-life.htm"
+    },
+    {
+      "slug": "dentistry-and-oral-health",
+      "title": "All-Party Parliamentary Group for Dentistry and Oral Health",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/dentistry-and-oral-health.htm"
     },
     {
       "slug": "kinship-care",
@@ -1057,289 +922,166 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/kinship-care.htm"
     },
     {
-      "slug": "global-sexual-and-reproductive-health-and-rights",
-      "title": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/global-sexual-and-reproductive-health-and-rights.htm"
+      "slug": "financial-education-for-young-people",
+      "title": "All-Party Parliamentary Group on Financial Education for Young People",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/financial-education-for-young-people.htm"
     },
     {
-      "slug": "semiconductors",
-      "title": "All-Party Parliamentary Group for Semiconductors",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/semiconductors.htm"
+      "slug": "south-east",
+      "title": "All-Party Parliamentary Group for the South East",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-east.htm"
     },
     {
-      "slug": "beer",
-      "title": "All-Party Parliamentary Beer Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/beer.htm"
+      "slug": "steel-and-metals-related-industries",
+      "title": "All-Party Parliamentary Group for Steel and Metals-Related Industries",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/steel-and-metals-related-industries.htm"
     },
     {
-      "slug": "football-supporters",
-      "title": "All-Party Parliamentary Group for Football Supporters",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/football-supporters.htm"
+      "slug": "brain-tumours",
+      "title": "All-Party Parliamentary Group on Brain Tumours",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/brain-tumours.htm"
+    },
+    {
+      "slug": "antisemitism",
+      "title": "All-Party Parliamentary Group Against Antisemitism",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/antisemitism.htm"
+    },
+    {
+      "slug": "cycling-and-walking",
+      "title": "All-Party Parliamentary Group for Cycling and Walking",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/cycling-and-walking.htm"
+    },
+    {
+      "slug": "music",
+      "title": "All-Party Parliamentary Group on Music",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/music.htm"
+    },
+    {
+      "slug": "football",
+      "title": "Football All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/football.htm"
+    },
+    {
+      "slug": "london",
+      "title": "All-Party Parliamentary Group for London",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/london.htm"
+    },
+    {
+      "slug": "access-to-justice",
+      "title": "All-Party Parliamentary Group on Access to Justice",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/access-to-justice.htm"
+    },
+    {
+      "slug": "poland",
+      "title": "All-Party Parliamentary Group on Poland",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/poland.htm"
+    },
+    {
+      "slug": "fair-elections",
+      "title": "All-Party Parliamentary Group for Fair Elections",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/fair-elections.htm"
+    },
+    {
+      "slug": "freight-and-logistics",
+      "title": "All-Party Parliamentary Group on Freight and Logistics",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/freight-and-logistics.htm"
+    },
+    {
+      "slug": "gibraltar",
+      "title": "All-Party Parliamentary Group on Gibraltar",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/gibraltar.htm"
+    },
+    {
+      "slug": "uk-food-security",
+      "title": "All-Party Parliamentary Group on UK Food Security",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/uk-food-security.htm"
+    },
+    {
+      "slug": "crown-dependencies-and-british-overseas-territories",
+      "title": "All-Party Parliamentary Group on the Crown Dependencies and British Overseas Territories",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/crown-dependencies-and-british-overseas-territories.htm"
+    },
+    {
+      "slug": "water",
+      "title": "All-Party Parliamentary Water Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/water.htm"
+    },
+    {
+      "slug": "engineering",
+      "title": "All-Party Parliamentary Engineering Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/engineering.htm"
+    },
+    {
+      "slug": "gypsies-travellers-and-roma",
+      "title": "All-Party Parliamentary Group for Gypsies, Travellers and Roma",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/gypsies-travellers-and-roma.htm"
+    },
+    {
+      "slug": "digital-regulation-and-responsibility",
+      "title": "All-Party Parliamentary Group on Digital Regulation and Responsibility",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/digital-regulation-and-responsibility.htm"
+    },
+    {
+      "slug": "commonwealth",
+      "title": "All-Party Parliamentary Group for the Commonwealth",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/commonwealth.htm"
+    },
+    {
+      "slug": "british-muslims",
+      "title": "All-Party Parliamentary Group on British Muslims",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-muslims.htm"
+    },
+    {
+      "slug": "art-craft-and-design-in-education",
+      "title": "All-Party Parliamentary Group for Art, Craft and Design in Education",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/art-craft-and-design-in-education.htm"
+    },
+    {
+      "slug": "pharmacy",
+      "title": "All-Party Parliamentary Group on Pharmacy",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/pharmacy.htm"
+    },
+    {
+      "slug": "arts-and-heritage",
+      "title": "All-Party Parliamentary Arts and Heritage Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/arts-and-heritage.htm"
+    },
+    {
+      "slug": "channel-islands",
+      "title": "Channel Islands All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/channel-islands.htm"
+    },
+    {
+      "slug": "british-jews",
+      "title": "All-Party Parliamentary Group on British Jews",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-jews.htm"
+    },
+    {
+      "slug": "carbon-capture-utilisation-and-storage",
+      "title": "All-Party Parliamentary Group on Carbon Capture, Utilisation and Storage",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/carbon-capture-utilisation-and-storage.htm"
+    },
+    {
+      "slug": "child-of-the-north",
+      "title": "Child of the North All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/child-of-the-north.htm"
+    },
+    {
+      "slug": "australia-and-new-zealand-anzac-and-the-pacific-islands",
+      "title": "All-Party Parliamentary Group for Australia and New Zealand (ANZAC) and the Pacific Islands",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/australia-and-new-zealand-anzac-and-the-pacific-islands.htm"
+    },
+    {
+      "slug": "christians-in-parliament",
+      "title": "Christians in Parliament All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/christians-in-parliament.htm"
     }
   ],
   "differences": [
     {
-      "slug": "africa",
-      "name": "All-Party Parliamentary Group for Africa",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "chi.onwurah.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Royal African Society acts as the group's secretariat.http://www.royalafricansociety.org/",
-          "new_value": "Royal African Society acts as the group's secretariat. http://www.royalafricansociety.org/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "Hb28@soas.ac.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/africa.htm"
-    },
-    {
-      "slug": "fair-banking",
-      "name": "All-Party Parliamentary Group on Fair Banking",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "lloyd.hatton.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Athena Foundation acts as the group's secretariat.https://www.theathenafoundation.org.uk/",
-          "new_value": "Athena Foundation acts as the group's secretariat. https://www.theathenafoundation.org.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "laurie.woodiwiss@parliament.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/fair-banking.htm"
-    },
-    {
-      "slug": "antisemitism",
-      "name": "All-Party Parliamentary Group Against Antisemitism",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "joani.reid.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Antisemitism Policy Trust acts as the group's secretariat.http://www.antisemitism.org.uk/",
-          "new_value": "Antisemitism Policy Trust acts as the group's secretariat. http://www.antisemitism.org.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "mail@antisemitism.org.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/antisemitism.htm"
-    },
-    {
-      "slug": "christians-in-parliament",
-      "name": "Christians in Parliament All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "farront@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "claire.newman@parliament.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/christians-in-parliament.htm"
-    },
-    {
-      "slug": "get-refusal",
-      "name": "All-Party Parliamentary Group on Get Refusal",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "julie.minns.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "allentj@parliament.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/get-refusal.htm"
-    },
-    {
-      "slug": "ocean",
-      "name": "All-Party Parliamentary Group for the Ocean",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Tendo Consulting,  . Tel: 020 7175 8363",
-          "new_value": "Tendo Consulting. Tel: 020 7175 8363"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/ocean.htm"
-    },
-    {
-      "slug": "access-to-justice",
-      "name": "All-Party Parliamentary Group on Access to Justice",
-      "differences": [
-        {
-          "key": "officers__0__name",
-          "old_value": "Lord Bach",
-          "new_value": "Catherine Atkinson"
-        },
-        {
-          "key": "officers__3__removed",
-          "old_value": "",
-          "new_value": "False"
-        },
-        {
-          "key": "officers__2__party",
-          "old_value": "Liberal Democrat",
-          "new_value": "Conservative"
-        },
-        {
-          "key": "officers__1__role",
-          "old_value": "Vice Chair",
-          "new_value": "Co-Chair"
-        },
-        {
-          "key": "officers__0__role",
-          "old_value": "Vice Chair",
-          "new_value": "Chair & Registered Contact"
-        },
-        {
-          "key": "officers__1__party",
-          "old_value": "Conservative",
-          "new_value": "Labour"
-        },
-        {
-          "key": "officers__3__twfy_id",
-          "old_value": "",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "None",
-          "new_value": "House of Commons, London, SW1A 0AA."
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "",
-          "new_value": "Liberal Democrat"
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "",
-          "new_value": "Mr Paul Kohler"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Legal Aid Practitioners Group acts as the group's secretariat.https://lapg.co.uk/",
-          "new_value": "Legal Aid Practitioners Group acts as the group's secretariat. https://lapg.co.uk/"
-        },
-        {
-          "key": "officers__3__role",
-          "old_value": "",
-          "new_value": "Vice Chair"
-        },
-        {
-          "key": "officers__1__name",
-          "old_value": "Dr Neil Shastri-Hurst",
-          "new_value": "Lord Bach"
-        },
-        {
-          "key": "officers__3__mnis_id",
-          "old_value": "",
-          "new_value": "None"
-        },
-        {
-          "key": "officers__2__name",
-          "old_value": "Mr Paul Kohler",
-          "new_value": "Dr Neil Shastri-Hurst"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "rohini.jana@lapg.co.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "None",
-          "new_value": "Catherine Atkinson MP"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/access-to-justice.htm"
-    },
-    {
-      "slug": "british-jews",
-      "name": "All-Party Parliamentary Group on British Jews",
-      "differences": [
-        {
-          "key": "contact_details__website__status",
-          "old_value": "no_register",
-          "new_value": "register"
-        },
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "david.simmonds.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__website__url",
-          "old_value": "None",
-          "new_value": "https://bod.org.uk/appg-british-jews/"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Board of Deputies of British Jews acts as the group's secretariat.https://www.bod.org.uk/",
-          "new_value": "Board of Deputies of British Jews acts as the group's secretariat. https://www.bod.org.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "david.robinson@bod.org.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-jews.htm"
-    },
-    {
-      "slug": "london",
-      "name": "All-Party Parliamentary Group for London",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Amy Leppänen, London Councils. Tel: 020 7934 9759",
-          "new_value": "Daniel Kosky, London Councils"
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Liam Conlon",
-          "new_value": "Dan Tomlinson"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/london.htm"
-    },
-    {
       "slug": "drugs-alcohol-and-justice",
       "name": "Drugs, Alcohol and Justice All-Party Parliamentary Group",
       "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "grahame.morris.mp@parliament.uk",
-          "new_value": "None"
-        },
         {
           "key": "contact_details__secretariat",
           "old_value": "Solidarity Consulting acts as the group's secretariat.https://solidarityconsulting.org.uk/",
@@ -1349,53 +1091,19 @@
           "key": "contact_details__public_enquiry_point_email",
           "old_value": "richardj.hanford@parliament.uk",
           "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "grahame.morris.mp@parliament.uk",
+          "new_value": "None"
         }
       ],
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/drugs-alcohol-and-justice.htm"
     },
     {
-      "slug": "art-craft-and-design-in-education",
-      "name": "All-Party Parliamentary Group for Art, Craft and Design in Education",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "polly.billington.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "susanmcoles@gmail.com",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/art-craft-and-design-in-education.htm"
-    },
-    {
-      "slug": "eye-health-and-visual-impairment",
-      "name": "All-Party Parliamentary Group on Eye Health and Visual Impairment",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "marsha.decordova.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Royal National Institute of Blind People  and Thomas Pocklington Trust jointly act as the group's secretariat.https://www.rnib.org.uk/andhttps://www.pocklington.org.uk/",
-          "new_value": "Royal National Institute of Blind People  and Thomas Pocklington Trust jointly act as the group's secretariat. https://www.rnib.org.uk/ and https://www.pocklington.org.uk/"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/eye-health-and-visual-impairment.htm"
-    },
-    {
       "slug": "gardening-and-horticulture",
       "name": "All-Party Parliamentary Gardening and Horticulture Group",
       "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "valerie.vaz.mp@parliament.uk",
-          "new_value": "None"
-        },
         {
           "key": "contact_details__secretariat",
           "old_value": "Whitehouse Communications Ltd acts as the group's secretariat.http://www.whitehousecomms.com",
@@ -1405,913 +1113,19 @@
           "key": "contact_details__public_enquiry_point_email",
           "old_value": "dominic.aeissame@whitehousecomms.com",
           "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "valerie.vaz.mp@parliament.uk",
+          "new_value": "None"
         }
       ],
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/gardening-and-horticulture.htm"
     },
     {
-      "slug": "child-of-the-north",
-      "name": "Child of the North All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Alexis Darby, Health Equity North . Tel: 07568 920 556",
-          "new_value": "Alexis Darby, Health Equity North"
-        },
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "emma.lewell-buck.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Health Equity North acts as the group's secretariat.https://www.healthequitynorth.co.uk/",
-          "new_value": "Health Equity North acts as the group's secretariat. https://www.healthequitynorth.co.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "alexis.darby@thenhsa.co.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/child-of-the-north.htm"
-    },
-    {
-      "slug": "bosnia-and-herzegovina",
-      "name": "All-Party Parliamentary Group for Bosnia and Herzegovina",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "alicia.kearns.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "harry.warren@parliament.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/bosnia-and-herzegovina.htm"
-    },
-    {
-      "slug": "fusion-energy",
-      "name": "All-Party Parliamentary Group on Fusion Energy",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "james.naish.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "The Fusion Cluster acts as the group's secretariat.https://thefusioncluster.com/",
-          "new_value": "The Fusion Cluster acts as the group's secretariat. https://thefusioncluster.com/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "valerie.jamieson@ukaea.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/fusion-energy.htm"
-    },
-    {
-      "slug": "uk-food-security",
-      "name": "All-Party Parliamentary Group on UK Food Security",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Janette Aquilina, British Poultry Council. Tel: 07469 155654",
-          "new_value": "Richard Griffiths, British Poultry Council"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/uk-food-security.htm"
-    },
-    {
-      "slug": "arts-and-heritage",
-      "name": "All-Party Parliamentary Arts and Heritage Group",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "dan.carden.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "james.crathorne@btconnect.com",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/arts-and-heritage.htm"
-    },
-    {
-      "slug": "dentistry-and-oral-health",
-      "name": "All-Party Parliamentary Group for Dentistry and Oral Health",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "yasmin.qureshi.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "British Dental Association acts as the group's secretariat.https://www.bda.org/",
-          "new_value": "British Dental Association acts as the group's secretariat. https://www.bda.org/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "anna.wojnilko@bda.org",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/dentistry-and-oral-health.htm"
-    },
-    {
-      "slug": "fair-elections",
-      "name": "All-Party Parliamentary Group for Fair Elections",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "alex.sobel.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Fair Vote acts as the group's secretariat.https://www.fairvote.uk/",
-          "new_value": "Fair Vote acts as the group's secretariat. https://www.fairvote.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "mark@fairvote.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/fair-elections.htm"
-    },
-    {
-      "slug": "chagos-british-indian-ocean-territory",
-      "name": "Chagos Islands (British Indian Ocean Territory) All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "jeremy.corbyn.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "drsnoxell@gmail.com",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/chagos-british-indian-ocean-territory.htm"
-    },
-    {
-      "slug": "freight-and-logistics",
-      "name": "All-Party Parliamentary Group on Freight and Logistics",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "rachel.taylor.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Pagefield Communications acts as the group's secretariat.https://www.pagefield.co.uk/",
-          "new_value": "Pagefield Communications acts as the group's secretariat. https://www.pagefield.co.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "rha@pagefield.co.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/freight-and-logistics.htm"
-    },
-    {
-      "slug": "crown-dependencies-and-british-overseas-territories",
-      "name": "All-Party Parliamentary Group on the Crown Dependencies and British Overseas Territories",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "andrew.rosindell.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "starbuck.coleman@parliament.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/crown-dependencies-and-british-overseas-territories.htm"
-    },
-    {
-      "slug": "east-of-england",
-      "name": "East of England All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "jess.asato.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Steve Barwick Political Consultancy acts as the group's secretariat.https://www.stevebarwickpoliticalconsultancy.com",
-          "new_value": "Steve Barwick Political Consultancy acts as the group's secretariat. https://www.stevebarwickpoliticalconsultancy.com"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "stevebarwickpc@outlook.com",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/east-of-england.htm"
-    },
-    {
-      "slug": "fire-safety-and-rescue",
-      "name": "All-Party Parliamentary Group on Fire Safety and Rescue",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "bob.blackman.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "kingrb@parliament.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/fire-safety-and-rescue.htm"
-    },
-    {
-      "slug": "energy-studies",
-      "name": "All-Party Parliamentary Group for Energy Studies",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "mark.garnier.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "matthew@pges.org.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/energy-studies.htm"
-    },
-    {
-      "slug": "environment",
-      "name": "All-Party Parliamentary Group for the Environment",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "alistair.strathern.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Green Alliance acts as the group's secretariat.https://green-alliance.org.uk/",
-          "new_value": "Green Alliance acts as the group's secretariat. https://green-alliance.org.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "appg@green-alliance.org.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/environment.htm"
-    },
-    {
-      "slug": "deep-geothermal",
-      "name": "All-Party Parliamentary Group on Deep Geothermal",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "kieran.mullan.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Association for Renewable Energy and Clean Technology (REA) acts as the group's secretariat.https://www.r-e-a.net/",
-          "new_value": "Association for Renewable Energy and Clean Technology (REA) acts as the group's secretariat. https://www.r-e-a.net/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "appgdeepgeo@r-e-a.net",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/deep-geothermal.htm"
-    },
-    {
-      "slug": "formula-1-and-motorsport",
-      "name": "All-Party Parliamentary Group on Formula 1 and Motorsport",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "greg.smith.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "Labour",
-          "new_value": "Liberal Democrat"
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Callum Anderson",
-          "new_value": "Jess Brown-Fuller"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Keystone Consulting acts as the group's secretariat.https://www.keystone-consulting.co.uk/",
-          "new_value": "Keystone Consulting acts as the group's secretariat. https://www.keystone-consulting.co.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "david@keystone-consulting.co.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/formula-1-and-motorsport.htm"
-    },
-    {
-      "slug": "gibraltar",
-      "name": "All-Party Parliamentary Group on Gibraltar",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "amanda.martin.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "flora.cirell@parliament.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/gibraltar.htm"
-    },
-    {
-      "slug": "ahmadiyya-muslim-community",
-      "name": "All-Party Parliamentary Group for the Ahmadiyya Muslim Community",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "mcdonaghs@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Ahmadiyya Muslim Community UK acts as the group's secretariat.https://ahmadiyyauk.org/",
-          "new_value": "Ahmadiyya Muslim Community UK acts as the group's secretariat. https://ahmadiyyauk.org/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "appg@ahmadiyyauk.org",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/ahmadiyya-muslim-community.htm"
-    },
-    {
-      "slug": "climate-change",
-      "name": "All-Party Parliamentary Group on Climate Change",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "luke.murphy.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Uplift  acts as the group's secretariat.https://upliftuk.org/",
-          "new_value": "Uplift  acts as the group's secretariat. https://upliftuk.org/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "alice@upliftuk.org",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/climate-change.htm"
-    },
-    {
-      "slug": "financial-education-for-young-people",
-      "name": "All-Party Parliamentary Group on Financial Education for Young People",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "jerome.mayhew.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Young Enterprise acts as the group's secretariat.https://www.young-enterprise.org.uk/",
-          "new_value": "Young Enterprise acts as the group's secretariat. https://www.young-enterprise.org.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "appg@y-e.org.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/financial-education-for-young-people.htm"
-    },
-    {
-      "slug": "human-rights",
-      "name": "All-Party Parliamentary Human Rights Group",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Lord Campbell-Savours",
-          "new_value": "Markus Campbell-Savours"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/human-rights.htm"
-    },
-    {
-      "slug": "digital-identity",
-      "name": "All-Party Parliamentary Group on Digital Identity",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "allison.gardner.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Wychwood Consulting Ltd acts as the group's secretariat.https://www.wychwoodconsultingltd.co.uk/",
-          "new_value": "Wychwood Consulting Ltd acts as the group's secretariat. https://www.wychwoodconsultingltd.co.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "andrew.henderson@wychwoodconsultingltd.co.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/digital-identity.htm"
-    },
-    {
-      "slug": "poland",
-      "name": "All-Party Parliamentary Group on Poland",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "George Byczynski",
-          "new_value": "Ryan Soraghan, Officer of Dr Rosena Allin-Khan MP"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/poland.htm"
-    },
-    {
-      "slug": "steel-and-metals-related-industries",
-      "name": "All-Party Parliamentary Group for Steel and Metals-Related Industries",
-      "differences": [
-        {
-          "key": "officers__0__name",
-          "old_value": "Carolyn Harris",
-          "new_value": "Mr Jonathan Brash"
-        },
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 4316.",
-          "new_value": "House of Commons, London, SW1A 0AA."
-        },
-        {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "Carolyn Harris MP",
-          "new_value": "Mr Jonathan Brash MP"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/steel-and-metals-related-industries.htm"
-    },
-    {
-      "slug": "autism",
-      "name": "All-Party Parliamentary Group on Autism",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "marie.tidball.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA.",
-          "new_value": "House of Commons, London, SW1A 0AA. Tel: 02072197636."
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "National Autistic Society acts as the group's secretariat.http://www.autism.org.uk/",
-          "new_value": "National Autistic Society acts as the group's secretariat. http://www.autism.org.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "appga@nas.org.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/autism.htm"
-    },
-    {
-      "slug": "canada",
-      "name": "All-Party Parliamentary Group on Canada",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "matt.western.mp@parliament.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/canada.htm"
-    },
-    {
-      "slug": "digital-regulation-and-responsibility",
-      "name": "All-Party Parliamentary Group on Digital Regulation and Responsibility",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "josh.simons.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Reset acts as the group's secretariat.https://www.reset.tech/",
-          "new_value": "Reset acts as the group's secretariat. https://www.reset.tech/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "hello@appg.tech",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/digital-regulation-and-responsibility.htm"
-    },
-    {
-      "slug": "engineering",
-      "name": "All-Party Parliamentary Engineering Group",
-      "differences": [
-        {
-          "key": "detailed_benefits__2__Value £s",
-          "old_value": "5,000",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__Registered",
-          "old_value": "25/03/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__2__Registered",
-          "old_value": "26/02/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__2__Received",
-          "old_value": "22/02/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        },
-        {
-          "key": "registrable_benefits",
-          "old_value": "Financial Benefits",
-          "new_value": "None"
-        },
-        {
-          "key": "detailed_benefits__1__Registered",
-          "old_value": "26/02/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Registered",
-          "old_value": "23/01/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__Received",
-          "old_value": "18/03/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__Received",
-          "old_value": "31/01/2024",
-          "new_value": ""
-        },
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "dave.doogan.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "detailed_benefits__3__Value £s",
-          "old_value": "5,000",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__Source",
-          "old_value": "Laing O’Rourke",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__Value £s",
-          "old_value": "5,000",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Received",
-          "old_value": "22/01/2024",
-          "new_value": ""
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "JBP Associates acts as the group's secretariat.https://jbp.co.uk/",
-          "new_value": "JBP Associates acts as the group's secretariat. https://jbp.co.uk/"
-        },
-        {
-          "key": "detailed_benefits__2__Source",
-          "old_value": "Institute of Civil Engineers (ICE)",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Source",
-          "old_value": "Safran Landing Systems",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "5,000",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "appeg@jbp.co.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "detailed_benefits__3__Source",
-          "old_value": "Sizewell C Limited",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__2__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/engineering.htm"
-    },
-    {
-      "slug": "carbon-capture-utilisation-and-storage",
-      "name": "All-Party Parliamentary Group on Carbon Capture, Utilisation and Storage",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "luke.myer.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Carbon Capture and Storage Association acts as the group's secretariat.https://www.ccsassociation.org/",
-          "new_value": "Carbon Capture and Storage Association acts as the group's secretariat. https://www.ccsassociation.org/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "Olivia.trimborn@ccsassociation.org",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/carbon-capture-utilisation-and-storage.htm"
-    },
-    {
-      "slug": "aviation-travel-and-aerospace",
-      "name": "All-Party Parliamentary Group for the Future of Aviation, Travel and Aerospace",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "christine.jardine.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Tendo Consulting acts as the group's secretariat.https://www.tendoconsulting.co.uk/",
-          "new_value": "Tendo Consulting acts as the group's secretariat. https://www.tendoconsulting.co.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "contact@appgfata.org.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/aviation-travel-and-aerospace.htm"
-    },
-    {
-      "slug": "afrikan-reparations",
-      "name": "All-Party Parliamentary Group for Afrikan Reparations",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "bell.ribeiroaddy.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "African Foundation for Development (AFFORD) acts as the group's secretariat.https://afford-uk.org/",
-          "new_value": "African Foundation for Development (AFFORD) acts as the group's secretariat. https://afford-uk.org/"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/afrikan-reparations.htm"
-    },
-    {
-      "slug": "arbitrary-detention-and-hostage-affairs",
-      "name": "All-Party Parliamentary Group on Arbitrary Detention and Hostage Affairs",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "alicia.kearns.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "International Bar Association’s Human Rights Institute acts as the group's secretariat.https://www.ibanet.org/IBAHRI",
-          "new_value": "International Bar Association’s Human Rights Institute acts as the group's secretariat. https://www.ibanet.org/IBAHRI"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "emily.foale@int-bar.org",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/arbitrary-detention-and-hostage-affairs.htm"
-    },
-    {
-      "slug": "climate-nature-and-security",
-      "name": "All-Party Parliamentary Group for Climate, Nature and Security",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "barry.gardiner.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Climate Change & (In)Security Project acts as the group's secretariat.https://cciproject.uk/",
-          "new_value": "Climate Change & (In)Security Project acts as the group's secretariat. https://cciproject.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "louise.selisny@cciproject.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/climate-nature-and-security.htm"
-    },
-    {
-      "slug": "channel-islands",
-      "name": "Channel Islands All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "sarah.champion.mp@parliament.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/channel-islands.htm"
-    },
-    {
-      "slug": "music",
-      "name": "All-Party Parliamentary Group on Music",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Hannah McLennan, UK Music . Tel: 07763 603 709",
-          "new_value": "Hannah McLennan, UK Music. Tel: 07763 603 709"
-        },
-        {
-          "key": "contact_details__website__url",
-          "old_value": "http://allpartymusicgroup.org.uk/",
-          "new_value": "https://appgonmusic.wordpress.com/"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/music.htm"
-    },
-    {
-      "slug": "british-heritage",
-      "name": "All-Party Parliamentary Group on British Heritage",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "andrew.rosindell.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "josh.scott@parliament.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-heritage.htm"
-    },
-    {
-      "slug": "gypsies-travellers-and-roma",
-      "name": "All-Party Parliamentary Group for Gypsies, Travellers and Roma",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "None",
-          "new_value": "Friends, Families and Travellers. Tel: 01273 234777"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/gypsies-travellers-and-roma.htm"
-    },
-    {
-      "slug": "south-east",
-      "name": "All-Party Parliamentary Group for the South East",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Sean McKee, South East Councils . Tel: 01732 227 048",
-          "new_value": "Sean McKee, South East Councils. Tel: 01732 227 048"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-east.htm"
-    },
-    {
-      "slug": "pharmacy",
-      "name": "All-Party Parliamentary Group on Pharmacy",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Greg Sutherland, M+F Health Communications  . Tel: 07845641251",
-          "new_value": "Greg Sutherland, M+F Health Communications. Tel: 07845641251"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/pharmacy.htm"
-    },
-    {
-      "slug": "water",
-      "name": "All-Party Parliamentary Water Group",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "None",
-          "new_value": "Joseph Eaton , Office of Lee Pitcher MP. Tel: 020 7219 3622"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/water.htm"
-    },
-    {
-      "slug": "cycling-and-walking",
-      "name": "All-Party Parliamentary Group for Cycling and Walking",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "fabian.hamilton.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "coffmana@parliament.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/cycling-and-walking.htm"
-    },
-    {
-      "slug": "south-west",
-      "name": "All-Party Parliamentary Group for the great South West",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "James Antell, Henham Strategy. Tel: 07446918161",
-          "new_value": "James Antell, Henham Strategy"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-west.htm"
-    },
-    {
       "slug": "apprenticeships",
       "name": "All-Party Parliamentary Group on Apprenticeships",
       "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "andrew.pakes.mp@parliament.uk",
-          "new_value": "None"
-        },
         {
           "key": "contact_details__secretariat",
           "old_value": "Connect Public Affairs acts as the group's secretariat.https://connectpa.co.uk/",
@@ -2321,300 +1135,114 @@
           "key": "contact_details__public_enquiry_point_email",
           "old_value": "l.mcmahon@connectpa.co.uk",
           "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "andrew.pakes.mp@parliament.uk",
+          "new_value": "None"
         }
       ],
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/apprenticeships.htm"
     },
     {
-      "slug": "financial-technology",
-      "name": "All-Party Parliamentary Group on Financial Technology",
+      "slug": "environment",
+      "name": "All-Party Parliamentary Group for the Environment",
       "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "luke.charters.mp@parliament.uk",
-          "new_value": "None"
-        },
         {
           "key": "contact_details__secretariat",
-          "old_value": "Innovate Finance acts as the group's secretariat.https://www.innovatefinance.com/",
-          "new_value": "Innovate Finance acts as the group's secretariat. https://www.innovatefinance.com/"
+          "old_value": "Green Alliance acts as the group's secretariat.https://green-alliance.org.uk/",
+          "new_value": "Green Alliance acts as the group's secretariat. https://green-alliance.org.uk/"
         },
         {
           "key": "contact_details__public_enquiry_point_email",
-          "old_value": "policy@innovatefinance.com",
+          "old_value": "appg@green-alliance.org.uk",
           "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/financial-technology.htm"
-    },
-    {
-      "slug": "australia-and-new-zealand-anzac-and-the-pacific-islands",
-      "name": "All-Party Parliamentary Group for Australia and New Zealand (ANZAC) and the Pacific Islands",
-      "differences": [
+        },
         {
           "key": "contact_details__registered_contact_email",
-          "old_value": "andrew.rosindell.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "pierre.wilby@parliament.uk",
+          "old_value": "alistair.strathern.mp@parliament.uk",
           "new_value": "None"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/australia-and-new-zealand-anzac-and-the-pacific-islands.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/environment.htm"
     },
     {
-      "slug": "brain-tumours",
-      "name": "All-Party Parliamentary Group on Brain Tumours",
+      "slug": "eye-health-and-visual-impairment",
+      "name": "All-Party Parliamentary Group on Eye Health and Visual Impairment",
       "differences": [
         {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Dan Knowles, Brain Tumour Research . Tel: 01908 867200",
-          "new_value": "Dan Knowles, Brain Tumour Research. Tel: 01908 867200"
+          "key": "contact_details__secretariat",
+          "old_value": "Royal National Institute of Blind People  and Thomas Pocklington Trust jointly act as the group's secretariat.https://www.rnib.org.uk/andhttps://www.pocklington.org.uk/",
+          "new_value": "Royal National Institute of Blind People  and Thomas Pocklington Trust jointly act as the group's secretariat. https://www.rnib.org.uk/ and https://www.pocklington.org.uk/"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "marsha.decordova.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/eye-health-and-visual-impairment.htm"
+    },
+    {
+      "slug": "craft",
+      "name": "All-Party Parliamentary Group for Craft",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "patricia@hernewood.net",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "hayesj@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/craft.htm"
+    },
+    {
+      "slug": "ahmadiyya-muslim-community",
+      "name": "All-Party Parliamentary Group for the Ahmadiyya Muslim Community",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Ahmadiyya Muslim Community UK acts as the group's secretariat.https://ahmadiyyauk.org/",
+          "new_value": "Ahmadiyya Muslim Community UK acts as the group's secretariat. https://ahmadiyyauk.org/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "appg@ahmadiyyauk.org",
+          "new_value": "None"
         },
         {
           "key": "contact_details__registered_contact_email",
           "old_value": "mcdonaghs@parliament.uk",
           "new_value": "None"
-        },
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/ahmadiyya-muslim-community.htm"
+    },
+    {
+      "slug": "climate-nature-and-security",
+      "name": "All-Party Parliamentary Group for Climate, Nature and Security",
+      "differences": [
         {
           "key": "contact_details__secretariat",
-          "old_value": "Brain Tumour Research acts as the group's secretariat.https://www.braintumourresearch.org/",
-          "new_value": "Brain Tumour Research acts as the group's secretariat. https://www.braintumourresearch.org/"
+          "old_value": "Climate Change & (In)Security Project acts as the group's secretariat.https://cciproject.uk/",
+          "new_value": "Climate Change & (In)Security Project acts as the group's secretariat. https://cciproject.uk/"
         },
         {
           "key": "contact_details__public_enquiry_point_email",
-          "old_value": "dan.knowles@braintumourresearch.org",
+          "old_value": "louise.selisny@cciproject.uk",
           "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/brain-tumours.htm"
-    },
-    {
-      "slug": "football",
-      "name": "Football All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Lexington Communications . Tel: 020 7025 2300",
-          "new_value": "Lexington Communications. Tel: 020 7025 2300"
         },
         {
           "key": "contact_details__registered_contact_email",
-          "old_value": "officeofclivebettsmp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Lexington Communications  acts as the group's secretariat.https://www.lexcomm.co.uk/",
-          "new_value": "Lexington Communications  acts as the group's secretariat. https://www.lexcomm.co.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "fa@lexcomm.co.uk",
+          "old_value": "barry.gardiner.mp@parliament.uk",
           "new_value": "None"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/football.htm"
-    },
-    {
-      "slug": "anti-corruption-and-responsible-tax",
-      "name": "All-Party Parliamentary Group on Anti-Corruption and Responsible Tax",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "joe.powell.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Athena Foundation acts as the group's secretariat.https://www.theathenafoundation.org.uk/",
-          "new_value": "Athena Foundation acts as the group's secretariat. https://www.theathenafoundation.org.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "laurie.woodiwiss@parliament.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/anti-corruption-and-responsible-tax.htm"
-    },
-    {
-      "slug": "japan",
-      "name": "All-Party Parliamentary Group on Japan",
-      "differences": [
-        {
-          "key": "detailed_benefits__2__Value £s",
-          "old_value": "2,000",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__Registered",
-          "old_value": "29/05/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__2__Registered",
-          "old_value": "29/05/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__2__Received",
-          "old_value": "10/05/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        },
-        {
-          "key": "registrable_benefits",
-          "old_value": "Financial Benefits",
-          "new_value": "None"
-        },
-        {
-          "key": "detailed_benefits__1__Registered",
-          "old_value": "27/03/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Registered",
-          "old_value": "27/03/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__Received",
-          "old_value": "15/05/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__Received",
-          "old_value": "12/03/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__Value £s",
-          "old_value": "2,000",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__Source",
-          "old_value": "Mitsubishi Electric",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__1__Value £s",
-          "old_value": "2,750",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Received",
-          "old_value": "12/03/2024",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__2__Source",
-          "old_value": "Chugai Pharma Europe",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Source",
-          "old_value": "Kawasaki Heavy Industries",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "2,750",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__0__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__3__Source",
-          "old_value": "Mitsui Sunitomo Insurance London Office",
-          "new_value": ""
-        },
-        {
-          "key": "detailed_benefits__2__benefit_type",
-          "old_value": "Financial Benefits",
-          "new_value": ""
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/japan.htm"
-    },
-    {
-      "slug": "choice-at-the-end-of-life",
-      "name": "All-Party Parliamentary Group for Choice at the End of Life",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "ruthcadburymp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Dignity in Dying acts as the group's secretariat.https://www.dignityindying.org.uk/",
-          "new_value": "Dignity in Dying acts as the group's secretariat. https://www.dignityindying.org.uk/"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "frances.mcfadden@dignityindying.org.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/choice-at-the-end-of-life.htm"
-    },
-    {
-      "slug": "british-muslims",
-      "name": "All-Party Parliamentary Group on British Muslims",
-      "differences": [
-        {
-          "key": "registrable_benefits",
-          "old_value": "None",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__0__Registered",
-          "old_value": "",
-          "new_value": "18/11/2024"
-        },
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "sarah.owen.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "detailed_benefits__0__Received",
-          "old_value": "",
-          "new_value": "05/11/2024"
-        },
-        {
-          "key": "detailed_benefits__0__Source",
-          "old_value": "",
-          "new_value": "The Lady Fatemah (A.S.) Charitable Trust"
-        },
-        {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "",
-          "new_value": "25,000"
-        },
-        {
-          "key": "detailed_benefits__0__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-muslims.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/climate-nature-and-security.htm"
     },
     {
       "slug": "taiwan",
@@ -2634,94 +1262,535 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/taiwan.htm"
     },
     {
-      "slug": "electric-vehicle",
-      "name": "Electric Vehicle All-Party Parliamentary Group",
+      "slug": "east-of-england",
+      "name": "East of England All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Steve Barwick Political Consultancy acts as the group's secretariat.https://www.stevebarwickpoliticalconsultancy.com",
+          "new_value": "Steve Barwick Political Consultancy acts as the group's secretariat. https://www.stevebarwickpoliticalconsultancy.com"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "stevebarwickpc@outlook.com",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "jess.asato.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/east-of-england.htm"
+    },
+    {
+      "slug": "financial-technology",
+      "name": "All-Party Parliamentary Group on Financial Technology",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Innovate Finance acts as the group's secretariat.https://www.innovatefinance.com/",
+          "new_value": "Innovate Finance acts as the group's secretariat. https://www.innovatefinance.com/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "policy@innovatefinance.com",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "luke.charters.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/financial-technology.htm"
+    },
+    {
+      "slug": "south-west",
+      "name": "All-Party Parliamentary Group for the great South West",
       "differences": [
         {
           "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Matt Adams, Association for Renewable Energy and Clean Technology   . Tel: 07487 695256",
-          "new_value": "Matt Adams, Association for Renewable Energy and Clean Technology . Tel: 07487 695256"
+          "old_value": "James Antell, Henham Strategy. Tel: 07446918161",
+          "new_value": "James Antell, Henham Strategy"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-west.htm"
+    },
+    {
+      "slug": "football-supporters",
+      "name": "All-Party Parliamentary Group for Football Supporters",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "The Football Supporters' Association acts as the group's secretariat.https://thefsa.org.uk",
+          "new_value": "The Football Supporters' Association acts as the group's secretariat. https://thefsa.org.uk"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "appg@thefsa.org.uk",
+          "new_value": "None"
         },
         {
           "key": "contact_details__registered_contact_email",
-          "old_value": "matt.western.mp@parliament.uk",
+          "old_value": "ian.lavery.mp@parliament.uk",
           "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/football-supporters.htm"
+    },
+    {
+      "slug": "bosnia-and-herzegovina",
+      "name": "All-Party Parliamentary Group for Bosnia and Herzegovina",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "harry.warren@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "alicia.kearns.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/bosnia-and-herzegovina.htm"
+    },
+    {
+      "slug": "beer",
+      "name": "All-Party Parliamentary Beer Group",
+      "differences": [
+        {
+          "key": "detailed_benefits__6__Registered",
+          "old_value": "",
+          "new_value": "22/10/2024"
+        },
+        {
+          "key": "detailed_benefits__3__Source",
+          "old_value": "",
+          "new_value": "Molson Coors"
+        },
+        {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "",
+          "new_value": "30/09/2024"
+        },
+        {
+          "key": "detailed_benefits__6__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__1__Received",
+          "old_value": "",
+          "new_value": "02/10/2024"
+        },
+        {
+          "key": "detailed_benefits__5__Received",
+          "old_value": "",
+          "new_value": "14/10/2024"
+        },
+        {
+          "key": "detailed_benefits__1__Value £s",
+          "old_value": "",
+          "new_value": "4,294"
+        },
+        {
+          "key": "detailed_benefits__0__Value £s",
+          "old_value": "",
+          "new_value": "4,294"
+        },
+        {
+          "key": "detailed_benefits__2__Value £s",
+          "old_value": "",
+          "new_value": "4,294"
+        },
+        {
+          "key": "detailed_benefits__4__Received",
+          "old_value": "",
+          "new_value": "14/10/2024"
+        },
+        {
+          "key": "detailed_benefits__3__Registered",
+          "old_value": "",
+          "new_value": "22/10/2024"
+        },
+        {
+          "key": "detailed_benefits__6__Value £s",
+          "old_value": "",
+          "new_value": "4,294"
+        },
+        {
+          "key": "detailed_benefits__4__Value £s",
+          "old_value": "",
+          "new_value": "4,294"
+        },
+        {
+          "key": "detailed_benefits__4__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__6__Source",
+          "old_value": "",
+          "new_value": "Greene King"
+        },
+        {
+          "key": "detailed_benefits__5__Registered",
+          "old_value": "",
+          "new_value": "22/10/2024"
+        },
+        {
+          "key": "detailed_benefits__5__Source",
+          "old_value": "",
+          "new_value": "Heineken"
+        },
+        {
+          "key": "registrable_benefits",
+          "old_value": "None",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__4__Registered",
+          "old_value": "",
+          "new_value": "22/10/2024"
+        },
+        {
+          "key": "detailed_benefits__4__Source",
+          "old_value": "",
+          "new_value": "Stonegate"
+        },
+        {
+          "key": "detailed_benefits__0__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__3__Received",
+          "old_value": "",
+          "new_value": "14/10/2024"
+        },
+        {
+          "key": "detailed_benefits__2__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "rita@beergroup.org",
+          "new_value": "None"
+        },
+        {
+          "key": "detailed_benefits__5__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__1__Registered",
+          "old_value": "",
+          "new_value": "10/10/2024"
+        },
+        {
+          "key": "detailed_benefits__6__Received",
+          "old_value": "",
+          "new_value": "14/10/2024"
+        },
+        {
+          "key": "detailed_benefits__5__Value £s",
+          "old_value": "",
+          "new_value": "4,294"
+        },
+        {
+          "key": "detailed_benefits__1__Source",
+          "old_value": "",
+          "new_value": "Carlsberg"
+        },
+        {
+          "key": "detailed_benefits__3__Value £s",
+          "old_value": "",
+          "new_value": "4,294"
+        },
+        {
+          "key": "detailed_benefits__1__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "tonia.antoniazzi.mp@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "detailed_benefits__2__Received",
+          "old_value": "",
+          "new_value": "02/10/2024"
+        },
+        {
+          "key": "detailed_benefits__3__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__2__Source",
+          "old_value": "",
+          "new_value": "Diageo"
+        },
+        {
+          "key": "detailed_benefits__0__Registered",
+          "old_value": "",
+          "new_value": "10/10/2024"
+        },
+        {
+          "key": "detailed_benefits__0__Source",
+          "old_value": "",
+          "new_value": "ABInBev"
+        },
+        {
+          "key": "detailed_benefits__2__Registered",
+          "old_value": "",
+          "new_value": "10/10/2024"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/beer.htm"
+    },
+    {
+      "slug": "ocean",
+      "name": "All-Party Parliamentary Group for the Ocean",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Tendo Consulting,  . Tel: 020 7175 8363",
+          "new_value": "Tendo Consulting. Tel: 020 7175 8363"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/ocean.htm"
+    },
+    {
+      "slug": "formula-1-and-motorsport",
+      "name": "All-Party Parliamentary Group on Formula 1 and Motorsport",
+      "differences": [
+        {
+          "key": "officers__3__name",
+          "old_value": "Callum Anderson",
+          "new_value": "Jess Brown-Fuller"
         },
         {
           "key": "contact_details__secretariat",
-          "old_value": "Association for Renewable Energy and Clean Technology  acts as the group's secretariat.https://www.r-e-a.net/",
-          "new_value": "Association for Renewable Energy and Clean Technology  acts as the group's secretariat. https://www.r-e-a.net/"
+          "old_value": "Keystone Consulting acts as the group's secretariat.https://www.keystone-consulting.co.uk/",
+          "new_value": "Keystone Consulting acts as the group's secretariat. https://www.keystone-consulting.co.uk/"
+        },
+        {
+          "key": "officers__3__party",
+          "old_value": "Labour",
+          "new_value": "Liberal Democrat"
         },
         {
           "key": "contact_details__public_enquiry_point_email",
-          "old_value": "madams@r-e-a.net",
+          "old_value": "david@keystone-consulting.co.uk",
           "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/electric-vehicle.htm"
-    },
-    {
-      "slug": "craft",
-      "name": "All-Party Parliamentary Group for Craft",
-      "differences": [
+        },
         {
           "key": "contact_details__registered_contact_email",
-          "old_value": "hayesj@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "patricia@hernewood.net",
+          "old_value": "greg.smith.mp@parliament.uk",
           "new_value": "None"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/craft.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/formula-1-and-motorsport.htm"
     },
     {
-      "slug": "commonwealth",
-      "name": "All-Party Parliamentary Group for the Commonwealth",
+      "slug": "aviation-travel-and-aerospace",
+      "name": "All-Party Parliamentary Group for the Future of Aviation, Travel and Aerospace",
       "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Tendo Consulting acts as the group's secretariat.https://www.tendoconsulting.co.uk/",
+          "new_value": "Tendo Consulting acts as the group's secretariat. https://www.tendoconsulting.co.uk/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "contact@appgfata.org.uk",
+          "new_value": "None"
+        },
         {
           "key": "contact_details__registered_contact_email",
-          "old_value": "andrew.rosindell.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "pierre.wilby@parliament.uk",
+          "old_value": "christine.jardine.mp@parliament.uk",
           "new_value": "None"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/commonwealth.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/aviation-travel-and-aerospace.htm"
     },
     {
-      "slug": "kinship-care",
-      "name": "All-Party Parliamentary Group on Kinship Care",
+      "slug": "autism",
+      "name": "All-Party Parliamentary Group on Autism",
       "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "National Autistic Society acts as the group's secretariat.http://www.autism.org.uk/",
+          "new_value": "National Autistic Society acts as the group's secretariat. http://www.autism.org.uk/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "appga@nas.org.uk",
+          "new_value": "None"
+        },
         {
           "key": "contact_details__registered_contact_address",
           "old_value": "House of Commons, London, SW1A 0AA.",
-          "new_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7185."
+          "new_value": "House of Commons, London, SW1A 0AA. Tel: 02072197636."
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "marie.tidball.mp@parliament.uk",
+          "new_value": "None"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/kinship-care.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/autism.htm"
+    },
+    {
+      "slug": "deep-geothermal",
+      "name": "All-Party Parliamentary Group on Deep Geothermal",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Association for Renewable Energy and Clean Technology (REA) acts as the group's secretariat.https://www.r-e-a.net/",
+          "new_value": "Association for Renewable Energy and Clean Technology (REA) acts as the group's secretariat. https://www.r-e-a.net/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "appgdeepgeo@r-e-a.net",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "kieran.mullan.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/deep-geothermal.htm"
+    },
+    {
+      "slug": "africa",
+      "name": "All-Party Parliamentary Group for Africa",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Royal African Society acts as the group's secretariat.http://www.royalafricansociety.org/",
+          "new_value": "Royal African Society acts as the group's secretariat. http://www.royalafricansociety.org/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "Hb28@soas.ac.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "chi.onwurah.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/africa.htm"
+    },
+    {
+      "slug": "fire-safety-and-rescue",
+      "name": "All-Party Parliamentary Group on Fire Safety and Rescue",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "kingrb@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "bob.blackman.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/fire-safety-and-rescue.htm"
+    },
+    {
+      "slug": "energy-studies",
+      "name": "All-Party Parliamentary Group for Energy Studies",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "matthew@pges.org.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "mark.garnier.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/energy-studies.htm"
+    },
+    {
+      "slug": "climate-change",
+      "name": "All-Party Parliamentary Group on Climate Change",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Uplift  acts as the group's secretariat.https://upliftuk.org/",
+          "new_value": "Uplift  acts as the group's secretariat. https://upliftuk.org/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "alice@upliftuk.org",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "luke.murphy.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/climate-change.htm"
     },
     {
       "slug": "global-sexual-and-reproductive-health-and-rights",
       "name": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
       "differences": [
         {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "sarah.champion.mp@parliament.uk",
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "kjaerbym@parliament.uk",
           "new_value": "None"
         },
         {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "kjaerbym@parliament.uk",
+          "key": "contact_details__registered_contact_email",
+          "old_value": "sarah.champion.mp@parliament.uk",
           "new_value": "None"
         }
       ],
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/global-sexual-and-reproductive-health-and-rights.htm"
+    },
+    {
+      "slug": "canada",
+      "name": "All-Party Parliamentary Group on Canada",
+      "differences": [
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "matt.western.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/canada.htm"
+    },
+    {
+      "slug": "british-heritage",
+      "name": "All-Party Parliamentary Group on British Heritage",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "josh.scott@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "andrew.rosindell.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-heritage.htm"
     },
     {
       "slug": "semiconductors",
@@ -2736,53 +1805,953 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/semiconductors.htm"
     },
     {
-      "slug": "beer",
-      "name": "All-Party Parliamentary Beer Group",
+      "slug": "anti-corruption-and-responsible-tax",
+      "name": "All-Party Parliamentary Group on Anti-Corruption and Responsible Tax",
       "differences": [
         {
+          "key": "contact_details__secretariat",
+          "old_value": "Athena Foundation acts as the group's secretariat.https://www.theathenafoundation.org.uk/",
+          "new_value": "Athena Foundation acts as the group's secretariat. https://www.theathenafoundation.org.uk/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "laurie.woodiwiss@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "joe.powell.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/anti-corruption-and-responsible-tax.htm"
+    },
+    {
+      "slug": "afrikan-reparations",
+      "name": "All-Party Parliamentary Group for Afrikan Reparations",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "African Foundation for Development (AFFORD) acts as the group's secretariat.https://afford-uk.org/",
+          "new_value": "African Foundation for Development (AFFORD) acts as the group's secretariat. https://afford-uk.org/"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "bell.ribeiroaddy.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/afrikan-reparations.htm"
+    },
+    {
+      "slug": "arbitrary-detention-and-hostage-affairs",
+      "name": "All-Party Parliamentary Group on Arbitrary Detention and Hostage Affairs",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "International Bar Association’s Human Rights Institute acts as the group's secretariat.https://www.ibanet.org/IBAHRI",
+          "new_value": "International Bar Association’s Human Rights Institute acts as the group's secretariat. https://www.ibanet.org/IBAHRI"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "emily.foale@int-bar.org",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "alicia.kearns.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/arbitrary-detention-and-hostage-affairs.htm"
+    },
+    {
+      "slug": "human-rights",
+      "name": "All-Party Parliamentary Human Rights Group",
+      "differences": [
+        {
+          "key": "officers__2__name",
+          "old_value": "Lord Campbell-Savours",
+          "new_value": "Markus Campbell-Savours"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/human-rights.htm"
+    },
+    {
+      "slug": "get-refusal",
+      "name": "All-Party Parliamentary Group on Get Refusal",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "allentj@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "julie.minns.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/get-refusal.htm"
+    },
+    {
+      "slug": "fusion-energy",
+      "name": "All-Party Parliamentary Group on Fusion Energy",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "The Fusion Cluster acts as the group's secretariat.https://thefusioncluster.com/",
+          "new_value": "The Fusion Cluster acts as the group's secretariat. https://thefusioncluster.com/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "valerie.jamieson@ukaea.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "james.naish.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/fusion-energy.htm"
+    },
+    {
+      "slug": "digital-identity",
+      "name": "All-Party Parliamentary Group on Digital Identity",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Wychwood Consulting Ltd acts as the group's secretariat.https://www.wychwoodconsultingltd.co.uk/",
+          "new_value": "Wychwood Consulting Ltd acts as the group's secretariat. https://www.wychwoodconsultingltd.co.uk/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "andrew.henderson@wychwoodconsultingltd.co.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "allison.gardner.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/digital-identity.htm"
+    },
+    {
+      "slug": "electric-vehicle",
+      "name": "Electric Vehicle All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Association for Renewable Energy and Clean Technology  acts as the group's secretariat.https://www.r-e-a.net/",
+          "new_value": "Association for Renewable Energy and Clean Technology  acts as the group's secretariat. https://www.r-e-a.net/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "madams@r-e-a.net",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "matt.western.mp@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Matt Adams, Association for Renewable Energy and Clean Technology   . Tel: 07487 695256",
+          "new_value": "Matt Adams, Association for Renewable Energy and Clean Technology . Tel: 07487 695256"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/electric-vehicle.htm"
+    },
+    {
+      "slug": "japan",
+      "name": "All-Party Parliamentary Group on Japan",
+      "differences": [
+        {
+          "key": "detailed_benefits__3__Source",
+          "old_value": "Mitsui Sunitomo Insurance London Office",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "12/03/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__Received",
+          "old_value": "12/03/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__Value £s",
+          "old_value": "2,750",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Value £s",
+          "old_value": "2,750",
+          "new_value": ""
+        },
+        {
           "key": "detailed_benefits__2__Value £s",
-          "old_value": "",
-          "new_value": "4,294"
+          "old_value": "2,000",
+          "new_value": ""
         },
         {
           "key": "detailed_benefits__3__Registered",
-          "old_value": "",
-          "new_value": "22/10/2024"
+          "old_value": "29/05/2024",
+          "new_value": ""
         },
         {
-          "key": "detailed_benefits__6__Registered",
-          "old_value": "",
-          "new_value": "22/10/2024"
+          "key": "registrable_benefits",
+          "old_value": "Financial Benefits",
+          "new_value": "None"
         },
         {
-          "key": "detailed_benefits__2__Registered",
-          "old_value": "",
-          "new_value": "10/10/2024"
+          "key": "detailed_benefits__0__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
         },
         {
-          "key": "detailed_benefits__2__Received",
-          "old_value": "",
-          "new_value": "02/10/2024"
+          "key": "detailed_benefits__3__Received",
+          "old_value": "15/05/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__2__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__Registered",
+          "old_value": "27/03/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__Source",
+          "old_value": "Mitsubishi Electric",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__Value £s",
+          "old_value": "2,000",
+          "new_value": ""
         },
         {
           "key": "detailed_benefits__1__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
+          "old_value": "Financial Benefits",
+          "new_value": ""
         },
         {
-          "key": "detailed_benefits__4__Registered",
-          "old_value": "",
-          "new_value": "22/10/2024"
+          "key": "detailed_benefits__2__Received",
+          "old_value": "10/05/2024",
+          "new_value": ""
         },
         {
-          "key": "detailed_benefits__6__Value £s",
-          "old_value": "",
-          "new_value": "4,294"
+          "key": "detailed_benefits__3__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
         },
         {
-          "key": "detailed_benefits__5__Registered",
+          "key": "detailed_benefits__2__Source",
+          "old_value": "Chugai Pharma Europe",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Source",
+          "old_value": "Kawasaki Heavy Industries",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Registered",
+          "old_value": "27/03/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__2__Registered",
+          "old_value": "29/05/2024",
+          "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/japan.htm"
+    },
+    {
+      "slug": "fair-banking",
+      "name": "All-Party Parliamentary Group on Fair Banking",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Athena Foundation acts as the group's secretariat.https://www.theathenafoundation.org.uk/",
+          "new_value": "Athena Foundation acts as the group's secretariat. https://www.theathenafoundation.org.uk/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "laurie.woodiwiss@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "lloyd.hatton.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/fair-banking.htm"
+    },
+    {
+      "slug": "chagos-british-indian-ocean-territory",
+      "name": "Chagos Islands (British Indian Ocean Territory) All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "drsnoxell@gmail.com",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "jeremy.corbyn.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/chagos-british-indian-ocean-territory.htm"
+    },
+    {
+      "slug": "choice-at-the-end-of-life",
+      "name": "All-Party Parliamentary Group for Choice at the End of Life",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Dignity in Dying acts as the group's secretariat.https://www.dignityindying.org.uk/",
+          "new_value": "Dignity in Dying acts as the group's secretariat. https://www.dignityindying.org.uk/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "frances.mcfadden@dignityindying.org.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "ruthcadburymp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/choice-at-the-end-of-life.htm"
+    },
+    {
+      "slug": "dentistry-and-oral-health",
+      "name": "All-Party Parliamentary Group for Dentistry and Oral Health",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "British Dental Association acts as the group's secretariat.https://www.bda.org/",
+          "new_value": "British Dental Association acts as the group's secretariat. https://www.bda.org/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "anna.wojnilko@bda.org",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "yasmin.qureshi.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/dentistry-and-oral-health.htm"
+    },
+    {
+      "slug": "kinship-care",
+      "name": "All-Party Parliamentary Group on Kinship Care",
+      "differences": [
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "House of Commons, London, SW1A 0AA.",
+          "new_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7185."
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/kinship-care.htm"
+    },
+    {
+      "slug": "financial-education-for-young-people",
+      "name": "All-Party Parliamentary Group on Financial Education for Young People",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Young Enterprise acts as the group's secretariat.https://www.young-enterprise.org.uk/",
+          "new_value": "Young Enterprise acts as the group's secretariat. https://www.young-enterprise.org.uk/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "appg@y-e.org.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "jerome.mayhew.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/financial-education-for-young-people.htm"
+    },
+    {
+      "slug": "south-east",
+      "name": "All-Party Parliamentary Group for the South East",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Sean McKee, South East Councils . Tel: 01732 227 048",
+          "new_value": "Sean McKee, South East Councils. Tel: 01732 227 048"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/south-east.htm"
+    },
+    {
+      "slug": "steel-and-metals-related-industries",
+      "name": "All-Party Parliamentary Group for Steel and Metals-Related Industries",
+      "differences": [
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 4316.",
+          "new_value": "House of Commons, London, SW1A 0AA."
+        },
+        {
+          "key": "officers__0__name",
+          "old_value": "Carolyn Harris",
+          "new_value": "Mr Jonathan Brash"
+        },
+        {
+          "key": "contact_details__registered_contact_name",
+          "old_value": "Carolyn Harris MP",
+          "new_value": "Mr Jonathan Brash MP"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/steel-and-metals-related-industries.htm"
+    },
+    {
+      "slug": "brain-tumours",
+      "name": "All-Party Parliamentary Group on Brain Tumours",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Brain Tumour Research acts as the group's secretariat.https://www.braintumourresearch.org/",
+          "new_value": "Brain Tumour Research acts as the group's secretariat. https://www.braintumourresearch.org/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "dan.knowles@braintumourresearch.org",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "mcdonaghs@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Dan Knowles, Brain Tumour Research . Tel: 01908 867200",
+          "new_value": "Dan Knowles, Brain Tumour Research. Tel: 01908 867200"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/brain-tumours.htm"
+    },
+    {
+      "slug": "antisemitism",
+      "name": "All-Party Parliamentary Group Against Antisemitism",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Antisemitism Policy Trust acts as the group's secretariat.http://www.antisemitism.org.uk/",
+          "new_value": "Antisemitism Policy Trust acts as the group's secretariat. http://www.antisemitism.org.uk/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "mail@antisemitism.org.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "joani.reid.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/antisemitism.htm"
+    },
+    {
+      "slug": "cycling-and-walking",
+      "name": "All-Party Parliamentary Group for Cycling and Walking",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "coffmana@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "fabian.hamilton.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/cycling-and-walking.htm"
+    },
+    {
+      "slug": "music",
+      "name": "All-Party Parliamentary Group on Music",
+      "differences": [
+        {
+          "key": "contact_details__website__url",
+          "old_value": "http://allpartymusicgroup.org.uk/",
+          "new_value": "https://appgonmusic.wordpress.com/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Hannah McLennan, UK Music . Tel: 07763 603 709",
+          "new_value": "Hannah McLennan, UK Music. Tel: 07763 603 709"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/music.htm"
+    },
+    {
+      "slug": "football",
+      "name": "Football All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Lexington Communications  acts as the group's secretariat.https://www.lexcomm.co.uk/",
+          "new_value": "Lexington Communications  acts as the group's secretariat. https://www.lexcomm.co.uk/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "fa@lexcomm.co.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "officeofclivebettsmp@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Lexington Communications . Tel: 020 7025 2300",
+          "new_value": "Lexington Communications. Tel: 020 7025 2300"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/football.htm"
+    },
+    {
+      "slug": "london",
+      "name": "All-Party Parliamentary Group for London",
+      "differences": [
+        {
+          "key": "officers__3__name",
+          "old_value": "Liam Conlon",
+          "new_value": "Dan Tomlinson"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Amy Leppänen, London Councils. Tel: 020 7934 9759",
+          "new_value": "Daniel Kosky, London Councils"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/london.htm"
+    },
+    {
+      "slug": "access-to-justice",
+      "name": "All-Party Parliamentary Group on Access to Justice",
+      "differences": [
+        {
+          "key": "officers__3__name",
           "old_value": "",
-          "new_value": "22/10/2024"
+          "new_value": "Mr Paul Kohler"
+        },
+        {
+          "key": "officers__2__party",
+          "old_value": "Liberal Democrat",
+          "new_value": "Conservative"
+        },
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Legal Aid Practitioners Group acts as the group's secretariat.https://lapg.co.uk/",
+          "new_value": "Legal Aid Practitioners Group acts as the group's secretariat. https://lapg.co.uk/"
+        },
+        {
+          "key": "officers__3__party",
+          "old_value": "",
+          "new_value": "Liberal Democrat"
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Mr Paul Kohler",
+          "new_value": "Dr Neil Shastri-Hurst"
+        },
+        {
+          "key": "officers__1__name",
+          "old_value": "Dr Neil Shastri-Hurst",
+          "new_value": "Lord Bach"
+        },
+        {
+          "key": "officers__3__twfy_id",
+          "old_value": "",
+          "new_value": "None"
+        },
+        {
+          "key": "officers__1__party",
+          "old_value": "Conservative",
+          "new_value": "Labour"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "rohini.jana@lapg.co.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "officers__0__role",
+          "old_value": "Vice Chair",
+          "new_value": "Chair & Registered Contact"
+        },
+        {
+          "key": "officers__3__mnis_id",
+          "old_value": "",
+          "new_value": "None"
+        },
+        {
+          "key": "officers__1__role",
+          "old_value": "Vice Chair",
+          "new_value": "Co-Chair"
+        },
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "None",
+          "new_value": "House of Commons, London, SW1A 0AA."
+        },
+        {
+          "key": "officers__3__role",
+          "old_value": "",
+          "new_value": "Vice Chair"
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "",
+          "new_value": "False"
+        },
+        {
+          "key": "officers__0__name",
+          "old_value": "Lord Bach",
+          "new_value": "Catherine Atkinson"
+        },
+        {
+          "key": "contact_details__registered_contact_name",
+          "old_value": "None",
+          "new_value": "Catherine Atkinson MP"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/access-to-justice.htm"
+    },
+    {
+      "slug": "poland",
+      "name": "All-Party Parliamentary Group on Poland",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "George Byczynski",
+          "new_value": "Ryan Soraghan, Officer of Dr Rosena Allin-Khan MP"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/poland.htm"
+    },
+    {
+      "slug": "fair-elections",
+      "name": "All-Party Parliamentary Group for Fair Elections",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Fair Vote acts as the group's secretariat.https://www.fairvote.uk/",
+          "new_value": "Fair Vote acts as the group's secretariat. https://www.fairvote.uk/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "mark@fairvote.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "alex.sobel.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/fair-elections.htm"
+    },
+    {
+      "slug": "freight-and-logistics",
+      "name": "All-Party Parliamentary Group on Freight and Logistics",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Pagefield Communications acts as the group's secretariat.https://www.pagefield.co.uk/",
+          "new_value": "Pagefield Communications acts as the group's secretariat. https://www.pagefield.co.uk/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "rha@pagefield.co.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "rachel.taylor.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/freight-and-logistics.htm"
+    },
+    {
+      "slug": "gibraltar",
+      "name": "All-Party Parliamentary Group on Gibraltar",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "flora.cirell@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "amanda.martin.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/gibraltar.htm"
+    },
+    {
+      "slug": "uk-food-security",
+      "name": "All-Party Parliamentary Group on UK Food Security",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Janette Aquilina, British Poultry Council. Tel: 07469 155654",
+          "new_value": "Richard Griffiths, British Poultry Council"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/uk-food-security.htm"
+    },
+    {
+      "slug": "crown-dependencies-and-british-overseas-territories",
+      "name": "All-Party Parliamentary Group on the Crown Dependencies and British Overseas Territories",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "starbuck.coleman@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "andrew.rosindell.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/crown-dependencies-and-british-overseas-territories.htm"
+    },
+    {
+      "slug": "water",
+      "name": "All-Party Parliamentary Water Group",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "None",
+          "new_value": "Joseph Eaton , Office of Lee Pitcher MP. Tel: 020 7219 3622"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/water.htm"
+    },
+    {
+      "slug": "engineering",
+      "name": "All-Party Parliamentary Engineering Group",
+      "differences": [
+        {
+          "key": "detailed_benefits__3__Source",
+          "old_value": "Sizewell C Limited",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "22/01/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__Received",
+          "old_value": "31/01/2024",
+          "new_value": ""
+        },
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "JBP Associates acts as the group's secretariat.https://jbp.co.uk/",
+          "new_value": "JBP Associates acts as the group's secretariat. https://jbp.co.uk/"
+        },
+        {
+          "key": "detailed_benefits__1__Value £s",
+          "old_value": "5,000",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Value £s",
+          "old_value": "5,000",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__2__Value £s",
+          "old_value": "5,000",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__Registered",
+          "old_value": "25/03/2024",
+          "new_value": ""
+        },
+        {
+          "key": "registrable_benefits",
+          "old_value": "Financial Benefits",
+          "new_value": "None"
+        },
+        {
+          "key": "detailed_benefits__0__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__Received",
+          "old_value": "18/03/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__2__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "appeg@jbp.co.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "detailed_benefits__1__Registered",
+          "old_value": "26/02/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__Source",
+          "old_value": "Laing O’Rourke",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__Value £s",
+          "old_value": "5,000",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__1__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "dave.doogan.mp@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "detailed_benefits__2__Received",
+          "old_value": "22/02/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__3__benefit_type",
+          "old_value": "Financial Benefits",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__2__Source",
+          "old_value": "Institute of Civil Engineers (ICE)",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Source",
+          "old_value": "Safran Landing Systems",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__0__Registered",
+          "old_value": "23/01/2024",
+          "new_value": ""
+        },
+        {
+          "key": "detailed_benefits__2__Registered",
+          "old_value": "26/02/2024",
+          "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/engineering.htm"
+    },
+    {
+      "slug": "gypsies-travellers-and-roma",
+      "name": "All-Party Parliamentary Group for Gypsies, Travellers and Roma",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "None",
+          "new_value": "Friends, Families and Travellers. Tel: 01273 234777"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/gypsies-travellers-and-roma.htm"
+    },
+    {
+      "slug": "digital-regulation-and-responsibility",
+      "name": "All-Party Parliamentary Group on Digital Regulation and Responsibility",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Reset acts as the group's secretariat.https://www.reset.tech/",
+          "new_value": "Reset acts as the group's secretariat. https://www.reset.tech/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "hello@appg.tech",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "josh.simons.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/digital-regulation-and-responsibility.htm"
+    },
+    {
+      "slug": "commonwealth",
+      "name": "All-Party Parliamentary Group for the Commonwealth",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "pierre.wilby@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "andrew.rosindell.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/commonwealth.htm"
+    },
+    {
+      "slug": "british-muslims",
+      "name": "All-Party Parliamentary Group on British Muslims",
+      "differences": [
+        {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "",
+          "new_value": "05/11/2024"
+        },
+        {
+          "key": "detailed_benefits__0__Value £s",
+          "old_value": "",
+          "new_value": "25,000"
         },
         {
           "key": "registrable_benefits",
@@ -2790,169 +2759,200 @@
           "new_value": "Financial Benefits"
         },
         {
-          "key": "detailed_benefits__5__Source",
-          "old_value": "",
-          "new_value": "Heineken"
-        },
-        {
-          "key": "detailed_benefits__1__Registered",
-          "old_value": "",
-          "new_value": "10/10/2024"
-        },
-        {
-          "key": "detailed_benefits__4__Received",
-          "old_value": "",
-          "new_value": "14/10/2024"
-        },
-        {
-          "key": "detailed_benefits__0__Registered",
-          "old_value": "",
-          "new_value": "10/10/2024"
-        },
-        {
-          "key": "detailed_benefits__5__benefit_type",
+          "key": "detailed_benefits__0__benefit_type",
           "old_value": "",
           "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__3__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__2__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__3__Received",
-          "old_value": "",
-          "new_value": "14/10/2024"
-        },
-        {
-          "key": "detailed_benefits__1__Received",
-          "old_value": "",
-          "new_value": "02/10/2024"
-        },
-        {
-          "key": "detailed_benefits__5__Received",
-          "old_value": "",
-          "new_value": "14/10/2024"
         },
         {
           "key": "contact_details__registered_contact_email",
-          "old_value": "tonia.antoniazzi.mp@parliament.uk",
+          "old_value": "sarah.owen.mp@parliament.uk",
           "new_value": "None"
-        },
-        {
-          "key": "detailed_benefits__3__Value £s",
-          "old_value": "",
-          "new_value": "4,294"
-        },
-        {
-          "key": "detailed_benefits__1__Source",
-          "old_value": "",
-          "new_value": "Carlsberg"
-        },
-        {
-          "key": "detailed_benefits__6__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__4__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__1__Value £s",
-          "old_value": "",
-          "new_value": "4,294"
-        },
-        {
-          "key": "detailed_benefits__0__Received",
-          "old_value": "",
-          "new_value": "30/09/2024"
-        },
-        {
-          "key": "detailed_benefits__5__Value £s",
-          "old_value": "",
-          "new_value": "4,294"
-        },
-        {
-          "key": "detailed_benefits__4__Value £s",
-          "old_value": "",
-          "new_value": "4,294"
-        },
-        {
-          "key": "detailed_benefits__6__Source",
-          "old_value": "",
-          "new_value": "Greene King"
-        },
-        {
-          "key": "detailed_benefits__2__Source",
-          "old_value": "",
-          "new_value": "Diageo"
         },
         {
           "key": "detailed_benefits__0__Source",
           "old_value": "",
-          "new_value": "ABInBev"
+          "new_value": "The Lady Fatemah (A.S.) Charitable Trust"
         },
         {
-          "key": "detailed_benefits__6__Received",
+          "key": "detailed_benefits__0__Registered",
           "old_value": "",
-          "new_value": "14/10/2024"
-        },
-        {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "",
-          "new_value": "4,294"
-        },
-        {
-          "key": "detailed_benefits__4__Source",
-          "old_value": "",
-          "new_value": "Stonegate"
-        },
-        {
-          "key": "detailed_benefits__3__Source",
-          "old_value": "",
-          "new_value": "Molson Coors"
-        },
+          "new_value": "18/11/2024"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-muslims.htm"
+    },
+    {
+      "slug": "art-craft-and-design-in-education",
+      "name": "All-Party Parliamentary Group for Art, Craft and Design in Education",
+      "differences": [
         {
           "key": "contact_details__public_enquiry_point_email",
-          "old_value": "rita@beergroup.org",
+          "old_value": "susanmcoles@gmail.com",
           "new_value": "None"
         },
         {
-          "key": "detailed_benefits__0__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
+          "key": "contact_details__registered_contact_email",
+          "old_value": "polly.billington.mp@parliament.uk",
+          "new_value": "None"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/beer.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/art-craft-and-design-in-education.htm"
     },
     {
-      "slug": "football-supporters",
-      "name": "All-Party Parliamentary Group for Football Supporters",
+      "slug": "pharmacy",
+      "name": "All-Party Parliamentary Group on Pharmacy",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Greg Sutherland, M+F Health Communications  . Tel: 07845641251",
+          "new_value": "Greg Sutherland, M+F Health Communications. Tel: 07845641251"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/pharmacy.htm"
+    },
+    {
+      "slug": "arts-and-heritage",
+      "name": "All-Party Parliamentary Arts and Heritage Group",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "james.crathorne@btconnect.com",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "dan.carden.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/arts-and-heritage.htm"
+    },
+    {
+      "slug": "channel-islands",
+      "name": "Channel Islands All-Party Parliamentary Group",
       "differences": [
         {
           "key": "contact_details__registered_contact_email",
-          "old_value": "ian.lavery.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "The Football Supporters' Association acts as the group's secretariat.https://thefsa.org.uk",
-          "new_value": "The Football Supporters' Association acts as the group's secretariat. https://thefsa.org.uk"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "appg@thefsa.org.uk",
+          "old_value": "sarah.champion.mp@parliament.uk",
           "new_value": "None"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/football-supporters.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/channel-islands.htm"
+    },
+    {
+      "slug": "british-jews",
+      "name": "All-Party Parliamentary Group on British Jews",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Board of Deputies of British Jews acts as the group's secretariat.https://www.bod.org.uk/",
+          "new_value": "Board of Deputies of British Jews acts as the group's secretariat. https://www.bod.org.uk/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "david.robinson@bod.org.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__website__url",
+          "old_value": "None",
+          "new_value": "https://bod.org.uk/appg-british-jews/"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "david.simmonds.mp@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__website__status",
+          "old_value": "no_register",
+          "new_value": "register"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/british-jews.htm"
+    },
+    {
+      "slug": "carbon-capture-utilisation-and-storage",
+      "name": "All-Party Parliamentary Group on Carbon Capture, Utilisation and Storage",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Carbon Capture and Storage Association acts as the group's secretariat.https://www.ccsassociation.org/",
+          "new_value": "Carbon Capture and Storage Association acts as the group's secretariat. https://www.ccsassociation.org/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "Olivia.trimborn@ccsassociation.org",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "luke.myer.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/carbon-capture-utilisation-and-storage.htm"
+    },
+    {
+      "slug": "child-of-the-north",
+      "name": "Child of the North All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Health Equity North acts as the group's secretariat.https://www.healthequitynorth.co.uk/",
+          "new_value": "Health Equity North acts as the group's secretariat. https://www.healthequitynorth.co.uk/"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "alexis.darby@thenhsa.co.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "emma.lewell-buck.mp@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Alexis Darby, Health Equity North . Tel: 07568 920 556",
+          "new_value": "Alexis Darby, Health Equity North"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/child-of-the-north.htm"
+    },
+    {
+      "slug": "australia-and-new-zealand-anzac-and-the-pacific-islands",
+      "name": "All-Party Parliamentary Group for Australia and New Zealand (ANZAC) and the Pacific Islands",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "pierre.wilby@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "andrew.rosindell.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/australia-and-new-zealand-anzac-and-the-pacific-islands.htm"
+    },
+    {
+      "slug": "christians-in-parliament",
+      "name": "Christians in Parliament All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "claire.newman@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "farront@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241120/christians-in-parliament.htm"
     }
   ]
 }
