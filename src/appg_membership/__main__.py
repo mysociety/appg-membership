@@ -41,13 +41,21 @@ def review_websites():
 
 
 @app.command()
-def scrape_memberships():
+def scrape_memberships(
+    refresh_not_found: bool = False,
+    refresh_previous_ai: bool = False,
+    slug: str | None = None,
+):
     """
     Update the membership of APPGs via scraper.
     """
     from .membership_agent import update_appgs_membership
 
-    update_appgs_membership()
+    update_appgs_membership(
+        refresh_not_found=refresh_not_found,
+        refresh_previous_ai=refresh_previous_ai,
+        slug=slug,
+    )
 
 
 @app.command()

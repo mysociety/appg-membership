@@ -1,4 +1,4 @@
-from datetime import date
+from datetime import date, timedelta
 from typing import Literal
 
 from pydantic import BaseModel, Field
@@ -19,7 +19,34 @@ def remove_all_whitespace(text: str) -> str:
     """
     Remove all whitespace inc newlines and tabs from the text.
     """
-    return "".join(text.split())
+    txt = "".join(text.split())
+    characters_to_remove = [
+        "*",
+        "_",
+        "`",
+        "~",
+        "-",
+        ".",
+        ",",
+        ";",
+        ":",
+        "(",
+        ")",
+        "[",
+        "]",
+        "{",
+        "}",
+        "<",
+        ">",
+        "!",
+        "?",
+        "'",
+        '"',
+        "/",
+    ]
+    for char in characters_to_remove:
+        txt = txt.replace(char, "")
+    return txt
 
 
 class APPGMember(BaseModel):
@@ -54,7 +81,9 @@ class APPGSourcePage(BaseModel):
         # Check if all member names are present in the content
         for member in self.members:
             if remove_all_whitespace(member.name.lower()) not in md_content:
-                print(f"Member {member.name} not found in {self.source_url}.")
+                print(
+                    f"Person: {member.name} not found in {self.source_url}. Reduced to {remove_all_whitespace(member.name.lower())}"
+                )
                 return False
         return True
 
@@ -119,7 +148,9 @@ Associate members are likely to be organisations rather than people.
 
 If you are on a page that might contain the membership list, examine the page looking for a list of members that goes beyond the officers. 
 You need to determine if there is a list of members, and if so, return the list of members.
-Remove the honourific 'MP' but keep Lords titles.
+Remove honourifics like 'mp', 'cbe' etc but keep Lords style titles (when it's Baroness X of Y etc).
+If the full normal name of the Lord is listed - just use that (don't need to prefix Lord). 
+Stuff like rt hon etc, should also come out. 
 If there is no list of members, return an empty list.
 """
 
@@ -153,7 +184,7 @@ def search_for_appg_members(appg: APPG, recursion: int = 0) -> APPGMemberList:
             return results
         else:
             # If not found, try to search again with a different URL
-            if recursion < 3:
+            if recursion < 5:
                 recursion += 1
                 return search_for_appg_members(appg, recursion=recursion)
             else:
@@ -162,24 +193,45 @@ def search_for_appg_members(appg: APPG, recursion: int = 0) -> APPGMemberList:
         return results
 
 
-def update_appgs_membership(override: bool = False, slug: str = ""):
+def update_appgs_membership(
+    slug: str = "", refresh_not_found: bool = False, refresh_previous_ai: bool = False
+):
+    """
+    The default behaviour here is to check for new memberships for
+    items with a website.
+    that have not been updated recently.
+    that have not been checked before - source_method is 'empty'.
+
+    Once checked, if nothing is found, source_method will be 'not found'.
+    refresh_not_found - will additionally check those previously flagged as not found.
+    refresh_previous_ai - will additionally check those that returned results before.
+
+    """
+
+    # epoch date is current date minus a week
+    # mostly so if you rerun you're not re-doing
+    # today's work while updating old items
+    epoch_date = date.today() - timedelta(days=5)
+
+    valid_flags = ["empty"]
+    if refresh_not_found:
+        valid_flags.append("not_found")
+    if refresh_previous_ai:
+        valid_flags.append("ai_search")
+
     appgs = APPGList.load()
     appgs = [x for x in appgs if x.has_website()]
-
-    # appgs = [x for x in appgs if x.slug=="cycling-and-walking"]
-
-    epoch_date = date(2025, 4, 28)
 
     if slug:
         appgs = [x for x in appgs if x.slug == slug]
     else:
-        if not override:
-            appgs = [
-                x
-                for x in appgs
-                if not x.members_list.last_updated
-                or (x.members_list.last_updated < epoch_date)
-            ]
+        appgs = [
+            x
+            for x in appgs
+            if not x.members_list.last_updated
+            or (x.members_list.last_updated < epoch_date)
+        ]
+        appgs = [x for x in appgs if x.members_list.source_method in valid_flags]
 
     for appg in tqdm(appgs):
         tqdm.write(f"Searching for {appg.title}...")
@@ -187,7 +239,7 @@ def update_appgs_membership(override: bool = False, slug: str = ""):
 
         if not search.members_list_found:
             if appg.members_list.source_method in ["empty", "ai_search"]:
-                appg.members_list.source_method = "empty"
+                appg.members_list.source_method = "not_found"
                 appg.members_list.last_updated = date.today()
                 appg.members_list.source_url = []
                 appg.members_list.members = []
