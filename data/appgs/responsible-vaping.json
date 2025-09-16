@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Mary Glindon",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24927",
-      "mnis_id": "4126",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Euan Stainbank",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26407",
-      "mnis_id": "5110",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Naseby",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13704",
-      "mnis_id": "1251",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -90,7 +90,12 @@
       "url": "https://responsiblevapingappg.org/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-02",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "02 Sep to 01 Sep",
+    "next_reporting_deadline": "2026-01-02"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

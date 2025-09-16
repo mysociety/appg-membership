@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Sojan Joseph",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26578",
-      "mnis_id": "5247",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Tom Gordon",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26312",
-      "mnis_id": "5032",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Mohammad Yasin",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25649",
-      "mnis_id": "4598",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Gregory Stafford",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26626",
-      "mnis_id": "5351",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -218,7 +218,12 @@
       "url": "https://adultsocialcareappg.com/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-16",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "16 Oct to 15 Oct",
+    "next_reporting_deadline": "2026-02-16"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

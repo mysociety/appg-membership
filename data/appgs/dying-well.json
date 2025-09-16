@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Rachael Maskell",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/25433",
-      "mnis_id": "4471",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Antonia Bance",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26342",
-      "mnis_id": "5048",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-07",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "07 Oct to 06 Oct",
+    "next_reporting_deadline": "2026-02-07"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

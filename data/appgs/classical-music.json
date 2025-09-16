@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Valerie Vaz",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24852",
-      "mnis_id": "4076",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Keeley",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11943",
-      "mnis_id": "1588",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Sir Alec Shelbrooke",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24893",
-      "mnis_id": "3997",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-27",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "27 Nov to 26 Nov",
+    "next_reporting_deadline": "2026-03-27"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

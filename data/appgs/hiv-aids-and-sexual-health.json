@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "David Mundell",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/11970",
-      "mnis_id": "1512",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Florence Eshalomi",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25759",
-      "mnis_id": "4870",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Barker",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/13524",
-      "mnis_id": "2501",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Michael Payne",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26408",
-      "mnis_id": "5146",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -1258,7 +1258,12 @@
       "url": "https://www.appghivaids.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-09",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "09 Oct to 08 Oct",
+    "next_reporting_deadline": "2026-02-09"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

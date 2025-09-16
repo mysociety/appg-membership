@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "David Baines",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26565",
-      "mnis_id": "5092",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lauren Edwards",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26597",
-      "mnis_id": "5298",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Martin Wrigley",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26484",
-      "mnis_id": "5111",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-17",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "17 Dec to 16 Dec",
+    "next_reporting_deadline": "2026-04-17"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

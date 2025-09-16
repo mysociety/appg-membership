@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Daniel Francis",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26493",
-      "mnis_id": "5184",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Grey-Thompson",
       "party": "Crossbench",
-      "twfy_id": "uk.org.publicwhip/person/24707",
-      "mnis_id": "3862",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Shinkwin",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25470",
-      "mnis_id": "4557",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dr Allison Gardner",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26621",
-      "mnis_id": "5334",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-05-20",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "20 May to 19 May",
+    "next_reporting_deadline": "2026-09-20"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

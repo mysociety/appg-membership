@@ -8,24 +8,24 @@
       "role": "Vice Chair",
       "name": "Jim Shannon",
       "party": "Democratic Unionist Party",
-      "twfy_id": "uk.org.publicwhip/person/13864",
-      "mnis_id": "4131",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Helen Morgan",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26056",
-      "mnis_id": "4934",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Charlie Dewhirst",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26461",
-      "mnis_id": "5169",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -304,7 +304,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Sep to 10 Sep",
+    "next_reporting_deadline": "2026-01-11"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

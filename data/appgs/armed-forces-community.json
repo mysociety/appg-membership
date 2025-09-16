@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Calvin Bailey",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26340",
-      "mnis_id": "5054",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Ben Obese-Jecty",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26354",
-      "mnis_id": "5089",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Alex Baker",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26444",
-      "mnis_id": "5173",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Mike Martin",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26398",
-      "mnis_id": "5219",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -354,7 +354,12 @@
       "url": "https://www.calvinbailey.co.uk/armedforcesappg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-19",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "19 Nov to 18 Nov",
+    "next_reporting_deadline": "2026-03-19"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

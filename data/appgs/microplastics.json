@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Alberto Costa",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25413",
-      "mnis_id": "4439",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Deirdre Costigan",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26384",
-      "mnis_id": "5075",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "John McDonnell",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/10383",
-      "mnis_id": "178",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Brennan",
       "party": "Non-affiliated",
-      "twfy_id": "uk.org.publicwhip/person/10753",
-      "mnis_id": "1400",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -57,7 +57,12 @@
       "url": "https://www.thewi.org.uk/campaigns/key-and-current-campaigns/end-plastic-soup/all-party-parliamentary-group-on-microplastics"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-19",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "19 Nov to 18 Nov",
+    "next_reporting_deadline": "2026-03-19"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Ruth Jones",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25746",
-      "mnis_id": "4716",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,8 +24,8 @@
       "role": "Officer",
       "name": "Sam Carling",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26558",
-      "mnis_id": "5308",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -306,7 +306,12 @@
       "url": "https://thirtyoneeight.org/about-us/appg/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-01-27",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "27 Jan to 26 Jan",
+    "next_reporting_deadline": "2026-05-27"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

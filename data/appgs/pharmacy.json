@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Steve Race",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26345",
-      "mnis_id": "5064",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sadik Al-Hassan",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26527",
-      "mnis_id": "5312",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Scriven",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25242",
-      "mnis_id": "4333",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Joe Robertson",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26504",
-      "mnis_id": "5255",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -306,7 +306,12 @@
       "url": "https://www.pharmacyappg.co.uk/about-the-appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Sep to 09 Sep",
+    "next_reporting_deadline": "2026-01-10"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

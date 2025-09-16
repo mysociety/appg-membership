@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Juliet Campbell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26337",
-      "mnis_id": "5058",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dame Caroline Dinenage",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24873",
-      "mnis_id": "4008",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Paulette Hamilton",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26061",
-      "mnis_id": "4938",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Benjamin",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/24987",
-      "mnis_id": "4167",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -192,7 +192,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-23",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "23 Oct to 22 Oct",
+    "next_reporting_deadline": "2026-02-23"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

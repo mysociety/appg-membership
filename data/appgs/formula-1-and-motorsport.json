@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Greg Smith",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25925",
-      "mnis_id": "4778",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Hain",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10252",
-      "mnis_id": "567",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Sarah Bool",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26635",
-      "mnis_id": "5355",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Jess Brown-Fuller",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26372",
-      "mnis_id": "5335",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -304,7 +304,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-07-29",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "29 Jul to 28 Jul",
+    "next_reporting_deadline": "2025-11-29"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Josh Fenton-Glynn",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26545",
-      "mnis_id": "5295",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Sadik Al-Hassan",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26527",
-      "mnis_id": "5312",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Shinkwin",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25470",
-      "mnis_id": "4557",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -330,7 +330,12 @@
       "url": "https://www.policyconnect.org.uk/appgat"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-31",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "31 Oct to 30 Oct",
+    "next_reporting_deadline": "2026-02-28"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

@@ -55,7 +55,12 @@
       "url": "https://www.appgpovertyinequality.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-27",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "27 Nov to 26 Nov",
+    "next_reporting_deadline": "2026-03-27"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

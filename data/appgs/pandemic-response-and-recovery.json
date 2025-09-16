@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Esther McVey",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24882",
-      "mnis_id": "4084",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Graham Stringer",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10576",
-      "mnis_id": "449",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sammy Wilson",
       "party": "Democratic Unionist Party",
-      "twfy_id": "uk.org.publicwhip/person/11374",
-      "mnis_id": "1593",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sir Christopher Chope",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10103",
-      "mnis_id": "242",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -218,7 +218,12 @@
       "url": "https://appgpandemic.org/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-14",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "14 Oct to 13 Oct",
+    "next_reporting_deadline": "2026-02-14"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

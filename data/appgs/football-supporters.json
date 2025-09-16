@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Ian Lavery",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24963",
-      "mnis_id": "4139",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Rachel Hopkins",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25809",
-      "mnis_id": "4873",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Stuart Andrew",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24864",
-      "mnis_id": "4032",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Clive Efford",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10185",
-      "mnis_id": "165",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -626,7 +626,12 @@
       "url": "https://thefsa.org.uk/our-work/appg-for-football-supporters/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-03",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "03 Sep to 02 Sep",
+    "next_reporting_deadline": "2026-01-03"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

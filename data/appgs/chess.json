@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Neil Duncan-Jordan",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/26633",
-      "mnis_id": "5359",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Peter Fortune",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26027",
-      "mnis_id": "5209",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Wigley",
       "party": "Plaid Cymru",
-      "twfy_id": "uk.org.publicwhip/person/10635",
-      "mnis_id": "547",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Bach",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/13526",
-      "mnis_id": "3451",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -296,7 +296,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-04-30",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "30 Apr to 29 Apr",
+    "next_reporting_deadline": "2026-08-30"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

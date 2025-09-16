@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Ed Davey",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/10155",
-      "mnis_id": "188",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mr Paul Kohler",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26570",
-      "mnis_id": "5321",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jonathan Davies",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26557",
-      "mnis_id": "5256",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dr Ben Spencer",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25889",
-      "mnis_id": "4785",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -296,7 +296,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-03-18",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "18 Mar to 17 Mar",
+    "next_reporting_deadline": "2026-07-18"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

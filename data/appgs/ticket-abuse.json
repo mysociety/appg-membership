@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mrs Sharon Hodgson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11592",
-      "mnis_id": "1521",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Moynihan",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13042",
-      "mnis_id": "924",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Keeley",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11943",
-      "mnis_id": "1588",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Anneliese Midgley",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26318",
-      "mnis_id": "5038",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -210,7 +210,12 @@
       "url": "https://appgticketabuse.wordpress.com/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-23",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "23 Oct to 22 Oct",
+    "next_reporting_deadline": "2026-02-23"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

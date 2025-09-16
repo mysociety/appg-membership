@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Sir John Whittingdale",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10632",
-      "mnis_id": "39",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Joe Powell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26477",
-      "mnis_id": "5229",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -352,7 +352,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-29",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "29 Oct to 28 Oct",
+    "next_reporting_deadline": "2026-02-28"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

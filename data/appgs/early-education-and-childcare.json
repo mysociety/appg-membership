@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "James MacCleary",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26581",
-      "mnis_id": "5265",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Jodie Gosling",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26314",
-      "mnis_id": "5036",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dame Caroline Dinenage",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24873",
-      "mnis_id": "4008",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Alex Brewer",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26366",
-      "mnis_id": "5263",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -242,7 +242,12 @@
       "url": "https://campaign-for-learning.org.uk/CFL/APPG-for-Early-Education-and-Childcare/APPG_Early_Education_and_Childcare.aspx"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-17",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "17 Dec to 16 Dec",
+    "next_reporting_deadline": "2026-04-17"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

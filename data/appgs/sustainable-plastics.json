@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Laurence Turner",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26517",
-      "mnis_id": "5234",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Earl Russell",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26260",
-      "mnis_id": "4983",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Andrew Cooper",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26447",
-      "mnis_id": "5195",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-06-17",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "17 Jun to 16 Jun",
+    "next_reporting_deadline": "2026-10-17"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

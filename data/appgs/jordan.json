@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Alistair Carmichael",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/10785",
-      "mnis_id": "1442",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Mobarik",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25235",
-      "mnis_id": "4335",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Jordan",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/12990",
-      "mnis_id": "2552",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Tahir Ali",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25888",
-      "mnis_id": "4747",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -680,7 +680,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Dec to 10 Dec",
+    "next_reporting_deadline": "2026-04-11"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

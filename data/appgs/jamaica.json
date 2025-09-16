@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Dawn Butler",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11447",
-      "mnis_id": "1489",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Marsha De Cordova",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25620",
-      "mnis_id": "4676",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Helen Grant",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24796",
-      "mnis_id": "4018",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-17",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "17 Oct to 16 Oct",
+    "next_reporting_deadline": "2026-02-17"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

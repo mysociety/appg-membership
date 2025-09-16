@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Steve Witherden",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26583",
-      "mnis_id": "5221",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Storey",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25060",
-      "mnis_id": "4238",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Hooper",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13081",
-      "mnis_id": "2005",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Matt Bishop",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26574",
-      "mnis_id": "5323",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "http://www.educationappg.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-05",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "05 Nov to 04 Nov",
+    "next_reporting_deadline": "2026-03-05"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

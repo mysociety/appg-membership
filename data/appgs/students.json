@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Alex Sobel",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25680",
-      "mnis_id": "4658",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Willetts",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10637",
-      "mnis_id": "53",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Abtisam Mohamed",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26413",
-      "mnis_id": "5142",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Gideon Amos",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26531",
-      "mnis_id": "5250",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-03",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "03 Dec to 02 Dec",
+    "next_reporting_deadline": "2026-04-03"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

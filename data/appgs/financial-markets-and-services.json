@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "David Pinto-Duschinsky",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26632",
-      "mnis_id": "5360",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lauren Edwards",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26597",
-      "mnis_id": "5298",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Viscount Trenchard",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13177",
-      "mnis_id": "1829",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-21",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "21 Oct to 20 Oct",
+    "next_reporting_deadline": "2026-02-21"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

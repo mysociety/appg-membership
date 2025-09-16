@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Dr Rosena Allin-Khan",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25579",
-      "mnis_id": "4573",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sir Jeremy Hunt",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/11859",
-      "mnis_id": "1572",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Wera Hobhouse",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25648",
-      "mnis_id": "4602",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Peter Prinsley",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26383",
-      "mnis_id": "5163",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-02-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 Feb to 11 Feb",
+    "next_reporting_deadline": "2026-06-12"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Oliver Ryan",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26381",
-      "mnis_id": "5135",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Uddin",
       "party": "Non-affiliated",
-      "twfy_id": "uk.org.publicwhip/person/13274",
-      "mnis_id": "1827",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "John Slinger",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26564",
-      "mnis_id": "5127",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Paul Holmes",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25808",
-      "mnis_id": "4803",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-01-21",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "21 Jan to 20 Jan",
+    "next_reporting_deadline": "2026-05-21"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

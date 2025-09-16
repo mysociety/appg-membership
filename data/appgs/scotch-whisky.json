@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Wendy Chamberlain",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25872",
-      "mnis_id": "4765",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Graham Leadbitter",
       "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/26499",
-      "mnis_id": "5277",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Douglas McAllister",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26334",
-      "mnis_id": "5057",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Andrew Bowie",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25703",
-      "mnis_id": "4601",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-02",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "02 Sep to 01 Sep",
+    "next_reporting_deadline": "2026-01-02"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Bob Blackman",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24945",
-      "mnis_id": "4005",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Navendu Mishra",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25836",
-      "mnis_id": "4811",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Shivani Raja",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26363",
-      "mnis_id": "5068",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Luke Taylor",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26443",
-      "mnis_id": "5103",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -314,7 +314,12 @@
       "url": "https://appgbritishhindus.com/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Sep to 10 Sep",
+    "next_reporting_deadline": "2026-01-11"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Gill German",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26394",
-      "mnis_id": "5104",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Secretary",
       "name": "Andrew Ranger",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26336",
-      "mnis_id": "5046",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Secretary",
       "name": "Ann Davies",
       "party": "Plaid Cymru",
-      "twfy_id": "uk.org.publicwhip/person/26359",
-      "mnis_id": "5177",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -66,7 +66,12 @@
       "url": "https://www.childreninwales.org.uk/professionals/our-work/all-party-parliamentary-group-children-wales/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-02-05",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "05 Feb to 04 Feb",
+    "next_reporting_deadline": "2026-06-05"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

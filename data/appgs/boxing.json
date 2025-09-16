@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Imran Hussain",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25375",
-      "mnis_id": "4394",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Mobarik",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25235",
-      "mnis_id": "4335",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Chris Webb",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26305",
-      "mnis_id": "5025",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -440,7 +440,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-22",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "22 Oct to 21 Oct",
+    "next_reporting_deadline": "2026-02-22"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

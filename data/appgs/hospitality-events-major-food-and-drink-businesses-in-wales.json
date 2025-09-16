@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Llinos Medi",
       "party": "Plaid Cymru",
-      "twfy_id": "uk.org.publicwhip/person/26454",
-      "mnis_id": "5085",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jessica Morden",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11732",
-      "mnis_id": "1548",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Vice Chair",
       "name": "Ann Davies",
       "party": "Plaid Cymru",
-      "twfy_id": "uk.org.publicwhip/person/26359",
-      "mnis_id": "5177",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -216,7 +216,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-01-21",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "21 Jan to 20 Jan",
+    "next_reporting_deadline": "2026-05-21"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

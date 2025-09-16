@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Imran Hussain",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25375",
-      "mnis_id": "4394",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Northbrook",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13435",
-      "mnis_id": "3191",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Hussein-Ece",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/24983",
-      "mnis_id": "4164",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mohammad Yasin",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25649",
-      "mnis_id": "4598",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-22",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "22 Oct to 21 Oct",
+    "next_reporting_deadline": "2026-02-22"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

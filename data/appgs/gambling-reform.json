@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Sir Iain Duncan Smith",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10180",
-      "mnis_id": "152",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Carolyn Harris",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25308",
-      "mnis_id": "4480",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Dr Beccy Cooper",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26515",
-      "mnis_id": "5307",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "http://grh-appg.com/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-29",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "29 Oct to 28 Oct",
+    "next_reporting_deadline": "2026-02-28"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

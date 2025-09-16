@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Margaret Mullane",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26495",
-      "mnis_id": "5272",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Rosie Duffield",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/25656",
-      "mnis_id": "4616",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-05-13",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "13 May to 12 May",
+    "next_reporting_deadline": "2026-09-13"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

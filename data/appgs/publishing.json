@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Valerie Vaz",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24852",
-      "mnis_id": "4076",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Rebuck",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25234",
-      "mnis_id": "4332",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Sir Julian Lewis",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10358",
-      "mnis_id": "54",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -170,7 +170,12 @@
       "url": "https://www.publishers.org.uk/all-party-parliamentary-group-on-publishing/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Sep to 09 Sep",
+    "next_reporting_deadline": "2026-01-10"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

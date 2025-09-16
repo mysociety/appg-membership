@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Anneliese Dodds",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25618",
-      "mnis_id": "4657",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Stephen Gethins",
       "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/25324",
-      "mnis_id": "4434",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Monica Harding",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26516",
-      "mnis_id": "5299",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": "https://appgsudan.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-23",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "23 Oct to 22 Oct",
+    "next_reporting_deadline": "2026-02-23"
+  },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {

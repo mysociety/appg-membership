@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Marsha De Cordova",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25620",
-      "mnis_id": "4676",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Mims Davies",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25330",
-      "mnis_id": "4513",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Shockat Adam",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/26364",
-      "mnis_id": "5120",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Blunkett",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10050",
-      "mnis_id": "395",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -234,7 +234,12 @@
       "url": "https://eyehealthviappg.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Sep to 10 Sep",
+    "next_reporting_deadline": "2026-01-11"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

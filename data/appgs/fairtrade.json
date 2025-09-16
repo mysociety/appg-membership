@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Martin Rhodes",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26575",
-      "mnis_id": "5251",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "John Lamont",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/14026",
-      "mnis_id": "4608",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Ann Davies",
       "party": "Plaid Cymru",
-      "twfy_id": "uk.org.publicwhip/person/26359",
-      "mnis_id": "5177",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Rupa Huq",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25284",
-      "mnis_id": "4511",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -114,7 +114,12 @@
       "url": "https://www.fairtrade.org.uk/what-is-fairtrade/policy-briefings-and-reports/fairtrade-all-party-parliamentary-group/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-02-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 Feb to 11 Feb",
+    "next_reporting_deadline": "2026-06-12"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

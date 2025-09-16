@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Cat Eccles",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26587",
-      "mnis_id": "5293",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Officer",
       "name": "Peter Prinsley",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26383",
-      "mnis_id": "5163",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Robin Swann",
       "party": "Ulster Unionist Party",
-      "twfy_id": "uk.org.publicwhip/person/25141",
-      "mnis_id": "5319",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-03-18",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "18 Mar to 17 Mar",
+    "next_reporting_deadline": "2026-07-18"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

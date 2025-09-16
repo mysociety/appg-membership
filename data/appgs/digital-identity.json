@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Dr Allison Gardner",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26621",
-      "mnis_id": "5334",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Uddin",
       "party": "Non-affiliated",
-      "twfy_id": "uk.org.publicwhip/person/13274",
-      "mnis_id": "1827",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "David Williams",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26397",
-      "mnis_id": "5151",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -218,7 +218,12 @@
       "url": "https://digitalidentitiesappg.wordpress.com/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Sep to 10 Sep",
+    "next_reporting_deadline": "2026-01-11"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

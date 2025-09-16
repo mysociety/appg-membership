@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Luke Myer",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26411",
-      "mnis_id": "5147",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Henry Tufnell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26387",
-      "mnis_id": "5121",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Josh Newbury",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26317",
-      "mnis_id": "5034",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Charlie Dewhirst",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26461",
-      "mnis_id": "5169",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -392,7 +392,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-09",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "09 Sep to 08 Sep",
+    "next_reporting_deadline": "2026-01-09"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

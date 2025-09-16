@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Debbie Abrahams",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25034",
-      "mnis_id": "4212",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Browning",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10072",
-      "mnis_id": "236",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Joe Robertson",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26504",
-      "mnis_id": "5255",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -306,7 +306,12 @@
       "url": "https://www.alzheimers.org.uk/about-us/policy-and-influencing/all-party-parliamentary-group-dementia"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-26",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "26 Nov to 25 Nov",
+    "next_reporting_deadline": "2026-03-26"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

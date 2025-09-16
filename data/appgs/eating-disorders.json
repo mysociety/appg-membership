@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Wera Hobhouse",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25648",
-      "mnis_id": "4602",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Olivia Blake",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25908",
-      "mnis_id": "4864",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Siân Berry",
       "party": "Green Party",
-      "twfy_id": "uk.org.publicwhip/person/25752",
-      "mnis_id": "5314",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Danny Kruger",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25913",
-      "mnis_id": "4858",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -258,7 +258,12 @@
       "url": "https://www.endeatingdisorders.org/copy-of-our-campaigns"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-04",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "04 Sep to 03 Sep",
+    "next_reporting_deadline": "2026-01-04"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

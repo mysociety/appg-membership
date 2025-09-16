@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Bell Ribeiro-Addy",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25856",
-      "mnis_id": "4764",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Verma",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13730",
-      "mnis_id": "3790",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ms Diane Abbott",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/10001",
-      "mnis_id": "172",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Apsana Begum",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/25914",
-      "mnis_id": "4790",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://linktr.ee/bmh_appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-07-21",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "21 Jul to 20 Jul",
+    "next_reporting_deadline": "2026-11-21"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

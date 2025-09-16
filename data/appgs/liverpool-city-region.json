@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Peter Dowd",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25309",
-      "mnis_id": "4397",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "David Baines",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26565",
-      "mnis_id": "5092",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Anneliese Midgley",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26318",
-      "mnis_id": "5038",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -234,7 +234,12 @@
       "url": "https://appglcr.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-09",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "09 Oct to 08 Oct",
+    "next_reporting_deadline": "2026-02-09"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mrs Sharon Hodgson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11592",
-      "mnis_id": "1521",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord McLoughlin",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10397",
-      "mnis_id": "333",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Emma Lewell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25181",
-      "mnis_id": "4277",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Luke Akehurst",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26420",
-      "mnis_id": "5112",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-02-04",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "04 Feb to 03 Feb",
+    "next_reporting_deadline": "2026-06-04"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

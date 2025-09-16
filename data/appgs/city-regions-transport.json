@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Clive Betts",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10045",
-      "mnis_id": "394",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Laurence Turner",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26517",
-      "mnis_id": "5234",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Siân Berry",
       "party": "Green Party",
-      "twfy_id": "uk.org.publicwhip/person/25752",
-      "mnis_id": "5314",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord McLoughlin",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10397",
-      "mnis_id": "333",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -226,7 +226,12 @@
       "url": "https://www.urbantransportgroup.org/city-regions-transport-appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Dec to 10 Dec",
+    "next_reporting_deadline": "2026-04-11"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

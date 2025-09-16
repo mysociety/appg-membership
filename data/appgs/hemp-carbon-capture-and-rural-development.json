@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Bayo Alaba",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26422",
-      "mnis_id": "5097",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Mancroft",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/12905",
-      "mnis_id": "1833",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Robathan",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10503",
-      "mnis_id": "334",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Mr Richard Quigley",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26373",
-      "mnis_id": "5144",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -90,7 +90,12 @@
       "url": "https://www.tenaciouscarbon.com/appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-04-01",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "01 Apr to 31 Mar",
+    "next_reporting_deadline": "2026-08-01"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

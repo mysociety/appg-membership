@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "George Freeman",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24817",
-      "mnis_id": "4020",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Liam Byrne",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11360",
-      "mnis_id": "1171",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Baroness Brinton",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25066",
-      "mnis_id": "4241",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-02-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 Mar to 11 Mar",
+    "next_reporting_deadline": "2026-07-12"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

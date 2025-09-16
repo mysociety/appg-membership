@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Andrew Snowden",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26347",
-      "mnis_id": "5072",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Naseby",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13704",
-      "mnis_id": "1251",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Sir Gavin Williamson",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24729",
-      "mnis_id": "4108",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Mr Paul Foster",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26487",
-      "mnis_id": "5074",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-06-30",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "30 Jun to 29 Jun",
+    "next_reporting_deadline": "2026-10-30"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

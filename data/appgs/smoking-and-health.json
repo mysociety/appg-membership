@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Bob Blackman",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24945",
-      "mnis_id": "4005",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Mary Kelly Foy",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25833",
-      "mnis_id": "4753",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jim Dickson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26547",
-      "mnis_id": "5223",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Rennard",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/13277",
-      "mnis_id": "2484",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -234,7 +234,12 @@
       "url": "https://ash.org.uk/about/who-we-work-with/appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-14",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "14 Oct to 13 Oct",
+    "next_reporting_deadline": "2026-02-14"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

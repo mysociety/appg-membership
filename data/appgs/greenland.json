@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Brendan O'Hara",
       "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/25370",
-      "mnis_id": "4371",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Liz Saville Roberts",
       "party": "Plaid Cymru",
-      "twfy_id": "uk.org.publicwhip/person/25302",
-      "mnis_id": "4521",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dan Carden",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25642",
-      "mnis_id": "4651",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Balfe",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25209",
-      "mnis_id": "4302",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -122,7 +122,12 @@
       "url": "https://polarconnection.org/all-party-parliamentary-group-for-greenland-greenland-appg/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-06-09",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "09 Jun to 08 Jun",
+    "next_reporting_deadline": "2026-10-09"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

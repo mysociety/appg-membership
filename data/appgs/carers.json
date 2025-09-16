@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Anna Dixon",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26524",
-      "mnis_id": "5281",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Pitkeathley",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/13424",
-      "mnis_id": "3179",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Wendy Chamberlain",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25872",
-      "mnis_id": "4765",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dame Caroline Dinenage",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24873",
-      "mnis_id": "4008",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://www.carersuk.org/policy-and-research/what-we-do-in-parliament/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-04",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "04 Dec to 03 Dec",
+    "next_reporting_deadline": "2026-04-04"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

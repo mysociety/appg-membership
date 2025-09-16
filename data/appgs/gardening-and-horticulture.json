@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Valerie Vaz",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24852",
-      "mnis_id": "4076",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Fookes",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13474",
-      "mnis_id": "830",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sir Christopher Chope",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10103",
-      "mnis_id": "242",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Sep to 10 Sep",
+    "next_reporting_deadline": "2026-01-11"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

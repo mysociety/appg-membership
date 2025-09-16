@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Mike Reader",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26630",
-      "mnis_id": "5316",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Rebecca Paul",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26466",
-      "mnis_id": "5297",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Alex Baker",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26444",
-      "mnis_id": "5173",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": "https://www.cic.org.uk/policy-and-public-affairs/appg-for-excellence-in-the-built-environment"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-05-07",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "07 May to 06 May",
+    "next_reporting_deadline": "2026-09-07"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

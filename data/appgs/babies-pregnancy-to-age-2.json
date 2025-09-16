@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Maya Ellis",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26479",
-      "mnis_id": "5228",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mrs Elsie Blundell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26481",
-      "mnis_id": "5084",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Freddie van Mierlo",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26540",
-      "mnis_id": "5296",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dr Kieran Mullan",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25883",
-      "mnis_id": "4860",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -290,7 +290,12 @@
       "url": "https://parentinfantfoundation.org.uk/1001-days/appg/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-29",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "29 Oct to 28 Oct",
+    "next_reporting_deadline": "2026-02-28"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

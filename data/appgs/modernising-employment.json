@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Lee Barron",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26554",
-      "mnis_id": "5315",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Lucas",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13301",
-      "mnis_id": "1879",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Joe Robertson",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26504",
-      "mnis_id": "5255",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Amanda Hack",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26449",
-      "mnis_id": "5149",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -226,7 +226,12 @@
       "url": "https://www.modeappg.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Sep to 10 Sep",
+    "next_reporting_deadline": "2026-01-11"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

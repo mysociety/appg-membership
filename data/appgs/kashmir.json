@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Imran Hussain",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25375",
-      "mnis_id": "4394",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Senior Vice Chair",
       "name": "Tahir Ali",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25888",
-      "mnis_id": "4747",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Mobarik",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25235",
-      "mnis_id": "4335",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Debbie Abrahams",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25034",
-      "mnis_id": "4212",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 Sep to 11 Sep",
+    "next_reporting_deadline": "2026-01-12"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

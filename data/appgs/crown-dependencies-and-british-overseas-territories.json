@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Andrew Rosindell",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/11199",
-      "mnis_id": "1447",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Dan Carden",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25642",
-      "mnis_id": "4651",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Gavin Robinson",
       "party": "Democratic Unionist Party",
-      "twfy_id": "uk.org.publicwhip/person/25280",
-      "mnis_id": "4360",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Damien Egan",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26287",
-      "mnis_id": "5010",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-07-25",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "25 Jul to 24 Jul",
+    "next_reporting_deadline": "2025-11-25"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

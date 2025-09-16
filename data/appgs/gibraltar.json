@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Amanda Martin",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26430",
-      "mnis_id": "5294",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Martin Vickers",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24814",
-      "mnis_id": "3957",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Wendy Morton",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25342",
-      "mnis_id": "4358",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Al Pinkerton",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26593",
-      "mnis_id": "5288",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-04",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "04 Sep to 03 Sep",
+    "next_reporting_deadline": "2026-01-04"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

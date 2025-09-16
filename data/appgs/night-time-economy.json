@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Paul Kohler",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26570",
-      "mnis_id": "5321",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Katrina Murray",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26494",
-      "mnis_id": "5309",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Will Stone",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26320",
-      "mnis_id": "5035",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mr Andrew Snowden",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26347",
-      "mnis_id": "5072",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://ntia.co.uk/night-time-economy-appg-members/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-01-21",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "21 Jan to 20 Jan",
+    "next_reporting_deadline": "2026-05-21"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

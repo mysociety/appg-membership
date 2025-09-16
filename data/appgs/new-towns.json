@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Andrew Lewin",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26376",
-      "mnis_id": "5061",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Best",
       "party": "Crossbench",
-      "twfy_id": "uk.org.publicwhip/person/13507",
-      "mnis_id": "3605",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Naseby",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13704",
-      "mnis_id": "1251",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Katrina Murray",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26494",
-      "mnis_id": "5309",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -90,7 +90,12 @@
       "url": "https://www.tcpa.org.uk/resources/all-party-parliamentary-group-on-new-towns/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 Nov to 11 Nov",
+    "next_reporting_deadline": "2026-03-12"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

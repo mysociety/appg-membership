@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Tim Roca",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26549",
-      "mnis_id": "5287",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Vice Chair",
       "name": "Mr Calvin Bailey",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26340",
-      "mnis_id": "5054",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -338,7 +338,12 @@
       "url": "https://aviationappg.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-23",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "23 Oct to 22 Oct",
+    "next_reporting_deadline": "2026-02-23"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

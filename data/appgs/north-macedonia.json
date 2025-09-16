@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Graeme Downie",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26503",
-      "mnis_id": "5275",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Dame Karen Bradley",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24725",
-      "mnis_id": "4110",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Vice Chair",
       "name": "Wendy Morton",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25342",
-      "mnis_id": "4358",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -218,7 +218,12 @@
       "url": "https://appgnorthmacedonia.com/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-04-30",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "30 Apr to 29 Apr",
+    "next_reporting_deadline": "2026-08-30"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

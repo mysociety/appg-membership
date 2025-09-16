@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Bambos Charalambous",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25676",
-      "mnis_id": "4610",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Keeley",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11943",
-      "mnis_id": "1588",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Vice Chair",
       "name": "Anna Sabine",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26497",
-      "mnis_id": "5286",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -130,7 +130,12 @@
       "url": "https://www.musiceducationappg.org/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-22",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "22 Oct to 21 Oct",
+    "next_reporting_deadline": "2026-02-22"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

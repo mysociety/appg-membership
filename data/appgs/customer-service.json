@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Connor Rand",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26473",
-      "mnis_id": "5159",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Vice Chair",
       "name": "Esther McVey",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24882",
-      "mnis_id": "4084",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Sahota",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26106",
-      "mnis_id": "4963",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://www.instituteofcustomerservice.com/media/all-party-parliamentary-group"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Dec to 09 Dec",
+    "next_reporting_deadline": "2026-04-10"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

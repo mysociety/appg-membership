@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Dr Ben Spencer",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25889",
-      "mnis_id": "4785",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Anna Gelderd",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26618",
-      "mnis_id": "5353",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Lord Beith",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/10034",
-      "mnis_id": "513",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-26",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "26 Nov to 25 Nov",
+    "next_reporting_deadline": "2026-03-26"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

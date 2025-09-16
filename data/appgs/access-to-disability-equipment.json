@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Daniel Francis",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26493",
-      "mnis_id": "5184",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Officer",
       "name": "Josh Newbury",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26317",
-      "mnis_id": "5034",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Tessa Munt",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/24942",
-      "mnis_id": "4089",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-05-14",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "14 May to 13 May",
+    "next_reporting_deadline": "2026-09-14"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

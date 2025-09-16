@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Jo Platt",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25611",
-      "mnis_id": "4673",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Tessa Munt",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/24942",
-      "mnis_id": "4089",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Debbie Abrahams",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25034",
-      "mnis_id": "4212",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -266,7 +266,12 @@
       "url": "https://appgme.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-17",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "17 Dec to 16 Dec",
+    "next_reporting_deadline": "2026-04-17"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

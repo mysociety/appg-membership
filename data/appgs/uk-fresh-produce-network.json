@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Sir John Hayes",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10265",
-      "mnis_id": "350",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "James Naish",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26329",
-      "mnis_id": "5047",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Richard Tice",
       "party": "Reform UK",
-      "twfy_id": "uk.org.publicwhip/person/26399",
-      "mnis_id": "5161",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -47,7 +47,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-13",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "13 Nov to 12 Nov",
+    "next_reporting_deadline": "2026-03-13"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

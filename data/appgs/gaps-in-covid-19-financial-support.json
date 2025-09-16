@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Steve Witherden",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26583",
-      "mnis_id": "5221",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Manuela Perteghella",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26569",
-      "mnis_id": "5122",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Al Pinkerton",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26593",
-      "mnis_id": "5288",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Greg Smith",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25925",
-      "mnis_id": "4778",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://excludeduk.org/appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-01-14",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "14 Jan to 13 Jan",
+    "next_reporting_deadline": "2026-05-14"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

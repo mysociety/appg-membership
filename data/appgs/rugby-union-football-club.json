@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Tonia Antoniazzi",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25634",
-      "mnis_id": "4623",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Michael Wheeler",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26551",
-      "mnis_id": "5242",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Secretary",
       "name": "Lord Addington",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/13368",
-      "mnis_id": "3453",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Assistant Chair",
       "name": "Lord Hayward",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/17722",
-      "mnis_id": "863",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-07-29",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "29 Jul to 28 Jul",
+    "next_reporting_deadline": "2025-11-29"
+  },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {

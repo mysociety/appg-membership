@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Ben Maguire",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26623",
-      "mnis_id": "5350",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Matt Bishop",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26574",
-      "mnis_id": "5323",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Simon Hoare",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25427",
-      "mnis_id": "4494",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-01-21",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "21 Jan to 20 Jan",
+    "next_reporting_deadline": "2026-05-21"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

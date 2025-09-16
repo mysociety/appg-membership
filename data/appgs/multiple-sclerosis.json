@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Oliver Ryan",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26381",
-      "mnis_id": "5135",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Simon Hoare",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25427",
-      "mnis_id": "4494",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Dubs",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/13000",
-      "mnis_id": "805",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sean Woodcock",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26552",
-      "mnis_id": "5328",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -280,7 +280,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-27",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "27 Nov to 26 Nov",
+    "next_reporting_deadline": "2026-03-27"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

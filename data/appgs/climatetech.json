@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Steve Race",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26345",
-      "mnis_id": "5064",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Officer",
       "name": "Edward Morello",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26604",
-      "mnis_id": "5326",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Brian Mathew",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26509",
-      "mnis_id": "5214",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://www.climatetechappg.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-16",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "16 Dec to 15 Dec",
+    "next_reporting_deadline": "2026-04-16"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

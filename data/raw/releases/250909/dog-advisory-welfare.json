@@ -55,7 +55,12 @@
       "url": "https://apdawg.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-15",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "15 Oct to 14 Oct",
+    "next_reporting_deadline": "2026-02-15"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

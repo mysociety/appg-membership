@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Alex Ballinger",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26580",
-      "mnis_id": "5238",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Mr Paul Foster",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26487",
-      "mnis_id": "5074",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Amanda Martin",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26430",
-      "mnis_id": "5294",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ben Obese-Jecty",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26354",
-      "mnis_id": "5089",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-21",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "21 Nov to 20 Nov",
+    "next_reporting_deadline": "2026-03-21"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

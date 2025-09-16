@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Pam Cox",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26324",
-      "mnis_id": "5042",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dame Harriett Baldwin",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24785",
-      "mnis_id": "4107",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Cromwell",
       "party": "Crossbench",
-      "twfy_id": "uk.org.publicwhip/person/25228",
-      "mnis_id": "2594",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Afzal Khan",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25662",
-      "mnis_id": "4671",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-07-14",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "14 Jul to 13 Jul",
+    "next_reporting_deadline": "2026-11-14"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

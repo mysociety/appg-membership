@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Kit Malthouse",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25346",
-      "mnis_id": "4495",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Sadik Al-Hassan",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26527",
-      "mnis_id": "5312",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Pippa Heylings",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26421",
-      "mnis_id": "5078",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -250,7 +250,12 @@
       "url": "https://www.bioindustry.org/policy/appg.html"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-15",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "15 Oct to 14 Oct",
+    "next_reporting_deadline": "2026-02-15"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Kirsteen Sullivan",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26501",
-      "mnis_id": "5179",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Deputy Chair",
       "name": "Sir Alec Shelbrooke",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24893",
-      "mnis_id": "3997",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Gill Furniss",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25489",
-      "mnis_id": "4571",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Rachel Taylor",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26478",
-      "mnis_id": "5065",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -90,7 +90,12 @@
       "url": "https://www.endometriosis-uk.org/all-party-parliamentary-group-endometriosis"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-15",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "15 Oct to 14 Oct",
+    "next_reporting_deadline": "2026-02-15"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

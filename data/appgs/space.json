@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mark Garnier",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24824",
-      "mnis_id": "4074",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dame Chi Onwurah",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24807",
-      "mnis_id": "4124",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Kevin Bonavia",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26330",
-      "mnis_id": "5051",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Gordon McKee",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26462",
-      "mnis_id": "5189",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -272,7 +272,12 @@
       "url": "https://www.ukspace.org/appg-for-space/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-09",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "09 Sep to 08 Sep",
+    "next_reporting_deadline": "2026-01-09"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Wendy Chamberlain",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25872",
-      "mnis_id": "4765",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Neil Coyle",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25326",
-      "mnis_id": "4368",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "John Glen",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24839",
-      "mnis_id": "4051",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-23",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "23 Oct to 22 Oct",
+    "next_reporting_deadline": "2026-02-23"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

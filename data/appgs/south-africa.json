@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Rachel Taylor",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26478",
-      "mnis_id": "5065",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Hain",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10252",
-      "mnis_id": "567",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dr Kieran Mullan",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25883",
-      "mnis_id": "4860",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -240,7 +240,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-29",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "29 Oct to 28 Oct",
+    "next_reporting_deadline": "2026-02-28"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

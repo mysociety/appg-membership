@@ -55,7 +55,12 @@
       "url": "https://appglcr.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-09",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "09 Oct to 08 Oct",
+    "next_reporting_deadline": "2026-02-09"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

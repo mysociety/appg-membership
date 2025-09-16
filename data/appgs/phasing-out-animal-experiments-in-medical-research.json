@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Irene Campbell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26419",
-      "mnis_id": "5145",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Officer",
       "name": "Neil Duncan-Jordan",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/26633",
-      "mnis_id": "5359",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Ben Obese-Jecty",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26354",
-      "mnis_id": "5089",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://www.animalfreeresearchuk.org/appg/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Dec to 10 Dec",
+    "next_reporting_deadline": "2026-04-11"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

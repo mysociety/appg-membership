@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Sammy Wilson",
       "party": "Democratic Unionist Party",
-      "twfy_id": "uk.org.publicwhip/person/11374",
-      "mnis_id": "1593",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Greg Smith",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25925",
-      "mnis_id": "4778",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Emily Darlington",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26412",
-      "mnis_id": "5139",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sarah Olney",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25596",
-      "mnis_id": "4591",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -1170,7 +1170,12 @@
       "url": "https://www.loanchargeappg.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Sep to 09 Sep",
+    "next_reporting_deadline": "2026-01-10"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

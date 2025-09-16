@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Debbie Abrahams",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25034",
-      "mnis_id": "4212",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Warsi",
       "party": "Non-affiliated",
-      "twfy_id": "uk.org.publicwhip/person/13937",
-      "mnis_id": "3839",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Andy McDonald",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25169",
-      "mnis_id": "4269",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Abtisam Mohamed",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26413",
-      "mnis_id": "5142",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -848,7 +848,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-05",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "05 Sep to 04 Sep",
+    "next_reporting_deadline": "2026-01-05"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

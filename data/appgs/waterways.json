@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Bill Esterson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24905",
-      "mnis_id": "4061",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord German",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/24984",
-      "mnis_id": "4163",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Uma Kumaran",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26542",
-      "mnis_id": "5278",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Wendy Morton",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25342",
-      "mnis_id": "4358",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -250,7 +250,12 @@
       "url": "https://waterways.org.uk/about-us/all-party-parliamentary-group-for-the-waterways"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 Nov to 11 Nov",
+    "next_reporting_deadline": "2026-03-12"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

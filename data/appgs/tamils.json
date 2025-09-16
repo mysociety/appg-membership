@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Dame Siobhain McDonagh",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10381",
-      "mnis_id": "193",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Uma Kumaran",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26542",
-      "mnis_id": "5278",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Bobby Dean",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26371",
-      "mnis_id": "5083",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Verma",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13730",
-      "mnis_id": "3790",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://www.britishtamilsforum.org/appg-for-tamils/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-15",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "15 Oct to 14 Oct",
+    "next_reporting_deadline": "2026-02-15"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

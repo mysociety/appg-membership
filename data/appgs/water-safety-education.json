@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Darren Paffey",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26431",
-      "mnis_id": "5270",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Storey",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25060",
-      "mnis_id": "4238",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Saqib Bhatti",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25847",
-      "mnis_id": "4818",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Rebecca Long Bailey",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25368",
-      "mnis_id": "4396",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-06-17",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "17 Jun to 16 Jun",
+    "next_reporting_deadline": "2026-10-17"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Bell Ribeiro-Addy",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25856",
-      "mnis_id": "4764",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Garnier",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10221",
-      "mnis_id": "337",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Hamwee",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/13422",
-      "mnis_id": "2652",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Mohammad Yasin",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25649",
-      "mnis_id": "4598",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -442,7 +442,12 @@
       "url": "https://appgdetention.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-02",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "02 Dec to 01 Dec",
+    "next_reporting_deadline": "2026-04-02"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

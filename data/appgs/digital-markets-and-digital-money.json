@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Lauren Edwards",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26597",
-      "mnis_id": "5298",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Officer",
       "name": "Baroness Verma",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13730",
-      "mnis_id": "3790",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Sarah Hall",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26416",
-      "mnis_id": "5154",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -178,7 +178,12 @@
       "url": "https://appgcbdc.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-21",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "21 Oct to 20 Oct",
+    "next_reporting_deadline": "2026-02-21"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

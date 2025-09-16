@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Carolyn Harris",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25308",
-      "mnis_id": "4480",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Simon Hoare",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25427",
-      "mnis_id": "4494",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Kirsteen Sullivan",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26501",
-      "mnis_id": "5179",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Susan Murray",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26429",
-      "mnis_id": "5157",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://menopause-appg.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-22",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "22 Oct to 21 Oct",
+    "next_reporting_deadline": "2026-02-22"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

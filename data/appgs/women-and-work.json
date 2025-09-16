@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Catherine Fookes",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26510",
-      "mnis_id": "5291",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Brady",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25249",
-      "mnis_id": "4339",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Kirith Entwistle",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26378",
-      "mnis_id": "5095",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Uddin",
       "party": "Non-affiliated",
-      "twfy_id": "uk.org.publicwhip/person/13274",
-      "mnis_id": "1827",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -258,7 +258,12 @@
       "url": "https://www.womenandworkappg.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-02-05",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "05 Feb to 04 Feb",
+    "next_reporting_deadline": "2026-06-05"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

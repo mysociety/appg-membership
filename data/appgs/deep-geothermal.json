@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Dr Kieran Mullan",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25883",
-      "mnis_id": "4860",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Tom Hayes",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26566",
-      "mnis_id": "5210",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Jayne Kirkham",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26525",
-      "mnis_id": "5279",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -90,7 +90,12 @@
       "url": "https://www.r-e-a.net/appgs/working-with-westminster-on-deep-geothermal/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-05",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "05 Sep to 04 Sep",
+    "next_reporting_deadline": "2026-01-05"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

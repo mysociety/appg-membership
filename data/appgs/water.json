@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Lee Pitcher",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26464",
-      "mnis_id": "5233",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Officer",
       "name": "Alex Brewer",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26366",
-      "mnis_id": "5263",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Julia Buckley",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26436",
-      "mnis_id": "5171",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -480,7 +480,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-09-03",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "03 Sep to 02 Sep",
+    "next_reporting_deadline": "2027-01-03"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

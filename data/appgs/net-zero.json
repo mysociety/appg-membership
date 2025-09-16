@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Alex Sobel",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25680",
-      "mnis_id": "4658",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Callanan",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25250",
-      "mnis_id": "4336",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Wera Hobhouse",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25648",
-      "mnis_id": "4602",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dr Simon Opher",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26313",
-      "mnis_id": "5030",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -394,7 +394,12 @@
       "url": "https://netzeroappg.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-07-29",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "29 Jul to 28 Jul",
+    "next_reporting_deadline": "2025-11-29"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

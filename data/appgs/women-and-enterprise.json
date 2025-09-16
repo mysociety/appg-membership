@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Leigh Ingham",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26392",
-      "mnis_id": "5290",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Catherine Fookes",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26510",
-      "mnis_id": "5291",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Aphra Brandreth",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26553",
-      "mnis_id": "5241",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Victoria Collins",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26539",
-      "mnis_id": "5201",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://womenandenterpriseappg.wordpress.com/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-31",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "31 Oct to 30 Oct",
+    "next_reporting_deadline": "2026-02-28"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

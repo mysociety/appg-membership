@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Mark Pritchard",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/11946",
-      "mnis_id": "1576",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Kate Osamor",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25365",
-      "mnis_id": "4515",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Vice Chair",
       "name": "Baroness Uddin",
       "party": "Non-affiliated",
-      "twfy_id": "uk.org.publicwhip/person/13274",
-      "mnis_id": "1827",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -240,7 +240,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-03",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "03 Sep to 02 Sep",
+    "next_reporting_deadline": "2026-01-03"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

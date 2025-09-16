@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Richard Holden",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25893",
-      "mnis_id": "4813",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Deputy Chair",
       "name": "Graham Stringer",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10576",
-      "mnis_id": "449",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -336,7 +336,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-01-29",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "29 Jan to 28 Jan",
+    "next_reporting_deadline": "2026-05-29"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

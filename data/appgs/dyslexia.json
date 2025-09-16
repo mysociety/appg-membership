@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Juliet Campbell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26337",
-      "mnis_id": "5058",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Addington",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/13368",
-      "mnis_id": "3453",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Lucas",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13301",
-      "mnis_id": "1879",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "David Baines",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26565",
-      "mnis_id": "5092",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -192,7 +192,12 @@
       "url": "https://www.bdadyslexia.org.uk/support-us/campaigns/all-party-parliamentary-group-for-dyslexia"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-13",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "13 Nov to 12 Nov",
+    "next_reporting_deadline": "2026-03-13"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

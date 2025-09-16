@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Jim Shannon",
       "party": "Democratic Unionist Party",
-      "twfy_id": "uk.org.publicwhip/person/13864",
-      "mnis_id": "4131",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Gideon Amos",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26531",
-      "mnis_id": "5250",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jenny Riddell-Carpenter",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26472",
-      "mnis_id": "5160",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -242,7 +242,12 @@
       "url": "https://healthyhomesbuildings.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-14",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "14 Oct to 13 Oct",
+    "next_reporting_deadline": "2026-02-14"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

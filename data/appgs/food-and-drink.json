@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Mike Reader",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26630",
-      "mnis_id": "5316",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Amanda Hack",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26449",
-      "mnis_id": "5149",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Blower",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25777",
-      "mnis_id": "4724",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -304,7 +304,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-19",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "19 Nov to 18 Nov",
+    "next_reporting_deadline": "2026-03-19"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

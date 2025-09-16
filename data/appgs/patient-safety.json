@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Sir Jeremy Hunt",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/11859",
-      "mnis_id": "1572",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Anna Dixon",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26524",
-      "mnis_id": "5281",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dr Rosena Allin-Khan",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25579",
-      "mnis_id": "4573",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Sir Bernard Jenkin",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10312",
-      "mnis_id": "40",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -90,7 +90,12 @@
       "url": "https://www.patient-safety-watch.com/patient-safety-appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-19",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "19 Nov to 18 Nov",
+    "next_reporting_deadline": "2026-03-19"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

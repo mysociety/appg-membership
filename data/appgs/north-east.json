@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Kate Osborne",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25794",
-      "mnis_id": "4783",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Beith",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/10034",
-      "mnis_id": "513",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Emma Lewell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25181",
-      "mnis_id": "4277",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -210,7 +210,12 @@
       "url": "https://northeastappg.org/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-04",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "04 Sep to 03 Sep",
+    "next_reporting_deadline": "2026-01-04"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

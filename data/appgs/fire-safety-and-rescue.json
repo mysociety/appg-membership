@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Bob Blackman",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24945",
-      "mnis_id": "4005",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Brinton",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25066",
-      "mnis_id": "4241",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Vice Chair",
       "name": "Mary Glindon",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24927",
-      "mnis_id": "4126",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -376,7 +376,12 @@
       "url": "https://firesafetyrescueappg.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-07-29",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "29 Jul to 28 Jul",
+    "next_reporting_deadline": "2025-11-29"
+  },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {

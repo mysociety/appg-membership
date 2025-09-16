@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Dr Rupa Huq",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25284",
-      "mnis_id": "4511",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Barker",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/13524",
-      "mnis_id": "2501",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Maya Ellis",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26479",
-      "mnis_id": "5228",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Sugg",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25586",
-      "mnis_id": "4584",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://www.cosrh.org/APPG-on-SRH"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-29",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "29 Oct to 28 Oct",
+    "next_reporting_deadline": "2026-02-28"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

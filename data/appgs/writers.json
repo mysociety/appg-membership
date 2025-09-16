@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Chris Evans",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/24721",
-      "mnis_id": "4040",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sir John Whittingdale",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10632",
-      "mnis_id": "39",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Alison Hume",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26523",
-      "mnis_id": "5254",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Pete Wishart",
       "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/11333",
-      "mnis_id": "1440",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -418,7 +418,12 @@
       "url": "https://allpartywritersgroup.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-15",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "15 Oct to 14 Oct",
+    "next_reporting_deadline": "2026-02-15"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

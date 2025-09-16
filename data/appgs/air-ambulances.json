@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Pete Wishart",
       "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/11333",
-      "mnis_id": "1440",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Steve Witherden",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26583",
-      "mnis_id": "5221",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Neil Shastri-Hurst",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26437",
-      "mnis_id": "5197",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": "https://www.airambulancesuk.org/appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-03-04",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "04 Mar to 03 Mar",
+    "next_reporting_deadline": "2026-07-04"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

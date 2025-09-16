@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Alex Baker",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26444",
-      "mnis_id": "5173",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Vice Chair",
       "name": "Andy MacNae",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26391",
-      "mnis_id": "5134",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Secretary",
       "name": "Gill German",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26394",
-      "mnis_id": "5104",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-06",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "06 Nov to 05 Nov",
+    "next_reporting_deadline": "2026-03-06"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

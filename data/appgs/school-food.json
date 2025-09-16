@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mrs Sharon Hodgson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11592",
-      "mnis_id": "1521",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Munira Wilson",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25820",
-      "mnis_id": "4776",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Blower",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25777",
-      "mnis_id": "4724",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Wasserman",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25037",
-      "mnis_id": "4207",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "http://www.schoolfood.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-22",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "22 Oct to 21 Oct",
+    "next_reporting_deadline": "2026-02-22"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

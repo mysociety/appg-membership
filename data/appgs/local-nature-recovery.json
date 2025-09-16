@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Pippa Heylings",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26421",
-      "mnis_id": "5078",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Olivia Blake",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25908",
-      "mnis_id": "4864",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Roz Savage",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26603",
-      "mnis_id": "5352",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Coffey",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24771",
-      "mnis_id": "4098",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -272,7 +272,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-02-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 Feb to 11 Feb",
+    "next_reporting_deadline": "2026-06-12"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

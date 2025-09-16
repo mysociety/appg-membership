@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Dr Lauren Sullivan",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26435",
-      "mnis_id": "5269",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Trees",
       "party": "Crossbench",
-      "twfy_id": "uk.org.publicwhip/person/25162",
-      "mnis_id": "4260",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mr Tanmanjeet Singh Dhesi",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25695",
-      "mnis_id": "4638",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -242,7 +242,12 @@
       "url": "https://appgmalariantds.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-06",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "06 Nov to 05 Nov",
+    "next_reporting_deadline": "2026-03-06"
+  },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {

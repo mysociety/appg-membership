@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Jess Brown-Fuller",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26372",
-      "mnis_id": "5335",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Andrew Griffith",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25927",
-      "mnis_id": "4874",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Josh Fenton-Glynn",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26545",
-      "mnis_id": "5295",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Alison Bennett",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26498",
-      "mnis_id": "5283",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -848,7 +848,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-27",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "27 Nov to 26 Nov",
+    "next_reporting_deadline": "2026-03-27"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

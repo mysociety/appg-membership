@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mike Wood",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25362",
-      "mnis_id": "4384",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Snape",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10554",
-      "mnis_id": "319",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Secretary",
       "name": "Alex Mayer",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26395",
-      "mnis_id": "5141",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Sarah Edwards",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26277",
-      "mnis_id": "5001",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -448,7 +448,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-07-22",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "22 Jul to 21 Jul",
+    "next_reporting_deadline": "2025-11-22"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

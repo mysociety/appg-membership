@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Rebecca Paul",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26466",
-      "mnis_id": "5297",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Mike Reader",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26630",
-      "mnis_id": "5316",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lincoln Jopp",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26573",
-      "mnis_id": "5332",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lewis Cocking",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26316",
-      "mnis_id": "5050",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -242,7 +242,12 @@
       "url": "https://www.appg-betterroads.org/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-06-02",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "02 Jun to 01 Jun",
+    "next_reporting_deadline": "2026-10-02"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

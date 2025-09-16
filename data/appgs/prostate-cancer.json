@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Calvin Bailey",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26340",
-      "mnis_id": "5054",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Ben Obese-Jecty",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26354",
-      "mnis_id": "5089",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Josh Babarinde",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26353",
-      "mnis_id": "5086",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Peter Prinsley",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26383",
-      "mnis_id": "5163",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://appgprostatecancer.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-17",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "17 Dec to 16 Dec",
+    "next_reporting_deadline": "2026-04-17"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

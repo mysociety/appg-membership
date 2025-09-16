@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Clive Betts",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10045",
-      "mnis_id": "394",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Simon Hoare",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25427",
-      "mnis_id": "4494",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Paulette Hamilton",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26061",
-      "mnis_id": "4938",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Golding",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10233",
-      "mnis_id": "281",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://lgiu.org/news/all-party-parliamentary-group-on-local-government"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 Nov to 11 Nov",
+    "next_reporting_deadline": "2026-03-12"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

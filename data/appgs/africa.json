@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Dame Chi Onwurah",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24807",
-      "mnis_id": "4124",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Oates",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25464",
-      "mnis_id": "4549",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dame Harriett Baldwin",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24785",
-      "mnis_id": "4107",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Kate Osamor",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25365",
-      "mnis_id": "4515",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -258,7 +258,12 @@
       "url": "https://royalafricansociety.org/whatwedo/policy/appga"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 Sep to 11 Sep",
+    "next_reporting_deadline": "2026-01-12"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

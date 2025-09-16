@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Anna Gelderd",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26618",
-      "mnis_id": "5353",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Noah Law",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26513",
-      "mnis_id": "5302",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -51,11 +51,16 @@
     "public_enquiry_point_email": "heather.buchanan@parliament.uk",
     "secretariat": "Athena Foundation acts as the group's secretariat.https://www.theathenafoundation.org/",
     "website": {
-      "status": "manual",
-      "url": "https://www.appgonsustainablefinance.co.uk/"
+      "status": "register",
+      "url": "https://appgsusfin.org/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-25",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "25 Nov to 24 Nov",
+    "next_reporting_deadline": "2026-03-25"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

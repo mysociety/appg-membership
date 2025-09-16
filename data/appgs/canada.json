@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Matt Western",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25701",
-      "mnis_id": "4617",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Emily Darlington",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26412",
-      "mnis_id": "5139",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mr Peter Bedford",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26625",
-      "mnis_id": "5330",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Chris Kane",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26415",
-      "mnis_id": "5155",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-09",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "09 Sep to 08 Sep",
+    "next_reporting_deadline": "2026-01-09"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

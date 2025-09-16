@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Chris Law",
       "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/25270",
-      "mnis_id": "4403",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Dubs",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/13000",
-      "mnis_id": "805",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ben Coleman",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26602",
-      "mnis_id": "5344",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Neville-Jones",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13936",
-      "mnis_id": "3840",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-06-30",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "30 Jun to 29 Jun",
+    "next_reporting_deadline": "2026-10-30"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

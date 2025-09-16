@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Dr Ellie Chowns",
       "party": "Green Party",
-      "twfy_id": "uk.org.publicwhip/person/26577",
-      "mnis_id": "5249",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Helena Dollimore",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26507",
-      "mnis_id": "5192",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Edward Morello",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26604",
-      "mnis_id": "5326",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -570,7 +570,12 @@
       "url": "http://www.waterpollutionappg.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-24",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "24 Oct to 23 Oct",
+    "next_reporting_deadline": "2026-02-24"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

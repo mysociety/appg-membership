@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Connor Rand",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26473",
-      "mnis_id": "5159",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Stedman-Scott",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25001",
-      "mnis_id": "4174",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Mrs Sharon Hodgson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11592",
-      "mnis_id": "1521",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -362,7 +362,12 @@
       "url": "https://www.parentkind.org.uk/research-and-policy/education-policy/policy-in-england/all-party-parliamentary-group-for-england"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 Nov to 11 Nov",
+    "next_reporting_deadline": "2026-03-12"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

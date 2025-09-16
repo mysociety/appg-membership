@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Peter Swallow",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26369",
-      "mnis_id": "5165",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Katie Lam",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26588",
-      "mnis_id": "5285",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Charlotte Cane",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26425",
-      "mnis_id": "5182",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -266,7 +266,12 @@
       "url": "https://classicalassociation.org/all-party-parliamentary-group-for-classics/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-21",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "21 Oct to 20 Oct",
+    "next_reporting_deadline": "2026-02-21"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

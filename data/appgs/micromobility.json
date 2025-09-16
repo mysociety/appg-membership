@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Alex Mayer",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26395",
-      "mnis_id": "5141",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Shinkwin",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25470",
-      "mnis_id": "4557",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "David Burton-Sampson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26442",
-      "mnis_id": "5106",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Rachel Blake",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26546",
-      "mnis_id": "5257",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-01-28",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "28 Jan to 27 Jan",
+    "next_reporting_deadline": "2026-05-28"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

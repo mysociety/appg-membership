@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Natasha Irons",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26404",
-      "mnis_id": "5119",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Mims Davies",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25330",
-      "mnis_id": "4513",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "David Williams",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26397",
-      "mnis_id": "5151",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Lauren Sullivan",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26435",
-      "mnis_id": "5269",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -506,7 +506,12 @@
       "url": "https://youthappg.org.uk/about/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-04",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "04 Sep to 03 Sep",
+    "next_reporting_deadline": "2026-01-04"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

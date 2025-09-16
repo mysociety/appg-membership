@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Steve Race",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26345",
-      "mnis_id": "5064",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Verma",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13730",
-      "mnis_id": "3790",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Blower",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25777",
-      "mnis_id": "4724",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Peter Lamb",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26612",
-      "mnis_id": "5345",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -392,7 +392,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-03-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Mar to 09 Mar",
+    "next_reporting_deadline": "2026-07-10"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Tony Vaughan",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26346",
-      "mnis_id": "5067",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Dubs",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/13000",
-      "mnis_id": "805",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Zöe Franklin",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26555",
-      "mnis_id": "5313",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Stroud",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25459",
-      "mnis_id": "4546",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://www.refugeecouncil.org.uk/our-work/championing-the-rights-of-refugees/appg-on-refugees/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Sep to 09 Sep",
+    "next_reporting_deadline": "2026-01-10"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

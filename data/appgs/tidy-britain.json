@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "James Asser",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26594",
-      "mnis_id": "5211",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Claire Young",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26458",
-      "mnis_id": "5140",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Lucas",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13301",
-      "mnis_id": "1879",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lee Pitcher",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26464",
-      "mnis_id": "5233",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -602,7 +602,12 @@
       "url": "https://www.keepbritaintidy.org/tidy-britain-appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-20",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "20 Nov to 19 Nov",
+    "next_reporting_deadline": "2026-03-20"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

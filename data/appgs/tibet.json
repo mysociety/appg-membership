@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Chris Law",
       "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/25270",
-      "mnis_id": "4403",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,8 +24,8 @@
       "role": "Vice Chair",
       "name": "Luke Akehurst",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26420",
-      "mnis_id": "5112",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-06-23",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "23 Jun to 22 Jun",
+    "next_reporting_deadline": "2026-10-23"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

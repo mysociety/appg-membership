@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Jonathan Brash",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26339",
-      "mnis_id": "5045",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Martin Vickers",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24814",
-      "mnis_id": "3957",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Marie Tidball",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26390",
-      "mnis_id": "5098",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Mr Jonathan Brash",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26339",
-      "mnis_id": "5045",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Sep to 10 Sep",
+    "next_reporting_deadline": "2026-01-11"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Catherine Fookes",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26510",
-      "mnis_id": "5291",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,8 +24,8 @@
       "role": "Vice Chair",
       "name": "Claire Young",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26458",
-      "mnis_id": "5140",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": "https://western-gateway.co.uk/our-appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-01-07",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "07 Jan to 06 Jan",
+    "next_reporting_deadline": "2026-05-07"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

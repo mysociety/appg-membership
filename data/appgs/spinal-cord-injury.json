@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Andy McDonald",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25169",
-      "mnis_id": "4269",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Gill Furniss",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25489",
-      "mnis_id": "4571",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Helen Morgan",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26056",
-      "mnis_id": "4934",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "John Glen",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24839",
-      "mnis_id": "4051",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -218,7 +218,12 @@
       "url": "https://spinal.co.uk/campaigns/our-campaigns/all-party-parliamentary-group/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-07-30",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "30 Jul to 29 Jul",
+    "next_reporting_deadline": "2025-11-30"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

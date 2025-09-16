@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Florence Eshalomi",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25759",
-      "mnis_id": "4870",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Munira Wilson",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25820",
-      "mnis_id": "4776",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Peter Fortune",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26027",
-      "mnis_id": "5209",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dan Tomlinson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26502",
-      "mnis_id": "5282",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -282,7 +282,12 @@
       "url": "https://www.londoncouncils.gov.uk/all-party-parliamentary-group-appg-london"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-09",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "09 Sep to 08 Sep",
+    "next_reporting_deadline": "2026-01-09"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

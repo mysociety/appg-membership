@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Jo Platt",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25611",
-      "mnis_id": "4673",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Sarah Hall",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26416",
-      "mnis_id": "5154",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Adam Dance",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26459",
-      "mnis_id": "5191",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Mott",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26259",
-      "mnis_id": "4984",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-07-16",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "16 Jul to 15 Jul",
+    "next_reporting_deadline": "2026-11-16"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

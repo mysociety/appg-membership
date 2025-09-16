@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Jenny Riddell-Carpenter",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26472",
-      "mnis_id": "5160",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Officer",
       "name": "Lorraine Beavers",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26475",
-      "mnis_id": "5232",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Coffey",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24771",
-      "mnis_id": "4098",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-04-01",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "01 Apr to 31 Mar",
+    "next_reporting_deadline": "2026-08-01"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

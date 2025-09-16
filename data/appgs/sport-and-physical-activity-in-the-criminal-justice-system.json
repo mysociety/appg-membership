@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Clive Efford",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10185",
-      "mnis_id": "165",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Sater",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25734",
-      "mnis_id": "4700",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Wasserman",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25037",
-      "mnis_id": "4207",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Kieran Mullan",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25883",
-      "mnis_id": "4860",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -218,7 +218,12 @@
       "url": "https://allianceofsport.org/our-work-article/the-all-party-parliamentary-group-appg-on-sport-and-physical-activity-in-the-criminal-justice-system/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-03-17",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "17 Mar to 16 Mar",
+    "next_reporting_deadline": "2026-07-17"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

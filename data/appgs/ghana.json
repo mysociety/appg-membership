@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Bell Ribeiro-Addy",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25856",
-      "mnis_id": "4764",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Ben Obese-Jecty",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26354",
-      "mnis_id": "5089",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Coffey",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24771",
-      "mnis_id": "4098",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Boateng",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10052",
-      "mnis_id": "147",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-03-05",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "05 Mar to 04 Mar",
+    "next_reporting_deadline": "2026-07-05"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

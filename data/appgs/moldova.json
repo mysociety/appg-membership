@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Johanna Baxter",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26375",
-      "mnis_id": "5063",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lord Dubs",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/13000",
-      "mnis_id": "805",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Wasserman",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25037",
-      "mnis_id": "4207",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "James Naish",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26329",
-      "mnis_id": "5047",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-04-28",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "28 Apr to 27 Apr",
+    "next_reporting_deadline": "2026-08-28"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

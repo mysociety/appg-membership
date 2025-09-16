@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Dr Jeevun Sandher",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26521",
-      "mnis_id": "5259",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Kit Malthouse",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25346",
-      "mnis_id": "4495",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Jake Richards",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26486",
-      "mnis_id": "5082",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Christine Jardine",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25675",
-      "mnis_id": "4634",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -242,7 +242,12 @@
       "url": "http://www.appg-endoflifechoice.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Sep to 10 Sep",
+    "next_reporting_deadline": "2026-01-11"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Matt Vickers",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25853",
-      "mnis_id": "4844",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Vice Chair",
       "name": "John Lamont",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/14026",
-      "mnis_id": "4608",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -138,7 +138,12 @@
       "url": "https://britishblockchainassociation.org/appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-03-17",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "17 Mar to 16 Mar",
+    "next_reporting_deadline": "2026-07-17"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

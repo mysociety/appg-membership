@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Michelle Welsh",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26550",
-      "mnis_id": "5226",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Officer",
       "name": "Lord Finkelstein",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25201",
-      "mnis_id": "4283",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Juliet Campbell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26337",
-      "mnis_id": "5058",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://appgchildrenincustody.org/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-03",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "03 Dec to 02 Dec",
+    "next_reporting_deadline": "2026-04-03"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

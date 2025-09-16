@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Sarah Champion",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25168",
-      "mnis_id": "4267",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,8 +24,8 @@
       "role": "Officer",
       "name": "Edward Morello",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26604",
-      "mnis_id": "5326",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-05-07",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "07 May to 06 May",
+    "next_reporting_deadline": "2026-09-07"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

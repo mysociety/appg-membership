@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Clive Efford",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10185",
-      "mnis_id": "165",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Sir Julian Lewis",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10358",
-      "mnis_id": "54",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Pete Wishart",
       "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/11333",
-      "mnis_id": "1440",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Featherstone",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/11641",
-      "mnis_id": "1531",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://haemophilia.org.uk/public-inquiry/the-infected-blood-inquiry/the-all-party-parliamentary-group"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-17",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "17 Dec to 16 Dec",
+    "next_reporting_deadline": "2026-04-17"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

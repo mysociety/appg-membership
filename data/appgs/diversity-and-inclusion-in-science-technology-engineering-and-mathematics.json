@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Samantha Niblett",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26414",
-      "mnis_id": "5150",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Lauren Sullivan",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26435",
-      "mnis_id": "5269",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Lord Lucas",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13301",
-      "mnis_id": "1879",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -306,7 +306,12 @@
       "url": "https://www.britishscienceassociation.org/appg-diversity-inclusion-stem"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-22",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "22 Oct to 21 Oct",
+    "next_reporting_deadline": "2026-02-22"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

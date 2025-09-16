@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Mrs Sharon Hodgson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11592",
-      "mnis_id": "1521",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Sir Alec Shelbrooke",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24893",
-      "mnis_id": "3997",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Sarah Green",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26034",
-      "mnis_id": "4918",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-08",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "08 Oct to 07 Oct",
+    "next_reporting_deadline": "2026-02-08"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

@@ -55,7 +55,12 @@
       "url": "https://appg-tb.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-03-24",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "24 Mar to 23 Mar",
+    "next_reporting_deadline": "2026-07-24"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

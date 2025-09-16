@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mike Tapp",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26605",
-      "mnis_id": "5266",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Tom Tugendhat",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25374",
-      "mnis_id": "4462",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Richard Foord",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26086",
-      "mnis_id": "4942",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Graeme Downie",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26503",
-      "mnis_id": "5275",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-06",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "06 Nov to 05 Nov",
+    "next_reporting_deadline": "2026-03-06"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

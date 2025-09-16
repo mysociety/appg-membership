@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Perran Moon",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26482",
-      "mnis_id": "5208",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Treasurer",
       "name": "Baroness Hooper",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13081",
-      "mnis_id": "2005",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Secretary",
       "name": "Kate Osamor",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25365",
-      "mnis_id": "4515",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -224,7 +224,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-28",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "28 Oct to 27 Oct",
+    "next_reporting_deadline": "2026-02-28"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Clive Lewis",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25356",
-      "mnis_id": "4500",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Kim Johnson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25803",
-      "mnis_id": "4824",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Helen Grant",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24796",
-      "mnis_id": "4018",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Shockat Adam",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/26364",
-      "mnis_id": "5120",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -234,7 +234,12 @@
       "url": "https://www.appg-race.com/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-13",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "13 Nov to 12 Nov",
+    "next_reporting_deadline": "2026-03-13"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

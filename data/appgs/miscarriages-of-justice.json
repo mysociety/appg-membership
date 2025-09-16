@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Kim Johnson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25803",
-      "mnis_id": "4824",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Garnier",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10221",
-      "mnis_id": "337",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Liz Saville Roberts",
       "party": "Plaid Cymru",
-      "twfy_id": "uk.org.publicwhip/person/25302",
-      "mnis_id": "4521",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Woodley",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25966",
-      "mnis_id": "4897",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-15",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "15 Oct to 14 Oct",
+    "next_reporting_deadline": "2026-02-15"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

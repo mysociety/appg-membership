@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Chris Curtis",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26396",
-      "mnis_id": "5118",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Gordon McKee",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26462",
-      "mnis_id": "5189",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mr Richard Holden",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25893",
-      "mnis_id": "4813",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Emily Darlington",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26412",
-      "mnis_id": "5139",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://www.self-drivingappg.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-28",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "28 Oct to 27 Oct",
+    "next_reporting_deadline": "2026-02-28"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

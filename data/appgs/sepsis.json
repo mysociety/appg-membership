@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Mike Wood",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25362",
-      "mnis_id": "4384",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Officer",
       "name": "Andrew Pakes",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26601",
-      "mnis_id": "5243",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lee Anderson",
       "party": "Reform UK",
-      "twfy_id": "uk.org.publicwhip/person/25894",
-      "mnis_id": "4743",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-04-01",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "01 Apr to 31 Mar",
+    "next_reporting_deadline": "2026-08-01"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

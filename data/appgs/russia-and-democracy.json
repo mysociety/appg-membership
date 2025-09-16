@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Stephen Gethins",
       "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/25324",
-      "mnis_id": "4434",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Helen Maguire",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26627",
-      "mnis_id": "5336",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Phil Brickell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26368",
-      "mnis_id": "5128",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Sir Bernard Jenkin",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10312",
-      "mnis_id": "40",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-06-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Jun to 09 Jun",
+    "next_reporting_deadline": "2026-10-10"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

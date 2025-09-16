@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Jess Asato",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26386",
-      "mnis_id": "5156",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Pam Cox",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26324",
-      "mnis_id": "5042",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Blake Stephenson",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26355",
-      "mnis_id": "5100",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Marie Goldman",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26338",
-      "mnis_id": "5073",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -82,7 +82,12 @@
       "url": "https://eastofenglandappg.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-09",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "09 Sep to 08 Sep",
+    "next_reporting_deadline": "2026-01-09"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Alberto Costa",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25413",
-      "mnis_id": "4439",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Officer",
       "name": "Lord Gascoigne",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26263",
-      "mnis_id": "4986",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Steve Witherden",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26583",
-      "mnis_id": "5221",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -216,7 +216,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-07-30",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "30 Jul to 29 Jul",
+    "next_reporting_deadline": "2025-11-30"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

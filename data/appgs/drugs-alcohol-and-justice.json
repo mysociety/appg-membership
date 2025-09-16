@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Grahame Morris",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24715",
-      "mnis_id": "3973",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Earl Attlee",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/12875",
-      "mnis_id": "3425",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "John McDonnell",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/10383",
-      "mnis_id": "178",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Rachael Maskell",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/25433",
-      "mnis_id": "4471",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -680,7 +680,12 @@
       "url": "https://www.wearewithyou.org.uk/about-us/policy-and-research/drugs-alcohol-and-justice-all-party-parliamentary-group"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Sep to 10 Sep",
+    "next_reporting_deadline": "2026-01-11"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

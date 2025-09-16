@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Gareth Davies",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25858",
-      "mnis_id": "4850",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Noah Law",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26513",
-      "mnis_id": "5302",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Gareth Bacon",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25750",
-      "mnis_id": "4798",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-16",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "16 Dec to 15 Dec",
+    "next_reporting_deadline": "2026-04-16"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

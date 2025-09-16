@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Alistair Carmichael",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/10785",
-      "mnis_id": "1442",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Torcuil Crichton",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26500",
-      "mnis_id": "5246",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Harriet Cross",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26538",
-      "mnis_id": "5311",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Llinos Medi",
       "party": "Plaid Cymru",
-      "twfy_id": "uk.org.publicwhip/person/26454",
-      "mnis_id": "5085",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -290,7 +290,12 @@
       "url": "https://www.marineenergycouncil.co.uk/appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 Sep to 11 Sep",
+    "next_reporting_deadline": "2026-01-12"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

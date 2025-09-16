@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Pete Wishart",
       "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/11333",
-      "mnis_id": "1440",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Alex Sobel",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25680",
-      "mnis_id": "4658",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Zöe Franklin",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26555",
-      "mnis_id": "5313",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Kempsell",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26264",
-      "mnis_id": "4988",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -906,7 +906,12 @@
       "url": "https://appgonmusic.wordpress.com/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Sep to 09 Sep",
+    "next_reporting_deadline": "2026-01-10"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

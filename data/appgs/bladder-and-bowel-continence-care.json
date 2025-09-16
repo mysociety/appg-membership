@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Jodie Gosling",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26314",
-      "mnis_id": "5036",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Cat Eccles",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26587",
-      "mnis_id": "5293",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -90,7 +90,12 @@
       "url": "https://www.appgcontinence.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-06-03",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "03 Jun to 02 Jun",
+    "next_reporting_deadline": "2026-10-03"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Bell Ribeiro-Addy",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25856",
-      "mnis_id": "4764",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Sarah Olney",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25596",
-      "mnis_id": "4591",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Mike Wood",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25362",
-      "mnis_id": "4384",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-14",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "14 Oct to 13 Oct",
+    "next_reporting_deadline": "2026-02-14"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

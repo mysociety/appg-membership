@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Bob Blackman",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24945",
-      "mnis_id": "4005",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Sam Rushworth",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26323",
-      "mnis_id": "5108",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sarah Bool",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26635",
-      "mnis_id": "5355",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -442,7 +442,12 @@
       "url": "https://www.appgifffs.org/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Sep to 09 Sep",
+    "next_reporting_deadline": "2026-01-10"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

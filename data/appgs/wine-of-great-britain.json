@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Andrew Griffith",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25927",
-      "mnis_id": "4874",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Tristan Osborne",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26589",
-      "mnis_id": "5220",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Damian Hinds",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24782",
-      "mnis_id": "3969",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Katie Lam",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26588",
-      "mnis_id": "5285",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://winegb.co.uk/politics/appg-2/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-03-18",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "18 Mar to 17 Mar",
+    "next_reporting_deadline": "2026-07-18"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Dame Siobhain McDonagh",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10381",
-      "mnis_id": "193",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Josh Babarinde",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26353",
-      "mnis_id": "5086",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Lansley",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10349",
-      "mnis_id": "123",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Balfe",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25209",
-      "mnis_id": "4302",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -346,7 +346,12 @@
       "url": "https://householdsintemporaryaccommodation.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-07-29",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "29 Jul to 28 Jul",
+    "next_reporting_deadline": "2025-11-29"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

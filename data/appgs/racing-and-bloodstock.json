@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Dan Carden",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25642",
-      "mnis_id": "4651",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Nick Timothy",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26335",
-      "mnis_id": "5062",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Grahame Morris",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24715",
-      "mnis_id": "3973",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-04",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "04 Sep to 03 Sep",
+    "next_reporting_deadline": "2026-01-04"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

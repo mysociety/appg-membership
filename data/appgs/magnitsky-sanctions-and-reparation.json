@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Sir Iain Duncan Smith",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10180",
-      "mnis_id": "152",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Ms Marie Rimmer",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25321",
-      "mnis_id": "4457",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Phil Brickell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26368",
-      "mnis_id": "5128",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": "https://redress.org/magnitsky-sanctions/appg-on-magnitsky-sanctions-and-reparation/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-15",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "15 Oct to 14 Oct",
+    "next_reporting_deadline": "2026-02-15"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

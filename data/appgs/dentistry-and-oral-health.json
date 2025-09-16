@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Yasmin Qureshi",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24775",
-      "mnis_id": "3924",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lewis Atkinson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26309",
-      "mnis_id": "5028",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Vice Chair",
       "name": "Ian Roome",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26388",
-      "mnis_id": "5138",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://www.bda.org/what-we-do/campaigns-and-advocacy/lobbying/appg-for-dentistry-and-oral-health/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Sep to 09 Sep",
+    "next_reporting_deadline": "2026-01-10"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

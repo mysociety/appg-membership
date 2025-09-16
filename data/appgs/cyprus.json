@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Bambos Charalambous",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25676",
-      "mnis_id": "4610",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mike Wood",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25362",
-      "mnis_id": "4384",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Paulette Hamilton",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26061",
-      "mnis_id": "4938",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dan Tomlinson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26502",
-      "mnis_id": "5282",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-15",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "15 Oct to 14 Oct",
+    "next_reporting_deadline": "2026-02-15"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

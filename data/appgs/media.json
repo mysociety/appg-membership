@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Torcuil Crichton",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26500",
-      "mnis_id": "5246",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Vice Chair",
       "name": "Baroness Thornton",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/13543",
-      "mnis_id": "1782",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mr Richard Holden",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25893",
-      "mnis_id": "4813",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -346,7 +346,12 @@
       "url": "https://www.appgmedia.org/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Sep to 09 Sep",
+    "next_reporting_deadline": "2026-01-10"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

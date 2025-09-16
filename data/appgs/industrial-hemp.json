@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Ben Lake",
       "party": "Plaid Cymru",
-      "twfy_id": "uk.org.publicwhip/person/25669",
-      "mnis_id": "4630",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Vice Chair",
       "name": "Jas Athwal",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26439",
-      "mnis_id": "5227",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -74,7 +74,12 @@
       "url": "https://www.appgcbd.org/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-03-04",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "04 Mar to 03 Mar",
+    "next_reporting_deadline": "2026-07-04"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

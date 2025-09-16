@@ -423,6 +423,10 @@ def parse_appg_html(html: str, *, slug: str, source_url: str, index_date: str) -
 
     # --- 4. AGM details ----------------------------------------------------- #
     agm_table = _parse_table_by_header(tables, "Annual General Meeting")
+    if agm_table is None:
+        agm_table = _parse_table_by_header(
+            tables, "Inaugural and Annual General Meetings (IGMs and AGMs)"
+        )
     agm = _parse_agm_details(agm_table)
 
     # --- 5. Registrable benefits ------------------------------------------- #

@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Carolyn Harris",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25308",
-      "mnis_id": "4480",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Berger",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24924",
-      "mnis_id": "4036",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Leigh Ingham",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26392",
-      "mnis_id": "5290",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Julia Lopez",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25652",
-      "mnis_id": "4647",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -242,7 +242,12 @@
       "url": "https://www.baw-appg.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-04-02",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "02 Apr to 01 Apr",
+    "next_reporting_deadline": "2026-08-02"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

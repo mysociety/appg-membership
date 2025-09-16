@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Tom Rutland",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26467",
-      "mnis_id": "5222",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Seamus Logan",
       "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/26534",
-      "mnis_id": "5280",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-18",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "18 Nov to 17 Nov",
+    "next_reporting_deadline": "2026-03-18"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

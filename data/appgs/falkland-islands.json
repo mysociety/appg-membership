@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Peter Dowd",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25309",
-      "mnis_id": "4397",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,8 +24,8 @@
       "role": "Secretary",
       "name": "Dr Al Pinkerton",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26593",
-      "mnis_id": "5288",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Sep to 09 Sep",
+    "next_reporting_deadline": "2026-01-10"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

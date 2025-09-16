@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Dr Rupa Huq",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25284",
-      "mnis_id": "4511",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Josh Fenton-Glynn",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26545",
-      "mnis_id": "5295",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Michelle Welsh",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26550",
-      "mnis_id": "5226",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Balfe",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25209",
-      "mnis_id": "4302",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -242,7 +242,12 @@
       "url": "https://www.gingerbread.org.uk/our-work/policy-and-campaigns/all-party-parliamentary-groups-appgs/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-22",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "22 Oct to 21 Oct",
+    "next_reporting_deadline": "2026-02-22"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

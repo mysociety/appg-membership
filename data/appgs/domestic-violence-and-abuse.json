@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Apsana Begum",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/25914",
-      "mnis_id": "4790",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Bertin",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25589",
-      "mnis_id": "4577",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Jess Asato",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26386",
-      "mnis_id": "5156",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -162,7 +162,12 @@
       "url": "https://www.womensaid.org.uk/get-involved/appg/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Nov to 10 Nov",
+    "next_reporting_deadline": "2026-03-11"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

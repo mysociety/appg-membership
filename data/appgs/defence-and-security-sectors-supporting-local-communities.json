@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Alex Baker",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26444",
-      "mnis_id": "5173",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Michelle Scrogham",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26322",
-      "mnis_id": "5049",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Graeme Downie",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26503",
-      "mnis_id": "5275",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Viscount Trenchard",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13177",
-      "mnis_id": "1829",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-19",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "19 Nov to 18 Nov",
+    "next_reporting_deadline": "2026-03-19"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

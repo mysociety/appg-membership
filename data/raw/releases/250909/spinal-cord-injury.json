@@ -55,7 +55,12 @@
       "url": "https://spinal.co.uk/campaigns/our-campaigns/all-party-parliamentary-group/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-07-30",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "30 Jul to 29 Jul",
+    "next_reporting_deadline": "2025-11-30"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

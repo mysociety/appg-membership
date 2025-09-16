@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Tim Farron",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/11923",
-      "mnis_id": "1591",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Marsha De Cordova",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25620",
-      "mnis_id": "4676",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Rebecca Smith",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26512",
-      "mnis_id": "5301",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": "http://www.christiansinparliament.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-07-24",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "24 Jul to 23 Jul",
+    "next_reporting_deadline": "2025-11-24"
+  },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {

@@ -55,7 +55,12 @@
       "url": "https://appg-n4dev.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-23",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "23 Oct to 22 Oct",
+    "next_reporting_deadline": "2026-02-23"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Andrew Pakes",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26601",
-      "mnis_id": "5243",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Wera Hobhouse",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25648",
-      "mnis_id": "4602",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Adrian Ramsay",
       "party": "Green Party",
-      "twfy_id": "uk.org.publicwhip/person/26514",
-      "mnis_id": "5320",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Rebecca Smith",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26512",
-      "mnis_id": "5301",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -1194,7 +1194,12 @@
       "url": "https://environment.inparliament.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-09-01",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "30 Jul to 29 Jul",
+    "next_reporting_deadline": "2026-11-30"
+  },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {

@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "David Davis",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10162",
-      "mnis_id": "373",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Adam Thompson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26326",
-      "mnis_id": "5044",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord De Mauley",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13173",
-      "mnis_id": "2202",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Chris Coghlan",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26445",
-      "mnis_id": "5198",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://www.glrfca.org/about/all-party-parliamentary-group-appg-reserves-and-cadets/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-07-08",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "08 Jul to 07 Jul",
+    "next_reporting_deadline": "2026-11-08"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

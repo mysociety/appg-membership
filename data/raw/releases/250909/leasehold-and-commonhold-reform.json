@@ -55,7 +55,12 @@
       "url": "https://www.leaseholdknowledge.com/category/appg/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-08",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "08 Oct to 07 Oct",
+    "next_reporting_deadline": "2026-02-08"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Michelle Welsh",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26550",
-      "mnis_id": "5226",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Freddie van Mierlo",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26540",
-      "mnis_id": "5296",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Kirsteen Sullivan",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26501",
-      "mnis_id": "5179",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -115,7 +115,12 @@
       "url": "https://www.pcosappg.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-04-23",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "23 Apr to 22 Apr",
+    "next_reporting_deadline": "2026-08-23"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

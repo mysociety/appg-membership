@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Sarah Edwards",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26277",
-      "mnis_id": "5001",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Drake",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24990",
-      "mnis_id": "4155",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Blake Stephenson",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26355",
-      "mnis_id": "5100",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "John Milne",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26624",
-      "mnis_id": "5329",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -234,7 +234,12 @@
       "url": "https://www.plsa.co.uk/All-Party-Parliamentary-Group-for-Pensions-and-Growth"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-04-23",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "23 Apr to 22 Apr",
+    "next_reporting_deadline": "2026-08-23"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

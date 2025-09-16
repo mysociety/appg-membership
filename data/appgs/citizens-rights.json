@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Manuela Perteghella",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26569",
-      "mnis_id": "5122",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Goudie",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/12915",
-      "mnis_id": "3575",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Balfe",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25209",
-      "mnis_id": "4302",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "James Asser",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26594",
-      "mnis_id": "5211",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-01-15",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "15 Jan to 14 Jan",
+    "next_reporting_deadline": "2026-05-15"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

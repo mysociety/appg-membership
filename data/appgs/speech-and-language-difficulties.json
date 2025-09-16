@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "David Pinto-Duschinsky",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26632",
-      "mnis_id": "5360",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Shinkwin",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25470",
-      "mnis_id": "4557",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mike Wood",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25362",
-      "mnis_id": "4384",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Whitaker",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/12957",
-      "mnis_id": "2510",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -224,7 +224,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-03-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 Mar to 11 Mar",
+    "next_reporting_deadline": "2026-07-12"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

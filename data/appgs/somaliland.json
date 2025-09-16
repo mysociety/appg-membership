@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Sir Gavin Williamson",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24729",
-      "mnis_id": "4108",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Kim Johnson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25803",
-      "mnis_id": "4824",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Abtisam Mohamed",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26413",
-      "mnis_id": "5142",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Udny-Lister",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25965",
-      "mnis_id": "4898",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-03",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "03 Dec to 02 Dec",
+    "next_reporting_deadline": "2026-04-03"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

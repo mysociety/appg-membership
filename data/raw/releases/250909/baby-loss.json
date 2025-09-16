@@ -55,7 +55,12 @@
       "url": "https://www.sands.org.uk/appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-12-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Dec to 09 Dec",
+    "next_reporting_deadline": "2026-04-10"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Freddie van Mierlo",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26540",
-      "mnis_id": "5296",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord Harlech",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26046",
-      "mnis_id": "4928",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Gregor Poynton",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26428",
-      "mnis_id": "5167",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -226,7 +226,12 @@
       "url": "https://futuremen.org/advocacy/appg-on-fatherhood/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-05-13",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "13 May to 12 May",
+    "next_reporting_deadline": "2026-09-13"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

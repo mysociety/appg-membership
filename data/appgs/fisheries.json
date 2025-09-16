@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Alistair Carmichael",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/10785",
-      "mnis_id": "1442",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Melanie Onn",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25317",
-      "mnis_id": "4464",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Seamus Logan",
       "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/26534",
-      "mnis_id": "5280",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Charlie Dewhirst",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26461",
-      "mnis_id": "5169",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://www.fisheriesappg.org/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-15",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "15 Oct to 14 Oct",
+    "next_reporting_deadline": "2026-02-15"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Helen Maguire",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26627",
-      "mnis_id": "5336",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Alex Ballinger",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26580",
-      "mnis_id": "5238",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "David Reed",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26628",
-      "mnis_id": "5347",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -274,7 +274,12 @@
       "url": "https://www.appg-explosive-threats.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-01-13",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "13 Jan to 12 Jan",
+    "next_reporting_deadline": "2026-05-13"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

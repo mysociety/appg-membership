@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Yuan Yang",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26600",
-      "mnis_id": "5267",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Sarah Gibson",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26585",
-      "mnis_id": "5239",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -226,7 +226,12 @@
       "url": "https://socialscienceappg.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-22",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "22 Oct to 21 Oct",
+    "next_reporting_deadline": "2026-02-22"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

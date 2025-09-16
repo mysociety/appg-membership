@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Luke Taylor",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26443",
-      "mnis_id": "5103",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Officer",
       "name": "Graeme Downie",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26503",
-      "mnis_id": "5275",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Gavin Robinson",
       "party": "Democratic Unionist Party",
-      "twfy_id": "uk.org.publicwhip/person/25280",
-      "mnis_id": "4360",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-03",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "03 Sep to 02 Sep",
+    "next_reporting_deadline": "2026-01-03"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

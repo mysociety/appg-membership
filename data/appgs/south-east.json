@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Tanmanjeet Singh Dhesi",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25695",
-      "mnis_id": "4638",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Peter Swallow",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26369",
-      "mnis_id": "5165",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Paul Holmes",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25808",
-      "mnis_id": "4803",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mr Joshua Reynolds",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26608",
-      "mnis_id": "5343",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -346,7 +346,12 @@
       "url": "https://www.secouncils.gov.uk/appg-south-east"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Sep to 09 Sep",
+    "next_reporting_deadline": "2026-01-10"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

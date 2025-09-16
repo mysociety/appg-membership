@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Peter Swallow",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26369",
-      "mnis_id": "5165",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Tristan Osborne",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26589",
-      "mnis_id": "5220",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Sam Carling",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26558",
-      "mnis_id": "5308",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -274,7 +274,12 @@
       "url": "https://www.schoolsappg.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-26",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "26 Nov to 25 Nov",
+    "next_reporting_deadline": "2026-03-26"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

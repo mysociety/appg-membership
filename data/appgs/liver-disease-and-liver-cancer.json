@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Dr Beccy Cooper",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26515",
-      "mnis_id": "5307",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Lorraine Beavers",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26475",
-      "mnis_id": "5232",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mr Peter Bedford",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26625",
-      "mnis_id": "5330",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Robin Swann",
       "party": "Ulster Unionist Party",
-      "twfy_id": "uk.org.publicwhip/person/25141",
-      "mnis_id": "5319",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -272,7 +272,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-02-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Feb to 10 Feb",
+    "next_reporting_deadline": "2026-06-11"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

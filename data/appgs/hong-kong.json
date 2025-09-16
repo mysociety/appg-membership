@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Blair McDougall",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26490",
-      "mnis_id": "5076",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Bobby Dean",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26371",
-      "mnis_id": "5083",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Shinkwin",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25470",
-      "mnis_id": "4557",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": "https://www.hkinquiry.org/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-15",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "15 Oct to 14 Oct",
+    "next_reporting_deadline": "2026-02-15"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

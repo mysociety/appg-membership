@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Clive Betts",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10045",
-      "mnis_id": "394",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -24,16 +24,16 @@
       "role": "Vice Chair",
       "name": "Lord Touhig",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10600",
-      "mnis_id": "542",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ben Lake",
       "party": "Plaid Cymru",
-      "twfy_id": "uk.org.publicwhip/person/25669",
-      "mnis_id": "4630",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-29",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "29 Oct to 28 Oct",
+    "next_reporting_deadline": "2026-02-28"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

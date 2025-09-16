@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Mike Reader",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26630",
-      "mnis_id": "5316",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Blake Stephenson",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26355",
-      "mnis_id": "5100",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Officer",
       "name": "Tom Gordon",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26312",
-      "mnis_id": "5032",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://www.ice.org.uk/news-views-insights/policy-and-advocacy/all-party-parliamentary-group-on-infrastructure"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-27",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "27 Nov to 26 Nov",
+    "next_reporting_deadline": "2026-03-27"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

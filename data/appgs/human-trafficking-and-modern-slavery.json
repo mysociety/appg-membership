@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Dame Karen Bradley",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24725",
-      "mnis_id": "4110",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Butler-Sloss",
       "party": "Crossbench",
-      "twfy_id": "uk.org.publicwhip/person/13879",
-      "mnis_id": "3804",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Rosena Allin-Khan",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25579",
-      "mnis_id": "4573",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Tom Collins",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26351",
-      "mnis_id": "5087",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -90,7 +90,12 @@
       "url": "https://www.humantraffickingfoundation.org/appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-11-20",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "20 Nov to 19 Nov",
+    "next_reporting_deadline": "2026-03-20"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Andy MacNae",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26391",
-      "mnis_id": "5134",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Aphra Brandreth",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26553",
-      "mnis_id": "5241",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Vice Chair",
       "name": "Baroness Pidgeon",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26645",
-      "mnis_id": "5366",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -410,7 +410,12 @@
       "url": "https://transportsafetyappg.org.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-04-24",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "24 Apr to 23 Apr",
+    "next_reporting_deadline": "2026-08-24"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

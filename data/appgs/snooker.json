@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Sir Gavin Williamson",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24729",
-      "mnis_id": "4108",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Graeme Downie",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26503",
-      "mnis_id": "5275",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Sir Alec Shelbrooke",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24893",
-      "mnis_id": "3997",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Triesman",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/12839",
-      "mnis_id": "3651",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -224,7 +224,12 @@
       "url": "https://wpbsa.com/all-party-parliamentary-group-for-snooker"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-04-02",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "02 Apr to 01 Apr",
+    "next_reporting_deadline": "2026-08-02"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

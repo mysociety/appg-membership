@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Sir Oliver Dowden",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25323",
-      "mnis_id": "4441",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Samantha Niblett",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26414",
-      "mnis_id": "5150",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Blunkett",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10050",
-      "mnis_id": "395",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Mark Garnier",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24824",
-      "mnis_id": "4074",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-05-07",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "07 May to 06 May",
+    "next_reporting_deadline": "2026-09-07"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

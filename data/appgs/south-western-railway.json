@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Will Forster",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26560",
-      "mnis_id": "5322",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Al Pinkerton",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26593",
-      "mnis_id": "5288",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Neil Duncan-Jordan",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/26633",
-      "mnis_id": "5359",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Paul Holmes",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25808",
-      "mnis_id": "4803",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -264,7 +264,12 @@
       "url": null
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-01-22",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "22 Jan to 21 Jan",
+    "next_reporting_deadline": "2026-05-22"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

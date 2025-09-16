@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Sir John Hayes",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10265",
-      "mnis_id": "350",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "James Wild",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25866",
-      "mnis_id": "4787",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Torcuil Crichton",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26500",
-      "mnis_id": "5246",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -55,7 +55,12 @@
       "url": "https://www.haemochromatosis.org.uk/appg"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-02-11",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "11 Feb to 10 Feb",
+    "next_reporting_deadline": "2026-06-11"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

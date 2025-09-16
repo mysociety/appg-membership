@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Joe Powell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26477",
-      "mnis_id": "5229",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Amanda Hack",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26449",
-      "mnis_id": "5149",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Neil O'Brien",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25679",
-      "mnis_id": "4679",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Mr Joshua Reynolds",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26608",
-      "mnis_id": "5343",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://www.leaseholdknowledge.com/category/appg/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-08",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "08 Oct to 07 Oct",
+    "next_reporting_deadline": "2026-02-08"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

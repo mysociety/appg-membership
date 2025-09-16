@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Munira Wilson",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25820",
-      "mnis_id": "4776",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Blower",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25777",
-      "mnis_id": "4724",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -32,8 +32,8 @@
       "role": "Vice Chair",
       "name": "John McDonnell",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/10383",
-      "mnis_id": "178",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -250,7 +250,12 @@
       "url": "https://www.airportcommunities.co.uk/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2025-05-12",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "12 May to 11 May",
+    "next_reporting_deadline": "2026-09-12"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

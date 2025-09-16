@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Jerome Mayhew",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25904",
-      "mnis_id": "4739",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Claire Hazelgrove",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26496",
-      "mnis_id": "5306",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Blunkett",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10050",
-      "mnis_id": "395",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Sater",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25734",
-      "mnis_id": "4700",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -55,7 +55,12 @@
       "url": "https://www.young-enterprise.org.uk/home/impact-policy/policy-hub/appg-on-financial-education/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-09",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "09 Sep to 08 Sep",
+    "next_reporting_deadline": "2026-01-09"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {

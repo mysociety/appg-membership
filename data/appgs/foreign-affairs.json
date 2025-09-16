@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Adam Jogee",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26541",
-      "mnis_id": "5168",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Naz Shah",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25385",
-      "mnis_id": "4409",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "David Reed",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26628",
-      "mnis_id": "5347",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Mobarik",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25235",
-      "mnis_id": "4335",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -328,7 +328,12 @@
       "url": "http://www.appgforeignaffairs.org/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-10-28",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "28 Oct to 27 Oct",
+    "next_reporting_deadline": "2026-02-28"
+  },
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "250909",

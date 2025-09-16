@@ -8,32 +8,32 @@
       "role": "Chair & Registered Contact",
       "name": "Liz Twist",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25623",
-      "mnis_id": "4618",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Neil Hudson",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25875",
-      "mnis_id": "4853",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Anna Sabine",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26497",
-      "mnis_id": "5286",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Laura Kyrke-Smith",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26629",
-      "mnis_id": "5341",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -322,7 +322,12 @@
       "url": "https://www.samaritans.org/about-samaritans/research-policy/appg/"
     }
   },
-  "agm": null,
+  "agm": {
+    "date_of_most_recent_agm": "2024-09-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Sep to 09 Sep",
+    "next_reporting_deadline": "2026-01-10"
+  },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
