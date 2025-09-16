@@ -70,6 +70,10 @@ def build_members():
     data = []
     for x in items:
         for officer in x.officers:
+            # Skip officers that are marked as removed
+            if officer.removed:
+                continue
+
             canon_name = None
             if officer.twfy_id:
                 person = pop.persons[officer.twfy_id]
@@ -90,6 +94,10 @@ def build_members():
             item["url_source"] = extract_source_url(x.source_url)  # type: ignore
             data.append(item)
         for member in x.members_list.members:
+            # Skip members that are marked as removed
+            if member.removed:
+                continue
+
             canon_name = None
             if member.twfy_id:
                 person = pop.persons[member.twfy_id]

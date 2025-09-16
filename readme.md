@@ -26,6 +26,10 @@ We are storing some membership lists from information requests in data/raw/septe
 
 This is handled through automatic matching to people.json - and a spelling reconciliation tool.
 
+### Ineligible Person IDs
+
+The system maintains a list of ineligible person IDs in `models.py` - these are MPs who cannot be part of any APPG (e.g - government whips). When person IDs are assigned, any member or officer matching an ineligible person ID will automatically have their `removed` field set to `True`. This ensures they are excluded from the final dataset export while maintaining the historical record of their involvement.
+
 ## Updating When a New APPG Register is Released
 
 When a new APPG register is published, follow these steps to update the system:
@@ -129,6 +133,19 @@ project add-person-ids
 ```
 
 This matches member names to known parliament members and assigns IDs.
+
+**Automatic Removal of Ineligible Members:**
+During this process, the system automatically checks against a list of ineligible person IDs (defined in `models.py`). Any member or officer whose person ID appears in the `ineligible_person_ids` set will have their `removed` field set to `True`. This handles cases where MPs are suspended, have resigned, or are otherwise ineligible to participate in APPGs.
+
+To add a new ineligible person ID:
+1. Edit `src/appg_membership/models.py`
+2. Add the person ID to the `ineligible_person_ids` set:
+   ```python
+   ineligible_person_ids = {
+       "uk.org.publicwhip/person/26384",
+       "uk.org.publicwhip/person/NEW_ID_HERE",  # Add new ineligible IDs here
+   }
+   ```
 
 ### 9. Correct Unmatched Names
 

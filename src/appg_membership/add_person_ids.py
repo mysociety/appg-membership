@@ -1,7 +1,7 @@
 from mysoc_validator import Popolo
 from mysoc_validator.models.popolo import Person
 
-from appg_membership.models import APPGList, NameCorrectionList
+from .models import APPGList, NameCorrectionList, ineligible_person_ids
 
 
 def get_name_corrections() -> dict[str, str]:
@@ -120,6 +120,9 @@ def add_person_ids():
                 person = name_lookup[reduced_name]
                 officer.twfy_id = person.id
                 officer.mnis_id = str(person.get_identifier("datadotparl_id"))
+                # Check if this person is ineligible and mark as removed
+                if person.id in ineligible_person_ids:
+                    officer.removed = True
             else:
                 if not is_lord(officer.name):
                     bad_names.append(reduced_name)
@@ -129,6 +132,9 @@ def add_person_ids():
                 person = name_lookup[reduced_name]
                 member.twfy_id = person.id
                 member.mnis_id = str(person.get_identifier("datadotparl_id"))
+                # Check if this person is ineligible and mark as removed
+                if person.id in ineligible_person_ids:
+                    member.removed = True
             else:
                 if member.member_type == "mp":
                     bad_names.append(reduced_name)

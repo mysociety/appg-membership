@@ -21,6 +21,12 @@ register_dates = [
     "250909",  # 9 September 2025
 ]
 
+# MPs who are ineligible to be part of any APPG and should be marked as removed=True
+ineligible_person_ids = {
+    "uk.org.publicwhip/person/26384",
+    # Add more ineligible person IDs here as they are identified
+}
+
 
 class AppgCategory(StrEnum):
     HEALTH_MEDICINE_PUBLIC_HEALTH = "Health, Medicine & Public Health"
