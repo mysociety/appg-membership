@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Dr Caroline Johnson",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25597",
+      "mnis_id": "4592",
       "removed": false
     },
     {
@@ -32,16 +32,179 @@
       "role": "Officer",
       "name": "Darren Paffey",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26431",
+      "mnis_id": "5270",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
-    "source_url": [],
-    "last_updated": "2025-06-19",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://appg-emergingdrugs.org.uk/"
+    ],
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Caroline Johnson",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4592",
+        "twfy_id": "uk.org.publicwhip/person/25597",
+        "removed": false
+      },
+      {
+        "name": "John Taylor of Holbeach",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Healy of Primrose Hill",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Darren Paffey",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5270",
+        "twfy_id": "uk.org.publicwhip/person/26431",
+        "removed": false
+      },
+      {
+        "name": "Gareth Bacon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4798",
+        "twfy_id": "uk.org.publicwhip/person/25750",
+        "removed": false
+      },
+      {
+        "name": "Joy Morrisey",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4759",
+        "twfy_id": "uk.org.publicwhip/person/25878",
+        "removed": false
+      },
+      {
+        "name": "Julia Lopez",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4647",
+        "twfy_id": "uk.org.publicwhip/person/25652",
+        "removed": false
+      },
+      {
+        "name": "Baroness Jenkin of Kennington",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Graham Brady",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "435",
+        "twfy_id": "uk.org.publicwhip/person/10062",
+        "removed": false
+      },
+      {
+        "name": "Syed Kamall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Markham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Zac Goldsmith of Richmond",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Peter Booth",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Louie French",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4932",
+        "twfy_id": "uk.org.publicwhip/person/26055",
+        "removed": false
+      },
+      {
+        "name": "Howell of Guildford",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Hunt of Wirral",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Porter of Spalding",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "John Hayes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "350",
+        "twfy_id": "uk.org.publicwhip/person/10265",
+        "removed": false
+      },
+      {
+        "name": "Taylor of Warwick",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Earl Attlee",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3425",
+        "twfy_id": "uk.org.publicwhip/person/12875",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Dr Caroline Johnson MP",

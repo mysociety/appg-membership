@@ -8,74 +8,74 @@
       "role": "Chair & Registered Contact",
       "name": "Steve Race",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26345",
+      "mnis_id": "5064",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Rebecca Smith",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26512",
+      "mnis_id": "5301",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Richard Foord",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26086",
+      "mnis_id": "4942",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Teverson",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13732",
+      "mnis_id": "3789",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2024-12-01",
+    "last_updated": "2025-09-16",
     "members": [
       {
-        "name": "Steve Race",
-        "is_officer": true,
+        "name": "Steve Race MP",
+        "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5064",
         "twfy_id": "uk.org.publicwhip/person/26345",
         "removed": false
       },
       {
-        "name": "Rebecca Smith",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5301",
-        "twfy_id": "uk.org.publicwhip/person/26512",
-        "removed": false
-      },
-      {
-        "name": "Lord Teverson",
-        "is_officer": true,
+        "name": "Lord Teverson Vice-Chair",
+        "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "3789",
-        "twfy_id": "uk.org.publicwhip/person/13732",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
-        "name": "Richard Foord",
-        "is_officer": true,
+        "name": "Richard Foord MP",
+        "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4942",
         "twfy_id": "uk.org.publicwhip/person/26086",
         "removed": false
       },
       {
-        "name": "Neil Duncan-Jordan",
+        "name": "Rebecca Smith MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5301",
+        "twfy_id": "uk.org.publicwhip/person/26512",
+        "removed": false
+      },
+      {
+        "name": "Neil Duncan-Jordan MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5359",
@@ -83,7 +83,7 @@
         "removed": false
       },
       {
-        "name": "Sarah Dyke",
+        "name": "Sarah Dyke MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4995",
@@ -115,7 +115,7 @@
         "removed": false
       },
       {
-        "name": "Gideon Amos",
+        "name": "Gideon Amos MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5250",
@@ -123,7 +123,7 @@
         "removed": false
       },
       {
-        "name": "Ashley Fox",
+        "name": "Sir Ashley Fox MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5101",
@@ -131,7 +131,7 @@
         "removed": false
       },
       {
-        "name": "Anna Gelderd",
+        "name": "Anna Gelderd MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5353",
@@ -139,7 +139,7 @@
         "removed": false
       },
       {
-        "name": "David Reed",
+        "name": "David Reed MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5347",
@@ -147,7 +147,7 @@
         "removed": false
       },
       {
-        "name": "Lloyd Hatton",
+        "name": "Lloyd Hatton MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5217",
@@ -171,7 +171,7 @@
         "removed": false
       },
       {
-        "name": "Steve Darling",
+        "name": "Steve Darling MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5066",
@@ -179,7 +179,7 @@
         "removed": false
       },
       {
-        "name": "Jayne Kirham",
+        "name": "Jayne Kirkham MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5279",
@@ -187,7 +187,7 @@
         "removed": false
       },
       {
-        "name": "Anna Sabine",
+        "name": "Anna Sabine MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5286",
@@ -195,7 +195,7 @@
         "removed": false
       },
       {
-        "name": "Fred Thomas",
+        "name": "Fred Thomas MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5174",
@@ -203,7 +203,7 @@
         "removed": false
       },
       {
-        "name": "Vikki Slade",
+        "name": "Vikki Slade MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5327",
@@ -211,11 +211,19 @@
         "removed": false
       },
       {
-        "name": "Alex McIntyre",
+        "name": "Alex McIntyre MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5349",
         "twfy_id": "uk.org.publicwhip/person/26434",
+        "removed": false
+      },
+      {
+        "name": "Rachel Gilmour MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5252",
+        "twfy_id": "uk.org.publicwhip/person/26543",
         "removed": false
       }
     ]

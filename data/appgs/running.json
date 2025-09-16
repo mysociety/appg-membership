@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "John Slinger",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26564",
+      "mnis_id": "5127",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Josh Fenton-Glynn",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26545",
+      "mnis_id": "5295",
       "removed": false
     },
     {
@@ -32,16 +32,185 @@
       "role": "Vice Chair",
       "name": "Lord Bethell",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25740",
+      "mnis_id": "4708",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "John Slinger",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5127",
+        "twfy_id": "uk.org.publicwhip/person/26564",
+        "removed": false
+      },
+      {
+        "name": "Josh Fenton-Glynn",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5295",
+        "twfy_id": "uk.org.publicwhip/person/26545",
+        "removed": false
+      },
+      {
+        "name": "Lord Leigh (Howard)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Bethell (James)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Phil Brickell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5128",
+        "twfy_id": "uk.org.publicwhip/person/26368",
+        "removed": false
+      },
+      {
+        "name": "Andrew Bowie",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4601",
+        "twfy_id": "uk.org.publicwhip/person/25703",
+        "removed": false
+      },
+      {
+        "name": "Vikki Slade",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582",
+        "removed": false
+      },
+      {
+        "name": "David Simmonds",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4872",
+        "twfy_id": "uk.org.publicwhip/person/25892",
+        "removed": false
+      },
+      {
+        "name": "Cat Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4436",
+        "twfy_id": "uk.org.publicwhip/person/25432",
+        "removed": false
+      },
+      {
+        "name": "Lord Evans (Graham)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Peter Prinsley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5163",
+        "twfy_id": "uk.org.publicwhip/person/26383",
+        "removed": false
+      },
+      {
+        "name": "John Lamont",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4608",
+        "twfy_id": "uk.org.publicwhip/person/14026",
+        "removed": false
+      },
+      {
+        "name": "Andy Macnae",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5134",
+        "twfy_id": "uk.org.publicwhip/person/26391",
+        "removed": false
+      },
+      {
+        "name": "Alex Sobel",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4658",
+        "twfy_id": "uk.org.publicwhip/person/25680",
+        "removed": false
+      },
+      {
+        "name": "David Simmonds",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4872",
+        "twfy_id": "uk.org.publicwhip/person/25892",
+        "removed": false
+      },
+      {
+        "name": "Valerie Vaz",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4076",
+        "twfy_id": "uk.org.publicwhip/person/24852",
+        "removed": false
+      },
+      {
+        "name": "Cat Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4436",
+        "twfy_id": "uk.org.publicwhip/person/25432",
+        "removed": false
+      },
+      {
+        "name": "Beccy Cooper",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5307",
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
+      },
+      {
+        "name": "Rachel Taylor",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5065",
+        "twfy_id": "uk.org.publicwhip/person/26478",
+        "removed": false
+      },
+      {
+        "name": "Kim Leadbeater",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4923",
+        "twfy_id": "uk.org.publicwhip/person/26040",
+        "removed": false
+      },
+      {
+        "name": "Blake Stephenson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5100",
+        "twfy_id": "uk.org.publicwhip/person/26355",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "John Slinger MP",

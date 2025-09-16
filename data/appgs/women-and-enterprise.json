@@ -8,40 +8,217 @@
       "role": "Chair & Registered Contact",
       "name": "Leigh Ingham",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26392",
+      "mnis_id": "5290",
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Catherine Fookes",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26510",
+      "mnis_id": "5291",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Aphra Brandreth",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26553",
+      "mnis_id": "5241",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Victoria Collins",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26539",
+      "mnis_id": "5201",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-04-28",
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Leigh Ingham MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5290",
+        "twfy_id": "uk.org.publicwhip/person/26392",
+        "removed": false
+      },
+      {
+        "name": "Catherine Fookes MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5291",
+        "twfy_id": "uk.org.publicwhip/person/26510",
+        "removed": false
+      },
+      {
+        "name": "Aphra Brandeth MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5241",
+        "twfy_id": "uk.org.publicwhip/person/26553",
+        "removed": false
+      },
+      {
+        "name": "Victoria Collins MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5201",
+        "twfy_id": "uk.org.publicwhip/person/26539",
+        "removed": false
+      },
+      {
+        "name": "Kevin Hollinrake MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4474",
+        "twfy_id": "uk.org.publicwhip/person/25415",
+        "removed": false
+      },
+      {
+        "name": "Caroline Dinenage MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4008",
+        "twfy_id": "uk.org.publicwhip/person/24873",
+        "removed": false
+      },
+      {
+        "name": "Esther McVey MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4084",
+        "twfy_id": "uk.org.publicwhip/person/24882",
+        "removed": false
+      },
+      {
+        "name": "Anna Sabine MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5286",
+        "twfy_id": "uk.org.publicwhip/person/26497",
+        "removed": false
+      },
+      {
+        "name": "Dr Allison Gardner MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5334",
+        "twfy_id": "uk.org.publicwhip/person/26621",
+        "removed": false
+      },
+      {
+        "name": "Samantha Niblett MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5150",
+        "twfy_id": "uk.org.publicwhip/person/26414",
+        "removed": false
+      },
+      {
+        "name": "Kate Dearden MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5224",
+        "twfy_id": "uk.org.publicwhip/person/26548",
+        "removed": false
+      },
+      {
+        "name": "Michelle Welsh MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5226",
+        "twfy_id": "uk.org.publicwhip/person/26550",
+        "removed": false
+      },
+      {
+        "name": "Beccy Cooper MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5307",
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
+      },
+      {
+        "name": "Sarah Hall MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5154",
+        "twfy_id": "uk.org.publicwhip/person/26416",
+        "removed": false
+      },
+      {
+        "name": "Katrina Murray MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5309",
+        "twfy_id": "uk.org.publicwhip/person/26494",
+        "removed": false
+      },
+      {
+        "name": "Cat Eccles MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5293",
+        "twfy_id": "uk.org.publicwhip/person/26587",
+        "removed": false
+      },
+      {
+        "name": "Dan Aldridge MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5172",
+        "twfy_id": "uk.org.publicwhip/person/26453",
+        "removed": false
+      },
+      {
+        "name": "Sarah Edwards MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5001",
+        "twfy_id": "uk.org.publicwhip/person/26277",
+        "removed": false
+      },
+      {
+        "name": "Joe Morris MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5081",
+        "twfy_id": "uk.org.publicwhip/person/26468",
+        "removed": false
+      },
+      {
+        "name": "Sharon Hodgson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
+      },
+      {
+        "name": "Jo White MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5105",
+        "twfy_id": "uk.org.publicwhip/person/26358",
+        "removed": false
+      },
+      {
+        "name": "Amanda Hack",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5149",
+        "twfy_id": "uk.org.publicwhip/person/26449",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Leigh Ingham MP",

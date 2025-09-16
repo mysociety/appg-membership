@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Rachael Maskell",
       "party": "Independent",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25433",
+      "mnis_id": "4471",
       "removed": false
     },
     {
@@ -24,24 +24,217 @@
       "role": "Officer",
       "name": "Baroness Altmann",
       "party": "Non-affiliated",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25445",
+      "mnis_id": "4533",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Joy Morrissey",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25878",
+      "mnis_id": "4759",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-04-28",
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Rachael Maskell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4471",
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
+      },
+      {
+        "name": "Lord Foulkes (Co-Chair)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Joy Morrissey",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4759",
+        "twfy_id": "uk.org.publicwhip/person/25878",
+        "removed": false
+      },
+      {
+        "name": "Baroness Altmann",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4533",
+        "twfy_id": "uk.org.publicwhip/person/25445",
+        "removed": false
+      },
+      {
+        "name": "Paula Barker",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4828",
+        "twfy_id": "uk.org.publicwhip/person/25819",
+        "removed": false
+      },
+      {
+        "name": "Vikki Slade",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582",
+        "removed": false
+      },
+      {
+        "name": "Elaine Stewart",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5206",
+        "twfy_id": "uk.org.publicwhip/person/26598",
+        "removed": false
+      },
+      {
+        "name": "Ann Davies",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5177",
+        "twfy_id": "uk.org.publicwhip/person/26359",
+        "removed": false
+      },
+      {
+        "name": "Neil Duncan-Jordan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5359",
+        "twfy_id": "uk.org.publicwhip/person/26633",
+        "removed": false
+      },
+      {
+        "name": "Stuart Anderson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4742",
+        "twfy_id": "uk.org.publicwhip/person/25818",
+        "removed": false
+      },
+      {
+        "name": "Richard Baker",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5253",
+        "twfy_id": "uk.org.publicwhip/person/13952",
+        "removed": false
+      },
+      {
+        "name": "Lillian Jones",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5043",
+        "twfy_id": "uk.org.publicwhip/person/26327",
+        "removed": false
+      },
+      {
+        "name": "Ian Byrne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4831",
+        "twfy_id": "uk.org.publicwhip/person/25816",
+        "removed": false
+      },
+      {
+        "name": "Manuella Perteghella",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5122",
+        "twfy_id": "uk.org.publicwhip/person/26569",
+        "removed": false
+      },
+      {
+        "name": "Shockat Adam",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5120",
+        "twfy_id": "uk.org.publicwhip/person/26364",
+        "removed": false
+      },
+      {
+        "name": "Tom Morrison",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5090",
+        "twfy_id": "uk.org.publicwhip/person/26400",
+        "removed": false
+      },
+      {
+        "name": "Steve Darling",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5066",
+        "twfy_id": "uk.org.publicwhip/person/26349",
+        "removed": false
+      },
+      {
+        "name": "Adam Dance",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5191",
+        "twfy_id": "uk.org.publicwhip/person/26459",
+        "removed": false
+      },
+      {
+        "name": "Amanda Martin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5294",
+        "twfy_id": "uk.org.publicwhip/person/26430",
+        "removed": false
+      },
+      {
+        "name": "Rebecca Harris",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3948",
+        "twfy_id": "uk.org.publicwhip/person/24731",
+        "removed": false
+      },
+      {
+        "name": "Robin Swann",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5319",
+        "twfy_id": "uk.org.publicwhip/person/25141",
+        "removed": false
+      },
+      {
+        "name": "Anna Gelderd",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5353",
+        "twfy_id": "uk.org.publicwhip/person/26618",
+        "removed": false
+      },
+      {
+        "name": "Sian Berry",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5314",
+        "twfy_id": "uk.org.publicwhip/person/25752",
+        "removed": false
+      },
+      {
+        "name": "Richard Foord",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4942",
+        "twfy_id": "uk.org.publicwhip/person/26086",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Rachael Maskell MP",

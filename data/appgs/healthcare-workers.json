@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Cat Eccles",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26587",
+      "mnis_id": "5293",
       "removed": false
     },
     {
@@ -24,24 +24,329 @@
       "role": "Officer",
       "name": "Peter Prinsley",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26383",
+      "mnis_id": "5163",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Robin Swann",
       "party": "Ulster Unionist Party",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25141",
+      "mnis_id": "5319",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Cat Eccles MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5293",
+        "twfy_id": "uk.org.publicwhip/person/26587",
+        "removed": false
+      },
+      {
+        "name": "Lord McColl of Dulwich",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Robin Swann MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5319",
+        "twfy_id": "uk.org.publicwhip/person/25141",
+        "removed": false
+      },
+      {
+        "name": "Dr Peter Prinsley MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5163",
+        "twfy_id": "uk.org.publicwhip/person/26383",
+        "removed": false
+      },
+      {
+        "name": "Members \\- MPs",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sadik Al-Hassan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5312",
+        "twfy_id": "uk.org.publicwhip/person/26527",
+        "removed": false
+      },
+      {
+        "name": "Jas Athwal MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5227",
+        "twfy_id": "uk.org.publicwhip/person/26439",
+        "removed": false
+      },
+      {
+        "name": "Sian Berry MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5314",
+        "twfy_id": "uk.org.publicwhip/person/25752",
+        "removed": false
+      },
+      {
+        "name": "Bob Blackman MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4005",
+        "twfy_id": "uk.org.publicwhip/person/24945",
+        "removed": false
+      },
+      {
+        "name": "Dawn Butler MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1489",
+        "twfy_id": "uk.org.publicwhip/person/11447",
+        "removed": false
+      },
+      {
+        "name": "Ian Byrne MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4831",
+        "twfy_id": "uk.org.publicwhip/person/25816",
+        "removed": false
+      },
+      {
+        "name": "Irene Campbell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5145",
+        "twfy_id": "uk.org.publicwhip/person/26419",
+        "removed": false
+      },
+      {
+        "name": "Marsha De Cordova MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4676",
+        "twfy_id": "uk.org.publicwhip/person/25620",
+        "removed": false
+      },
+      {
+        "name": "Neil Duncan-Jordan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5359",
+        "twfy_id": "uk.org.publicwhip/person/26633",
+        "removed": false
+      },
+      {
+        "name": "Maya Ellis MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5228",
+        "twfy_id": "uk.org.publicwhip/person/26479",
+        "removed": false
+      },
+      {
+        "name": "Andrew George MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "227",
+        "twfy_id": "uk.org.publicwhip/person/10222",
+        "removed": false
+      },
+      {
+        "name": "Sharon Hodgson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
+      },
+      {
+        "name": "Terry Jermy MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5338",
+        "twfy_id": "uk.org.publicwhip/person/26616",
+        "removed": false
+      },
+      {
+        "name": "Ruth Jones MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4716",
+        "twfy_id": "uk.org.publicwhip/person/25746",
+        "removed": false
+      },
+      {
+        "name": "Seamus Logan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5280",
+        "twfy_id": "uk.org.publicwhip/person/26534",
+        "removed": false
+      },
+      {
+        "name": "Ben Maguire MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5350",
+        "twfy_id": "uk.org.publicwhip/person/26623",
+        "removed": false
+      },
+      {
+        "name": "Llinos Medi MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5085",
+        "twfy_id": "uk.org.publicwhip/person/26454",
+        "removed": false
+      },
+      {
+        "name": "Iqbal Mohamed MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5268",
+        "twfy_id": "uk.org.publicwhip/person/26620",
+        "removed": false
+      },
+      {
+        "name": "Tom Morrison MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5090",
+        "twfy_id": "uk.org.publicwhip/person/26400",
+        "removed": false
+      },
+      {
+        "name": "Katrina Murray MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5309",
+        "twfy_id": "uk.org.publicwhip/person/26494",
+        "removed": false
+      },
+      {
+        "name": "Kate Osamor MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4515",
+        "twfy_id": "uk.org.publicwhip/person/25365",
+        "removed": false
+      },
+      {
+        "name": "Kate Osborne MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4783",
+        "twfy_id": "uk.org.publicwhip/person/25794",
+        "removed": false
+      },
+      {
+        "name": "Adrian Ramsay MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5320",
+        "twfy_id": "uk.org.publicwhip/person/26514",
+        "removed": false
+      },
+      {
+        "name": "Bell Riberio-Addy MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4764",
+        "twfy_id": "uk.org.publicwhip/person/25856",
+        "removed": false
+      },
+      {
+        "name": "Jim Shannon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4131",
+        "twfy_id": "uk.org.publicwhip/person/13864",
+        "removed": false
+      },
+      {
+        "name": "Members – Peers",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Bakewell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4223",
+        "twfy_id": "uk.org.publicwhip/person/25045",
+        "removed": false
+      },
+      {
+        "name": "Baroness Browning",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "236",
+        "twfy_id": "uk.org.publicwhip/person/10072",
+        "removed": false
+      },
+      {
+        "name": "Baroness Golding",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "281",
+        "twfy_id": "uk.org.publicwhip/person/10233",
+        "removed": false
+      },
+      {
+        "name": "Baroness Grey-Thompson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3862",
+        "twfy_id": "uk.org.publicwhip/person/24707",
+        "removed": false
+      },
+      {
+        "name": "Lord Hendy",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4723",
+        "twfy_id": "uk.org.publicwhip/person/25780",
+        "removed": false
+      },
+      {
+        "name": "Lord Naseby",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1251",
+        "twfy_id": "uk.org.publicwhip/person/13704",
+        "removed": false
+      },
+      {
+        "name": "Baroness Ritchie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4130",
+        "twfy_id": "uk.org.publicwhip/person/13856",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Cat Eccles MP",

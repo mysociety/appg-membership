@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Mrs Sharon Hodgson",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/11592",
+      "mnis_id": "1521",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Sir Alec Shelbrooke",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/24893",
+      "mnis_id": "3997",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Sarah Green",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26034",
+      "mnis_id": "4918",
       "removed": false
     },
     {
@@ -38,10 +38,195 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "CHAIR – Sharon Hodgson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
+      },
+      {
+        "name": "– Baroness Ritchie of Downpatrick",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "– Sarah",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "– Alec Shelbrooke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3997",
+        "twfy_id": "uk.org.publicwhip/person/24893",
+        "removed": false
+      },
+      {
+        "name": "Members:",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Allison Gardner",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5334",
+        "twfy_id": "uk.org.publicwhip/person/26621",
+        "removed": false
+      },
+      {
+        "name": "Baroness Ritchie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4130",
+        "twfy_id": "uk.org.publicwhip/person/13856",
+        "removed": false
+      },
+      {
+        "name": "Cat Smith MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4436",
+        "twfy_id": "uk.org.publicwhip/person/25432",
+        "removed": false
+      },
+      {
+        "name": "Julian Lewis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "54",
+        "twfy_id": "uk.org.publicwhip/person/10358",
+        "removed": false
+      },
+      {
+        "name": "Danny Chamber",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5304",
+        "twfy_id": "uk.org.publicwhip/person/26607",
+        "removed": false
+      },
+      {
+        "name": "Yasmin Qureshi",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3924",
+        "twfy_id": "uk.org.publicwhip/person/24775",
+        "removed": false
+      },
+      {
+        "name": "Kirith Enwhistle",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5095",
+        "twfy_id": "uk.org.publicwhip/person/26378",
+        "removed": false
+      },
+      {
+        "name": "David Williams",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5151",
+        "twfy_id": "uk.org.publicwhip/person/26397",
+        "removed": false
+      },
+      {
+        "name": "Caroline Voaden",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5216",
+        "twfy_id": "uk.org.publicwhip/person/26511",
+        "removed": false
+      },
+      {
+        "name": "Claire Young",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5140",
+        "twfy_id": "uk.org.publicwhip/person/26458",
+        "removed": false
+      },
+      {
+        "name": "James Frith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4637",
+        "twfy_id": "uk.org.publicwhip/person/25622",
+        "removed": false
+      },
+      {
+        "name": "James Naish",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5047",
+        "twfy_id": "uk.org.publicwhip/person/26329",
+        "removed": false
+      },
+      {
+        "name": "Jess Asato",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5156",
+        "twfy_id": "uk.org.publicwhip/person/26386",
+        "removed": false
+      },
+      {
+        "name": "Jess Brown-Fuller",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5335",
+        "twfy_id": "uk.org.publicwhip/person/26372",
+        "removed": false
+      },
+      {
+        "name": "Baroness Brown of Silvertown",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Warinder Juss",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5230",
+        "twfy_id": "uk.org.publicwhip/person/26533",
+        "removed": false
+      },
+      {
+        "name": "Marie Tidball",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5098",
+        "twfy_id": "uk.org.publicwhip/person/26390",
+        "removed": false
+      },
+      {
+        "name": "John Glen",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4051",
+        "twfy_id": "uk.org.publicwhip/person/24839",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Mrs Sharon Hodgson MP",

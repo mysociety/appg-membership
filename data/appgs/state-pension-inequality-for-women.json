@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Rebecca Long Bailey",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25368",
+      "mnis_id": "4396",
       "removed": false
     },
     {
@@ -24,24 +24,643 @@
       "role": "Vice Chair",
       "name": "Sir Julian Lewis",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10358",
+      "mnis_id": "54",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Liz Jarvis",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26325",
+      "mnis_id": "5040",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
-    "source_url": [],
-    "last_updated": null,
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://rebeccalongbailey.com/spifwlist/"
+    ],
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Rebecca Long-Bailey",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4396",
+        "twfy_id": "uk.org.publicwhip/person/25368",
+        "removed": false
+      },
+      {
+        "name": "Lord Bryn Davies of Brixton",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Julian Lewis",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "54",
+        "twfy_id": "uk.org.publicwhip/person/10358",
+        "removed": false
+      },
+      {
+        "name": "Liz Jarvis",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5040",
+        "twfy_id": "uk.org.publicwhip/person/26325",
+        "removed": false
+      },
+      {
+        "name": "Al Pinkerton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5288",
+        "twfy_id": "uk.org.publicwhip/person/26593",
+        "removed": false
+      },
+      {
+        "name": "Alex Brewer",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5263",
+        "twfy_id": "uk.org.publicwhip/person/26366",
+        "removed": false
+      },
+      {
+        "name": "Andy McDonald",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4269",
+        "twfy_id": "uk.org.publicwhip/person/25169",
+        "removed": false
+      },
+      {
+        "name": "Angus MacDonald",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5362",
+        "twfy_id": "uk.org.publicwhip/person/26637",
+        "removed": false
+      },
+      {
+        "name": "Anna Dixon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5281",
+        "twfy_id": "uk.org.publicwhip/person/26524",
+        "removed": false
+      },
+      {
+        "name": "Anna Sabine",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5286",
+        "twfy_id": "uk.org.publicwhip/person/26497",
+        "removed": false
+      },
+      {
+        "name": "Apsana Begum",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4790",
+        "twfy_id": "uk.org.publicwhip/person/25914",
+        "removed": false
+      },
+      {
+        "name": "Bell Ribeiro-Addy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4764",
+        "twfy_id": "uk.org.publicwhip/person/25856",
+        "removed": false
+      },
+      {
+        "name": "Cat Eccles",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5293",
+        "twfy_id": "uk.org.publicwhip/person/26587",
+        "removed": false
+      },
+      {
+        "name": "Chris Bloore",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5109",
+        "twfy_id": "uk.org.publicwhip/person/26357",
+        "removed": false
+      },
+      {
+        "name": "Chris Webb",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5025",
+        "twfy_id": "uk.org.publicwhip/person/26305",
+        "removed": false
+      },
+      {
+        "name": "Clive Lewis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4500",
+        "twfy_id": "uk.org.publicwhip/person/25356",
+        "removed": false
+      },
+      {
+        "name": "David Baines",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5092",
+        "twfy_id": "uk.org.publicwhip/person/26565",
+        "removed": false
+      },
+      {
+        "name": "David Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5218",
+        "twfy_id": "uk.org.publicwhip/person/26606",
+        "removed": false
+      },
+      {
+        "name": "Dawn Butler",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1489",
+        "twfy_id": "uk.org.publicwhip/person/11447",
+        "removed": false
+      },
+      {
+        "name": "Douglas McAllister",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5057",
+        "twfy_id": "uk.org.publicwhip/person/26334",
+        "removed": false
+      },
+      {
+        "name": "Emma Lewell-Buck",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4277",
+        "twfy_id": "uk.org.publicwhip/person/25181",
+        "removed": false
+      },
+      {
+        "name": "Euan Stainbank",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5110",
+        "twfy_id": "uk.org.publicwhip/person/26407",
+        "removed": false
+      },
+      {
+        "name": "Graham Leadbitter",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5277",
+        "twfy_id": "uk.org.publicwhip/person/26499",
+        "removed": false
+      },
+      {
+        "name": "Grahame Morris",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3973",
+        "twfy_id": "uk.org.publicwhip/person/24715",
+        "removed": false
+      },
+      {
+        "name": "Ian Byrne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4831",
+        "twfy_id": "uk.org.publicwhip/person/25816",
+        "removed": false
+      },
+      {
+        "name": "Ian Lavery",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4139",
+        "twfy_id": "uk.org.publicwhip/person/24963",
+        "removed": false
+      },
+      {
+        "name": "Imran Hussain",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4394",
+        "twfy_id": "uk.org.publicwhip/person/25375",
+        "removed": false
+      },
+      {
+        "name": "James Naish",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5047",
+        "twfy_id": "uk.org.publicwhip/person/26329",
+        "removed": false
+      },
+      {
+        "name": "Jayne Kirkham",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5279",
+        "twfy_id": "uk.org.publicwhip/person/26525",
+        "removed": false
+      },
+      {
+        "name": "Jenny Riddell-Carpenter",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5160",
+        "twfy_id": "uk.org.publicwhip/person/26472",
+        "removed": false
+      },
+      {
+        "name": "Jess Asato",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5156",
+        "twfy_id": "uk.org.publicwhip/person/26386",
+        "removed": false
+      },
+      {
+        "name": "Jess Brown-Fuller",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5335",
+        "twfy_id": "uk.org.publicwhip/person/26372",
+        "removed": false
+      },
+      {
+        "name": "Jim Shannon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4131",
+        "twfy_id": "uk.org.publicwhip/person/13864",
+        "removed": false
+      },
+      {
+        "name": "Jody Gosling",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5036",
+        "twfy_id": "uk.org.publicwhip/person/26314",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Jon Trickett",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "410",
+        "twfy_id": "uk.org.publicwhip/person/10604",
+        "removed": false
+      },
+      {
+        "name": "Jonathan Brash",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5045",
+        "twfy_id": "uk.org.publicwhip/person/26339",
+        "removed": false
+      },
+      {
+        "name": "Josh Newbury",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5034",
+        "twfy_id": "uk.org.publicwhip/person/26317",
+        "removed": false
+      },
+      {
+        "name": "Julia Buckley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5171",
+        "twfy_id": "uk.org.publicwhip/person/26436",
+        "removed": false
+      },
+      {
+        "name": "Kate Osborne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4783",
+        "twfy_id": "uk.org.publicwhip/person/25794",
+        "removed": false
+      },
+      {
+        "name": "Kim Johnson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4824",
+        "twfy_id": "uk.org.publicwhip/person/25803",
+        "removed": false
+      },
+      {
+        "name": "Kirsteen Sullivan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5179",
+        "twfy_id": "uk.org.publicwhip/person/26501",
+        "removed": false
+      },
+      {
+        "name": "Kirsty Blackman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4357",
+        "twfy_id": "uk.org.publicwhip/person/25314",
+        "removed": false
+      },
+      {
+        "name": "Lauren Edwards",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5298",
+        "twfy_id": "uk.org.publicwhip/person/26597",
+        "removed": false
+      },
+      {
+        "name": "Lee Barron",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5315",
+        "twfy_id": "uk.org.publicwhip/person/26554",
+        "removed": false
+      },
+      {
+        "name": "Lee Pitcher",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5233",
+        "twfy_id": "uk.org.publicwhip/person/26464",
+        "removed": false
+      },
+      {
+        "name": "Lillian Jones",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5043",
+        "twfy_id": "uk.org.publicwhip/person/26327",
+        "removed": false
+      },
+      {
+        "name": "Lorraine Beavers",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5232",
+        "twfy_id": "uk.org.publicwhip/person/26475",
+        "removed": false
+      },
+      {
+        "name": "Mary Glindon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4126",
+        "twfy_id": "uk.org.publicwhip/person/24927",
+        "removed": false
+      },
+      {
+        "name": "Maureen Burke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5137",
+        "twfy_id": "uk.org.publicwhip/person/26455",
+        "removed": false
+      },
+      {
+        "name": "Michelle Scrogham",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5049",
+        "twfy_id": "uk.org.publicwhip/person/26322",
+        "removed": false
+      },
+      {
+        "name": "Mike Reader",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5316",
+        "twfy_id": "uk.org.publicwhip/person/26630",
+        "removed": false
+      },
+      {
+        "name": "Nadia Whittome",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4869",
+        "twfy_id": "uk.org.publicwhip/person/25845",
+        "removed": false
+      },
+      {
+        "name": "Neil Duncan-Jordan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5359",
+        "twfy_id": "uk.org.publicwhip/person/26633",
+        "removed": false
+      },
+      {
+        "name": "Olivia Blake",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4864",
+        "twfy_id": "uk.org.publicwhip/person/25908",
+        "removed": false
+      },
+      {
+        "name": "Patricia Ferguson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5190",
+        "twfy_id": "uk.org.publicwhip/person/13984",
+        "removed": false
+      },
+      {
+        "name": "Pete Wishart",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1440",
+        "twfy_id": "uk.org.publicwhip/person/11333",
+        "removed": false
+      },
+      {
+        "name": "Prem Sikka",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Rachael Maskell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4471",
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
+      },
+      {
+        "name": "Richard Burgon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4493",
+        "twfy_id": "uk.org.publicwhip/person/25391",
+        "removed": false
+      },
+      {
+        "name": "Robin Swann",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5319",
+        "twfy_id": "uk.org.publicwhip/person/25141",
+        "removed": false
+      },
+      {
+        "name": "Roz Savage",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5352",
+        "twfy_id": "uk.org.publicwhip/person/26603",
+        "removed": false
+      },
+      {
+        "name": "Rupa Huq",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4511",
+        "twfy_id": "uk.org.publicwhip/person/25284",
+        "removed": false
+      },
+      {
+        "name": "Ruth Jones",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4716",
+        "twfy_id": "uk.org.publicwhip/person/25746",
+        "removed": false
+      },
+      {
+        "name": "Sarah Champion",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4267",
+        "twfy_id": "uk.org.publicwhip/person/25168",
+        "removed": false
+      },
+      {
+        "name": "Sarah Edwards",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5001",
+        "twfy_id": "uk.org.publicwhip/person/26277",
+        "removed": false
+      },
+      {
+        "name": "Sarah Hall",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5154",
+        "twfy_id": "uk.org.publicwhip/person/26416",
+        "removed": false
+      },
+      {
+        "name": "Simon Opher",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5030",
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
+      },
+      {
+        "name": "Steve Darling",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5066",
+        "twfy_id": "uk.org.publicwhip/person/26349",
+        "removed": false
+      },
+      {
+        "name": "Tim Farron",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1591",
+        "twfy_id": "uk.org.publicwhip/person/11923",
+        "removed": false
+      },
+      {
+        "name": "Tracy Gilbert",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5188",
+        "twfy_id": "uk.org.publicwhip/person/26526",
+        "removed": false
+      },
+      {
+        "name": "Warinder Juss",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5230",
+        "twfy_id": "uk.org.publicwhip/person/26533",
+        "removed": false
+      },
+      {
+        "name": "Wendy Chamberlain",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4765",
+        "twfy_id": "uk.org.publicwhip/person/25872",
+        "removed": false
+      },
+      {
+        "name": "Elaine Stewart",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5206",
+        "twfy_id": "uk.org.publicwhip/person/26598",
+        "removed": false
+      },
+      {
+        "name": "Mary Kelly Foy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4753",
+        "twfy_id": "uk.org.publicwhip/person/25833",
+        "removed": false
+      },
+      {
+        "name": "Steff Aquarone",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5164",
+        "twfy_id": "uk.org.publicwhip/person/26491",
+        "removed": false
+      },
+      {
+        "name": "Sarah Dyke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4995",
+        "twfy_id": "uk.org.publicwhip/person/26270",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Rebecca Long Bailey MP",

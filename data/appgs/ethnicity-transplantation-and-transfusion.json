@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Bell Ribeiro-Addy",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25856",
+      "mnis_id": "4764",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Sarah Olney",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25596",
+      "mnis_id": "4591",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Mike Wood",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25362",
+      "mnis_id": "4384",
       "removed": false
     },
     {
@@ -38,10 +38,267 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "APPG Chair and Officers:",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bell Ribeiro-Addy (Lab)",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4764",
+        "twfy_id": "uk.org.publicwhip/person/25856",
+        "removed": false
+      },
+      {
+        "name": "Officer: Sarah Olney (Lib Dem)",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Officer: Mike Wood (Con)",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Officer: The Lord Evans of Rainow (Con)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Baroness Benjamin OM DBE DL (Lib Dem)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Honorary Secretary: Paul Hegarty",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Secretariat: NBTA",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Members including Chair and Officers:",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Afzal Khan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4671",
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
+      },
+      {
+        "name": "Bambos Charalambous",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4610",
+        "twfy_id": "uk.org.publicwhip/person/25676",
+        "removed": false
+      },
+      {
+        "name": "Baroness Mobarik CBE",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4335",
+        "twfy_id": "uk.org.publicwhip/person/25235",
+        "removed": false
+      },
+      {
+        "name": "Bell Riberiro-Addy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4764",
+        "twfy_id": "uk.org.publicwhip/person/25856",
+        "removed": false
+      },
+      {
+        "name": "Bob Blackman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4005",
+        "twfy_id": "uk.org.publicwhip/person/24945",
+        "removed": false
+      },
+      {
+        "name": "Dawn Butler",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1489",
+        "twfy_id": "uk.org.publicwhip/person/11447",
+        "removed": false
+      },
+      {
+        "name": "Florence Eshalomi",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4870",
+        "twfy_id": "uk.org.publicwhip/person/25759",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Kim Johnson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4824",
+        "twfy_id": "uk.org.publicwhip/person/25803",
+        "removed": false
+      },
+      {
+        "name": "Kim Leadbeater MBE",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4923",
+        "twfy_id": "uk.org.publicwhip/person/26040",
+        "removed": false
+      },
+      {
+        "name": "Liam Conlon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5132",
+        "twfy_id": "uk.org.publicwhip/person/26401",
+        "removed": false
+      },
+      {
+        "name": "Lord Evans of Rainow",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Sewell of Sanderstead CBE",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Taylor of Warwick",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Marsha de Cordova",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4676",
+        "twfy_id": "uk.org.publicwhip/person/25620",
+        "removed": false
+      },
+      {
+        "name": "Mary Glindon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4126",
+        "twfy_id": "uk.org.publicwhip/person/24927",
+        "removed": false
+      },
+      {
+        "name": "Mike Wood",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4384",
+        "twfy_id": "uk.org.publicwhip/person/25362",
+        "removed": false
+      },
+      {
+        "name": "Munira Wilson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4776",
+        "twfy_id": "uk.org.publicwhip/person/25820",
+        "removed": false
+      },
+      {
+        "name": "Rachel Hopkins",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4873",
+        "twfy_id": "uk.org.publicwhip/person/25809",
+        "removed": false
+      },
+      {
+        "name": "Ruth Cadbury",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4389",
+        "twfy_id": "uk.org.publicwhip/person/25343",
+        "removed": false
+      },
+      {
+        "name": "Sarah Olney",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4591",
+        "twfy_id": "uk.org.publicwhip/person/25596",
+        "removed": false
+      },
+      {
+        "name": "Valerie Vaz",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4076",
+        "twfy_id": "uk.org.publicwhip/person/24852",
+        "removed": false
+      },
+      {
+        "name": "Catherine Fookes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5291",
+        "twfy_id": "uk.org.publicwhip/person/26510",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Bell Ribeiro-Addy MP",

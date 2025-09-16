@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Rachael Maskell",
       "party": "Independent",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25433",
+      "mnis_id": "4471",
       "removed": false
     },
     {
@@ -24,24 +24,235 @@
       "role": "Officer",
       "name": "Bill Esterson",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/24905",
+      "mnis_id": "4061",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Berridge",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25049",
+      "mnis_id": "4218",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
-    "source_url": [],
-    "last_updated": "2025-04-28",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://appgap.info/membership"
+    ],
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Rachael Maskell",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4471",
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
+      },
+      {
+        "name": "Lord Russell of Liverpool",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bill Esterson",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4061",
+        "twfy_id": "uk.org.publicwhip/person/24905",
+        "removed": false
+      },
+      {
+        "name": "Baroness Berridge",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4218",
+        "twfy_id": "uk.org.publicwhip/person/25049",
+        "removed": false
+      },
+      {
+        "name": "Gideon Amos",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5250",
+        "twfy_id": "uk.org.publicwhip/person/26531",
+        "removed": false
+      },
+      {
+        "name": "Jess Asato",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5156",
+        "twfy_id": "uk.org.publicwhip/person/26386",
+        "removed": false
+      },
+      {
+        "name": "Lord Austin of Dudley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Neil Duncan-Jordan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5359",
+        "twfy_id": "uk.org.publicwhip/person/26633",
+        "removed": false
+      },
+      {
+        "name": "Baroness Finlay",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3609",
+        "twfy_id": "uk.org.publicwhip/person/13471",
+        "removed": false
+      },
+      {
+        "name": "Lord Farmer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4321",
+        "twfy_id": "uk.org.publicwhip/person/25233",
+        "removed": false
+      },
+      {
+        "name": "John Glen",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4051",
+        "twfy_id": "uk.org.publicwhip/person/24839",
+        "removed": false
+      },
+      {
+        "name": "Tom Gordon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5032",
+        "twfy_id": "uk.org.publicwhip/person/26312",
+        "removed": false
+      },
+      {
+        "name": "Sarah Green",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4918",
+        "twfy_id": "uk.org.publicwhip/person/26034",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hamwee",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2652",
+        "twfy_id": "uk.org.publicwhip/person/13422",
+        "removed": false
+      },
+      {
+        "name": "Sir John Hayes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "350",
+        "twfy_id": "uk.org.publicwhip/person/10265",
+        "removed": false
+      },
+      {
+        "name": "Josh MacAlister",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5033",
+        "twfy_id": "uk.org.publicwhip/person/26321",
+        "removed": false
+      },
+      {
+        "name": "James Naish",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5047",
+        "twfy_id": "uk.org.publicwhip/person/26329",
+        "removed": false
+      },
+      {
+        "name": "Josh Newbury",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5034",
+        "twfy_id": "uk.org.publicwhip/person/26317",
+        "removed": false
+      },
+      {
+        "name": "Darren Paffey",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5270",
+        "twfy_id": "uk.org.publicwhip/person/26431",
+        "removed": false
+      },
+      {
+        "name": "Rebecca Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5301",
+        "twfy_id": "uk.org.publicwhip/person/26512",
+        "removed": false
+      },
+      {
+        "name": "Lisa Smart",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5070",
+        "twfy_id": "uk.org.publicwhip/person/26556",
+        "removed": false
+      },
+      {
+        "name": "Peter Swallow",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5165",
+        "twfy_id": "uk.org.publicwhip/person/26369",
+        "removed": false
+      },
+      {
+        "name": "Lord Touhig",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "542",
+        "twfy_id": "uk.org.publicwhip/person/10600",
+        "removed": false
+      },
+      {
+        "name": "Lord Triesman",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3651",
+        "twfy_id": "uk.org.publicwhip/person/12839",
+        "removed": false
+      },
+      {
+        "name": "Lord Watson of Invergowrie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Watkins of Tavistock",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Rachael Maskell MP",

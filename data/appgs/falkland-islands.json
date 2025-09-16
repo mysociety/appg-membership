@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Peter Dowd",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25309",
+      "mnis_id": "4397",
       "removed": false
     },
     {
@@ -24,8 +24,8 @@
       "role": "Secretary",
       "name": "Dr Al Pinkerton",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26593",
+      "mnis_id": "5288",
       "removed": false
     },
     {
@@ -38,10 +38,227 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Mr Richard Baker MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5253",
+        "twfy_id": "uk.org.publicwhip/person/13952",
+        "removed": false
+      },
+      {
+        "name": "The Lord Northbrook",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3191",
+        "twfy_id": "uk.org.publicwhip/person/13435",
+        "removed": false
+      },
+      {
+        "name": "Ms Sarah Champion MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4267",
+        "twfy_id": "uk.org.publicwhip/person/25168",
+        "removed": false
+      },
+      {
+        "name": "The Lord Davies of Gower",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Dodds of Duncairn OBE PC",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mr Peter Dowd MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4397",
+        "twfy_id": "uk.org.publicwhip/person/25309",
+        "removed": false
+      },
+      {
+        "name": "The Baroness Foster of Oxton DBE",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mr Paul Foster MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5074",
+        "twfy_id": "uk.org.publicwhip/person/26487",
+        "removed": false
+      },
+      {
+        "name": "Mr George Freeman MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4020",
+        "twfy_id": "uk.org.publicwhip/person/24817",
+        "removed": false
+      },
+      {
+        "name": "The Lord Hannan of Kingsclere",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dame Meg Hillier MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1524",
+        "twfy_id": "uk.org.publicwhip/person/11605",
+        "removed": false
+      },
+      {
+        "name": "Ms Sharon Hodgson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
+      },
+      {
+        "name": "The Baroness Hooper CMG",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Inglewood",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1980",
+        "twfy_id": "uk.org.publicwhip/person/13490",
+        "removed": false
+      },
+      {
+        "name": "The Lord Lancaster of Kimbolton TD PC",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mr Angus McDonald OBE MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5362",
+        "twfy_id": "uk.org.publicwhip/person/26637",
+        "removed": false
+      },
+      {
+        "name": "The Lord Naseby",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1251",
+        "twfy_id": "uk.org.publicwhip/person/13704",
+        "removed": false
+      },
+      {
+        "name": "Dr Al Pinkerton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5288",
+        "twfy_id": "uk.org.publicwhip/person/26593",
+        "removed": false
+      },
+      {
+        "name": "The Lord Randall of Uxbridge Kt PC",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mr Andrew Rosindell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1447",
+        "twfy_id": "uk.org.publicwhip/person/11199",
+        "removed": false
+      },
+      {
+        "name": "Mr Mark Sewards MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5166",
+        "twfy_id": "uk.org.publicwhip/person/26440",
+        "removed": false
+      },
+      {
+        "name": "The Baroness Smith of Newnham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mr Andrew Snowden MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5072",
+        "twfy_id": "uk.org.publicwhip/person/26347",
+        "removed": false
+      },
+      {
+        "name": "The Lord Kilclooney",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "657",
+        "twfy_id": "uk.org.publicwhip/person/10589",
+        "removed": false
+      },
+      {
+        "name": "Mr Derek Twigg MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "429",
+        "twfy_id": "uk.org.publicwhip/person/10610",
+        "removed": false
+      },
+      {
+        "name": "Mr Martin Vickers MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3957",
+        "twfy_id": "uk.org.publicwhip/person/24814",
+        "removed": false
+      },
+      {
+        "name": "Admiral The Lord West of Spithead GCB DSC PC",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Peter Dowd MP",

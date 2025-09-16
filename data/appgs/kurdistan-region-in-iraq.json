@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "John Slinger",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26564",
+      "mnis_id": "5127",
       "removed": false
     },
     {
@@ -24,8 +24,8 @@
       "role": "Vice Chair",
       "name": "Mr Calvin Bailey",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26340",
+      "mnis_id": "5054",
       "removed": false
     },
     {
@@ -38,10 +38,173 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
-    "source_url": [],
-    "last_updated": "2025-04-28",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "http://www.appgkurdistan.org.uk/"
+    ],
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Jack Lopresti",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "3989",
+        "twfy_id": "uk.org.publicwhip/person/24716",
+        "removed": false
+      },
+      {
+        "name": "Wayne David",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1398",
+        "twfy_id": "uk.org.publicwhip/person/10842",
+        "removed": false
+      },
+      {
+        "name": "Mary Glindon",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4126",
+        "twfy_id": "uk.org.publicwhip/person/24927",
+        "removed": false
+      },
+      {
+        "name": "Lord Austin",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "1511",
+        "twfy_id": "uk.org.publicwhip/person/11553",
+        "removed": false
+      },
+      {
+        "name": "Chris Stephens",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4463",
+        "twfy_id": "uk.org.publicwhip/person/25306",
+        "removed": false
+      },
+      {
+        "name": "Henry Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3960",
+        "twfy_id": "uk.org.publicwhip/person/24802",
+        "removed": false
+      },
+      {
+        "name": "Stephen Metcalfe",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4092",
+        "twfy_id": "uk.org.publicwhip/person/24749",
+        "removed": false
+      },
+      {
+        "name": "Bob Blackman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4005",
+        "twfy_id": "uk.org.publicwhip/person/24945",
+        "removed": false
+      },
+      {
+        "name": "John Spellar",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "318",
+        "twfy_id": "uk.org.publicwhip/person/10558",
+        "removed": false
+      },
+      {
+        "name": "Nadhim Zahawi",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4113",
+        "twfy_id": "uk.org.publicwhip/person/24822",
+        "removed": false
+      },
+      {
+        "name": "Feryal Clark",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4822",
+        "twfy_id": "uk.org.publicwhip/person/25896",
+        "removed": false
+      },
+      {
+        "name": "Steve McCabe",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "298",
+        "twfy_id": "uk.org.publicwhip/person/10377",
+        "removed": false
+      },
+      {
+        "name": "Nicola Richards",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4868",
+        "twfy_id": "uk.org.publicwhip/person/25834",
+        "removed": false
+      },
+      {
+        "name": "Andrew Percy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3939",
+        "twfy_id": "uk.org.publicwhip/person/24832",
+        "removed": false
+      },
+      {
+        "name": "Jason McCartney",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3953",
+        "twfy_id": "uk.org.publicwhip/person/24887",
+        "removed": false
+      },
+      {
+        "name": "Jon Mendelsohn",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jim Knight",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4160",
+        "twfy_id": "uk.org.publicwhip/person/11027",
+        "removed": false
+      },
+      {
+        "name": "Tom Watson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1463",
+        "twfy_id": "uk.org.publicwhip/person/11309",
+        "removed": false
+      },
+      {
+        "name": "John Woodcock",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3917",
+        "twfy_id": "uk.org.publicwhip/person/24837",
+        "removed": false
+      },
+      {
+        "name": "Meta Ramsay",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "John Slinger MP",

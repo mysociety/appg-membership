@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Steve Race",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26345",
+      "mnis_id": "5064",
       "removed": false
     },
     {
@@ -24,24 +24,203 @@
       "role": "Officer",
       "name": "Edward Morello",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26604",
+      "mnis_id": "5326",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Brian Mathew",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26509",
+      "mnis_id": "5214",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
-    "source_url": [],
-    "last_updated": null,
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://www.climatetechappg.co.uk/"
+    ],
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Steve Race",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5064",
+        "twfy_id": "uk.org.publicwhip/person/26345",
+        "removed": false
+      },
+      {
+        "name": "Lord Evans of Rainow",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Edward Morello",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5326",
+        "twfy_id": "uk.org.publicwhip/person/26604",
+        "removed": false
+      },
+      {
+        "name": "Brian Mathew",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5214",
+        "twfy_id": "uk.org.publicwhip/person/26509",
+        "removed": false
+      },
+      {
+        "name": "Andrew Pakes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5243",
+        "twfy_id": "uk.org.publicwhip/person/26601",
+        "removed": false
+      },
+      {
+        "name": "Dan Aldridge",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5172",
+        "twfy_id": "uk.org.publicwhip/person/26453",
+        "removed": false
+      },
+      {
+        "name": "Samantha Niblett",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5150",
+        "twfy_id": "uk.org.publicwhip/person/26414",
+        "removed": false
+      },
+      {
+        "name": "Chris McDonald",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5116",
+        "twfy_id": "uk.org.publicwhip/person/26367",
+        "removed": false
+      },
+      {
+        "name": "Alex Barros-Curtis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5175",
+        "twfy_id": "uk.org.publicwhip/person/26402",
+        "removed": false
+      },
+      {
+        "name": "Dave Robertson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5126",
+        "twfy_id": "uk.org.publicwhip/person/26374",
+        "removed": false
+      },
+      {
+        "name": "Lord Adair Turner",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord John Russell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Iain McNicol",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord David Willetts",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Luke Charters",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5199",
+        "twfy_id": "uk.org.publicwhip/person/26480",
+        "removed": false
+      },
+      {
+        "name": "Claire Hughes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5113",
+        "twfy_id": "uk.org.publicwhip/person/26393",
+        "removed": false
+      },
+      {
+        "name": "Lord Syed Kamall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Ben Gascoigne",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ben Lake",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4630",
+        "twfy_id": "uk.org.publicwhip/person/25669",
+        "removed": false
+      },
+      {
+        "name": "Josh Babarinde",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5086",
+        "twfy_id": "uk.org.publicwhip/person/26353",
+        "removed": false
+      },
+      {
+        "name": "Pippa Heylings",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5078",
+        "twfy_id": "uk.org.publicwhip/person/26421",
+        "removed": false
+      },
+      {
+        "name": "Caroline Voaden",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5216",
+        "twfy_id": "uk.org.publicwhip/person/26511",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Steve Race MP",

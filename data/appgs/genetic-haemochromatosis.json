@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Sir John Hayes",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10265",
+      "mnis_id": "350",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "James Wild",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25866",
+      "mnis_id": "4787",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Torcuil Crichton",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26500",
+      "mnis_id": "5246",
       "removed": false
     },
     {
@@ -38,10 +38,187 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-04-28",
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Sir John Hayes MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "350",
+        "twfy_id": "uk.org.publicwhip/person/10265",
+        "removed": false
+      },
+      {
+        "name": "James Wild MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4787",
+        "twfy_id": "uk.org.publicwhip/person/25866",
+        "removed": false
+      },
+      {
+        "name": "Liz Twist MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4618",
+        "twfy_id": "uk.org.publicwhip/person/25623",
+        "removed": false
+      },
+      {
+        "name": "Torcuil Crichton (Lab)",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5246",
+        "twfy_id": "uk.org.publicwhip/person/26500",
+        "removed": false
+      },
+      {
+        "name": "Lord Peter Hendy of Richmond Hill, of Imber in the County of Wiltshire (Crossbencher)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sarah Olney MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4591",
+        "twfy_id": "uk.org.publicwhip/person/25596",
+        "removed": false
+      },
+      {
+        "name": "Baroness Evans of Bowes Park (Con)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "James Wild MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4787",
+        "twfy_id": "uk.org.publicwhip/person/25866",
+        "removed": false
+      },
+      {
+        "name": "Lord (John) Hendy, the Baron Hendy (Lab)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Teverson (LibDem)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Blair McDougall MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5076",
+        "twfy_id": "uk.org.publicwhip/person/26490",
+        "removed": false
+      },
+      {
+        "name": "Wera Hobhouse MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4602",
+        "twfy_id": "uk.org.publicwhip/person/25648",
+        "removed": false
+      },
+      {
+        "name": "Paul Maskey MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4245",
+        "twfy_id": "uk.org.publicwhip/person/13904",
+        "removed": false
+      },
+      {
+        "name": "Baroness (Margaret) Ritchie of Downpatrick labour)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Rachel Taylor (Lab, North Warks & Bedworth)",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sir Desmond Swayne (Con, New Forest West)",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Benjamin (LibDem)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "TENTATIVE Joe Robertson (Con, Isle of Wight East) – pending meeting with the Chair for context etc",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Wendy Chamberlain MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4765",
+        "twfy_id": "uk.org.publicwhip/person/25872",
+        "removed": false
+      },
+      {
+        "name": "Dr Sam Rushworth MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5108",
+        "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
+      },
+      {
+        "name": "Baroness Golding (Lab)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Julia Buckley (Lab, Shrewsbury)",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Sir John Hayes MP",

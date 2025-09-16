@@ -8,40 +8,225 @@
       "role": "Chair & Registered Contact",
       "name": "Brian Leishman",
       "party": "Independent",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26492",
+      "mnis_id": "5196",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Wendy Chamberlain",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25872",
+      "mnis_id": "4765",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Moynihan",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13042",
+      "mnis_id": "924",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jo White",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26358",
+      "mnis_id": "5105",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Brian Leishman MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5196",
+        "twfy_id": "uk.org.publicwhip/person/26492",
+        "removed": false
+      },
+      {
+        "name": "Wendy Chamberlain MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4765",
+        "twfy_id": "uk.org.publicwhip/person/25872",
+        "removed": false
+      },
+      {
+        "name": "Jo White MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5105",
+        "twfy_id": "uk.org.publicwhip/person/26358",
+        "removed": false
+      },
+      {
+        "name": "Lord Moynihan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "924",
+        "twfy_id": "uk.org.publicwhip/person/13042",
+        "removed": false
+      },
+      {
+        "name": "Baroness Nye of Lambeth",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Lennie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4338",
+        "twfy_id": "uk.org.publicwhip/person/25243",
+        "removed": false
+      },
+      {
+        "name": "Lord Robertson of Port Ellen",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Wallace of Tankerness",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Kevin Hollinrake MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4474",
+        "twfy_id": "uk.org.publicwhip/person/25415",
+        "removed": false
+      },
+      {
+        "name": "Lord Goddard of Stockport",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Mann",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1387",
+        "twfy_id": "uk.org.publicwhip/person/11093",
+        "removed": false
+      },
+      {
+        "name": "Lord McConnell of Glenscorrodale",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Butler of Brockwell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Rachel Taylor MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5065",
+        "twfy_id": "uk.org.publicwhip/person/26478",
+        "removed": false
+      },
+      {
+        "name": "Joe Morris MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5081",
+        "twfy_id": "uk.org.publicwhip/person/26468",
+        "removed": false
+      },
+      {
+        "name": "Lord McNicol of West Kilbride",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Gordon McKee MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5189",
+        "twfy_id": "uk.org.publicwhip/person/26462",
+        "removed": false
+      },
+      {
+        "name": "Douglas McAllister MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5057",
+        "twfy_id": "uk.org.publicwhip/person/26334",
+        "removed": false
+      },
+      {
+        "name": "Irene Campbell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5145",
+        "twfy_id": "uk.org.publicwhip/person/26419",
+        "removed": false
+      },
+      {
+        "name": "Katrina Murray MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5309",
+        "twfy_id": "uk.org.publicwhip/person/26494",
+        "removed": false
+      },
+      {
+        "name": "Richard Baker MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5253",
+        "twfy_id": "uk.org.publicwhip/person/13952",
+        "removed": false
+      },
+      {
+        "name": "Seamus Logan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5280",
+        "twfy_id": "uk.org.publicwhip/person/26534",
+        "removed": false
+      },
+      {
+        "name": "Lord de Clifford",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4997",
+        "twfy_id": "uk.org.publicwhip/person/26274",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Brian Leishman MP",

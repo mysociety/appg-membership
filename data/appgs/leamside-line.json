@@ -8,40 +8,225 @@
       "role": "Chair & Registered Contact",
       "name": "Mrs Sharon Hodgson",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/11592",
+      "mnis_id": "1521",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord McLoughlin",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10397",
+      "mnis_id": "333",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Emma Lewell",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25181",
+      "mnis_id": "4277",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Luke Akehurst",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26420",
+      "mnis_id": "5112",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "CHAIR – Sharon Hodgson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
+      },
+      {
+        "name": "\\- Emma Lewell-Buck",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4277",
+        "twfy_id": "uk.org.publicwhip/person/25181",
+        "removed": false
+      },
+      {
+        "name": "\\- Lord McLoughlin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "\\- Luke Akehurst MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5112",
+        "twfy_id": "uk.org.publicwhip/person/26420",
+        "removed": false
+      },
+      {
+        "name": "Members:",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ian Lavery",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4139",
+        "twfy_id": "uk.org.publicwhip/person/24963",
+        "removed": false
+      },
+      {
+        "name": "Mary Glindon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4126",
+        "twfy_id": "uk.org.publicwhip/person/24927",
+        "removed": false
+      },
+      {
+        "name": "Kate Osborne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4783",
+        "twfy_id": "uk.org.publicwhip/person/25794",
+        "removed": false
+      },
+      {
+        "name": "Baroness Grey-Thompson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3862",
+        "twfy_id": "uk.org.publicwhip/person/24707",
+        "removed": false
+      },
+      {
+        "name": "Liz Twist",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4618",
+        "twfy_id": "uk.org.publicwhip/person/25623",
+        "removed": false
+      },
+      {
+        "name": "Luke Akehurst",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5112",
+        "twfy_id": "uk.org.publicwhip/person/26420",
+        "removed": false
+      },
+      {
+        "name": "Lord McLoughlin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "333",
+        "twfy_id": "uk.org.publicwhip/person/10397",
+        "removed": false
+      },
+      {
+        "name": "Lord Shipley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4176",
+        "twfy_id": "uk.org.publicwhip/person/25000",
+        "removed": false
+      },
+      {
+        "name": "Lewis Atkinson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5028",
+        "twfy_id": "uk.org.publicwhip/person/26309",
+        "removed": false
+      },
+      {
+        "name": "Mark Ferguson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5031",
+        "twfy_id": "uk.org.publicwhip/person/26310",
+        "removed": false
+      },
+      {
+        "name": "Mary Kelly Foy MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4753",
+        "twfy_id": "uk.org.publicwhip/person/25833",
+        "removed": false
+      },
+      {
+        "name": "Sam Rushworth MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5108",
+        "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
+      },
+      {
+        "name": "Grahame Morris MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3973",
+        "twfy_id": "uk.org.publicwhip/person/24715",
+        "removed": false
+      },
+      {
+        "name": "Chris McDonald MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5116",
+        "twfy_id": "uk.org.publicwhip/person/26367",
+        "removed": false
+      },
+      {
+        "name": "Baroness Julie Elliot",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Alan Strickland MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5080",
+        "twfy_id": "uk.org.publicwhip/person/26448",
+        "removed": false
+      },
+      {
+        "name": "Lord Beamish",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1438",
+        "twfy_id": "uk.org.publicwhip/person/11003",
+        "removed": false
+      },
+      {
+        "name": "Lord Wilson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2206",
+        "twfy_id": "uk.org.publicwhip/person/13616",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Mrs Sharon Hodgson MP",

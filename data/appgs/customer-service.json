@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Connor Rand",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26473",
+      "mnis_id": "5159",
       "removed": false
     },
     {
@@ -24,24 +24,203 @@
       "role": "Vice Chair",
       "name": "Esther McVey",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/24882",
+      "mnis_id": "4084",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Sahota",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26106",
+      "mnis_id": "4963",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
-    "source_url": [],
-    "last_updated": "2025-04-28",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://www.instituteofcustomerservice.com/media/all-party-parliamentary-group/"
+    ],
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Connor Rand",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5159",
+        "twfy_id": "uk.org.publicwhip/person/26473",
+        "removed": false
+      },
+      {
+        "name": "Baroness Stowell",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4205",
+        "twfy_id": "uk.org.publicwhip/person/25032",
+        "removed": false
+      },
+      {
+        "name": "Lord Sahota",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4963",
+        "twfy_id": "uk.org.publicwhip/person/26106",
+        "removed": false
+      },
+      {
+        "name": "Esther McVey",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4084",
+        "twfy_id": "uk.org.publicwhip/person/24882",
+        "removed": false
+      },
+      {
+        "name": "Lord Goddard",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4334",
+        "twfy_id": "uk.org.publicwhip/person/25247",
+        "removed": false
+      },
+      {
+        "name": "Maureen Burke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5137",
+        "twfy_id": "uk.org.publicwhip/person/26455",
+        "removed": false
+      },
+      {
+        "name": "Bill Esterson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4061",
+        "twfy_id": "uk.org.publicwhip/person/24905",
+        "removed": false
+      },
+      {
+        "name": "Natalie Fleet",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5053",
+        "twfy_id": "uk.org.publicwhip/person/26343",
+        "removed": false
+      },
+      {
+        "name": "Dawn Butler",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1489",
+        "twfy_id": "uk.org.publicwhip/person/11447",
+        "removed": false
+      },
+      {
+        "name": "Carolyn Harris",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4480",
+        "twfy_id": "uk.org.publicwhip/person/25308",
+        "removed": false
+      },
+      {
+        "name": "James Asser",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5211",
+        "twfy_id": "uk.org.publicwhip/person/26594",
+        "removed": false
+      },
+      {
+        "name": "John Slinger",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5127",
+        "twfy_id": "uk.org.publicwhip/person/26564",
+        "removed": false
+      },
+      {
+        "name": "Deirdre Costigan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5075",
+        "twfy_id": "uk.org.publicwhip/person/26384",
+        "removed": false
+      },
+      {
+        "name": "Dan Tomlinson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5282",
+        "twfy_id": "uk.org.publicwhip/person/26502",
+        "removed": false
+      },
+      {
+        "name": "David Pinto Duschinsky",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5360",
+        "twfy_id": "uk.org.publicwhip/person/26632",
+        "removed": false
+      },
+      {
+        "name": "Lord Iain McNicol",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sarah Edwards",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5001",
+        "twfy_id": "uk.org.publicwhip/person/26277",
+        "removed": false
+      },
+      {
+        "name": "Paulette Hamilton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4938",
+        "twfy_id": "uk.org.publicwhip/person/26061",
+        "removed": false
+      },
+      {
+        "name": "Gurinder Singh Josan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5059",
+        "twfy_id": "uk.org.publicwhip/person/26348",
+        "removed": false
+      },
+      {
+        "name": "Kevin Mckenna",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5300",
+        "twfy_id": "uk.org.publicwhip/person/26529",
+        "removed": false
+      },
+      {
+        "name": "Baroness Bennett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4719",
+        "twfy_id": "uk.org.publicwhip/person/25776",
+        "removed": false
+      },
+      {
+        "name": "Olivia Blake",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4864",
+        "twfy_id": "uk.org.publicwhip/person/25908",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Mr Connor Rand MP",

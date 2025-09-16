@@ -8,8 +8,8 @@
       "role": "Chair & Registered Contact",
       "name": "Mr Clive Betts",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10045",
+      "mnis_id": "394",
       "removed": false
     },
     {
@@ -24,24 +24,185 @@
       "role": "Vice Chair",
       "name": "Lord Touhig",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10600",
+      "mnis_id": "542",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ben Lake",
       "party": "Plaid Cymru",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25669",
+      "mnis_id": "4630",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Clive Betts MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "394",
+        "twfy_id": "uk.org.publicwhip/person/10045",
+        "removed": false
+      },
+      {
+        "name": "Lord Taylor of Holbeach (Vice-Chair) Con.",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Touhig (Vice Chair) Lab.",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ben Lake MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4630",
+        "twfy_id": "uk.org.publicwhip/person/25669",
+        "removed": false
+      },
+      {
+        "name": "Lord Anderson of Swansea",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Bottomley of Nettlestone",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Wallace of Saltaire",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Rennard",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2484",
+        "twfy_id": "uk.org.publicwhip/person/13277",
+        "removed": false
+      },
+      {
+        "name": "Baroness Ilora Finlay",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Meacher",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3810",
+        "twfy_id": "uk.org.publicwhip/person/13885",
+        "removed": false
+      },
+      {
+        "name": "Lord John Spellar",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Richard Balfe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Viscount Waverley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1744",
+        "twfy_id": "uk.org.publicwhip/person/12899",
+        "removed": false
+      },
+      {
+        "name": "Lord Reay",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4713",
+        "twfy_id": "uk.org.publicwhip/person/25744",
+        "removed": false
+      },
+      {
+        "name": "Baron Murphy",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Ann Taylor",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "407",
+        "twfy_id": "uk.org.publicwhip/person/10584",
+        "removed": false
+      },
+      {
+        "name": "Toby Perkins MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3952",
+        "twfy_id": "uk.org.publicwhip/person/24845",
+        "removed": false
+      },
+      {
+        "name": "Florence Eshalomi MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4870",
+        "twfy_id": "uk.org.publicwhip/person/25759",
+        "removed": false
+      },
+      {
+        "name": "Darren Paffey MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5270",
+        "twfy_id": "uk.org.publicwhip/person/26431",
+        "removed": false
+      },
+      {
+        "name": "Abtisam Mohamed MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5142",
+        "twfy_id": "uk.org.publicwhip/person/26413",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Mr Clive Betts MP",

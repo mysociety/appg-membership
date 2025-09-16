@@ -8,40 +8,201 @@
       "role": "Chair & Registered Contact",
       "name": "Euan Stainbank",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26407",
+      "mnis_id": "5110",
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Jim Allister",
       "party": "Traditional Unionist Voice",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25122",
+      "mnis_id": "5356",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Graham Stuart",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/11406",
+      "mnis_id": "1482",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Julia Buckley",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26436",
+      "mnis_id": "5171",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Euan Stainbank MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5110",
+        "twfy_id": "uk.org.publicwhip/person/26407",
+        "removed": false
+      },
+      {
+        "name": "Jim Allister MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5356",
+        "twfy_id": "uk.org.publicwhip/person/25122",
+        "removed": false
+      },
+      {
+        "name": "Graham Stuart MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1482",
+        "twfy_id": "uk.org.publicwhip/person/11406",
+        "removed": false
+      },
+      {
+        "name": "Julia Buckley MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5171",
+        "twfy_id": "uk.org.publicwhip/person/26436",
+        "removed": false
+      },
+      {
+        "name": "Alex Baker MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5173",
+        "twfy_id": "uk.org.publicwhip/person/26444",
+        "removed": false
+      },
+      {
+        "name": "Alison Hume MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5254",
+        "twfy_id": "uk.org.publicwhip/person/26523",
+        "removed": false
+      },
+      {
+        "name": "Richard Holden MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4813",
+        "twfy_id": "uk.org.publicwhip/person/25893",
+        "removed": false
+      },
+      {
+        "name": "Richard Baker MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5253",
+        "twfy_id": "uk.org.publicwhip/person/13952",
+        "removed": false
+      },
+      {
+        "name": "Polly Billington MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5123",
+        "twfy_id": "uk.org.publicwhip/person/26360",
+        "removed": false
+      },
+      {
+        "name": "Brian Leishman MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5196",
+        "twfy_id": "uk.org.publicwhip/person/26492",
+        "removed": false
+      },
+      {
+        "name": "Scott Arthur MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5212",
+        "twfy_id": "uk.org.publicwhip/person/26591",
+        "removed": false
+      },
+      {
+        "name": "Douglas McAllister MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5057",
+        "twfy_id": "uk.org.publicwhip/person/26334",
+        "removed": false
+      },
+      {
+        "name": "Katrina Murray MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5309",
+        "twfy_id": "uk.org.publicwhip/person/26494",
+        "removed": false
+      },
+      {
+        "name": "Kenneth Stevenson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5200",
+        "twfy_id": "uk.org.publicwhip/person/26535",
+        "removed": false
+      },
+      {
+        "name": "Graeme Downie MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5275",
+        "twfy_id": "uk.org.publicwhip/person/26503",
+        "removed": false
+      },
+      {
+        "name": "Alison Taylor MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5093",
+        "twfy_id": "uk.org.publicwhip/person/26563",
+        "removed": false
+      },
+      {
+        "name": "Andrew Rosindell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1447",
+        "twfy_id": "uk.org.publicwhip/person/11199",
+        "removed": false
+      },
+      {
+        "name": "Baroness Vere \\- member",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Pidgeon \\- member",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Bradshaw \\- member",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Euan Stainbank MP",

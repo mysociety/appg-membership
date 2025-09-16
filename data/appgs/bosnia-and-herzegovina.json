@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Alicia Kearns",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25906",
+      "mnis_id": "4805",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Dan Carden",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25642",
+      "mnis_id": "4651",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Stephen Gethins",
       "party": "Scottish National Party",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25324",
+      "mnis_id": "4434",
       "removed": false
     },
     {
@@ -38,10 +38,331 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-04-28",
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Alicia Kearns MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4805",
+        "twfy_id": "uk.org.publicwhip/person/25906",
+        "removed": false
+      },
+      {
+        "name": "Dan Carden MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4651",
+        "twfy_id": "uk.org.publicwhip/person/25642",
+        "removed": false
+      },
+      {
+        "name": "Stephen Gethins MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4434",
+        "twfy_id": "uk.org.publicwhip/person/25324",
+        "removed": false
+      },
+      {
+        "name": "Baroness Bakewell of Hardington Mandeville",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Shaista Gohir OBE",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "the Lord Lancaster of Kimbolton TD PC",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Alex Sobel MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4658",
+        "twfy_id": "uk.org.publicwhip/person/25680",
+        "removed": false
+      },
+      {
+        "name": "Sam Rushworth MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5108",
+        "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
+      },
+      {
+        "name": "Lord Rennard",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2484",
+        "twfy_id": "uk.org.publicwhip/person/13277",
+        "removed": false
+      },
+      {
+        "name": "Baroness Blackstone",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3561",
+        "twfy_id": "uk.org.publicwhip/person/13241",
+        "removed": false
+      },
+      {
+        "name": "Baroness Ludford",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1867",
+        "twfy_id": "uk.org.publicwhip/person/13299",
+        "removed": false
+      },
+      {
+        "name": "Baroness D’Souza",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Evans of Rainow",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord McConnell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4168",
+        "twfy_id": "uk.org.publicwhip/person/14049",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hodgson of Abinger CBE",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Richard Foord MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4942",
+        "twfy_id": "uk.org.publicwhip/person/26086",
+        "removed": false
+      },
+      {
+        "name": "Martin Vickers MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3957",
+        "twfy_id": "uk.org.publicwhip/person/24814",
+        "removed": false
+      },
+      {
+        "name": "Lord Browne of Ladyton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sarah Champion PM",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4267",
+        "twfy_id": "uk.org.publicwhip/person/25168",
+        "removed": false
+      },
+      {
+        "name": "Lord Hussain",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4221",
+        "twfy_id": "uk.org.publicwhip/person/25046",
+        "removed": false
+      },
+      {
+        "name": "Lord Harlech",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4928",
+        "twfy_id": "uk.org.publicwhip/person/26046",
+        "removed": false
+      },
+      {
+        "name": "Neil Shastri-Hurst MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5197",
+        "twfy_id": "uk.org.publicwhip/person/26437",
+        "removed": false
+      },
+      {
+        "name": "Lord Bourne of Aberystwyth",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Wendy Morton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4358",
+        "twfy_id": "uk.org.publicwhip/person/25342",
+        "removed": false
+      },
+      {
+        "name": "Tom Hayes MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5210",
+        "twfy_id": "uk.org.publicwhip/person/26566",
+        "removed": false
+      },
+      {
+        "name": "Lord Randall of Uxbridge",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Bowness",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3496",
+        "twfy_id": "uk.org.publicwhip/person/12986",
+        "removed": false
+      },
+      {
+        "name": "Baroness Helic",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4331",
+        "twfy_id": "uk.org.publicwhip/person/25253",
+        "removed": false
+      },
+      {
+        "name": "Baroness Warsi",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3839",
+        "twfy_id": "uk.org.publicwhip/person/13937",
+        "removed": false
+      },
+      {
+        "name": "Anna Dixon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5281",
+        "twfy_id": "uk.org.publicwhip/person/26524",
+        "removed": false
+      },
+      {
+        "name": "Karen Bradley MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4110",
+        "twfy_id": "uk.org.publicwhip/person/24725",
+        "removed": false
+      },
+      {
+        "name": "John Slinger MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5127",
+        "twfy_id": "uk.org.publicwhip/person/26564",
+        "removed": false
+      },
+      {
+        "name": "Shockat Adam MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5120",
+        "twfy_id": "uk.org.publicwhip/person/26364",
+        "removed": false
+      },
+      {
+        "name": "Yasmin Qureshi MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3924",
+        "twfy_id": "uk.org.publicwhip/person/24775",
+        "removed": false
+      },
+      {
+        "name": "Iqbal Mohamed MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5268",
+        "twfy_id": "uk.org.publicwhip/person/26620",
+        "removed": false
+      },
+      {
+        "name": "Bernard Jenkin MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "40",
+        "twfy_id": "uk.org.publicwhip/person/10312",
+        "removed": false
+      },
+      {
+        "name": "Rachel Gilmour MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5252",
+        "twfy_id": "uk.org.publicwhip/person/26543",
+        "removed": false
+      },
+      {
+        "name": "Tahir Ali MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4747",
+        "twfy_id": "uk.org.publicwhip/person/25888",
+        "removed": false
+      },
+      {
+        "name": "Baroness Neville-Jones MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3840",
+        "twfy_id": "uk.org.publicwhip/person/13936",
+        "removed": false
+      },
+      {
+        "name": "Catherine Atkinson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5143",
+        "twfy_id": "uk.org.publicwhip/person/26405",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Alicia Kearns MP",

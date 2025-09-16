@@ -8,40 +8,529 @@
       "role": "Chair & Registered Contact",
       "name": "Alex Ballinger",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26580",
+      "mnis_id": "5238",
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Mr Paul Foster",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26487",
+      "mnis_id": "5074",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Amanda Martin",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26430",
+      "mnis_id": "5294",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ben Obese-Jecty",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26354",
+      "mnis_id": "5089",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Alex Ballinger MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5238",
+        "twfy_id": "uk.org.publicwhip/person/26580",
+        "removed": false
+      },
+      {
+        "name": "Paul Foster MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5074",
+        "twfy_id": "uk.org.publicwhip/person/26487",
+        "removed": false
+      },
+      {
+        "name": "Amanda Martin MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5294",
+        "twfy_id": "uk.org.publicwhip/person/26430",
+        "removed": false
+      },
+      {
+        "name": "Ben Obese-Jecty MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5089",
+        "twfy_id": "uk.org.publicwhip/person/26354",
+        "removed": false
+      },
+      {
+        "name": "Lord Harlech Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Shaun Davies MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5041",
+        "twfy_id": "uk.org.publicwhip/person/26332",
+        "removed": false
+      },
+      {
+        "name": "Lord Blencathra Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lorraine Beavers MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5232",
+        "twfy_id": "uk.org.publicwhip/person/26475",
+        "removed": false
+      },
+      {
+        "name": "Sarah Dyke MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4995",
+        "twfy_id": "uk.org.publicwhip/person/26270",
+        "removed": false
+      },
+      {
+        "name": "The Viscount Brookeborough KG Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Baroness Foster of Oxton DBE Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jodie Gosling MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5036",
+        "twfy_id": "uk.org.publicwhip/person/26314",
+        "removed": false
+      },
+      {
+        "name": "Tim Roca MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5287",
+        "twfy_id": "uk.org.publicwhip/person/26549",
+        "removed": false
+      },
+      {
+        "name": "Lord Rogan Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Baroness Fraser of Craigmaddie Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Sandhurst KC Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Strathcarron Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Baroness Hodgson of Abinger CBE Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Watts Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Admiral the Lord West of Spithead GCB DSC PC Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Right Hon. the Baroness Stuart of Edgbaston Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dave Doogan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4736",
+        "twfy_id": "uk.org.publicwhip/person/25796",
+        "removed": false
+      },
+      {
+        "name": "David Reed MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5347",
+        "twfy_id": "uk.org.publicwhip/person/26628",
+        "removed": false
+      },
+      {
+        "name": "Sir Julian Lewis MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "54",
+        "twfy_id": "uk.org.publicwhip/person/10358",
+        "removed": false
+      },
+      {
+        "name": "Mr Mark Francois MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1444",
+        "twfy_id": "uk.org.publicwhip/person/10901",
+        "removed": false
+      },
+      {
+        "name": "Sir Geoffrey Clifton-Brown MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "249",
+        "twfy_id": "uk.org.publicwhip/person/10119",
+        "removed": false
+      },
+      {
+        "name": "Mr Tanmanjeet Singh Dhesi MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4638",
+        "twfy_id": "uk.org.publicwhip/person/25695",
+        "removed": false
+      },
+      {
+        "name": "Mrs Emma Lewell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4277",
+        "twfy_id": "uk.org.publicwhip/person/25181",
+        "removed": false
+      },
+      {
+        "name": "Helen Maguire BEM MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5336",
+        "twfy_id": "uk.org.publicwhip/person/26627",
+        "removed": false
+      },
+      {
+        "name": "Peter Dowd MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4397",
+        "twfy_id": "uk.org.publicwhip/person/25309",
+        "removed": false
+      },
+      {
+        "name": "Jamie Stone MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4612",
+        "twfy_id": "uk.org.publicwhip/person/25668",
+        "removed": false
+      },
+      {
+        "name": "Field Marshal Lord Richards of Herstmonceux GCB CBE DSO DL Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Marshal of the Royal Air Force the Lord Craig of Radley GCB Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Viscount Trenchard DL Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Stevens of Birmingham Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Empey OBE Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Russell of Liverpool Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Major Richard Foord MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4942",
+        "twfy_id": "uk.org.publicwhip/person/26086",
+        "removed": false
+      },
+      {
+        "name": "the Lord Naseby Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Evans of Rainow Peer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Robin Swann MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5319",
+        "twfy_id": "uk.org.publicwhip/person/25141",
+        "removed": false
+      },
+      {
+        "name": "Luke Akehurst MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5112",
+        "twfy_id": "uk.org.publicwhip/person/26420",
+        "removed": false
+      },
+      {
+        "name": "Vikki Slade MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582",
+        "removed": false
+      },
+      {
+        "name": "Sarah Bool MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5355",
+        "twfy_id": "uk.org.publicwhip/person/26635",
+        "removed": false
+      },
+      {
+        "name": "Calvin Bailey MBE MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5054",
+        "twfy_id": "uk.org.publicwhip/person/26340",
+        "removed": false
+      },
+      {
+        "name": "Jesse Norman MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3991",
+        "twfy_id": "uk.org.publicwhip/person/24827",
+        "removed": false
+      },
+      {
+        "name": "Marie Rimmer CBE MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4457",
+        "twfy_id": "uk.org.publicwhip/person/25321",
+        "removed": false
+      },
+      {
+        "name": "Non-parliamentary members:",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Airbus",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Babcock International Group",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "BAE Systems",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Boeing UK",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Leidos UK",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Leonardo UK",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "MBDA UK",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Northrop Grumman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "RTX",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Thales UK",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lockheed Martin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Saab UK",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Rolls-Royce",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Alex Ballinger MP",

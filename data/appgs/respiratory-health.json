@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Jim Shannon",
       "party": "Democratic Unionist Party",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13864",
+      "mnis_id": "4131",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Liz Twist",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25623",
+      "mnis_id": "4618",
       "removed": false
     },
     {
@@ -38,10 +38,219 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-04-28",
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Jim Shannon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4131",
+        "twfy_id": "uk.org.publicwhip/person/13864",
+        "removed": false
+      },
+      {
+        "name": "Liz Twist MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4618",
+        "twfy_id": "uk.org.publicwhip/person/25623",
+        "removed": false
+      },
+      {
+        "name": "Baroness Bennett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4719",
+        "twfy_id": "uk.org.publicwhip/person/25776",
+        "removed": false
+      },
+      {
+        "name": "Lord Dundee",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Bach",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3451",
+        "twfy_id": "uk.org.publicwhip/person/13526",
+        "removed": false
+      },
+      {
+        "name": "Rosie Duffield MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4616",
+        "twfy_id": "uk.org.publicwhip/person/25656",
+        "removed": false
+      },
+      {
+        "name": "Baroness Thornton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1782",
+        "twfy_id": "uk.org.publicwhip/person/13543",
+        "removed": false
+      },
+      {
+        "name": "Baroness Blackstone",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3561",
+        "twfy_id": "uk.org.publicwhip/person/13241",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hooper",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2005",
+        "twfy_id": "uk.org.publicwhip/person/13081",
+        "removed": false
+      },
+      {
+        "name": "Rachel Hopkins MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4873",
+        "twfy_id": "uk.org.publicwhip/person/25809",
+        "removed": false
+      },
+      {
+        "name": "Rachael Maskell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4471",
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
+      },
+      {
+        "name": "Peter Lamb MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5345",
+        "twfy_id": "uk.org.publicwhip/person/26612",
+        "removed": false
+      },
+      {
+        "name": "Alex Easton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5262",
+        "twfy_id": "uk.org.publicwhip/person/13780",
+        "removed": false
+      },
+      {
+        "name": "Robin Swann MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5319",
+        "twfy_id": "uk.org.publicwhip/person/25141",
+        "removed": false
+      },
+      {
+        "name": "Valerie Vaz MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4076",
+        "twfy_id": "uk.org.publicwhip/person/24852",
+        "removed": false
+      },
+      {
+        "name": "Fabian Hamilton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "415",
+        "twfy_id": "uk.org.publicwhip/person/10256",
+        "removed": false
+      },
+      {
+        "name": "Chris Law MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4403",
+        "twfy_id": "uk.org.publicwhip/person/25270",
+        "removed": false
+      },
+      {
+        "name": "David Mundell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1512",
+        "twfy_id": "uk.org.publicwhip/person/11970",
+        "removed": false
+      },
+      {
+        "name": "Jamie Stone MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4612",
+        "twfy_id": "uk.org.publicwhip/person/25668",
+        "removed": false
+      },
+      {
+        "name": "Brian Mathew MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5214",
+        "twfy_id": "uk.org.publicwhip/person/26509",
+        "removed": false
+      },
+      {
+        "name": "Douglas McAllister MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5057",
+        "twfy_id": "uk.org.publicwhip/person/26334",
+        "removed": false
+      },
+      {
+        "name": "Danny Chambers MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5304",
+        "twfy_id": "uk.org.publicwhip/person/26607",
+        "removed": false
+      },
+      {
+        "name": "Helen Morgan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4934",
+        "twfy_id": "uk.org.publicwhip/person/26056",
+        "removed": false
+      },
+      {
+        "name": "Dave Robertson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5126",
+        "twfy_id": "uk.org.publicwhip/person/26374",
+        "removed": false
+      },
+      {
+        "name": "Ayoub Khan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5357",
+        "twfy_id": "uk.org.publicwhip/person/26631",
+        "removed": false
+      },
+      {
+        "name": "Jessica Toale MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5202",
+        "twfy_id": "uk.org.publicwhip/person/26567",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Jim Shannon MP",

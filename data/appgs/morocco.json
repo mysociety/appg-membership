@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Dr Andrew Murrison",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/11132",
+      "mnis_id": "1466",
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Fabian Hamilton",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10256",
+      "mnis_id": "415",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Joe Powell",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26477",
+      "mnis_id": "5229",
       "removed": false
     },
     {
@@ -38,10 +38,195 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Andrew Murrison MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1466",
+        "twfy_id": "uk.org.publicwhip/person/11132",
+        "removed": false
+      },
+      {
+        "name": "Fabian Hamilton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "415",
+        "twfy_id": "uk.org.publicwhip/person/10256",
+        "removed": false
+      },
+      {
+        "name": "Martin Vickers MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3957",
+        "twfy_id": "uk.org.publicwhip/person/24814",
+        "removed": false
+      },
+      {
+        "name": "Lord Purvis (Lib Dem)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Bellingham (Con)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Afzal Khan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4671",
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
+      },
+      {
+        "name": "Bambos Charalambous MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4610",
+        "twfy_id": "uk.org.publicwhip/person/25676",
+        "removed": false
+      },
+      {
+        "name": "Lord Brennan (Lab)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Mendelsohn (Lab)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Goudie (Lab)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Udny-Lister (Con)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bill Esterson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4061",
+        "twfy_id": "uk.org.publicwhip/person/24905",
+        "removed": false
+      },
+      {
+        "name": "Lord Goddard of Stockport (Lib Dem), Vice-chair",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "14.Joe Powell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5229",
+        "twfy_id": "uk.org.publicwhip/person/26477",
+        "removed": false
+      },
+      {
+        "name": "Lord Polak (Con)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Walney (Crossbench, prev. Lab)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "17.Mark Garnier MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4074",
+        "twfy_id": "uk.org.publicwhip/person/24824",
+        "removed": false
+      },
+      {
+        "name": "Baroness Uddin (Lab)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Preet Kaur Gill MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4603",
+        "twfy_id": "uk.org.publicwhip/person/25666",
+        "removed": false
+      },
+      {
+        "name": "Andrew Rosindell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1447",
+        "twfy_id": "uk.org.publicwhip/person/11199",
+        "removed": false
+      },
+      {
+        "name": "Lord Anderson of Swansea (Lab)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "22.Charlie Dewhirst MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5169",
+        "twfy_id": "uk.org.publicwhip/person/26461",
+        "removed": false
+      },
+      {
+        "name": "Baroness Prentis (Con)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Dr Andrew Murrison MP",

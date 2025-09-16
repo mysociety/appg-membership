@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Wendy Morton",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25342",
+      "mnis_id": "4358",
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Laurence Turner",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26517",
+      "mnis_id": "5234",
       "removed": false
     },
     {
@@ -32,16 +32,225 @@
       "role": "Vice Chair",
       "name": "Saqib Bhatti",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25847",
+      "mnis_id": "4818",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Wendy Morton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4358",
+        "twfy_id": "uk.org.publicwhip/person/25342",
+        "removed": false
+      },
+      {
+        "name": "Lord Foulkes",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "579",
+        "twfy_id": "uk.org.publicwhip/person/10211",
+        "removed": false
+      },
+      {
+        "name": "Lord Balfe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4302",
+        "twfy_id": "uk.org.publicwhip/person/25209",
+        "removed": false
+      },
+      {
+        "name": "Alex Sobel MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4658",
+        "twfy_id": "uk.org.publicwhip/person/25680",
+        "removed": false
+      },
+      {
+        "name": "James Asser MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5211",
+        "twfy_id": "uk.org.publicwhip/person/26594",
+        "removed": false
+      },
+      {
+        "name": "Lord Alton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "738",
+        "twfy_id": "uk.org.publicwhip/person/13103",
+        "removed": false
+      },
+      {
+        "name": "Lord Austin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1511",
+        "twfy_id": "uk.org.publicwhip/person/11553",
+        "removed": false
+      },
+      {
+        "name": "Martin Vickers MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3957",
+        "twfy_id": "uk.org.publicwhip/person/24814",
+        "removed": false
+      },
+      {
+        "name": "Fabian Hamilton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "415",
+        "twfy_id": "uk.org.publicwhip/person/10256",
+        "removed": false
+      },
+      {
+        "name": "Mark Garnier OBE MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4074",
+        "twfy_id": "uk.org.publicwhip/person/24824",
+        "removed": false
+      },
+      {
+        "name": "Gareth Snell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4595",
+        "twfy_id": "uk.org.publicwhip/person/25601",
+        "removed": false
+      },
+      {
+        "name": "Laurence Turner MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5234",
+        "twfy_id": "uk.org.publicwhip/person/26517",
+        "removed": false
+      },
+      {
+        "name": "Blair McDougall MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5076",
+        "twfy_id": "uk.org.publicwhip/person/26490",
+        "removed": false
+      },
+      {
+        "name": "Lord Randall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "209",
+        "twfy_id": "uk.org.publicwhip/person/10660",
+        "removed": false
+      },
+      {
+        "name": "Lord Peach",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4975",
+        "twfy_id": "uk.org.publicwhip/person/26117",
+        "removed": false
+      },
+      {
+        "name": "Saqib Bhatti MBE MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4818",
+        "twfy_id": "uk.org.publicwhip/person/25847",
+        "removed": false
+      },
+      {
+        "name": "Pamela Nash MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3909",
+        "twfy_id": "uk.org.publicwhip/person/24737",
+        "removed": false
+      },
+      {
+        "name": "Graham Stuart MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1482",
+        "twfy_id": "uk.org.publicwhip/person/11406",
+        "removed": false
+      },
+      {
+        "name": "Paul Holmes MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4803",
+        "twfy_id": "uk.org.publicwhip/person/25808",
+        "removed": false
+      },
+      {
+        "name": "Mark Pritchard MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1576",
+        "twfy_id": "uk.org.publicwhip/person/11946",
+        "removed": false
+      },
+      {
+        "name": "Stephen Gethins MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4434",
+        "twfy_id": "uk.org.publicwhip/person/25324",
+        "removed": false
+      },
+      {
+        "name": "David Mundell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1512",
+        "twfy_id": "uk.org.publicwhip/person/11970",
+        "removed": false
+      },
+      {
+        "name": "Dame Caroline Dinenage MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4008",
+        "twfy_id": "uk.org.publicwhip/person/24873",
+        "removed": false
+      },
+      {
+        "name": "Joe Morris MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5081",
+        "twfy_id": "uk.org.publicwhip/person/26468",
+        "removed": false
+      },
+      {
+        "name": "Johanna Baxter MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5063",
+        "twfy_id": "uk.org.publicwhip/person/26375",
+        "removed": false
+      },
+      {
+        "name": "Mark Ferguson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5031",
+        "twfy_id": "uk.org.publicwhip/person/26310",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Wendy Morton MP",

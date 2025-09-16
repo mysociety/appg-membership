@@ -8,40 +8,51 @@
       "role": "Chair & Registered Contact",
       "name": "James Naish",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26329",
+      "mnis_id": "5047",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Rosie Wrighting",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26615",
+      "mnis_id": "5331",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jonathan Davies",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26557",
+      "mnis_id": "5256",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord McLoughlin",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10397",
+      "mnis_id": "333",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
-    "source_url": [],
-    "last_updated": "2025-04-28",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://www.emcouncils.gov.uk/about/our-boards/east-midlands-appg/"
+    ],
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "James Naish",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5047",
+        "twfy_id": "uk.org.publicwhip/person/26329",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "James Naish MP",

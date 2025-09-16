@@ -8,16 +8,16 @@
       "role": "Chair & Registered Contact",
       "name": "Dr Ben Spencer",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25889",
+      "mnis_id": "4785",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Anna Gelderd",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26618",
+      "mnis_id": "5353",
       "removed": false
     },
     {
@@ -32,16 +32,233 @@
       "role": "Officer",
       "name": "Lord Beith",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10034",
+      "mnis_id": "513",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Ben Spencer MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4785",
+        "twfy_id": "uk.org.publicwhip/person/25889",
+        "removed": false
+      },
+      {
+        "name": "Anna Gelderd MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5353",
+        "twfy_id": "uk.org.publicwhip/person/26618",
+        "removed": false
+      },
+      {
+        "name": "Anne Mcintosh",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "384",
+        "twfy_id": "uk.org.publicwhip/person/10389",
+        "removed": false
+      },
+      {
+        "name": "Lord Beith",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "513",
+        "twfy_id": "uk.org.publicwhip/person/10034",
+        "removed": false
+      },
+      {
+        "name": "Josh Babarinde MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5086",
+        "twfy_id": "uk.org.publicwhip/person/26353",
+        "removed": false
+      },
+      {
+        "name": "Lord Balfe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4302",
+        "twfy_id": "uk.org.publicwhip/person/25209",
+        "removed": false
+      },
+      {
+        "name": "Lord Brookeborough",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Markus Campbell Savours MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5124",
+        "twfy_id": "uk.org.publicwhip/person/26485",
+        "removed": false
+      },
+      {
+        "name": "Torcuil Chrichton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5246",
+        "twfy_id": "uk.org.publicwhip/person/26500",
+        "removed": false
+      },
+      {
+        "name": "Gareth Davies MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4850",
+        "twfy_id": "uk.org.publicwhip/person/25858",
+        "removed": false
+      },
+      {
+        "name": "Baroness D'Souza",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3709",
+        "twfy_id": "uk.org.publicwhip/person/13444",
+        "removed": false
+      },
+      {
+        "name": "Lord Frost",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4879",
+        "twfy_id": "uk.org.publicwhip/person/25943",
+        "removed": false
+      },
+      {
+        "name": "Fabian Hamilton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "415",
+        "twfy_id": "uk.org.publicwhip/person/10256",
+        "removed": false
+      },
+      {
+        "name": "Lord Hamilton of Epsom",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Richard Holden MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4813",
+        "twfy_id": "uk.org.publicwhip/person/25893",
+        "removed": false
+      },
+      {
+        "name": "Noah Law MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5302",
+        "twfy_id": "uk.org.publicwhip/person/26513",
+        "removed": false
+      },
+      {
+        "name": "Lord Mendoza",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4890",
+        "twfy_id": "uk.org.publicwhip/person/25952",
+        "removed": false
+      },
+      {
+        "name": "Lord Mountevans",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4539",
+        "twfy_id": "uk.org.publicwhip/person/25462",
+        "removed": false
+      },
+      {
+        "name": "Lord Reay",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4713",
+        "twfy_id": "uk.org.publicwhip/person/25744",
+        "removed": false
+      },
+      {
+        "name": "David Reed",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5347",
+        "twfy_id": "uk.org.publicwhip/person/26628",
+        "removed": false
+      },
+      {
+        "name": "Lord Robathan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "334",
+        "twfy_id": "uk.org.publicwhip/person/10503",
+        "removed": false
+      },
+      {
+        "name": "Lord Rooker",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "302",
+        "twfy_id": "uk.org.publicwhip/person/10511",
+        "removed": false
+      },
+      {
+        "name": "Liz Saville Roberts MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4521",
+        "twfy_id": "uk.org.publicwhip/person/25302",
+        "removed": false
+      },
+      {
+        "name": "Alec Shelbrooke MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3997",
+        "twfy_id": "uk.org.publicwhip/person/24893",
+        "removed": false
+      },
+      {
+        "name": "Baroness Smith of Llanfaes",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Stuart",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "296",
+        "twfy_id": "uk.org.publicwhip/person/10577",
+        "removed": false
+      },
+      {
+        "name": "John Whittingdale MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "39",
+        "twfy_id": "uk.org.publicwhip/person/10632",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Dr Ben Spencer MP",

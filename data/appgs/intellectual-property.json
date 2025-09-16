@@ -8,40 +8,227 @@
       "role": "Chair & Registered Contact",
       "name": "Sir John Whittingdale",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10632",
+      "mnis_id": "39",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Pete Wishart",
       "party": "Scottish National Party",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/11333",
+      "mnis_id": "1440",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Ruth Jones",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25746",
+      "mnis_id": "4716",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Clement-Jones",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13517",
+      "mnis_id": "3396",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
-    "source_url": [],
-    "last_updated": "2025-04-28",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://www.allpartyipgroup.org.uk/activeMembers.html"
+    ],
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "John Whittingdale",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "39",
+        "twfy_id": "uk.org.publicwhip/person/10632",
+        "removed": false
+      },
+      {
+        "name": "Pete Wishart",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1440",
+        "twfy_id": "uk.org.publicwhip/person/11333",
+        "removed": false
+      },
+      {
+        "name": "Ruth Jones",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4716",
+        "twfy_id": "uk.org.publicwhip/person/25746",
+        "removed": false
+      },
+      {
+        "name": "Lord Clement-Jones",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "3396",
+        "twfy_id": "uk.org.publicwhip/person/13517",
+        "removed": false
+      },
+      {
+        "name": "Sarah Olney",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4591",
+        "twfy_id": "uk.org.publicwhip/person/25596",
+        "removed": false
+      },
+      {
+        "name": "Lord Foster",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "214",
+        "twfy_id": "uk.org.publicwhip/person/10208",
+        "removed": false
+      },
+      {
+        "name": "Lord Freyberg",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2593",
+        "twfy_id": "uk.org.publicwhip/person/13308",
+        "removed": false
+      },
+      {
+        "name": "Earl of Devon",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Stevenson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4175",
+        "twfy_id": "uk.org.publicwhip/person/24999",
+        "removed": false
+      },
+      {
+        "name": "Baroness Bonham-Carter",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
+        "removed": false
+      },
+      {
+        "name": "Lord Lucas",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1879",
+        "twfy_id": "uk.org.publicwhip/person/13301",
+        "removed": false
+      },
+      {
+        "name": "Viscount Waverley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1744",
+        "twfy_id": "uk.org.publicwhip/person/12899",
+        "removed": false
+      },
+      {
+        "name": "Lord Razzall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3275",
+        "twfy_id": "uk.org.publicwhip/person/13244",
+        "removed": false
+      },
+      {
+        "name": "The Earl of Clancarty",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Lansley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "123",
+        "twfy_id": "uk.org.publicwhip/person/10349",
+        "removed": false
+      },
+      {
+        "name": "Lord Black of Brentwood",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Neville-Rolfe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4284",
+        "twfy_id": "uk.org.publicwhip/person/25205",
+        "removed": false
+      },
+      {
+        "name": "Lord McNally",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "919",
+        "twfy_id": "uk.org.publicwhip/person/13129",
+        "removed": false
+      },
+      {
+        "name": "Lord Wood",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4217",
+        "twfy_id": "uk.org.publicwhip/person/25044",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hooper",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2005",
+        "twfy_id": "uk.org.publicwhip/person/13081",
+        "removed": false
+      },
+      {
+        "name": "Baroness Bowles",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4562",
+        "twfy_id": "uk.org.publicwhip/person/25476",
+        "removed": false
+      },
+      {
+        "name": "Lord Brennan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1400",
+        "twfy_id": "uk.org.publicwhip/person/10753",
+        "removed": false
+      },
+      {
+        "name": "Alison Hume",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5254",
+        "twfy_id": "uk.org.publicwhip/person/26523",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Sir John Whittingdale MP",

@@ -8,40 +8,441 @@
       "role": "Chair & Registered Contact",
       "name": "Adam Jogee",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26541",
+      "mnis_id": "5168",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Colum Eastwood",
       "party": "Social Democratic & Labour Party",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25130",
+      "mnis_id": "4846",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Sarah Bool",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26635",
+      "mnis_id": "5355",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Berger",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/24924",
+      "mnis_id": "4036",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Adam Jogee MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5168",
+        "twfy_id": "uk.org.publicwhip/person/26541",
+        "removed": false
+      },
+      {
+        "name": "Baroness Berger",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4036",
+        "twfy_id": "uk.org.publicwhip/person/24924",
+        "removed": false
+      },
+      {
+        "name": "Baroness Coffey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4098",
+        "twfy_id": "uk.org.publicwhip/person/24771",
+        "removed": false
+      },
+      {
+        "name": "Baroness Doocey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4197",
+        "twfy_id": "uk.org.publicwhip/person/25033",
+        "removed": false
+      },
+      {
+        "name": "Baroness Harris of Richmond",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Healy of Primrose Hill",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Ludford",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1867",
+        "twfy_id": "uk.org.publicwhip/person/13299",
+        "removed": false
+      },
+      {
+        "name": "Baroness Nicholson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1164",
+        "twfy_id": "uk.org.publicwhip/person/13706",
+        "removed": false
+      },
+      {
+        "name": "Baroness O'Grady",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4977",
+        "twfy_id": "uk.org.publicwhip/person/26119",
+        "removed": false
+      },
+      {
+        "name": "Baroness Ritchie of Downpatrick",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Sue Gray",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Beccy Cooper MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5307",
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
+      },
+      {
+        "name": "Claire Hanna MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4827",
+        "twfy_id": "uk.org.publicwhip/person/25447",
+        "removed": false
+      },
+      {
+        "name": "Claire Hughes MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5113",
+        "twfy_id": "uk.org.publicwhip/person/26393",
+        "removed": false
+      },
+      {
+        "name": "Colum Eastwood MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4846",
+        "twfy_id": "uk.org.publicwhip/person/25130",
+        "removed": false
+      },
+      {
+        "name": "Damian Hinds MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3969",
+        "twfy_id": "uk.org.publicwhip/person/24782",
+        "removed": false
+      },
+      {
+        "name": "Danny Beales MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5339",
+        "twfy_id": "uk.org.publicwhip/person/26619",
+        "removed": false
+      },
+      {
+        "name": "Dave Doogan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4736",
+        "twfy_id": "uk.org.publicwhip/person/25796",
+        "removed": false
+      },
+      {
+        "name": "Deirdre Costigan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5075",
+        "twfy_id": "uk.org.publicwhip/person/26384",
+        "removed": false
+      },
+      {
+        "name": "Grahame Morris MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3973",
+        "twfy_id": "uk.org.publicwhip/person/24715",
+        "removed": false
+      },
+      {
+        "name": "Harriet Cross MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5311",
+        "twfy_id": "uk.org.publicwhip/person/26538",
+        "removed": false
+      },
+      {
+        "name": "Jo Platt MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4673",
+        "twfy_id": "uk.org.publicwhip/person/25611",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Karen Bradley MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4110",
+        "twfy_id": "uk.org.publicwhip/person/24725",
+        "removed": false
+      },
+      {
+        "name": "Katrina Murray MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5309",
+        "twfy_id": "uk.org.publicwhip/person/26494",
+        "removed": false
+      },
+      {
+        "name": "Liam Conlon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5132",
+        "twfy_id": "uk.org.publicwhip/person/26401",
+        "removed": false
+      },
+      {
+        "name": "Liz Jarvis MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5040",
+        "twfy_id": "uk.org.publicwhip/person/26325",
+        "removed": false
+      },
+      {
+        "name": "Lord (Bernard) Donoughue",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord (Kevin) Brennan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord (Tom) Watson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Brady",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "435",
+        "twfy_id": "uk.org.publicwhip/person/10062",
+        "removed": false
+      },
+      {
+        "name": "Lord Dobbs",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4192",
+        "twfy_id": "uk.org.publicwhip/person/25024",
+        "removed": false
+      },
+      {
+        "name": "Lord Dubs",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "805",
+        "twfy_id": "uk.org.publicwhip/person/13000",
+        "removed": false
+      },
+      {
+        "name": "Lord Hendy KC",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Murphy of Torfaen",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Randall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "209",
+        "twfy_id": "uk.org.publicwhip/person/10660",
+        "removed": false
+      },
+      {
+        "name": "Lord Stevenson of Balmacara",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mary Kelly Foy MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4753",
+        "twfy_id": "uk.org.publicwhip/person/25833",
+        "removed": false
+      },
+      {
+        "name": "Michael Payne MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5146",
+        "twfy_id": "uk.org.publicwhip/person/26408",
+        "removed": false
+      },
+      {
+        "name": "Nia Griffith MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1541",
+        "twfy_id": "uk.org.publicwhip/person/11692",
+        "removed": false
+      },
+      {
+        "name": "Rachel Hopkins MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4873",
+        "twfy_id": "uk.org.publicwhip/person/25809",
+        "removed": false
+      },
+      {
+        "name": "Rupa Huq MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4511",
+        "twfy_id": "uk.org.publicwhip/person/25284",
+        "removed": false
+      },
+      {
+        "name": "Samantha Niblett MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5150",
+        "twfy_id": "uk.org.publicwhip/person/26414",
+        "removed": false
+      },
+      {
+        "name": "Sarah Bool MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5355",
+        "twfy_id": "uk.org.publicwhip/person/26635",
+        "removed": false
+      },
+      {
+        "name": "Sarah Coombes MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5088",
+        "twfy_id": "uk.org.publicwhip/person/26452",
+        "removed": false
+      },
+      {
+        "name": "Seamus Logan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5280",
+        "twfy_id": "uk.org.publicwhip/person/26534",
+        "removed": false
+      },
+      {
+        "name": "Sorcha Eastwood MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5125",
+        "twfy_id": "uk.org.publicwhip/person/26071",
+        "removed": false
+      },
+      {
+        "name": "Tan Dhesi MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4638",
+        "twfy_id": "uk.org.publicwhip/person/25695",
+        "removed": false
+      },
+      {
+        "name": "Tim Roca MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5287",
+        "twfy_id": "uk.org.publicwhip/person/26549",
+        "removed": false
+      },
+      {
+        "name": "Tonia Antoniazzi MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4623",
+        "twfy_id": "uk.org.publicwhip/person/25634",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Adam Jogee MP",

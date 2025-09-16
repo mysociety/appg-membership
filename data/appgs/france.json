@@ -8,40 +8,217 @@
       "role": "Chair & Registered Contact",
       "name": "Ben Lake",
       "party": "Plaid Cymru",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25669",
+      "mnis_id": "4630",
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Janke",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25252",
+      "mnis_id": "4337",
       "removed": false
     },
     {
       "role": "Secretary",
       "name": "Lord Touhig",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10600",
+      "mnis_id": "542",
       "removed": false
     },
     {
       "role": "Treasurer",
       "name": "Sir Edward Leigh",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10352",
+      "mnis_id": "345",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Ben Lake MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4630",
+        "twfy_id": "uk.org.publicwhip/person/25669",
+        "removed": false
+      },
+      {
+        "name": "Baroness Janke (Co-chair)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Touhig (Secretary)",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sir Edward Leigh MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "345",
+        "twfy_id": "uk.org.publicwhip/person/10352",
+        "removed": false
+      },
+      {
+        "name": "Lord Murphy",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "546",
+        "twfy_id": "uk.org.publicwhip/person/10454",
+        "removed": false
+      },
+      {
+        "name": "Chris Murray MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5245",
+        "twfy_id": "uk.org.publicwhip/person/26611",
+        "removed": false
+      },
+      {
+        "name": "Ben Coleman MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5344",
+        "twfy_id": "uk.org.publicwhip/person/26602",
+        "removed": false
+      },
+      {
+        "name": "Simon Hoare MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4494",
+        "twfy_id": "uk.org.publicwhip/person/25427",
+        "removed": false
+      },
+      {
+        "name": "Baroness Goudie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3575",
+        "twfy_id": "uk.org.publicwhip/person/12915",
+        "removed": false
+      },
+      {
+        "name": "Lord Faulkner",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2472",
+        "twfy_id": "uk.org.publicwhip/person/12847",
+        "removed": false
+      },
+      {
+        "name": "Stephen Gethins MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4434",
+        "twfy_id": "uk.org.publicwhip/person/25324",
+        "removed": false
+      },
+      {
+        "name": "Stephen Flynn MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4735",
+        "twfy_id": "uk.org.publicwhip/person/25867",
+        "removed": false
+      },
+      {
+        "name": "Lord Watson of Invergowrie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Haskel",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2665",
+        "twfy_id": "uk.org.publicwhip/person/13499",
+        "removed": false
+      },
+      {
+        "name": "Tonia Antoniazzi MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4623",
+        "twfy_id": "uk.org.publicwhip/person/25634",
+        "removed": false
+      },
+      {
+        "name": "Nesil Caliskan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5180",
+        "twfy_id": "uk.org.publicwhip/person/26474",
+        "removed": false
+      },
+      {
+        "name": "Baroness Prentis",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4401",
+        "twfy_id": "uk.org.publicwhip/person/25420",
+        "removed": false
+      },
+      {
+        "name": "Baroness Keeley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1588",
+        "twfy_id": "uk.org.publicwhip/person/11943",
+        "removed": false
+      },
+      {
+        "name": "Lord Young of Norwood",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Thornton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1782",
+        "twfy_id": "uk.org.publicwhip/person/13543",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hughes of Stretford",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Griffiths of Burry Port",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Ben Lake MP",

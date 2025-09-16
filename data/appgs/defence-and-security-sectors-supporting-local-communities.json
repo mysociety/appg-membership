@@ -8,40 +8,193 @@
       "role": "Chair & Registered Contact",
       "name": "Alex Baker",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26444",
+      "mnis_id": "5173",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Michelle Scrogham",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26322",
+      "mnis_id": "5049",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Graeme Downie",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26503",
+      "mnis_id": "5275",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Viscount Trenchard",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13177",
+      "mnis_id": "1829",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Ms Alex Baker MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5173",
+        "twfy_id": "uk.org.publicwhip/person/26444",
+        "removed": false
+      },
+      {
+        "name": "Ms Michelle Scrogham MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5049",
+        "twfy_id": "uk.org.publicwhip/person/26322",
+        "removed": false
+      },
+      {
+        "name": "Ms Sharon Hodgson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
+      },
+      {
+        "name": "Dr Neil Shastri-Hurst MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5197",
+        "twfy_id": "uk.org.publicwhip/person/26437",
+        "removed": false
+      },
+      {
+        "name": "Mr Kevin Bonavia MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5051",
+        "twfy_id": "uk.org.publicwhip/person/26330",
+        "removed": false
+      },
+      {
+        "name": "The Lord Mountevans",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4539",
+        "twfy_id": "uk.org.publicwhip/person/25462",
+        "removed": false
+      },
+      {
+        "name": "Mr Tan Dhesi MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4638",
+        "twfy_id": "uk.org.publicwhip/person/25695",
+        "removed": false
+      },
+      {
+        "name": "Sir Bernard Jenkin MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "40",
+        "twfy_id": "uk.org.publicwhip/person/10312",
+        "removed": false
+      },
+      {
+        "name": "Mr Graeme Downie MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5275",
+        "twfy_id": "uk.org.publicwhip/person/26503",
+        "removed": false
+      },
+      {
+        "name": "Mr Phil Brickell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5128",
+        "twfy_id": "uk.org.publicwhip/person/26368",
+        "removed": false
+      },
+      {
+        "name": "Dame Caroline Dinenage MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4008",
+        "twfy_id": "uk.org.publicwhip/person/24873",
+        "removed": false
+      },
+      {
+        "name": "Ms Vikki Slade MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582",
+        "removed": false
+      },
+      {
+        "name": "Ms Helen Maguire MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5336",
+        "twfy_id": "uk.org.publicwhip/person/26627",
+        "removed": false
+      },
+      {
+        "name": "Mr John Cooper MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5358",
+        "twfy_id": "uk.org.publicwhip/person/26634",
+        "removed": false
+      },
+      {
+        "name": "The Lord Trenchard",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ms Lauren Edwards MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5298",
+        "twfy_id": "uk.org.publicwhip/person/26597",
+        "removed": false
+      },
+      {
+        "name": "Mr Luke Akehurst MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5112",
+        "twfy_id": "uk.org.publicwhip/person/26420",
+        "removed": false
+      },
+      {
+        "name": "Mr Ben Obese-Jecty MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5089",
+        "twfy_id": "uk.org.publicwhip/person/26354",
+        "removed": false
+      },
+      {
+        "name": "Sir Julian Lewis MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "54",
+        "twfy_id": "uk.org.publicwhip/person/10358",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Alex Baker MP",

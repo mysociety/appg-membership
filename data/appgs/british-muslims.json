@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "Sarah Owen",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25823",
+      "mnis_id": "4777",
       "removed": false
     },
     {
       "role": "Co-Chair",
       "name": "Baroness Warsi",
       "party": "Non-affiliated",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13937",
+      "mnis_id": "3839",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Afzal Khan",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25662",
+      "mnis_id": "4671",
       "removed": false
     },
     {
@@ -38,10 +38,429 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
-    "source_url": [],
-    "last_updated": "2025-04-28",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://appgbritishmuslims.org/members"
+    ],
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Sarah Owen",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4777",
+        "twfy_id": "uk.org.publicwhip/person/25823",
+        "removed": false
+      },
+      {
+        "name": "Afzal Khan",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4671",
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
+      },
+      {
+        "name": "The Rt Hon. Baroness Warsi",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "3839",
+        "twfy_id": "uk.org.publicwhip/person/13937",
+        "removed": false
+      },
+      {
+        "name": "Baroness Patricia Morris",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Fabian Hamilton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "415",
+        "twfy_id": "uk.org.publicwhip/person/10256",
+        "removed": false
+      },
+      {
+        "name": "Shockat Adam",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5120",
+        "twfy_id": "uk.org.publicwhip/person/26364",
+        "removed": false
+      },
+      {
+        "name": "Apsana Begum",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4790",
+        "twfy_id": "uk.org.publicwhip/person/25914",
+        "removed": false
+      },
+      {
+        "name": "Jeremy Corbyn",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "185",
+        "twfy_id": "uk.org.publicwhip/person/10133",
+        "removed": false
+      },
+      {
+        "name": "Rosie Duffield",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4616",
+        "twfy_id": "uk.org.publicwhip/person/25656",
+        "removed": false
+      },
+      {
+        "name": "Andrew Gwynne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1506",
+        "twfy_id": "uk.org.publicwhip/person/11531",
+        "removed": false
+      },
+      {
+        "name": "Adnan Hussain",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5231",
+        "twfy_id": "uk.org.publicwhip/person/26595",
+        "removed": false
+      },
+      {
+        "name": "Ayoub Khan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5357",
+        "twfy_id": "uk.org.publicwhip/person/26631",
+        "removed": false
+      },
+      {
+        "name": "David Pinto-Duschinsky",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5360",
+        "twfy_id": "uk.org.publicwhip/person/26632",
+        "removed": false
+      },
+      {
+        "name": "Iqbal Mohamed",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5268",
+        "twfy_id": "uk.org.publicwhip/person/26620",
+        "removed": false
+      },
+      {
+        "name": "Deirdre Costigan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5075",
+        "twfy_id": "uk.org.publicwhip/person/26384",
+        "removed": false
+      },
+      {
+        "name": "Oliver Ryan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5135",
+        "twfy_id": "uk.org.publicwhip/person/26381",
+        "removed": false
+      },
+      {
+        "name": "Anneliese Dodds",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4657",
+        "twfy_id": "uk.org.publicwhip/person/25618",
+        "removed": false
+      },
+      {
+        "name": "Zarah Sultana",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4786",
+        "twfy_id": "uk.org.publicwhip/person/25909",
+        "removed": false
+      },
+      {
+        "name": "Dawn Butler",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1489",
+        "twfy_id": "uk.org.publicwhip/person/11447",
+        "removed": false
+      },
+      {
+        "name": "Dr Zubir Ahmed",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5213",
+        "twfy_id": "uk.org.publicwhip/person/26483",
+        "removed": false
+      },
+      {
+        "name": "Sadik Al-Hassan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5312",
+        "twfy_id": "uk.org.publicwhip/person/26527",
+        "removed": false
+      },
+      {
+        "name": "Rushanara Ali",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4138",
+        "twfy_id": "uk.org.publicwhip/person/24958",
+        "removed": false
+      },
+      {
+        "name": "Tahir Ali",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4747",
+        "twfy_id": "uk.org.publicwhip/person/25888",
+        "removed": false
+      },
+      {
+        "name": "Dr Rosena Allin-Khan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4573",
+        "twfy_id": "uk.org.publicwhip/person/25579",
+        "removed": false
+      },
+      {
+        "name": "Jess Asato",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5156",
+        "twfy_id": "uk.org.publicwhip/person/26386",
+        "removed": false
+      },
+      {
+        "name": "James Asser",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5211",
+        "twfy_id": "uk.org.publicwhip/person/26594",
+        "removed": false
+      },
+      {
+        "name": "Jas Athwal",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5227",
+        "twfy_id": "uk.org.publicwhip/person/26439",
+        "removed": false
+      },
+      {
+        "name": "Nesil Caliskan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5180",
+        "twfy_id": "uk.org.publicwhip/person/26474",
+        "removed": false
+      },
+      {
+        "name": "Marsha De Cordova",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4676",
+        "twfy_id": "uk.org.publicwhip/person/25620",
+        "removed": false
+      },
+      {
+        "name": "Tan Dhesi",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4638",
+        "twfy_id": "uk.org.publicwhip/person/25695",
+        "removed": false
+      },
+      {
+        "name": "Georgia Gould",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5305",
+        "twfy_id": "uk.org.publicwhip/person/26528",
+        "removed": false
+      },
+      {
+        "name": "Rachel Hopkins",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4873",
+        "twfy_id": "uk.org.publicwhip/person/25809",
+        "removed": false
+      },
+      {
+        "name": "Dr Rupa Huq",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4511",
+        "twfy_id": "uk.org.publicwhip/person/25284",
+        "removed": false
+      },
+      {
+        "name": "Imran Hussain",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4394",
+        "twfy_id": "uk.org.publicwhip/person/25375",
+        "removed": false
+      },
+      {
+        "name": "Gurinder Singh Josan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5059",
+        "twfy_id": "uk.org.publicwhip/person/26348",
+        "removed": false
+      },
+      {
+        "name": "Naushabah Khan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5215",
+        "twfy_id": "uk.org.publicwhip/person/26562",
+        "removed": false
+      },
+      {
+        "name": "Abtisam Mohamed",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5142",
+        "twfy_id": "uk.org.publicwhip/person/26413",
+        "removed": false
+      },
+      {
+        "name": "Yasmin Qureshi",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3924",
+        "twfy_id": "uk.org.publicwhip/person/24775",
+        "removed": false
+      },
+      {
+        "name": "Naz Shah",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4409",
+        "twfy_id": "uk.org.publicwhip/person/25385",
+        "removed": false
+      },
+      {
+        "name": "Valerie Vaz",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4076",
+        "twfy_id": "uk.org.publicwhip/person/24852",
+        "removed": false
+      },
+      {
+        "name": "Mohammad Yasin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4598",
+        "twfy_id": "uk.org.publicwhip/person/25649",
+        "removed": false
+      },
+      {
+        "name": "Andrew Pakes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5243",
+        "twfy_id": "uk.org.publicwhip/person/26601",
+        "removed": false
+      },
+      {
+        "name": "Danny Beales",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5339",
+        "twfy_id": "uk.org.publicwhip/person/26619",
+        "removed": false
+      },
+      {
+        "name": "Kim Leadbeater",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4923",
+        "twfy_id": "uk.org.publicwhip/person/26040",
+        "removed": false
+      },
+      {
+        "name": "Tulip Siddiq",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4518",
+        "twfy_id": "uk.org.publicwhip/person/25344",
+        "removed": false
+      },
+      {
+        "name": "Catherine Fookes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5291",
+        "twfy_id": "uk.org.publicwhip/person/26510",
+        "removed": false
+      },
+      {
+        "name": "James Naish",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5047",
+        "twfy_id": "uk.org.publicwhip/person/26329",
+        "removed": false
+      },
+      {
+        "name": "Baroness Shaista Gohir",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Qurban Hussain",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Tariq Ahmed",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Barbara Janke",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Hussein-Ece",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4164",
+        "twfy_id": "uk.org.publicwhip/person/24983",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Sarah Owen MP",

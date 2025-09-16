@@ -456,6 +456,10 @@ def appg_title_to_slug(title: str) -> str:
     Returns:
         Slug format
     """
+
+    if title == "first-do-no-harm---mesh-primodos-valproate":
+        return title
+
     # Remove common prefixes
     title_clean = title
     prefixes_to_remove = [
@@ -476,10 +480,7 @@ def appg_title_to_slug(title: str) -> str:
             break
 
     # Remove common suffixes
-    suffixes_to_remove = [
-        "All-Party Parliamentary Group",
-        "APPG",
-    ]
+    suffixes_to_remove = ["All-Party Parliamentary Group", "APPG", "APPG:"]
 
     for suffix in suffixes_to_remove:
         if title_clean.endswith(suffix):
@@ -622,7 +623,7 @@ def update_appg_membership(
         appg = APPG.load(appg_slug)
 
         # Only update if current source is empty or manual
-        if appg.members_list.source_method not in ["empty", "manual"]:
+        if appg.members_list.source_method not in ["empty", "manual", "not_found"]:
             console.print(
                 f"[yellow]⚠ Skipping {appg_slug}: already has {appg.members_list.source_method} data[/yellow]"
             )

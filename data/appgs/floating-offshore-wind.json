@@ -8,40 +8,233 @@
       "role": "Chair & Registered Contact",
       "name": "Tracy Gilbert",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26526",
+      "mnis_id": "5188",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Perran Moon",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26482",
+      "mnis_id": "5208",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Jayne Kirkham",
       "party": "Labour (Co-op)",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26525",
+      "mnis_id": "5279",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Ashcombe",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26100",
+      "mnis_id": "4957",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Baroness Bloomfield of Hinton Waldrist",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Cameron of Dillington",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Ashcombe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4957",
+        "twfy_id": "uk.org.publicwhip/person/26100",
+        "removed": false
+      },
+      {
+        "name": "Dave Doogan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4736",
+        "twfy_id": "uk.org.publicwhip/person/25796",
+        "removed": false
+      },
+      {
+        "name": "Wera Hobhouse MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4602",
+        "twfy_id": "uk.org.publicwhip/person/25648",
+        "removed": false
+      },
+      {
+        "name": "Baroness Ritchie of Downpatrick",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Moynihan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "924",
+        "twfy_id": "uk.org.publicwhip/person/13042",
+        "removed": false
+      },
+      {
+        "name": "Stephen Kinnock MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4359",
+        "twfy_id": "uk.org.publicwhip/person/25297",
+        "removed": false
+      },
+      {
+        "name": "Hywel Williams MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1397",
+        "twfy_id": "uk.org.publicwhip/person/11323",
+        "removed": false
+      },
+      {
+        "name": "Bill Esterson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4061",
+        "twfy_id": "uk.org.publicwhip/person/24905",
+        "removed": false
+      },
+      {
+        "name": "Karin Smyth MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4444",
+        "twfy_id": "uk.org.publicwhip/person/25390",
+        "removed": false
+      },
+      {
+        "name": "Martin Rhodes MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5251",
+        "twfy_id": "uk.org.publicwhip/person/26575",
+        "removed": false
+      },
+      {
+        "name": "John Nicolson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4415",
+        "twfy_id": "uk.org.publicwhip/person/25281",
+        "removed": false
+      },
+      {
+        "name": "Aline Macdonald MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5133",
+        "twfy_id": "uk.org.publicwhip/person/26450",
+        "removed": false
+      },
+      {
+        "name": "Henry Tufnell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5121",
+        "twfy_id": "uk.org.publicwhip/person/26387",
+        "removed": false
+      },
+      {
+        "name": "Richard Baker MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5253",
+        "twfy_id": "uk.org.publicwhip/person/13952",
+        "removed": false
+      },
+      {
+        "name": "Jamie Halcro MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Keirnan Murray MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Foysol Khan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sarah Wadsworth MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Melanie Onn MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4464",
+        "twfy_id": "uk.org.publicwhip/person/25317",
+        "removed": false
+      },
+      {
+        "name": "Daniel Hoban MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Renewable UK",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tracey Crouch MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3950",
+        "twfy_id": "uk.org.publicwhip/person/24871",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Tracy Gilbert MP",

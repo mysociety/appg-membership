@@ -8,40 +8,145 @@
       "role": "Chair & Registered Contact",
       "name": "Amanda Martin",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26430",
+      "mnis_id": "5294",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Martin Vickers",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/24814",
+      "mnis_id": "3957",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Wendy Morton",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25342",
+      "mnis_id": "4358",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Dr Al Pinkerton",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26593",
+      "mnis_id": "5288",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Amanda Martin (Chair),",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5294",
+        "twfy_id": "uk.org.publicwhip/person/26430",
+        "removed": false
+      },
+      {
+        "name": "Wendy Morton,",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4358",
+        "twfy_id": "uk.org.publicwhip/person/25342",
+        "removed": false
+      },
+      {
+        "name": "Al Pinkerton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5288",
+        "twfy_id": "uk.org.publicwhip/person/26593",
+        "removed": false
+      },
+      {
+        "name": "Martin Vickers",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3957",
+        "twfy_id": "uk.org.publicwhip/person/24814",
+        "removed": false
+      },
+      {
+        "name": "Lord West of Spithead",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Rogan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2478",
+        "twfy_id": "uk.org.publicwhip/person/13330",
+        "removed": false
+      },
+      {
+        "name": "Baroness Butler Schloss",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Hooper",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2005",
+        "twfy_id": "uk.org.publicwhip/person/13081",
+        "removed": false
+      },
+      {
+        "name": "Lord Hannay of Chiswick",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bob Neal MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Robin Swann MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5319",
+        "twfy_id": "uk.org.publicwhip/person/25141",
+        "removed": false
+      },
+      {
+        "name": "Sharon Hodgson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
+      },
+      {
+        "name": "Sammy Wilson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1593",
+        "twfy_id": "uk.org.publicwhip/person/11374",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Amanda Martin MP",

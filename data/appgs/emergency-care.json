@@ -8,40 +8,225 @@
       "role": "Chair & Registered Contact",
       "name": "Dr Rosena Allin-Khan",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25579",
+      "mnis_id": "4573",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Sir Jeremy Hunt",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/11859",
+      "mnis_id": "1572",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Wera Hobhouse",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25648",
+      "mnis_id": "4602",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Peter Prinsley",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26383",
+      "mnis_id": "5163",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Rosena Allin-Khan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4573",
+        "twfy_id": "uk.org.publicwhip/person/25579",
+        "removed": false
+      },
+      {
+        "name": "Jeremy Hunt MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1572",
+        "twfy_id": "uk.org.publicwhip/person/11859",
+        "removed": false
+      },
+      {
+        "name": "Wera Hobhouse MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4602",
+        "twfy_id": "uk.org.publicwhip/person/25648",
+        "removed": false
+      },
+      {
+        "name": "Peter Prinsley MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5163",
+        "twfy_id": "uk.org.publicwhip/person/26383",
+        "removed": false
+      },
+      {
+        "name": "Paulette Hamilton MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4938",
+        "twfy_id": "uk.org.publicwhip/person/26061",
+        "removed": false
+      },
+      {
+        "name": "Sadik Al-Hassan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5312",
+        "twfy_id": "uk.org.publicwhip/person/26527",
+        "removed": false
+      },
+      {
+        "name": "Valerie Vaz MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4076",
+        "twfy_id": "uk.org.publicwhip/person/24852",
+        "removed": false
+      },
+      {
+        "name": "Ayoub Khan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5357",
+        "twfy_id": "uk.org.publicwhip/person/26631",
+        "removed": false
+      },
+      {
+        "name": "Shockat Adam MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5120",
+        "twfy_id": "uk.org.publicwhip/person/26364",
+        "removed": false
+      },
+      {
+        "name": "Rosie Duffield MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4616",
+        "twfy_id": "uk.org.publicwhip/person/25656",
+        "removed": false
+      },
+      {
+        "name": "Dawn Butler MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1489",
+        "twfy_id": "uk.org.publicwhip/person/11447",
+        "removed": false
+      },
+      {
+        "name": "Sharon Hodgeson MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
+      },
+      {
+        "name": "Bambos Charalambos MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4610",
+        "twfy_id": "uk.org.publicwhip/person/25676",
+        "removed": false
+      },
+      {
+        "name": "Simon Opher MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5030",
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
+      },
+      {
+        "name": "Rachel Maskell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4471",
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
+      },
+      {
+        "name": "Beccy Cooper MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5307",
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
+      },
+      {
+        "name": "Cat Eccles MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5293",
+        "twfy_id": "uk.org.publicwhip/person/26587",
+        "removed": false
+      },
+      {
+        "name": "Lord McNicol of West Kilbride",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Yasmin Qureshi MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3924",
+        "twfy_id": "uk.org.publicwhip/person/24775",
+        "removed": false
+      },
+      {
+        "name": "Jayne Kirkham MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5279",
+        "twfy_id": "uk.org.publicwhip/person/26525",
+        "removed": false
+      },
+      {
+        "name": "Irene Campbell MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5145",
+        "twfy_id": "uk.org.publicwhip/person/26419",
+        "removed": false
+      },
+      {
+        "name": "Baroness Watkins of Tavistock",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Uddin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1827",
+        "twfy_id": "uk.org.publicwhip/person/13274",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Dr Rosena Allin-Khan MP",

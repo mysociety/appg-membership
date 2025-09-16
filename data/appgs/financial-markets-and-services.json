@@ -8,24 +8,24 @@
       "role": "Chair & Registered Contact",
       "name": "David Pinto-Duschinsky",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26632",
+      "mnis_id": "5360",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lauren Edwards",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26597",
+      "mnis_id": "5298",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Viscount Trenchard",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13177",
+      "mnis_id": "1829",
       "removed": false
     },
     {
@@ -38,10 +38,211 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-09-16",
+    "members": [
+      {
+        "name": "Mr David Pinto-Duschinsky \\- Chair",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5360",
+        "twfy_id": "uk.org.publicwhip/person/26632",
+        "removed": false
+      },
+      {
+        "name": "Ms Lauren Edwards \\- Officer",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Viscount Trenchard \\- Officer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Sharpe of Epsom \\- Officer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mr Noah Law",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5302",
+        "twfy_id": "uk.org.publicwhip/person/26513",
+        "removed": false
+      },
+      {
+        "name": "Mr Callum Anderson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5193",
+        "twfy_id": "uk.org.publicwhip/person/26380",
+        "removed": false
+      },
+      {
+        "name": "Lord Mountevans",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4539",
+        "twfy_id": "uk.org.publicwhip/person/25462",
+        "removed": false
+      },
+      {
+        "name": "Lord Naseby",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1251",
+        "twfy_id": "uk.org.publicwhip/person/13704",
+        "removed": false
+      },
+      {
+        "name": "Mr David Burton-Sampson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5106",
+        "twfy_id": "uk.org.publicwhip/person/26442",
+        "removed": false
+      },
+      {
+        "name": "Lord Donoughue",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2709",
+        "twfy_id": "uk.org.publicwhip/person/13651",
+        "removed": false
+      },
+      {
+        "name": "Mr Steve Darling",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5066",
+        "twfy_id": "uk.org.publicwhip/person/26349",
+        "removed": false
+      },
+      {
+        "name": "Lord Davies of Brixton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ms Anna Gelderd",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5353",
+        "twfy_id": "uk.org.publicwhip/person/26618",
+        "removed": false
+      },
+      {
+        "name": "Ms Margaret Mullane",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5272",
+        "twfy_id": "uk.org.publicwhip/person/26495",
+        "removed": false
+      },
+      {
+        "name": "Mr Gregor Poynton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5167",
+        "twfy_id": "uk.org.publicwhip/person/26428",
+        "removed": false
+      },
+      {
+        "name": "Lord Sharkey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4196",
+        "twfy_id": "uk.org.publicwhip/person/25022",
+        "removed": false
+      },
+      {
+        "name": "Mr Tim Roca",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5287",
+        "twfy_id": "uk.org.publicwhip/person/26549",
+        "removed": false
+      },
+      {
+        "name": "Mr Tanmanjeet Singh Dhesi",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4638",
+        "twfy_id": "uk.org.publicwhip/person/25695",
+        "removed": false
+      },
+      {
+        "name": "Mr James Asser",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5211",
+        "twfy_id": "uk.org.publicwhip/person/26594",
+        "removed": false
+      },
+      {
+        "name": "Ms Polly Billington",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5123",
+        "twfy_id": "uk.org.publicwhip/person/26360",
+        "removed": false
+      },
+      {
+        "name": "Mr Dan Tomlinson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5282",
+        "twfy_id": "uk.org.publicwhip/person/26502",
+        "removed": false
+      },
+      {
+        "name": "Mr Henry Tufnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5121",
+        "twfy_id": "uk.org.publicwhip/person/26387",
+        "removed": false
+      },
+      {
+        "name": "Ms Joani Reid",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5079",
+        "twfy_id": "uk.org.publicwhip/person/26418",
+        "removed": false
+      },
+      {
+        "name": "Ms Rachel Blake",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5257",
+        "twfy_id": "uk.org.publicwhip/person/26546",
+        "removed": false
+      },
+      {
+        "name": "Baroness JoJo Penn",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "David Pinto-Duschinsky MP",
