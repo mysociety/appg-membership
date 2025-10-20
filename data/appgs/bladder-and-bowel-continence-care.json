@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.appgcontinence.org.uk/"
     ],
-    "last_updated": "2025-06-19",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Jodie Gosling",
@@ -58,7 +58,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Watson",
@@ -66,7 +66,7 @@
         "member_type": "lord",
         "mnis_id": "1463",
         "twfy_id": "uk.org.publicwhip/person/11309",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Cat Eccles",
@@ -74,6 +74,22 @@
         "member_type": "mp",
         "mnis_id": "5293",
         "twfy_id": "uk.org.publicwhip/person/26587",
+        "removed": false
+      },
+      {
+        "name": "Dundee",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Watson",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

@@ -40,10 +40,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.pcosappg.co.uk/about",
-      "https://www.pcosappg.co.uk/news"
+      "https://www.pcosappg.co.uk/about"
     ],
-    "last_updated": "2025-06-19",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Michelle Welsh",
@@ -83,7 +82,7 @@
         "member_type": "mp",
         "mnis_id": "5177",
         "twfy_id": "uk.org.publicwhip/person/26359",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jess Brown-Fuller",
@@ -91,7 +90,7 @@
         "member_type": "mp",
         "mnis_id": "5335",
         "twfy_id": "uk.org.publicwhip/person/26372",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Marie Goldman",
@@ -99,7 +98,7 @@
         "member_type": "mp",
         "mnis_id": "5073",
         "twfy_id": "uk.org.publicwhip/person/26338",
-        "removed": false
+        "removed": true
       }
     ]
   },

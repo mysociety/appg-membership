@@ -42,7 +42,7 @@
     "source_url": [
       "https://allianceofsport.org/our-work-article/the-all-party-parliamentary-group-appg-on-sport-and-physical-activity-in-the-criminal-justice-system/"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Clive Efford",
@@ -82,7 +82,7 @@
         "member_type": "lord",
         "mnis_id": "919",
         "twfy_id": "uk.org.publicwhip/person/13129",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Addington",
@@ -114,7 +114,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Moynihan",
@@ -138,7 +138,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord McColl of Dulwhich",
@@ -198,6 +198,30 @@
       },
       {
         "name": "Lord Hastings of Scarisbrick",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord McNally",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "919",
+        "twfy_id": "uk.org.publicwhip/person/13129",
+        "removed": false
+      },
+      {
+        "name": "Baroness Grey-Thompson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3862",
+        "twfy_id": "uk.org.publicwhip/person/24707",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hodgson of Abinger",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,

@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.musiceducationappg.org/about-the-appg.html"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Bambos Charalambous",
@@ -98,7 +98,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Simon Opher",
@@ -114,6 +114,134 @@
         "member_type": "mp",
         "mnis_id": "5127",
         "twfy_id": "uk.org.publicwhip/person/26564",
+        "removed": false
+      },
+      {
+        "name": "Lord Aberdare",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3898",
+        "twfy_id": "uk.org.publicwhip/person/24696",
+        "removed": false
+      },
+      {
+        "name": "Baroness Bennett of Castle Manor",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Boateng",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "147",
+        "twfy_id": "uk.org.publicwhip/person/10052",
+        "removed": false
+      },
+      {
+        "name": "Baroness Bonham Carter",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jess Brown-Fuller",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5335",
+        "twfy_id": "uk.org.publicwhip/person/26372",
+        "removed": false
+      },
+      {
+        "name": "The Earl of Clancarty",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Finlay",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3609",
+        "twfy_id": "uk.org.publicwhip/person/13471",
+        "removed": false
+      },
+      {
+        "name": "Baroness Fleet",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4889",
+        "twfy_id": "uk.org.publicwhip/person/25951",
+        "removed": false
+      },
+      {
+        "name": "Lord Foster of Bath",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Zoe Franklin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5313",
+        "twfy_id": "uk.org.publicwhip/person/26555",
+        "removed": false
+      },
+      {
+        "name": "Sharon Hodgson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
+      },
+      {
+        "name": "Sir Bernard Jenkin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "40",
+        "twfy_id": "uk.org.publicwhip/person/10312",
+        "removed": false
+      },
+      {
+        "name": "Rachael Maskell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4471",
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Lord Watson of Invergowrie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Whitaker",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2510",
+        "twfy_id": "uk.org.publicwhip/person/12957",
         "removed": false
       }
     ]

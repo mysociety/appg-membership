@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.womenintransport.com/appg"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Elsie Blundell",
@@ -66,7 +66,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness (Caroline) Pidgeon",
@@ -74,6 +74,22 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Daniel Moylan",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Caroline Pidgeon",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "None",
+        "twfy_id": "uk.org.publicwhip/person/25765",
         "removed": false
       }
     ]

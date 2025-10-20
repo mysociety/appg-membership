@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.childrensonlinesafetyappg.org/about"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Gregor Poynton",
@@ -218,7 +218,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Josh MacAlister",
@@ -226,7 +226,7 @@
         "member_type": "mp",
         "mnis_id": "5033",
         "twfy_id": "uk.org.publicwhip/person/26321",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alice Macdonald",
@@ -234,7 +234,7 @@
         "member_type": "mp",
         "mnis_id": "5133",
         "twfy_id": "uk.org.publicwhip/person/26450",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lola McEvoy",
@@ -242,7 +242,7 @@
         "member_type": "mp",
         "mnis_id": "5037",
         "twfy_id": "uk.org.publicwhip/person/26315",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Samantha Niblett",
@@ -250,7 +250,7 @@
         "member_type": "mp",
         "mnis_id": "5150",
         "twfy_id": "uk.org.publicwhip/person/26414",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Julie Minns",
@@ -258,7 +258,7 @@
         "member_type": "mp",
         "mnis_id": "5094",
         "twfy_id": "uk.org.publicwhip/person/26403",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jon Pearce",
@@ -266,7 +266,7 @@
         "member_type": "mp",
         "mnis_id": "5115",
         "twfy_id": "uk.org.publicwhip/person/26362",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Steve Race",
@@ -274,7 +274,7 @@
         "member_type": "mp",
         "mnis_id": "5064",
         "twfy_id": "uk.org.publicwhip/person/26345",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Joani Reid",
@@ -282,7 +282,7 @@
         "member_type": "mp",
         "mnis_id": "5079",
         "twfy_id": "uk.org.publicwhip/person/26418",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Vikki Slade",
@@ -290,7 +290,7 @@
         "member_type": "mp",
         "mnis_id": "5327",
         "twfy_id": "uk.org.publicwhip/person/26582",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dan Tomlinson",
@@ -298,7 +298,7 @@
         "member_type": "mp",
         "mnis_id": "5282",
         "twfy_id": "uk.org.publicwhip/person/26502",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Freddie Van Mierlo",
@@ -306,7 +306,7 @@
         "member_type": "mp",
         "mnis_id": "5296",
         "twfy_id": "uk.org.publicwhip/person/26540",
-        "removed": false
+        "removed": true
       },
       {
         "name": "David Williams",
@@ -314,6 +314,22 @@
         "member_type": "mp",
         "mnis_id": "5151",
         "twfy_id": "uk.org.publicwhip/person/26397",
+        "removed": true
+      },
+      {
+        "name": "Baroness Luciana Berger",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4036",
+        "twfy_id": "uk.org.publicwhip/person/24924",
+        "removed": false
+      },
+      {
+        "name": "Baroness Beban Kidron",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

@@ -42,7 +42,7 @@
     "source_url": [
       "https://appgdarkskies.co.uk/ourmembers"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Baron Rees of Ludlow",
@@ -74,7 +74,7 @@
         "member_type": "mp",
         "mnis_id": "4813",
         "twfy_id": "uk.org.publicwhip/person/25893",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jerome Mayhew",
@@ -90,7 +90,7 @@
         "member_type": "mp",
         "mnis_id": "4623",
         "twfy_id": "uk.org.publicwhip/person/25634",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lady Bakewell of Hardington Mandeville",
@@ -114,7 +114,7 @@
         "member_type": "lord",
         "mnis_id": "3577",
         "twfy_id": "uk.org.publicwhip/person/13570",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Viscount Hanworth",
@@ -122,7 +122,7 @@
         "member_type": "lord",
         "mnis_id": "2648",
         "twfy_id": "uk.org.publicwhip/person/25071",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sir Iain Duncan Smith",
@@ -130,7 +130,7 @@
         "member_type": "mp",
         "mnis_id": "152",
         "twfy_id": "uk.org.publicwhip/person/10180",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ben Lake",
@@ -138,7 +138,7 @@
         "member_type": "mp",
         "mnis_id": "4630",
         "twfy_id": "uk.org.publicwhip/person/25669",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rt Hon David Mundell",
@@ -146,7 +146,7 @@
         "member_type": "mp",
         "mnis_id": "1512",
         "twfy_id": "uk.org.publicwhip/person/11970",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tim Farron",
@@ -162,7 +162,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Rennard",
@@ -170,7 +170,7 @@
         "member_type": "lord",
         "mnis_id": "2484",
         "twfy_id": "uk.org.publicwhip/person/13277",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Greg Smith",
@@ -178,7 +178,7 @@
         "member_type": "mp",
         "mnis_id": "4778",
         "twfy_id": "uk.org.publicwhip/person/25925",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Taylor of Holbeach CBE",
@@ -186,7 +186,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Vaux of Harrowden",
@@ -194,7 +194,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon John Whittingdale OBE",
@@ -202,7 +202,7 @@
         "member_type": "mp",
         "mnis_id": "39",
         "twfy_id": "uk.org.publicwhip/person/10632",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rt Hon John Whittingdale OBE",
@@ -210,7 +210,7 @@
         "member_type": "mp",
         "mnis_id": "39",
         "twfy_id": "uk.org.publicwhip/person/10632",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Martin John Rees, Baron Rees of Ludlow",
@@ -218,6 +218,174 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Andrew Griffith",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4874",
+        "twfy_id": "uk.org.publicwhip/person/25927",
+        "removed": false
+      },
+      {
+        "name": "David Mundell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1512",
+        "twfy_id": "uk.org.publicwhip/person/11970",
+        "removed": false
+      },
+      {
+        "name": "Peter Fortune",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5209",
+        "twfy_id": "uk.org.publicwhip/person/26027",
+        "removed": false
+      },
+      {
+        "name": "Ben Spencer",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4785",
+        "twfy_id": "uk.org.publicwhip/person/25889",
+        "removed": false
+      },
+      {
+        "name": "Josh Newbury",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5034",
+        "twfy_id": "uk.org.publicwhip/person/26317",
+        "removed": false
+      },
+      {
+        "name": "Sarah Dyke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4995",
+        "twfy_id": "uk.org.publicwhip/person/26270",
+        "removed": false
+      },
+      {
+        "name": "Julie Minns",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5094",
+        "twfy_id": "uk.org.publicwhip/person/26403",
+        "removed": false
+      },
+      {
+        "name": "Andrew Rosindell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1447",
+        "twfy_id": "uk.org.publicwhip/person/11199",
+        "removed": false
+      },
+      {
+        "name": "Tim Roca",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5287",
+        "twfy_id": "uk.org.publicwhip/person/26549",
+        "removed": false
+      },
+      {
+        "name": "Sarah Gibson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5239",
+        "twfy_id": "uk.org.publicwhip/person/26585",
+        "removed": false
+      },
+      {
+        "name": "David Chadwick",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5284",
+        "twfy_id": "uk.org.publicwhip/person/26518",
+        "removed": false
+      },
+      {
+        "name": "Ian Sollom",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5096",
+        "twfy_id": "uk.org.publicwhip/person/26457",
+        "removed": false
+      },
+      {
+        "name": "Cat Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4436",
+        "twfy_id": "uk.org.publicwhip/person/25432",
+        "removed": false
+      },
+      {
+        "name": "Vikki Slade",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582",
+        "removed": false
+      },
+      {
+        "name": "Sir John Hayes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "350",
+        "twfy_id": "uk.org.publicwhip/person/10265",
+        "removed": false
+      },
+      {
+        "name": "Alicia Kearns",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4805",
+        "twfy_id": "uk.org.publicwhip/person/25906",
+        "removed": false
+      },
+      {
+        "name": "Lord Taylor of Holbeach",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Bennett of Manor Castle",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Evans of Bowes Park",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Earl of Courtown",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Rt Hon John McDonnell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
         "removed": false
       }
     ]

@@ -40,9 +40,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://obesityappg.com/"
+      "https://obesityappg.com/about"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Mary Glindon",
@@ -114,7 +114,7 @@
         "member_type": "lord",
         "mnis_id": "4229",
         "twfy_id": "uk.org.publicwhip/person/25064",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Walmsley",
@@ -218,6 +218,38 @@
         "member_type": "lord",
         "mnis_id": "4130",
         "twfy_id": "uk.org.publicwhip/person/13856",
+        "removed": true
+      },
+      {
+        "name": "Baroness Jenkin of Kennington",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jim Dickson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5223",
+        "twfy_id": "uk.org.publicwhip/person/26547",
+        "removed": false
+      },
+      {
+        "name": "Danny Beales",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5339",
+        "twfy_id": "uk.org.publicwhip/person/26619",
+        "removed": false
+      },
+      {
+        "name": "John Glenn",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4051",
+        "twfy_id": "uk.org.publicwhip/person/24839",
         "removed": false
       }
     ]

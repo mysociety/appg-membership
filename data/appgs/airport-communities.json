@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.airportcommunities.co.uk/"
     ],
-    "last_updated": "2025-06-19",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Ruth Cadbury",
@@ -58,7 +58,7 @@
         "member_type": "mp",
         "mnis_id": "178",
         "twfy_id": "uk.org.publicwhip/person/10383",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Steve Tuckwell",
@@ -66,7 +66,7 @@
         "member_type": "mp",
         "mnis_id": "4994",
         "twfy_id": "uk.org.publicwhip/person/26269",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Munira Wilson",
@@ -82,7 +82,7 @@
         "member_type": "mp",
         "mnis_id": "1586",
         "twfy_id": "uk.org.publicwhip/person/11929",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Fleur Anderson",
@@ -90,7 +90,7 @@
         "member_type": "mp",
         "mnis_id": "4788",
         "twfy_id": "uk.org.publicwhip/person/25813",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bob Blackman",
@@ -106,7 +106,7 @@
         "member_type": "mp",
         "mnis_id": "4067",
         "twfy_id": "uk.org.publicwhip/person/24901",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Karen Buck",
@@ -114,7 +114,7 @@
         "member_type": "mp",
         "mnis_id": "199",
         "twfy_id": "uk.org.publicwhip/person/10075",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Daisy Cooper",
@@ -122,7 +122,7 @@
         "member_type": "mp",
         "mnis_id": "4769",
         "twfy_id": "uk.org.publicwhip/person/25901",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tan Dhesi",
@@ -138,7 +138,7 @@
         "member_type": "mp",
         "mnis_id": "4832",
         "twfy_id": "uk.org.publicwhip/person/25859",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Stephen Hammond",
@@ -146,7 +146,7 @@
         "member_type": "mp",
         "mnis_id": "1585",
         "twfy_id": "uk.org.publicwhip/person/11927",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Sally Hamwee",
@@ -178,7 +178,7 @@
         "member_type": "mp",
         "mnis_id": "4253",
         "twfy_id": "uk.org.publicwhip/person/25150",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Joy Morrisey",
@@ -186,7 +186,7 @@
         "member_type": "mp",
         "mnis_id": "4759",
         "twfy_id": "uk.org.publicwhip/person/25878",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sarah Olney",
@@ -218,7 +218,7 @@
         "member_type": "mp",
         "mnis_id": "4767",
         "twfy_id": "uk.org.publicwhip/person/25860",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Jo Valentine",
@@ -234,6 +234,166 @@
         "member_type": "mp",
         "mnis_id": "1500",
         "twfy_id": "uk.org.publicwhip/person/11500",
+        "removed": true
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Lord Randall of Uxbridge",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Blower",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4724",
+        "twfy_id": "uk.org.publicwhip/person/25777",
+        "removed": false
+      },
+      {
+        "name": "Sadik Al Hassan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5312",
+        "twfy_id": "uk.org.publicwhip/person/26527",
+        "removed": false
+      },
+      {
+        "name": "Sian Berry",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5314",
+        "twfy_id": "uk.org.publicwhip/person/25752",
+        "removed": false
+      },
+      {
+        "name": "Ben Coleman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5344",
+        "twfy_id": "uk.org.publicwhip/person/26602",
+        "removed": false
+      },
+      {
+        "name": "Victoria Collins",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5201",
+        "twfy_id": "uk.org.publicwhip/person/26539",
+        "removed": false
+      },
+      {
+        "name": "Lord Bryn Davies",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mims Davies",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4513",
+        "twfy_id": "uk.org.publicwhip/person/25330",
+        "removed": false
+      },
+      {
+        "name": "Josh Dean",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5187",
+        "twfy_id": "uk.org.publicwhip/person/26456",
+        "removed": false
+      },
+      {
+        "name": "Amanda Hack",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5149",
+        "twfy_id": "uk.org.publicwhip/person/26449",
+        "removed": false
+      },
+      {
+        "name": "Rachel Hopkins",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4873",
+        "twfy_id": "uk.org.publicwhip/person/25809",
+        "removed": false
+      },
+      {
+        "name": "Paul Kohler",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5321",
+        "twfy_id": "uk.org.publicwhip/person/26570",
+        "removed": false
+      },
+      {
+        "name": "Peter Lamb",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5345",
+        "twfy_id": "uk.org.publicwhip/person/26612",
+        "removed": false
+      },
+      {
+        "name": "Douglas McAllister",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5057",
+        "twfy_id": "uk.org.publicwhip/person/26334",
+        "removed": false
+      },
+      {
+        "name": "John Milne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5329",
+        "twfy_id": "uk.org.publicwhip/person/26624",
+        "removed": false
+      },
+      {
+        "name": "Darren Paffey",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5270",
+        "twfy_id": "uk.org.publicwhip/person/26431",
+        "removed": false
+      },
+      {
+        "name": "Baroness Caroline Pidgeon",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "None",
+        "twfy_id": "uk.org.publicwhip/person/25765",
+        "removed": false
+      },
+      {
+        "name": "Gregor Poyntor",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5167",
+        "twfy_id": "uk.org.publicwhip/person/26428",
+        "removed": false
+      },
+      {
+        "name": "Jack Rankin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5340",
+        "twfy_id": "uk.org.publicwhip/person/26622",
         "removed": false
       }
     ]

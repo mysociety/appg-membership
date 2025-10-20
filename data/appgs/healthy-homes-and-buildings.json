@@ -34,7 +34,7 @@
     "source_url": [
       "https://healthyhomesbuildings.org.uk/who-we-are/"
     ],
-    "last_updated": "2025-04-29",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Jim Shannon",
@@ -50,7 +50,7 @@
         "member_type": "lord",
         "mnis_id": "43",
         "twfy_id": "uk.org.publicwhip/person/10263",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jenny Riddell-Carpenter",
@@ -226,6 +226,14 @@
         "member_type": "mp",
         "mnis_id": "5316",
         "twfy_id": "uk.org.publicwhip/person/26630",
+        "removed": false
+      },
+      {
+        "name": "Lord Bethell",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4708",
+        "twfy_id": "uk.org.publicwhip/person/25740",
         "removed": false
       }
     ]

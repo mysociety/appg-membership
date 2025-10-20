@@ -42,7 +42,7 @@
     "source_url": [
       "https://appgmalariantds.org.uk/officers-appg-malaria-and-neglected-tropical-diseases"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Dr Lauren Sullivan",
@@ -50,7 +50,7 @@
         "member_type": "mp",
         "mnis_id": "5269",
         "twfy_id": "uk.org.publicwhip/person/26435",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Trees",
@@ -90,7 +90,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Wendy Chamberlain",
@@ -114,7 +114,7 @@
         "member_type": "mp",
         "mnis_id": "5307",
         "twfy_id": "uk.org.publicwhip/person/26515",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Fabian Hamilton",
@@ -138,7 +138,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon the Baroness Hayman",
@@ -146,7 +146,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon the Lord McConnell of Glenscorrodale",
@@ -154,7 +154,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon Wendy Morton",
@@ -162,7 +162,7 @@
         "member_type": "mp",
         "mnis_id": "4358",
         "twfy_id": "uk.org.publicwhip/person/25342",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon the Baroness Northover",
@@ -170,7 +170,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Oates",
@@ -178,7 +178,7 @@
         "member_type": "lord",
         "mnis_id": "4549",
         "twfy_id": "uk.org.publicwhip/person/25464",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bell Ribeiro-Addy",
@@ -194,7 +194,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jim Shannon",
@@ -210,7 +210,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Stone of Blackheath",
@@ -218,7 +218,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Baroness Sugg",
@@ -226,6 +226,110 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Lauren Sullivan",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5269",
+        "twfy_id": "uk.org.publicwhip/person/26435",
+        "removed": false
+      },
+      {
+        "name": "Lord Browne of Ladyton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Beccy Cooper",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5307",
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
+      },
+      {
+        "name": "Baroness Finlay of Llandaff",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Hayman",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1649",
+        "twfy_id": "uk.org.publicwhip/person/13495",
+        "removed": false
+      },
+      {
+        "name": "Lord McConnell of Glenscorrodale",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Wendy Morton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4358",
+        "twfy_id": "uk.org.publicwhip/person/25342",
+        "removed": false
+      },
+      {
+        "name": "Baroness Northover",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2539",
+        "twfy_id": "uk.org.publicwhip/person/13434",
+        "removed": false
+      },
+      {
+        "name": "Lord Oates",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4549",
+        "twfy_id": "uk.org.publicwhip/person/25464",
+        "removed": false
+      },
+      {
+        "name": "Baroness Ritchie of Downpatrick",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Sheehan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4548",
+        "twfy_id": "uk.org.publicwhip/person/25460",
+        "removed": false
+      },
+      {
+        "name": "Lord Stone of Blackheath",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Sugg",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4584",
+        "twfy_id": "uk.org.publicwhip/person/25586",
         "removed": false
       }
     ]

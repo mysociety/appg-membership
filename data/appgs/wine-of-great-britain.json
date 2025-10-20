@@ -42,7 +42,7 @@
     "source_url": [
       "https://winegb.co.uk/politics/appg-2/"
     ],
-    "last_updated": "2025-09-16",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Andrew Griffith",
@@ -242,7 +242,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mims Davies",
@@ -258,7 +258,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Noah Law",
@@ -306,6 +306,22 @@
         "member_type": "mp",
         "mnis_id": "1521",
         "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
+      },
+      {
+        "name": "Lord Dominic Johnson of Lainston",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Natalie Evans of Bowes Park",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

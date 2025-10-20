@@ -42,7 +42,7 @@
     "source_url": [
       "https://appgentrepreneurship.org/"
     ],
-    "last_updated": "2025-06-19",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Tris Osborne",
@@ -274,6 +274,14 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lewis Cocking",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5050",
+        "twfy_id": "uk.org.publicwhip/person/26316",
         "removed": false
       }
     ]

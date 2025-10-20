@@ -38,45 +38,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.ukhospitality.org.uk/work/all-party-parliamentary-group-for-hospitality-tourism/"
-    ],
-    "last_updated": "2025-04-28",
-    "members": [
-      {
-        "name": "Chris Webb",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5025",
-        "twfy_id": "uk.org.publicwhip/person/26305",
-        "removed": false
-      },
-      {
-        "name": "Damian Hinds",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "3969",
-        "twfy_id": "uk.org.publicwhip/person/24782",
-        "removed": false
-      },
-      {
-        "name": "Caroline Voaden",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5216",
-        "twfy_id": "uk.org.publicwhip/person/26511",
-        "removed": false
-      },
-      {
-        "name": "Dan Aldridge",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5172",
-        "twfy_id": "uk.org.publicwhip/person/26453",
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2025-10-20",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Chris Webb MP",

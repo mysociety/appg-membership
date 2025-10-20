@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.appg-explosive-threats.co.uk/about"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Helen Maguire",
@@ -218,7 +218,7 @@
         "member_type": "lord",
         "mnis_id": "302",
         "twfy_id": "uk.org.publicwhip/person/10511",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Calvin Bailey",
@@ -234,7 +234,7 @@
         "member_type": "mp",
         "mnis_id": "87",
         "twfy_id": "uk.org.publicwhip/person/10217",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Neil Shastri-Hurst",
@@ -258,6 +258,22 @@
         "member_type": "lord",
         "mnis_id": "5027",
         "twfy_id": "uk.org.publicwhip/person/26308",
+        "removed": false
+      },
+      {
+        "name": "The Lord Rooker",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "302",
+        "twfy_id": "uk.org.publicwhip/person/10511",
+        "removed": false
+      },
+      {
+        "name": "Sir Roger Gale",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "87",
+        "twfy_id": "uk.org.publicwhip/person/10217",
         "removed": false
       }
     ]

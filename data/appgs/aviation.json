@@ -40,9 +40,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://aviationappg.uk/about-us"
+      "https://aviationappg.uk/"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Tim Roca",
@@ -322,6 +322,14 @@
         "member_type": "mp",
         "mnis_id": "5047",
         "twfy_id": "uk.org.publicwhip/person/26329",
+        "removed": false
+      },
+      {
+        "name": "Steve Darling",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5066",
+        "twfy_id": "uk.org.publicwhip/person/26349",
         "removed": false
       }
     ]

@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.parentkind.org.uk/research-and-policy/education-policy/policy-in-england/all-party-parliamentary-group-for-england"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Sharon Hodgson",
@@ -74,7 +74,7 @@
         "member_type": "lord",
         "mnis_id": "4174",
         "twfy_id": "uk.org.publicwhip/person/25001",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Blower",
@@ -218,7 +218,7 @@
         "member_type": "mp",
         "mnis_id": "5256",
         "twfy_id": "uk.org.publicwhip/person/26557",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Kirith Entwistle",
@@ -226,7 +226,7 @@
         "member_type": "mp",
         "mnis_id": "5095",
         "twfy_id": "uk.org.publicwhip/person/26378",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Laura Kyrke-Smith",
@@ -234,7 +234,7 @@
         "member_type": "mp",
         "mnis_id": "5341",
         "twfy_id": "uk.org.publicwhip/person/26629",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Hampton",
@@ -242,7 +242,7 @@
         "member_type": "lord",
         "mnis_id": "4951",
         "twfy_id": "uk.org.publicwhip/person/26096",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Lucas",
@@ -250,7 +250,7 @@
         "member_type": "lord",
         "mnis_id": "1879",
         "twfy_id": "uk.org.publicwhip/person/13301",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Storey",
@@ -258,7 +258,7 @@
         "member_type": "lord",
         "mnis_id": "4238",
         "twfy_id": "uk.org.publicwhip/person/25060",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Watson of Invergowrie",
@@ -266,7 +266,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Luke Charters",
@@ -274,7 +274,7 @@
         "member_type": "mp",
         "mnis_id": "5199",
         "twfy_id": "uk.org.publicwhip/person/26480",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Marie Goldman",
@@ -282,7 +282,7 @@
         "member_type": "mp",
         "mnis_id": "5073",
         "twfy_id": "uk.org.publicwhip/person/26338",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Matt Bishop",
@@ -290,7 +290,7 @@
         "member_type": "mp",
         "mnis_id": "5323",
         "twfy_id": "uk.org.publicwhip/person/26574",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Maya Ellis",
@@ -298,7 +298,7 @@
         "member_type": "mp",
         "mnis_id": "5228",
         "twfy_id": "uk.org.publicwhip/person/26479",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Michael Wheeler",
@@ -306,7 +306,7 @@
         "member_type": "mp",
         "mnis_id": "5242",
         "twfy_id": "uk.org.publicwhip/person/26551",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sam Rushworth",
@@ -314,7 +314,7 @@
         "member_type": "mp",
         "mnis_id": "5108",
         "twfy_id": "uk.org.publicwhip/person/26323",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sarah Smith",
@@ -322,7 +322,7 @@
         "member_type": "mp",
         "mnis_id": "5117",
         "twfy_id": "uk.org.publicwhip/person/26410",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tim Roca",
@@ -330,7 +330,7 @@
         "member_type": "mp",
         "mnis_id": "5287",
         "twfy_id": "uk.org.publicwhip/person/26549",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tristan Osborne",
@@ -338,7 +338,7 @@
         "member_type": "mp",
         "mnis_id": "5220",
         "twfy_id": "uk.org.publicwhip/person/26589",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Vikki Slade",
@@ -346,6 +346,14 @@
         "member_type": "mp",
         "mnis_id": "5327",
         "twfy_id": "uk.org.publicwhip/person/26582",
+        "removed": true
+      },
+      {
+        "name": "Baroness Stedman Scott",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

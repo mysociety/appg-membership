@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.londoncouncils.gov.uk/all-party-parliamentary-group-appg-london"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Florence Eshalomi",
@@ -74,7 +74,7 @@
         "member_type": "mp",
         "mnis_id": "5282",
         "twfy_id": "uk.org.publicwhip/person/26502",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Liam Conlon",
@@ -82,7 +82,7 @@
         "member_type": "mp",
         "mnis_id": "5132",
         "twfy_id": "uk.org.publicwhip/person/26401",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Tope CBE",
@@ -90,7 +90,7 @@
         "member_type": "lord",
         "mnis_id": "1703",
         "twfy_id": "uk.org.publicwhip/person/13542",
-        "removed": false
+        "removed": true
       },
       {
         "name": "David Simmonds",
@@ -170,7 +170,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Davies of Brixton",
@@ -266,6 +266,86 @@
         "member_type": "mp",
         "mnis_id": "5180",
         "twfy_id": "uk.org.publicwhip/person/26474",
+        "removed": false
+      },
+      {
+        "name": "Lord Tope",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1703",
+        "twfy_id": "uk.org.publicwhip/person/13542",
+        "removed": false
+      },
+      {
+        "name": "The Baroness Pidgeon",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Garden",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3842",
+        "twfy_id": "uk.org.publicwhip/person/13938",
+        "removed": false
+      },
+      {
+        "name": "Uma Kumaran",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5278",
+        "twfy_id": "uk.org.publicwhip/person/26542",
+        "removed": false
+      },
+      {
+        "name": "Lord Evans",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2766",
+        "twfy_id": "uk.org.publicwhip/person/12852",
+        "removed": false
+      },
+      {
+        "name": "Bobby Dean",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5083",
+        "twfy_id": "uk.org.publicwhip/person/26371",
+        "removed": false
+      },
+      {
+        "name": "Gareth Thomas",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "177",
+        "twfy_id": "uk.org.publicwhip/person/10594",
+        "removed": false
+      },
+      {
+        "name": "Bell Ribeiro Addy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4764",
+        "twfy_id": "uk.org.publicwhip/person/25856",
+        "removed": false
+      },
+      {
+        "name": "Lord Bailey of Paddington",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Luke Taylor",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5103",
+        "twfy_id": "uk.org.publicwhip/person/26443",
         "removed": false
       }
     ]

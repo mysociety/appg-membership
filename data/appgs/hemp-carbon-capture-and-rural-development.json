@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.tenaciouscarbon.com/appg"
     ],
-    "last_updated": "2025-05-08",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Bayo Alaba",
@@ -58,7 +58,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Richard Quigley",
@@ -74,6 +74,22 @@
         "member_type": "lord",
         "mnis_id": "334",
         "twfy_id": "uk.org.publicwhip/person/10503",
+        "removed": true
+      },
+      {
+        "name": "Benjy Mancroft",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Robathan",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

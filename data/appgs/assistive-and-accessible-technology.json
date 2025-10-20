@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.policyconnect.org.uk/appgat"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Josh Fenton-Glynn MP",
@@ -50,7 +50,7 @@
         "member_type": "mp",
         "mnis_id": "5295",
         "twfy_id": "uk.org.publicwhip/person/26545",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Shinkwin",
@@ -66,7 +66,7 @@
         "member_type": "mp",
         "mnis_id": "5312",
         "twfy_id": "uk.org.publicwhip/person/26527",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Low of Dalston",
@@ -82,7 +82,7 @@
         "member_type": "mp",
         "mnis_id": "5132",
         "twfy_id": "uk.org.publicwhip/person/26401",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Steffan Aquarone MP",
@@ -90,7 +90,7 @@
         "member_type": "mp",
         "mnis_id": "5164",
         "twfy_id": "uk.org.publicwhip/person/26491",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dame Caroline Dinenage",
@@ -98,7 +98,7 @@
         "member_type": "mp",
         "mnis_id": "4008",
         "twfy_id": "uk.org.publicwhip/person/24873",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Curran",
@@ -114,7 +114,7 @@
         "member_type": "mp",
         "mnis_id": "5298",
         "twfy_id": "uk.org.publicwhip/person/26597",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Steve Darling MP",
@@ -122,7 +122,7 @@
         "member_type": "mp",
         "mnis_id": "5066",
         "twfy_id": "uk.org.publicwhip/person/26349",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Darren Paffey MP",
@@ -130,7 +130,7 @@
         "member_type": "mp",
         "mnis_id": "5270",
         "twfy_id": "uk.org.publicwhip/person/26431",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Richard Baker MP",
@@ -138,7 +138,7 @@
         "member_type": "mp",
         "mnis_id": "5253",
         "twfy_id": "uk.org.publicwhip/person/13952",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Daniel Francis MP",
@@ -146,7 +146,7 @@
         "member_type": "mp",
         "mnis_id": "5184",
         "twfy_id": "uk.org.publicwhip/person/26493",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tristan Osborne MP",
@@ -154,7 +154,7 @@
         "member_type": "mp",
         "mnis_id": "5220",
         "twfy_id": "uk.org.publicwhip/person/26589",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Tanni Grey-Thompson",
@@ -170,7 +170,7 @@
         "member_type": "mp",
         "mnis_id": "4676",
         "twfy_id": "uk.org.publicwhip/person/25620",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord David Blunkett",
@@ -186,7 +186,7 @@
         "member_type": "mp",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sharon Hodgson, MP",
@@ -194,7 +194,7 @@
         "member_type": "mp",
         "mnis_id": "1521",
         "twfy_id": "uk.org.publicwhip/person/11592",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Paul Davies MP",
@@ -202,7 +202,7 @@
         "member_type": "mp",
         "mnis_id": "None",
         "twfy_id": "uk.org.publicwhip/person/26127",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Josh Fenton-Glynn",
@@ -314,6 +314,14 @@
         "member_type": "mp",
         "mnis_id": "None",
         "twfy_id": "uk.org.publicwhip/person/26127",
+        "removed": false
+      },
+      {
+        "name": "Caroline Dinenage",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "4008",
+        "twfy_id": "uk.org.publicwhip/person/24873",
         "removed": false
       }
     ]

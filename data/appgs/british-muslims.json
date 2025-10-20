@@ -42,7 +42,7 @@
     "source_url": [
       "https://appgbritishmuslims.org/members"
     ],
-    "last_updated": "2025-09-16",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Sarah Owen",
@@ -66,7 +66,7 @@
         "member_type": "lord",
         "mnis_id": "3839",
         "twfy_id": "uk.org.publicwhip/person/13937",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Patricia Morris",
@@ -458,6 +458,14 @@
         "member_type": "lord",
         "mnis_id": "4164",
         "twfy_id": "uk.org.publicwhip/person/24983",
+        "removed": false
+      },
+      {
+        "name": "Baroness Warsi",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "3839",
+        "twfy_id": "uk.org.publicwhip/person/13937",
         "removed": false
       }
     ]

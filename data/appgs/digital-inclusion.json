@@ -40,9 +40,11 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.datapovertyappg.co.uk/parliamentary-members"
+      "https://www.datapovertyappg.co.uk/parliamentary-members",
+      "https://www.datapovertyappg.co.uk/industry-partners",
+      "https://www.datapovertyappg.co.uk/campaign-partners"
     ],
-    "last_updated": "2025-04-29",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Daniel Aldridge",
@@ -74,7 +76,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jamie Stone",
@@ -224,6 +226,14 @@
         "name": "We Are Group",
         "is_officer": false,
         "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tim Clement-Jones",
+        "is_officer": true,
+        "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
         "removed": false

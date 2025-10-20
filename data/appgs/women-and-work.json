@@ -40,9 +40,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.womenandworkappg.co.uk/_files/ugd/d28465_4c84a605fa5f41399114d04cb8b3e918.pdf"
+      "https://www.womenandworkappg.co.uk/_files/ugd/d28465_7034b35107b043d28ef1667b57b05e44.pdf"
     ],
-    "last_updated": "2025-04-29",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Catherine Fookes",
@@ -50,7 +50,7 @@
         "member_type": "mp",
         "mnis_id": "5291",
         "twfy_id": "uk.org.publicwhip/person/26510",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Brady",
@@ -66,7 +66,7 @@
         "member_type": "mp",
         "mnis_id": "5095",
         "twfy_id": "uk.org.publicwhip/person/26378",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Uddin",
@@ -242,6 +242,14 @@
         "member_type": "mp",
         "mnis_id": "5071",
         "twfy_id": "uk.org.publicwhip/person/26319",
+        "removed": false
+      },
+      {
+        "name": "Kim Leadbeater",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4923",
+        "twfy_id": "uk.org.publicwhip/person/26040",
         "removed": false
       }
     ]

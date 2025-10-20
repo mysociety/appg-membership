@@ -42,7 +42,7 @@
     "source_url": [
       "https://householdsintemporaryaccommodation.co.uk/who-we-are/"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Siobhain McDonagh",
@@ -58,7 +58,7 @@
         "member_type": "mp",
         "mnis_id": "4396",
         "twfy_id": "uk.org.publicwhip/person/25368",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mims Davies",
@@ -74,7 +74,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Apsana Begum",
@@ -130,7 +130,7 @@
         "member_type": "other",
         "mnis_id": "5276",
         "twfy_id": "uk.org.publicwhip/person/26519",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Daniel Francis",
@@ -330,6 +330,78 @@
         "member_type": "other",
         "mnis_id": "5314",
         "twfy_id": "uk.org.publicwhip/person/25752",
+        "removed": false
+      },
+      {
+        "name": "Lord Lansley",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "123",
+        "twfy_id": "uk.org.publicwhip/person/10349",
+        "removed": false
+      },
+      {
+        "name": "Lord Balfe",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4302",
+        "twfy_id": "uk.org.publicwhip/person/25209",
+        "removed": false
+      },
+      {
+        "name": "Bishop of Manchester, David Walker",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Connor Rand",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5159",
+        "twfy_id": "uk.org.publicwhip/person/26473",
+        "removed": false
+      },
+      {
+        "name": "Lord Sahota",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4963",
+        "twfy_id": "uk.org.publicwhip/person/26106",
+        "removed": false
+      },
+      {
+        "name": "Maureen Burke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5137",
+        "twfy_id": "uk.org.publicwhip/person/26455",
+        "removed": false
+      },
+      {
+        "name": "Rebecca Long-Bailey",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4396",
+        "twfy_id": "uk.org.publicwhip/person/25368",
+        "removed": false
+      },
+      {
+        "name": "Tony Vaughan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5067",
+        "twfy_id": "uk.org.publicwhip/person/26346",
+        "removed": false
+      },
+      {
+        "name": "Uma Kumaran",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5278",
+        "twfy_id": "uk.org.publicwhip/person/26542",
         "removed": false
       }
     ]

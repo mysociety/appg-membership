@@ -30,45 +30,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.parkhome.org.uk/appg/"
-    ],
-    "last_updated": "2025-04-28",
-    "members": [
-      {
-        "name": "Sir Christopher Chope OBE",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "242",
-        "twfy_id": "uk.org.publicwhip/person/10103",
-        "removed": false
-      },
-      {
-        "name": "VACANT",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Joshua Reynolds",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5343",
-        "twfy_id": "uk.org.publicwhip/person/26608",
-        "removed": false
-      },
-      {
-        "name": "Dr Ben Spencer",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4785",
-        "twfy_id": "uk.org.publicwhip/person/25889",
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2025-10-20",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Sir Christopher Chope MP",

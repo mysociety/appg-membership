@@ -42,7 +42,7 @@
     "source_url": [
       "https://womeninprison.org.uk/campaigns/public-affairs-appg-2"
     ],
-    "last_updated": "2025-04-29",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Kate Osamor",
@@ -58,7 +58,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Marsha De Cordova",
@@ -90,7 +90,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt. Hon. the Lord Bradley",
@@ -98,7 +98,7 @@
         "member_type": "lord",
         "mnis_id": "452",
         "twfy_id": "uk.org.publicwhip/person/10059",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Karen Buck",
@@ -154,7 +154,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mary Glindon",
@@ -170,7 +170,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hamwee",
@@ -202,7 +202,7 @@
         "member_type": "mp",
         "mnis_id": "4511",
         "twfy_id": "uk.org.publicwhip/person/25284",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Kim Johnson",
@@ -266,7 +266,7 @@
         "member_type": "mp",
         "mnis_id": "4521",
         "twfy_id": "uk.org.publicwhip/person/25302",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jeff Smith",
@@ -306,7 +306,7 @@
         "member_type": "lord",
         "mnis_id": "4897",
         "twfy_id": "uk.org.publicwhip/person/25966",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Fiona Hodgson of Abinger CBE",
@@ -314,7 +314,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Lister of Burtersett CBE",
@@ -322,7 +322,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rupa Huq",
@@ -330,6 +330,62 @@
         "member_type": "mp",
         "mnis_id": "4511",
         "twfy_id": "uk.org.publicwhip/person/25284",
+        "removed": false
+      },
+      {
+        "name": "Fiona Hodgson of Abinger",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "David Blunkett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "395",
+        "twfy_id": "uk.org.publicwhip/person/10050",
+        "removed": false
+      },
+      {
+        "name": "Bradley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Garden of Frognal",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bishop of Gloucester",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Liz Saville-Roberts",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4521",
+        "twfy_id": "uk.org.publicwhip/person/25302",
+        "removed": false
+      },
+      {
+        "name": "Lord Woodley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4897",
+        "twfy_id": "uk.org.publicwhip/person/25966",
         "removed": false
       }
     ]

@@ -42,7 +42,7 @@
     "source_url": [
       "https://appgamr.com/members/"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Dr Beccy Cooper",
@@ -122,7 +122,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dr Neil Hudson",
@@ -138,7 +138,7 @@
         "member_type": "mp",
         "mnis_id": "1572",
         "twfy_id": "uk.org.publicwhip/person/11859",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Baroness Sugg",
@@ -154,7 +154,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Richard Foord",
@@ -198,6 +198,46 @@
       },
       {
         "name": "The Rt Hon. the Lord Darzi of Denham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Wendy Morton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4358",
+        "twfy_id": "uk.org.publicwhip/person/25342",
+        "removed": false
+      },
+      {
+        "name": "The Lord Browne of Ladyton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jeremy Hunt",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1572",
+        "twfy_id": "uk.org.publicwhip/person/11859",
+        "removed": false
+      },
+      {
+        "name": "The Lord Goldsmith of Richmond Park",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Darzi of Denham",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,

@@ -38,45 +38,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.policyconnect.org.uk/apsrg"
-    ],
-    "last_updated": "2025-04-28",
-    "members": [
-      {
-        "name": "Tristan Osborne",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5220",
-        "twfy_id": "uk.org.publicwhip/person/26589",
-        "removed": false
-      },
-      {
-        "name": "Lord Duncan of Springbank",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord Teverson",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "3789",
-        "twfy_id": "uk.org.publicwhip/person/13732",
-        "removed": false
-      },
-      {
-        "name": "Kevin McKenna",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5300",
-        "twfy_id": "uk.org.publicwhip/person/26529",
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2025-10-20",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Tristan Osborne MP",

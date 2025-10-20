@@ -34,7 +34,7 @@
     "source_url": [
       "https://rjappg.co.uk/about/"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Gavin Robinson",
@@ -62,6 +62,14 @@
       },
       {
         "name": "Sir Jeremy Wright",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1560",
+        "twfy_id": "uk.org.publicwhip/person/11791",
+        "removed": true
+      },
+      {
+        "name": "Jeremy Wright",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "1560",

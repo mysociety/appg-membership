@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.allpartyipgroup.org.uk/activeMembers.html"
     ],
-    "last_updated": "2025-09-16",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "John Whittingdale",
@@ -74,7 +74,7 @@
         "member_type": "lord",
         "mnis_id": "3396",
         "twfy_id": "uk.org.publicwhip/person/13517",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sarah Olney",
@@ -90,7 +90,7 @@
         "member_type": "lord",
         "mnis_id": "214",
         "twfy_id": "uk.org.publicwhip/person/10208",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Freyberg",
@@ -98,7 +98,7 @@
         "member_type": "lord",
         "mnis_id": "2593",
         "twfy_id": "uk.org.publicwhip/person/13308",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Earl of Devon",
@@ -114,7 +114,7 @@
         "member_type": "lord",
         "mnis_id": "4175",
         "twfy_id": "uk.org.publicwhip/person/24999",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bonham-Carter",
@@ -122,7 +122,7 @@
         "member_type": "lord",
         "mnis_id": "3699",
         "twfy_id": "uk.org.publicwhip/person/12838",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Lucas",
@@ -130,7 +130,7 @@
         "member_type": "lord",
         "mnis_id": "1879",
         "twfy_id": "uk.org.publicwhip/person/13301",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Viscount Waverley",
@@ -146,7 +146,7 @@
         "member_type": "lord",
         "mnis_id": "3275",
         "twfy_id": "uk.org.publicwhip/person/13244",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Earl of Clancarty",
@@ -154,7 +154,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Lansley",
@@ -162,7 +162,7 @@
         "member_type": "lord",
         "mnis_id": "123",
         "twfy_id": "uk.org.publicwhip/person/10349",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Black of Brentwood",
@@ -170,7 +170,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Neville-Rolfe",
@@ -178,7 +178,7 @@
         "member_type": "lord",
         "mnis_id": "4284",
         "twfy_id": "uk.org.publicwhip/person/25205",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord McNally",
@@ -186,7 +186,7 @@
         "member_type": "lord",
         "mnis_id": "919",
         "twfy_id": "uk.org.publicwhip/person/13129",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Wood",
@@ -194,7 +194,7 @@
         "member_type": "lord",
         "mnis_id": "4217",
         "twfy_id": "uk.org.publicwhip/person/25044",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hooper",
@@ -202,7 +202,7 @@
         "member_type": "lord",
         "mnis_id": "2005",
         "twfy_id": "uk.org.publicwhip/person/13081",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bowles",
@@ -210,7 +210,7 @@
         "member_type": "lord",
         "mnis_id": "4562",
         "twfy_id": "uk.org.publicwhip/person/25476",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Brennan",
@@ -218,7 +218,7 @@
         "member_type": "lord",
         "mnis_id": "1400",
         "twfy_id": "uk.org.publicwhip/person/10753",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alison Hume",
@@ -226,6 +226,134 @@
         "member_type": "mp",
         "mnis_id": "5254",
         "twfy_id": "uk.org.publicwhip/person/26523",
+        "removed": false
+      },
+      {
+        "name": "Clement-Jones",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Foster",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4911",
+        "twfy_id": "uk.org.publicwhip/person/25972",
+        "removed": false
+      },
+      {
+        "name": "Freyberg",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Stevenson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bonham-Carter",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
+        "removed": false
+      },
+      {
+        "name": "Lucas",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Razzall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Earl of Clancarty",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lansley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Black of Brentwood",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Neville-Rolfe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4284",
+        "twfy_id": "uk.org.publicwhip/person/25205",
+        "removed": false
+      },
+      {
+        "name": "McNally",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Wood",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Hooper",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2005",
+        "twfy_id": "uk.org.publicwhip/person/13081",
+        "removed": false
+      },
+      {
+        "name": "Bowles",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4562",
+        "twfy_id": "uk.org.publicwhip/person/25476",
+        "removed": false
+      },
+      {
+        "name": "Brennan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

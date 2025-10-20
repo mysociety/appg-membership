@@ -40,9 +40,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.policyconnect.org.uk/aphg/people"
+      "https://www.policyconnect.org.uk/aphg"
     ],
-    "last_updated": "2025-04-29",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Dr. Simon Opher",
@@ -50,7 +50,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Mary Watkins",
@@ -74,6 +74,142 @@
         "member_type": "mp",
         "mnis_id": "5300",
         "twfy_id": "uk.org.publicwhip/person/26529",
+        "removed": false
+      },
+      {
+        "name": "Dr Simon Opher",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5030",
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
+      },
+      {
+        "name": "Maya Ellis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5228",
+        "twfy_id": "uk.org.publicwhip/person/26479",
+        "removed": false
+      },
+      {
+        "name": "Seamus Logan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5280",
+        "twfy_id": "uk.org.publicwhip/person/26534",
+        "removed": false
+      },
+      {
+        "name": "Melanie Ward",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5240",
+        "twfy_id": "uk.org.publicwhip/person/26610",
+        "removed": false
+      },
+      {
+        "name": "Greg Stafford",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5351",
+        "twfy_id": "uk.org.publicwhip/person/26626",
+        "removed": false
+      },
+      {
+        "name": "Lillian Jones",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5043",
+        "twfy_id": "uk.org.publicwhip/person/26327",
+        "removed": false
+      },
+      {
+        "name": "Susan Murray",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5157",
+        "twfy_id": "uk.org.publicwhip/person/26429",
+        "removed": false
+      },
+      {
+        "name": "Sadik Al-Hassan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5312",
+        "twfy_id": "uk.org.publicwhip/person/26527",
+        "removed": false
+      },
+      {
+        "name": "Lizzi Collinge",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5225",
+        "twfy_id": "uk.org.publicwhip/person/26592",
+        "removed": false
+      },
+      {
+        "name": "Allison Gardner",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5334",
+        "twfy_id": "uk.org.publicwhip/person/26621",
+        "removed": false
+      },
+      {
+        "name": "Pippa Heylings",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5078",
+        "twfy_id": "uk.org.publicwhip/person/26421",
+        "removed": false
+      },
+      {
+        "name": "Lewis Atkinson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5028",
+        "twfy_id": "uk.org.publicwhip/person/26309",
+        "removed": false
+      },
+      {
+        "name": "Steve Race",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5064",
+        "twfy_id": "uk.org.publicwhip/person/26345",
+        "removed": false
+      },
+      {
+        "name": "Alex McIntyre",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5349",
+        "twfy_id": "uk.org.publicwhip/person/26434",
+        "removed": false
+      },
+      {
+        "name": "Cat Eccles",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5293",
+        "twfy_id": "uk.org.publicwhip/person/26587",
+        "removed": false
+      },
+      {
+        "name": "Warinder Juss",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5230",
+        "twfy_id": "uk.org.publicwhip/person/26533",
+        "removed": false
+      },
+      {
+        "name": "Sojan Joseph",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5247",
+        "twfy_id": "uk.org.publicwhip/person/26578",
         "removed": false
       }
     ]

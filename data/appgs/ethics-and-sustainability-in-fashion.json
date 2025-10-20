@@ -40,9 +40,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://appgfashion.co.uk/whosinvolved"
+      "https://appgfashion.com/whosinvolved"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Rosie Wrighting",
@@ -50,7 +50,7 @@
         "member_type": "mp",
         "mnis_id": "5331",
         "twfy_id": "uk.org.publicwhip/person/26615",
-        "removed": false
+        "removed": true
       },
       {
         "name": "John Lamont",
@@ -74,7 +74,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sharon Hodgson",
@@ -210,6 +210,22 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Lola Young of Hornsey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Catherine West",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4523",
+        "twfy_id": "uk.org.publicwhip/person/25328",
         "removed": false
       }
     ]

@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.humantraffickingfoundation.org/appg"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Rt Hon Dame Karen Bradley",
@@ -50,7 +50,7 @@
         "member_type": "mp",
         "mnis_id": "4110",
         "twfy_id": "uk.org.publicwhip/person/24725",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Elizabeth Butler-Sloss",
@@ -66,7 +66,7 @@
         "member_type": "mp",
         "mnis_id": "4573",
         "twfy_id": "uk.org.publicwhip/person/25579",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tom Collins",
@@ -74,6 +74,22 @@
         "member_type": "mp",
         "mnis_id": "5087",
         "twfy_id": "uk.org.publicwhip/person/26351",
+        "removed": false
+      },
+      {
+        "name": "Karen Bradley",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4110",
+        "twfy_id": "uk.org.publicwhip/person/24725",
+        "removed": false
+      },
+      {
+        "name": "Rosena Allin-Khan",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4573",
+        "twfy_id": "uk.org.publicwhip/person/25579",
         "removed": false
       }
     ]

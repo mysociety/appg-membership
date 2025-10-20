@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.futureworkappg.org.uk/about"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Andrew Pakes",
@@ -58,7 +58,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Johnson of Marylebone",
@@ -82,7 +82,7 @@
         "member_type": "lord",
         "mnis_id": "3396",
         "twfy_id": "uk.org.publicwhip/person/13517",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Manzila Pola Uddin",
@@ -138,7 +138,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Kennedy",
@@ -146,7 +146,7 @@
         "member_type": "lord",
         "mnis_id": "1987",
         "twfy_id": "uk.org.publicwhip/person/12994",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Monks",
@@ -154,7 +154,7 @@
         "member_type": "lord",
         "mnis_id": "4186",
         "twfy_id": "uk.org.publicwhip/person/25014",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Kennedy of Southwark",
@@ -162,7 +162,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Twycross",
@@ -170,7 +170,7 @@
         "member_type": "lord",
         "mnis_id": "4966",
         "twfy_id": "uk.org.publicwhip/person/25770",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Leong CBE",
@@ -178,7 +178,7 @@
         "member_type": "lord",
         "mnis_id": "4959",
         "twfy_id": "uk.org.publicwhip/person/26104",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Watson",
@@ -186,7 +186,7 @@
         "member_type": "lord",
         "mnis_id": "1463",
         "twfy_id": "uk.org.publicwhip/person/11309",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Darren Jones",
@@ -194,7 +194,7 @@
         "member_type": "mp",
         "mnis_id": "4621",
         "twfy_id": "uk.org.publicwhip/person/25637",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Daniel Zeichner",
@@ -202,7 +202,7 @@
         "member_type": "mp",
         "mnis_id": "4382",
         "twfy_id": "uk.org.publicwhip/person/25386",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lilian Greenwood",
@@ -210,7 +210,7 @@
         "member_type": "mp",
         "mnis_id": "4029",
         "twfy_id": "uk.org.publicwhip/person/24774",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Stephen Timms",
@@ -218,7 +218,7 @@
         "member_type": "mp",
         "mnis_id": "163",
         "twfy_id": "uk.org.publicwhip/person/10596",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tonia Antoniazzi",
@@ -226,7 +226,7 @@
         "member_type": "mp",
         "mnis_id": "4623",
         "twfy_id": "uk.org.publicwhip/person/25634",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sarah Olney",
@@ -234,7 +234,7 @@
         "member_type": "mp",
         "mnis_id": "4591",
         "twfy_id": "uk.org.publicwhip/person/25596",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Christian Wakeford",
@@ -242,7 +242,7 @@
         "member_type": "mp",
         "mnis_id": "4871",
         "twfy_id": "uk.org.publicwhip/person/25874",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Charlotte Nichols",
@@ -250,7 +250,7 @@
         "member_type": "mp",
         "mnis_id": "4799",
         "twfy_id": "uk.org.publicwhip/person/25885",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Barry Gardiner",
@@ -258,7 +258,7 @@
         "member_type": "mp",
         "mnis_id": "146",
         "twfy_id": "uk.org.publicwhip/person/10220",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Austin",
@@ -266,6 +266,30 @@
         "member_type": "lord",
         "mnis_id": "1511",
         "twfy_id": "uk.org.publicwhip/person/11553",
+        "removed": true
+      },
+      {
+        "name": "Jim Knight",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4160",
+        "twfy_id": "uk.org.publicwhip/person/11027",
+        "removed": false
+      },
+      {
+        "name": "Tim Clement-Jones",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Hodgson of Astley Abbotts",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

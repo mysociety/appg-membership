@@ -42,7 +42,7 @@
     "source_url": [
       "https://appgprostatecancer.org.uk/members"
     ],
-    "last_updated": "2025-09-16",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Calvin Bailey",
@@ -410,7 +410,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Brennan of Canton",
@@ -462,6 +462,38 @@
       },
       {
         "name": "Lord Watson of Wyre Forest",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tom Collins",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5087",
+        "twfy_id": "uk.org.publicwhip/person/26351",
+        "removed": false
+      },
+      {
+        "name": "Wendy Morton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4358",
+        "twfy_id": "uk.org.publicwhip/person/25342",
+        "removed": false
+      },
+      {
+        "name": "The Rt Rev. the Lord Bishop of Manchester",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Royall of Blaisdon",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,

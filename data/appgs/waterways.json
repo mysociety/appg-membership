@@ -42,7 +42,7 @@
     "source_url": [
       "https://waterways.org.uk/about-us/all-party-parliamentary-group-for-the-waterways"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Bill Esterson",
@@ -234,6 +234,30 @@
         "member_type": "lord",
         "mnis_id": "281",
         "twfy_id": "uk.org.publicwhip/person/10233",
+        "removed": false
+      },
+      {
+        "name": "Helen Morgan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4934",
+        "twfy_id": "uk.org.publicwhip/person/26056",
+        "removed": false
+      },
+      {
+        "name": "Dr Simon Opher",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5030",
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
+      },
+      {
+        "name": "James Naish",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5047",
+        "twfy_id": "uk.org.publicwhip/person/26329",
         "removed": false
       }
     ]

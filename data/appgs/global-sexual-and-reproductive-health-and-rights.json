@@ -38,45 +38,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.appg-pdrh.uk/committee-members"
-    ],
-    "last_updated": "2025-04-28",
-    "members": [
-      {
-        "name": "Sarah Champion",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4267",
-        "twfy_id": "uk.org.publicwhip/person/25168",
-        "removed": false
-      },
-      {
-        "name": "Baroness Hussein-Ece",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "4164",
-        "twfy_id": "uk.org.publicwhip/person/24983",
-        "removed": false
-      },
-      {
-        "name": "Baroness Jenkin of Kennington",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Leigh Ingham",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5290",
-        "twfy_id": "uk.org.publicwhip/person/26392",
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2025-10-20",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Sarah Champion MP",

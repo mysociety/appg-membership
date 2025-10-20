@@ -42,7 +42,7 @@
     "source_url": [
       "https://campaign-for-learning.org.uk/CFL/APPG-for-Early-Education-and-Childcare/APPG_Early_Education_and_Childcare.aspx"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "James MacCleary",
@@ -170,7 +170,7 @@
         "member_type": "mp",
         "mnis_id": "5166",
         "twfy_id": "uk.org.publicwhip/person/26440",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Vikki Slade",
@@ -226,6 +226,14 @@
         "member_type": "mp",
         "mnis_id": "4776",
         "twfy_id": "uk.org.publicwhip/person/25820",
+        "removed": false
+      },
+      {
+        "name": "Tom Morrisson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5090",
+        "twfy_id": "uk.org.publicwhip/person/26400",
         "removed": false
       }
     ]

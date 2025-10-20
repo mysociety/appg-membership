@@ -42,7 +42,7 @@
     "source_url": [
       "https://responsiblevapingappg.org/members/"
     ],
-    "last_updated": "2025-04-30",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Mary Glindon",
@@ -66,7 +66,7 @@
         "member_type": "lord",
         "mnis_id": "1251",
         "twfy_id": "uk.org.publicwhip/person/13704",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Brady",
@@ -74,6 +74,22 @@
         "member_type": "lord",
         "mnis_id": "435",
         "twfy_id": "uk.org.publicwhip/person/10062",
+        "removed": true
+      },
+      {
+        "name": "Naseby",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Brady",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4339",
+        "twfy_id": "uk.org.publicwhip/person/25249",
         "removed": false
       }
     ]

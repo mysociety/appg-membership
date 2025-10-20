@@ -40,40 +40,8 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2024-12-01",
+    "last_updated": "2025-10-20",
     "members": [
-      {
-        "name": "Tonia Antoniazzi MP",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4623",
-        "twfy_id": "uk.org.publicwhip/person/25634",
-        "removed": false
-      },
-      {
-        "name": "Greg Smith MP",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4778",
-        "twfy_id": "uk.org.publicwhip/person/25925",
-        "removed": false
-      },
-      {
-        "name": "Jamie Stone MP",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4612",
-        "twfy_id": "uk.org.publicwhip/person/25668",
-        "removed": false
-      },
-      {
-        "name": "Pete Wishart MP",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "1440",
-        "twfy_id": "uk.org.publicwhip/person/11333",
-        "removed": false
-      },
       {
         "name": "Victoria Atkins MP",
         "is_officer": false,
@@ -123,6 +91,14 @@
         "removed": false
       },
       {
+        "name": "Charlie Dewhirst MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5169",
+        "twfy_id": "uk.org.publicwhip/person/26461",
+        "removed": false
+      },
+      {
         "name": "Caroline Dinenage MP",
         "is_officer": false,
         "member_type": "mp",
@@ -131,7 +107,7 @@
         "removed": false
       },
       {
-        "name": "Oliver Dowden MP",
+        "name": "Oliver Dowden CBE MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4441",
@@ -179,7 +155,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon Damian Hinds MP",
+        "name": "Damian Hinds MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "3969",
@@ -200,6 +176,14 @@
         "member_type": "mp",
         "mnis_id": "4813",
         "twfy_id": "uk.org.publicwhip/person/25893",
+        "removed": false
+      },
+      {
+        "name": "Kevin Hollingrake MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4474",
+        "twfy_id": "uk.org.publicwhip/person/25415",
         "removed": false
       },
       {
@@ -243,7 +227,7 @@
         "removed": false
       },
       {
-        "name": "Joy Morrisey MP",
+        "name": "Joy Morrissey MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4759",
@@ -251,7 +235,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon David Mundell MP",
+        "name": "David Mundell MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1512",
@@ -267,11 +251,19 @@
         "removed": false
       },
       {
-        "name": "Rt Hon Caroline Nokes MP",
+        "name": "Caroline Nokes MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4048",
         "twfy_id": "uk.org.publicwhip/person/24809",
+        "removed": false
+      },
+      {
+        "name": "Ben Obese-Jecty MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5089",
+        "twfy_id": "uk.org.publicwhip/person/26354",
         "removed": false
       },
       {
@@ -307,11 +299,27 @@
         "removed": false
       },
       {
-        "name": "Rt Hon Julian Smith MP",
+        "name": "Julian Smith MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4118",
         "twfy_id": "uk.org.publicwhip/person/24961",
+        "removed": false
+      },
+      {
+        "name": "Greg Smith MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4778",
+        "twfy_id": "uk.org.publicwhip/person/25925",
+        "removed": false
+      },
+      {
+        "name": "Andrew Snowden MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5072",
+        "twfy_id": "uk.org.publicwhip/person/26347",
         "removed": false
       },
       {
@@ -323,7 +331,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon Sir Desmond Swayne MP",
+        "name": "Sir Desmond Swayne MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "55",
@@ -347,7 +355,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon John Whittingdale MP",
+        "name": "John Whittingdale MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "39",
@@ -363,7 +371,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon Gavin Williamson CBE MP",
+        "name": "Gavin Williamson CBE MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4108",
@@ -387,11 +395,27 @@
         "removed": false
       },
       {
-        "name": "Bayo Alaba MP",
+        "name": "Bayo Alaba",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5097",
         "twfy_id": "uk.org.publicwhip/person/26422",
+        "removed": false
+      },
+      {
+        "name": "Tonia Antoniazzi MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4623",
+        "twfy_id": "uk.org.publicwhip/person/25634",
+        "removed": false
+      },
+      {
+        "name": "Olivia Bailey MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5337",
+        "twfy_id": "uk.org.publicwhip/person/26609",
         "removed": false
       },
       {
@@ -443,7 +467,7 @@
         "removed": false
       },
       {
-        "name": "Judith Commins MP",
+        "name": "Judith Cummins MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4391",
@@ -483,6 +507,14 @@
         "removed": false
       },
       {
+        "name": "Gill German MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5104",
+        "twfy_id": "uk.org.publicwhip/person/26394",
+        "removed": false
+      },
+      {
         "name": "Mary Glindon MP",
         "is_officer": false,
         "member_type": "mp",
@@ -515,7 +547,7 @@
         "removed": false
       },
       {
-        "name": "Dr Rupa Huq",
+        "name": "Dr Rupa Huq MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4511",
@@ -539,7 +571,23 @@
         "removed": false
       },
       {
-        "name": "Siobhain McDonagh",
+        "name": "Ruth Jones MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4716",
+        "twfy_id": "uk.org.publicwhip/person/25746",
+        "removed": false
+      },
+      {
+        "name": "Noah Law MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5302",
+        "twfy_id": "uk.org.publicwhip/person/26513",
+        "removed": false
+      },
+      {
+        "name": "Siobhain McDonagh MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "193",
@@ -547,7 +595,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon John McDonnell MP",
+        "name": "John McDonnell MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "178",
@@ -555,7 +603,7 @@
         "removed": false
       },
       {
-        "name": "Frank McNally MP",
+        "name": "Frank McNally",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5183",
@@ -579,7 +627,15 @@
         "removed": false
       },
       {
-        "name": "Jessica Morden",
+        "name": "Abtisam Mohamed MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5142",
+        "twfy_id": "uk.org.publicwhip/person/26413",
+        "removed": false
+      },
+      {
+        "name": "Jessica Morden MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1548",
@@ -595,6 +651,22 @@
         "removed": false
       },
       {
+        "name": "Ian Murray MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3966",
+        "twfy_id": "uk.org.publicwhip/person/24872",
+        "removed": false
+      },
+      {
+        "name": "Melanie Onn",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4464",
+        "twfy_id": "uk.org.publicwhip/person/25317",
+        "removed": false
+      },
+      {
         "name": "Toby Perkins MP",
         "is_officer": false,
         "member_type": "mp",
@@ -603,11 +675,11 @@
         "removed": false
       },
       {
-        "name": "Cat Smith MP",
+        "name": "John Slinger MP",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": "4436",
-        "twfy_id": "uk.org.publicwhip/person/25432",
+        "mnis_id": "5127",
+        "twfy_id": "uk.org.publicwhip/person/26564",
         "removed": false
       },
       {
@@ -619,7 +691,7 @@
         "removed": false
       },
       {
-        "name": "Mark Tami",
+        "name": "Mark Tami MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1383",
@@ -627,7 +699,7 @@
         "removed": false
       },
       {
-        "name": "David Taylor",
+        "name": "David Taylor MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "5348",
@@ -643,6 +715,14 @@
         "removed": false
       },
       {
+        "name": "Valerie Vaz MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4076",
+        "twfy_id": "uk.org.publicwhip/person/24852",
+        "removed": false
+      },
+      {
         "name": "Sir Mark Hendrick MP",
         "is_officer": false,
         "member_type": "mp",
@@ -651,7 +731,7 @@
         "removed": false
       },
       {
-        "name": "Dame Meg Hillier MP",
+        "name": "Meg Hillier MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1524",
@@ -667,7 +747,23 @@
         "removed": false
       },
       {
-        "name": "Rt Hon Allistair Carmichael MP",
+        "name": "Jamie Stone MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4612",
+        "twfy_id": "uk.org.publicwhip/person/25668",
+        "removed": false
+      },
+      {
+        "name": "Josh Babarinde MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5086",
+        "twfy_id": "uk.org.publicwhip/person/26353",
+        "removed": false
+      },
+      {
+        "name": "Alistair Carmichael MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "1442",
@@ -691,6 +787,22 @@
         "removed": false
       },
       {
+        "name": "Tom Gordon MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5032",
+        "twfy_id": "uk.org.publicwhip/person/26312",
+        "removed": false
+      },
+      {
+        "name": "Rachel Gilmour MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5252",
+        "twfy_id": "uk.org.publicwhip/person/26543",
+        "removed": false
+      },
+      {
         "name": "Zoe Franklin MP",
         "is_officer": false,
         "member_type": "mp",
@@ -699,11 +811,19 @@
         "removed": false
       },
       {
-        "name": "Tom Gordon MP",
+        "name": "Ben Maguire MP",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": "5032",
-        "twfy_id": "uk.org.publicwhip/person/26312",
+        "mnis_id": "5350",
+        "twfy_id": "uk.org.publicwhip/person/26623",
+        "removed": false
+      },
+      {
+        "name": "Edward Morello MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5326",
+        "twfy_id": "uk.org.publicwhip/person/26604",
         "removed": false
       },
       {
@@ -715,7 +835,7 @@
         "removed": false
       },
       {
-        "name": "Chris Law",
+        "name": "Chris Law MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4403",
@@ -723,11 +843,35 @@
         "removed": false
       },
       {
-        "name": "Brendan O'Hara",
+        "name": "Brendan O'Hara MP",
         "is_officer": false,
         "member_type": "mp",
         "mnis_id": "4371",
         "twfy_id": "uk.org.publicwhip/person/25370",
+        "removed": false
+      },
+      {
+        "name": "Pete Wishart MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1440",
+        "twfy_id": "uk.org.publicwhip/person/11333",
+        "removed": false
+      },
+      {
+        "name": "Oliver Ryan MP",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5135",
+        "twfy_id": "uk.org.publicwhip/person/26381",
+        "removed": false
+      },
+      {
+        "name": "Baroness Anderson of Stoke on Trent",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -779,6 +923,14 @@
         "removed": false
       },
       {
+        "name": "Baroness Buscombe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3349",
+        "twfy_id": "uk.org.publicwhip/person/13451",
+        "removed": false
+      },
+      {
         "name": "Earl of Liverpool",
         "is_officer": false,
         "member_type": "lord",
@@ -795,11 +947,11 @@
         "removed": false
       },
       {
-        "name": "Lord McNichol",
+        "name": "Lord McNicol",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4702",
+        "twfy_id": "uk.org.publicwhip/person/25731",
         "removed": false
       },
       {
@@ -835,11 +987,11 @@
         "removed": false
       },
       {
-        "name": "Lord Hayward OBE",
+        "name": "Lord Haywood OBE",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "863",
-        "twfy_id": "uk.org.publicwhip/person/17722",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -864,14 +1016,6 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord Prescott",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "374",
-        "twfy_id": "uk.org.publicwhip/person/10488",
         "removed": false
       },
       {
@@ -931,6 +1075,14 @@
         "removed": false
       },
       {
+        "name": "Lord Kennedy of Southwark",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
         "name": "Lord Watts",
         "is_officer": false,
         "member_type": "lord",
@@ -955,7 +1107,7 @@
         "removed": false
       },
       {
-        "name": "Lord Smith of Hindhead",
+        "name": "Lord Smith of Hindhead CBE",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -963,11 +1115,11 @@
         "removed": false
       },
       {
-        "name": "Lord Bilimoria",
+        "name": "Lord Billimoria CBE DL",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "3809",
-        "twfy_id": "uk.org.publicwhip/person/13881",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -987,7 +1139,7 @@
         "removed": false
       },
       {
-        "name": "Lord Loomba CBE",
+        "name": "The Lord Loomba CBE",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4209",
@@ -995,7 +1147,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon the Lord Kilclooney",
+        "name": "the Lord Kilclooney",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "657",
@@ -1003,7 +1155,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon the Baroness Corston",
+        "name": "the Baroness Corston",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -1011,7 +1163,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon the Lord Clark of Windermere",
+        "name": "the Lord Clark of Windermere",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -1019,7 +1171,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon the Lord Foulkes of Cumnock",
+        "name": "the Lord Foulkes of Cumnock",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -1027,7 +1179,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon the Lord Jones ",
+        "name": "the Lord Jones",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "530",
@@ -1035,7 +1187,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon the Lord Knight of Weymouth",
+        "name": "the Lord Knight of Weymouth",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -1043,7 +1195,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon the Lord McAvoy",
+        "name": "the Lord McAvoy",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4158",
@@ -1051,7 +1203,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon the Lord Rooker",
+        "name": "the Lord Rooker",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "302",
@@ -1059,7 +1211,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon the Lord Whitty",
+        "name": "the Lord Whitty",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "2444",
@@ -1067,7 +1219,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon the Lord King of Bridgewater CH",
+        "name": "the Lord King of Bridgwater CH",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -1075,7 +1227,7 @@
         "removed": false
       },
       {
-        "name": "Rt Hon the Lord Dholakia PC OBE DL",
+        "name": "the Lord Dholakia PC OBE DL",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -1096,6 +1248,30 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "the Baroness Coffey DBE",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Sewell of Sanderstead CBE",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Cryer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "181",
+        "twfy_id": "uk.org.publicwhip/person/10143",
         "removed": false
       }
     ]

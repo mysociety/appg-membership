@@ -42,7 +42,7 @@
     "source_url": [
       "https://transportsafetyappg.org.uk/members/"
     ],
-    "last_updated": "2025-05-08",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Andy MacNae",
@@ -362,7 +362,7 @@
         "member_type": "mp",
         "mnis_id": "3912",
         "twfy_id": "uk.org.publicwhip/person/24787",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ruth Cadbury",
@@ -394,6 +394,70 @@
         "member_type": "mp",
         "mnis_id": "5280",
         "twfy_id": "uk.org.publicwhip/person/26534",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hayter",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4159",
+        "twfy_id": "uk.org.publicwhip/person/24973",
+        "removed": false
+      },
+      {
+        "name": "Helen Maguire",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5336",
+        "twfy_id": "uk.org.publicwhip/person/26627",
+        "removed": false
+      },
+      {
+        "name": "Lee Dillon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5310",
+        "twfy_id": "uk.org.publicwhip/person/26584",
+        "removed": false
+      },
+      {
+        "name": "Liz Twist",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4618",
+        "twfy_id": "uk.org.publicwhip/person/25623",
+        "removed": false
+      },
+      {
+        "name": "Luke Charters",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5199",
+        "twfy_id": "uk.org.publicwhip/person/26480",
+        "removed": false
+      },
+      {
+        "name": "Paul Waugh",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5071",
+        "twfy_id": "uk.org.publicwhip/person/26319",
+        "removed": false
+      },
+      {
+        "name": "Sam Rushworth",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5108",
+        "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
+      },
+      {
+        "name": "Tom Gordon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5032",
+        "twfy_id": "uk.org.publicwhip/person/26312",
         "removed": false
       }
     ]

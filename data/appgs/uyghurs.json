@@ -42,7 +42,7 @@
     "source_url": [
       "https://appguyghurs.wixsite.com/website"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Yasmin Qureshi",
@@ -58,7 +58,7 @@
         "member_type": "mp",
         "mnis_id": "1442",
         "twfy_id": "uk.org.publicwhip/person/10785",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Afzal Khan",
@@ -122,7 +122,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Arise Foundation",
@@ -130,6 +130,14 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Alistair Carmichael",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1442",
+        "twfy_id": "uk.org.publicwhip/person/10785",
         "removed": false
       }
     ]

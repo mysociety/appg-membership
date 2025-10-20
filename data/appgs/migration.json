@@ -42,7 +42,7 @@
     "source_url": [
       "https://appgmigration.org.uk/appg-on-migration-members/"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "David Simmonds",
@@ -74,7 +74,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Abtisam Mohamed",
@@ -226,7 +226,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Teverson",
@@ -258,7 +258,7 @@
         "member_type": "mp",
         "mnis_id": "5337",
         "twfy_id": "uk.org.publicwhip/person/26609",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Peter Wishart",
@@ -274,7 +274,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sir Stephen Timms",
@@ -282,7 +282,7 @@
         "member_type": "mp",
         "mnis_id": "163",
         "twfy_id": "uk.org.publicwhip/person/10596",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Stephen Kinnock",
@@ -298,7 +298,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rt Rev. The Lord Bishop of Sheffield, Dr. Peter Jonathan Wilcox",
@@ -306,7 +306,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tony Vaughan",
@@ -314,6 +314,62 @@
         "member_type": "mp",
         "mnis_id": "5067",
         "twfy_id": "uk.org.publicwhip/person/26346",
+        "removed": false
+      },
+      {
+        "name": "Baroness Lister of Burtersett",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Rees of Easton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Rebecca Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5301",
+        "twfy_id": "uk.org.publicwhip/person/26512",
+        "removed": false
+      },
+      {
+        "name": "Lord Dholakia",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2685",
+        "twfy_id": "uk.org.publicwhip/person/13662",
+        "removed": false
+      },
+      {
+        "name": "Stephen Timms",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "163",
+        "twfy_id": "uk.org.publicwhip/person/10596",
+        "removed": false
+      },
+      {
+        "name": "The Lord Bishop of Chelmsford, Dr. Guli Francis-Dehqani",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Bishop of Sheffield, Dr. Peter Jonathan Wilcox",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

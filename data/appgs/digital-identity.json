@@ -42,7 +42,7 @@
     "source_url": [
       "https://digitalidentitiesappg.wordpress.com/page/"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Dr Allison Gardner",
@@ -50,7 +50,7 @@
         "member_type": "mp",
         "mnis_id": "5334",
         "twfy_id": "uk.org.publicwhip/person/26621",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Uddin",
@@ -202,6 +202,14 @@
         "member_type": "mp",
         "mnis_id": "5082",
         "twfy_id": "uk.org.publicwhip/person/26486",
+        "removed": false
+      },
+      {
+        "name": "Allison Gardner",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5334",
+        "twfy_id": "uk.org.publicwhip/person/26621",
         "removed": false
       }
     ]

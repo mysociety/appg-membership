@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.ciol.org.uk/appg-members"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Tonia Antoniazzi",
@@ -130,7 +130,7 @@
         "member_type": "mp",
         "mnis_id": "5034",
         "twfy_id": "uk.org.publicwhip/person/26317",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Manuela Perteghella",
@@ -314,6 +314,14 @@
         "member_type": "lord",
         "mnis_id": "2593",
         "twfy_id": "uk.org.publicwhip/person/13308",
+        "removed": false
+      },
+      {
+        "name": "Josh Newbury",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5034",
+        "twfy_id": "uk.org.publicwhip/person/26317",
         "removed": false
       }
     ]

@@ -42,7 +42,7 @@
     "source_url": [
       "https://appgme.co.uk/who-we-are/"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Jo Platt",
@@ -170,7 +170,7 @@
         "member_type": "mp",
         "mnis_id": "4471",
         "twfy_id": "uk.org.publicwhip/person/25433",
-        "removed": false
+        "removed": true
       },
       {
         "name": "John McDonnell",
@@ -250,6 +250,86 @@
         "member_type": "mp",
         "mnis_id": "4776",
         "twfy_id": "uk.org.publicwhip/person/25820",
+        "removed": false
+      },
+      {
+        "name": "Dan Aldridge",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5172",
+        "twfy_id": "uk.org.publicwhip/person/26453",
+        "removed": false
+      },
+      {
+        "name": "Siân Berry",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5314",
+        "twfy_id": "uk.org.publicwhip/person/25752",
+        "removed": false
+      },
+      {
+        "name": "Ian Byrne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4831",
+        "twfy_id": "uk.org.publicwhip/person/25816",
+        "removed": false
+      },
+      {
+        "name": "Markus Campbell-Savours",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5124",
+        "twfy_id": "uk.org.publicwhip/person/26485",
+        "removed": false
+      },
+      {
+        "name": "Patrick Hurley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5052",
+        "twfy_id": "uk.org.publicwhip/person/26463",
+        "removed": false
+      },
+      {
+        "name": "Ruth Jones",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4716",
+        "twfy_id": "uk.org.publicwhip/person/25746",
+        "removed": false
+      },
+      {
+        "name": "Jayne Kirkham",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5279",
+        "twfy_id": "uk.org.publicwhip/person/26525",
+        "removed": false
+      },
+      {
+        "name": "Rachael Maskell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4471",
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
+      },
+      {
+        "name": "Llinos Medi",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5085",
+        "twfy_id": "uk.org.publicwhip/person/26454",
+        "removed": false
+      },
+      {
+        "name": "Perran Moon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5208",
+        "twfy_id": "uk.org.publicwhip/person/26482",
         "removed": false
       }
     ]

@@ -40,9 +40,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.tcpa.org.uk/resources/all-party-parliamentary-group-on-new-towns/"
+      "https://www.tcpa.org.uk/wp-content/uploads/2021/11/APPG-on-New-Towns-List-of-Members-and-Officers-26.03.25.pdf"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Andrew Lewin",
@@ -58,7 +58,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon. Lord Michael Naseby PC",
@@ -66,7 +66,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Katrina Murray",
@@ -74,6 +74,158 @@
         "member_type": "mp",
         "mnis_id": "5309",
         "twfy_id": "uk.org.publicwhip/person/26494",
+        "removed": false
+      },
+      {
+        "name": "Lord Richard Best",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Naseby",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "1251",
+        "twfy_id": "uk.org.publicwhip/person/13704",
+        "removed": false
+      },
+      {
+        "name": "Chris Curtis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5118",
+        "twfy_id": "uk.org.publicwhip/person/26396",
+        "removed": false
+      },
+      {
+        "name": "James McMurdock",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5361",
+        "twfy_id": "uk.org.publicwhip/person/26636",
+        "removed": false
+      },
+      {
+        "name": "Peter Swallow",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5165",
+        "twfy_id": "uk.org.publicwhip/person/26369",
+        "removed": false
+      },
+      {
+        "name": "Shaun Davies",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5041",
+        "twfy_id": "uk.org.publicwhip/person/26332",
+        "removed": false
+      },
+      {
+        "name": "Kevin Bonavia",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5051",
+        "twfy_id": "uk.org.publicwhip/person/26330",
+        "removed": false
+      },
+      {
+        "name": "Gregor Poynton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5167",
+        "twfy_id": "uk.org.publicwhip/person/26428",
+        "removed": false
+      },
+      {
+        "name": "Chris Bloore",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5109",
+        "twfy_id": "uk.org.publicwhip/person/26357",
+        "removed": false
+      },
+      {
+        "name": "Mike Reader",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5316",
+        "twfy_id": "uk.org.publicwhip/person/26630",
+        "removed": false
+      },
+      {
+        "name": "Sharon Hodgson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
+      },
+      {
+        "name": "Peter Lamb",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5345",
+        "twfy_id": "uk.org.publicwhip/person/26612",
+        "removed": false
+      },
+      {
+        "name": "Joani Reid",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5079",
+        "twfy_id": "uk.org.publicwhip/person/26418",
+        "removed": false
+      },
+      {
+        "name": "Lord Taylor of Goss Moor",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Grahame Morris",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3973",
+        "twfy_id": "uk.org.publicwhip/person/24715",
+        "removed": false
+      },
+      {
+        "name": "Paul Foster",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5074",
+        "twfy_id": "uk.org.publicwhip/person/26487",
+        "removed": false
+      },
+      {
+        "name": "David Taylor",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5348",
+        "twfy_id": "uk.org.publicwhip/person/26576",
+        "removed": false
+      },
+      {
+        "name": "Chris Vince",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5237",
+        "twfy_id": "uk.org.publicwhip/person/26350",
+        "removed": false
+      },
+      {
+        "name": "Richard Baker",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5253",
+        "twfy_id": "uk.org.publicwhip/person/13952",
         "removed": false
       }
     ]

@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.appgifffs.org/about-us/members"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Alastair Carmichael",
@@ -274,7 +274,7 @@
         "member_type": "lord",
         "mnis_id": "2669",
         "twfy_id": "uk.org.publicwhip/person/13133",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Iain McNicol",
@@ -338,7 +338,7 @@
         "member_type": "mp",
         "mnis_id": "5108",
         "twfy_id": "uk.org.publicwhip/person/26323",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sammy Wilson",
@@ -386,7 +386,7 @@
         "member_type": "mp",
         "mnis_id": "5157",
         "twfy_id": "uk.org.publicwhip/person/26429",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Toby Perkins",
@@ -394,7 +394,7 @@
         "member_type": "mp",
         "mnis_id": "3952",
         "twfy_id": "uk.org.publicwhip/person/24845",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tonia Antoniazzi",
@@ -402,7 +402,7 @@
         "member_type": "mp",
         "mnis_id": "4623",
         "twfy_id": "uk.org.publicwhip/person/25634",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tom Tugendhat",
@@ -410,7 +410,7 @@
         "member_type": "mp",
         "mnis_id": "4462",
         "twfy_id": "uk.org.publicwhip/person/25374",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Wendy Chamberlain",
@@ -418,7 +418,7 @@
         "member_type": "mp",
         "mnis_id": "4765",
         "twfy_id": "uk.org.publicwhip/person/25872",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Wera Hobhouse",
@@ -426,6 +426,30 @@
         "member_type": "mp",
         "mnis_id": "4602",
         "twfy_id": "uk.org.publicwhip/person/25648",
+        "removed": true
+      },
+      {
+        "name": "Catherine West",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4523",
+        "twfy_id": "uk.org.publicwhip/person/25328",
+        "removed": false
+      },
+      {
+        "name": "Dr. Sam Rushworth",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5108",
+        "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
+      },
+      {
+        "name": "Suella Braverman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4475",
+        "twfy_id": "uk.org.publicwhip/person/25272",
         "removed": false
       }
     ]

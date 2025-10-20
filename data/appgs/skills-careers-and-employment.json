@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.policyconnect.org.uk/apgse"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Lauren Edwards",
@@ -186,7 +186,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Watson of Invergowrie",
@@ -202,6 +202,14 @@
         "member_type": "lord",
         "mnis_id": "53",
         "twfy_id": "uk.org.publicwhip/person/10637",
+        "removed": false
+      },
+      {
+        "name": "Lord Bilimoria",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3809",
+        "twfy_id": "uk.org.publicwhip/person/13881",
         "removed": false
       }
     ]

@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.gridnetworks.co.uk/"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Mary Glindon",
@@ -58,7 +58,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alex Sobel",
@@ -178,7 +178,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon. the Lord Livingston of Parkhead",
@@ -186,7 +186,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon. the Lord Naseby",
@@ -194,7 +194,7 @@
         "member_type": "lord",
         "mnis_id": "1251",
         "twfy_id": "uk.org.publicwhip/person/13704",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon. the Lord Lucas and Dingwall",
@@ -202,7 +202,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon. the Lord Teverson",
@@ -210,7 +210,7 @@
         "member_type": "lord",
         "mnis_id": "3789",
         "twfy_id": "uk.org.publicwhip/person/13732",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mark Ferguson",
@@ -218,7 +218,7 @@
         "member_type": "mp",
         "mnis_id": "5031",
         "twfy_id": "uk.org.publicwhip/person/26310",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tom Collins",
@@ -226,6 +226,54 @@
         "member_type": "mp",
         "mnis_id": "5087",
         "twfy_id": "uk.org.publicwhip/person/26351",
+        "removed": false
+      },
+      {
+        "name": "Lord Arbuthnot of Edrom",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord David Howell of Guildford",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Livingston of Parkhead",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Naseby",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1251",
+        "twfy_id": "uk.org.publicwhip/person/13704",
+        "removed": false
+      },
+      {
+        "name": "Lord Lucas and Dingwall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Teverson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3789",
+        "twfy_id": "uk.org.publicwhip/person/13732",
         "removed": false
       }
     ]

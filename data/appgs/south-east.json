@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.secouncils.gov.uk/appg-south-east"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Tan Dhesi",
@@ -90,7 +90,7 @@
         "member_type": "mp",
         "mnis_id": "5276",
         "twfy_id": "uk.org.publicwhip/person/26519",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dr Beccy Cooper",
@@ -98,7 +98,7 @@
         "member_type": "mp",
         "mnis_id": "5307",
         "twfy_id": "uk.org.publicwhip/person/26515",
-        "removed": false
+        "removed": true
       },
       {
         "name": "John Milne",
@@ -130,7 +130,7 @@
         "member_type": "mp",
         "mnis_id": "4495",
         "twfy_id": "uk.org.publicwhip/person/25346",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rebecca Paul",
@@ -178,7 +178,7 @@
         "member_type": "mp",
         "mnis_id": "3969",
         "twfy_id": "uk.org.publicwhip/person/24782",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jim Dickson",
@@ -234,7 +234,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lee Dillon",
@@ -274,7 +274,7 @@
         "member_type": "mp",
         "mnis_id": "5118",
         "twfy_id": "uk.org.publicwhip/person/26396",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Amanda Martin",
@@ -282,7 +282,7 @@
         "member_type": "mp",
         "mnis_id": "5294",
         "twfy_id": "uk.org.publicwhip/person/26430",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Josh Babarinde OBE",
@@ -290,7 +290,7 @@
         "member_type": "mp",
         "mnis_id": "5086",
         "twfy_id": "uk.org.publicwhip/person/26353",
-        "removed": false
+        "removed": true
       },
       {
         "name": "James MacCleary",
@@ -298,7 +298,7 @@
         "member_type": "mp",
         "mnis_id": "5265",
         "twfy_id": "uk.org.publicwhip/person/26581",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Luke Murphy",
@@ -306,7 +306,7 @@
         "member_type": "mp",
         "mnis_id": "5248",
         "twfy_id": "uk.org.publicwhip/person/26488",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Satvir Kaur",
@@ -314,7 +314,7 @@
         "member_type": "mp",
         "mnis_id": "5271",
         "twfy_id": "uk.org.publicwhip/person/26451",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dr Darren Paffey",
@@ -322,7 +322,7 @@
         "member_type": "mp",
         "mnis_id": "5270",
         "twfy_id": "uk.org.publicwhip/person/26431",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dr Danny Chambers",
@@ -330,6 +330,46 @@
         "member_type": "mp",
         "mnis_id": "5304",
         "twfy_id": "uk.org.publicwhip/person/26607",
+        "removed": true
+      },
+      {
+        "name": "Siân Berry",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5314",
+        "twfy_id": "uk.org.publicwhip/person/25752",
+        "removed": false
+      },
+      {
+        "name": "Beccy Cooper",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5307",
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
+      },
+      {
+        "name": "Kit Malthouse",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4495",
+        "twfy_id": "uk.org.publicwhip/person/25346",
+        "removed": false
+      },
+      {
+        "name": "Damian Hinds",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3969",
+        "twfy_id": "uk.org.publicwhip/person/24782",
+        "removed": false
+      },
+      {
+        "name": "Baroness Deborah Stedman-Scott",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

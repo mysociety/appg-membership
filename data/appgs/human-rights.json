@@ -40,9 +40,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.appghumanrights.com/officers"
+      "https://www.appghumanrights.com/officers",
+      "https://www.appghumanrights.com/members"
     ],
-    "last_updated": "2025-04-29",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Fabian Hamilton",
@@ -58,7 +59,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ellie Chowns",
@@ -354,7 +355,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Blower",
@@ -370,7 +371,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Finlay of Llandaff",
@@ -394,7 +395,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hodgson of Abinger CBE",
@@ -402,7 +403,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hooper CMG",
@@ -410,7 +411,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Jones of Moulsecoomb",
@@ -458,6 +459,54 @@
         "member_type": "lord",
         "mnis_id": "2510",
         "twfy_id": "uk.org.publicwhip/person/12957",
+        "removed": false
+      },
+      {
+        "name": "The Lord Garnier",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "337",
+        "twfy_id": "uk.org.publicwhip/person/10221",
+        "removed": false
+      },
+      {
+        "name": "Lord Bird",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4564",
+        "twfy_id": "uk.org.publicwhip/person/25479",
+        "removed": false
+      },
+      {
+        "name": "The Lord Dholakia",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2685",
+        "twfy_id": "uk.org.publicwhip/person/13662",
+        "removed": false
+      },
+      {
+        "name": "The Lord Harries of Pentregarth",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Hodgson of Abinger",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Hooper",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2005",
+        "twfy_id": "uk.org.publicwhip/person/13081",
         "removed": false
       }
     ]

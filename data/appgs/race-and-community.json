@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.appg-race.com/members"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Clive Lewis",
@@ -74,7 +74,7 @@
         "member_type": "mp",
         "mnis_id": "5142",
         "twfy_id": "uk.org.publicwhip/person/26413",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bell Ribeiro- Addy",
@@ -218,6 +218,14 @@
         "member_type": "lord",
         "mnis_id": "352",
         "twfy_id": "uk.org.publicwhip/person/10056",
+        "removed": false
+      },
+      {
+        "name": "Shockat Adam",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5120",
+        "twfy_id": "uk.org.publicwhip/person/26364",
         "removed": false
       }
     ]

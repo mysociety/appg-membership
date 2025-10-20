@@ -42,7 +42,7 @@
     "source_url": [
       "https://appgbritishhindus.com/appg-officers/"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "MP Bob Blackman",
@@ -50,7 +50,7 @@
         "member_type": "mp",
         "mnis_id": "4005",
         "twfy_id": "uk.org.publicwhip/person/24945",
-        "removed": false
+        "removed": true
       },
       {
         "name": "MP Navendu Mishra",
@@ -58,7 +58,7 @@
         "member_type": "mp",
         "mnis_id": "4811",
         "twfy_id": "uk.org.publicwhip/person/25836",
-        "removed": false
+        "removed": true
       },
       {
         "name": "MP Luke Taylor",
@@ -66,7 +66,7 @@
         "member_type": "mp",
         "mnis_id": "5103",
         "twfy_id": "uk.org.publicwhip/person/26443",
-        "removed": false
+        "removed": true
       },
       {
         "name": "MP Neil Hudson",
@@ -74,7 +74,7 @@
         "member_type": "mp",
         "mnis_id": "4853",
         "twfy_id": "uk.org.publicwhip/person/25875",
-        "removed": false
+        "removed": true
       },
       {
         "name": "MP Bobby Dean",
@@ -82,7 +82,7 @@
         "member_type": "mp",
         "mnis_id": "5083",
         "twfy_id": "uk.org.publicwhip/person/26371",
-        "removed": false
+        "removed": true
       },
       {
         "name": "MP Paula Barker",
@@ -90,7 +90,7 @@
         "member_type": "mp",
         "mnis_id": "4828",
         "twfy_id": "uk.org.publicwhip/person/25819",
-        "removed": false
+        "removed": true
       },
       {
         "name": "MP Louie French",
@@ -98,7 +98,7 @@
         "member_type": "mp",
         "mnis_id": "4932",
         "twfy_id": "uk.org.publicwhip/person/26055",
-        "removed": false
+        "removed": true
       },
       {
         "name": "MP Jim Dickson",
@@ -106,7 +106,7 @@
         "member_type": "mp",
         "mnis_id": "5223",
         "twfy_id": "uk.org.publicwhip/person/26547",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Sandeep Verma",
@@ -114,7 +114,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bob Blackman",
@@ -234,7 +234,7 @@
         "member_type": "mp",
         "mnis_id": "5167",
         "twfy_id": "uk.org.publicwhip/person/26428",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Susan Murray",
@@ -298,6 +298,22 @@
         "member_type": "mp",
         "mnis_id": "5090",
         "twfy_id": "uk.org.publicwhip/person/26400",
+        "removed": false
+      },
+      {
+        "name": "Danny Beales",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5339",
+        "twfy_id": "uk.org.publicwhip/person/26619",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
         "removed": false
       }
     ]

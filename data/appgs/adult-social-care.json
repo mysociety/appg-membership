@@ -42,7 +42,7 @@
     "source_url": [
       "https://adultsocialcareappg.com/who-we-are"
     ],
-    "last_updated": "2025-04-29",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Sojan Joseph",
@@ -162,7 +162,7 @@
         "member_type": "lord",
         "mnis_id": "395",
         "twfy_id": "uk.org.publicwhip/person/10050",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Warwick",
@@ -170,7 +170,7 @@
         "member_type": "lord",
         "mnis_id": "2471",
         "twfy_id": "uk.org.publicwhip/person/12894",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Grey-Thompson",
@@ -178,7 +178,7 @@
         "member_type": "lord",
         "mnis_id": "3862",
         "twfy_id": "uk.org.publicwhip/person/24707",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Best",
@@ -186,7 +186,7 @@
         "member_type": "lord",
         "mnis_id": "3605",
         "twfy_id": "uk.org.publicwhip/person/13507",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Bishop of Southwell and Nottingham",
@@ -194,7 +194,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Taylor",
@@ -202,6 +202,174 @@
         "member_type": "lord",
         "mnis_id": "228",
         "twfy_id": "uk.org.publicwhip/person/10590",
+        "removed": true
+      },
+      {
+        "name": "Blunkett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Warwick",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2471",
+        "twfy_id": "uk.org.publicwhip/person/12894",
+        "removed": false
+      },
+      {
+        "name": "Grey-Thompson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3862",
+        "twfy_id": "uk.org.publicwhip/person/24707",
+        "removed": false
+      },
+      {
+        "name": "Best",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bishop of Southwell and Nottingham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Taylor",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "407",
+        "twfy_id": "uk.org.publicwhip/person/10584",
+        "removed": false
+      },
+      {
+        "name": "National Care Forum",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Care Tech",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Anchor",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Skills for Care",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dimensions",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Home Group",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Methodist Homes Association",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Community Integrated Care",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Affinity Trust",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "United Response",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Nourish Care",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Social Care Institute for Excellence",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "TLAP",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Learning Disability England",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sanctuary",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

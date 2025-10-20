@@ -42,7 +42,7 @@
     "source_url": [
       "https://appgpandemic.org/about"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Graham Stringer",
@@ -58,7 +58,7 @@
         "member_type": "mp",
         "mnis_id": "4084",
         "twfy_id": "uk.org.publicwhip/person/24882",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rt Hon Sammy Wilson",
@@ -66,7 +66,7 @@
         "member_type": "mp",
         "mnis_id": "1593",
         "twfy_id": "uk.org.publicwhip/person/11374",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sir Christopher Chope",
@@ -74,7 +74,7 @@
         "member_type": "mp",
         "mnis_id": "242",
         "twfy_id": "uk.org.publicwhip/person/10103",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sir Iain Duncan Smith",
@@ -82,7 +82,7 @@
         "member_type": "mp",
         "mnis_id": "152",
         "twfy_id": "uk.org.publicwhip/person/10180",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Yasmin Qureshi",
@@ -202,6 +202,38 @@
         "member_type": "lord",
         "mnis_id": "334",
         "twfy_id": "uk.org.publicwhip/person/10503",
+        "removed": false
+      },
+      {
+        "name": "Esther McVey",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4084",
+        "twfy_id": "uk.org.publicwhip/person/24882",
+        "removed": false
+      },
+      {
+        "name": "Sammy Wilson",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1593",
+        "twfy_id": "uk.org.publicwhip/person/11374",
+        "removed": false
+      },
+      {
+        "name": "Christopher Chope",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "242",
+        "twfy_id": "uk.org.publicwhip/person/10103",
+        "removed": false
+      },
+      {
+        "name": "Iain Duncan Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "152",
+        "twfy_id": "uk.org.publicwhip/person/10180",
         "removed": false
       }
     ]

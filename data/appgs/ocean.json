@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.oceanappg.org/officers-and-members"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Sarah Champion",
@@ -58,7 +58,7 @@
         "member_type": "mp",
         "mnis_id": "5220",
         "twfy_id": "uk.org.publicwhip/person/26589",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Jones",
@@ -450,7 +450,7 @@
         "member_type": "lord",
         "mnis_id": "5014",
         "twfy_id": "uk.org.publicwhip/person/26292",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Smith of Newnham",
@@ -458,7 +458,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Sater",
@@ -466,7 +466,7 @@
         "member_type": "lord",
         "mnis_id": "4700",
         "twfy_id": "uk.org.publicwhip/person/25734",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bakewell",
@@ -474,7 +474,7 @@
         "member_type": "lord",
         "mnis_id": "4223",
         "twfy_id": "uk.org.publicwhip/person/25045",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Goddard",
@@ -482,6 +482,22 @@
         "member_type": "lord",
         "mnis_id": "4334",
         "twfy_id": "uk.org.publicwhip/person/25247",
+        "removed": true
+      },
+      {
+        "name": "Tristan Osborne",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5220",
+        "twfy_id": "uk.org.publicwhip/person/26589",
+        "removed": false
+      },
+      {
+        "name": "Tom Rutland",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5222",
+        "twfy_id": "uk.org.publicwhip/person/26467",
         "removed": false
       }
     ]

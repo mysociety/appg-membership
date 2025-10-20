@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.vvappg.com/who-we-are"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Jim Shannon",
@@ -70,6 +70,14 @@
       },
       {
         "name": "Lord Lansley CBE",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "123",
+        "twfy_id": "uk.org.publicwhip/person/10349",
+        "removed": true
+      },
+      {
+        "name": "Lord Lansley",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "123",

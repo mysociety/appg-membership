@@ -42,7 +42,7 @@
     "source_url": [
       "https://ukguantanamonetwork.org/appg"
     ],
-    "last_updated": "2025-08-11",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Chris Law",
@@ -74,7 +74,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Natalie Bennett",
@@ -202,6 +202,14 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Garnier",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "337",
+        "twfy_id": "uk.org.publicwhip/person/10221",
         "removed": false
       }
     ]

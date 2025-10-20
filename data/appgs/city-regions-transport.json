@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.urbantransportgroup.org/city-regions-transport-appg"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Clive Betts",
@@ -66,7 +66,7 @@
         "member_type": "mp",
         "mnis_id": "5314",
         "twfy_id": "uk.org.publicwhip/person/25752",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon. the Lord McLoughlin CH",
@@ -74,7 +74,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alex Sobel",
@@ -98,7 +98,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jo Platt",
@@ -154,7 +154,7 @@
         "member_type": "mp",
         "mnis_id": "5115",
         "twfy_id": "uk.org.publicwhip/person/26362",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Daniel Francis",
@@ -178,7 +178,7 @@
         "member_type": "lord",
         "mnis_id": "3526",
         "twfy_id": "uk.org.publicwhip/person/13505",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rachael Maskell",
@@ -206,6 +206,38 @@
       },
       {
         "name": "Rt Hon. the Lord Brady of Altrincham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "The Lord McLoughlin",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "333",
+        "twfy_id": "uk.org.publicwhip/person/10397",
+        "removed": false
+      },
+      {
+        "name": "Baroness Pidgeon",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "5366",
+        "twfy_id": "uk.org.publicwhip/person/26645",
+        "removed": false
+      },
+      {
+        "name": "Lord Berkeley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3526",
+        "twfy_id": "uk.org.publicwhip/person/13505",
+        "removed": false
+      },
+      {
+        "name": "The Lord Brady of Altrincham",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,

@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.longcovid.org/impact/appg-on-long-covid"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Jo Platt",
@@ -298,6 +298,46 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Luke Akehurst",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5112",
+        "twfy_id": "uk.org.publicwhip/person/26420",
+        "removed": false
+      },
+      {
+        "name": "Dan Aldridge",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5172",
+        "twfy_id": "uk.org.publicwhip/person/26453",
+        "removed": false
+      },
+      {
+        "name": "Tom Gordon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5032",
+        "twfy_id": "uk.org.publicwhip/person/26312",
+        "removed": false
+      },
+      {
+        "name": "Connor Naismith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5273",
+        "twfy_id": "uk.org.publicwhip/person/26506",
+        "removed": false
+      },
+      {
+        "name": "Paul Waugh",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5071",
+        "twfy_id": "uk.org.publicwhip/person/26319",
         "removed": false
       }
     ]

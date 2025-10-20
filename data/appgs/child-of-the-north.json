@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.healthequitynorth.co.uk/appg-reports/"
     ],
-    "last_updated": "2025-04-29",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Emma Lewell-Buck",
@@ -50,7 +50,7 @@
         "member_type": "mp",
         "mnis_id": "4277",
         "twfy_id": "uk.org.publicwhip/person/25181",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rachel Maskell",
@@ -82,7 +82,7 @@
         "member_type": "mp",
         "mnis_id": "4667",
         "twfy_id": "uk.org.publicwhip/person/25702",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mary Kelly Foy",
@@ -130,7 +130,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Debbie Abrahams",
@@ -202,6 +202,22 @@
         "member_type": "mp",
         "mnis_id": "5228",
         "twfy_id": "uk.org.publicwhip/person/26479",
+        "removed": false
+      },
+      {
+        "name": "Emma Lewell Buck",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4277",
+        "twfy_id": "uk.org.publicwhip/person/25181",
+        "removed": false
+      },
+      {
+        "name": "Baroness Armstrong of Hill Top",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

@@ -38,45 +38,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://apdawg.co.uk/"
-    ],
-    "last_updated": "2025-04-29",
-    "members": [
-      {
-        "name": "Rosie Duffield",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4616",
-        "twfy_id": "uk.org.publicwhip/person/25656",
-        "removed": false
-      },
-      {
-        "name": "Ruth Jones",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4716",
-        "twfy_id": "uk.org.publicwhip/person/25746",
-        "removed": false
-      },
-      {
-        "name": "Danny Chambers",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5304",
-        "twfy_id": "uk.org.publicwhip/person/26607",
-        "removed": false
-      },
-      {
-        "name": "The Earl of Courtown",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2025-10-20",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Rosie Duffield MP",

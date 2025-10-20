@@ -38,45 +38,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://westcoastrail250.co.uk/appg/"
-    ],
-    "last_updated": "2025-04-30",
-    "members": [
-      {
-        "name": "Cat Smith",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4436",
-        "twfy_id": "uk.org.publicwhip/person/25432",
-        "removed": false
-      },
-      {
-        "name": "Esther McVey",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4084",
-        "twfy_id": "uk.org.publicwhip/person/24882",
-        "removed": false
-      },
-      {
-        "name": "Llinos Medi",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5085",
-        "twfy_id": "uk.org.publicwhip/person/26454",
-        "removed": false
-      },
-      {
-        "name": "Julie Minns",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5094",
-        "twfy_id": "uk.org.publicwhip/person/26403",
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2025-10-20",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Cat Smith MP",

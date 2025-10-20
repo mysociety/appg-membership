@@ -40,9 +40,11 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://appgdetention.org.uk/about/current-members-2/"
+      "https://appgdetention.org.uk/about/current-members-2/",
+      "https://appgdetention.org.uk/about/current-members/",
+      "https://appgdetention.org.uk/about/members-2023-24/"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Bell Ribeiro-Addy",
@@ -58,7 +60,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hamwee",
@@ -82,7 +84,7 @@
         "member_type": "mp",
         "mnis_id": "172",
         "twfy_id": "uk.org.publicwhip/person/10001",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bennett of Manor Castle",
@@ -186,7 +188,7 @@
         "member_type": "mp",
         "mnis_id": "178",
         "twfy_id": "uk.org.publicwhip/person/10383",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Meacher",
@@ -202,7 +204,7 @@
         "member_type": "mp",
         "mnis_id": "1211",
         "twfy_id": "uk.org.publicwhip/person/11115",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Layla Moran",
@@ -314,7 +316,7 @@
         "member_type": "mp",
         "mnis_id": "150",
         "twfy_id": "uk.org.publicwhip/person/10260",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Caroline Lucas",
@@ -402,7 +404,7 @@
         "member_type": "mp",
         "mnis_id": "163",
         "twfy_id": "uk.org.publicwhip/person/10596",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Catherine West",
@@ -426,6 +428,118 @@
         "member_type": "mp",
         "mnis_id": "4809",
         "twfy_id": "uk.org.publicwhip/person/25826",
+        "removed": false
+      },
+      {
+        "name": "the Lord Garnier",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "337",
+        "twfy_id": "uk.org.publicwhip/person/10221",
+        "removed": false
+      },
+      {
+        "name": "Diane Abbott",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "172",
+        "twfy_id": "uk.org.publicwhip/person/10001",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Andrew Mitchell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1211",
+        "twfy_id": "uk.org.publicwhip/person/11115",
+        "removed": false
+      },
+      {
+        "name": "Diane Abbott",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "172",
+        "twfy_id": "uk.org.publicwhip/person/10001",
+        "removed": false
+      },
+      {
+        "name": "Harriet Harman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "150",
+        "twfy_id": "uk.org.publicwhip/person/10260",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Andrew Mitchell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1211",
+        "twfy_id": "uk.org.publicwhip/person/11115",
+        "removed": false
+      },
+      {
+        "name": "Stephen Timms",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "163",
+        "twfy_id": "uk.org.publicwhip/person/10596",
+        "removed": false
+      },
+      {
+        "name": "Harriet Harman",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "150",
+        "twfy_id": "uk.org.publicwhip/person/10260",
+        "removed": false
+      },
+      {
+        "name": "Diane Abbott",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "172",
+        "twfy_id": "uk.org.publicwhip/person/10001",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Andrew Mitchell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1211",
+        "twfy_id": "uk.org.publicwhip/person/11115",
+        "removed": false
+      },
+      {
+        "name": "Stephen Timms",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "163",
+        "twfy_id": "uk.org.publicwhip/person/10596",
         "removed": false
       }
     ]

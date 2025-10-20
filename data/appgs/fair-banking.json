@@ -26,7 +26,7 @@
     "source_url": [
       "https://www.appgbanking.org.uk/about"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Luke Charters",
@@ -34,7 +34,7 @@
         "member_type": "mp",
         "mnis_id": "5199",
         "twfy_id": "uk.org.publicwhip/person/26480",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Debbie Abrahams",
@@ -170,7 +170,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "David Burton-Sampson",
@@ -402,6 +402,22 @@
         "member_type": "lord",
         "mnis_id": "965",
         "twfy_id": "uk.org.publicwhip/person/19579",
+        "removed": false
+      },
+      {
+        "name": "Wendy Chamberlain",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4765",
+        "twfy_id": "uk.org.publicwhip/person/25872",
+        "removed": false
+      },
+      {
+        "name": "Joe Morris",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5081",
+        "twfy_id": "uk.org.publicwhip/person/26468",
         "removed": false
       }
     ]

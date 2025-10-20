@@ -40,9 +40,12 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://appgcw.org/members/committee/"
+      "https://appgcw.org/members/committee/",
+      "https://appgcw.org/members/mps/",
+      "https://appgcw.org/members/peers/",
+      "https://appgcw.org/members/associate-members/"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Scott Arthur",
@@ -498,7 +501,7 @@
         "member_type": "lord",
         "mnis_id": "919",
         "twfy_id": "uk.org.publicwhip/person/13129",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Pidgeon",
@@ -610,7 +613,7 @@
         "member_type": "mp",
         "mnis_id": "5212",
         "twfy_id": "uk.org.publicwhip/person/26591",
-        "removed": false
+        "removed": true
       },
       {
         "name": "James ASSER",
@@ -618,7 +621,7 @@
         "member_type": "mp",
         "mnis_id": "5211",
         "twfy_id": "uk.org.publicwhip/person/26594",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Catherine ATKINSON",
@@ -626,7 +629,7 @@
         "member_type": "mp",
         "mnis_id": "5143",
         "twfy_id": "uk.org.publicwhip/person/26405",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sian BERRY",
@@ -634,7 +637,7 @@
         "member_type": "mp",
         "mnis_id": "5314",
         "twfy_id": "uk.org.publicwhip/person/25752",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Julia BUCKLEY",
@@ -642,7 +645,7 @@
         "member_type": "mp",
         "mnis_id": "5171",
         "twfy_id": "uk.org.publicwhip/person/26436",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ruth CADBURY",
@@ -650,7 +653,7 @@
         "member_type": "mp",
         "mnis_id": "4389",
         "twfy_id": "uk.org.publicwhip/person/25343",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Andrew COOPER",
@@ -658,7 +661,7 @@
         "member_type": "mp",
         "mnis_id": "5195",
         "twfy_id": "uk.org.publicwhip/person/26447",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jeremy CORBYN",
@@ -666,7 +669,7 @@
         "member_type": "mp",
         "mnis_id": "185",
         "twfy_id": "uk.org.publicwhip/person/10133",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Pam COX",
@@ -674,7 +677,7 @@
         "member_type": "mp",
         "mnis_id": "5042",
         "twfy_id": "uk.org.publicwhip/person/26324",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sarah DYKE",
@@ -682,7 +685,7 @@
         "member_type": "mp",
         "mnis_id": "4995",
         "twfy_id": "uk.org.publicwhip/person/26270",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Richard FOORD",
@@ -690,7 +693,7 @@
         "member_type": "mp",
         "mnis_id": "4942",
         "twfy_id": "uk.org.publicwhip/person/26086",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Emma HARDY",
@@ -698,7 +701,7 @@
         "member_type": "mp",
         "mnis_id": "4645",
         "twfy_id": "uk.org.publicwhip/person/25646",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Pippa HEYLINGS",
@@ -706,7 +709,7 @@
         "member_type": "mp",
         "mnis_id": "5078",
         "twfy_id": "uk.org.publicwhip/person/26421",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Meg HILLIER",
@@ -714,7 +717,7 @@
         "member_type": "mp",
         "mnis_id": "1524",
         "twfy_id": "uk.org.publicwhip/person/11605",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Were HOBHOUSE",
@@ -722,7 +725,7 @@
         "member_type": "mp",
         "mnis_id": "4602",
         "twfy_id": "uk.org.publicwhip/person/25648",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rupa HUQ",
@@ -730,7 +733,7 @@
         "member_type": "mp",
         "mnis_id": "4511",
         "twfy_id": "uk.org.publicwhip/person/25284",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Afzal KHAN",
@@ -738,7 +741,7 @@
         "member_type": "mp",
         "mnis_id": "4671",
         "twfy_id": "uk.org.publicwhip/person/25662",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Paul KOHLER",
@@ -746,7 +749,7 @@
         "member_type": "mp",
         "mnis_id": "5321",
         "twfy_id": "uk.org.publicwhip/person/26570",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Kim LEADBEATER",
@@ -754,7 +757,7 @@
         "member_type": "mp",
         "mnis_id": "4923",
         "twfy_id": "uk.org.publicwhip/person/26040",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Seamus LOGAN",
@@ -762,7 +765,7 @@
         "member_type": "mp",
         "mnis_id": "5280",
         "twfy_id": "uk.org.publicwhip/person/26534",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ben MAGUIRE",
@@ -770,7 +773,7 @@
         "member_type": "mp",
         "mnis_id": "5350",
         "twfy_id": "uk.org.publicwhip/person/26623",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rachael MASKELL",
@@ -778,7 +781,7 @@
         "member_type": "mp",
         "mnis_id": "4471",
         "twfy_id": "uk.org.publicwhip/person/25433",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Brian MATHEW",
@@ -786,7 +789,7 @@
         "member_type": "mp",
         "mnis_id": "5214",
         "twfy_id": "uk.org.publicwhip/person/26509",
-        "removed": false
+        "removed": true
       },
       {
         "name": "John MILNE",
@@ -794,7 +797,7 @@
         "member_type": "mp",
         "mnis_id": "5329",
         "twfy_id": "uk.org.publicwhip/person/26624",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Gagan MOHINDRA",
@@ -802,7 +805,7 @@
         "member_type": "mp",
         "mnis_id": "4804",
         "twfy_id": "uk.org.publicwhip/person/25920",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Kevin McKENNA",
@@ -810,7 +813,7 @@
         "member_type": "mp",
         "mnis_id": "5300",
         "twfy_id": "uk.org.publicwhip/person/26529",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Charlotte NICHOLS",
@@ -818,7 +821,7 @@
         "member_type": "mp",
         "mnis_id": "4799",
         "twfy_id": "uk.org.publicwhip/person/25885",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sarah OLNEY",
@@ -826,7 +829,7 @@
         "member_type": "mp",
         "mnis_id": "4591",
         "twfy_id": "uk.org.publicwhip/person/25596",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Chi ONWURAH",
@@ -834,7 +837,7 @@
         "member_type": "mp",
         "mnis_id": "4124",
         "twfy_id": "uk.org.publicwhip/person/24807",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dr Simon OPHER",
@@ -842,7 +845,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Steve RACE",
@@ -850,7 +853,7 @@
         "member_type": "mp",
         "mnis_id": "5064",
         "twfy_id": "uk.org.publicwhip/person/26345",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Luke TAYLOR",
@@ -858,7 +861,7 @@
         "member_type": "mp",
         "mnis_id": "5103",
         "twfy_id": "uk.org.publicwhip/person/26443",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Emily THORNBERRY",
@@ -866,7 +869,7 @@
         "member_type": "mp",
         "mnis_id": "1536",
         "twfy_id": "uk.org.publicwhip/person/11656",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Matt WESTERN",
@@ -874,7 +877,7 @@
         "member_type": "mp",
         "mnis_id": "4617",
         "twfy_id": "uk.org.publicwhip/person/25701",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Yuan YANG",
@@ -882,7 +885,7 @@
         "member_type": "mp",
         "mnis_id": "5267",
         "twfy_id": "uk.org.publicwhip/person/26600",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord AUSTIN",
@@ -890,7 +893,7 @@
         "member_type": "lord",
         "mnis_id": "1511",
         "twfy_id": "uk.org.publicwhip/person/11553",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord BALFE",
@@ -898,7 +901,7 @@
         "member_type": "lord",
         "mnis_id": "4302",
         "twfy_id": "uk.org.publicwhip/person/25209",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness BARKER",
@@ -906,7 +909,7 @@
         "member_type": "lord",
         "mnis_id": "2501",
         "twfy_id": "uk.org.publicwhip/person/13524",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord BATES",
@@ -914,7 +917,7 @@
         "member_type": "lord",
         "mnis_id": "1091",
         "twfy_id": "uk.org.publicwhip/person/14134",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness BENNETT",
@@ -922,7 +925,7 @@
         "member_type": "lord",
         "mnis_id": "4719",
         "twfy_id": "uk.org.publicwhip/person/25776",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord BERKELEY",
@@ -930,7 +933,7 @@
         "member_type": "lord",
         "mnis_id": "3526",
         "twfy_id": "uk.org.publicwhip/person/13505",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness BOTTOMLEY",
@@ -938,7 +941,7 @@
         "member_type": "lord",
         "mnis_id": "106",
         "twfy_id": "uk.org.publicwhip/person/10058",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Viscount BRIDGEMAN",
@@ -946,7 +949,7 @@
         "member_type": "lord",
         "mnis_id": "3515",
         "twfy_id": "uk.org.publicwhip/person/13640",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord BURNS",
@@ -954,7 +957,7 @@
         "member_type": "lord",
         "mnis_id": "3351",
         "twfy_id": "uk.org.publicwhip/person/13430",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord BUTLER",
@@ -962,7 +965,7 @@
         "member_type": "lord",
         "mnis_id": "3337",
         "twfy_id": "uk.org.publicwhip/person/13347",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Viscount COLVILLE",
@@ -970,7 +973,7 @@
         "member_type": "lord",
         "mnis_id": "4248",
         "twfy_id": "uk.org.publicwhip/person/25147",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Viscount CRAIGAVON",
@@ -978,7 +981,7 @@
         "member_type": "lord",
         "mnis_id": "3384",
         "twfy_id": "uk.org.publicwhip/person/13599",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord DUBS",
@@ -986,7 +989,7 @@
         "member_type": "lord",
         "mnis_id": "805",
         "twfy_id": "uk.org.publicwhip/person/13000",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness GREY-THOMPSON",
@@ -994,7 +997,7 @@
         "member_type": "lord",
         "mnis_id": "3862",
         "twfy_id": "uk.org.publicwhip/person/24707",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord HASKEL",
@@ -1002,7 +1005,7 @@
         "member_type": "lord",
         "mnis_id": "2665",
         "twfy_id": "uk.org.publicwhip/person/13499",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord HOFFMANN",
@@ -1010,7 +1013,7 @@
         "member_type": "lord",
         "mnis_id": "2633",
         "twfy_id": "uk.org.publicwhip/person/13221",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness JENKIN",
@@ -1018,7 +1021,7 @@
         "member_type": "lord",
         "mnis_id": "4229",
         "twfy_id": "uk.org.publicwhip/person/25064",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness JONES",
@@ -1026,7 +1029,7 @@
         "member_type": "lord",
         "mnis_id": "3792",
         "twfy_id": "uk.org.publicwhip/person/13877",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord KENNEDY",
@@ -1034,7 +1037,7 @@
         "member_type": "lord",
         "mnis_id": "4153",
         "twfy_id": "uk.org.publicwhip/person/24986",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord LUCAS",
@@ -1042,7 +1045,7 @@
         "member_type": "lord",
         "mnis_id": "1879",
         "twfy_id": "uk.org.publicwhip/person/13301",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord MARKS",
@@ -1050,7 +1053,7 @@
         "member_type": "lord",
         "mnis_id": "4206",
         "twfy_id": "uk.org.publicwhip/person/25035",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord MCNALLY",
@@ -1058,7 +1061,7 @@
         "member_type": "lord",
         "mnis_id": "919",
         "twfy_id": "uk.org.publicwhip/person/13129",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness PIDGEON",
@@ -1066,7 +1069,7 @@
         "member_type": "lord",
         "mnis_id": "5366",
         "twfy_id": "uk.org.publicwhip/person/26645",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord REDESDALE",
@@ -1074,7 +1077,7 @@
         "member_type": "lord",
         "mnis_id": "3271",
         "twfy_id": "uk.org.publicwhip/person/13031",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord ROBATHAN",
@@ -1082,7 +1085,7 @@
         "member_type": "lord",
         "mnis_id": "334",
         "twfy_id": "uk.org.publicwhip/person/10503",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord RUSSELL",
@@ -1090,7 +1093,7 @@
         "member_type": "lord",
         "mnis_id": "2134",
         "twfy_id": "uk.org.publicwhip/person/25260",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord TEVERSON",
@@ -1098,7 +1101,7 @@
         "member_type": "lord",
         "mnis_id": "3789",
         "twfy_id": "uk.org.publicwhip/person/13732",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord WALNEY",
@@ -1106,7 +1109,7 @@
         "member_type": "lord",
         "mnis_id": "3917",
         "twfy_id": "uk.org.publicwhip/person/24837",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord WATSON",
@@ -1114,7 +1117,7 @@
         "member_type": "lord",
         "mnis_id": "1463",
         "twfy_id": "uk.org.publicwhip/person/11309",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord WEI",
@@ -1122,7 +1125,7 @@
         "member_type": "lord",
         "mnis_id": "4145",
         "twfy_id": "uk.org.publicwhip/person/24970",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord YOUNG",
@@ -1130,7 +1133,7 @@
         "member_type": "lord",
         "mnis_id": "57",
         "twfy_id": "uk.org.publicwhip/person/10659",
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://acso.org.uk",
@@ -1138,7 +1141,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://actionvisionzero.org",
@@ -1146,7 +1149,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://activeplanning.co.uk/",
@@ -1154,7 +1157,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://cycleassociation.uk",
@@ -1162,7 +1165,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://batribike.com",
@@ -1170,7 +1173,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://beryl.cc",
@@ -1178,7 +1181,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://bicycleassociation.org.uk",
@@ -1186,7 +1189,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://bikeabilitytrust.org",
@@ -1194,7 +1197,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://britishcycling.org.uk",
@@ -1202,7 +1205,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://brompton.com",
@@ -1210,7 +1213,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://camcycle.org.uk",
@@ -1218,7 +1221,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://cemex.com",
@@ -1226,7 +1229,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://cycleconfident.com",
@@ -1234,7 +1237,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://cycle-legal.co.uk",
@@ -1242,7 +1245,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://cycletoworkalliance.org.uk",
@@ -1250,7 +1253,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.cyclefit.co.uk/",
@@ -1258,7 +1261,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://cyclehoop.com",
@@ -1266,7 +1269,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://cycling.org.uk",
@@ -1274,7 +1277,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.cyclinguk.org",
@@ -1282,7 +1285,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://cycloconsulting.co.uk",
@@ -1290,7 +1293,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://eta.co.uk",
@@ -1298,7 +1301,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.estarli.co.uk",
@@ -1306,7 +1309,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.falco.co.uk/",
@@ -1314,7 +1317,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.fettle.cc",
@@ -1322,7 +1325,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.fletcherssolicitors.co.uk",
@@ -1330,7 +1333,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://footways.london",
@@ -1338,7 +1341,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.humanforest.co.uk",
@@ -1346,7 +1349,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://frogbikes.com",
@@ -1354,7 +1357,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://giant-bicycles.com/gb",
@@ -1362,7 +1365,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://greencommuteinitiative.uk",
@@ -1370,7 +1373,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://halfords.com",
@@ -1378,7 +1381,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://theihe.org",
@@ -1386,7 +1389,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.iwgb.org.uk",
@@ -1394,7 +1397,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.intelligenthealth.co.uk",
@@ -1402,7 +1405,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://irwinmitchell.com",
@@ -1410,7 +1413,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://johnforbesconsulting.co.uk",
@@ -1418,7 +1421,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://lcc.org.uk",
@@ -1426,7 +1429,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://leighday.co.uk",
@@ -1434,7 +1437,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.li.me/en-us/home",
@@ -1442,7 +1445,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.livingstreets.org.uk",
@@ -1450,7 +1453,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://mtrcrossrail.co.uk",
@@ -1458,7 +1461,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://www.met.police.uk",
@@ -1466,7 +1469,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://mineralproducts.org",
@@ -1474,7 +1477,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://modeshift.org.uk",
@@ -1482,7 +1485,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://pja.co.uk",
@@ -1490,7 +1493,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://pedalme.co.uk",
@@ -1498,7 +1501,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.quintain.co.uk",
@@ -1506,7 +1509,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://raleigh.co.uk",
@@ -1514,7 +1517,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.regentsparkcyclists.com",
@@ -1522,7 +1525,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://schwalbe.com/",
@@ -1530,7 +1533,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.selectamark.co.uk",
@@ -1538,7 +1541,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://solarcycle.uk",
@@ -1546,7 +1549,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://specialized.com",
@@ -1554,7 +1557,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://strava.com",
@@ -1562,7 +1565,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://sustrans.org.uk",
@@ -1570,7 +1573,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://thompsons.law",
@@ -1578,7 +1581,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://transport-initiatives.com",
@@ -1586,7 +1589,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://tps.org.uk",
@@ -1594,7 +1597,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.trashfreetrails.org",
@@ -1602,7 +1605,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://trekbikes.com/gb/en_GB",
@@ -1610,7 +1613,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://www.voiscooters.com",
@@ -1618,7 +1621,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "http://wheelsforwellbeing.org.uk",
@@ -1626,7 +1629,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "https://wisperbikes.com",
@@ -1634,7 +1637,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord McNally",

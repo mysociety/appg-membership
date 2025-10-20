@@ -42,7 +42,7 @@
     "source_url": [
       "https://www.climatetechappg.co.uk/"
     ],
-    "last_updated": "2025-09-16",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Steve Race",
@@ -170,7 +170,7 @@
         "member_type": "mp",
         "mnis_id": "5113",
         "twfy_id": "uk.org.publicwhip/person/26393",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Syed Kamall",
@@ -218,6 +218,22 @@
         "member_type": "mp",
         "mnis_id": "5216",
         "twfy_id": "uk.org.publicwhip/person/26511",
+        "removed": false
+      },
+      {
+        "name": "Sarah Edwards",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5001",
+        "twfy_id": "uk.org.publicwhip/person/26277",
+        "removed": false
+      },
+      {
+        "name": "Alistair Strathern",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5000",
+        "twfy_id": "uk.org.publicwhip/person/26278",
         "removed": false
       }
     ]

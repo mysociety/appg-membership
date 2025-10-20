@@ -42,7 +42,7 @@
     "source_url": [
       "https://fusionenergyappg.co.uk/about-us/"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "James Naish",
@@ -114,7 +114,7 @@
         "member_type": "lord",
         "mnis_id": "4130",
         "twfy_id": "uk.org.publicwhip/person/13856",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bob Blackman",
@@ -130,7 +130,7 @@
         "member_type": "mp",
         "mnis_id": "5277",
         "twfy_id": "uk.org.publicwhip/person/26499",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Bradshaw",
@@ -154,7 +154,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Mendoza",
@@ -250,6 +250,14 @@
         "member_type": "mp",
         "mnis_id": "4612",
         "twfy_id": "uk.org.publicwhip/person/25668",
+        "removed": false
+      },
+      {
+        "name": "Lord Mendelsohn",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4286",
+        "twfy_id": "uk.org.publicwhip/person/25189",
         "removed": false
       }
     ]

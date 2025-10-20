@@ -42,7 +42,7 @@
     "source_url": [
       "https://appg-emergingdrugs.org.uk/"
     ],
-    "last_updated": "2025-09-16",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Caroline Johnson",
@@ -66,7 +66,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Darren Paffey",
@@ -106,7 +106,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Graham Brady",
@@ -202,6 +202,30 @@
         "member_type": "lord",
         "mnis_id": "3425",
         "twfy_id": "uk.org.publicwhip/person/12875",
+        "removed": true
+      },
+      {
+        "name": "Healy of Primrose Hill",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jenkin of Kennington",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Attlee",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
