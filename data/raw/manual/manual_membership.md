@@ -711,11 +711,9 @@ Lord Wrottesley (officer)
 
 75\. Catherine West MP Labour
 
-76\. Steve Witherden MP Labour
+76\. Lord Woodley Labour
 
-77\. Lord Woodley Labour
-
-78\. Lord Woolf Crossbench
+77\. Lord Woolf Crossbench
 
 ## **Lebanon APPG**
 
@@ -761,7 +759,8 @@ Graham Morris MP
 Martin Vickers MP  
 Fabian Hamilton MP  
 Lord Mountevans  
-Jeremy Corbyn MP
+Jeremy Corbyn MP  
+Steve Witherden MP
 
 ## **Ukraine APPG**
 
@@ -8255,7 +8254,7 @@ Jess Asato
 
  
 
-## **first-do-no-harm---mesh-primodos-valproate**
+## **All-Party Parliamentary Group First Do No Harm \- Mesh, Primodos, Valproate**
 
 CHAIR – Sharon Hodgson
 
@@ -8969,6 +8968,230 @@ Baroness Smith of Llanfaes
 Baroness Stuart
 
 John Whittingdale MP
+
+## **APPG on Policing** 
+
+Carolyn Harris MP (Chair)
+
+Lord Harris of Haringey (Co-Chair)
+
+Rt Hon Kit Malthouse MP (Vice Chair)
+
+Baroness Browning (Vice Chair)
+
+Lord Rooker
+
+Will Stone MP
+
+Jonathan Hinder MP
+
+Lord Rogan
+
+Lord Craig of Radley
+
+Baroness Doocey
+
+Lord Dholakia
+
+Lord Tope
+
+Sian Berry MP
+
+Earl Attlee
+
+Kieran Mullan MP
+
+Euan Stainbank MP
+
+Matt Bishop MP
+
+Chris Webb MP
+
+Paul Foster MP
+
+Jas Athwal MP
+
+Jodie Gosling MP
+
+Lord McNally
+
+Baroness Jones of Moulsecoomb
+
+Lord Dubs
+
+Baroness O’Loan
+
+Lord Eames of Armagh
+
+Lord Wasserman
+
+Andrew Snowden MP
+
+Dave Robertson MP
+
+## **APPG Jamaica**
+
+Bell Ribeiro-Addy MP
+
+Lord Taylor of Warwick
+
+Afzal Khan MP
+
+Rupa Huq
+
+Edward Leigh
+
+Paulette Hamilton
+
+Mel Onn
+
+Lord Brin
+
+Rossenne Alin Khan
+
+Clive Lewis
+
+Natasha Irons
+
+Kate Osborne
+
+Kim Johnson
+
+Diana Abbott
+
+Rossie Duffield
+
+Calvin Bailey
+
+Uma Kumaran
+
+Ian Byrne
+
+John McDonnell
+
+Ian Lavery
+
+## **Children in Wales**
+
+Steve Witherden
+
+## **Heritage Rail**
+
+Steve Witherden
+
+## **Domestic violence and abuse**
+
+Steve Witherden
+
+## **Latin America**
+
+Steve Witherden
+
+## **Energy Studies**
+
+Jack Abbott MP
+
+Jess Asato MP
+
+Jonathan Brash MP
+
+Sir Christopher Chope MP
+
+Harriet Cross MP
+
+Bill Esterson MP
+
+Mark Garnier OBE MP
+
+Marie Goldman MP
+
+John Grady MP
+
+Claire Hughes MP
+
+Clive Jones MP
+
+Sojan Joseph MP
+
+Noah Law MP
+
+Seamus Logan MP
+
+Josh MacAlister MP
+
+Luke Murphy MP
+
+James Naish MP
+
+Josh Newbury MP
+
+Steve Race MP
+
+Adrian Ramsay MP
+
+Dr. Sam Rushworth MP
+
+The Rt Hon Graham Stuart MP
+
+Luke Taylor MP
+
+Bradley Thomas MP
+
+Richard Tice MP
+
+Henry Tufnell MP
+
+Martin Vickers MP
+
+The Lord Ashcombe
+
+Baroness Bennett of Manor Castle
+
+Lord Birt
+
+Baroness Bloomfield of Hinton Waldrist
+
+Viscount Brookeborough
+
+The Rt Hon The Lord Callanan
+
+The Lord Cameron of Dillington
+
+Lord Deben
+
+Lord Duncan of Springbank
+
+Lord Grantchester
+
+Lord Haskel
+
+Lord Howell of Guildford
+
+Lord Lennie
+
+Lord Lucas
+
+Baroness Parminter
+
+Lord Ravensdale
+
+Energy Managers Association
+
+The Rt Hon. the Lord Selkirk of Douglas PC QC
+
+The Lord Teverson
+
+The Viscount Trenchard
+
+Lord Truscott
+
+Lord Turnbull
+
+Baroness Walmsley
+
+The Rt Hon. the Lord Whitty
+
+Lord Wigley
 
  
 

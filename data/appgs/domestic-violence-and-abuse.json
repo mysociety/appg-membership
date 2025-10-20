@@ -38,11 +38,11 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
+    "source_method": "ai_search_with_manual",
     "source_url": [
       "https://www.womensaid.org.uk/get-involved/appg/"
     ],
-    "last_updated": "2025-04-28",
+    "last_updated": "2025-10-20",
     "members": [
       {
         "name": "Apsana Begum",
@@ -146,6 +146,14 @@
         "member_type": "mp",
         "mnis_id": "5207",
         "twfy_id": "uk.org.publicwhip/person/26377",
+        "removed": false
+      },
+      {
+        "name": "Steve Witherden",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5221",
+        "twfy_id": "uk.org.publicwhip/person/26583",
         "removed": false
       }
     ]

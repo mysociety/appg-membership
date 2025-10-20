@@ -218,6 +218,7 @@ def update_appgs_membership(
         valid_flags.append("not_found")
     if refresh_previous_ai:
         valid_flags.append("ai_search")
+        valid_flags.append("ai_search_with_manual")
 
     appgs = APPGList.load()
     appgs = [x for x in appgs if x.has_website()]
@@ -238,7 +239,11 @@ def update_appgs_membership(
         search = search_for_appg_members(appg)
 
         if not search.members_list_found:
-            if appg.members_list.source_method in ["empty", "ai_search"]:
+            if appg.members_list.source_method in [
+                "empty",
+                "ai_search",
+                "ai_search_with_manual",
+            ]:
                 appg.members_list.source_method = "not_found"
                 appg.members_list.last_updated = date.today()
                 appg.members_list.source_url = []
@@ -249,7 +254,16 @@ def update_appgs_membership(
             tqdm.write(
                 f"Found members list for {appg.title}: {search.single_url_string()} ({len(search.all_members())} members)"
             )
-            appg.members_list.source_method = "ai_search"
+
+            # Determine the new source method based on existing data
+            was_manual_merged = (
+                appg.members_list.source_method == "ai_search_with_manual"
+            )
+            new_source_method = (
+                "ai_search_with_manual" if was_manual_merged else "ai_search"
+            )
+
+            appg.members_list.source_method = new_source_method
             appg.members_list.last_updated = date.today()
             appg.members_list.source_url = search.source_urls()
 
@@ -258,20 +272,39 @@ def update_appgs_membership(
             added_count = 0
             removed_count = 0
 
-            # Mark existing members as removed if they're not in the new list
-            for existing_member in appg.members_list.members:
-                if existing_member.name not in new_members_names:
-                    if not existing_member.removed:
-                        existing_member.removed = True
-                        removed_count += 1
-                else:
-                    # If the member was previously marked as removed but is now present, unmark them
-                    if existing_member.removed:
+            if was_manual_merged:
+                # For merged data, only mark AI-sourced members as removed, preserve manual ones
+                # We can't easily distinguish which members came from manual vs AI, so we're more conservative
+                tqdm.write(
+                    f"Updating AI search data while preserving manual additions for {appg.title}"
+                )
+
+                # Only remove members that we're confident came from previous AI search
+                # For now, we'll be conservative and only add new members without removing existing ones
+                # This prevents accidentally removing manually added members
+                for existing_member in appg.members_list.members:
+                    if (
+                        existing_member.name in new_members_names
+                        and existing_member.removed
+                    ):
+                        # If the member was previously marked as removed but is now present, unmark them
                         existing_member.removed = False
+            else:
+                # Standard AI search behavior - mark missing members as removed
+                for existing_member in appg.members_list.members:
+                    if existing_member.name not in new_members_names:
+                        if not existing_member.removed:
+                            existing_member.removed = True
+                            removed_count += 1
+                    else:
+                        # If the member was previously marked as removed but is now present, unmark them
+                        if existing_member.removed:
+                            existing_member.removed = False
 
             # Add new members that aren't already in the list
+            existing_member_names = {x.name for x in appg.members_list.members}
             for new_member in search.all_members():
-                if new_member.name not in [x.name for x in appg.members_list.members]:
+                if new_member.name not in existing_member_names:
                     appg.members_list.members.append(
                         Member(
                             name=new_member.name,

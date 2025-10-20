@@ -622,14 +622,57 @@ def update_appg_membership(
         # Load existing APPG
         appg = APPG.load(appg_slug)
 
-        # Only update if current source is empty or manual
-        if appg.members_list.source_method not in ["empty", "manual", "not_found"]:
+        # Check if we're working with AI search data (adaptive mode)
+        if appg.members_list.source_method in ["ai_search", "ai_search_with_manual"]:
+            # Adaptive mode: merge manual names with existing AI search data
             console.print(
-                f"[yellow]⚠ Skipping {appg_slug}: already has {appg.members_list.source_method} data[/yellow]"
+                f"[blue]🔄 Merging manual data with existing AI search data for {appg_slug}[/blue]"
+            )
+
+            # Get existing member names (normalize for comparison)
+            existing_names = {
+                member.name.lower().strip() for member in appg.members_list.members
+            }
+
+            # Add new manual members that don't already exist
+            new_members_added = 0
+            for name in member_names:
+                normalized_name = name.lower().strip()
+                if normalized_name not in existing_names:
+                    member_type = infer_member_type(name)
+                    appg.members_list.members.append(
+                        Member(
+                            name=name.strip(),
+                            is_officer=False,  # Can't determine from manual data
+                            member_type=member_type,
+                        )
+                    )
+                    new_members_added += 1
+
+            # Update metadata to indicate manual data was merged
+            appg.members_list.source_method = "ai_search_with_manual"
+            appg.members_list.last_updated = update_date
+
+            if new_members_added > 0:
+                console.print(
+                    f"[green]✓ Added {new_members_added} new manual members to existing AI search data for {appg_slug}[/green]"
+                )
+                appg.save()
+                return True
+            else:
+                console.print(
+                    f"[yellow]⚠ No new members to add for {appg_slug}: all manual names already present[/yellow]"
+                )
+                return False
+
+        # Only update if current source is empty, manual, or not_found
+        elif appg.members_list.source_method not in ["empty", "manual", "not_found"]:
+            console.print(
+                f"[yellow]⚠ Skipping {appg_slug}: already has {appg.members_list.source_method} data (use adaptive merge for ai_search)[/yellow]"
             )
             return False
 
-        # Create new member list
+        # Original behavior for empty/manual/not_found - complete replacement
         members = []
         for name in member_names:
             member_type = infer_member_type(name)

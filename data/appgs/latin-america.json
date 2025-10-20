@@ -38,10 +38,19 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": null,
-    "members": []
+    "last_updated": "2025-10-20",
+    "members": [
+      {
+        "name": "Steve Witherden",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5221",
+        "twfy_id": "uk.org.publicwhip/person/26583",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Fabian Hamilton MP",

@@ -65,7 +65,9 @@ class Member(BaseModel):
 
 
 class MemberList(BaseModel):
-    source_method: Literal["ai_search", "manual", "empty", "not_found"] = "empty"
+    source_method: Literal[
+        "ai_search", "manual", "empty", "not_found", "ai_search_with_manual"
+    ] = "empty"
     source_url: list[HttpUrl] = Field(default_factory=list)
     last_updated: Optional[date] = None
     members: List[Member] = Field(default_factory=list)

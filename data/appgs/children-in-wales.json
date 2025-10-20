@@ -38,18 +38,16 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.childreninwales.org.uk/professionals/our-work/all-party-parliamentary-group-children-wales/"
-    ],
-    "last_updated": "2025-04-28",
+    "source_method": "manual",
+    "source_url": [],
+    "last_updated": "2025-10-20",
     "members": [
       {
-        "name": "Gill German",
-        "is_officer": true,
+        "name": "Steve Witherden",
+        "is_officer": false,
         "member_type": "mp",
-        "mnis_id": "5104",
-        "twfy_id": "uk.org.publicwhip/person/26394",
+        "mnis_id": "5221",
+        "twfy_id": "uk.org.publicwhip/person/26583",
         "removed": false
       }
     ]
