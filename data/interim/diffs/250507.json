@@ -166,104 +166,9 @@
   "removed_appgs": [],
   "updated_appgs": [
     {
-      "slug": "foreign-affairs",
-      "title": "All-Party Parliamentary Group for Foreign Affairs",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/foreign-affairs.htm"
-    },
-    {
       "slug": "listed-properties",
       "title": "All-Party Parliamentary Group on Listed Properties",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/listed-properties.htm"
-    },
-    {
-      "slug": "sme-small-and-medium-sized-enterprises-house-builders",
-      "title": "All-Party Parliamentary Group for SME (Small and Medium-sized Enterprises) House Builders",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/sme-small-and-medium-sized-enterprises-house-builders.htm"
-    },
-    {
-      "slug": "west-midlands",
-      "title": "All-Party Parliamentary Group for the West Midlands",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/west-midlands.htm"
-    },
-    {
-      "slug": "saudi-arabia",
-      "title": "All-Party Parliamentary Group on Saudi Arabia",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/saudi-arabia.htm"
-    },
-    {
-      "slug": "internet-communications-and-technology",
-      "title": "Parliamentary Internet, Communications and Technology Forum All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/internet-communications-and-technology.htm"
-    },
-    {
-      "slug": "liver-disease-and-liver-cancer",
-      "title": "All-Party Parliamentary Group on Liver Disease and Liver Cancer",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/liver-disease-and-liver-cancer.htm"
-    },
-    {
-      "slug": "freedom-of-speech",
-      "title": "All-Party Parliamentary Group on Freedom of Speech",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/freedom-of-speech.htm"
-    },
-    {
-      "slug": "aid-match",
-      "title": "All-Party Parliamentary Group for Aid Match",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/aid-match.htm"
-    },
-    {
-      "slug": "defence-and-security-sectors-supporting-local-communities",
-      "title": "All-Party Parliamentary Group on the Defence and Security Sectors Supporting Local Communities",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/defence-and-security-sectors-supporting-local-communities.htm"
-    },
-    {
-      "slug": "north-east",
-      "title": "North East All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/north-east.htm"
-    },
-    {
-      "slug": "water-sanitation-and-hygiene",
-      "title": "Water, Sanitation and Hygiene All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/water-sanitation-and-hygiene.htm"
-    },
-    {
-      "slug": "get-refusal",
-      "title": "All-Party Parliamentary Group on Get Refusal",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/get-refusal.htm"
-    },
-    {
-      "slug": "patient-safety",
-      "title": "All-Party Parliamentary Group on Patient Safety",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/patient-safety.htm"
-    },
-    {
-      "slug": "cycling-and-walking",
-      "title": "All-Party Parliamentary Group for Cycling and Walking",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/cycling-and-walking.htm"
-    },
-    {
-      "slug": "british-buses",
-      "title": "All-Party Parliamentary Group for British Buses",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/british-buses.htm"
-    },
-    {
-      "slug": "war-crimes",
-      "title": "All-Party Parliamentary Group on War Crimes",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/war-crimes.htm"
-    },
-    {
-      "slug": "leasehold-and-commonhold-reform",
-      "title": "All-Party Parliamentary Group on Leasehold and Commonhold Reform",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/leasehold-and-commonhold-reform.htm"
-    },
-    {
-      "slug": "british-muslims",
-      "title": "All-Party Parliamentary Group on British Muslims",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/british-muslims.htm"
-    },
-    {
-      "slug": "greater-manchester",
-      "title": "Greater Manchester All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/greater-manchester.htm"
     },
     {
       "slug": "social-science-and-policy",
@@ -271,74 +176,9 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/social-science-and-policy.htm"
     },
     {
-      "slug": "pro-life",
-      "title": "All-Party Parliamentary Pro-Life Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/pro-life.htm"
-    },
-    {
-      "slug": "emergency-care",
-      "title": "All-Party Parliamentary Group on Emergency Care",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/emergency-care.htm"
-    },
-    {
-      "slug": "gambling-reform",
-      "title": "All-Party Parliamentary Group on Gambling Reform",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/gambling-reform.htm"
-    },
-    {
-      "slug": "engineering",
-      "title": "All-Party Parliamentary Engineering Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/engineering.htm"
-    },
-    {
-      "slug": "environment",
-      "title": "All-Party Parliamentary Group for the Environment",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/environment.htm"
-    },
-    {
-      "slug": "nepal",
-      "title": "Nepal All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/nepal.htm"
-    },
-    {
-      "slug": "global-sexual-and-reproductive-health-and-rights",
-      "title": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/global-sexual-and-reproductive-health-and-rights.htm"
-    },
-    {
-      "slug": "digital-inclusion",
-      "title": "Digital Inclusion All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/digital-inclusion.htm"
-    },
-    {
-      "slug": "british-sign-language",
-      "title": "All-Party Parliamentary Group on British Sign Language",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/british-sign-language.htm"
-    },
-    {
-      "slug": "east-of-england",
-      "title": "East of England All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/east-of-england.htm"
-    },
-    {
-      "slug": "shakespeare",
-      "title": "All-Party Parliamentary Group for Shakespeare",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/shakespeare.htm"
-    },
-    {
-      "slug": "uk-fresh-produce-network",
-      "title": "All-Party Parliamentary Group on the UK Fresh Produce Network",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/uk-fresh-produce-network.htm"
-    },
-    {
-      "slug": "micromobility",
-      "title": "All-Party Parliamentary Group for Micromobility",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/micromobility.htm"
-    },
-    {
-      "slug": "trafficked-britons-in-syria",
-      "title": "All-Party Parliamentary Group on Trafficked Britons in Syria",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/trafficked-britons-in-syria.htm"
+      "slug": "liverpool-city-region",
+      "title": "Liverpool City Region All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/liverpool-city-region.htm"
     },
     {
       "slug": "northern-culture",
@@ -346,14 +186,29 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/northern-culture.htm"
     },
     {
-      "slug": "refugees",
-      "title": "All-Party Parliamentary Group on Refugees",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/refugees.htm"
+      "slug": "engineering",
+      "title": "All-Party Parliamentary Engineering Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/engineering.htm"
     },
     {
-      "slug": "football-club",
-      "title": "Football Club All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/football-club.htm"
+      "slug": "aid-match",
+      "title": "All-Party Parliamentary Group for Aid Match",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/aid-match.htm"
+    },
+    {
+      "slug": "digital-inclusion",
+      "title": "Digital Inclusion All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/digital-inclusion.htm"
+    },
+    {
+      "slug": "greater-manchester",
+      "title": "Greater Manchester All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/greater-manchester.htm"
+    },
+    {
+      "slug": "poverty-and-inequality",
+      "title": "All-Party Parliamentary Group on Poverty and Inequality",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/poverty-and-inequality.htm"
     },
     {
       "slug": "care-experienced-children-and-young-people",
@@ -361,9 +216,134 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/care-experienced-children-and-young-people.htm"
     },
     {
-      "slug": "liverpool-city-region",
-      "title": "Liverpool City Region All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/liverpool-city-region.htm"
+      "slug": "foreign-affairs",
+      "title": "All-Party Parliamentary Group for Foreign Affairs",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/foreign-affairs.htm"
+    },
+    {
+      "slug": "north-east",
+      "title": "North East All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/north-east.htm"
+    },
+    {
+      "slug": "micromobility",
+      "title": "All-Party Parliamentary Group for Micromobility",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/micromobility.htm"
+    },
+    {
+      "slug": "gambling-reform",
+      "title": "All-Party Parliamentary Group on Gambling Reform",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/gambling-reform.htm"
+    },
+    {
+      "slug": "internet-communications-and-technology",
+      "title": "Parliamentary Internet, Communications and Technology Forum All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/internet-communications-and-technology.htm"
+    },
+    {
+      "slug": "trafficked-britons-in-syria",
+      "title": "All-Party Parliamentary Group on Trafficked Britons in Syria",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/trafficked-britons-in-syria.htm"
+    },
+    {
+      "slug": "west-midlands",
+      "title": "All-Party Parliamentary Group for the West Midlands",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/west-midlands.htm"
+    },
+    {
+      "slug": "leasehold-and-commonhold-reform",
+      "title": "All-Party Parliamentary Group on Leasehold and Commonhold Reform",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/leasehold-and-commonhold-reform.htm"
+    },
+    {
+      "slug": "liver-disease-and-liver-cancer",
+      "title": "All-Party Parliamentary Group on Liver Disease and Liver Cancer",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/liver-disease-and-liver-cancer.htm"
+    },
+    {
+      "slug": "get-refusal",
+      "title": "All-Party Parliamentary Group on Get Refusal",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/get-refusal.htm"
+    },
+    {
+      "slug": "refugees",
+      "title": "All-Party Parliamentary Group on Refugees",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/refugees.htm"
+    },
+    {
+      "slug": "east-of-england",
+      "title": "East of England All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/east-of-england.htm"
+    },
+    {
+      "slug": "british-muslims",
+      "title": "All-Party Parliamentary Group on British Muslims",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/british-muslims.htm"
+    },
+    {
+      "slug": "football-club",
+      "title": "Football Club All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/football-club.htm"
+    },
+    {
+      "slug": "environment",
+      "title": "All-Party Parliamentary Group for the Environment",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/environment.htm"
+    },
+    {
+      "slug": "water-sanitation-and-hygiene",
+      "title": "Water, Sanitation and Hygiene All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/water-sanitation-and-hygiene.htm"
+    },
+    {
+      "slug": "patient-safety",
+      "title": "All-Party Parliamentary Group on Patient Safety",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/patient-safety.htm"
+    },
+    {
+      "slug": "shakespeare",
+      "title": "All-Party Parliamentary Group for Shakespeare",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/shakespeare.htm"
+    },
+    {
+      "slug": "pro-life",
+      "title": "All-Party Parliamentary Pro-Life Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/pro-life.htm"
+    },
+    {
+      "slug": "sme-small-and-medium-sized-enterprises-house-builders",
+      "title": "All-Party Parliamentary Group for SME (Small and Medium-sized Enterprises) House Builders",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/sme-small-and-medium-sized-enterprises-house-builders.htm"
+    },
+    {
+      "slug": "defence-and-security-sectors-supporting-local-communities",
+      "title": "All-Party Parliamentary Group on the Defence and Security Sectors Supporting Local Communities",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/defence-and-security-sectors-supporting-local-communities.htm"
+    },
+    {
+      "slug": "uk-fresh-produce-network",
+      "title": "All-Party Parliamentary Group on the UK Fresh Produce Network",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/uk-fresh-produce-network.htm"
+    },
+    {
+      "slug": "global-sexual-and-reproductive-health-and-rights",
+      "title": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/global-sexual-and-reproductive-health-and-rights.htm"
+    },
+    {
+      "slug": "nepal",
+      "title": "Nepal All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/nepal.htm"
+    },
+    {
+      "slug": "war-crimes",
+      "title": "All-Party Parliamentary Group on War Crimes",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/war-crimes.htm"
+    },
+    {
+      "slug": "saudi-arabia",
+      "title": "All-Party Parliamentary Group on Saudi Arabia",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/saudi-arabia.htm"
     },
     {
       "slug": "energy-studies",
@@ -371,521 +351,58 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/energy-studies.htm"
     },
     {
-      "slug": "poverty-and-inequality",
-      "title": "All-Party Parliamentary Group on Poverty and Inequality",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/poverty-and-inequality.htm"
+      "slug": "british-buses",
+      "title": "All-Party Parliamentary Group for British Buses",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/british-buses.htm"
+    },
+    {
+      "slug": "emergency-care",
+      "title": "All-Party Parliamentary Group on Emergency Care",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/emergency-care.htm"
+    },
+    {
+      "slug": "british-sign-language",
+      "title": "All-Party Parliamentary Group on British Sign Language",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/british-sign-language.htm"
+    },
+    {
+      "slug": "cycling-and-walking",
+      "title": "All-Party Parliamentary Group for Cycling and Walking",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/cycling-and-walking.htm"
+    },
+    {
+      "slug": "freedom-of-speech",
+      "title": "All-Party Parliamentary Group on Freedom of Speech",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/freedom-of-speech.htm"
     }
   ],
   "differences": [
-    {
-      "slug": "foreign-affairs",
-      "name": "All-Party Parliamentary Group for Foreign Affairs",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Roberto White, College Green Group. Tel: 07490 190498",
-          "new_value": "Tom Bromwich, College Green Group"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/foreign-affairs.htm"
-    },
     {
       "slug": "listed-properties",
       "name": "All-Party Parliamentary Group on Listed Properties",
       "differences": [
         {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "Mr James Cleverly MP",
-          "new_value": "Sir James Cleverly MP"
-        },
-        {
           "key": "officers__0__name",
           "old_value": "Mr James Cleverly",
           "new_value": "Sir James Cleverly"
+        },
+        {
+          "key": "contact_details__registered_contact_name",
+          "old_value": "Mr James Cleverly MP",
+          "new_value": "Sir James Cleverly MP"
         }
       ],
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/listed-properties.htm"
     },
     {
-      "slug": "sme-small-and-medium-sized-enterprises-house-builders",
-      "name": "All-Party Parliamentary Group for SME (Small and Medium-sized Enterprises) House Builders",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Lord Snape",
-          "new_value": "Lord Austin of Dudley"
-        },
-        {
-          "key": "officers__1__name",
-          "old_value": "Mike Wood",
-          "new_value": "Lord Snape"
-        },
-        {
-          "key": "officers__3__mnis_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__twfy_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__1__role",
-          "old_value": "Co-Chair",
-          "new_value": "Officer"
-        },
-        {
-          "key": "officers__2__party",
-          "old_value": "Labour",
-          "new_value": "Non-affiliated"
-        },
-        {
-          "key": "officers__3__removed",
-          "old_value": "False",
-          "new_value": ""
-        },
-        {
-          "key": "officers__1__party",
-          "old_value": "Conservative",
-          "new_value": "Labour"
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Lord Austin of Dudley",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__role",
-          "old_value": "Officer",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "Non-affiliated",
-          "new_value": ""
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/sme-small-and-medium-sized-enterprises-house-builders.htm"
-    },
-    {
-      "slug": "west-midlands",
-      "name": "All-Party Parliamentary Group for the West Midlands",
-      "differences": [
-        {
-          "key": "officers__1__name",
-          "old_value": "Mr Andrew Mitchell",
-          "new_value": "Sir Andrew Mitchell"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/west-midlands.htm"
-    },
-    {
-      "slug": "saudi-arabia",
-      "name": "All-Party Parliamentary Group on Saudi Arabia",
-      "differences": [
-        {
-          "key": "officers__3__mnis_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__twfy_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__removed",
-          "old_value": "False",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Simon Hoare",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__role",
-          "old_value": "Vice Chair",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "Conservative",
-          "new_value": ""
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/saudi-arabia.htm"
-    },
-    {
-      "slug": "internet-communications-and-technology",
-      "name": "Parliamentary Internet, Communications and Technology Forum All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "detailed_benefits__9__Registered",
-          "old_value": "",
-          "new_value": "01/04/2025"
-        },
-        {
-          "key": "detailed_benefits__9__Received",
-          "old_value": "",
-          "new_value": "31/03/2025"
-        },
-        {
-          "key": "detailed_benefits__9__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__9__Source",
-          "old_value": "",
-          "new_value": "Nominet"
-        },
-        {
-          "key": "detailed_benefits__9__Value £s",
-          "old_value": "",
-          "new_value": "7,200"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/internet-communications-and-technology.htm"
-    },
-    {
-      "slug": "liver-disease-and-liver-cancer",
-      "name": "All-Party Parliamentary Group on Liver Disease and Liver Cancer",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Paul McGlinchey, British Liver Trust. Tel: 01425 481320",
-          "new_value": "Richard Daniels, British Liver Trust. Tel: 020 3137 6133"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/liver-disease-and-liver-cancer.htm"
-    },
-    {
-      "slug": "freedom-of-speech",
-      "name": "All-Party Parliamentary Group on Freedom of Speech",
-      "differences": [
-        {
-          "key": "officers__3__name",
-          "old_value": "Baroness Cox",
-          "new_value": "Baroness Fox of Buckley"
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "Crossbench",
-          "new_value": "Non-affiliated"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/freedom-of-speech.htm"
-    },
-    {
-      "slug": "aid-match",
-      "name": "All-Party Parliamentary Group for Aid Match",
-      "differences": [
-        {
-          "key": "officers__3__name",
-          "old_value": "Mr Andrew Mitchell",
-          "new_value": "Sir Andrew Mitchell"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/aid-match.htm"
-    },
-    {
-      "slug": "defence-and-security-sectors-supporting-local-communities",
-      "name": "All-Party Parliamentary Group on the Defence and Security Sectors Supporting Local Communities",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA.",
-          "new_value": "House of Commons, London, SW1A 0AA. Tel: 0207 219 4085."
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/defence-and-security-sectors-supporting-local-communities.htm"
-    },
-    {
-      "slug": "north-east",
-      "name": "North East All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Gill Morris,",
-          "new_value": "Gill Morris, Devo Agency. Tel: 07976 263 869"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Devo@Inflect acts as the group's secretariat. https://www.inflect.co.uk/",
-          "new_value": "Devo Agency acts as the group's secretariat. https://www.devoagency.co.uk"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/north-east.htm"
-    },
-    {
-      "slug": "water-sanitation-and-hygiene",
-      "name": "Water, Sanitation and Hygiene All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Brian Mathew",
-          "new_value": "Lee Pitcher"
-        },
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA.",
-          "new_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 6865."
-        },
-        {
-          "key": "officers__1__name",
-          "old_value": "Dr Rupa Huq",
-          "new_value": "Brian Mathew"
-        },
-        {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "Laura Kyrke-Smith MP",
-          "new_value": "Dr Rupa Huq MP"
-        },
-        {
-          "key": "officers__2__party",
-          "old_value": "Liberal Democrat",
-          "new_value": "Labour"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Timothy Ingram, WaterAid. Tel: 020 7934 4594",
-          "new_value": "George Bose, WaterAid. Tel: 020 7793 5121"
-        },
-        {
-          "key": "officers__1__party",
-          "old_value": "Labour",
-          "new_value": "Liberal Democrat"
-        },
-        {
-          "key": "officers__0__name",
-          "old_value": "Laura Kyrke-Smith",
-          "new_value": "Dr Rupa Huq"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/water-sanitation-and-hygiene.htm"
-    },
-    {
-      "slug": "get-refusal",
-      "name": "All-Party Parliamentary Group on Get Refusal",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA.",
-          "new_value": "House of Commons, London, SW1A 0AA. Tel: 0207 219 4085."
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/get-refusal.htm"
-    },
-    {
-      "slug": "patient-safety",
-      "name": "All-Party Parliamentary Group on Patient Safety",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "Jeremy Hunt MP",
-          "new_value": "Sir Jeremy Hunt MP"
-        },
-        {
-          "key": "officers__0__name",
-          "old_value": "Jeremy Hunt",
-          "new_value": "Sir Jeremy Hunt"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/patient-safety.htm"
-    },
-    {
-      "slug": "cycling-and-walking",
-      "name": "All-Party Parliamentary Group for Cycling and Walking",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Adam Coffman, Office of Lord Berkeley, House of Lords. Tel: 020 7219 5761",
-          "new_value": "Adam Coffman, Office of Lord Berkeley. Tel: 020 7219 5761"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/cycling-and-walking.htm"
-    },
-    {
-      "slug": "british-buses",
-      "name": "All-Party Parliamentary Group for British Buses",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA.",
-          "new_value": "House of Commons, London, SW1A 0AA. Tel: 0207 219 4085."
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/british-buses.htm"
-    },
-    {
-      "slug": "war-crimes",
-      "name": "All-Party Parliamentary Group on War Crimes",
-      "differences": [
-        {
-          "key": "officers__2__party",
-          "old_value": "Labour",
-          "new_value": "Independent"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/war-crimes.htm"
-    },
-    {
-      "slug": "leasehold-and-commonhold-reform",
-      "name": "All-Party Parliamentary Group on Leasehold and Commonhold Reform",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Amanda Hack",
-          "new_value": "Jack Abbott"
-        },
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "",
-          "new_value": "None"
-        },
-        {
-          "key": "officers__1__name",
-          "old_value": "Neil O'Brien",
-          "new_value": "Amanda Hack"
-        },
-        {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "Mike Amesbury MP",
-          "new_value": "None"
-        },
-        {
-          "key": "officers__3__mnis_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__0__role",
-          "old_value": "Chair & Registered Contact",
-          "new_value": "Co-Chair"
-        },
-        {
-          "key": "officers__3__twfy_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__1__role",
-          "old_value": "Co-Chair",
-          "new_value": "Officer"
-        },
-        {
-          "key": "officers__2__party",
-          "old_value": "Labour",
-          "new_value": "Labour (Co-op)"
-        },
-        {
-          "key": "officers__3__removed",
-          "old_value": "False",
-          "new_value": ""
-        },
-        {
-          "key": "officers__1__party",
-          "old_value": "Conservative",
-          "new_value": "Labour"
-        },
-        {
-          "key": "officers__0__name",
-          "old_value": "Mike Amesbury",
-          "new_value": "Neil O'Brien"
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Jack Abbott",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__role",
-          "old_value": "Officer",
-          "new_value": ""
-        },
-        {
-          "key": "officers__0__party",
-          "old_value": "Independent",
-          "new_value": "Conservative"
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "Labour (Co-op)",
-          "new_value": ""
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/leasehold-and-commonhold-reform.htm"
-    },
-    {
-      "slug": "british-muslims",
-      "name": "All-Party Parliamentary Group on British Muslims",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Lord Sarfraz",
-          "new_value": "Afzal Khan"
-        },
-        {
-          "key": "officers__3__mnis_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__twfy_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__2__party",
-          "old_value": "Conservative",
-          "new_value": "Labour"
-        },
-        {
-          "key": "officers__3__removed",
-          "old_value": "False",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Afzal Khan",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__role",
-          "old_value": "Vice Chair",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "Labour",
-          "new_value": ""
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/british-muslims.htm"
-    },
-    {
-      "slug": "greater-manchester",
-      "name": "Greater Manchester All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Gill Morris,",
-          "new_value": "Gill Morris, Devo Agency  . Tel: 07976 263 869"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Devo@Inflect acts as the group's secretariat. https://www.inflect.co.uk/",
-          "new_value": "Devo Agency acts as the group's secretariat. https://www.devoagency.co.uk"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/greater-manchester.htm"
-    },
-    {
       "slug": "social-science-and-policy",
       "name": "All-Party Parliamentary Group for Social Science and Policy",
       "differences": [
+        {
+          "key": "officers__3__role",
+          "old_value": "Officer",
+          "new_value": ""
+        },
         {
           "key": "officers__3__mnis_id",
           "old_value": "None",
@@ -907,11 +424,6 @@
           "new_value": ""
         },
         {
-          "key": "officers__3__role",
-          "old_value": "Officer",
-          "new_value": ""
-        },
-        {
           "key": "officers__3__party",
           "old_value": "Conservative",
           "new_value": ""
@@ -920,592 +432,21 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/social-science-and-policy.htm"
     },
     {
-      "slug": "pro-life",
-      "name": "All-Party Parliamentary Pro-Life Group",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Mary Glindon",
-          "new_value": "Baroness O'Loan"
-        },
-        {
-          "key": "officers__3__mnis_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__twfy_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__2__party",
-          "old_value": "Labour",
-          "new_value": "Crossbench"
-        },
-        {
-          "key": "officers__3__removed",
-          "old_value": "False",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Baroness O'Loan",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__role",
-          "old_value": "Vice Chair",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "Crossbench",
-          "new_value": ""
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/pro-life.htm"
-    },
-    {
-      "slug": "emergency-care",
-      "name": "All-Party Parliamentary Group on Emergency Care",
-      "differences": [
-        {
-          "key": "officers__1__name",
-          "old_value": "Jeremy Hunt",
-          "new_value": "Sir Jeremy Hunt"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/emergency-care.htm"
-    },
-    {
-      "slug": "gambling-reform",
-      "name": "All-Party Parliamentary Group on Gambling Reform",
+      "slug": "liverpool-city-region",
+      "name": "Liverpool City Region All-Party Parliamentary Group",
       "differences": [
         {
           "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Allaster Gair, DGA Group. Tel: 07733 396 339",
-          "new_value": "Ffion Price, DGA Group. Tel: 07749 583 572"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/gambling-reform.htm"
-    },
-    {
-      "slug": "engineering",
-      "name": "All-Party Parliamentary Engineering Group",
-      "differences": [
-        {
-          "key": "detailed_benefits__2__Source",
-          "old_value": "",
-          "new_value": "Royal Commission for the Exhibition of 1851"
-        },
-        {
-          "key": "detailed_benefits__1__Received",
-          "old_value": "",
-          "new_value": "13/02/2025"
-        },
-        {
-          "key": "detailed_benefits__3__Registered",
-          "old_value": "",
-          "new_value": "31/03/2025"
-        },
-        {
-          "key": "detailed_benefits__3__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        },
-        {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        },
-        {
-          "key": "detailed_benefits__1__Source",
-          "old_value": "",
-          "new_value": "Institute of Civil Engineers"
-        },
-        {
-          "key": "detailed_benefits__1__Registered",
-          "old_value": "",
-          "new_value": "31/03/2025"
-        },
-        {
-          "key": "detailed_benefits__3__Source",
-          "old_value": "",
-          "new_value": "Royal Academy of Engineering"
-        },
-        {
-          "key": "detailed_benefits__2__Registered",
-          "old_value": "",
-          "new_value": "31/03/2025"
-        },
-        {
-          "key": "detailed_benefits__1__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        },
-        {
-          "key": "detailed_benefits__3__Received",
-          "old_value": "",
-          "new_value": "21/03/2025"
-        },
-        {
-          "key": "detailed_benefits__2__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "registrable_benefits",
-          "old_value": "None",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__0__Source",
-          "old_value": "",
-          "new_value": "Rolls Royce"
-        },
-        {
-          "key": "detailed_benefits__2__Received",
-          "old_value": "",
-          "new_value": "05/03/2025"
-        },
-        {
-          "key": "detailed_benefits__0__Received",
-          "old_value": "",
-          "new_value": "31/01/2025"
-        },
-        {
-          "key": "detailed_benefits__0__Registered",
-          "old_value": "",
-          "new_value": "31/03/2025"
-        },
-        {
-          "key": "detailed_benefits__1__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__3__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__0__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__2__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/engineering.htm"
-    },
-    {
-      "slug": "environment",
-      "name": "All-Party Parliamentary Group for the Environment",
-      "differences": [
-        {
-          "key": "detailed_benefits__2__Source",
-          "old_value": "",
-          "new_value": "Santander"
-        },
-        {
-          "key": "detailed_benefits__6__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        },
-        {
-          "key": "detailed_benefits__7__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__5__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__8__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        },
-        {
-          "key": "detailed_benefits__5__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        },
-        {
-          "key": "detailed_benefits__3__Registered",
-          "old_value": "",
-          "new_value": "23/04/2025"
-        },
-        {
-          "key": "detailed_benefits__3__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        },
-        {
-          "key": "detailed_benefits__4__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__7__Received",
-          "old_value": "",
-          "new_value": "12/02/2025"
-        },
-        {
-          "key": "detailed_benefits__7__Source",
-          "old_value": "",
-          "new_value": "AtkinsRealis"
-        },
-        {
-          "key": "detailed_benefits__4__Source",
-          "old_value": "",
-          "new_value": "Danfoss"
-        },
-        {
-          "key": "detailed_benefits__3__Source",
-          "old_value": "",
-          "new_value": "British Standards Institution"
-        },
-        {
-          "key": "detailed_benefits__8__Received",
-          "old_value": "",
-          "new_value": "27/02/2025"
-        },
-        {
-          "key": "detailed_benefits__2__Registered",
-          "old_value": "",
-          "new_value": "23/04/2025"
-        },
-        {
-          "key": "detailed_benefits__4__Received",
-          "old_value": "",
-          "new_value": "10/01/2025"
-        },
-        {
-          "key": "detailed_benefits__8__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__4__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        },
-        {
-          "key": "detailed_benefits__5__Registered",
-          "old_value": "",
-          "new_value": "23/04/2025"
-        },
-        {
-          "key": "detailed_benefits__5__Source",
-          "old_value": "",
-          "new_value": "National Grid"
-        },
-        {
-          "key": "detailed_benefits__3__Received",
-          "old_value": "",
-          "new_value": "28/02/2025"
-        },
-        {
-          "key": "detailed_benefits__6__Received",
-          "old_value": "",
-          "new_value": "10/01/2025"
-        },
-        {
-          "key": "detailed_benefits__7__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        },
-        {
-          "key": "detailed_benefits__2__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__4__Registered",
-          "old_value": "",
-          "new_value": "23/04/2025"
-        },
-        {
-          "key": "detailed_benefits__8__Source",
-          "old_value": "",
-          "new_value": "Ovo Energy"
-        },
-        {
-          "key": "detailed_benefits__8__Registered",
-          "old_value": "",
-          "new_value": "23/04/2025"
-        },
-        {
-          "key": "detailed_benefits__6__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__7__Registered",
-          "old_value": "",
-          "new_value": "23/04/2025"
-        },
-        {
-          "key": "detailed_benefits__2__Received",
-          "old_value": "",
-          "new_value": "04/12/2024"
-        },
-        {
-          "key": "detailed_benefits__3__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__6__Source",
-          "old_value": "",
-          "new_value": "Vestel UK Ltd"
-        },
-        {
-          "key": "detailed_benefits__6__Registered",
-          "old_value": "",
-          "new_value": "23/04/2025"
-        },
-        {
-          "key": "detailed_benefits__2__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        },
-        {
-          "key": "detailed_benefits__5__Received",
-          "old_value": "",
-          "new_value": "02/12/2024"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/environment.htm"
-    },
-    {
-      "slug": "nepal",
-      "name": "Nepal All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA.",
-          "new_value": "House of Commons, London, SW1A 0AA. Tel: 0207 219 4085."
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/nepal.htm"
-    },
-    {
-      "slug": "global-sexual-and-reproductive-health-and-rights",
-      "name": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
-      "differences": [
-        {
-          "key": "detailed_benefits__1__Received",
-          "old_value": "",
-          "new_value": "27/03/2025"
-        },
-        {
-          "key": "detailed_benefits__1__Source",
-          "old_value": "",
-          "new_value": "International Planned Parenthood Federation"
-        },
-        {
-          "key": "detailed_benefits__1__Registered",
-          "old_value": "",
-          "new_value": "28/03/2025"
-        },
-        {
-          "key": "detailed_benefits__1__Value £s",
-          "old_value": "",
-          "new_value": "10,000"
-        },
-        {
-          "key": "detailed_benefits__1__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/global-sexual-and-reproductive-health-and-rights.htm"
-    },
-    {
-      "slug": "digital-inclusion",
-      "name": "Digital Inclusion All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "officers__1__name",
-          "old_value": "Lucy Rigby",
-          "new_value": "Leigh Ingham"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/digital-inclusion.htm"
-    },
-    {
-      "slug": "british-sign-language",
-      "name": "All-Party Parliamentary Group on British Sign Language",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_address",
-          "old_value": "House of Commons, London, SW1A 0AA.",
-          "new_value": "House of Commons, London, SW1A 0AA. Tel: 0207 219 7830."
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/british-sign-language.htm"
-    },
-    {
-      "slug": "east-of-england",
-      "name": "East of England All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "officers__2__name",
-          "old_value": "Blake Stephenson",
-          "new_value": "Marie Goldman"
-        },
-        {
-          "key": "officers__1__name",
-          "old_value": "Andrew Pakes",
-          "new_value": "Blake Stephenson"
-        },
-        {
-          "key": "officers__3__mnis_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__twfy_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__1__role",
-          "old_value": "Co-Chair",
-          "new_value": "Vice Chair"
-        },
-        {
-          "key": "officers__2__party",
-          "old_value": "Conservative",
-          "new_value": "Liberal Democrat"
-        },
-        {
-          "key": "officers__3__removed",
-          "old_value": "False",
-          "new_value": ""
-        },
-        {
-          "key": "officers__1__party",
-          "old_value": "Labour (Co-op)",
-          "new_value": "Conservative"
+          "old_value": "Inflect Partners",
+          "new_value": "Gill Morris, Devo Agency. Tel: 07976 263 869"
         },
         {
           "key": "contact_details__secretariat",
-          "old_value": "Steve Barwick Political Consultancy acts as the group's secretariat. https://www.stevebarwickpoliticalconsultancy.com",
-          "new_value": "Inflect acts as the group's secretariat. https://www.inflect.co.uk/"
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Marie Goldman",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__role",
-          "old_value": "Vice Chair",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "Liberal Democrat",
-          "new_value": ""
+          "old_value": "Inflect Partners acts as the group's secretariat. https://www.inflect.co.uk/",
+          "new_value": "Devo Agency acts as the group's secretariat. https://www.devoagency.co.uk"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/east-of-england.htm"
-    },
-    {
-      "slug": "shakespeare",
-      "name": "All-Party Parliamentary Group for Shakespeare",
-      "differences": [
-        {
-          "key": "contact_details__website__status",
-          "old_value": "no_register",
-          "new_value": "register"
-        },
-        {
-          "key": "contact_details__website__url",
-          "old_value": "None",
-          "new_value": "https://www.birmingham.ac.uk/about/college-of-arts-and-law/shakespeare-institute/international-collaborations/the-all-party-parliamentary-group-on-shakespeare"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/shakespeare.htm"
-    },
-    {
-      "slug": "uk-fresh-produce-network",
-      "name": "All-Party Parliamentary Group on the UK Fresh Produce Network",
-      "differences": [
-        {
-          "key": "officers__3__mnis_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__twfy_id",
-          "old_value": "None",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__removed",
-          "old_value": "False",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__name",
-          "old_value": "Viscount Waverley",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__role",
-          "old_value": "Vice Chair",
-          "new_value": ""
-        },
-        {
-          "key": "officers__3__party",
-          "old_value": "Crossbench",
-          "new_value": ""
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/uk-fresh-produce-network.htm"
-    },
-    {
-      "slug": "micromobility",
-      "name": "All-Party Parliamentary Group for Micromobility",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "Deirdre Costigan MP",
-          "new_value": "Alex Mayer MP"
-        },
-        {
-          "key": "officers__0__name",
-          "old_value": "Deirdre Costigan",
-          "new_value": "Alex Mayer"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/micromobility.htm"
-    },
-    {
-      "slug": "trafficked-britons-in-syria",
-      "name": "All-Party Parliamentary Group on Trafficked Britons in Syria",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "Mr Andrew Mitchell MP",
-          "new_value": "Sir Andrew Mitchell MP"
-        },
-        {
-          "key": "officers__0__name",
-          "old_value": "Mr Andrew Mitchell",
-          "new_value": "Sir Andrew Mitchell"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/trafficked-britons-in-syria.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/liverpool-city-region.htm"
     },
     {
       "slug": "northern-culture",
@@ -1525,35 +466,586 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/northern-culture.htm"
     },
     {
+      "slug": "engineering",
+      "name": "All-Party Parliamentary Engineering Group",
+      "differences": [
+        {
+          "key": "detailed_benefits__3__Source",
+          "old_value": "",
+          "new_value": "Royal Academy of Engineering"
+        },
+        {
+          "key": "detailed_benefits__0__Registered",
+          "old_value": "",
+          "new_value": "31/03/2025"
+        },
+        {
+          "key": "detailed_benefits__3__Received",
+          "old_value": "",
+          "new_value": "21/03/2025"
+        },
+        {
+          "key": "detailed_benefits__2__Received",
+          "old_value": "",
+          "new_value": "05/03/2025"
+        },
+        {
+          "key": "detailed_benefits__3__Registered",
+          "old_value": "",
+          "new_value": "31/03/2025"
+        },
+        {
+          "key": "detailed_benefits__2__Source",
+          "old_value": "",
+          "new_value": "Royal Commission for the Exhibition of 1851"
+        },
+        {
+          "key": "detailed_benefits__1__Registered",
+          "old_value": "",
+          "new_value": "31/03/2025"
+        },
+        {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "",
+          "new_value": "31/01/2025"
+        },
+        {
+          "key": "detailed_benefits__1__Source",
+          "old_value": "",
+          "new_value": "Institute of Civil Engineers"
+        },
+        {
+          "key": "detailed_benefits__0__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__2__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__0__Source",
+          "old_value": "",
+          "new_value": "Rolls Royce"
+        },
+        {
+          "key": "detailed_benefits__3__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__1__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__0__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__1__Received",
+          "old_value": "",
+          "new_value": "13/02/2025"
+        },
+        {
+          "key": "detailed_benefits__1__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__2__Registered",
+          "old_value": "",
+          "new_value": "31/03/2025"
+        },
+        {
+          "key": "registrable_benefits",
+          "old_value": "None",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__2__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__3__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/engineering.htm"
+    },
+    {
+      "slug": "aid-match",
+      "name": "All-Party Parliamentary Group for Aid Match",
+      "differences": [
+        {
+          "key": "officers__3__name",
+          "old_value": "Mr Andrew Mitchell",
+          "new_value": "Sir Andrew Mitchell"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/aid-match.htm"
+    },
+    {
+      "slug": "digital-inclusion",
+      "name": "Digital Inclusion All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "officers__1__name",
+          "old_value": "Lucy Rigby",
+          "new_value": "Leigh Ingham"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/digital-inclusion.htm"
+    },
+    {
+      "slug": "greater-manchester",
+      "name": "Greater Manchester All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Gill Morris,",
+          "new_value": "Gill Morris, Devo Agency  . Tel: 07976 263 869"
+        },
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Devo@Inflect acts as the group's secretariat. https://www.inflect.co.uk/",
+          "new_value": "Devo Agency acts as the group's secretariat. https://www.devoagency.co.uk"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/greater-manchester.htm"
+    },
+    {
+      "slug": "poverty-and-inequality",
+      "name": "All-Party Parliamentary Group on Poverty and Inequality",
+      "differences": [
+        {
+          "key": "officers__3__role",
+          "old_value": "",
+          "new_value": "Officer"
+        },
+        {
+          "key": "officers__3__mnis_id",
+          "old_value": "",
+          "new_value": "None"
+        },
+        {
+          "key": "officers__3__twfy_id",
+          "old_value": "",
+          "new_value": "None"
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "",
+          "new_value": "False"
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "",
+          "new_value": "Neil Duncan-Jordan"
+        },
+        {
+          "key": "officers__3__party",
+          "old_value": "",
+          "new_value": "Labour"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/poverty-and-inequality.htm"
+    },
+    {
+      "slug": "care-experienced-children-and-young-people",
+      "name": "All-Party Parliamentary Group for Care-Experienced Children and Young People",
+      "differences": [
+        {
+          "key": "officers__0__name",
+          "old_value": "Josh MacAlister",
+          "new_value": "Jess Asato"
+        },
+        {
+          "key": "contact_details__registered_contact_name",
+          "old_value": "Josh MacAlister MP",
+          "new_value": "Jess Asato MP"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/care-experienced-children-and-young-people.htm"
+    },
+    {
+      "slug": "foreign-affairs",
+      "name": "All-Party Parliamentary Group for Foreign Affairs",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Roberto White, College Green Group. Tel: 07490 190498",
+          "new_value": "Tom Bromwich, College Green Group"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/foreign-affairs.htm"
+    },
+    {
+      "slug": "north-east",
+      "name": "North East All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Gill Morris,",
+          "new_value": "Gill Morris, Devo Agency. Tel: 07976 263 869"
+        },
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Devo@Inflect acts as the group's secretariat. https://www.inflect.co.uk/",
+          "new_value": "Devo Agency acts as the group's secretariat. https://www.devoagency.co.uk"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/north-east.htm"
+    },
+    {
+      "slug": "micromobility",
+      "name": "All-Party Parliamentary Group for Micromobility",
+      "differences": [
+        {
+          "key": "officers__0__name",
+          "old_value": "Deirdre Costigan",
+          "new_value": "Alex Mayer"
+        },
+        {
+          "key": "contact_details__registered_contact_name",
+          "old_value": "Deirdre Costigan MP",
+          "new_value": "Alex Mayer MP"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/micromobility.htm"
+    },
+    {
+      "slug": "gambling-reform",
+      "name": "All-Party Parliamentary Group on Gambling Reform",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Allaster Gair, DGA Group. Tel: 07733 396 339",
+          "new_value": "Ffion Price, DGA Group. Tel: 07749 583 572"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/gambling-reform.htm"
+    },
+    {
+      "slug": "internet-communications-and-technology",
+      "name": "Parliamentary Internet, Communications and Technology Forum All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "detailed_benefits__9__Registered",
+          "old_value": "",
+          "new_value": "01/04/2025"
+        },
+        {
+          "key": "detailed_benefits__9__Received",
+          "old_value": "",
+          "new_value": "31/03/2025"
+        },
+        {
+          "key": "detailed_benefits__9__Source",
+          "old_value": "",
+          "new_value": "Nominet"
+        },
+        {
+          "key": "detailed_benefits__9__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__9__Value £s",
+          "old_value": "",
+          "new_value": "7,200"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/internet-communications-and-technology.htm"
+    },
+    {
+      "slug": "trafficked-britons-in-syria",
+      "name": "All-Party Parliamentary Group on Trafficked Britons in Syria",
+      "differences": [
+        {
+          "key": "officers__0__name",
+          "old_value": "Mr Andrew Mitchell",
+          "new_value": "Sir Andrew Mitchell"
+        },
+        {
+          "key": "contact_details__registered_contact_name",
+          "old_value": "Mr Andrew Mitchell MP",
+          "new_value": "Sir Andrew Mitchell MP"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/trafficked-britons-in-syria.htm"
+    },
+    {
+      "slug": "west-midlands",
+      "name": "All-Party Parliamentary Group for the West Midlands",
+      "differences": [
+        {
+          "key": "officers__1__name",
+          "old_value": "Mr Andrew Mitchell",
+          "new_value": "Sir Andrew Mitchell"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/west-midlands.htm"
+    },
+    {
+      "slug": "leasehold-and-commonhold-reform",
+      "name": "All-Party Parliamentary Group on Leasehold and Commonhold Reform",
+      "differences": [
+        {
+          "key": "officers__2__party",
+          "old_value": "Labour",
+          "new_value": "Labour (Co-op)"
+        },
+        {
+          "key": "officers__0__name",
+          "old_value": "Mike Amesbury",
+          "new_value": "Neil O'Brien"
+        },
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "",
+          "new_value": "None"
+        },
+        {
+          "key": "officers__3__role",
+          "old_value": "Officer",
+          "new_value": ""
+        },
+        {
+          "key": "officers__0__party",
+          "old_value": "Independent",
+          "new_value": "Conservative"
+        },
+        {
+          "key": "officers__1__party",
+          "old_value": "Conservative",
+          "new_value": "Labour"
+        },
+        {
+          "key": "officers__3__mnis_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__twfy_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__1__role",
+          "old_value": "Co-Chair",
+          "new_value": "Officer"
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "False",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "Jack Abbott",
+          "new_value": ""
+        },
+        {
+          "key": "officers__0__role",
+          "old_value": "Chair & Registered Contact",
+          "new_value": "Co-Chair"
+        },
+        {
+          "key": "officers__1__name",
+          "old_value": "Neil O'Brien",
+          "new_value": "Amanda Hack"
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Amanda Hack",
+          "new_value": "Jack Abbott"
+        },
+        {
+          "key": "contact_details__registered_contact_name",
+          "old_value": "Mike Amesbury MP",
+          "new_value": "None"
+        },
+        {
+          "key": "officers__3__party",
+          "old_value": "Labour (Co-op)",
+          "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/leasehold-and-commonhold-reform.htm"
+    },
+    {
+      "slug": "liver-disease-and-liver-cancer",
+      "name": "All-Party Parliamentary Group on Liver Disease and Liver Cancer",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Paul McGlinchey, British Liver Trust. Tel: 01425 481320",
+          "new_value": "Richard Daniels, British Liver Trust. Tel: 020 3137 6133"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/liver-disease-and-liver-cancer.htm"
+    },
+    {
+      "slug": "get-refusal",
+      "name": "All-Party Parliamentary Group on Get Refusal",
+      "differences": [
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "House of Commons, London, SW1A 0AA.",
+          "new_value": "House of Commons, London, SW1A 0AA. Tel: 0207 219 4085."
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/get-refusal.htm"
+    },
+    {
       "slug": "refugees",
       "name": "All-Party Parliamentary Group on Refugees",
       "differences": [
         {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "Laura Kyrke-Smith MP",
-          "new_value": "Tony Vaughan MP"
-        },
-        {
           "key": "officers__0__name",
           "old_value": "Laura Kyrke-Smith",
           "new_value": "Tony Vaughan"
+        },
+        {
+          "key": "contact_details__registered_contact_name",
+          "old_value": "Laura Kyrke-Smith MP",
+          "new_value": "Tony Vaughan MP"
         }
       ],
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/refugees.htm"
+    },
+    {
+      "slug": "east-of-england",
+      "name": "East of England All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "officers__2__party",
+          "old_value": "Conservative",
+          "new_value": "Liberal Democrat"
+        },
+        {
+          "key": "officers__3__role",
+          "old_value": "Vice Chair",
+          "new_value": ""
+        },
+        {
+          "key": "officers__1__party",
+          "old_value": "Labour (Co-op)",
+          "new_value": "Conservative"
+        },
+        {
+          "key": "officers__3__mnis_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__twfy_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "contact_details__secretariat",
+          "old_value": "Steve Barwick Political Consultancy acts as the group's secretariat. https://www.stevebarwickpoliticalconsultancy.com",
+          "new_value": "Inflect acts as the group's secretariat. https://www.inflect.co.uk/"
+        },
+        {
+          "key": "officers__1__role",
+          "old_value": "Co-Chair",
+          "new_value": "Vice Chair"
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "False",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "Marie Goldman",
+          "new_value": ""
+        },
+        {
+          "key": "officers__1__name",
+          "old_value": "Andrew Pakes",
+          "new_value": "Blake Stephenson"
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Blake Stephenson",
+          "new_value": "Marie Goldman"
+        },
+        {
+          "key": "officers__3__party",
+          "old_value": "Liberal Democrat",
+          "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/east-of-england.htm"
+    },
+    {
+      "slug": "british-muslims",
+      "name": "All-Party Parliamentary Group on British Muslims",
+      "differences": [
+        {
+          "key": "officers__2__party",
+          "old_value": "Conservative",
+          "new_value": "Labour"
+        },
+        {
+          "key": "officers__3__role",
+          "old_value": "Vice Chair",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__mnis_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__twfy_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "False",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "Afzal Khan",
+          "new_value": ""
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Lord Sarfraz",
+          "new_value": "Afzal Khan"
+        },
+        {
+          "key": "officers__3__party",
+          "old_value": "Labour",
+          "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/british-muslims.htm"
     },
     {
       "slug": "football-club",
       "name": "Football Club All-Party Parliamentary Group",
       "differences": [
         {
-          "key": "officers__2__name",
-          "old_value": "Lord Evans of Rainow",
-          "new_value": "Lord Wrottesley"
+          "key": "officers__3__role",
+          "old_value": "Officer",
+          "new_value": ""
         },
         {
-          "key": "officers__1__name",
-          "old_value": "Chris Vince",
-          "new_value": "Lord Evans of Rainow"
+          "key": "officers__1__party",
+          "old_value": "Labour (Co-op)",
+          "new_value": "Conservative"
         },
         {
           "key": "officers__3__mnis_id",
@@ -1576,19 +1068,19 @@
           "new_value": ""
         },
         {
-          "key": "officers__1__party",
-          "old_value": "Labour (Co-op)",
-          "new_value": "Conservative"
-        },
-        {
           "key": "officers__3__name",
           "old_value": "Lord Wrottesley",
           "new_value": ""
         },
         {
-          "key": "officers__3__role",
-          "old_value": "Officer",
-          "new_value": ""
+          "key": "officers__1__name",
+          "old_value": "Chris Vince",
+          "new_value": "Lord Evans of Rainow"
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Lord Evans of Rainow",
+          "new_value": "Lord Wrottesley"
         },
         {
           "key": "officers__3__party",
@@ -1599,38 +1091,518 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/football-club.htm"
     },
     {
-      "slug": "care-experienced-children-and-young-people",
-      "name": "All-Party Parliamentary Group for Care-Experienced Children and Young People",
+      "slug": "environment",
+      "name": "All-Party Parliamentary Group for the Environment",
       "differences": [
         {
-          "key": "contact_details__registered_contact_name",
-          "old_value": "Josh MacAlister MP",
-          "new_value": "Jess Asato MP"
+          "key": "detailed_benefits__3__Source",
+          "old_value": "",
+          "new_value": "British Standards Institution"
+        },
+        {
+          "key": "detailed_benefits__6__Received",
+          "old_value": "",
+          "new_value": "10/01/2025"
+        },
+        {
+          "key": "detailed_benefits__7__Received",
+          "old_value": "",
+          "new_value": "12/02/2025"
+        },
+        {
+          "key": "detailed_benefits__6__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__5__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__3__Received",
+          "old_value": "",
+          "new_value": "28/02/2025"
+        },
+        {
+          "key": "detailed_benefits__2__Received",
+          "old_value": "",
+          "new_value": "04/12/2024"
+        },
+        {
+          "key": "detailed_benefits__3__Registered",
+          "old_value": "",
+          "new_value": "23/04/2025"
+        },
+        {
+          "key": "detailed_benefits__6__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__2__Source",
+          "old_value": "",
+          "new_value": "Santander"
+        },
+        {
+          "key": "detailed_benefits__4__Received",
+          "old_value": "",
+          "new_value": "10/01/2025"
+        },
+        {
+          "key": "detailed_benefits__7__Registered",
+          "old_value": "",
+          "new_value": "23/04/2025"
+        },
+        {
+          "key": "detailed_benefits__4__Source",
+          "old_value": "",
+          "new_value": "Danfoss"
+        },
+        {
+          "key": "detailed_benefits__5__Source",
+          "old_value": "",
+          "new_value": "National Grid"
+        },
+        {
+          "key": "detailed_benefits__3__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__2__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__4__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__8__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__8__Source",
+          "old_value": "",
+          "new_value": "Ovo Energy"
+        },
+        {
+          "key": "detailed_benefits__5__Registered",
+          "old_value": "",
+          "new_value": "23/04/2025"
+        },
+        {
+          "key": "detailed_benefits__3__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__8__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__7__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__5__Received",
+          "old_value": "",
+          "new_value": "02/12/2024"
+        },
+        {
+          "key": "detailed_benefits__8__Received",
+          "old_value": "",
+          "new_value": "27/02/2025"
+        },
+        {
+          "key": "detailed_benefits__7__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__2__Registered",
+          "old_value": "",
+          "new_value": "23/04/2025"
+        },
+        {
+          "key": "detailed_benefits__6__Registered",
+          "old_value": "",
+          "new_value": "23/04/2025"
+        },
+        {
+          "key": "detailed_benefits__4__Registered",
+          "old_value": "",
+          "new_value": "23/04/2025"
+        },
+        {
+          "key": "detailed_benefits__5__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__4__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__2__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__6__Source",
+          "old_value": "",
+          "new_value": "Vestel UK Ltd"
+        },
+        {
+          "key": "detailed_benefits__7__Source",
+          "old_value": "",
+          "new_value": "AtkinsRealis"
+        },
+        {
+          "key": "detailed_benefits__8__Registered",
+          "old_value": "",
+          "new_value": "23/04/2025"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/environment.htm"
+    },
+    {
+      "slug": "water-sanitation-and-hygiene",
+      "name": "Water, Sanitation and Hygiene All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "officers__2__party",
+          "old_value": "Liberal Democrat",
+          "new_value": "Labour"
         },
         {
           "key": "officers__0__name",
-          "old_value": "Josh MacAlister",
-          "new_value": "Jess Asato"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/care-experienced-children-and-young-people.htm"
-    },
-    {
-      "slug": "liverpool-city-region",
-      "name": "Liverpool City Region All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Inflect Partners",
-          "new_value": "Gill Morris, Devo Agency. Tel: 07976 263 869"
+          "old_value": "Laura Kyrke-Smith",
+          "new_value": "Dr Rupa Huq"
         },
         {
-          "key": "contact_details__secretariat",
-          "old_value": "Inflect Partners acts as the group's secretariat. https://www.inflect.co.uk/",
-          "new_value": "Devo Agency acts as the group's secretariat. https://www.devoagency.co.uk"
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Timothy Ingram, WaterAid. Tel: 020 7934 4594",
+          "new_value": "George Bose, WaterAid. Tel: 020 7793 5121"
+        },
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "House of Commons, London, SW1A 0AA.",
+          "new_value": "House of Commons, London, SW1A 0AA. Tel: 020 7219 6865."
+        },
+        {
+          "key": "officers__1__party",
+          "old_value": "Labour",
+          "new_value": "Liberal Democrat"
+        },
+        {
+          "key": "officers__1__name",
+          "old_value": "Dr Rupa Huq",
+          "new_value": "Brian Mathew"
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Brian Mathew",
+          "new_value": "Lee Pitcher"
+        },
+        {
+          "key": "contact_details__registered_contact_name",
+          "old_value": "Laura Kyrke-Smith MP",
+          "new_value": "Dr Rupa Huq MP"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/liverpool-city-region.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/water-sanitation-and-hygiene.htm"
+    },
+    {
+      "slug": "patient-safety",
+      "name": "All-Party Parliamentary Group on Patient Safety",
+      "differences": [
+        {
+          "key": "officers__0__name",
+          "old_value": "Jeremy Hunt",
+          "new_value": "Sir Jeremy Hunt"
+        },
+        {
+          "key": "contact_details__registered_contact_name",
+          "old_value": "Jeremy Hunt MP",
+          "new_value": "Sir Jeremy Hunt MP"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/patient-safety.htm"
+    },
+    {
+      "slug": "shakespeare",
+      "name": "All-Party Parliamentary Group for Shakespeare",
+      "differences": [
+        {
+          "key": "contact_details__website__url",
+          "old_value": "None",
+          "new_value": "https://www.birmingham.ac.uk/about/college-of-arts-and-law/shakespeare-institute/international-collaborations/the-all-party-parliamentary-group-on-shakespeare"
+        },
+        {
+          "key": "contact_details__website__status",
+          "old_value": "no_register",
+          "new_value": "register"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/shakespeare.htm"
+    },
+    {
+      "slug": "pro-life",
+      "name": "All-Party Parliamentary Pro-Life Group",
+      "differences": [
+        {
+          "key": "officers__2__party",
+          "old_value": "Labour",
+          "new_value": "Crossbench"
+        },
+        {
+          "key": "officers__3__role",
+          "old_value": "Vice Chair",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__mnis_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__twfy_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "False",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "Baroness O'Loan",
+          "new_value": ""
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Mary Glindon",
+          "new_value": "Baroness O'Loan"
+        },
+        {
+          "key": "officers__3__party",
+          "old_value": "Crossbench",
+          "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/pro-life.htm"
+    },
+    {
+      "slug": "sme-small-and-medium-sized-enterprises-house-builders",
+      "name": "All-Party Parliamentary Group for SME (Small and Medium-sized Enterprises) House Builders",
+      "differences": [
+        {
+          "key": "officers__2__party",
+          "old_value": "Labour",
+          "new_value": "Non-affiliated"
+        },
+        {
+          "key": "officers__3__role",
+          "old_value": "Officer",
+          "new_value": ""
+        },
+        {
+          "key": "officers__1__party",
+          "old_value": "Conservative",
+          "new_value": "Labour"
+        },
+        {
+          "key": "officers__3__mnis_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__twfy_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__1__role",
+          "old_value": "Co-Chair",
+          "new_value": "Officer"
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "False",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "Lord Austin of Dudley",
+          "new_value": ""
+        },
+        {
+          "key": "officers__1__name",
+          "old_value": "Mike Wood",
+          "new_value": "Lord Snape"
+        },
+        {
+          "key": "officers__2__name",
+          "old_value": "Lord Snape",
+          "new_value": "Lord Austin of Dudley"
+        },
+        {
+          "key": "officers__3__party",
+          "old_value": "Non-affiliated",
+          "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/sme-small-and-medium-sized-enterprises-house-builders.htm"
+    },
+    {
+      "slug": "defence-and-security-sectors-supporting-local-communities",
+      "name": "All-Party Parliamentary Group on the Defence and Security Sectors Supporting Local Communities",
+      "differences": [
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "House of Commons, London, SW1A 0AA.",
+          "new_value": "House of Commons, London, SW1A 0AA. Tel: 0207 219 4085."
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/defence-and-security-sectors-supporting-local-communities.htm"
+    },
+    {
+      "slug": "uk-fresh-produce-network",
+      "name": "All-Party Parliamentary Group on the UK Fresh Produce Network",
+      "differences": [
+        {
+          "key": "officers__3__role",
+          "old_value": "Vice Chair",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__mnis_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__twfy_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "False",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "Viscount Waverley",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__party",
+          "old_value": "Crossbench",
+          "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/uk-fresh-produce-network.htm"
+    },
+    {
+      "slug": "global-sexual-and-reproductive-health-and-rights",
+      "name": "All-Party Parliamentary Group on Global Sexual and Reproductive Health and Rights",
+      "differences": [
+        {
+          "key": "detailed_benefits__1__Registered",
+          "old_value": "",
+          "new_value": "28/03/2025"
+        },
+        {
+          "key": "detailed_benefits__1__Source",
+          "old_value": "",
+          "new_value": "International Planned Parenthood Federation"
+        },
+        {
+          "key": "detailed_benefits__1__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "detailed_benefits__1__Received",
+          "old_value": "",
+          "new_value": "27/03/2025"
+        },
+        {
+          "key": "detailed_benefits__1__Value £s",
+          "old_value": "",
+          "new_value": "10,000"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/global-sexual-and-reproductive-health-and-rights.htm"
+    },
+    {
+      "slug": "nepal",
+      "name": "Nepal All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "contact_details__registered_contact_address",
+          "old_value": "House of Commons, London, SW1A 0AA.",
+          "new_value": "House of Commons, London, SW1A 0AA. Tel: 0207 219 4085."
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/nepal.htm"
+    },
+    {
+      "slug": "war-crimes",
+      "name": "All-Party Parliamentary Group on War Crimes",
+      "differences": [
+        {
+          "key": "officers__2__party",
+          "old_value": "Labour",
+          "new_value": "Independent"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/war-crimes.htm"
+    },
+    {
+      "slug": "saudi-arabia",
+      "name": "All-Party Parliamentary Group on Saudi Arabia",
+      "differences": [
+        {
+          "key": "officers__3__role",
+          "old_value": "Vice Chair",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__mnis_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__twfy_id",
+          "old_value": "None",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__removed",
+          "old_value": "False",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__name",
+          "old_value": "Simon Hoare",
+          "new_value": ""
+        },
+        {
+          "key": "officers__3__party",
+          "old_value": "Conservative",
+          "new_value": ""
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/saudi-arabia.htm"
     },
     {
       "slug": "energy-studies",
@@ -1645,41 +1617,69 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/energy-studies.htm"
     },
     {
-      "slug": "poverty-and-inequality",
-      "name": "All-Party Parliamentary Group on Poverty and Inequality",
+      "slug": "british-buses",
+      "name": "All-Party Parliamentary Group for British Buses",
       "differences": [
         {
-          "key": "officers__3__mnis_id",
-          "old_value": "",
-          "new_value": "None"
-        },
+          "key": "contact_details__registered_contact_address",
+          "old_value": "House of Commons, London, SW1A 0AA.",
+          "new_value": "House of Commons, London, SW1A 0AA. Tel: 0207 219 4085."
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/british-buses.htm"
+    },
+    {
+      "slug": "emergency-care",
+      "name": "All-Party Parliamentary Group on Emergency Care",
+      "differences": [
         {
-          "key": "officers__3__twfy_id",
-          "old_value": "",
-          "new_value": "None"
-        },
+          "key": "officers__1__name",
+          "old_value": "Jeremy Hunt",
+          "new_value": "Sir Jeremy Hunt"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/emergency-care.htm"
+    },
+    {
+      "slug": "british-sign-language",
+      "name": "All-Party Parliamentary Group on British Sign Language",
+      "differences": [
         {
-          "key": "officers__3__removed",
-          "old_value": "",
-          "new_value": "False"
-        },
+          "key": "contact_details__registered_contact_address",
+          "old_value": "House of Commons, London, SW1A 0AA.",
+          "new_value": "House of Commons, London, SW1A 0AA. Tel: 0207 219 7830."
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/british-sign-language.htm"
+    },
+    {
+      "slug": "cycling-and-walking",
+      "name": "All-Party Parliamentary Group for Cycling and Walking",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_name",
+          "old_value": "Adam Coffman, Office of Lord Berkeley, House of Lords. Tel: 020 7219 5761",
+          "new_value": "Adam Coffman, Office of Lord Berkeley. Tel: 020 7219 5761"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/cycling-and-walking.htm"
+    },
+    {
+      "slug": "freedom-of-speech",
+      "name": "All-Party Parliamentary Group on Freedom of Speech",
+      "differences": [
         {
           "key": "officers__3__name",
-          "old_value": "",
-          "new_value": "Neil Duncan-Jordan"
-        },
-        {
-          "key": "officers__3__role",
-          "old_value": "",
-          "new_value": "Officer"
+          "old_value": "Baroness Cox",
+          "new_value": "Baroness Fox of Buckley"
         },
         {
           "key": "officers__3__party",
-          "old_value": "",
-          "new_value": "Labour"
+          "old_value": "Crossbench",
+          "new_value": "Non-affiliated"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/poverty-and-inequality.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250507/freedom-of-speech.htm"
     }
   ]
 }
