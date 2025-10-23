@@ -38,10 +38,19 @@
     }
   ],
   "members_list": {
-    "source_method": "not_found",
+    "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-10-20",
-    "members": []
+    "last_updated": "2025-10-23",
+    "members": [
+      {
+        "name": "Steve Witherden",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Bob Blackman MP",
