@@ -707,7 +707,9 @@ def update_appg_membership(
 
 
 def load_manual_data(
-    skip_download: bool = False, markdown_file: Path = MARKDOWN_FILE
+    skip_download: bool = False,
+    markdown_file: Path = MARKDOWN_FILE,
+    target_slug: str = "",
 ) -> bool:
     """
     Main function to load manual APPG membership data.
@@ -715,6 +717,7 @@ def load_manual_data(
     Args:
         skip_download: If True, skip downloading and use existing file
         markdown_file: Path to markdown file to parse
+        target_slug: If provided, only update this specific APPG slug
 
     Returns:
         True if successful, False otherwise
@@ -747,8 +750,13 @@ def load_manual_data(
 
     console.print(f"[green]✓ Found {len(appg_data)} APPGs in markdown[/green]")
 
+    # If target_slug is specified, show what we're filtering to
+    if target_slug:
+        console.print(f"[yellow]🎯 Filtering to target slug:[/yellow] {target_slug}")
+
     # Process each APPG
     updated_count = 0
+    target_found = False
     for appg_title, member_names in appg_data.items():
         console.print(f"\n[blue]Processing:[/blue] {appg_title}")
         console.print(f"[blue]Members found:[/blue] {len(member_names)}")
@@ -765,6 +773,15 @@ def load_manual_data(
 
         console.print(f"[green]✓ Found matching file:[/green] {appg_slug}")
 
+        # If target_slug is specified, check if this matches
+        if target_slug and appg_slug != target_slug:
+            console.print(f"[yellow]⏭ Skipping {appg_slug} (not target slug)[/yellow]")
+            continue
+
+        # If we have a target slug and found a match, mark it as found
+        if target_slug and appg_slug == target_slug:
+            target_found = True
+
         # Show first few member names for verification
         if member_names:
             sample_names = member_names[:3]
@@ -775,6 +792,18 @@ def load_manual_data(
         # Update the APPG
         if update_appg_membership(appg_slug, member_names):
             updated_count += 1
+
+    # Check if target slug was specified but not found
+    if target_slug and not target_found:
+        console.print(
+            f"\n[red]✗ Target slug '{target_slug}' not found in markdown data[/red]"
+        )
+        console.print("[yellow]Available APPGs in markdown:[/yellow]")
+        for title in appg_data.keys():
+            slug = find_matching_appg_file(title)
+            if slug:
+                console.print(f"  - {slug} (from '{title}')")
+        return False
 
     console.print(f"\n[green]✓ Successfully updated {updated_count} APPGs[/green]")
     return updated_count > 0

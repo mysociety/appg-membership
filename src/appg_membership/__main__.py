@@ -177,7 +177,7 @@ def blank_membership_information(appg_slug: str):
 
 
 @app.command()
-def load_manual_data(skip_download: bool = False):
+def load_manual_data(skip_download: bool = False, slug: str = ""):
     """
     Load manual APPG membership data from Google Docs.
 
@@ -191,10 +191,11 @@ def load_manual_data(skip_download: bool = False):
 
     Args:
         skip_download: If True, skip downloading and use existing markdown file
+        slug: If provided, only update this specific APPG slug
     """
     from .load_manual_data import load_manual_data
 
-    success = load_manual_data(skip_download=skip_download)
+    success = load_manual_data(skip_download=skip_download, target_slug=slug)
     if not success:
         raise typer.Exit(1)
 

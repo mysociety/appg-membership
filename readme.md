@@ -125,6 +125,19 @@ This downloads and processes manual APPG membership data from Google Docs. This 
 
 **Options:**
 - `--skip-download`: Skip downloading and use existing markdown file at `data/raw/manual/manual_membership.md`
+- `--slug <appg-slug>`: Update only the specified APPG slug instead of processing all APPGs in the document
+
+**Examples:**
+```bash
+# Update all APPGs from the Google Doc
+project load-manual-data
+
+# Update only a specific APPG
+project load-manual-data --slug artificial-intelligence
+
+# Update a specific APPG using existing markdown file
+project load-manual-data --skip-download --slug climate-change
+```
 
 ### 8. Add Person IDs to Members
 
