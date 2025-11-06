@@ -85,9 +85,7 @@ def build():
     """
     from .add_person_ids import add_person_ids
     from .build_data import build
-    from .load_spreadsheets import load_all_spreadsheets
 
-    load_all_spreadsheets()
     add_person_ids()
     build()
 
