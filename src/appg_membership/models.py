@@ -8,6 +8,13 @@ from typing import List, Literal, Optional
 from backports.strenum import StrEnum
 from pydantic import BaseModel, EmailStr, Field, HttpUrl, RootModel, field_validator
 
+
+class Parliament(StrEnum):
+    UK = "uk"
+    SCOTLAND = "scotland"
+    WALES = "wales"
+
+
 register_dates = [
     "240828",  # 28 August 2024
     "241009",  # 9 October 2024
@@ -163,6 +170,7 @@ class APPG(BaseModel):
     title: str
     purpose: Optional[str] = None
     category: Optional[str] = None
+    parliament: Parliament = Parliament.UK
 
     officers: List[Officer] = []
     members_list: MemberList = Field(default_factory=MemberList)
@@ -199,6 +207,7 @@ class APPG(BaseModel):
             "title": self.title,
             "purpose": self.purpose or "",
             "category": self.category or "",
+            "parliament": str(self.parliament),
             "registrable_benefits": self.registrable_benefits or "",
             "source_url": str(self.source_url) if self.source_url else "",
         }
@@ -225,19 +234,36 @@ class APPG(BaseModel):
         else:
             return False
 
+    @staticmethod
+    def _get_parliament_folder(parliament: Parliament) -> str:
+        """
+        Get the folder name for a given parliament.
+        """
+        if parliament == Parliament.UK:
+            return "appgs"
+        elif parliament == Parliament.WALES:
+            return "cpg_wales"
+        elif parliament == Parliament.SCOTLAND:
+            return "cpg_scotland"
+        else:
+            raise ValueError(f"Unknown parliament: {parliament}")
+
     @classmethod
-    def load(cls, slug: str) -> APPG:
+    def load(cls, slug: str, parliament: Parliament = Parliament.UK) -> APPG:
         """
         Load an APPG from a slug.
         """
-        base_folder = Path("data", "appgs")
+        folder_name = cls._get_parliament_folder(parliament)
+        base_folder = Path("data", folder_name)
         appg_file = base_folder / f"{slug}.json"
 
         if not appg_file.exists():
             raise FileNotFoundError(f"APPG file not found: {appg_file}")
 
         with appg_file.open("r", encoding="utf-8") as f:
-            return cls.model_validate_json(f.read())
+            appg = cls.model_validate_json(f.read())
+            appg.parliament = parliament  # Ensure parliament is set correctly
+            return appg
 
     def save(self, release: str | None = None) -> None:
         """
@@ -246,7 +272,8 @@ class APPG(BaseModel):
         if release:
             base_folder = Path("data", "raw", "releases", release)
         else:
-            base_folder = Path("data", "appgs")
+            folder_name = self._get_parliament_folder(self.parliament)
+            base_folder = Path("data", folder_name)
         appg_file = base_folder / f"{self.slug}.json"
 
         if not base_folder.exists():
@@ -260,24 +287,48 @@ class APPGList(RootModel):
     root: List[APPG]
 
     @classmethod
-    def load(cls, release: str | None = None) -> APPGList:
+    def load(
+        cls, release: str | None = None, parliament: Parliament = Parliament.UK
+    ) -> APPGList:
         """
         Load all APPGs from the data folder.
         """
         if release:
             base_folder = Path("data", "raw", "releases", release)
         else:
-            base_folder = Path("data", "appgs")
+            folder_name = APPG._get_parliament_folder(parliament)
+            base_folder = Path("data", folder_name)
+
         appg_files = list(base_folder.glob("*.json"))
 
         appgs = []
         for appg_file in appg_files:
             with appg_file.open("r", encoding="utf-8") as f:
-                appgs.append(APPG.model_validate_json(f.read()))
+                appg = APPG.model_validate_json(f.read())
+                appg.parliament = parliament  # Ensure parliament is set correctly
+                appgs.append(appg)
 
         appgs.sort(key=lambda x: x.title.lower())
 
         return cls(root=appgs)
+
+    @classmethod
+    def load_all(cls, release: str | None = None) -> APPGList:
+        """
+        Load all APPGs from all parliament data folders and combine into a single list.
+        """
+        all_appgs = []
+
+        for parliament in Parliament:
+            try:
+                appg_list = cls.load(release=release, parliament=parliament)
+                all_appgs.extend(appg_list.root)
+            except FileNotFoundError:
+                # Parliament folder doesn't exist yet, skip it
+                continue
+
+        all_appgs.sort(key=lambda x: x.title.lower())
+        return cls(root=all_appgs)
 
     def __len__(self) -> int:
         return len(self.root)
