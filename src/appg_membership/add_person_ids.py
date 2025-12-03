@@ -90,23 +90,41 @@ def add_person_ids():
             tidied_name = name_adaptor(name.nice_name())
             if tidied_name in name_lookup:
                 previous_person = name_lookup[tidied_name]
-                previous_memberships = previous_person.memberships()
-                current_memberships = person.memberships()
-                # get highest end_date for both
-                previous_highest_end_date = max(
-                    (m.end_date for m in previous_memberships if m.end_date),
-                    default=None,
+
+                # Prefer UK Parliament members (those with datadotparl_id) over devolved parliament members
+                # This handles cases like Paul Davies where one is Senedd and one is Commons
+                previous_has_datadotparl = (
+                    previous_person.get_identifier("datadotparl_id") is not None
                 )
-                current_highest_end_date = max(
-                    (m.end_date for m in current_memberships if m.end_date),
-                    default=None,
+                current_has_datadotparl = (
+                    person.get_identifier("datadotparl_id") is not None
                 )
-                # if current is higher than previous, replace
-                if current_highest_end_date and (
-                    not previous_highest_end_date
-                    or current_highest_end_date > previous_highest_end_date
-                ):
+
+                # If current has datadotparl_id and previous doesn't, prefer current
+                if current_has_datadotparl and not previous_has_datadotparl:
                     name_lookup[tidied_name] = person
+                # If previous has datadotparl_id and current doesn't, keep previous
+                elif previous_has_datadotparl and not current_has_datadotparl:
+                    pass  # Keep previous
+                # If both have or both don't have datadotparl_id, use end_date logic
+                else:
+                    previous_memberships = previous_person.memberships()
+                    current_memberships = person.memberships()
+                    # get highest end_date for both
+                    previous_highest_end_date = max(
+                        (m.end_date for m in previous_memberships if m.end_date),
+                        default=None,
+                    )
+                    current_highest_end_date = max(
+                        (m.end_date for m in current_memberships if m.end_date),
+                        default=None,
+                    )
+                    # if current is higher than previous, replace
+                    if current_highest_end_date and (
+                        not previous_highest_end_date
+                        or current_highest_end_date > previous_highest_end_date
+                    ):
+                        name_lookup[tidied_name] = person
 
             else:
                 name_lookup[tidied_name] = person
