@@ -1,0 +1,32 @@
+title: Categories
+description: Categories added to APPG by mySociety
+custom:
+  row_count: 780
+path: categories.parquet
+name: categories
+profile: data-resource
+scheme: file
+format: parquet
+hashing: md5
+encoding: utf-8
+schema:
+  fields:
+  - name: appg_slug
+    type: string
+    description: Slugified name of the APPG
+    constraints:
+      unique: false
+    example: abraham-accords
+  - name: category_slug
+    type: string
+    description: Slugified name of the category
+    constraints:
+      unique: false
+    example: ANIMALS_ANIMAL_WELFARE
+  - name: category_name
+    type: string
+    description: Nice name of the category
+    constraints:
+      unique: false
+    example: Animals & Animal Welfare
+hash: a54342f4ff79e554c8cef47ee628b560
