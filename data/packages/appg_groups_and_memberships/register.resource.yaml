@@ -41,6 +41,14 @@ schema:
       - Country, Area or Region Group
       - Subject Group
     example: Country, Area or Region Group
+  - name: parliament
+    type: string
+    description: Parliament the APPG is in
+    constraints:
+      unique: false
+      enum:
+      - uk
+    example: uk
   - name: registrable_benefits
     type: string
     description: Registrable benefits of the APPG
@@ -164,4 +172,4 @@ schema:
     constraints:
       unique: false
     example: '2025-11-22'
-hash: d87ebafe3803e8dd945777c517af2cc5
+hash: 17cc8b7b9cc52f3465753aa1d0f30b60
