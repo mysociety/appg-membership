@@ -537,54 +537,9 @@
   ],
   "updated_appgs": [
     {
-      "slug": "opera",
-      "title": "Opera All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/opera.htm"
-    },
-    {
-      "slug": "india",
-      "title": "India All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/india.htm"
-    },
-    {
-      "slug": "humanist",
-      "title": "All-Party Parliamentary Humanist Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/humanist.htm"
-    },
-    {
-      "slug": "jazz",
-      "title": "All-Party Parliamentary Jazz Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/jazz.htm"
-    },
-    {
-      "slug": "italy",
-      "title": "All-Party Parliamentary Group on Italy",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/italy.htm"
-    },
-    {
-      "slug": "environment",
-      "title": "All-Party Parliamentary Group for the Environment",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/environment.htm"
-    },
-    {
-      "slug": "households-in-temporary-accommodation",
-      "title": "All-Party Parliamentary Group for Households in Temporary Accommodation",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/households-in-temporary-accommodation.htm"
-    },
-    {
-      "slug": "scientific",
-      "title": "Parliamentary and Scientific Committee (an All-Party Parliamentary Group)",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/scientific.htm"
-    },
-    {
       "slug": "south-west",
       "title": "All-Party Parliamentary Group for the great South West",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/south-west.htm"
-    },
-    {
-      "slug": "semiconductors",
-      "title": "All-Party Parliamentary Group for Semiconductors",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/semiconductors.htm"
     },
     {
       "slug": "spinal-cord-injury",
@@ -592,9 +547,34 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/spinal-cord-injury.htm"
     },
     {
-      "slug": "restorative-justice",
-      "title": "All-Party Parliamentary Group for Restorative Justice",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/restorative-justice.htm"
+      "slug": "net-zero",
+      "title": "Net Zero All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/net-zero.htm"
+    },
+    {
+      "slug": "semiconductors",
+      "title": "All-Party Parliamentary Group for Semiconductors",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/semiconductors.htm"
+    },
+    {
+      "slug": "opera",
+      "title": "Opera All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/opera.htm"
+    },
+    {
+      "slug": "italy",
+      "title": "All-Party Parliamentary Group on Italy",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/italy.htm"
+    },
+    {
+      "slug": "jazz",
+      "title": "All-Party Parliamentary Jazz Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/jazz.htm"
+    },
+    {
+      "slug": "humanist",
+      "title": "All-Party Parliamentary Humanist Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/humanist.htm"
     },
     {
       "slug": "greece",
@@ -602,14 +582,34 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/greece.htm"
     },
     {
-      "slug": "net-zero",
-      "title": "Net Zero All-Party Parliamentary Group",
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/net-zero.htm"
+      "slug": "environment",
+      "title": "All-Party Parliamentary Group for the Environment",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/environment.htm"
+    },
+    {
+      "slug": "india",
+      "title": "India All-Party Parliamentary Group",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/india.htm"
+    },
+    {
+      "slug": "households-in-temporary-accommodation",
+      "title": "All-Party Parliamentary Group for Households in Temporary Accommodation",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/households-in-temporary-accommodation.htm"
+    },
+    {
+      "slug": "restorative-justice",
+      "title": "All-Party Parliamentary Group for Restorative Justice",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/restorative-justice.htm"
     },
     {
       "slug": "united-nations-global-goals",
       "title": "All-Party Parliamentary Group for the United Nations Global Goals",
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/united-nations-global-goals.htm"
+    },
+    {
+      "slug": "scientific",
+      "title": "Parliamentary and Scientific Committee (an All-Party Parliamentary Group)",
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/scientific.htm"
     },
     {
       "slug": "international-freedom-of-religion-or-belief",
@@ -624,212 +624,6 @@
   ],
   "differences": [
     {
-      "slug": "opera",
-      "name": "Opera All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "gibsonj@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "bambos.charalambous.mp@parliament.uk",
-          "new_value": "None"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/opera.htm"
-    },
-    {
-      "slug": "india",
-      "name": "India All-Party Parliamentary Group",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "welcome@1928institute.org",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "jeevun.sandher.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "The 1928 Institute acts as the group's secretariat.https://www.1928institute.org/",
-          "new_value": "The 1928 Institute acts as the group's secretariat. https://www.1928institute.org/"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/india.htm"
-    },
-    {
-      "slug": "humanist",
-      "name": "All-Party Parliamentary Humanist Group",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "thomas.mohan@humanists.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "rachel.hopkins.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Humanists UK acts as the group's secretariat.https://humanists.uk/",
-          "new_value": "Humanists UK acts as the group's secretariat. https://humanists.uk/"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/humanist.htm"
-    },
-    {
-      "slug": "jazz",
-      "name": "All-Party Parliamentary Jazz Group",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "appjag1@gmail.com",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "chi.onwurah.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Chris Hodgkins acts as the group's secretariat.https://www.chrishodgkins.co.uk/",
-          "new_value": "Chris Hodgkins acts as the group's secretariat. https://www.chrishodgkins.co.uk/"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/jazz.htm"
-    },
-    {
-      "slug": "italy",
-      "name": "All-Party Parliamentary Group on Italy",
-      "differences": [
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "charlie.mannixbeale@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "alberto.costa.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_name",
-          "old_value": "Charlie Mannix Beale, Office of  Alberto Costa MP. Tel: 020 7219 1049",
-          "new_value": "Charlie Mannix Beale, Office of Alberto Costa MP. Tel: 020 7219 1049"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/italy.htm"
-    },
-    {
-      "slug": "environment",
-      "name": "All-Party Parliamentary Group for the Environment",
-      "differences": [
-        {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        },
-        {
-          "key": "detailed_benefits__0__Received",
-          "old_value": "",
-          "new_value": "30/09/2024"
-        },
-        {
-          "key": "detailed_benefits__0__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__0__Registered",
-          "old_value": "",
-          "new_value": "04/10/2024"
-        },
-        {
-          "key": "detailed_benefits__0__Source",
-          "old_value": "",
-          "new_value": "WSP"
-        },
-        {
-          "key": "registrable_benefits",
-          "old_value": "None",
-          "new_value": "Financial Benefits"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/environment.htm"
-    },
-    {
-      "slug": "households-in-temporary-accommodation",
-      "name": "All-Party Parliamentary Group for Households in Temporary Accommodation",
-      "differences": [
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "mcdonaghs@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Justlife Foundation  and Shared Health Foundation jointly act as the group's secretariat.https://www.justlife.org.uk/andhttps://sharedhealthfoundation.org.uk/",
-          "new_value": "Justlife Foundation  and Shared Health Foundation jointly act as the group's secretariat. https://www.justlife.org.uk/ and https://sharedhealthfoundation.org.uk/"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/households-in-temporary-accommodation.htm"
-    },
-    {
-      "slug": "scientific",
-      "name": "Parliamentary and Scientific Committee (an All-Party Parliamentary Group)",
-      "differences": [
-        {
-          "key": "detailed_benefits__0__Value £s",
-          "old_value": "",
-          "new_value": "5,000"
-        },
-        {
-          "key": "detailed_benefits__0__Received",
-          "old_value": "",
-          "new_value": "12/09/2024"
-        },
-        {
-          "key": "contact_details__public_enquiry_point_email",
-          "old_value": "karen@scienceinparliament.org.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "contact_details__registered_contact_email",
-          "old_value": "george.freeman.mp@parliament.uk",
-          "new_value": "None"
-        },
-        {
-          "key": "detailed_benefits__0__benefit_type",
-          "old_value": "",
-          "new_value": "Financial Benefits"
-        },
-        {
-          "key": "detailed_benefits__0__Registered",
-          "old_value": "",
-          "new_value": "24/09/2024"
-        },
-        {
-          "key": "detailed_benefits__0__Source",
-          "old_value": "",
-          "new_value": "AWE PLC"
-        },
-        {
-          "key": "registrable_benefits",
-          "old_value": "None",
-          "new_value": "Financial Benefits"
-        }
-      ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/scientific.htm"
-    },
-    {
       "slug": "south-west",
       "name": "All-Party Parliamentary Group for the great South West",
       "differences": [
@@ -842,14 +636,43 @@
           "key": "contact_details__registered_contact_email",
           "old_value": "steve.race.mp@parliament.uk",
           "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Henham Strategy acts as the group's secretariat.https://www.henhamstrategy.co.uk/",
-          "new_value": "Henham Strategy acts as the group's secretariat. https://www.henhamstrategy.co.uk/"
         }
       ],
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/south-west.htm"
+    },
+    {
+      "slug": "spinal-cord-injury",
+      "name": "All-Party Parliamentary Group on Spinal Cord Injury",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "g.hayes@spinal.co.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "andy.mcdonald.2nd@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/spinal-cord-injury.htm"
+    },
+    {
+      "slug": "net-zero",
+      "name": "Net Zero All-Party Parliamentary Group",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "netzeroappg@inflect.co.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "alex.sobel.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/net-zero.htm"
     },
     {
       "slug": "semiconductors",
@@ -869,58 +692,77 @@
           "key": "officers__2__name",
           "old_value": "Gurinder Josan",
           "new_value": "Gurinder Singh Josan"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "CalComms acts as the group's secretariat.https://www.calcomms.co.uk/",
-          "new_value": "CalComms acts as the group's secretariat. https://www.calcomms.co.uk/"
         }
       ],
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/semiconductors.htm"
     },
     {
-      "slug": "spinal-cord-injury",
-      "name": "All-Party Parliamentary Group on Spinal Cord Injury",
+      "slug": "opera",
+      "name": "Opera All-Party Parliamentary Group",
       "differences": [
         {
           "key": "contact_details__public_enquiry_point_email",
-          "old_value": "g.hayes@spinal.co.uk",
+          "old_value": "gibsonj@parliament.uk",
           "new_value": "None"
         },
         {
           "key": "contact_details__registered_contact_email",
-          "old_value": "andy.mcdonald.2nd@parliament.uk",
+          "old_value": "bambos.charalambous.mp@parliament.uk",
           "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Spinal Injuries Association acts as the group's secretariat.https://www.spinal.co.uk/",
-          "new_value": "Spinal Injuries Association acts as the group's secretariat. https://www.spinal.co.uk/"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/spinal-cord-injury.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/opera.htm"
     },
     {
-      "slug": "restorative-justice",
-      "name": "All-Party Parliamentary Group for Restorative Justice",
+      "slug": "italy",
+      "name": "All-Party Parliamentary Group on Italy",
       "differences": [
         {
           "key": "contact_details__public_enquiry_point_email",
-          "old_value": "matthew@calcomms.co.uk",
+          "old_value": "charlie.mannixbeale@parliament.uk",
           "new_value": "None"
         },
         {
           "key": "contact_details__registered_contact_email",
-          "old_value": "gavin.robinson.mp@parliament.uk",
+          "old_value": "alberto.costa.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/italy.htm"
+    },
+    {
+      "slug": "jazz",
+      "name": "All-Party Parliamentary Jazz Group",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "appjag1@gmail.com",
           "new_value": "None"
         },
         {
-          "key": "contact_details__secretariat",
-          "old_value": "CalComms acts as the group's secretariat.https://calcomms.co.uk/",
-          "new_value": "CalComms acts as the group's secretariat. https://calcomms.co.uk/"
+          "key": "contact_details__registered_contact_email",
+          "old_value": "chi.onwurah.mp@parliament.uk",
+          "new_value": "None"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/restorative-justice.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/jazz.htm"
+    },
+    {
+      "slug": "humanist",
+      "name": "All-Party Parliamentary Humanist Group",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "thomas.mohan@humanists.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "rachel.hopkins.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/humanist.htm"
     },
     {
       "slug": "greece",
@@ -940,26 +782,87 @@
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/greece.htm"
     },
     {
-      "slug": "net-zero",
-      "name": "Net Zero All-Party Parliamentary Group",
+      "slug": "environment",
+      "name": "All-Party Parliamentary Group for the Environment",
+      "differences": [
+        {
+          "key": "detailed_benefits__0__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__0__Source",
+          "old_value": "",
+          "new_value": "WSP"
+        },
+        {
+          "key": "detailed_benefits__0__Registered",
+          "old_value": "",
+          "new_value": "04/10/2024"
+        },
+        {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "",
+          "new_value": "30/09/2024"
+        },
+        {
+          "key": "detailed_benefits__0__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "registrable_benefits",
+          "old_value": "None",
+          "new_value": "Financial Benefits"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/environment.htm"
+    },
+    {
+      "slug": "india",
+      "name": "India All-Party Parliamentary Group",
       "differences": [
         {
           "key": "contact_details__public_enquiry_point_email",
-          "old_value": "netzeroappg@inflect.co.uk",
+          "old_value": "welcome@1928institute.org",
           "new_value": "None"
         },
         {
           "key": "contact_details__registered_contact_email",
-          "old_value": "alex.sobel.mp@parliament.uk",
+          "old_value": "jeevun.sandher.mp@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/india.htm"
+    },
+    {
+      "slug": "households-in-temporary-accommodation",
+      "name": "All-Party Parliamentary Group for Households in Temporary Accommodation",
+      "differences": [
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "mcdonaghs@parliament.uk",
+          "new_value": "None"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/households-in-temporary-accommodation.htm"
+    },
+    {
+      "slug": "restorative-justice",
+      "name": "All-Party Parliamentary Group for Restorative Justice",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "matthew@calcomms.co.uk",
           "new_value": "None"
         },
         {
-          "key": "contact_details__secretariat",
-          "old_value": "Inflect Partners Ltd acts as the group's secretariat.https://www.inflect.co.uk/",
-          "new_value": "Inflect Partners Ltd acts as the group's secretariat. https://www.inflect.co.uk/"
+          "key": "contact_details__registered_contact_email",
+          "old_value": "gavin.robinson.mp@parliament.uk",
+          "new_value": "None"
         }
       ],
-      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/net-zero.htm"
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/restorative-justice.htm"
     },
     {
       "slug": "united-nations-global-goals",
@@ -974,14 +877,56 @@
           "key": "contact_details__registered_contact_email",
           "old_value": "jessica.toale.mp@parliament.uk",
           "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "Bond acts as the group's secretariat.https://www.bond.org.uk/",
-          "new_value": "Bond acts as the group's secretariat. https://www.bond.org.uk/"
         }
       ],
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/united-nations-global-goals.htm"
+    },
+    {
+      "slug": "scientific",
+      "name": "Parliamentary and Scientific Committee (an All-Party Parliamentary Group)",
+      "differences": [
+        {
+          "key": "contact_details__public_enquiry_point_email",
+          "old_value": "karen@scienceinparliament.org.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "detailed_benefits__0__Value £s",
+          "old_value": "",
+          "new_value": "5,000"
+        },
+        {
+          "key": "detailed_benefits__0__Source",
+          "old_value": "",
+          "new_value": "AWE PLC"
+        },
+        {
+          "key": "contact_details__registered_contact_email",
+          "old_value": "george.freeman.mp@parliament.uk",
+          "new_value": "None"
+        },
+        {
+          "key": "detailed_benefits__0__Registered",
+          "old_value": "",
+          "new_value": "24/09/2024"
+        },
+        {
+          "key": "detailed_benefits__0__Received",
+          "old_value": "",
+          "new_value": "12/09/2024"
+        },
+        {
+          "key": "detailed_benefits__0__benefit_type",
+          "old_value": "",
+          "new_value": "Financial Benefits"
+        },
+        {
+          "key": "registrable_benefits",
+          "old_value": "None",
+          "new_value": "Financial Benefits"
+        }
+      ],
+      "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/scientific.htm"
     },
     {
       "slug": "international-freedom-of-religion-or-belief",
@@ -996,11 +941,6 @@
           "key": "contact_details__registered_contact_email",
           "old_value": "jim.shannon.mp@parliament.uk",
           "new_value": "None"
-        },
-        {
-          "key": "contact_details__secretariat",
-          "old_value": "The FoRB Foundation acts as the group's secretariat.https://theforbfoundation.org",
-          "new_value": "The FoRB Foundation acts as the group's secretariat. https://theforbfoundation.org"
         }
       ],
       "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/241009/international-freedom-of-religion-or-belief.htm"

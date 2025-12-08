@@ -182,6 +182,20 @@ class DiffResult(BaseModel):
                     f.write("[Return to Table of Contents](#table-of-contents)\n\n")
 
 
+def normalize_for_comparison(value: str) -> str:
+    """
+    Normalize a string value for comparison by making it lowercase and removing spaces.
+    This helps ignore minor formatting differences like spacing before colons.
+
+    Args:
+        value: The string to normalize
+
+    Returns:
+        Normalized string with lowercase characters and no spaces
+    """
+    return value.lower().replace(" ", "")
+
+
 def flatten(obj: dict | list, parent_key: str = "", sep: str = "__") -> dict:
     """
     Recursively flattens a JSON-like structure (dicts & lists).
@@ -287,7 +301,11 @@ def compare_registers(
             current_value = str(current_flat.get(key, ""))
             previous_value = str(previous_flat.get(key, ""))
 
-            if current_value != previous_value:
+            # Normalize values for comparison (lowercase, no spaces)
+            # to ignore minor formatting differences
+            if normalize_for_comparison(current_value) != normalize_for_comparison(
+                previous_value
+            ):
                 appg_diffs.append(
                     LineDiff(key=key, old_value=previous_value, new_value=current_value)
                 )
