@@ -15,26 +15,26 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Rachel Hopkins",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25809",
-      "mnis_id": "4873",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Stuart Andrew",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24864",
-      "mnis_id": "4032",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Clive Efford",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10185",
       "mnis_id": "165",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Evans of Rainow",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Rachel Hopkins",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25809",
+      "mnis_id": "4873",
       "removed": false
     }
   ],
@@ -628,15 +628,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-03",
+    "date_of_most_recent_agm": "2025-11-11",
     "published_income_expenditure_statement": false,
     "reporting_year": "03 Sep to 02 Sep",
-    "next_reporting_deadline": "2026-01-03"
+    "next_reporting_deadline": "2027-01-03"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/football-supporters.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/football-supporters.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]

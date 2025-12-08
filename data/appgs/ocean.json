@@ -14,15 +14,7 @@
       "removed": false
     },
     {
-      "role": "Officer",
-      "name": "Baroness Jones of Moulsecoomb",
-      "party": "Green Party",
-      "twfy_id": null,
-      "mnis_id": null,
-      "removed": false
-    },
-    {
-      "role": "Officer",
+      "role": "Vice Chair",
       "name": "Lord Sharpe of Epsom",
       "party": "Conservative",
       "twfy_id": null,
@@ -30,11 +22,19 @@
       "removed": false
     },
     {
-      "role": "Officer",
+      "role": "Vice Chair",
       "name": "Tristan Osborne",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26589",
       "mnis_id": "5220",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Baroness Miller of Chilthorne Domer",
+      "party": "Liberal Democrat",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -516,24 +516,32 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-04",
+    "date_of_most_recent_agm": "2025-11-05",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Sep to 03 Sep",
-    "next_reporting_deadline": "2026-01-04"
+    "next_reporting_deadline": "2027-01-04"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Tendo Consulting",
-      "Description": "Tendo Consulting is paid by National Oceanography Centre to act as the group's secretariat From : 04/09/2024 To  : 03/09/2025",
+      "Description": "Secretariat From: 01/11/2025 To: 03/09/2026",
       "Value £s In bands of £1,500": "33,001-34,500",
-      "Received": "04/09/2024",
-      "Registered": "01/10/2024",
+      "Received": "01/11/2025",
+      "Registered": "28/11/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Tendo Consulting",
+      "Description": "Tendo Consulting was paid by National Oceanography Centre to act as the group's secretariat. From: 04/09/2025 To: 31/10/2025",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "04/09/2025",
+      "Registered": "28/11/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/ocean.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/ocean.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

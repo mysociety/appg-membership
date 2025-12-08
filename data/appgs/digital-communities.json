@@ -15,26 +15,26 @@
     },
     {
       "role": "Officer",
+      "name": "Anna Sabine",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26497",
+      "mnis_id": "5286",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Richard Baker",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/13952",
+      "mnis_id": "5253",
+      "removed": false
+    },
+    {
+      "role": "Officer",
       "name": "Viscount Camrose",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26062",
       "mnis_id": "4939",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Alison Taylor",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26563",
-      "mnis_id": "5093",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Richard Foord",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26086",
-      "mnis_id": "4942",
       "removed": false
     }
   ],
@@ -66,15 +66,15 @@
   "detailed_benefits": [
     {
       "Source": "Local Government Association",
-      "Description": "Secretariat From : 16/10/2024 To  : 15/10/2025",
+      "Description": "Secretariat From: 16/10/2024 To: 15/10/2025",
       "Value £s In bands of £1,500": "15,001-16,500",
       "Received": "16/10/2024",
       "Registered": "28/10/2024",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/digital-communities.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/digital-communities.htm",
   "categories": [
     "Science, Technology & Innovation",
     "Infrastructure, Transport & Mobility",

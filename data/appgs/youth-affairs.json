@@ -15,14 +15,6 @@
     },
     {
       "role": "Officer",
-      "name": "Mims Davies",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25330",
-      "mnis_id": "4513",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "David Williams",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26397",
@@ -35,6 +27,14 @@
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26435",
       "mnis_id": "5269",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Lilley",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/10362",
+      "mnis_id": "68",
       "removed": false
     }
   ],
@@ -516,15 +516,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-04",
+    "date_of_most_recent_agm": "2025-10-22",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Sep to 03 Sep",
-    "next_reporting_deadline": "2026-01-04"
+    "next_reporting_deadline": "2027-01-04"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/youth-affairs.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/youth-affairs.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

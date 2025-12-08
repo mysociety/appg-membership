@@ -7,10 +7,18 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Shaun Davies",
+      "name": "Dave Robertson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26332",
-      "mnis_id": "5041",
+      "twfy_id": "uk.org.publicwhip/person/26374",
+      "mnis_id": "5126",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Antonia Bance",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26342",
+      "mnis_id": "5048",
       "removed": false
     },
     {
@@ -19,14 +27,6 @@
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/11115",
       "mnis_id": "1211",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Leigh Ingham",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26392",
-      "mnis_id": "5290",
       "removed": false
     },
     {
@@ -45,9 +45,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Shaun Davies MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 01952 973 714.",
-    "registered_contact_email": "shaun.davies.mp@parliament.uk",
+    "registered_contact_name": "Dave Robertson MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "dave.robertson.mp@parliament.uk",
     "public_enquiry_point_name": "James Jones, CalComms. Tel: 07990 036547",
     "public_enquiry_point_email": "james@calcomms.co.uk",
     "secretariat": "CalComms acts as the group's secretariat.https://www.calcomms.co.uk/",
@@ -62,19 +62,10 @@
     "reporting_year": "18 Dec to 17 Dec",
     "next_reporting_deadline": "2026-04-18"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "CalComms",
-      "Description": "Secretariat From : 18/12/2024 To  : 17/12/2025",
-      "Value £s In bands of £1,500": "39,001-40,500",
-      "Received": "18/12/2024",
-      "Registered": "07/01/2025",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/west-midlands.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/west-midlands.htm",
   "categories": [
     "Economy, Business & Industry"
   ]

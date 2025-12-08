@@ -14,15 +14,15 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "Baroness Burt of Solihull",
+      "role": "Officer",
+      "name": "Christine Jardine",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25675",
+      "mnis_id": "4634",
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Officer",
       "name": "Siân Berry",
       "party": "Green Party",
       "twfy_id": "uk.org.publicwhip/person/25752",
@@ -30,7 +30,7 @@
       "removed": false
     },
     {
-      "role": "Secretary",
+      "role": "Officer",
       "name": "Dr Kieran Mullan",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25883",
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-30",
+    "date_of_most_recent_agm": "2025-11-12",
     "published_income_expenditure_statement": false,
     "reporting_year": "30 Jul to 29 Jul",
-    "next_reporting_deadline": "2025-11-30"
+    "next_reporting_deadline": "2026-11-30"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Humanists UK",
-      "Description": "Secretariat From : 30/07/2024 To  : 29/07/2025",
-      "Value £s In bands of £1,500": "10,501-12,000",
-      "Received": "30/07/2024",
-      "Registered": "30/07/2024",
+      "Description": "Secretariat From: 30/07/2025 To: 29/07/2026",
+      "Value £s In bands of £1,500": "12,001-13,500",
+      "Received": "30/07/2025",
+      "Registered": "19/11/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/humanist.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/humanist.htm",
   "categories": [
     "Religion, Faith & Belief Communities"
   ]

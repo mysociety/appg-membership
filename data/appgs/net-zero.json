@@ -7,14 +7,22 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Alex Sobel",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25680",
-      "mnis_id": "4658",
+      "name": "Dr Simon Opher",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26313",
+      "mnis_id": "5030",
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Co-Chair",
+      "name": "Edward Morello",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26604",
+      "mnis_id": "5326",
+      "removed": false
+    },
+    {
+      "role": "Officer",
       "name": "Lord Callanan",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25250",
@@ -22,19 +30,11 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "Wera Hobhouse",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25648",
-      "mnis_id": "4602",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Dr Simon Opher",
+      "role": "Officer",
+      "name": "John Whitby",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26313",
-      "mnis_id": "5030",
+      "twfy_id": "uk.org.publicwhip/person/26613",
+      "mnis_id": "5342",
       "removed": false
     }
   ],
@@ -384,9 +384,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Alex Sobel MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 8295.",
-    "registered_contact_email": "alex.sobel.mp@parliament.uk",
+    "registered_contact_name": "Dr Simon Opher MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 02072 197116.",
+    "registered_contact_email": "simon.opher.mp@parliament.uk",
     "public_enquiry_point_name": "Louis O’Halloran, Inflect Partners Ltd. Tel: 07845690679",
     "public_enquiry_point_email": "netzeroappg@inflect.co.uk",
     "secretariat": "Inflect Partners Ltd acts as the group's secretariat.https://www.inflect.co.uk/",
@@ -396,24 +396,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-29",
+    "date_of_most_recent_agm": "2025-11-25",
     "published_income_expenditure_statement": false,
     "reporting_year": "29 Jul to 28 Jul",
-    "next_reporting_deadline": "2025-11-29"
+    "next_reporting_deadline": "2026-11-29"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Inflect Partners Ltd",
-      "Description": "Inflect Partners Ltd is paid by the following to act as the group's secretariat: Inspired Energy, WSP,  Centrica, London South Bank University, UKSOL, Barratt Developments From : 29/07/2024 To  : 28/07/2025",
-      "Value £s In bands of £1,500": "31,501-33,000",
-      "Received": "29/07/2024",
-      "Registered": "06/08/2024",
+      "Description": "Inflect Partners Ltd is paid by the following to act as the group's secretariat: Barratt Developments, London South Bank University, Inspired Energy, U-Systems, Trustmark. From: 29/07/2025 To: 28/07/2026",
+      "Value £s In bands of £1,500": "18,001-19,500",
+      "Received": "29/07/2025",
+      "Registered": "25/11/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/net-zero.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/net-zero.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

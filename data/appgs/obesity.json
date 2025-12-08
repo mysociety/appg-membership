@@ -15,18 +15,18 @@
     },
     {
       "role": "Officer",
-      "name": "Baroness Walmsley",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/13113",
-      "mnis_id": "2547",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Yasmin Qureshi",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24775",
       "mnis_id": "3924",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Walmsley",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/13113",
+      "mnis_id": "2547",
       "removed": false
     },
     {
@@ -259,7 +259,7 @@
     "registered_contact_name": "Mary Glindon MP",
     "registered_contact_address": "Swans Centre for Innovation, Station Rd, Wallsend, NE28 6HJ. Tel: 0191 234 2493.",
     "registered_contact_email": null,
-    "public_enquiry_point_name": "Jak Nagy, Healthcomms Consulting Ltd. Tel: 07759 276999",
+    "public_enquiry_point_name": "Jack Nagy, Healthcomms Consulting Ltd",
     "public_enquiry_point_email": "obesityappg@ealthcommsconsulting.co.uk",
     "secretariat": "Healthcomms Consulting Ltd acts as the group's secretariat.https://www.healthcommsconsulting.co.uk/",
     "website": {
@@ -268,24 +268,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-09",
+    "date_of_most_recent_agm": "2025-10-22",
     "published_income_expenditure_statement": false,
     "reporting_year": "09 Oct to 08 Oct",
-    "next_reporting_deadline": "2026-02-09"
+    "next_reporting_deadline": "2027-02-09"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Healthcomms Consulting Ltd",
-      "Description": "Healthcomms Consulting Ltd paid by Slimming World, Eli Lilly, and Numan to act as the group's secretariat. From : 09/10/2024 To  : 08/10/2025",
-      "Value £s In bands of £1,500": "55,501-57,000",
-      "Received": "09/10/2024",
-      "Registered": "19/03/2025",
+      "Description": "Healthcomms Consulting Ltd paid by Slimming World, Eli Lilly, and Numan to act as the group's secretariat. From: 09/10/2025 To: 08/10/2026",
+      "Value £s In bands of £1,500": "67,501-69,000",
+      "Received": "09/10/2025",
+      "Registered": "27/10/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/obesity.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/obesity.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

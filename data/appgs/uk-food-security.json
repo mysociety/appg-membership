@@ -6,11 +6,11 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Vice Chair",
-      "name": "Jim Shannon",
-      "party": "Democratic Unionist Party",
-      "twfy_id": "uk.org.publicwhip/person/13864",
-      "mnis_id": "4131",
+      "role": "Chair & Registered Contact",
+      "name": "Josh Newbury",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26317",
+      "mnis_id": "5034",
       "removed": false
     },
     {
@@ -33,7 +33,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "Wendy Morton",
@@ -294,9 +294,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Josh Newbury MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 01543 384681.",
+    "registered_contact_email": "josh.newbury.mp@parliament.uk",
     "public_enquiry_point_name": "Tom Haynes, National Pig Association. Tel: 024 7685 8780",
     "public_enquiry_point_email": "Tom.Haynes@npanet.org.uk",
     "secretariat": "National Pig Association acts as the group's secretariat.https://nationalpigassociation.co.uk/",
@@ -306,15 +306,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-11",
+    "date_of_most_recent_agm": "2025-09-08",
     "published_income_expenditure_statement": false,
     "reporting_year": "11 Sep to 10 Sep",
-    "next_reporting_deadline": "2026-01-11"
+    "next_reporting_deadline": "2027-01-11"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/uk-food-security.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/uk-food-security.htm",
   "categories": [
     "Food, Agriculture & Rural Affairs"
   ]

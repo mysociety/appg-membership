@@ -14,11 +14,11 @@
       "removed": false
     },
     {
-      "role": "Treasurer",
-      "name": "Michael Wheeler",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26551",
-      "mnis_id": "5242",
+      "role": "Vice Chair",
+      "name": "Lord Hayward",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/17722",
+      "mnis_id": "863",
       "removed": false
     },
     {
@@ -30,11 +30,11 @@
       "removed": false
     },
     {
-      "role": "Assistant Chair",
-      "name": "Lord Hayward",
+      "role": "Treasurer",
+      "name": "Charlie Dewhirst",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/17722",
-      "mnis_id": "863",
+      "twfy_id": "uk.org.publicwhip/person/26461",
+      "mnis_id": "5169",
       "removed": false
     }
   ],
@@ -57,10 +57,10 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-29",
+    "date_of_most_recent_agm": "2025-11-25",
     "published_income_expenditure_statement": false,
     "reporting_year": "29 Jul to 28 Jul",
-    "next_reporting_deadline": "2025-11-29"
+    "next_reporting_deadline": "2026-11-29"
   },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
@@ -70,10 +70,17 @@
       "Received": "03/02/2025",
       "Registered": "05/02/2025",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Pennon Group Plc",
+      "Value £s": "10,000",
+      "Received": "15/09/2025",
+      "Registered": "18/11/2025",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/rugby-union-football-club.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/rugby-union-football-club.htm",
   "categories": [
     "Sport, Recreation & Physical Activity",
     "International Affairs, Development & Trade"

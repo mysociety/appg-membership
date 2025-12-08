@@ -7,18 +7,18 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Dr Marie Tidball",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26390",
-      "mnis_id": "5098",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Alison Hume",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26523",
       "mnis_id": "5254",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Cat Eccles",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26587",
+      "mnis_id": "5293",
       "removed": false
     },
     {
@@ -45,9 +45,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Dr Marie Tidball MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 7636.",
-    "registered_contact_email": "marie.tidball.mp@parliament.uk",
+    "registered_contact_name": "Alison Hume MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "alison.hume.mp@parliament.uk",
     "public_enquiry_point_name": "Kate Wilson, National Autistic Society",
     "public_enquiry_point_email": "appga@nas.org.uk",
     "secretariat": "National Autistic Society acts as the group's secretariat.http://www.autism.org.uk/",
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-10",
+    "date_of_most_recent_agm": "2025-11-25",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2026-01-10"
+    "next_reporting_deadline": "2027-01-10"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "National Autistic Society",
-      "Description": "Secretariat From : 10/09/2024 To  : 09/09/2025",
+      "Description": "Secretariat From: 10/09/2025 To: 09/09/2024",
       "Value £s In bands of £1,500": "12,001-13,500",
-      "Received": "10/09/2024",
-      "Registered": "17/09/2024",
+      "Received": "10/09/2025",
+      "Registered": "27/11/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/autism.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/autism.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"

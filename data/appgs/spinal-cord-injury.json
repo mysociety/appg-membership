@@ -15,10 +15,10 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Gill Furniss",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25489",
-      "mnis_id": "4571",
+      "name": "John Glen",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/24839",
+      "mnis_id": "4051",
       "removed": false
     },
     {
@@ -31,10 +31,10 @@
     },
     {
       "role": "Vice Chair",
-      "name": "John Glen",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24839",
-      "mnis_id": "4051",
+      "name": "Gill Furniss",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25489",
+      "mnis_id": "4571",
       "removed": false
     }
   ],
@@ -228,24 +228,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-30",
+    "date_of_most_recent_agm": "2025-11-24",
     "published_income_expenditure_statement": false,
     "reporting_year": "30 Jul to 29 Jul",
-    "next_reporting_deadline": "2025-11-30"
+    "next_reporting_deadline": "2026-11-30"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Spinal Injuries Association",
-      "Description": "Secretariat From : 30/07/2024 To  : 29/07/2025",
-      "Value £s In bands of £1,500": "13,501-15,000",
-      "Received": "30/07/2024",
-      "Registered": "31/07/2024",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/spinal-cord-injury.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/spinal-cord-injury.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

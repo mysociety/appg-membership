@@ -15,18 +15,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Marsha De Cordova",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25620",
-      "mnis_id": "4676",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Baroness Taylor of Bolton",
       "party": "Labour",
       "twfy_id": null,
       "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Marsha De Cordova",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25620",
+      "mnis_id": "4676",
       "removed": false
     },
     {
@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "Mr Clive Betts",
@@ -313,30 +313,22 @@
     "registered_contact_name": "Mr Clive Betts MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 5114.",
     "registered_contact_email": "officeofclivebettsmp@parliament.uk",
-    "public_enquiry_point_name": "Lexington Communications. Tel: 020 7025 2300",
-    "public_enquiry_point_email": "fa@lexcomm.co.uk",
-    "secretariat": "Lexington Communications  acts as the group's secretariat.https://www.lexcomm.co.uk/",
+    "public_enquiry_point_name": "Fair Game",
+    "public_enquiry_point_email": "appg@fairgameuk.co.uk",
+    "secretariat": "Fair Game acts as the group's secretariat.",
     "website": {
       "status": "no_search",
       "url": null
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-04",
+    "date_of_most_recent_agm": "2025-10-28",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Sep to 03 Sep",
-    "next_reporting_deadline": "2026-01-04"
+    "next_reporting_deadline": "2027-01-04"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
-    {
-      "Source": "Lexington Communications",
-      "Description": "Lexington Communications is paid by The Football Association to act as the group's secretariat From : 04/09/2024 To  : 03/09/2025",
-      "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "04/09/2024",
-      "Registered": "25/09/2024",
-      "benefit_type": "Benefits In Kind"
-    },
     {
       "Source": "English Football League",
       "Description": "Dinner",
@@ -344,10 +336,18 @@
       "Received": "20/01/2025",
       "Registered": "29/01/2025",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Fair Game",
+      "Description": "Secretariat From: 04/09/2025 To: 03/09/2026",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "04/09/2025",
+      "Registered": "28/10/2025",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/football.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/football.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]

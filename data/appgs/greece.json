@@ -15,10 +15,10 @@
     },
     {
       "role": "Officer",
-      "name": "Lord Goddard of Stockport",
-      "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "name": "Steve Witherden",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26583",
+      "mnis_id": "5221",
       "removed": false
     },
     {
@@ -31,17 +31,17 @@
     },
     {
       "role": "Officer",
-      "name": "Steve Witherden",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26583",
-      "mnis_id": "5221",
+      "name": "Lord Goddard of Stockport",
+      "party": "Liberal Democrat",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "Alberto Costa",
@@ -330,15 +330,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-30",
+    "date_of_most_recent_agm": "2025-11-04",
     "published_income_expenditure_statement": false,
     "reporting_year": "30 Jul to 29 Jul",
-    "next_reporting_deadline": "2025-11-30"
+    "next_reporting_deadline": "2026-11-30"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/greece.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/greece.htm",
   "categories": [
     "Country Group"
   ]

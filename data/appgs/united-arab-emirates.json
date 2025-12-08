@@ -62,10 +62,27 @@
     "reporting_year": "07 May to 06 May",
     "next_reporting_deadline": "2026-09-07"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/united-arab-emirates.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "United Arab Emirates Embassy",
+      "Description": "Flights and accommodation for the Chair to attend the UAE-UK Business Council Plenary Conference in Abu Dhabi. From: 28/10/2025 To: 31/10/2025",
+      "Value £s In bands of £1,500": "6,001-7,500",
+      "Received": "28/10/2025",
+      "Registered": "20/11/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "United Arab Emirates Embassy",
+      "Description": "UAE National Day - Parliamentary Reception",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "19/11/2025",
+      "Registered": "20/11/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/united-arab-emirates.htm",
   "categories": [
     "Country Group"
   ]

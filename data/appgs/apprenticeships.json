@@ -7,18 +7,18 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Andrew Pakes",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26601",
-      "mnis_id": "5243",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
       "name": "Mr Toby Perkins",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/24845",
       "mnis_id": "3952",
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Lord Young of Norwood Green",
+      "party": "Labour",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -464,9 +464,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Andrew Pakes MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "andrew.pakes.mp@parliament.uk",
+    "registered_contact_name": "Mr Toby Perkins MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 2320.",
+    "registered_contact_email": "toby.perkins.mp@parliament.uk",
     "public_enquiry_point_name": "Louis McMahon, Connect Public Affairs. Tel: 020 7592 9592",
     "public_enquiry_point_email": "l.mcmahon@connectpa.co.uk",
     "secretariat": "Connect Public Affairs acts as the group's secretariat.https://connectpa.co.uk/",
@@ -476,24 +476,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-29",
+    "date_of_most_recent_agm": "2025-11-12",
     "published_income_expenditure_statement": false,
     "reporting_year": "29 Jul to 28 Jul",
-    "next_reporting_deadline": "2025-11-29"
+    "next_reporting_deadline": "2026-11-29"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Connect Public Affairs",
-      "Description": "Connect Public Affairs is paid by the following to act as the group’s secretariat:  BAE Systems, London South Bank University, Warwick Manufacturing Group at Warwick University,  University of Salford, Co-op, Babcock International, Engineering UK, Multiverse, Go-Ahead Group, Manchester Metropolitan University, Ada - National College for Digital Skills From : 29/07/2024 To  : 28/07/2025",
-      "Value £s In bands of £1,500": "54,001-55,500",
-      "Received": "29/07/2024",
-      "Registered": "30/07/2024",
+      "Description": "Connect Public Affairs is paid by the following to act as the group’s secretariat:  BAE Systems, London South Bank University, Warwick Manufacturing Group at Warwick University,  University of Salford, Co-op, Babcock International, Engineering UK, Multiverse, Go-Ahead Group, Manchester Metropolitan University, Ada - National College for Digital Skills From: 29/07/2025 To: 28/07/2026",
+      "Value £s In bands of £1,500": "55,501-57,000",
+      "Received": "29/07/2025",
+      "Registered": "12/11/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/apprenticeships.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/apprenticeships.htm",
   "categories": [
     "Education, Skills & Youth",
     "Economy, Business & Industry"

@@ -6,14 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Shaun Davies",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26332",
-      "mnis_id": "5041",
-      "removed": false
-    },
-    {
       "role": "Vice Chair",
       "name": "Jack Rankin",
       "party": "Conservative",
@@ -200,9 +192,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Shaun Davies MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 01952 973 714.",
-    "registered_contact_email": "shaun.davies.mp@parliament.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
     "public_enquiry_point_name": "Robert Wright, Davies Tanner. Tel: 01892 619100",
     "public_enquiry_point_email": "robert.wright@daviestanner.com",
     "secretariat": "Davies Tanner acts as the group's secretariat.https://daviestanner.com/",
@@ -221,15 +213,15 @@
   "detailed_benefits": [
     {
       "Source": "Davies Tanner",
-      "Description": "Davies Tanner is partly funded by The Business of Events to act as the group's secretariat. From : 17/12/2024 To  : 16/12/2025",
+      "Description": "Davies Tanner is partly funded by The Business of Events to act as the group's secretariat. From: 17/12/2024 To: 16/12/2025",
       "Value £s In bands of £1,500": "24,001-25,500",
       "Received": "17/12/2024",
       "Registered": "22/07/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/events.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/events.htm",
   "categories": [
     "Economy, Business & Industry"
   ]

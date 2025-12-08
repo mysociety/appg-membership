@@ -7,34 +7,34 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Joe Powell",
+      "name": "Phil Brickell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26477",
-      "mnis_id": "5229",
+      "twfy_id": "uk.org.publicwhip/person/26368",
+      "mnis_id": "5128",
       "removed": false
     },
     {
-      "role": "Co-Chair",
+      "role": "Officer",
+      "name": "Sir Andrew Mitchell",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/11115",
+      "mnis_id": "1211",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Bobby Dean",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26371",
+      "mnis_id": "5083",
+      "removed": false
+    },
+    {
+      "role": "Officer",
       "name": "Rachel Blake",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/26546",
       "mnis_id": "5257",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
-      "name": "Mr Paul Kohler",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26570",
-      "mnis_id": "5321",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
-      "name": "Lord Agnew of Oulton",
-      "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
       "removed": false
     }
   ],
@@ -576,9 +576,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Joe Powell MP",
+    "registered_contact_name": "Phil Brickell MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "joe.powell.mp@parliament.uk",
+    "registered_contact_email": "phil.brickell.mp@parliament.uk",
     "public_enquiry_point_name": "Stevie Wolfe, The Foreign Policy Centre. Tel: 07594 053101",
     "public_enquiry_point_email": "stevie.wolfe@parliament.uk",
     "secretariat": "The Foreign Policy Centre acts as the group's secretariat.https://fpc.org.uk/",
@@ -588,24 +588,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-24",
+    "date_of_most_recent_agm": "2025-09-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "24 Jul to 23 Jul",
-    "next_reporting_deadline": "2025-11-24"
+    "next_reporting_deadline": "2026-11-24"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Foreign Policy Centre (succeeded Athena Foundation)",
-      "Description": "From 1 April 2025, the Foreign Policy Centre is paid by the Joffe Trust and Montpelier Foundation to act as the group's secretariat. Previously, the Athena Foundation was paid by Open Society Foundations and the Joffe Trust to fulfil this role. From : 24/07/2024 To  : 23/07/2025",
-      "Value £s In bands of £1,500": "147,001-148,500",
-      "Received": "23/07/2024",
-      "Registered": "15/07/2025",
+      "Description": "From 1 April 2025, the Foreign Policy Centre is paid by the Joffe Trust and Montpelier Foundation to act as the group's secretariat. Previously, the Athena Foundation was paid by Open Society Foundations and the Joffe Trust to fulfil this role. From: 24/07/2025 To: 23/07/2026",
+      "Value £s In bands of £1,500": "184,501-186,000",
+      "Received": "24/07/2025",
+      "Registered": "01/10/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/anti-corruption-and-responsible-tax.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/anti-corruption-and-responsible-tax.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

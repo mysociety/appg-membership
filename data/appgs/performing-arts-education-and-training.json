@@ -15,6 +15,14 @@
     },
     {
       "role": "Vice Chair",
+      "name": "Baroness Wilcox of Newport",
+      "party": "Labour",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
       "name": "Vikki Slade",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26582",
@@ -25,14 +33,6 @@
       "role": "Vice Chair",
       "name": "Lord Vaizey of Didcot",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Baroness Wilcox of Newport",
-      "party": "Labour",
       "twfy_id": null,
       "mnis_id": null,
       "removed": false
@@ -324,15 +324,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-11",
+    "date_of_most_recent_agm": "2025-11-19",
     "published_income_expenditure_statement": false,
     "reporting_year": "11 Sep to 10 Sep",
-    "next_reporting_deadline": "2026-01-11"
+    "next_reporting_deadline": "2027-01-11"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/performing-arts-education-and-training.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/performing-arts-education-and-training.htm",
   "categories": [
     "Arts, Culture, Heritage & Media",
     "Education, Skills & Youth"

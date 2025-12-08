@@ -244,24 +244,40 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-14",
+    "date_of_most_recent_agm": "2025-11-05",
     "published_income_expenditure_statement": false,
     "reporting_year": "14 Oct to 13 Oct",
-    "next_reporting_deadline": "2026-02-14"
+    "next_reporting_deadline": "2027-02-14"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Action on Smoking and Health (ASH)",
-      "Description": "Secretariat From : 14/10/2024 To  : 13/10/2025",
+      "Description": "Creating a Smokefree Generation event",
       "Value £s In bands of £1,500": "3,001-4,500",
       "Received": "14/10/2024",
-      "Registered": "07/11/2024",
+      "Registered": "05/11/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Action on Smoking and Health (ASH)",
+      "Description": "Report and its launch event",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "02/04/2025",
+      "Registered": "05/11/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Action on Smoking and Health (ASH)",
+      "Description": "Secretariat From: 14/10/2025 To: 13/10/2026",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "14/10/2025",
+      "Registered": "05/11/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/smoking-and-health.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/smoking-and-health.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"

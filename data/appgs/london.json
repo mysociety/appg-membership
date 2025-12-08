@@ -15,6 +15,14 @@
     },
     {
       "role": "Co-Chair",
+      "name": "Lord Ranger of Northwood",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
       "name": "Munira Wilson",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25820",
@@ -22,19 +30,11 @@
       "removed": false
     },
     {
-      "role": "Co-Chair",
-      "name": "Peter Fortune",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26027",
-      "mnis_id": "5209",
-      "removed": false
-    },
-    {
       "role": "Vice Chair",
-      "name": "Dan Tomlinson",
+      "name": "Natasha Irons",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26502",
-      "mnis_id": "5282",
+      "twfy_id": "uk.org.publicwhip/person/26404",
+      "mnis_id": "5119",
       "removed": false
     }
   ],
@@ -364,24 +364,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-09",
+    "date_of_most_recent_agm": "2025-09-09",
     "published_income_expenditure_statement": false,
     "reporting_year": "09 Sep to 08 Sep",
-    "next_reporting_deadline": "2026-01-09"
+    "next_reporting_deadline": "2027-01-09"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "London Councils",
-      "Description": "Secretariat From : 09/09/2024 To  : 08/09/2025",
+      "Description": "Secretariat From: 09/09/2025 To: 08/09/2026",
       "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "09/09/2024",
-      "Registered": "10/09/2024",
+      "Received": "09/09/2025",
+      "Registered": "10/09/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/london.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/london.htm",
   "categories": [
     "Regions, Nations & Devolution"
   ]

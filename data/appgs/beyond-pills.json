@@ -15,14 +15,6 @@
     },
     {
       "role": "Co-Chair",
-      "name": "Danny Kruger",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25913",
-      "mnis_id": "4858",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
       "name": "Lord Crisp",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/13731",
@@ -35,6 +27,14 @@
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26527",
       "mnis_id": "5312",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Bethell",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25740",
+      "mnis_id": "4708",
       "removed": false
     }
   ],
@@ -276,15 +276,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-19",
+    "date_of_most_recent_agm": "2025-11-19",
     "published_income_expenditure_statement": false,
     "reporting_year": "19 Nov to 18 Nov",
-    "next_reporting_deadline": "2026-03-19"
+    "next_reporting_deadline": "2027-03-19"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/beyond-pills.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/beyond-pills.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

@@ -297,10 +297,51 @@
     "reporting_year": "13 Jan to 12 Jan",
     "next_reporting_deadline": "2026-05-13"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/explosive-weapons-and-their-impact.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "NIC Instruments",
+      "Description": "Visit to Ukraine for three Members, including travel, accommodation, food, security, and tech equipment. From: 05/10/2025 To: 11/11/2025",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "05/10/2025",
+      "Registered": "30/10/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Alford Technology",
+      "Description": "Visit to Ukraine for three Members, including travel, accommodation, food, security, and tech equipment. From: 05/10/2025 To: 11/10/2025",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "05/10/2025",
+      "Registered": "30/10/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Guartel Technologies",
+      "Description": "Visit to Ukraine for three Members, including travel, accommodation, food, security, and tech equipment. From: 05/10/2025 To: 11/10/2025",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "05/10/2025",
+      "Registered": "30/10/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "RSK Group",
+      "Description": "Visit to Ukraine for three Members, including travel, accommodation, food, security, and tech equipment. From: 05/10/2025 To: 11/10/2025",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "05/10/2025",
+      "Registered": "30/10/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Safelane Global",
+      "Description": "Visit to Ukraine for three Members, including travel, accommodation, food, security, and tech equipment. From: 05/10/2025 To: 11/10/2025",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "05/10/2025",
+      "Registered": "30/10/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/explosive-weapons-and-their-impact.htm",
   "categories": [
     "Justice, Law & Security",
     "International Affairs, Development & Trade"

@@ -15,18 +15,18 @@
     },
     {
       "role": "Officer",
-      "name": "Henry Tufnell",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26387",
-      "mnis_id": "5121",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Sir Christopher Chope",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10103",
       "mnis_id": "242",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Henry Tufnell",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26387",
+      "mnis_id": "5121",
       "removed": false
     },
     {
@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "Jack Abbott MP",
@@ -474,24 +474,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-23",
+    "date_of_most_recent_agm": "2025-10-14",
     "published_income_expenditure_statement": false,
     "reporting_year": "23 Jul to 22 Jul",
-    "next_reporting_deadline": "2025-11-23"
+    "next_reporting_deadline": "2026-11-23"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Tamesis Services Ltd",
-      "Description": "Secretariat From : 23/07/2024 To  : 22/07/2025",
+      "Description": "Secretariat From: 23/07/2025 To: 22/07/2026",
       "Value £s In bands of £1,500": "58,501-60,000",
-      "Received": "23/07/2024",
-      "Registered": "16/08/2024",
+      "Received": "23/07/2025",
+      "Registered": "16/10/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/energy-studies.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/energy-studies.htm",
   "categories": [
     "Energy & Utilities"
   ]

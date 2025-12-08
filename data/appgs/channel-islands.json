@@ -23,25 +23,25 @@
     },
     {
       "role": "Officer",
-      "name": "Lord Beith",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/10034",
-      "mnis_id": "513",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Lord Faulkner of Worcester",
       "party": "Labour",
       "twfy_id": null,
       "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Beith",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/10034",
+      "mnis_id": "513",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "Sarah Champion",
@@ -306,24 +306,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-03",
+    "date_of_most_recent_agm": "2025-10-29",
     "published_income_expenditure_statement": false,
     "reporting_year": "03 Sep to 02 Sep",
-    "next_reporting_deadline": "2026-01-03"
+    "next_reporting_deadline": "2027-01-03"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Government of Jersey and Government of Guernsey",
-      "Description": "Visit to Islands by Chair and staff member From : 24/06/2025 To  : 27/06/2025",
+      "Description": "Visit to Islands by Chair and staff member From: 24/06/2025 To: 27/06/2025",
       "Value £s In bands of £1,500": "3,001-4,500",
       "Received": "06/08/2025",
       "Registered": "05/08/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/channel-islands.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/channel-islands.htm",
   "categories": [
     "Country Group"
   ]

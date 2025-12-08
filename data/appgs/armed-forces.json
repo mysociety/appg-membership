@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "Alex Ballinger MP",
@@ -539,7 +539,7 @@
     "registered_contact_email": "alex.ballinger.mp@parliament.uk",
     "public_enquiry_point_name": "Sophie Lane, Office of Alex Ballinger MP",
     "public_enquiry_point_email": "sophie.lane@parliament.uk",
-    "secretariat": null,
+    "secretariat": "Sophie Lane, Office of Alex Ballinger MP acts as the group's secretariat.",
     "website": {
       "status": "no_search",
       "url": null
@@ -551,10 +551,32 @@
     "reporting_year": "21 Nov to 20 Nov",
     "next_reporting_deadline": "2026-03-21"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/armed-forces.htm",
+  "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "James Gray, as Chair of the Armed Forces APPG in the previous Parliament",
+      "Value £s": "177,269",
+      "Received": "23/07/2025",
+      "Registered": "10/09/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "MBDA UK Ltd",
+      "Value £s": "7,500",
+      "Received": "19/09/2025",
+      "Registered": "23/10/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "BAE Systems PLC",
+      "Value £s": "7,500",
+      "Received": "10/10/2025",
+      "Registered": "23/10/2025",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/armed-forces.htm",
   "categories": [
     "Justice, Law & Security"
   ]

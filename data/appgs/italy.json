@@ -23,25 +23,25 @@
     },
     {
       "role": "Officer",
-      "name": "Baroness Bonham-Carter of Yarnbury",
-      "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Manuela Perteghella",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26569",
       "mnis_id": "5122",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Bonham-Carter of Yarnbury",
+      "party": "Liberal Democrat",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "Alberto Costa",
@@ -274,15 +274,23 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-30",
+    "date_of_most_recent_agm": "2025-11-18",
     "published_income_expenditure_statement": false,
     "reporting_year": "30 Jul to 29 Jul",
-    "next_reporting_deadline": "2025-11-30"
+    "next_reporting_deadline": "2026-11-30"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/italy.htm",
+  "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "APPG on Italy in the previous Parliament",
+      "Value £s": "6,451",
+      "Received": "30/07/2024",
+      "Registered": "11/11/2025",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/italy.htm",
   "categories": [
     "Country Group"
   ]

@@ -7,10 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Andrew Pakes",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26601",
-      "mnis_id": "5243",
+      "name": "Fleur Anderson",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25813",
+      "mnis_id": "4788",
       "removed": false
     },
     {
@@ -45,9 +45,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Andrew Pakes MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "andrew.pakes.mp@parliament.uk",
+    "registered_contact_name": "Fleur Anderson MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 3000.",
+    "registered_contact_email": "fleur.anderson.mp@parliament.uk",
     "public_enquiry_point_name": "Holly Brazier-Tope, Green Alliance. Tel: 07596567657",
     "public_enquiry_point_email": "appg@green-alliance.org.uk",
     "secretariat": "Green Alliance acts as the group's secretariat.https://green-alliance.org.uk/",
@@ -64,20 +64,6 @@
   },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
-    {
-      "Source": "WSP",
-      "Value £s": "5,000",
-      "Received": "30/09/2024",
-      "Registered": "04/10/2024",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "FCC Environment",
-      "Value £s": "2,000",
-      "Received": "01/10/2024",
-      "Registered": "25/11/2024",
-      "benefit_type": "Financial Benefits"
-    },
     {
       "Source": "Santander",
       "Value £s": "5,000",
@@ -147,10 +133,31 @@
       "Received": "11/07/2025",
       "Registered": "02/09/2025",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Infinis",
+      "Value £s": "5,000",
+      "Received": "08/09/2025",
+      "Registered": "04/11/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Santander",
+      "Value £s": "5,000",
+      "Received": "07/11/2025",
+      "Registered": "24/11/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "ReLondon",
+      "Value £s": "10,000",
+      "Received": "14/11/2025",
+      "Registered": "24/11/2025",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/environment.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/environment.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Energy & Utilities"

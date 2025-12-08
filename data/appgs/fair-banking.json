@@ -6,7 +6,7 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Co-Chair",
+      "role": "Chair & Registered Contact",
       "name": "David Burton-Sampson",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26442",
@@ -15,10 +15,26 @@
     },
     {
       "role": "Co-Chair",
-      "name": "The Earl of Lindsay",
+      "name": "Lloyd Hatton",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26471",
+      "mnis_id": "5217",
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Lord Davies of Gower",
       "party": "Conservative",
       "twfy_id": null,
       "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Lord Sharkey",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/25022",
+      "mnis_id": "4196",
       "removed": false
     }
   ],
@@ -424,9 +440,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "David Burton-Sampson MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "david.burtonsampson.mp@parliament.uk",
     "public_enquiry_point_name": "Hugo Mann, Athena Foundation. Tel: 07764 862485",
     "public_enquiry_point_email": "hugo@theathenafoundation.org.uk",
     "secretariat": "Athena Foundation acts as the group's secretariat.https://www.theathenafoundation.org.uk/",
@@ -436,24 +452,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-24",
+    "date_of_most_recent_agm": "2025-10-15",
     "published_income_expenditure_statement": false,
     "reporting_year": "24 Jul to 23 Jul",
-    "next_reporting_deadline": "2025-11-24"
+    "next_reporting_deadline": "2026-11-24"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Athena Foundation",
-      "Description": "Athena Foundation is paid by the following to act as the group's secretariat: The Joffe Trust, Open Society Foundations, Tide From : 24/07/2024 To  : 23/07/2025",
-      "Value £s In bands of £1,500": "163,501-165,000",
-      "Received": "24/07/2024",
-      "Registered": "02/08/2024",
+      "Description": "Athena Foundation is paid by the following to act as the group's secretariat: The Joffe Trust, Open Society Foundations, Tide From: 24/07/2025 To: 23/07/2026",
+      "Value £s In bands of £1,500": "67,501-69,000",
+      "Received": "24/07/2025",
+      "Registered": "15/10/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/fair-banking.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/fair-banking.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

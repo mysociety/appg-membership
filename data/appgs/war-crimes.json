@@ -23,25 +23,25 @@
     },
     {
       "role": "Officer",
-      "name": "Dan Norris",
-      "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/10458",
-      "mnis_id": "221",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Lord Polak",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25457",
       "mnis_id": "4547",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Sir Andrew Mitchell",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/11115",
+      "mnis_id": "1211",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "Chair & Registered Contact",
@@ -474,15 +474,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-04",
+    "date_of_most_recent_agm": "2025-11-11",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Sep to 03 Sep",
-    "next_reporting_deadline": "2026-01-04"
+    "next_reporting_deadline": "2027-01-04"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/war-crimes.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/war-crimes.htm",
   "categories": [
     "Justice, Law & Security",
     "International Affairs, Development & Trade"

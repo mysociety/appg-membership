@@ -23,25 +23,25 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Pete Wishart",
-      "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/11333",
-      "mnis_id": "1440",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Mr Andrew Snowden",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26347",
       "mnis_id": "5072",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Pete Wishart",
+      "party": "Scottish National Party",
+      "twfy_id": "uk.org.publicwhip/person/11333",
+      "mnis_id": "1440",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "Victoria Atkins MP",
@@ -1285,67 +1285,18 @@
     "public_enquiry_point_email": "rita@beergroup.org",
     "secretariat": "Ocklynge Consulting Ltd acts as the group's secretariat.",
     "website": {
-      "status": "no_search",
-      "url": null
+      "status": "register",
+      "url": "https://www.appgbeer.uk/"
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-29",
+    "date_of_most_recent_agm": "2025-10-21",
     "published_income_expenditure_statement": false,
     "reporting_year": "29 Jul to 28 Jul",
-    "next_reporting_deadline": "2025-11-29"
+    "next_reporting_deadline": "2026-11-29"
   },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
-    {
-      "Source": "ABInBev",
-      "Value £s": "4,294",
-      "Received": "30/09/2024",
-      "Registered": "10/10/2024",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "Carlsberg",
-      "Value £s": "4,294",
-      "Received": "02/10/2024",
-      "Registered": "10/10/2024",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "Diageo",
-      "Value £s": "4,294",
-      "Received": "02/10/2024",
-      "Registered": "10/10/2024",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "Molson Coors",
-      "Value £s": "4,294",
-      "Received": "14/10/2024",
-      "Registered": "22/10/2024",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "Stonegate",
-      "Value £s": "4,294",
-      "Received": "14/10/2024",
-      "Registered": "22/10/2024",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "Heineken",
-      "Value £s": "4,294",
-      "Received": "14/10/2024",
-      "Registered": "22/10/2024",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "Greene King",
-      "Value £s": "4,294",
-      "Received": "14/10/2024",
-      "Registered": "22/10/2024",
-      "benefit_type": "Financial Benefits"
-    },
     {
       "Source": "Asahi",
       "Value £s": "1,928",
@@ -1359,10 +1310,66 @@
       "Received": "21/03/2025",
       "Registered": "26/03/2025",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "ABInBev",
+      "Value £s": "4,950",
+      "Received": "01/10/2025",
+      "Registered": "17/10/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Stonegate",
+      "Value £s": "4,950",
+      "Received": "02/10/2025",
+      "Registered": "17/10/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Diageo",
+      "Value £s": "4,950",
+      "Received": "02/10/2025",
+      "Registered": "17/10/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "SIBA",
+      "Value £s": "2,835",
+      "Received": "07/11/2025",
+      "Registered": "14/11/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Molson Coors",
+      "Value £s": "4,950",
+      "Received": "07/11/2025",
+      "Registered": "14/11/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Greene King",
+      "Value £s": "4,950",
+      "Received": "07/11/2025",
+      "Registered": "14/11/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Carlsberg Britvic",
+      "Value £s": "4,950",
+      "Received": "07/11/2025",
+      "Registered": "14/11/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Asahi",
+      "Value £s": "2,200",
+      "Received": "10/11/2025",
+      "Registered": "14/11/2025",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/beer.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/beer.htm",
   "categories": [
     "Economy, Business & Industry",
     "Arts, Culture, Heritage & Media"

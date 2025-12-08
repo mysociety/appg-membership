@@ -14,26 +14,34 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "Baroness Mobarik",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25235",
-      "mnis_id": "4335",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
+      "role": "Officer",
       "name": "Chris Webb",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26305",
       "mnis_id": "5025",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Kim Johnson",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25803",
+      "mnis_id": "4824",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Mobarik",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25235",
+      "mnis_id": "4335",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "Imran Hussain MP",
@@ -442,24 +450,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-22",
+    "date_of_most_recent_agm": "2025-10-29",
     "published_income_expenditure_statement": false,
     "reporting_year": "22 Oct to 21 Oct",
-    "next_reporting_deadline": "2026-02-22"
+    "next_reporting_deadline": "2027-02-22"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Stewart Public Affairs Ltd",
-      "Description": "Secretariat From : 22/10/2024 To  : 21/10/2025",
+      "Description": "Secretariat From: 22/10/2025 To: 21/10/2026",
       "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "22/10/2024",
-      "Registered": "28/10/2024",
+      "Received": "22/10/2025",
+      "Registered": "11/11/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/boxing.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/boxing.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]

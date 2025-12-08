@@ -14,7 +14,7 @@
       "removed": false
     },
     {
-      "role": "Co-Chair",
+      "role": "Officer",
       "name": "Lord Arbuthnot of Edrom",
       "party": "Conservative",
       "twfy_id": null,
@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Tom Collins",
+      "name": "Baroness Elliott of Whitburn Bay",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26351",
-      "mnis_id": "5087",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
       "role": "Officer",
-      "name": "Mark Ferguson",
+      "name": "Liz Twist",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26310",
-      "mnis_id": "5031",
+      "twfy_id": "uk.org.publicwhip/person/25623",
+      "mnis_id": "4618",
       "removed": false
     }
   ],
@@ -292,24 +292,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-09",
+    "date_of_most_recent_agm": "2025-10-29",
     "published_income_expenditure_statement": false,
     "reporting_year": "09 Sep to 08 Sep",
-    "next_reporting_deadline": "2026-01-09"
+    "next_reporting_deadline": "2027-01-09"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Stephenson-Mohl Group",
-      "Description": "Secretariat From : 09/09/2024 To  : 08/09/2025",
+      "Description": "Secretariat From: 09/09/2025 To: 08/09/2024",
       "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "09/09/2024",
-      "Registered": "02/10/2024",
+      "Received": "09/09/2025",
+      "Registered": "30/10/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/grid-networks.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/grid-networks.htm",
   "categories": [
     "Energy & Utilities",
     "Infrastructure, Transport & Mobility"

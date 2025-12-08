@@ -15,14 +15,6 @@
     },
     {
       "role": "Officer",
-      "name": "Kim Johnson",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25803",
-      "mnis_id": "4824",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Helen Grant",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24796",
@@ -35,6 +27,14 @@
       "party": "Independent",
       "twfy_id": "uk.org.publicwhip/person/26364",
       "mnis_id": "5120",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Nadia Whittome",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25845",
+      "mnis_id": "4869",
       "removed": false
     }
   ],
@@ -235,8 +235,8 @@
     "registered_contact_name": "Clive Lewis MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 2700.",
     "registered_contact_email": "clive.lewis.mp@parliament.uk",
-    "public_enquiry_point_name": "Alba Kapoor, The Runnymede Trust",
-    "public_enquiry_point_email": "alba@runnymedetrust.org",
+    "public_enquiry_point_name": "Nannette Youssef, The Runnymede Trust",
+    "public_enquiry_point_email": "nannette@runnymedetrust.org",
     "secretariat": "The Runnymede Trust acts as the group's secretariat.https://www.runnymedetrust.org/",
     "website": {
       "status": "register",
@@ -253,15 +253,15 @@
   "detailed_benefits": [
     {
       "Source": "The Runnymede Trust",
-      "Description": "Secretariat From : 13/11/2024 To  : 12/11/2025",
+      "Description": "Secretariat From: 13/11/2024 To: 12/11/2025",
       "Value £s In bands of £1,500": "19,501-21,000",
       "Received": "13/11/2024",
       "Registered": "29/11/2024",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/race-and-community.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/race-and-community.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

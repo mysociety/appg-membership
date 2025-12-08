@@ -6,14 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "David Pinto-Duschinsky",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26632",
-      "mnis_id": "5360",
-      "removed": false
-    },
-    {
       "role": "Vice Chair",
       "name": "Lord Shinkwin",
       "party": "Conservative",
@@ -41,7 +33,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "John McDonnnell",
@@ -214,9 +206,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "David Pinto-Duschinsky MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7280.",
-    "registered_contact_email": "david.pintoduschinsky.mp@parliament.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
     "public_enquiry_point_name": "Elissa Cregan, Royal College of Speech and Language Therapists. Tel: 07513 724 112",
     "public_enquiry_point_email": "elissa.cregan@rcslt.org",
     "secretariat": "Royal College of Speech and Language Therapists acts as the group's secretariat.http://www.rcslt.org/",
@@ -235,15 +227,15 @@
   "detailed_benefits": [
     {
       "Source": "Royal College of Speech and Language Therapists",
-      "Description": "Secretariat From : 12/03/2025 To  : 11/03/2026",
+      "Description": "Secretariat From: 12/03/2025 To: 11/03/2026",
       "Value £s In bands of £1,500": "4,501-6,000",
       "Received": "12/03/2025",
       "Registered": "03/04/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/speech-and-language-difficulties.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/speech-and-language-difficulties.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Education, Skills & Youth"

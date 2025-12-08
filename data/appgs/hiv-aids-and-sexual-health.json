@@ -1265,10 +1265,32 @@
     "reporting_year": "09 Oct to 08 Oct",
     "next_reporting_deadline": "2026-02-09"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/hiv-aids-and-sexual-health.htm",
+  "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "STOPAIDS",
+      "Value £s": "17,000",
+      "Received": "03/10/2025",
+      "Registered": "21/10/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "British HIV Association",
+      "Value £s": "5,000",
+      "Received": "03/11/2025",
+      "Registered": "11/11/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "British Association Sexual Health and HIV",
+      "Value £s": "5,000",
+      "Received": "10/11/2025",
+      "Registered": "11/11/2025",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/hiv-aids-and-sexual-health.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

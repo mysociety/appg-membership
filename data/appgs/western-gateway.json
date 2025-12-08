@@ -48,9 +48,9 @@
     "registered_contact_name": "Catherine Fookes MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "catherine.fookes.mp@parliament.uk",
-    "public_enquiry_point_name": "Billy Davis, The Western Gateway. Tel: 07483964611",
-    "public_enquiry_point_email": "billy.davis@western-gateway.co.uk",
-    "secretariat": "The Western Gateway acts as the group's secretariat.https://western-gateway.co.uk/",
+    "public_enquiry_point_name": "Craig Lawton, Grasshopper Communications. Tel: 07570 884467",
+    "public_enquiry_point_email": "craig@grasshopper-comms.co.uk",
+    "secretariat": "Grasshopper Communications acts as the group's secretariat.https://grasshopper-comms.co.uk/",
     "website": {
       "status": "register",
       "url": "https://western-gateway.co.uk/our-appg"
@@ -65,16 +65,24 @@
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
+      "Source": "Grasshopper Communications",
+      "Description": "Secretariat From: 20/09/2025 To: 06/01/2026",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "20/09/2025",
+      "Registered": "08/10/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
       "Source": "The Western Gateway",
-      "Description": "The Western Gateway acts as the group's secretariat and pays The Public Affairs Company to assist them with this role From : 07/01/2025 To  : 06/01/2026",
-      "Value £s In bands of £1,500": "15,001-16,500",
+      "Description": "The Western Gateway acted as the group's secretariat and paid The Public Affairs Company to assist them with this role. From: 07/01/2025 To: 19/09/2025",
+      "Value £s In bands of £1,500": "12,001-13,500",
       "Received": "07/01/2025",
-      "Registered": "31/12/2024",
+      "Registered": "08/10/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/western-gateway.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/western-gateway.htm",
   "categories": [
     "Economy, Business & Industry",
     "Regions, Nations & Devolution"

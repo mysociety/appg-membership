@@ -6,14 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Freddie van Mierlo",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26540",
-      "mnis_id": "5296",
-      "removed": false
-    },
-    {
       "role": "Officer",
       "name": "Iqbal Mohamed",
       "party": "Independent",
@@ -45,9 +37,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Freddie van Mierlo MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "freddie.vanmierlo.mp@parliament.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
     "public_enquiry_point_name": "Celia Miray Yesil, RPP Group. Tel: 07513 821 796",
     "public_enquiry_point_email": "ammdappg@rpp-group.com",
     "secretariat": "RPP Group acts as the group's secretariat.https://rpp-group.com/",
@@ -66,15 +58,15 @@
   "detailed_benefits": [
     {
       "Source": "RPP Group",
-      "Description": "Secretariat From : 20/05/2025 To  : 19/05/2026",
+      "Description": "Secretariat From: 20/05/2025 To: 19/05/2026",
       "Value £s In bands of £1,500": "60,001-61,500",
       "Received": "20/05/2025",
       "Registered": "17/06/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/access-to-medicines-and-medical-devices.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/access-to-medicines-and-medical-devices.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

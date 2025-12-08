@@ -31,10 +31,10 @@
     },
     {
       "role": "Officer",
-      "name": "Matt Western",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25701",
-      "mnis_id": "4617",
+      "name": "Lord Jackson of Peterborough",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -92,10 +92,10 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-24",
+    "date_of_most_recent_agm": "2025-11-04",
     "published_income_expenditure_statement": false,
     "reporting_year": "24 Jul to 23 Jul",
-    "next_reporting_deadline": "2025-11-24"
+    "next_reporting_deadline": "2026-11-24"
   },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
@@ -133,10 +133,24 @@
       "Received": "19/09/2024",
       "Registered": "05/12/2024",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "KLA",
+      "Value £s": "15,000",
+      "Received": "14/08/2024",
+      "Registered": "21/11/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Pragmatic",
+      "Value £s": "15,000",
+      "Received": "08/05/2025",
+      "Registered": "21/11/2025",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/semiconductors.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/semiconductors.htm",
   "categories": [
     "Economy, Business & Industry"
   ]

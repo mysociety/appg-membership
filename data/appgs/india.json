@@ -7,10 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Dr Jeevun Sandher",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26521",
-      "mnis_id": "5259",
+      "name": "Baggy Shanker",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/26489",
+      "mnis_id": "5176",
       "removed": false
     },
     {
@@ -576,9 +576,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Dr Jeevun Sandher MP",
+    "registered_contact_name": "Baggy Shanker MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "jeevun.sandher.mp@parliament.uk",
+    "registered_contact_email": "baggy.shanker.mp@parliament.uk",
     "public_enquiry_point_name": "Nikita Singh, The 1928 Institute",
     "public_enquiry_point_email": "welcome@1928institute.org",
     "secretariat": "The 1928 Institute acts as the group's secretariat.https://www.1928institute.org/",
@@ -588,40 +588,16 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-29",
+    "date_of_most_recent_agm": "2025-11-11",
     "published_income_expenditure_statement": false,
     "reporting_year": "29 Jul to 28 Jul",
-    "next_reporting_deadline": "2025-11-29"
+    "next_reporting_deadline": "2026-11-29"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
-      "Source": "The 1928 Institute",
-      "Description": "Secretariat From : 29/07/2024 To  : 28/07/2025",
-      "Value £s In bands of £1,500": "9,001-10,500",
-      "Received": "29/07/2024",
-      "Registered": "31/07/2024",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "ICICI Bank",
-      "Description": "Reception",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "09/10/2024",
-      "Registered": "16/10/2024",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "Infosys",
-      "Description": "Reception",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "09/10/2024",
-      "Registered": "16/10/2024",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
       "Source": "Observer Research Foundation",
-      "Description": "Visit to India From : 17/11/2024 To  : 22/11/2024 Cost Met : Flights, accommodation and food",
+      "Description": "Visit to India From: 17/11/2024 To: 22/11/2024 Cost Met : Flights, accommodation and food",
       "Value £s In bands of £1,500": "10,501-12,000",
       "Received": "17/11/2024",
       "Registered": "20/12/2024",
@@ -629,7 +605,7 @@
     },
     {
       "Source": "The 1928 Institute",
-      "Description": "Visit to India From : 17/11/2024 To  : 22/11/2024 Cost Met : Flights, accommodation and food",
+      "Description": "Visit to India From: 17/11/2024 To: 22/11/2024 Cost Met : Flights, accommodation and food",
       "Value £s In bands of £1,500": "3,001-4,500",
       "Received": "17/11/2024",
       "Registered": "20/12/2024",
@@ -642,10 +618,34 @@
       "Received": "21/05/2025",
       "Registered": "11/06/2025",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Indian High Commission",
+      "Description": "Diwali Reception",
+      "Value £s In bands of £1,500": "7,501-9,000",
+      "Received": "13/10/2025",
+      "Registered": "29/10/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "UK-India Future Forum",
+      "Description": "Diwali Reception",
+      "Value £s In bands of £1,500": "7,501-9,000",
+      "Received": "13/10/2025",
+      "Registered": "29/10/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "The 1928 Institute",
+      "Description": "Secretariat From: 29/07/2025 To: 28/07/2026",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "29/07/2025",
+      "Registered": "17/11/2025",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/india.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/india.htm",
   "categories": [
     "Country Group"
   ]

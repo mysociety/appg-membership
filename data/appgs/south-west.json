@@ -7,26 +7,26 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Steve Race",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26345",
-      "mnis_id": "5064",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Rebecca Smith",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26512",
-      "mnis_id": "5301",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Richard Foord",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26086",
       "mnis_id": "4942",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lloyd Hatton",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26471",
+      "mnis_id": "5217",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "David Reed",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26628",
+      "mnis_id": "5347",
       "removed": false
     },
     {
@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "Steve Race MP",
@@ -230,9 +230,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Steve Race MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "steve.race.mp@parliament.uk",
+    "registered_contact_name": "Richard Foord MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 02072 198 349.",
+    "registered_contact_email": "richard.foord.mp@parliament.uk",
     "public_enquiry_point_name": "James Antell, Henham Strategy",
     "public_enquiry_point_email": "greatsouthwest@henhamstrategy.co.uk",
     "secretariat": "Henham Strategy acts as the group's secretariat.https://www.henhamstrategy.co.uk/",
@@ -242,24 +242,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-29",
+    "date_of_most_recent_agm": "2025-10-29",
     "published_income_expenditure_statement": false,
     "reporting_year": "29 Jul to 28 Jul",
-    "next_reporting_deadline": "2025-11-29"
+    "next_reporting_deadline": "2026-11-29"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Henham Strategy",
-      "Description": "Henham Strategy is paid by Great South West Partnership to act as the group's secretariat From : 29/07/2024 To  : 28/07/2025",
-      "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "29/07/2024",
-      "Registered": "20/08/2024",
+      "Description": "Henham Strategy is paid by Great South West Partnership to act as the group's secretariat From: 29/07/2025 To: 28/07/2026",
+      "Value £s In bands of £1,500": "12,001-13,500",
+      "Received": "29/07/2025",
+      "Registered": "12/11/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/south-west.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/south-west.htm",
   "categories": [
     "Economy, Business & Industry",
     "Regions, Nations & Devolution"

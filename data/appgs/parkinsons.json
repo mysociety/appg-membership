@@ -57,24 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-29",
+    "date_of_most_recent_agm": "2025-11-18",
     "published_income_expenditure_statement": false,
     "reporting_year": "29 Oct to 28 Oct",
-    "next_reporting_deadline": "2026-02-28"
+    "next_reporting_deadline": "2027-02-28"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Parkinson's UK",
-      "Description": "Secretariat From : 29/10/2024 To  : 28/10/2025",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "29/10/2024",
-      "Registered": "06/11/2024",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/parkinsons.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/parkinsons.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

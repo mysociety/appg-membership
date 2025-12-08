@@ -14,7 +14,7 @@
       "removed": false
     },
     {
-      "role": "Officer",
+      "role": "Vice Chair",
       "name": "Baroness Bertin",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25589",
@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Matthew Patrick",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26432",
-      "mnis_id": "5162",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Liz Saville Roberts",
       "party": "Plaid Cymru",
       "twfy_id": "uk.org.publicwhip/person/25302",
       "mnis_id": "4521",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Caroline Voaden",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26511",
+      "mnis_id": "5216",
       "removed": false
     }
   ],
@@ -92,24 +92,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-04",
+    "date_of_most_recent_agm": "2025-09-09",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Sep to 03 Sep",
-    "next_reporting_deadline": "2026-01-04"
+    "next_reporting_deadline": "2027-01-04"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Respect",
-      "Description": "Secretariat From : 04/09/2024 To  : 03/09/2025",
+      "Description": "Secretariat From: 04/09/2025 To: 03/09/2026",
       "Value £s In bands of £1,500": "13,501-15,000",
-      "Received": "04/09/2024",
-      "Registered": "01/10/2024",
+      "Received": "04/09/2025",
+      "Registered": "15/09/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/perpetrators-of-domestic-abuse.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/perpetrators-of-domestic-abuse.htm",
   "categories": [
     "Human Rights, Equality & Social Justice",
     "Social Care, Welfare & Family Support"

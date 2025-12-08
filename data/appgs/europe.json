@@ -62,18 +62,19 @@
     "reporting_year": "22 Oct to 21 Oct",
     "next_reporting_deadline": "2026-02-22"
   },
-  "registrable_benefits": "Financial Benefits",
+  "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
-      "Source": "European Movement UK",
-      "Value £s": "2,000",
+      "Source": "The European Movement UK",
+      "Description": "Secretariat From: 22/10/2024 To: 21/10/2025",
+      "Value £s In bands of £1,500": "4,501-6,000",
       "Received": "22/10/2024",
       "Registered": "23/10/2024",
-      "benefit_type": "Financial Benefits"
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/europe.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/europe.htm",
   "categories": [
     "Country Group"
   ]

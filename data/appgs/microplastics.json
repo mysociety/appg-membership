@@ -15,16 +15,8 @@
     },
     {
       "role": "Officer",
-      "name": "Deirdre Costigan",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26384",
-      "mnis_id": "5075",
-      "removed": true
-    },
-    {
-      "role": "Officer",
       "name": "John McDonnell",
-      "party": "Independent",
+      "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10383",
       "mnis_id": "178",
       "removed": false
@@ -35,6 +27,14 @@
       "party": "Non-affiliated",
       "twfy_id": "uk.org.publicwhip/person/10753",
       "mnis_id": "1400",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Bach",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/13526",
+      "mnis_id": "3451",
       "removed": false
     }
   ],
@@ -470,15 +470,15 @@
   "detailed_benefits": [
     {
       "Source": "National Federation of Women's Institutes",
-      "Description": "Secretariat From : 19/11/2024 To  : 18/11/2025",
+      "Description": "Secretariat From: 19/11/2024 To: 18/11/2025",
       "Value £s In bands of £1,500": "4,501-6,000",
       "Received": "19/11/2024",
       "Registered": "05/12/2024",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/microplastics.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/microplastics.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

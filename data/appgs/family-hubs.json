@@ -15,10 +15,10 @@
     },
     {
       "role": "Officer",
-      "name": "Lord Farmer",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25233",
-      "mnis_id": "4321",
+      "name": "Chris Bloore",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26357",
+      "mnis_id": "5109",
       "removed": false
     },
     {
@@ -27,6 +27,14 @@
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26466",
       "mnis_id": "5297",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Farmer",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25233",
+      "mnis_id": "4321",
       "removed": false
     }
   ],
@@ -54,10 +62,19 @@
     "reporting_year": "05 Feb to 04 Feb",
     "next_reporting_deadline": "2026-06-05"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "250731",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250731/family-hubs.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Spurgeons",
+      "Description": "Secretariat From: 05/02/2025 To: 04/02/2026",
+      "Value £s In bands of £1,500": "6,001-7,500",
+      "Received": "05/02/2025",
+      "Registered": "27/02/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/family-hubs.htm",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Education, Skills & Youth"

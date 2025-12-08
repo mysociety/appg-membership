@@ -6,22 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Catherine Fookes",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26510",
-      "mnis_id": "5291",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
-      "name": "Andrew Pakes",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26601",
-      "mnis_id": "5243",
-      "removed": false
-    },
-    {
       "role": "Officer",
       "name": "Helen Whately",
       "party": "Conservative",
@@ -41,7 +25,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "Caroline Voaden",
@@ -534,12 +518,12 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Catherine Fookes MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "catherine.fookes.mp@parliament.uk",
-    "public_enquiry_point_name": null,
-    "public_enquiry_point_email": null,
-    "secretariat": null,
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Charlie Taverner, Food, Farming & Countryside Commission",
+    "public_enquiry_point_email": "charlie.taverner@ffcc.co.uk",
+    "secretariat": "Food, Farming & Countryside Commission acts as the group's secretariat.https://ffcc.co.uk/",
     "website": {
       "status": "no_search",
       "url": null
@@ -551,10 +535,19 @@
     "reporting_year": "29 Oct to 28 Oct",
     "next_reporting_deadline": "2026-02-28"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/farming.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Food, Farming & Countryside Commission",
+      "Description": "Secretariat From: 29/10/2024 To: 28/10/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "29/10/2024",
+      "Registered": "21/10/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/farming.htm",
   "categories": [
     "Food, Agriculture & Rural Affairs"
   ]

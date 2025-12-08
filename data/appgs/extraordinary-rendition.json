@@ -48,8 +48,8 @@
     "registered_contact_name": "Sam Rushworth MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "sam.rushworth.mp@parliament.uk",
-    "public_enquiry_point_name": "Nikki Taylor, Office of Lord Tyrie. Tel: 07927 016 487",
-    "public_enquiry_point_email": "taylorne@parliament.uk",
+    "public_enquiry_point_name": "Roger Gough, Office of Lord Tyrie",
+    "public_enquiry_point_email": "goughr@parliament.uk",
     "secretariat": null,
     "website": {
       "status": "register",
@@ -62,10 +62,32 @@
     "reporting_year": "03 Dec to 02 Dec",
     "next_reporting_deadline": "2026-04-03"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/extraordinary-rendition.htm",
+  "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "Joseph Rowntree Charitable Trust",
+      "Value £s": "15,000",
+      "Received": "01/01/2025",
+      "Registered": "24/10/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Joseph Rowntree Charitable Trust",
+      "Value £s": "15,000",
+      "Received": "01/04/2025",
+      "Registered": "24/10/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Joseph Rowntree Charitable Trust",
+      "Value £s": "15,000",
+      "Received": "02/07/2025",
+      "Registered": "24/10/2025",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/extraordinary-rendition.htm",
   "categories": [
     "Justice, Law & Security",
     "Human Rights, Equality & Social Justice"

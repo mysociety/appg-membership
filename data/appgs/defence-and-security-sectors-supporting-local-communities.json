@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "Ms Alex Baker MP",
@@ -210,32 +210,32 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-19",
+    "date_of_most_recent_agm": "2025-11-25",
     "published_income_expenditure_statement": false,
     "reporting_year": "19 Nov to 18 Nov",
-    "next_reporting_deadline": "2026-03-19"
+    "next_reporting_deadline": "2027-03-19"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
-      "Source": "Chelgate Limited",
-      "Description": "Chelgate Limited is paid by ADS Group, Lockheed Martin, GE Aerospace and Safran UK to act as the APPG's secretariat. From : 19/11/2024 To  : 18/11/2025",
-      "Value £s In bands of £1,500": "25,501-27,000",
-      "Received": "19/11/2024",
-      "Registered": "03/06/2025",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "ADS Group",
+      "Source": "ADS Group (trade association)",
       "Description": "Reception",
       "Value £s In bands of £1,500": "4,501-6,000",
       "Received": "05/05/2025",
       "Registered": "17/07/2025",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Chelgate Limited",
+      "Description": "Chelgate Limited is paid by ADS Group (trade association), Lockheed Martin, GE Aerospace and Safran UK to act as the APPG's secretariat. From: 19/11/2025 To: 18/11/2026",
+      "Value £s In bands of £1,500": "25,501-27,000",
+      "Received": "19/11/2025",
+      "Registered": "27/11/2025",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/defence-and-security-sectors-supporting-local-communities.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/defence-and-security-sectors-supporting-local-communities.htm",
   "categories": [
     "Justice, Law & Security",
     "Economy, Business & Industry",

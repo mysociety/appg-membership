@@ -15,7 +15,15 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Baroness Hodgson of Abinger",
+      "name": "Lord Austin of Dudley",
+      "party": "Non-affiliated",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Massey of Hampstead",
       "party": "Conservative",
       "twfy_id": null,
       "mnis_id": null,
@@ -27,14 +35,6 @@
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26340",
       "mnis_id": "5054",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Lord Austin of Dudley",
-      "party": "Non-affiliated",
-      "twfy_id": null,
-      "mnis_id": null,
       "removed": false
     }
   ],
@@ -220,24 +220,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-12",
+    "date_of_most_recent_agm": "2025-11-19",
     "published_income_expenditure_statement": false,
     "reporting_year": "12 Sep to 11 Sep",
-    "next_reporting_deadline": "2026-01-12"
+    "next_reporting_deadline": "2027-01-12"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "HST Group",
-      "Description": "Visit to Kurdistan Region in Iraq From : 08/04/2025 To  : 14/04/2025 Cost Met : Transport, food and hotels",
+      "Description": "Visit to Kurdistan Region in Iraq From: 08/04/2025 To: 14/04/2025 Cost Met : Transport, food and hotels",
       "Value £s In bands of £1,500": "13,501-15,000",
       "Received": "08/04/2025",
       "Registered": "28/04/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/kurdistan-region-in-iraq.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/kurdistan-region-in-iraq.htm",
   "categories": [
     "Country Group"
   ]

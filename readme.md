@@ -96,13 +96,6 @@ project scrape-memberships
 
 This will attempt to extract membership lists from websites with 'search' or 'manual' status.
 
-### 6. Load Membership Spreadsheets
-
-```bash
-project load-spreadsheets
-```
-
-This loads any available spreadsheets with membership information.
 
 ### 7. Load Manual Membership Data
 
@@ -314,3 +307,37 @@ This approach is preferable to keeping inaccurate data, as it clearly indicates 
 ### 16. Rebuild the Documentation Site (if hosting)
 
 Run the Jekyll build process to update the documentation site with the new diffs.
+
+## Scotland Cross-Party Groups
+
+In addition to UK Parliament APPGs, this system can download and process Cross-Party Group data from the Scottish Parliament.
+
+### Downloading Scotland Data
+
+```bash
+project scotland
+```
+
+This command will:
+- Fetch all current Cross-Party Groups from the Scottish Parliament API
+- Download member roles and membership data
+- Use the MySoc Popolo library to get person details with TWFY/MNIS IDs
+- Generate public parliament.scot URLs for each group
+- Save one JSON file per group in `data/cpg_scotland/`
+
+The output files follow the same format as UK APPGs for consistency, with:
+- `parliament` field set to "scotland"
+- `member_type` set to "other" (since Scotland uses MSPs, not MPs)
+- Public URLs pointing to the official parliament.scot Cross-Party Group pages
+- Full officer and member information where available
+
+### Scotland Data Sources
+
+- **Scottish Parliament API**: https://data.parliament.scot/api/
+  - Cross-Party Groups: `/crosspartygroups/json`
+  - Roles: `/crosspartygrouproles/json` 
+  - Members: `/membercrosspartyroles/json`
+- **Person Data**: MySoc Popolo library with ScotParl identifiers
+- **Public URLs**: parliament.scot Cross-Party Group pages
+
+For more detailed information about the Scotland functionality, see [README_scotland.md](README_scotland.md).

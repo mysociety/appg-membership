@@ -1,0 +1,412 @@
+{
+  "slug": "play",
+  "title": "All-Party Parliamentary Group on Play",
+  "purpose": "The APPG on Play is a cross-party group of Members of Parliament and the House of Lords committed to championing every child’s right to play by promoting its value, protecting time and space, and building acceptance across society. The group will advocate for a new National Play Strategy and play sufficiency legislation to ensure all children, in every community, have the freedom and opportunity to play every day.",
+  "category": "Subject Group",
+  "parliament": "uk",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Tom Hayes",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26566",
+      "mnis_id": "5210",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Howard of Rising",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Vikki Slade",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26582",
+      "mnis_id": "5327",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Natasha Irons",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26404",
+      "mnis_id": "5119",
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": [
+      "https://www.playengland.org.uk/appg"
+    ],
+    "last_updated": "2025-12-08",
+    "members": [
+      {
+        "name": "Tom Hayes",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5210",
+        "twfy_id": "uk.org.publicwhip/person/26566",
+        "removed": false
+      },
+      {
+        "name": "Jas Athwal",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5227",
+        "twfy_id": "uk.org.publicwhip/person/26439",
+        "removed": false
+      },
+      {
+        "name": "Sir Nicholas Dakin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4056",
+        "twfy_id": "uk.org.publicwhip/person/24798",
+        "removed": false
+      },
+      {
+        "name": "Helena Dollimore",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5192",
+        "twfy_id": "uk.org.publicwhip/person/26507",
+        "removed": false
+      },
+      {
+        "name": "Daniel Francis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5184",
+        "twfy_id": "uk.org.publicwhip/person/26493",
+        "removed": false
+      },
+      {
+        "name": "Jodie Gosling",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5036",
+        "twfy_id": "uk.org.publicwhip/person/26314",
+        "removed": false
+      },
+      {
+        "name": "Dr Rupa Huq",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4511",
+        "twfy_id": "uk.org.publicwhip/person/25284",
+        "removed": false
+      },
+      {
+        "name": "Leigh Ingham",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5290",
+        "twfy_id": "uk.org.publicwhip/person/26392",
+        "removed": false
+      },
+      {
+        "name": "Natasha Irons",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5119",
+        "twfy_id": "uk.org.publicwhip/person/26404",
+        "removed": false
+      },
+      {
+        "name": "Laura Kyrke-Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5341",
+        "twfy_id": "uk.org.publicwhip/person/26629",
+        "removed": false
+      },
+      {
+        "name": "Clive Lewis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4500",
+        "twfy_id": "uk.org.publicwhip/person/25356",
+        "removed": false
+      },
+      {
+        "name": "Helen Maguire",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5336",
+        "twfy_id": "uk.org.publicwhip/person/26627",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Iqbal Mohamed",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5268",
+        "twfy_id": "uk.org.publicwhip/person/26620",
+        "removed": false
+      },
+      {
+        "name": "Tristan Osborne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5220",
+        "twfy_id": "uk.org.publicwhip/person/26589",
+        "removed": false
+      },
+      {
+        "name": "Jim Shannon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4131",
+        "twfy_id": "uk.org.publicwhip/person/13864",
+        "removed": false
+      },
+      {
+        "name": "Vikki Slade",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582",
+        "removed": false
+      },
+      {
+        "name": "Will Stone",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5035",
+        "twfy_id": "uk.org.publicwhip/person/26320",
+        "removed": false
+      },
+      {
+        "name": "Peter Swallow",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5165",
+        "twfy_id": "uk.org.publicwhip/person/26369",
+        "removed": false
+      },
+      {
+        "name": "Alice Macdonald",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5133",
+        "twfy_id": "uk.org.publicwhip/person/26450",
+        "removed": false
+      },
+      {
+        "name": "Dr Beccy Cooper",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5307",
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
+      },
+      {
+        "name": "Matthew Turmaine",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5130",
+        "twfy_id": "uk.org.publicwhip/person/26417",
+        "removed": false
+      },
+      {
+        "name": "Alison Taylor",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5093",
+        "twfy_id": "uk.org.publicwhip/person/26563",
+        "removed": false
+      },
+      {
+        "name": "Tessa Munt",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4089",
+        "twfy_id": "uk.org.publicwhip/person/24942",
+        "removed": false
+      },
+      {
+        "name": "Tim Roca",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5287",
+        "twfy_id": "uk.org.publicwhip/person/26549",
+        "removed": false
+      },
+      {
+        "name": "Sam Rushworth",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5108",
+        "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
+      },
+      {
+        "name": "Dan Aldridge",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5172",
+        "twfy_id": "uk.org.publicwhip/person/26453",
+        "removed": false
+      },
+      {
+        "name": "Tom Collins",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5087",
+        "twfy_id": "uk.org.publicwhip/person/26351",
+        "removed": false
+      },
+      {
+        "name": "Andy MacNae",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5134",
+        "twfy_id": "uk.org.publicwhip/person/26391",
+        "removed": false
+      },
+      {
+        "name": "Alistair Strathern",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5000",
+        "twfy_id": "uk.org.publicwhip/person/26278",
+        "removed": false
+      },
+      {
+        "name": "Michael Wheeler",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5242",
+        "twfy_id": "uk.org.publicwhip/person/26551",
+        "removed": false
+      },
+      {
+        "name": "Connor Rand",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5159",
+        "twfy_id": "uk.org.publicwhip/person/26473",
+        "removed": false
+      },
+      {
+        "name": "Siân Berry",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5314",
+        "twfy_id": "uk.org.publicwhip/person/25752",
+        "removed": false
+      },
+      {
+        "name": "Baroness Floella Benjamin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Anne Longfield",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Greville Howard",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Hunt of King’s Heath",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Ruth Lister of Burtersett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Mary Goudie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Tanni Grey-Thompson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Natalie Bennett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Christine Blower",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Tom Hayes MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "tom.hayes.mp@parliament.uk",
+    "public_enquiry_point_name": "Eugene Minogue, Play England",
+    "public_enquiry_point_email": "eugene.minogue@playengland.org.uk",
+    "secretariat": "Play England acts as the group's secretariat.https://www.playengland.org.uk/",
+    "website": {
+      "status": "register",
+      "url": "https://www.playengland.org.uk/appg"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2025-09-02",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "02 Sep to 01 Sep",
+    "next_reporting_deadline": "2027-01-02"
+  },
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/play.htm",
+  "categories": [
+    "Education, Skills & Youth",
+    "Social Care, Welfare & Family Support"
+  ]
+}

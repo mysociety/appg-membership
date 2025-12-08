@@ -7,10 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Jake Richards",
+      "name": "Justin Madders",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26486",
-      "mnis_id": "5082",
+      "twfy_id": "uk.org.publicwhip/person/25378",
+      "mnis_id": "4418",
       "removed": false
     },
     {
@@ -28,12 +28,20 @@
       "twfy_id": "uk.org.publicwhip/person/26090",
       "mnis_id": "1746",
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Chris Bloore",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26357",
+      "mnis_id": "5109",
+      "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-11-06",
+    "last_updated": "2025-12-08",
     "members": [
       {
         "name": "Clive Betts MP",
@@ -222,9 +230,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Jake Richards MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "jake.richards.mp@parliament.uk",
+    "registered_contact_name": "Justin Madders MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 6584.",
+    "registered_contact_email": "justin.madders.mp@parliament.uk",
     "public_enquiry_point_name": "iNHouse Communications. Tel: 020 7240 7338",
     "public_enquiry_point_email": "ukpfc@inhouse.london",
     "secretariat": "iNHouse Communications acts as the group's secretariat.https://inhouse.london/",
@@ -243,15 +251,15 @@
   "detailed_benefits": [
     {
       "Source": "iNHouse Communications",
-      "Description": "iNHouse Communications is paid by Cadent Gas Ltd to act as the group's secretariat. From : 25/11/2024 To  : 24/11/2025",
+      "Description": "iNHouse Communications is paid by Cadent Gas Ltd to act as the group's secretariat. From: 25/11/2024 To: 24/11/2025",
       "Value £s In bands of £1,500": "6,001-7,500",
       "Received": "25/11/2024",
       "Registered": "04/12/2024",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/football-club.htm",
+  "index_date": "251201",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/football-club.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]
