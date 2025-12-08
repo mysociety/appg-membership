@@ -1,0 +1,92 @@
+{
+  "slug": "malawi",
+  "title": "Cross-Party Group in the Scottish Parliament on Malawi",
+  "purpose": "To develop and enhance links between Scotland and Malawi and to provide a forum for discussion on these matters.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Co-Convener",
+      "name": "Liam McArthur",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/14046",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Co-Convener",
+      "name": "Alexander Stewart",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25538",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Sarah Boyack",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/13956",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Rhoda Grant",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14001",
+        "removed": false
+      },
+      {
+        "name": "Colin Smyth",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25536",
+        "removed": false
+      },
+      {
+        "name": "Stephanie Callaghan",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25988",
+        "removed": false
+      },
+      {
+        "name": "Alasdair Allan",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13947",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/malawi"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

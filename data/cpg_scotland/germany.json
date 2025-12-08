@@ -1,0 +1,108 @@
+{
+  "slug": "germany",
+  "title": "Cross-Party Group in the Scottish Parliament on Germany ",
+  "purpose": "To promote political, cultural, educational and economic links between Scotland and Germany and to facilitate meetings and contacts between parliamentarians of both countries.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Colin Beattie",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25074",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Roz McCall",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26091",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Clare Adamson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25073",
+        "removed": false
+      },
+      {
+        "name": "Jackie Baillie",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13949",
+        "removed": false
+      },
+      {
+        "name": "Murdo Fraser",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13991",
+        "removed": false
+      },
+      {
+        "name": "Mark Griffin",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25089",
+        "removed": false
+      },
+      {
+        "name": "Graham Simpson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25535",
+        "removed": false
+      },
+      {
+        "name": "Paul J Sweeney",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "4642",
+        "twfy_id": "uk.org.publicwhip/person/25639",
+        "removed": false
+      },
+      {
+        "name": "Michelle Thomson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "4422",
+        "twfy_id": "uk.org.publicwhip/person/25352",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/germany"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "usa",
+  "title": "Cross-Party Group in the Scottish Parliament on USA",
+  "purpose": "To promote relations between Scotland and the USA. ",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Deputy Convener",
+      "name": "Michelle Thomson",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25352",
+      "mnis_id": "4422",
+      "removed": false
+    },
+    {
+      "role": "Convener",
+      "name": "Daniel Johnson",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25514",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Alexander Burnett",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25495",
+        "removed": false
+      },
+      {
+        "name": "Rachael Hamilton",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25510",
+        "removed": false
+      },
+      {
+        "name": "Liam Kerr",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25515",
+        "removed": false
+      },
+      {
+        "name": "Murdo Fraser",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13991",
+        "removed": false
+      },
+      {
+        "name": "Pam Gosal",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25998",
+        "removed": false
+      },
+      {
+        "name": "Paul J Sweeney",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "4642",
+        "twfy_id": "uk.org.publicwhip/person/25639",
+        "removed": false
+      },
+      {
+        "name": "Douglas Ross",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "4627",
+        "twfy_id": "uk.org.publicwhip/person/25531",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/usa"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

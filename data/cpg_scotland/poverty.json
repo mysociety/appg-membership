@@ -1,0 +1,108 @@
+{
+  "slug": "poverty",
+  "title": "Cross-Party Group in the Scottish Parliament on Poverty",
+  "purpose": "Aims to act as a forum for exploring the drivers of and solutions to poverty in Scotland. It will act to connect MSPs with organisations working to tackle poverty, as well as with people living on low incomes across Scotland, in order to better inform anti-poverty policy-making and contribute to the ending of poverty in Scotland",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Deputy Convener",
+      "name": "Beatrice Wishart",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25775",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Convener",
+      "name": "Paul O'Kane",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26010",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Bob Doris",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13977",
+        "removed": false
+      },
+      {
+        "name": "Rhoda Grant",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14001",
+        "removed": false
+      },
+      {
+        "name": "Miles Briggs",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25494",
+        "removed": false
+      },
+      {
+        "name": "Collette Stevenson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26013",
+        "removed": false
+      },
+      {
+        "name": "Monica Lennon",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25516",
+        "removed": false
+      },
+      {
+        "name": "Alex Rowley",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25218",
+        "removed": false
+      },
+      {
+        "name": "Carol Mochan",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26008",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/poverty"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

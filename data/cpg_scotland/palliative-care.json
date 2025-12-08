@@ -1,0 +1,76 @@
+{
+  "slug": "palliative-care",
+  "title": "Cross-Party Group in the Scottish Parliament on Palliative Care",
+  "purpose": "To act as a channel of communication between the Scottish Parliament and people and organisations working in palliative care To provide opportunities for Members of the Scottish Parliament to learn about palliative care needs and service, and the issues involved in palliative care provision To increase awareness and raise the profile of palliative care To put palliative care on to the agenda of the Health and Sport Committee",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Bob Doris",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/13977",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Marie McNair",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26006",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Miles Briggs",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25494",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Jackie Baillie",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13949",
+        "removed": false
+      },
+      {
+        "name": "Stephen Kerr",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "4604",
+        "twfy_id": "uk.org.publicwhip/person/25696",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/palliative-care"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

@@ -1,0 +1,196 @@
+{
+  "slug": "beer-and-pubs",
+  "title": "Cross-Party Group in the Scottish Parliament on Beer and Pubs",
+  "purpose": "to celebrate, recognise and enhance the contribution the brewing and pub-related hospitality industry plays in Scotland. The Group recently held an inquiry into the Scottish Beer and Pubs industry. You can find a link to the inquiry here: https://www.beerandpubinquiry.com/",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Craig Hoy",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26000",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Paul J Sweeney",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25639",
+      "mnis_id": "4642",
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "John Mason",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25101",
+        "removed": false
+      },
+      {
+        "name": "Jamie Halcro Johnston",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25715",
+        "removed": false
+      },
+      {
+        "name": "Colin Smyth",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25536",
+        "removed": false
+      },
+      {
+        "name": "Pam Duncan-Glancy",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25994",
+        "removed": false
+      },
+      {
+        "name": "Martin Whitfield",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "4626",
+        "twfy_id": "uk.org.publicwhip/person/25651",
+        "removed": false
+      },
+      {
+        "name": "Oliver Mundell",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25530",
+        "removed": false
+      },
+      {
+        "name": "Meghan Gallacher",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25997",
+        "removed": false
+      },
+      {
+        "name": "Miles Briggs",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25494",
+        "removed": false
+      },
+      {
+        "name": "Douglas Lumsden",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26001",
+        "removed": false
+      },
+      {
+        "name": "Liam Kerr",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25515",
+        "removed": false
+      },
+      {
+        "name": "Michael Marra",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26003",
+        "removed": false
+      },
+      {
+        "name": "Douglas Ross",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "4627",
+        "twfy_id": "uk.org.publicwhip/person/25531",
+        "removed": false
+      },
+      {
+        "name": "Neil Bibby",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25076",
+        "removed": false
+      },
+      {
+        "name": "Sue Webber",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26017",
+        "removed": false
+      },
+      {
+        "name": "Gordon MacDonald",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25095",
+        "removed": false
+      },
+      {
+        "name": "Graham Simpson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25535",
+        "removed": false
+      },
+      {
+        "name": "Fergus Ewing",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13980",
+        "removed": false
+      },
+      {
+        "name": "Patrick Harvie",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14006",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/beer-and-pubs"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

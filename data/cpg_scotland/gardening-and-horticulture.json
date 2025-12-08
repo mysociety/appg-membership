@@ -1,0 +1,92 @@
+{
+  "slug": "gardening-and-horticulture",
+  "title": "Cross-Party Group in the Scottish Parliament on Gardening and Horticulture",
+  "purpose": "To promote and facilitate an understanding between representatives of the world of Gardening and Horticulture with members of the Scottish Parliament.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Rachael Hamilton",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25510",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Alex Rowley",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25218",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Annabelle Ewing",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25085",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Christine Grahame",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/14000",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Jackson Carlaw",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13967",
+        "removed": false
+      },
+      {
+        "name": "Sharon Dowey",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25992",
+        "removed": false
+      },
+      {
+        "name": "Tim Eagle",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26290",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/gardening-and-horticulture"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

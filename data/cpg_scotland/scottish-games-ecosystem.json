@@ -1,0 +1,76 @@
+{
+  "slug": "scottish-games-ecosystem",
+  "title": "Cross-Party Group in the Scottish Parliament on the Scottish Games Ecosystem",
+  "purpose": "To promote the games sector in Scotland and build a thriving games ecosystem.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Co-Convener",
+      "name": "Clare Adamson",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25073",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Co-Convener",
+      "name": "Michael Marra",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26003",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Stephanie Callaghan",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25988",
+        "removed": false
+      },
+      {
+        "name": "Ross Greer",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25509",
+        "removed": false
+      },
+      {
+        "name": "Maurice Golden",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25507",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2024/scottish-games-ecosystem"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

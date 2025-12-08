@@ -1,0 +1,92 @@
+{
+  "slug": "credit-unions",
+  "title": "Cross-Party Group in the Scottish Parliament on Credit Unions",
+  "purpose": "To provide a forum to discuss issues which affect credit unions in Scotland. The CPG will also create a foundation for policy development relating to credit unions and help to form a network of good practice between credit unions and parliamentarians.  ",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Deputy Convener",
+      "name": "Paul J Sweeney",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25639",
+      "mnis_id": "4642",
+      "removed": false
+    },
+    {
+      "role": "Convener",
+      "name": "Stephen Kerr",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25696",
+      "mnis_id": "4604",
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "John Mason",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25101",
+        "removed": false
+      },
+      {
+        "name": "Graham Simpson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25535",
+        "removed": false
+      },
+      {
+        "name": "Stuart McMillan",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14060",
+        "removed": false
+      },
+      {
+        "name": "Michelle Thomson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "4422",
+        "twfy_id": "uk.org.publicwhip/person/25352",
+        "removed": false
+      },
+      {
+        "name": "Miles Briggs",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25494",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/credit-unions"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

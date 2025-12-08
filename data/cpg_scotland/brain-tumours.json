@@ -1,0 +1,84 @@
+{
+  "slug": "brain-tumours",
+  "title": "Cross-Party Group in the Scottish Parliament on Brain Tumours",
+  "purpose": "The Cross-Party Group will raise awareness of the issues facing the brain tumour community in order to improve research, diagnosis, information, support, treatment and care outcomes.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Beatrice Wishart",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25775",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Colin Smyth",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25536",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Finlay Carson",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25497",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Foysol Choudhury",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25990",
+        "removed": false
+      },
+      {
+        "name": "Jackie Baillie",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13949",
+        "removed": false
+      },
+      {
+        "name": "Jackson Carlaw",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13967",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2024/brain-tumours"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

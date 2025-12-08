@@ -1,0 +1,116 @@
+{
+  "slug": "rural-policy",
+  "title": "Cross-Party Group in the Scottish Parliament on Rural Policy",
+  "purpose": "To inform MSPs and the wider Scottish Parliament about issues relating to rural policies and policy-making in Scotland.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Co-Convener",
+      "name": "Emma Harper",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25511",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Co-Convener",
+      "name": "Edward Mountain",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25529",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Finlay Carson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25497",
+        "removed": false
+      },
+      {
+        "name": "Brian Whittle",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25543",
+        "removed": false
+      },
+      {
+        "name": "Jamie Halcro Johnston",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25715",
+        "removed": false
+      },
+      {
+        "name": "Ariane Burgess",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25987",
+        "removed": false
+      },
+      {
+        "name": "Mercedes Villalba",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26016",
+        "removed": false
+      },
+      {
+        "name": "Colin Smyth",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25536",
+        "removed": false
+      },
+      {
+        "name": "Rhoda Grant",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14001",
+        "removed": false
+      },
+      {
+        "name": "Tim Eagle",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26290",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/rural-policy"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

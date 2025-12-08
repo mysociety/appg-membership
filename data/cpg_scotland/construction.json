@@ -1,0 +1,84 @@
+{
+  "slug": "construction",
+  "title": "Cross-Party Group in the Scottish Parliament on Construction",
+  "purpose": "The aim of the Group is to ensure that Scotland has a world-class construction industry delivering best value for its clients, a safe environment on its sites and a proper career path and employment prospects for its people. The Cross-Party Group will be the forum for Members of the Scottish Parliament (MSPs), stakeholders and interested parties to engage directly with each other in order to raise awareness of the opportunities and challenges facing the sector and to better inform the development of policy in this important area. ",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Monica Lennon",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25516",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Alexander Burnett",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25495",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Gordon MacDonald",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25095",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Graham Simpson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25535",
+        "removed": false
+      },
+      {
+        "name": "Sharon Dowey",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25992",
+        "removed": false
+      },
+      {
+        "name": "Lorna Slater",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26012",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/construction"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "co-operatives",
+  "title": "Cross-Party Group in the Scottish Parliament on Co-Operatives",
+  "purpose": "To provide a platform for MSPs and others with an interest in co-operation and mutuality to increase awareness of the co-operative model and its contribution to Scotland's social and economic development, promote co-operation as a vital component of Scotland's future, and to work with the Scottish Government, Co-Operative Development Scotland and the sector to identify how best to sustain existing co-operative and mutual groups and to encourage an increase in co-operative working in Scotland.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Paul J Sweeney",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25639",
+      "mnis_id": "4642",
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Claire Baker",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/13951",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Sarah Boyack",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13956",
+        "removed": false
+      },
+      {
+        "name": "Foysol Choudhury",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25990",
+        "removed": false
+      },
+      {
+        "name": "Paul O'Kane",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26010",
+        "removed": false
+      },
+      {
+        "name": "Colin Smyth",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25536",
+        "removed": false
+      },
+      {
+        "name": "Maggie Chapman",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25989",
+        "removed": false
+      },
+      {
+        "name": "Evelyn Tweed",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26015",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/co-operatives"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

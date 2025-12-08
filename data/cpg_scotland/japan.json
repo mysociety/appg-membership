@@ -1,0 +1,92 @@
+{
+  "slug": "japan",
+  "title": "Cross-Party Group in the Scottish Parliament on Japan",
+  "purpose": "To promote relations between Scotland and Japan, which is third largest economy in world and one of largest investors in Scotland.  ",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Deputy Convener",
+      "name": "Alexander Stewart",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25538",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Convener",
+      "name": "Colin Smyth",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25536",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Liam McArthur",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14046",
+        "removed": false
+      },
+      {
+        "name": "Craig Hoy",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26000",
+        "removed": false
+      },
+      {
+        "name": "Paul J Sweeney",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "4642",
+        "twfy_id": "uk.org.publicwhip/person/25639",
+        "removed": false
+      },
+      {
+        "name": "Pauline McNeill",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14062",
+        "removed": false
+      },
+      {
+        "name": "Karen Adam",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25985",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/japan"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

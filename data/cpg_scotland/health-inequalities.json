@@ -1,0 +1,76 @@
+{
+  "slug": "health-inequalities",
+  "title": "Cross-Party Group in the Scottish Parliament on Health Inequalities",
+  "purpose": "The group aims to raise awareness of the causes of health inequalities amongst parliamentarians to influence legislation and amongst policy makers to promote evidence based actions which reduce health inequalities and to avoid legislation and policies which will make health inequalities in Scotland worse.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Co-Convener",
+      "name": "Emma Harper",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25511",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Co-Convener",
+      "name": "Brian Whittle",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25543",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Carol Mochan",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26008",
+        "removed": false
+      },
+      {
+        "name": "Bob Doris",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13977",
+        "removed": false
+      },
+      {
+        "name": "Miles Briggs",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25494",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/health-inequalities"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

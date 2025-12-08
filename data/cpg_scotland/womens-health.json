@@ -1,0 +1,100 @@
+{
+  "slug": "womens-health",
+  "title": "Cross-Party Group in the Scottish Parliament on Women's Health",
+  "purpose": "The purpose of the CPG is to inform Parliament and policymakers on a range of health issues which only, predominantly or disproportionately affect women; to consider the impact which gender and inequalities has on women's health and their ability to access healthcare and treatment and to empower women to make informed choices about their health and ensure they are treated with dignity and respect.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Monica Lennon",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25516",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Elena Whitham",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26019",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Carol Mochan",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26008",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Stephanie Callaghan",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25988",
+        "removed": false
+      },
+      {
+        "name": "Tess White",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26018",
+        "removed": false
+      },
+      {
+        "name": "Sue Webber",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26017",
+        "removed": false
+      },
+      {
+        "name": "Rachael Hamilton",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25510",
+        "removed": false
+      },
+      {
+        "name": "Rona Mackay",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25522",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/womens-health"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

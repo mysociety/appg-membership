@@ -1,0 +1,84 @@
+{
+  "slug": "long-covid",
+  "title": "Cross-Party Group in the Scottish Parliament on Long Covid",
+  "purpose": "The group aims to elucidate the impacts that Long-Covid has on the people living with the condition, and seeks to ensure that they have a strong voice within the Scottish Parliament. We believe those voices should be at the heart of every cross-party meeting and recognise that Long-Covid affects people of all age groups, including children. Long-Covid has significant educational, social, economic, and cultural impacts for people living with Long-Covid.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Co-Convener",
+      "name": "Jackie Baillie",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/13949",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Co-Convener",
+      "name": "Alex Cole-Hamilton",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25500",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Co-Convener",
+      "name": "Sandesh Gulhane",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25999",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Paul O'Kane",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26010",
+        "removed": false
+      },
+      {
+        "name": "Beatrice Wishart",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25775",
+        "removed": false
+      },
+      {
+        "name": "Bill Kidd",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14024",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/long-covid"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

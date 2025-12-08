@@ -1,0 +1,84 @@
+{
+  "slug": "volunteering",
+  "title": "Cross-Party Group in the Scottish Parliament on Volunteering",
+  "purpose": "To raise awareness of volunteering in all sectors to ultimately increase participation rates in all its forms. To ensure volunteering has a high profile in the Scottish Parliament and influence Scottish Government Policy. To ensure opportunities for volunteering are recognised across all SG directorates. Examination and sharing of research in other parts of UK and beyond. To liaise and work with other CPGs to promote volunteering.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Co-Convener",
+      "name": "Jeremy Balfour",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25492",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Co-Convener",
+      "name": "Foysol Choudhury",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25990",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Alex Cole-Hamilton",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25500",
+        "removed": false
+      },
+      {
+        "name": "Miles Briggs",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25494",
+        "removed": false
+      },
+      {
+        "name": "Paul O'Kane",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26010",
+        "removed": false
+      },
+      {
+        "name": "Fulton MacGregor",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25521",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/volunteering"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

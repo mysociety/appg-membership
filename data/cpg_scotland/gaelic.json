@@ -1,0 +1,84 @@
+{
+  "slug": "gaelic",
+  "title": "Cross-Party Group in the Scottish Parliament on Gaelic",
+  "purpose": "To provide MSPs with a mechanism for obtaining information, support, advice and views on issues relating to the Gaelic language and culture within a broad forum which represents Gaelic interests in Scotland.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "David Torrance",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25115",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Ariane Burgess",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25987",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Convener",
+      "name": "Rhoda Grant",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/14001",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Michael Marra",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26003",
+        "removed": false
+      },
+      {
+        "name": "Murdo Fraser",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13991",
+        "removed": false
+      },
+      {
+        "name": "Emma Roddick",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26011",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/gaelic"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

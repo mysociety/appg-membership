@@ -1,0 +1,76 @@
+{
+  "slug": "tibet",
+  "title": "Cross-Party Group in the Scottish Parliament on Tibet",
+  "purpose": "The aim of the Group is to raise awareness of Tibet and its culture, to promote human rights in Tibet and to advocate for a peaceful resolution to the political situation, in line with international law and Tibetan Buddhist principles.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Co-Convener",
+      "name": "Ross Greer",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25509",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Co-Convener",
+      "name": "Collette Stevenson",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26013",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Alex Cole-Hamilton",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25500",
+        "removed": false
+      },
+      {
+        "name": "Rhoda Grant",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14001",
+        "removed": false
+      },
+      {
+        "name": "Mercedes Villalba",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26016",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/tibet"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

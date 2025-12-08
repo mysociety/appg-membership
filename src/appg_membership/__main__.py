@@ -198,6 +198,31 @@ def load_manual_data(skip_download: bool = False, slug: str = ""):
         raise typer.Exit(1)
 
 
+@app.command()
+def scotland():
+    """
+    Download and convert Scotland Cross-Party Group data to APPG format.
+
+    This command fetches official Cross-Party Group data from the Scottish Parliament API
+    and converts it to the standard APPG format. It will:
+    - Fetch all current Cross-Party Groups (active groups with no end date)
+    - Download official member roles and membership data
+    - Use the MySoc Popolo library to get person details with TWFY/MNIS IDs
+    - Generate public parliament.scot URLs for each group
+    - Save one JSON file per group in data/cpg_scotland/
+    - Mark membership data as 'official' source method
+
+    The output files follow the same format as UK APPGs for consistency.
+    """
+    from .scotland import download_and_convert_scotland_data
+
+    try:
+        download_and_convert_scotland_data()
+    except Exception as e:
+        print(f"Error downloading Scotland data: {e}")
+        raise typer.Exit(1)
+
+
 def main():
     """
     Main function to run the Typer app.

@@ -1,0 +1,108 @@
+{
+  "slug": "scotch-whisky",
+  "title": "Cross-Party Group in the Scottish Parliament on Scotch Whisky",
+  "purpose": "The main  purpose of the Cross-Party Group on Scotch Whisky is to promote a better understanding of the Scotch Whisky industry to members of the Scottish Parliament. The industry plays a key role in Scotland with regard to the economy, exports, jobs, tourism, the environment and tackling alcohol misuse. This group will provide the forum to discuss these important issues with MSPs from all parties alongside key people from within the Scotch Whisky industry. ",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Co-Convener",
+      "name": "Murdo Fraser",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/13991",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Co-Convener",
+      "name": "Gordon MacDonald",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25095",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Colin Smyth",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25536",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Emma Harper",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25511",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Jackie Baillie",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13949",
+        "removed": false
+      },
+      {
+        "name": "Rhoda Grant",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14001",
+        "removed": false
+      },
+      {
+        "name": "Rachael Hamilton",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25510",
+        "removed": false
+      },
+      {
+        "name": "Liam McArthur",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14046",
+        "removed": false
+      },
+      {
+        "name": "Tim Eagle",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26290",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/scotch-whisky"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "music",
+  "title": "Cross-Party Group in the Scottish Parliament on Music",
+  "purpose": "To provide a diverse forum to discuss matters relating to the world of music including music education, the music industries and their contribution to the wider economy, creative arts and cultural policy and to take action to advance matters of interest to the group.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Michelle Thomson",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25352",
+      "mnis_id": "4422",
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Clare Adamson",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25073",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Liam Kerr",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25515",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Claire Baker",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13951",
+        "removed": false
+      },
+      {
+        "name": "Audrey Nicoll",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26009",
+        "removed": false
+      },
+      {
+        "name": "Beatrice Wishart",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25775",
+        "removed": false
+      },
+      {
+        "name": "Gordon MacDonald",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25095",
+        "removed": false
+      },
+      {
+        "name": "Pauline McNeill",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14062",
+        "removed": false
+      },
+      {
+        "name": "Sharon Dowey",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25992",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/music"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

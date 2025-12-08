@@ -1,0 +1,76 @@
+{
+  "slug": "stroke",
+  "title": "Cross-Party Group in the Scottish Parliament on Stroke",
+  "purpose": "To provide oversight, encouragement and support for the implementation of a progressive stroke service in all Health Boards, based on the recommendations in a new (2022) stroke action plan Increase political awareness of the scale and impact of stroke and the benefits which implementation of a progressive stroke service will make Increase political awareness that stroke is a national clinical priority and help ensure stroke is treated as a clinical priority in Health Boards",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Gillian Mackay",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26002",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Roz McCall",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26091",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Pam Duncan-Glancy",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25994",
+        "removed": false
+      },
+      {
+        "name": "James Dornan",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25082",
+        "removed": false
+      },
+      {
+        "name": "Alexander Stewart",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25538",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/stroke"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

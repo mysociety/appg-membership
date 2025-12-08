@@ -1,0 +1,92 @@
+{
+  "slug": "colleges-and-universities",
+  "title": "Cross-Party Group in the Scottish Parliament on Colleges and Universities ",
+  "purpose": "The Cross Party Group on Colleges and Universities is a forum for debate and sharing of information on a wide range of issues affecting the higher and further educations sectors in Scotland.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Liz Smith",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/14096",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Michael Marra",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26003",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Maggie Chapman",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25989",
+        "removed": false
+      },
+      {
+        "name": "Clare Adamson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25073",
+        "removed": false
+      },
+      {
+        "name": "Beatrice Wishart",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25775",
+        "removed": false
+      },
+      {
+        "name": "Audrey Nicoll",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26009",
+        "removed": false
+      },
+      {
+        "name": "Pam Duncan-Glancy",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25994",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/colleges-and-universities"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

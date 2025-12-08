@@ -1,0 +1,92 @@
+{
+  "slug": "science-and-technology",
+  "title": "Cross-Party Group in the Scottish Parliament on Science and Technology",
+  "purpose": "The purpose of the group is to promote opportunities for MSPs and the scientific community in Scotland to interact on issues of importance to science, technology, engineering, mathematics and medicine. ",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Clare Adamson",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25073",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Brian Whittle",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25543",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Finlay Carson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25497",
+        "removed": false
+      },
+      {
+        "name": "Murdo Fraser",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13991",
+        "removed": false
+      },
+      {
+        "name": "Paul O'Kane",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26010",
+        "removed": false
+      },
+      {
+        "name": "Stuart McMillan",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14060",
+        "removed": false
+      },
+      {
+        "name": "Patrick Harvie",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14006",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/science-and-technology"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "sport",
+  "title": "Cross-Party Group in the Scottish Parliament on Sport",
+  "purpose": "To support the development of sport, sporting and being active opportunities towards a more active Scotland To ensure that sport/being active, and the benefits of sport and being active, have a high profile in the Scottish Parliament To influence Scottish Government policy To liaise with sportscotland, Scottish Governing Bodies of sport and other relevant national and active recreation organisations in Scotland so that such organisations will be able to keep MSPs informed on matters affecting Scottish sport and a more active Scotland.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Liz Smith",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/14096",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Clare Adamson",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25073",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Jeremy Balfour",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25492",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Carol Mochan",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26008",
+        "removed": false
+      },
+      {
+        "name": "Brian Whittle",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25543",
+        "removed": false
+      },
+      {
+        "name": "Tess White",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26018",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/sport"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

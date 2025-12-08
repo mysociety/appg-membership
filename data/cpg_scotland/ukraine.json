@@ -1,0 +1,108 @@
+{
+  "slug": "ukraine",
+  "title": "Cross-Party Group in the Scottish Parliament on Ukraine",
+  "purpose": "To promote political, cultural, educational and economic links between Scotland and Ukraine and to facilitate meetings and contacts between parliamentarians of both countries. The Group intends to examine the relationship between Scotland and Ukraine, especially in the context of the war in Ukraine, to see where the bonds can be strengthened to the mutual benefits of both countries.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Colin Beattie",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25074",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Miles Briggs",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25494",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Paul O'Kane",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26010",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Alex Cole-Hamilton",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25500",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Katy Clark",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "1590",
+        "twfy_id": "uk.org.publicwhip/person/11963",
+        "removed": false
+      },
+      {
+        "name": "Christine Grahame",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14000",
+        "removed": false
+      },
+      {
+        "name": "Liam McArthur",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14046",
+        "removed": false
+      },
+      {
+        "name": "Clare Adamson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25073",
+        "removed": false
+      },
+      {
+        "name": "Russell Findlay",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25996",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2023/ukraine"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

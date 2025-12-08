@@ -1,0 +1,84 @@
+{
+  "slug": "animal-welfare",
+  "title": "Cross-Party Group in the Scottish Parliament on Animal Welfare",
+  "purpose": "To provide a forum for opinion and information sharing about animal welfare; to raise awareness of the importance of animal welfare; where consensus is reached to make proposals to introduce or amend legislation concerning animal welfare and provide information for possible parliamentary questions and motions.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Christine Grahame",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/14000",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Maurice Golden",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25507",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Maggie Chapman",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25989",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Emma Harper",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25511",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Meghan Gallacher",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25997",
+        "removed": false
+      },
+      {
+        "name": "Marie McNair",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26006",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/animal-welfare"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

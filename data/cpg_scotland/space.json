@@ -1,0 +1,92 @@
+{
+  "slug": "space",
+  "title": "Cross-Party Group in the Scottish Parliament on Space",
+  "purpose": "To raise awareness of the importance of the space sector to the Scottish and wider UK economy. To highlight and promote the growing benefits and opportunities arising from Scottish, UK and global investment in space including its pivotal role as a force for good in the global challenge to address climate change. And to encourage, support and strengthen Scotland's leading role within the global space economy.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Colin Beattie",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25074",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Jamie Halcro Johnston",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25715",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Carol Mochan",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26008",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Beatrice Wishart",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25775",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Paul J Sweeney",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "4642",
+        "twfy_id": "uk.org.publicwhip/person/25639",
+        "removed": false
+      },
+      {
+        "name": "Kenneth Gibson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13994",
+        "removed": false
+      },
+      {
+        "name": "Sharon Dowey",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25992",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2023/space"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "migration",
+  "title": "Cross-Party Group in the Scottish Parliament on Migration",
+  "purpose": "to provide a forum for stakeholders, policy-makers and those with lived experience to discuss any arising issues relating to migrants, refugees and those seeking asylum.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Paul J Sweeney",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25639",
+      "mnis_id": "4642",
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Bob Doris",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/13977",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Maggie Chapman",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25989",
+        "removed": false
+      },
+      {
+        "name": "Mercedes Villalba",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26016",
+        "removed": false
+      },
+      {
+        "name": "Katy Clark",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "1590",
+        "twfy_id": "uk.org.publicwhip/person/11963",
+        "removed": false
+      },
+      {
+        "name": "Mark Ruskell",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/14088",
+        "removed": false
+      },
+      {
+        "name": "Foysol Choudhury",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25990",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/migration"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

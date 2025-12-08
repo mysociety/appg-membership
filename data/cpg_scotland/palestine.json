@@ -1,0 +1,100 @@
+{
+  "slug": "palestine",
+  "title": "Cross-Party Group in the Scottish Parliament on Palestine",
+  "purpose": "To establish a forum for Palestinians living in Scotland.  To promote a solution for the Palestinian people recognising the justice of their cause and the need for the Israeli and Palestinian leadership to adhere to UN resolutions and International Law.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Co-Convener",
+      "name": "Pauline McNeill",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/14062",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Co-Convener",
+      "name": "James Dornan",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25082",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Maggie Chapman",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25989",
+        "removed": false
+      },
+      {
+        "name": "Ross Greer",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25509",
+        "removed": false
+      },
+      {
+        "name": "Mercedes Villalba",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26016",
+        "removed": false
+      },
+      {
+        "name": "Sarah Boyack",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13956",
+        "removed": false
+      },
+      {
+        "name": "Katy Clark",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "1590",
+        "twfy_id": "uk.org.publicwhip/person/11963",
+        "removed": false
+      },
+      {
+        "name": "Foysol Choudhury",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25990",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/palestine"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

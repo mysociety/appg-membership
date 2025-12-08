@@ -1,0 +1,84 @@
+{
+  "slug": "skills",
+  "title": "Cross-Party Group in the Scottish Parliament on Skills",
+  "purpose": "To bring together a wide range of organisations and individuals involved in skills development in Scotland to discuss and share ways in which skills development can be enhanced to bring sustainable economic benefits.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Pam Gosal",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25998",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Stephen Kerr",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25696",
+      "mnis_id": "4604",
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Beatrice Wishart",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25775",
+        "removed": false
+      },
+      {
+        "name": "Clare Adamson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25073",
+        "removed": false
+      },
+      {
+        "name": "Gillian Martin",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25525",
+        "removed": false
+      },
+      {
+        "name": "Paul J Sweeney",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "4642",
+        "twfy_id": "uk.org.publicwhip/person/25639",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/skills"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

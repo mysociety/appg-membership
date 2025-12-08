@@ -1,0 +1,84 @@
+{
+  "slug": "women-families-and-justice",
+  "title": "Cross-Party Group in the Scottish Parliament on Women, Families and Justice",
+  "purpose": "The purpose of the Group is to focus on every aspect of women and families experiences of the justice system.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Rona Mackay",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25522",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Collette Stevenson",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26013",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Miles Briggs",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25494",
+        "removed": false
+      },
+      {
+        "name": "Katy Clark",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "1590",
+        "twfy_id": "uk.org.publicwhip/person/11963",
+        "removed": false
+      },
+      {
+        "name": "Audrey Nicoll",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26009",
+        "removed": false
+      },
+      {
+        "name": "Maggie Chapman",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25989",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/women-families-and-justice"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

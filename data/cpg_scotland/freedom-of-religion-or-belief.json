@@ -1,0 +1,84 @@
+{
+  "slug": "freedom-of-religion-or-belief",
+  "title": "Cross-Party Group in the Scottish Parliament on Freedom of Religion or Belief",
+  "purpose": "The Group will discuss and consider how to promote freedom of religion or belief for any and all.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "John Mason",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25101",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Murdo Fraser",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/13991",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Jeremy Balfour",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25492",
+        "removed": false
+      },
+      {
+        "name": "Stephen Kerr",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "4604",
+        "twfy_id": "uk.org.publicwhip/person/25696",
+        "removed": false
+      },
+      {
+        "name": "Katy Clark",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "1590",
+        "twfy_id": "uk.org.publicwhip/person/11963",
+        "removed": false
+      },
+      {
+        "name": "Clare Adamson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25073",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/freedom-of-religion-or-belief"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

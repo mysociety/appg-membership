@@ -1,0 +1,100 @@
+{
+  "slug": "waspi",
+  "title": "Cross-Party Group in the Scottish Parliament on WASPI",
+  "purpose": "Campaigning about the changes to the state pension age for women as a result of the 1995 and 2011 Pensions acts and to raise awareness.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Katy Clark",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/11963",
+      "mnis_id": "1590",
+      "removed": false
+    },
+    {
+      "role": "Co-Convener",
+      "name": "Clare Haughey",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25513",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Richard Leonard",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25517",
+        "removed": false
+      },
+      {
+        "name": "Jackie Baillie",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13949",
+        "removed": false
+      },
+      {
+        "name": "Maggie Chapman",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25989",
+        "removed": false
+      },
+      {
+        "name": "Carol Mochan",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26008",
+        "removed": false
+      },
+      {
+        "name": "Beatrice Wishart",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25775",
+        "removed": false
+      },
+      {
+        "name": "Tess White",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26018",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/waspi"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

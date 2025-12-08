@@ -1,0 +1,100 @@
+{
+  "slug": "cancer",
+  "title": "Cross-Party Group in the Scottish Parliament on Cancer",
+  "purpose": "To act as a channel of communications between the Scottish Parliament and people and organisations working in cancer research, treatment, care and prevention. To identify areas where inequalities exist in the provision of cancer care and campaign for their improvement. To provide opportunities for MSPs to learn about the latest Scottish and international cancer research and to learn about cancer care needs and services, including the views of both patients and carers. ",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Co-Convener",
+      "name": "Jackie Baillie",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/13949",
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Co-Convener",
+      "name": "Miles Briggs",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25494",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Finlay Carson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25497",
+        "removed": false
+      },
+      {
+        "name": "Foysol Choudhury",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25990",
+        "removed": false
+      },
+      {
+        "name": "Sharon Dowey",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25992",
+        "removed": false
+      },
+      {
+        "name": "Stephen Kerr",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "4604",
+        "twfy_id": "uk.org.publicwhip/person/25696",
+        "removed": false
+      },
+      {
+        "name": "Sue Webber",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26017",
+        "removed": false
+      },
+      {
+        "name": "David Torrance",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25115",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/cancer"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

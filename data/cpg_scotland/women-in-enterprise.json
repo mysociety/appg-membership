@@ -1,0 +1,84 @@
+{
+  "slug": "women-in-enterprise",
+  "title": "Cross-Party Group in the Scottish Parliament on Women in Enterprise",
+  "purpose": "To explore how women in business can be supported to make their potential contribution to the Scottish economy.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Convener",
+      "name": "Michelle Thomson",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/25352",
+      "mnis_id": "4422",
+      "removed": false
+    },
+    {
+      "role": "Deputy Convener",
+      "name": "Claire Baker",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/13951",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Liam Kerr",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25515",
+        "removed": false
+      },
+      {
+        "name": "Collette Stevenson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26013",
+        "removed": false
+      },
+      {
+        "name": "Sue Webber",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26017",
+        "removed": false
+      },
+      {
+        "name": "Audrey Nicoll",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/26009",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2021/women-in-enterprise"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

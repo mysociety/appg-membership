@@ -1,0 +1,100 @@
+{
+  "slug": "europe",
+  "title": "Cross-Party Group in the Scottish Parliament on Europe",
+  "purpose": "to provide a forum for discussion and information-sharing about Scotland and its relations with the rest of Europe, fellow European countries, the European Union and other European organisations. To provide MSPs with a source of information and expertise on issues relating to Europe.",
+  "category": null,
+  "parliament": "scotland",
+  "officers": [
+    {
+      "role": "Co-Convener",
+      "name": "Katy Clark",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/11963",
+      "mnis_id": "1590",
+      "removed": false
+    },
+    {
+      "role": "Co-Convener",
+      "name": "Patrick Harvie",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/14006",
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://data.parliament.scot/api/crosspartygroups/json"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Clare Adamson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25073",
+        "removed": false
+      },
+      {
+        "name": "Annabelle Ewing",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25085",
+        "removed": false
+      },
+      {
+        "name": "Foysol Choudhury",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25990",
+        "removed": false
+      },
+      {
+        "name": "Sarah Boyack",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/13956",
+        "removed": false
+      },
+      {
+        "name": "Alex Cole-Hamilton",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": null,
+        "twfy_id": "uk.org.publicwhip/person/25500",
+        "removed": false
+      },
+      {
+        "name": "Michelle Thomson",
+        "is_officer": false,
+        "member_type": "msp",
+        "mnis_id": "4422",
+        "twfy_id": "uk.org.publicwhip/person/25352",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://www.parliament.scot/get-involved/cross-party-groups/current-cross-party-groups/2022/europe"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://data.parliament.scot/api/crosspartygroups/json",
+  "categories": []
+}

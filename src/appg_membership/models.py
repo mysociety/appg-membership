@@ -65,7 +65,7 @@ class AppgCategory(StrEnum):
 class Member(BaseModel):
     name: str
     is_officer: bool = False
-    member_type: Literal["mp", "lord", "other"]
+    member_type: Literal["mp", "lord", "msp", "other"]
     mnis_id: Optional[str] = None
     twfy_id: Optional[str] = None
     removed: bool = False
@@ -73,7 +73,7 @@ class Member(BaseModel):
 
 class MemberList(BaseModel):
     source_method: Literal[
-        "ai_search", "manual", "empty", "not_found", "ai_search_with_manual"
+        "official", "ai_search", "manual", "empty", "not_found", "ai_search_with_manual"
     ] = "empty"
     source_url: list[HttpUrl] = Field(default_factory=list)
     last_updated: Optional[date] = None
