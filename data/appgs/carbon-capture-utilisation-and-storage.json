@@ -28,12 +28,20 @@
       "twfy_id": "uk.org.publicwhip/person/26317",
       "mnis_id": "5034",
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Wharton of Yarm",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-12-08",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Henry Tufnell MP",
@@ -378,24 +386,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-09",
+    "date_of_most_recent_agm": "2026-01-07",
     "published_income_expenditure_statement": false,
     "reporting_year": "09 Sep to 08 Sep",
-    "next_reporting_deadline": "2026-01-09"
+    "next_reporting_deadline": "2027-01-09"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Carbon Capture and Storage Association",
-      "Description": "Secretariat From: 09/09/2024 To: 08/09/2025",
-      "Value £s In bands of £1,500": "7,501-9,000",
-      "Received": "09/09/2024",
-      "Registered": "07/10/2024",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/carbon-capture-utilisation-and-storage.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/carbon-capture-utilisation-and-storage.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Energy & Utilities"

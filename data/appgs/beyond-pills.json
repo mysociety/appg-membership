@@ -43,7 +43,7 @@
     "source_url": [
       "https://beyondpillsappg.org/members/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Dr Simon Opher",
@@ -51,7 +51,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Danny Kruger",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": "3783",
         "twfy_id": "uk.org.publicwhip/person/13731",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sadik Al-Hassan",
@@ -91,7 +91,7 @@
         "member_type": "lord",
         "mnis_id": "4921",
         "twfy_id": "uk.org.publicwhip/person/26035",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lewis Atkinson",
@@ -107,7 +107,7 @@
         "member_type": "lord",
         "mnis_id": "3605",
         "twfy_id": "uk.org.publicwhip/person/13507",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Brooke of Alverthorpe",
@@ -115,7 +115,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ben Coleman",
@@ -131,7 +131,7 @@
         "member_type": "mp",
         "mnis_id": "5307",
         "twfy_id": "uk.org.publicwhip/person/26515",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Deidre Costigan",
@@ -147,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": "3384",
         "twfy_id": "uk.org.publicwhip/person/13599",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Devon",
@@ -155,7 +155,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Cat Eccles",
@@ -179,7 +179,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hollins",
@@ -187,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": "4190",
         "twfy_id": "uk.org.publicwhip/person/25016",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rachel Maskell",
@@ -211,7 +211,7 @@
         "member_type": "lord",
         "mnis_id": "4699",
         "twfy_id": "uk.org.publicwhip/person/25732",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Edward Morello",
@@ -227,7 +227,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dr Peter Prinsley",
@@ -235,7 +235,7 @@
         "member_type": "mp",
         "mnis_id": "5163",
         "twfy_id": "uk.org.publicwhip/person/26383",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Rock",
@@ -243,7 +243,7 @@
         "member_type": "lord",
         "mnis_id": "4556",
         "twfy_id": "uk.org.publicwhip/person/25471",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jayne Kirkham",
@@ -259,6 +259,118 @@
         "member_type": "mp",
         "mnis_id": "4595",
         "twfy_id": "uk.org.publicwhip/person/25601",
+        "removed": false
+      },
+      {
+        "name": "Simon Opher",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5030",
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
+      },
+      {
+        "name": "Crisp",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Altrincham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Best",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Brooke of Alverthorpe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Beccy Cooper",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5307",
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
+      },
+      {
+        "name": "Craigavon",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Devon",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Finlay of Llandaff",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Hollins",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4190",
+        "twfy_id": "uk.org.publicwhip/person/25016",
+        "removed": false
+      },
+      {
+        "name": "Meyer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4699",
+        "twfy_id": "uk.org.publicwhip/person/25732",
+        "removed": false
+      },
+      {
+        "name": "Patel of Bradford",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Peter Prinsley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5163",
+        "twfy_id": "uk.org.publicwhip/person/26383",
+        "removed": false
+      },
+      {
+        "name": "Rock",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4556",
+        "twfy_id": "uk.org.publicwhip/person/25471",
         "removed": false
       }
     ]
@@ -283,8 +395,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/beyond-pills.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/beyond-pills.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

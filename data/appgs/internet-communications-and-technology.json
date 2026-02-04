@@ -41,9 +41,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://pictfor.org.uk/about/#members"
+      "https://pictfor.org.uk/about/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Dame Caroline Dinenage",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Neville Rolfe",
@@ -220,6 +220,14 @@
         "mnis_id": "4005",
         "twfy_id": "uk.org.publicwhip/person/24945",
         "removed": false
+      },
+      {
+        "name": "Clement Jones",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -243,13 +251,6 @@
   },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
-    {
-      "Source": "Fujitsu",
-      "Value £s": "6,000",
-      "Received": "06/11/2024",
-      "Registered": "03/12/2024",
-      "benefit_type": "Financial Benefits"
-    },
     {
       "Source": "Cloud NC",
       "Value £s": "2,880",
@@ -347,10 +348,24 @@
       "Received": "03/11/2025",
       "Registered": "06/11/2025",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "University of Cambridge",
+      "Value £s": "4,500",
+      "Received": "17/11/2025",
+      "Registered": "23/12/2025",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "JISC",
+      "Value £s": "7,200",
+      "Received": "01/12/2025",
+      "Registered": "23/12/2025",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/internet-communications-and-technology.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/internet-communications-and-technology.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

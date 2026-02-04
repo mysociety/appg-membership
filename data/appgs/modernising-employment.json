@@ -14,14 +14,6 @@
       "removed": false
     },
     {
-      "role": "Co-Chair",
-      "name": "Lord Lucas",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13301",
-      "mnis_id": "1879",
-      "removed": false
-    },
-    {
       "role": "Officer",
       "name": "Joe Robertson",
       "party": "Conservative",
@@ -31,10 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Amanda Hack",
+      "name": "Mr Richard Quigley",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26449",
-      "mnis_id": "5149",
+      "twfy_id": "uk.org.publicwhip/person/26373",
+      "mnis_id": "5144",
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Lord Lucas",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/13301",
+      "mnis_id": "1879",
       "removed": false
     }
   ],
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-11",
+    "date_of_most_recent_agm": "2025-12-14",
     "published_income_expenditure_statement": false,
     "reporting_year": "11 Sep to 10 Sep",
-    "next_reporting_deadline": "2026-01-11"
+    "next_reporting_deadline": "2027-01-11"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Wychwood Consulting Limited",
-      "Description": "Wychwood Consulting Limited is paid by Better Hiring Institute to act as the group's secretariat From: 11/09/2024 To: 10/09/2025",
-      "Value £s In bands of £1,500": "10,501-12,000",
-      "Received": "11/09/2024",
-      "Registered": "16/09/2024",
+      "Description": "Wychwood Consulting Limited is paid by Better Hiring Institute to act as the group's secretariat From: 11/09/2025 To: 10/09/2026",
+      "Value £s In bands of £1,500": "13,501-15,000",
+      "Received": "11/09/2025",
+      "Registered": "16/12/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/modernising-employment.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/modernising-employment.htm",
   "categories": [
     "Economy, Business & Industry"
   ]

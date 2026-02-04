@@ -41,9 +41,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://hospiceuk-files-prod.s3.eu-west-2.amazonaws.com/s3fs-public/2025-03/APPG%20membership-%20March%202025%20.pdf"
+      "https://hospiceuk-files-prod.s3.eu-west-2.amazonaws.com/s3fs-public/2026-01/APPG%20on%20Hospice%20and%20End%20of%20Life%20Care%20Membership.pdf"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Baroness Ilora Finlay",
@@ -51,7 +51,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Paulette Hamilton",
@@ -123,7 +123,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Steve Yemm",
@@ -388,6 +388,46 @@
         "mnis_id": "5157",
         "twfy_id": "uk.org.publicwhip/person/26429",
         "removed": false
+      },
+      {
+        "name": "Ilora Finlay",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Simon Opher",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5030",
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
+      },
+      {
+        "name": "Josh Newbury",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5034",
+        "twfy_id": "uk.org.publicwhip/person/26317",
+        "removed": false
+      },
+      {
+        "name": "Bambos Charalambous",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4610",
+        "twfy_id": "uk.org.publicwhip/person/25676",
+        "removed": false
+      },
+      {
+        "name": "Joe Robertson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5255",
+        "twfy_id": "uk.org.publicwhip/person/26504",
+        "removed": false
       }
     ]
   },
@@ -436,8 +476,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/hospice-and-end-of-life-care.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/hospice-and-end-of-life-care.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"

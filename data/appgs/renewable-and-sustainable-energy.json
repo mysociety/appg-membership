@@ -15,14 +15,6 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Lord Callanan",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25250",
-      "mnis_id": "4336",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Wera Hobhouse",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25648",
@@ -36,6 +28,14 @@
       "twfy_id": "uk.org.publicwhip/person/26542",
       "mnis_id": "5278",
       "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Callanan",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25250",
+      "mnis_id": "4336",
+      "removed": false
     }
   ],
   "members_list": {
@@ -44,7 +44,7 @@
       "https://renewables.inparliament.uk/people",
       "https://renewables.inparliament.uk/people/registered-members"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Polly Billington",
@@ -420,8 +420,8 @@
     "registered_contact_name": "Ms Polly Billington MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "polly.billington.mp@parliament.uk",
-    "public_enquiry_point_name": "Laura Douglas-Hamilton, PRASEG Ltd. Tel: 07715 691 556",
-    "public_enquiry_point_email": "info@praseg.org.uk",
+    "public_enquiry_point_name": "James Seabridge, PRASEG Ltd",
+    "public_enquiry_point_email": "appg@praseg.org.uk",
     "secretariat": "PRASEG Ltd acts as the group's secretariat.http://www.praseg.org.uk/",
     "website": {
       "status": "register",
@@ -429,24 +429,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-04",
+    "date_of_most_recent_agm": "2025-11-24",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Sep to 03 Sep",
-    "next_reporting_deadline": "2026-01-04"
+    "next_reporting_deadline": "2027-01-04"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "PRASEG Ltd",
-      "Description": "PRASEG Ltd is paid by the following to act as the group's secretariat: Bluestone Energy, EON, Drax, Cadent, National Grid, Cenergist, MCS Charitable Foundation From: 04/09/2024 To: 03/09/2025",
+      "Description": "PRASEG Ltd is paid by the following to act as the group's secretariat: ADE, Bluestone, Cadent, Drax, EON, Ørsted , Renewable UK, Solar Energy UK, and SAV Systems. From: 04/09/2025 To: 03/09/2026",
       "Value £s In bands of £1,500": "43,501-45,000",
-      "Received": "04/09/2024",
-      "Registered": "27/09/2024",
+      "Received": "04/09/2025",
+      "Registered": "16/12/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/renewable-and-sustainable-energy.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/renewable-and-sustainable-energy.htm",
   "categories": [
     "Energy & Utilities",
     "Environment, Climate & Sustainability"

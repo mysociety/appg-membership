@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.climatetechappg.co.uk/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Steve Race",
@@ -123,7 +123,7 @@
         "member_type": "mp",
         "mnis_id": "5126",
         "twfy_id": "uk.org.publicwhip/person/26374",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Adair Turner",
@@ -236,6 +236,14 @@
         "mnis_id": "5000",
         "twfy_id": "uk.org.publicwhip/person/26278",
         "removed": false
+      },
+      {
+        "name": "Polly Billington",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5123",
+        "twfy_id": "uk.org.publicwhip/person/26360",
+        "removed": false
       }
     ]
   },
@@ -268,8 +276,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/climatetech.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/climatetech.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Science, Technology & Innovation"

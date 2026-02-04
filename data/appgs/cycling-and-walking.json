@@ -41,12 +41,11 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://appgcw.org/members/committee/",
       "https://appgcw.org/members/mps/",
       "https://appgcw.org/members/peers/",
       "https://appgcw.org/members/associate-members/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Scott Arthur",
@@ -582,7 +581,7 @@
         "member_type": "mp",
         "mnis_id": "415",
         "twfy_id": "uk.org.publicwhip/person/10256",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Olly Glover",
@@ -590,7 +589,7 @@
         "member_type": "mp",
         "mnis_id": "5318",
         "twfy_id": "uk.org.publicwhip/person/26572",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Jamieson",
@@ -598,7 +597,7 @@
         "member_type": "lord",
         "mnis_id": "5019",
         "twfy_id": "uk.org.publicwhip/person/26299",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Andy Macnae",
@@ -606,7 +605,7 @@
         "member_type": "mp",
         "mnis_id": "5134",
         "twfy_id": "uk.org.publicwhip/person/26391",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Scott ARTHUR",
@@ -1663,29 +1662,13 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-23",
+    "date_of_most_recent_agm": "2025-12-17",
     "published_income_expenditure_statement": false,
     "reporting_year": "23 Jul to 22 Jul",
-    "next_reporting_deadline": "2025-11-23"
+    "next_reporting_deadline": "2026-11-23"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
-    {
-      "Source": "Lime",
-      "Description": "Reception",
-      "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "10/09/2024",
-      "Registered": "24/09/2024",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "Forest",
-      "Description": "Reception",
-      "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "10/09/2024",
-      "Registered": "24/09/2024",
-      "benefit_type": "Benefits In Kind"
-    },
     {
       "Source": "Forest",
       "Description": "Parliamentary Bike Ride",
@@ -1719,14 +1702,6 @@
       "benefit_type": "Benefits In Kind"
     },
     {
-      "Source": "Bikeability Trust",
-      "Description": "Sentencing report",
-      "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "12/05/2025",
-      "Registered": "19/05/2025",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
       "Source": "Forest",
       "Description": "Parliamentary Bike Ride",
       "Value £s In bands of £1,500": "1,501-3,000",
@@ -1751,16 +1726,48 @@
       "benefit_type": "Benefits In Kind"
     },
     {
+      "Source": "Bikeability Trust",
+      "Description": "E-bike Report (originally registered 19/05/2025)",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "12/05/2025",
+      "Registered": "24/12/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
       "Source": "Simon Bragg",
-      "Description": "Sentencing report",
+      "Description": "E-bike Report (originally registered 28/07/2025)",
       "Value £s In bands of £1,500": "4,501-6,000",
       "Received": "18/06/2025",
-      "Registered": "28/07/2025",
+      "Registered": "24/12/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Eurostar",
+      "Description": "Paris study tour",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "30/10/2025",
+      "Registered": "24/12/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Lime",
+      "Description": "Paris study tour",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "27/11/2025",
+      "Registered": "24/12/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Leigh Day",
+      "Description": "Sentencing Report",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "12/12/2025",
+      "Registered": "24/12/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/cycling-and-walking.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/cycling-and-walking.htm",
   "categories": [
     "Infrastructure, Transport & Mobility",
     "Environment, Climate & Sustainability"

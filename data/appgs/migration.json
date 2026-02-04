@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgmigration.org.uk/appg-on-migration-members/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "David Simmonds",
@@ -347,7 +347,7 @@
         "member_type": "lord",
         "mnis_id": "2685",
         "twfy_id": "uk.org.publicwhip/person/13662",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Stephen Timms",
@@ -372,6 +372,14 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
+      },
+      {
+        "name": "The Lord Dholakia",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2685",
+        "twfy_id": "uk.org.publicwhip/person/13662",
+        "removed": false
       }
     ]
   },
@@ -388,21 +396,13 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-10",
+    "date_of_most_recent_agm": "2025-11-26",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2026-01-10"
+    "next_reporting_deadline": "2027-01-10"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
-    {
-      "Source": "Refugee, Asylum and Migration Policy Project (RAMP)",
-      "Description": "Secretariat From: 10/09/2024 To: 09/09/2025",
-      "Value £s In bands of £1,500": "10,501-12,000",
-      "Received": "10/09/2024",
-      "Registered": "08/10/2024",
-      "benefit_type": "Benefits In Kind"
-    },
     {
       "Source": "Refugee, Asylum and Migration Policy Project (RAMP)",
       "Description": "Transportation food and translation service for five members during a visit to Calais to meet with French government officials. From: 12/06/2025 To: 12/06/2025",
@@ -410,10 +410,18 @@
       "Received": "12/06/2025",
       "Registered": "11/07/2025",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Refugee, Asylum and Migration Policy Project (RAMP)",
+      "Description": "Secretariat From: 10/09/2025 To: 09/09/2026",
+      "Value £s In bands of £1,500": "22,501-24,000",
+      "Received": "10/09/2025",
+      "Registered": "11/12/2025",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/migration.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/migration.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

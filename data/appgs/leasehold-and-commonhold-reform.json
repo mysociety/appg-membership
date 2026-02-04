@@ -7,26 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Joe Powell",
+      "name": "Justin Madders",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26477",
-      "mnis_id": "5229",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
-      "name": "Amanda Hack",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26449",
-      "mnis_id": "5149",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
-      "name": "Neil O'Brien",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25679",
-      "mnis_id": "4679",
+      "twfy_id": "uk.org.publicwhip/person/25378",
+      "mnis_id": "4418",
       "removed": false
     },
     {
@@ -35,6 +19,22 @@
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26608",
       "mnis_id": "5343",
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Lord Truscott",
+      "party": "Non-affiliated",
+      "twfy_id": "uk.org.publicwhip/person/12845",
+      "mnis_id": "3682",
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Neil O'Brien",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25679",
+      "mnis_id": "4679",
       "removed": false
     }
   ],
@@ -45,9 +45,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Joe Powell MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "joe.powell.mp@parliament.uk",
+    "registered_contact_name": "Justin Madders MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 6584.",
+    "registered_contact_email": "justin.madders.mp@parliament.uk",
     "public_enquiry_point_name": "Sebastian O’Kelly, Leasehold Knowledge Partnership. Tel: 07808 328 230",
     "public_enquiry_point_email": "sok@leaseholdknowledge.com",
     "secretariat": "Leasehold Knowledge Partnership acts as the group's secretariat.https://www.leaseholdknowledge.com/",
@@ -57,15 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-08",
+    "date_of_most_recent_agm": "2025-11-24",
     "published_income_expenditure_statement": false,
     "reporting_year": "08 Oct to 07 Oct",
-    "next_reporting_deadline": "2026-02-08"
+    "next_reporting_deadline": "2027-02-08"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/leasehold-and-commonhold-reform.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/leasehold-and-commonhold-reform.htm",
   "categories": [
     "Housing, Planning & Built Environment"
   ]

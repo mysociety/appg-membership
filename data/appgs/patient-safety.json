@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.patient-safety-watch.com/patient-safety-appg"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Jeremy Hunt",
@@ -67,7 +67,7 @@
         "member_type": "mp",
         "mnis_id": "4573",
         "twfy_id": "uk.org.publicwhip/person/25579",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bernard Jenkin",
@@ -75,6 +75,14 @@
         "member_type": "mp",
         "mnis_id": "40",
         "twfy_id": "uk.org.publicwhip/person/10312",
+        "removed": false
+      },
+      {
+        "name": "Rosena Allin-Khan",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4573",
+        "twfy_id": "uk.org.publicwhip/person/25579",
         "removed": false
       }
     ]
@@ -124,8 +132,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/patient-safety.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/patient-safety.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

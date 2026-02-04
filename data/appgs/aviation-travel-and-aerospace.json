@@ -15,18 +15,18 @@
     },
     {
       "role": "Officer",
-      "name": "Baroness Foster of Oxton",
-      "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Graeme Downie",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26503",
       "mnis_id": "5275",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Foster of Oxton",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-03",
+    "date_of_most_recent_agm": "2025-12-03",
     "published_income_expenditure_statement": false,
     "reporting_year": "03 Sep to 02 Sep",
-    "next_reporting_deadline": "2026-01-03"
+    "next_reporting_deadline": "2027-01-03"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Tendo Consulting",
-      "Description": "Tendo Consulting is paid by the following to act as the group's secretariat: ABTA, Airports UK, ADS, Gatwick Airport, Manchester Airport Group, IATA, Lanzajet, Ryanair From: 03/09/2024 To: 02/09/2025",
-      "Value £s In bands of £1,500": "36,001-37,500",
+      "Description": "Tendo Consulting is paid by the following to act as the group's secretariat: Airports UK, ABTA, ADS Group, Gatwick Airport, Manchester Airports Group (MAG), IATA, Lanzajet and Exolum. From: 03/09/2025 To: 02/09/2026",
+      "Value £s In bands of £1,500": "31,501-33,000",
       "Received": "03/09/2024",
-      "Registered": "02/05/2025",
+      "Registered": "15/12/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/aviation-travel-and-aerospace.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/aviation-travel-and-aerospace.htm",
   "categories": [
     "Infrastructure, Transport & Mobility",
     "Science, Technology & Innovation"

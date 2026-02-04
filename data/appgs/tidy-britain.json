@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.keepbritaintidy.org/tidy-britain-appg"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Deirdre Costigan",
@@ -59,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "4439",
         "twfy_id": "uk.org.publicwhip/person/25413",
-        "removed": true
+        "removed": false
       },
       {
         "name": "James Asser",
@@ -139,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Glenys Thornton",
@@ -147,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Gloria Hooper",
@@ -155,7 +155,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Mary Goudie",
@@ -163,7 +163,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Barry Gardiner",
@@ -588,6 +588,94 @@
         "mnis_id": "4602",
         "twfy_id": "uk.org.publicwhip/person/25648",
         "removed": false
+      },
+      {
+        "name": "Alex McIntyre",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5349",
+        "twfy_id": "uk.org.publicwhip/person/26434",
+        "removed": false
+      },
+      {
+        "name": "Andrew George",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "227",
+        "twfy_id": "uk.org.publicwhip/person/10222",
+        "removed": false
+      },
+      {
+        "name": "Baroness McIntosh of Pickering",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Coffey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4098",
+        "twfy_id": "uk.org.publicwhip/person/24771",
+        "removed": false
+      },
+      {
+        "name": "Baroness Thornton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1782",
+        "twfy_id": "uk.org.publicwhip/person/13543",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hooper",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2005",
+        "twfy_id": "uk.org.publicwhip/person/13081",
+        "removed": false
+      },
+      {
+        "name": "Baroness Goudie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3575",
+        "twfy_id": "uk.org.publicwhip/person/12915",
+        "removed": false
+      },
+      {
+        "name": "Matt Western",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4617",
+        "twfy_id": "uk.org.publicwhip/person/25701",
+        "removed": false
+      },
+      {
+        "name": "Samantha Niblett",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5150",
+        "twfy_id": "uk.org.publicwhip/person/26414",
+        "removed": false
+      },
+      {
+        "name": "Sarah Bool",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5355",
+        "twfy_id": "uk.org.publicwhip/person/26635",
+        "removed": false
+      },
+      {
+        "name": "Sir Alec Shelbrooke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3997",
+        "twfy_id": "uk.org.publicwhip/person/24893",
+        "removed": false
       }
     ]
   },
@@ -620,8 +708,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/tidy-britain.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/tidy-britain.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appg-race.com/members"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Clive Lewis",
@@ -83,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "4764",
         "twfy_id": "uk.org.publicwhip/person/25856",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Goudie",
@@ -228,6 +228,14 @@
         "mnis_id": "5120",
         "twfy_id": "uk.org.publicwhip/person/26364",
         "removed": false
+      },
+      {
+        "name": "Bell Ribeiro-Addy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4764",
+        "twfy_id": "uk.org.publicwhip/person/25856",
+        "removed": false
       }
     ]
   },
@@ -260,8 +268,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/race-and-community.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/race-and-community.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

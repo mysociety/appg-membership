@@ -15,14 +15,6 @@
     },
     {
       "role": "Co-Chair",
-      "name": "Baroness Verma",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13730",
-      "mnis_id": "3790",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
       "name": "Sarah Olney",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25596",
@@ -30,11 +22,19 @@
       "removed": false
     },
     {
-      "role": "Co-Chair",
+      "role": "Officer",
       "name": "Dan Aldridge",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26453",
       "mnis_id": "5172",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Verma",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/13730",
+      "mnis_id": "3790",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appgethnicbusiness.co.uk/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Dan Alridge",
@@ -340,6 +340,134 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
+      },
+      {
+        "name": "Paul Sweeny",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Josh Dean",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5187",
+        "twfy_id": "uk.org.publicwhip/person/26456",
+        "removed": false
+      },
+      {
+        "name": "Ian Byrne",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "4831",
+        "twfy_id": "uk.org.publicwhip/person/25816",
+        "removed": false
+      },
+      {
+        "name": "Jo Platt",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "4673",
+        "twfy_id": "uk.org.publicwhip/person/25611",
+        "removed": false
+      },
+      {
+        "name": "Bayo Alaba",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5097",
+        "twfy_id": "uk.org.publicwhip/person/26422",
+        "removed": false
+      },
+      {
+        "name": "Iqbal Mohamed",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5268",
+        "twfy_id": "uk.org.publicwhip/person/26620",
+        "removed": false
+      },
+      {
+        "name": "Charlotte Cane",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5182",
+        "twfy_id": "uk.org.publicwhip/person/26425",
+        "removed": false
+      },
+      {
+        "name": "Navendu Mishra",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "4811",
+        "twfy_id": "uk.org.publicwhip/person/25836",
+        "removed": false
+      },
+      {
+        "name": "Shockat Adam",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5120",
+        "twfy_id": "uk.org.publicwhip/person/26364",
+        "removed": false
+      },
+      {
+        "name": "Marie Tidball",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5098",
+        "twfy_id": "uk.org.publicwhip/person/26390",
+        "removed": false
+      },
+      {
+        "name": "Justin Madders",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "4418",
+        "twfy_id": "uk.org.publicwhip/person/25378",
+        "removed": false
+      },
+      {
+        "name": "Jamie Stone",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "4612",
+        "twfy_id": "uk.org.publicwhip/person/25668",
+        "removed": false
+      },
+      {
+        "name": "Laura Kyrjke-Smith",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Callum Anderson",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5193",
+        "twfy_id": "uk.org.publicwhip/person/26380",
+        "removed": false
+      },
+      {
+        "name": "Luke Charters",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5199",
+        "twfy_id": "uk.org.publicwhip/person/26480",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hussein-Ece",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4164",
+        "twfy_id": "uk.org.publicwhip/person/24983",
+        "removed": false
       }
     ]
   },
@@ -356,24 +484,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-23",
+    "date_of_most_recent_agm": "2025-11-24",
     "published_income_expenditure_statement": false,
     "reporting_year": "23 Oct to 22 Oct",
-    "next_reporting_deadline": "2026-02-23"
+    "next_reporting_deadline": "2027-02-23"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Ethnic Minority Business Network",
-      "Description": "Secretariat From: 23/10/2024 To: 22/10/2025",
+      "Description": "Secretariat From: 23/10/2025 To: 22/10/2026",
       "Value £s In bands of £1,500": "10,501-12,000",
-      "Received": "23/10/2024",
-      "Registered": "11/11/2024",
+      "Received": "23/10/2025",
+      "Registered": "15/12/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/ethnic-minority-business-owners.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/ethnic-minority-business-owners.htm",
   "categories": [
     "Economy, Business & Industry",
     "Human Rights, Equality & Social Justice"

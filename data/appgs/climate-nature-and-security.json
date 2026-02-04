@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appgclimsec.uk/members"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Barry Gardiner",
@@ -491,7 +491,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Robin Butler",
@@ -532,6 +532,14 @@
         "mnis_id": "1544",
         "twfy_id": "uk.org.publicwhip/person/11715",
         "removed": false
+      },
+      {
+        "name": "Anthony St John",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -548,24 +556,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-03",
+    "date_of_most_recent_agm": "2025-12-11",
     "published_income_expenditure_statement": false,
     "reporting_year": "03 Sep to 02 Sep",
-    "next_reporting_deadline": "2026-01-03"
+    "next_reporting_deadline": "2027-01-03"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Climate Change & (In)Security Project",
-      "Description": "Climate Change & (In)Security Project is paid by The Downforce Trust to act as the group's secretariat From: 03/09/2024 To: 02/09/2025",
-      "Value £s In bands of £1,500": "19,501-21,000",
-      "Received": "03/09/2024",
-      "Registered": "20/09/2024",
+      "Description": "Climate Change & (In)Security Project is paid by The Downforce Trust to act as the group's secretariat. From: 03/09/2025 To: 02/09/2026",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "03/09/2025",
+      "Registered": "18/12/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/climate-nature-and-security.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/climate-nature-and-security.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Justice, Law & Security"

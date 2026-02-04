@@ -15,10 +15,10 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Abtisam Mohamed",
+      "name": "Pam Cox",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26413",
-      "mnis_id": "5142",
+      "twfy_id": "uk.org.publicwhip/person/26324",
+      "mnis_id": "5042",
       "removed": false
     },
     {
@@ -41,10 +41,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://universityappg.co.uk/about-us/university-members",
-      "https://universityappg.co.uk/about/council"
+      "https://universityappg.co.uk/about/council",
+      "https://universityappg.co.uk/about-us/university-members"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "George Boyne",
@@ -1413,6 +1413,118 @@
         "mnis_id": "5142",
         "twfy_id": "uk.org.publicwhip/person/26413",
         "removed": false
+      },
+      {
+        "name": "Andrew Snowden",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5072",
+        "twfy_id": "uk.org.publicwhip/person/26347",
+        "removed": false
+      },
+      {
+        "name": "Professor Frances Corner",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Chris Day",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Stephen Decent",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Jenny Higham",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Max Lu",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Kathryn Mitchell",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Phil Taylor",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Sue Rigby",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Sally Wheeler",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Adam Tickell",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor George Holmes",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Shirley Congdon",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Andrew Lloyd",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -1429,15 +1541,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-10",
+    "date_of_most_recent_agm": "2025-12-16",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2026-01-10"
+    "next_reporting_deadline": "2027-01-10"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/university.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/university.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

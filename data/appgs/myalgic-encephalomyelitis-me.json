@@ -24,7 +24,7 @@
     {
       "role": "Officer",
       "name": "Lord Offord of Garvel",
-      "party": "Conservative",
+      "party": "Non-affiliated",
       "twfy_id": null,
       "mnis_id": null,
       "removed": false
@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgme.co.uk/who-we-are/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Jo Platt",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Debbie Abrahams",
@@ -83,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "4107",
         "twfy_id": "uk.org.publicwhip/person/24785",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Bethell",
@@ -91,7 +91,7 @@
         "member_type": "lord",
         "mnis_id": "4708",
         "twfy_id": "uk.org.publicwhip/person/25740",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Luke Charters",
@@ -187,7 +187,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Steve Race",
@@ -227,7 +227,7 @@
         "member_type": "lord",
         "mnis_id": "3651",
         "twfy_id": "uk.org.publicwhip/person/12839",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Paul Waugh",
@@ -332,6 +332,46 @@
         "mnis_id": "5208",
         "twfy_id": "uk.org.publicwhip/person/26482",
         "removed": false
+      },
+      {
+        "name": "Harriett Baldwin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4107",
+        "twfy_id": "uk.org.publicwhip/person/24785",
+        "removed": false
+      },
+      {
+        "name": "Bethell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Simon Opher",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5030",
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
+      },
+      {
+        "name": "Thomas",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3785",
+        "twfy_id": "uk.org.publicwhip/person/13728",
+        "removed": false
+      },
+      {
+        "name": "Triesman",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -355,8 +395,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/myalgic-encephalomyelitis-me.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/myalgic-encephalomyelitis-me.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

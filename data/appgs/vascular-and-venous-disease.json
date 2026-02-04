@@ -15,14 +15,6 @@
     },
     {
       "role": "Officer",
-      "name": "Peter Prinsley",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26383",
-      "mnis_id": "5163",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Matt Bishop",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26574",
@@ -43,7 +35,7 @@
     "source_url": [
       "https://www.vvappg.com/who-we-are"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Jim Shannon",
@@ -59,7 +51,7 @@
         "member_type": "mp",
         "mnis_id": "5163",
         "twfy_id": "uk.org.publicwhip/person/26383",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Matt Bishop",
@@ -67,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "5323",
         "twfy_id": "uk.org.publicwhip/person/26574",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Lansley CBE",
@@ -83,6 +75,22 @@
         "member_type": "lord",
         "mnis_id": "123",
         "twfy_id": "uk.org.publicwhip/person/10349",
+        "removed": false
+      },
+      {
+        "name": "The Lord Elliott of Ballinamallard",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Brian Leishman",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5196",
+        "twfy_id": "uk.org.publicwhip/person/26492",
         "removed": false
       }
     ]
@@ -116,8 +124,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/vascular-and-venous-disease.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/vascular-and-venous-disease.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

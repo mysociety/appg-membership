@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appg-globalgoals.org/members-1"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Wendy Chamberlain",
@@ -747,7 +747,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Stunell",
@@ -1028,6 +1028,14 @@
         "mnis_id": "4258",
         "twfy_id": "uk.org.publicwhip/person/25163",
         "removed": false
+      },
+      {
+        "name": "Bishop of Salisbury",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -1060,8 +1068,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/united-nations-global-goals.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/united-nations-global-goals.htm",
   "categories": [
     "International Affairs, Development & Trade"
   ]

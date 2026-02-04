@@ -43,7 +43,7 @@
     "source_url": [
       "https://lesssurvivablecancers.org.uk/all-party-parliamentary-group-on-less-survivable-cancers/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Paulette Hamilton",
@@ -203,7 +203,7 @@
         "member_type": "lord",
         "mnis_id": "3898",
         "twfy_id": "uk.org.publicwhip/person/24696",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Kamall",
@@ -292,6 +292,22 @@
         "mnis_id": "5001",
         "twfy_id": "uk.org.publicwhip/person/26277",
         "removed": false
+      },
+      {
+        "name": "Jim Dickson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5223",
+        "twfy_id": "uk.org.publicwhip/person/26547",
+        "removed": false
+      },
+      {
+        "name": "Terry Jermy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5338",
+        "twfy_id": "uk.org.publicwhip/person/26616",
+        "removed": false
       }
     ]
   },
@@ -324,8 +340,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/less-survivable-cancers.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/less-survivable-cancers.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

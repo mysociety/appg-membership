@@ -14,15 +14,15 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "Lord Balfe",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25209",
-      "mnis_id": "4302",
+      "role": "Officer",
+      "name": "Lisa Smart",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26556",
+      "mnis_id": "5070",
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Officer",
       "name": "Dr Ellie Chowns",
       "party": "Green Party",
       "twfy_id": "uk.org.publicwhip/person/26577",
@@ -30,11 +30,11 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "Lisa Smart",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26556",
-      "mnis_id": "5070",
+      "role": "Officer",
+      "name": "Lord Balfe",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25209",
+      "mnis_id": "4302",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.fairelections.uk/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Alex Sobel",
@@ -499,7 +499,7 @@
         "member_type": "mp",
         "mnis_id": "5264",
         "twfy_id": "uk.org.publicwhip/person/26522",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Josh Babarinde",
@@ -1348,6 +1348,22 @@
         "mnis_id": "4598",
         "twfy_id": "uk.org.publicwhip/person/25649",
         "removed": false
+      },
+      {
+        "name": "Shockat Adam",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5120",
+        "twfy_id": "uk.org.publicwhip/person/26364",
+        "removed": false
+      },
+      {
+        "name": "Jo Platt",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4673",
+        "twfy_id": "uk.org.publicwhip/person/25611",
+        "removed": false
       }
     ]
   },
@@ -1355,33 +1371,49 @@
     "registered_contact_name": "Alex Sobel MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 8295.",
     "registered_contact_email": "alex.sobel.mp@parliament.uk",
-    "public_enquiry_point_name": "Mark Kieran, Fair Vote. Tel: 07709 429931",
-    "public_enquiry_point_email": "mark@fairvote.uk",
-    "secretariat": "Fair Vote acts as the group's secretariat.https://www.fairvote.uk/",
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
     "website": {
-      "status": "search",
+      "status": "register",
       "url": "https://www.fairelections.uk/"
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-10",
+    "date_of_most_recent_agm": "2025-12-16",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2026-01-10"
+    "next_reporting_deadline": "2027-01-10"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Fair Vote",
-      "Description": "Fair Vote is paid by Open Britain to act as the group's secretariat From: 10/09/2024 To: 09/09/2025",
-      "Value £s In bands of £1,500": "36,001-37,500",
-      "Received": "10/09/2024",
-      "Registered": "27/05/2025",
+      "Description": "Fair Vote was paid by Open Britain to act as the group's secretariat for part of the reporting year. From: 10/09/2025 To: 16/12/2025",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "10/09/2025",
+      "Registered": "18/12/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Make Votes Matter",
+      "Description": "Public affairs, strategy and advocacy support From: 10/09/2025 To: 31/01/2026",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "10/09/2025",
+      "Registered": "18/12/2025",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Labour for a New Democracy",
+      "Description": "Public affairs, strategy and advocacy support From: 10/09/2025 To: 31/01/2026",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "10/09/2025",
+      "Registered": "18/12/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/fair-elections.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/fair-elections.htm",
   "categories": [
     "Governance, Democracy & Political Reform"
   ]

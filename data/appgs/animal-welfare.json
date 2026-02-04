@@ -41,10 +41,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://apgaw.org/about-apgaw/political-officers/",
-      "https://apgaw.org/apgaw-members/associate-members/"
+      "https://apgaw.org/apgaw-members/associate-members/",
+      "https://apgaw.org/about-apgaw/political-officers/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Dr Neil Hudson MP",
@@ -60,7 +60,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Danny Chambers MP",
@@ -372,7 +372,7 @@
         "member_type": "mp",
         "mnis_id": "227",
         "twfy_id": "uk.org.publicwhip/person/10222",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Emma Foody",
@@ -380,7 +380,7 @@
         "member_type": "mp",
         "mnis_id": "5029",
         "twfy_id": "uk.org.publicwhip/person/26311",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Sarah Dyke",
@@ -845,6 +845,22 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
+      },
+      {
+        "name": "Animal Behaviour and Training Council",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Trees",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4260",
+        "twfy_id": "uk.org.publicwhip/person/25162",
+        "removed": false
       }
     ]
   },
@@ -877,8 +893,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/animal-welfare.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/animal-welfare.htm",
   "categories": [
     "Animals & Animal Welfare"
   ]

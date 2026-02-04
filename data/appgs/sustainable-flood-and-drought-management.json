@@ -41,9 +41,11 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.ada.org.uk/events/appg/"
+      "https://www.ada.org.uk/events/appg/",
+      "https://www.ada.org.uk/wp-content/uploads/2025/01/APPG-Minutes-15-Jan-2025-Final.pdf",
+      "https://www.ada.org.uk/wp-content/uploads/2024/11/APPG-SFDM-09.10.2024-Minutes-Final.pdf"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Lee Pitcher",
@@ -67,7 +69,7 @@
         "member_type": "mp",
         "mnis_id": "4020",
         "twfy_id": "uk.org.publicwhip/person/24817",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Earl of Caithness",
@@ -75,6 +77,230 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dr Roz Savage",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5352",
+        "twfy_id": "uk.org.publicwhip/person/26603",
+        "removed": false
+      },
+      {
+        "name": "Jo White",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5105",
+        "twfy_id": "uk.org.publicwhip/person/26358",
+        "removed": false
+      },
+      {
+        "name": "Sarah Hall",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5154",
+        "twfy_id": "uk.org.publicwhip/person/26416",
+        "removed": false
+      },
+      {
+        "name": "Matt Cowley",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Catherine",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tim Davis",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Linda Greg",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tim",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Pippa Heylings",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5078",
+        "twfy_id": "uk.org.publicwhip/person/26421",
+        "removed": false
+      },
+      {
+        "name": "Kevin McKenna",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5300",
+        "twfy_id": "uk.org.publicwhip/person/26529",
+        "removed": false
+      },
+      {
+        "name": "Jo White",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5105",
+        "twfy_id": "uk.org.publicwhip/person/26358",
+        "removed": false
+      },
+      {
+        "name": "Claire Young",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5140",
+        "twfy_id": "uk.org.publicwhip/person/26458",
+        "removed": false
+      },
+      {
+        "name": "Simon Opher",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5030",
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
+      },
+      {
+        "name": "Leigh Ingham",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5290",
+        "twfy_id": "uk.org.publicwhip/person/26392",
+        "removed": false
+      },
+      {
+        "name": "Julia Buckley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5171",
+        "twfy_id": "uk.org.publicwhip/person/26436",
+        "removed": false
+      },
+      {
+        "name": "Maya Ellis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5228",
+        "twfy_id": "uk.org.publicwhip/person/26479",
+        "removed": false
+      },
+      {
+        "name": "Ben Obese-Jecty",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5089",
+        "twfy_id": "uk.org.publicwhip/person/26354",
+        "removed": false
+      },
+      {
+        "name": "Julie Minns",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5094",
+        "twfy_id": "uk.org.publicwhip/person/26403",
+        "removed": false
+      },
+      {
+        "name": "Samantha Niblett",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5150",
+        "twfy_id": "uk.org.publicwhip/person/26414",
+        "removed": false
+      },
+      {
+        "name": "Lucy Rigby",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5333",
+        "twfy_id": "uk.org.publicwhip/person/26596",
+        "removed": false
+      },
+      {
+        "name": "Allison Gardner",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5334",
+        "twfy_id": "uk.org.publicwhip/person/26621",
+        "removed": false
+      },
+      {
+        "name": "Blake Stephenson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5100",
+        "twfy_id": "uk.org.publicwhip/person/26355",
+        "removed": false
+      },
+      {
+        "name": "Sarah Green",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4918",
+        "twfy_id": "uk.org.publicwhip/person/26034",
+        "removed": false
+      },
+      {
+        "name": "Joy Morrissey",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4759",
+        "twfy_id": "uk.org.publicwhip/person/25878",
+        "removed": false
+      },
+      {
+        "name": "Patrick Spencer",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5303",
+        "twfy_id": "uk.org.publicwhip/person/26579",
+        "removed": false
+      },
+      {
+        "name": "Sarah Dyke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4995",
+        "twfy_id": "uk.org.publicwhip/person/26270",
+        "removed": false
+      },
+      {
+        "name": "Jess Brown-Fuller",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5335",
+        "twfy_id": "uk.org.publicwhip/person/26372",
+        "removed": false
+      },
+      {
+        "name": "Bill Esterson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4061",
+        "twfy_id": "uk.org.publicwhip/person/24905",
         "removed": false
       }
     ]
@@ -108,8 +334,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/sustainable-flood-and-drought-management.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/sustainable-flood-and-drought-management.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Infrastructure, Transport & Mobility"

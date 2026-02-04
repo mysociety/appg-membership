@@ -7,14 +7,22 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Torcuil Crichton",
+      "name": "Chris Kane",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26500",
-      "mnis_id": "5246",
+      "twfy_id": "uk.org.publicwhip/person/26415",
+      "mnis_id": "5155",
       "removed": false
     },
     {
-      "role": "Co-Chair",
+      "role": "Vice Chair",
+      "name": "John Cooper",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26634",
+      "mnis_id": "5358",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
       "name": "Baroness Bonham-Carter of Yarnbury",
       "party": "Liberal Democrat",
       "twfy_id": null,
@@ -23,18 +31,10 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Baroness Thornton",
+      "name": "Torcuil Crichton",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/13543",
-      "mnis_id": "1782",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Mr Richard Holden",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25893",
-      "mnis_id": "4813",
+      "twfy_id": "uk.org.publicwhip/person/26500",
+      "mnis_id": "5246",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appgmedia.org/members"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Torcuil Crichton",
@@ -187,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hamwee",
@@ -243,7 +243,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Watts",
@@ -315,7 +315,7 @@
         "member_type": "mp",
         "mnis_id": "5126",
         "twfy_id": "uk.org.publicwhip/person/26374",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Stowell of Beeston",
@@ -332,13 +332,53 @@
         "mnis_id": "4098",
         "twfy_id": "uk.org.publicwhip/person/24771",
         "removed": false
+      },
+      {
+        "name": "Chris Kane",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5155",
+        "twfy_id": "uk.org.publicwhip/person/26415",
+        "removed": false
+      },
+      {
+        "name": "John Cooper",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5358",
+        "twfy_id": "uk.org.publicwhip/person/26634",
+        "removed": false
+      },
+      {
+        "name": "Lord Brennan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1400",
+        "twfy_id": "uk.org.publicwhip/person/10753",
+        "removed": false
+      },
+      {
+        "name": "Lord Pannick",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3870",
+        "twfy_id": "uk.org.publicwhip/person/14143",
+        "removed": false
+      },
+      {
+        "name": "Bob Blackman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4005",
+        "twfy_id": "uk.org.publicwhip/person/24945",
+        "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Torcuil Crichton MP",
+    "registered_contact_name": "Chris Kane MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "torcuil.crichton.mp@parliament.uk",
+    "registered_contact_email": "chris.kane.mp@parliament.uk",
     "public_enquiry_point_name": "Ella Harvey, Whitehouse Communications Ltd",
     "public_enquiry_point_email": "ella.harvey@whitehousecomms.com",
     "secretariat": "Whitehouse Communications Ltd acts as the group's secretariat.https://whitehousecomms.com/",
@@ -348,24 +388,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-10",
+    "date_of_most_recent_agm": "2025-12-03",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2026-01-10"
+    "next_reporting_deadline": "2027-01-10"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Whitehouse Communications Ltd",
-      "Description": "Whitehouse Communications Ltd is funded by the following to act as the group's secretariat: Global, NewsNow, News UK, ScreenSkills, Bauer Media, Pact, All3Media, Small Green Shoots and Taylor-Wessing From: 10/09/2024 To: 09/09/2025",
-      "Value £s In bands of £1,500": "28,501-30,000",
-      "Received": "10/09/2024",
-      "Registered": "10/09/2024",
+      "Description": "Whitehouse Communications Ltd is funded by the following to act as the group's secretariat: Global, News UK, ScreenSkills, Bauer Media, Pact and Public Interest News Foundation. From: 10/09/2025 To: 09/09/2026",
+      "Value £s In bands of £1,500": "27,001-28,500",
+      "Received": "10/09/2025",
+      "Registered": "04/12/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/media.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/media.htm",
   "categories": [
     "Arts, Culture, Heritage & Media"
   ]

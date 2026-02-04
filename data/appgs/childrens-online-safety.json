@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.childrensonlinesafetyappg.org/about"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Gregor Poynton",
@@ -51,7 +51,7 @@
         "member_type": "mp",
         "mnis_id": "5167",
         "twfy_id": "uk.org.publicwhip/person/26428",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Monica Harding",
@@ -203,7 +203,7 @@
         "member_type": "mp",
         "mnis_id": "5119",
         "twfy_id": "uk.org.publicwhip/person/26404",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sojan Joseph",
@@ -211,7 +211,7 @@
         "member_type": "mp",
         "mnis_id": "5247",
         "twfy_id": "uk.org.publicwhip/person/26578",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Knight of Weymouth",
@@ -283,7 +283,7 @@
         "member_type": "mp",
         "mnis_id": "5079",
         "twfy_id": "uk.org.publicwhip/person/26418",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Vikki Slade",
@@ -331,6 +331,30 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Baroness Boycott",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4704",
+        "twfy_id": "uk.org.publicwhip/person/25735",
+        "removed": false
+      },
+      {
+        "name": "Sarah Hall",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5154",
+        "twfy_id": "uk.org.publicwhip/person/26416",
+        "removed": false
+      },
+      {
+        "name": "Damian Hinds",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3969",
+        "twfy_id": "uk.org.publicwhip/person/24782",
         "removed": false
       }
     ]
@@ -364,8 +388,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/childrens-online-safety.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/childrens-online-safety.htm",
   "categories": [
     "Education, Skills & Youth",
     "Science, Technology & Innovation",

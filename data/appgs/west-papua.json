@@ -23,165 +23,26 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Alex Ballinger",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26580",
-      "mnis_id": "5238",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Lord Lexden",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25030",
       "mnis_id": "4202",
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Anneliese Dodds",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/25618",
+      "mnis_id": "4657",
+      "removed": false
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.ipwp.org/uk-all-party-parliamentary-group-appg-on-west-papua/"
-    ],
-    "last_updated": "2025-10-20",
-    "members": [
-      {
-        "name": "Alex Sobel",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4658",
-        "twfy_id": "uk.org.publicwhip/person/25680",
-        "removed": false
-      },
-      {
-        "name": "Anneliese Dodds",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4657",
-        "twfy_id": "uk.org.publicwhip/person/25618",
-        "removed": false
-      },
-      {
-        "name": "Lord Harries of Pentregarth",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord Lexden",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "4202",
-        "twfy_id": "uk.org.publicwhip/person/25030",
-        "removed": false
-      },
-      {
-        "name": "John Howell",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "1606",
-        "twfy_id": "uk.org.publicwhip/person/14131",
-        "removed": false
-      },
-      {
-        "name": "Dr Alan Whitehead",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "62",
-        "twfy_id": "uk.org.publicwhip/person/10630",
-        "removed": false
-      },
-      {
-        "name": "Lloyd Russell-Moyle",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4615",
-        "twfy_id": "uk.org.publicwhip/person/25667",
-        "removed": false
-      },
-      {
-        "name": "Caroline Lucas",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "3930",
-        "twfy_id": "uk.org.publicwhip/person/24910",
-        "removed": false
-      },
-      {
-        "name": "Jonathan Edwards",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "3943",
-        "twfy_id": "uk.org.publicwhip/person/24743",
-        "removed": false
-      },
-      {
-        "name": "Catherine West",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4523",
-        "twfy_id": "uk.org.publicwhip/person/25328",
-        "removed": false
-      },
-      {
-        "name": "Nick Brown",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "523",
-        "twfy_id": "uk.org.publicwhip/person/10069",
-        "removed": false
-      },
-      {
-        "name": "Colleen Fletcher",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4378",
-        "twfy_id": "uk.org.publicwhip/person/25319",
-        "removed": false
-      },
-      {
-        "name": "Robert Courts",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4589",
-        "twfy_id": "uk.org.publicwhip/person/25593",
-        "removed": false
-      },
-      {
-        "name": "Martyn Day",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4488",
-        "twfy_id": "uk.org.publicwhip/person/25307",
-        "removed": false
-      },
-      {
-        "name": "Patrick Grady",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4432",
-        "twfy_id": "uk.org.publicwhip/person/25299",
-        "removed": false
-      },
-      {
-        "name": "Munira Wilson",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4776",
-        "twfy_id": "uk.org.publicwhip/person/25820",
-        "removed": false
-      },
-      {
-        "name": "Layla Moran",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4656",
-        "twfy_id": "uk.org.publicwhip/person/25689",
-        "removed": false
-      }
-    ]
+    "source_method": "empty",
+    "source_url": [],
+    "last_updated": null,
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Alex Sobel MP",
@@ -196,15 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-10",
+    "date_of_most_recent_agm": "2025-12-16",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2026-01-10"
+    "next_reporting_deadline": "2027-01-10"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/west-papua.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/west-papua.htm",
   "categories": [
     "Country Group"
   ]

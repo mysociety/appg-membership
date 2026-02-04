@@ -7,14 +7,6 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Munira Wilson",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25820",
-      "mnis_id": "4776",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
       "name": "Jess Asato",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26386",
@@ -23,10 +15,10 @@
     },
     {
       "role": "Officer",
-      "name": "Baroness Verma",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13730",
-      "mnis_id": "3790",
+      "name": "Sarah Russell",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26571",
+      "mnis_id": "5324",
       "removed": false
     },
     {
@@ -36,12 +28,20 @@
       "twfy_id": null,
       "mnis_id": null,
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Verma",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/13730",
+      "mnis_id": "3790",
+      "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-12-08",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Jess Asato (co-chair)",
@@ -374,11 +374,11 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Munira Wilson MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 6474.",
-    "registered_contact_email": "munira.wilson.mp@parliament.uk",
-    "public_enquiry_point_name": "Laura Anderson, National Children's Bureau. Tel: 07521 194461",
-    "public_enquiry_point_email": "landerson@ncb.org.uk",
+    "registered_contact_name": "Jess Asato MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "jess.asato.mp@parliament.uk",
+    "public_enquiry_point_name": "Nadia Hafedh, National Children's Bureau",
+    "public_enquiry_point_email": "nhafedh@ncb.org.uk",
     "secretariat": "National Children's Bureau acts as the group's secretariat.https://www.ncb.org.uk/",
     "website": {
       "status": "register",
@@ -386,24 +386,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-21",
+    "date_of_most_recent_agm": "2025-11-19",
     "published_income_expenditure_statement": false,
     "reporting_year": "21 Oct to 20 Oct",
-    "next_reporting_deadline": "2026-02-21"
+    "next_reporting_deadline": "2027-02-21"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "National Children's Bureau",
-      "Description": "Secretariat From: 21/10/2024 To: 20/10/2025",
-      "Value £s In bands of £1,500": "13,501-15,000",
-      "Received": "21/10/2024",
-      "Registered": "19/11/2024",
+      "Description": "Secretariat From: 21/10/2025 To: 20/10/2026",
+      "Value £s In bands of £1,500": "19,501-21,000",
+      "Received": "21/10/2025",
+      "Registered": "02/12/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/children.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/children.htm",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Education, Skills & Youth"

@@ -7,22 +7,14 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Rosie Wrighting",
+      "name": "Feryal Clark",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26615",
-      "mnis_id": "5331",
+      "twfy_id": "uk.org.publicwhip/person/25896",
+      "mnis_id": "4822",
       "removed": false
     },
     {
-      "role": "Officer",
-      "name": "Tom Rutland",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26467",
-      "mnis_id": "5222",
-      "removed": false
-    },
-    {
-      "role": "Officer",
+      "role": "Co-Chair",
       "name": "Lord Vaizey of Didcot",
       "party": "Conservative",
       "twfy_id": null,
@@ -36,15 +28,22 @@
       "twfy_id": "uk.org.publicwhip/person/26396",
       "mnis_id": "5118",
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Chris Bloore",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26357",
+      "mnis_id": "5109",
+      "removed": false
     }
   ],
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://digitalcommunities.inparliament.uk/appg-membership",
-      "https://digitalcommunities.inparliament.uk/people"
+      "https://digitalcommunities.inparliament.uk/appg-membership"
     ],
-    "last_updated": "2025-12-08",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Alison Taylor",
@@ -164,7 +163,7 @@
         "member_type": "mp",
         "mnis_id": "4742",
         "twfy_id": "uk.org.publicwhip/person/25818",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Taylor of Warwick",
@@ -404,7 +403,7 @@
         "member_type": "mp",
         "mnis_id": "4934",
         "twfy_id": "uk.org.publicwhip/person/26056",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Viscount Camrose",
@@ -412,7 +411,7 @@
         "member_type": "lord",
         "mnis_id": "4939",
         "twfy_id": "uk.org.publicwhip/person/26062",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Richard Baker",
@@ -420,14 +419,14 @@
         "member_type": "mp",
         "mnis_id": "5253",
         "twfy_id": "uk.org.publicwhip/person/13952",
-        "removed": false
+        "removed": true
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Rosie Wrighting MP",
+    "registered_contact_name": "Feryal Clark MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "rosie.wrighting.mp@parliament.uk",
+    "registered_contact_email": "feryal.clark.mp@parliament.uk",
     "public_enquiry_point_name": "Phil Hughes, Digital Creators Association. Tel: 020 7240 7338",
     "public_enquiry_point_email": "youtube@inhouse.london",
     "secretariat": "The Digital Creators Association and Influencer Marketing Trade Body jointly act as the group's secretariat.https://www.digitalcreatorassociation.com/andhttps://imtb.org.uk/",
@@ -461,8 +460,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/digital-creators.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/digital-creators.htm",
   "categories": [
     "Economy, Business & Industry",
     "Arts, Culture, Heritage & Media",

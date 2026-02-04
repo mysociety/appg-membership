@@ -6,6 +6,14 @@
   "parliament": "uk",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Danny Beales",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26619",
+      "mnis_id": "5339",
+      "removed": false
+    },
+    {
       "role": "Officer",
       "name": "Iqbal Mohamed",
       "party": "Independent",
@@ -37,9 +45,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Danny Beales MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "danny.beales.mp@parliament.uk",
     "public_enquiry_point_name": "Celia Miray Yesil, RPP Group. Tel: 07513 821 796",
     "public_enquiry_point_email": "ammdappg@rpp-group.com",
     "secretariat": "RPP Group acts as the group's secretariat.https://rpp-group.com/",
@@ -54,19 +62,25 @@
     "reporting_year": "20 May to 19 May",
     "next_reporting_deadline": "2026-09-20"
   },
-  "registrable_benefits": "Benefits In Kind",
+  "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {
-      "Source": "RPP Group",
-      "Description": "Secretariat From: 20/05/2025 To: 19/05/2026",
-      "Value £s In bands of £1,500": "60,001-61,500",
-      "Received": "20/05/2025",
-      "Registered": "17/06/2025",
-      "benefit_type": "Benefits In Kind"
+      "Source": "Regeneron Pharmaceuticals Inc",
+      "Value £s": "15,000",
+      "Received": "05/09/2025",
+      "Registered": "12/01/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "AbbVie Ltd",
+      "Value £s": "15,000",
+      "Received": "18/12/2025",
+      "Registered": "12/01/2026",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/access-to-medicines-and-medical-devices.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/access-to-medicines-and-medical-devices.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

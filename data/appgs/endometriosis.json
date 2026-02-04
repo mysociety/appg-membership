@@ -41,9 +41,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.endometriosis-uk.org/sites/default/files/2025-07/APPG%20List%20of%20Members%20July%202025.pdf"
+      "https://www.endometriosis-uk.org/all-party-parliamentary-group-endometriosis",
+      "https://www.endometriosis-uk.org/sites/default/files/2025-12/APPG%20Parliamentary%20Members%20Dec%202025%20%281%29.pdf"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Bell Ribeiro-Addy",
@@ -91,7 +92,7 @@
         "member_type": "lord",
         "mnis_id": "615",
         "twfy_id": "uk.org.publicwhip/person/10074",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Golding",
@@ -115,7 +116,7 @@
         "member_type": "mp",
         "mnis_id": "4179",
         "twfy_id": "uk.org.publicwhip/person/25004",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bennett",
@@ -123,7 +124,7 @@
         "member_type": "mp",
         "mnis_id": "4719",
         "twfy_id": "uk.org.publicwhip/person/25776",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ruth Jones",
@@ -171,7 +172,7 @@
         "member_type": "mp",
         "mnis_id": "5337",
         "twfy_id": "uk.org.publicwhip/person/26609",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Josh Fenton-Glynn",
@@ -291,6 +292,54 @@
         "member_type": "mp",
         "mnis_id": "5126",
         "twfy_id": "uk.org.publicwhip/person/26374",
+        "removed": true
+      },
+      {
+        "name": "Lord Bruce of Bennachie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Healy of Primrose Hill",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Bennett of Manor Castle",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Polly Billington",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5123",
+        "twfy_id": "uk.org.publicwhip/person/26360",
+        "removed": false
+      },
+      {
+        "name": "Elsie Blundell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5084",
+        "twfy_id": "uk.org.publicwhip/person/26481",
+        "removed": false
+      },
+      {
+        "name": "Graham Stuart",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1482",
+        "twfy_id": "uk.org.publicwhip/person/11406",
         "removed": false
       }
     ]
@@ -315,8 +364,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/endometriosis.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/endometriosis.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

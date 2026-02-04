@@ -14,230 +14,35 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "Gideon Amos",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26531",
-      "mnis_id": "5250",
+      "role": "Officer",
+      "name": "Lord Bethell",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25740",
+      "mnis_id": "4708",
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Officer",
       "name": "Jenny Riddell-Carpenter",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26472",
       "mnis_id": "5160",
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Gideon Amos",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26531",
+      "mnis_id": "5250",
+      "removed": false
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://healthyhomesbuildings.org.uk/who-we-are/"
-    ],
-    "last_updated": "2025-10-20",
-    "members": [
-      {
-        "name": "Jim Shannon",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4131",
-        "twfy_id": "uk.org.publicwhip/person/13864",
-        "removed": false
-      },
-      {
-        "name": "Lord Haselhurst",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "43",
-        "twfy_id": "uk.org.publicwhip/person/10263",
-        "removed": true
-      },
-      {
-        "name": "Jenny Riddell-Carpenter",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5160",
-        "twfy_id": "uk.org.publicwhip/person/26472",
-        "removed": false
-      },
-      {
-        "name": "Gideon Amos",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5250",
-        "twfy_id": "uk.org.publicwhip/person/26531",
-        "removed": false
-      },
-      {
-        "name": "Shockat Adam",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5120",
-        "twfy_id": "uk.org.publicwhip/person/26364",
-        "removed": false
-      },
-      {
-        "name": "Bayo Alaba",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5097",
-        "twfy_id": "uk.org.publicwhip/person/26422",
-        "removed": false
-      },
-      {
-        "name": "Jess Asato",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5156",
-        "twfy_id": "uk.org.publicwhip/person/26386",
-        "removed": false
-      },
-      {
-        "name": "Lord Best",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "3605",
-        "twfy_id": "uk.org.publicwhip/person/13507",
-        "removed": false
-      },
-      {
-        "name": "Dr Beccy Cooper",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5307",
-        "twfy_id": "uk.org.publicwhip/person/26515",
-        "removed": false
-      },
-      {
-        "name": "Charlotte Cane",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5182",
-        "twfy_id": "uk.org.publicwhip/person/26425",
-        "removed": false
-      },
-      {
-        "name": "Lee Dillon",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5310",
-        "twfy_id": "uk.org.publicwhip/person/26584",
-        "removed": false
-      },
-      {
-        "name": "Neil Duncan-Jordan",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5359",
-        "twfy_id": "uk.org.publicwhip/person/26633",
-        "removed": false
-      },
-      {
-        "name": "Lord Foster of Bath",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Mary Glindon",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4126",
-        "twfy_id": "uk.org.publicwhip/person/24927",
-        "removed": false
-      },
-      {
-        "name": "Amanda Hack",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5149",
-        "twfy_id": "uk.org.publicwhip/person/26449",
-        "removed": false
-      },
-      {
-        "name": "Sharon Hodgson",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "1521",
-        "twfy_id": "uk.org.publicwhip/person/11592",
-        "removed": false
-      },
-      {
-        "name": "Richard Quigley",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5144",
-        "twfy_id": "uk.org.publicwhip/person/26373",
-        "removed": false
-      },
-      {
-        "name": "Rachael Maskell",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4471",
-        "twfy_id": "uk.org.publicwhip/person/25433",
-        "removed": false
-      },
-      {
-        "name": "Margaret Mullane",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5272",
-        "twfy_id": "uk.org.publicwhip/person/26495",
-        "removed": false
-      },
-      {
-        "name": "Tessa Munt",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4089",
-        "twfy_id": "uk.org.publicwhip/person/24942",
-        "removed": false
-      },
-      {
-        "name": "Manuela Perteghella",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5122",
-        "twfy_id": "uk.org.publicwhip/person/26569",
-        "removed": false
-      },
-      {
-        "name": "Dr Al Pinkerton",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5288",
-        "twfy_id": "uk.org.publicwhip/person/26593",
-        "removed": false
-      },
-      {
-        "name": "Baroness Prashar",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "2476",
-        "twfy_id": "uk.org.publicwhip/person/13071",
-        "removed": false
-      },
-      {
-        "name": "Mike Reader",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5316",
-        "twfy_id": "uk.org.publicwhip/person/26630",
-        "removed": false
-      },
-      {
-        "name": "Lord Bethell",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "4708",
-        "twfy_id": "uk.org.publicwhip/person/25740",
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-02-04",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Jim Shannon MP",
@@ -252,15 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-14",
+    "date_of_most_recent_agm": "2025-12-09",
     "published_income_expenditure_statement": false,
     "reporting_year": "14 Oct to 13 Oct",
-    "next_reporting_deadline": "2026-02-14"
+    "next_reporting_deadline": "2027-02-14"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/healthy-homes-and-buildings.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Healthy Homes and Buildings Coalition (via Jade Advocacy Limited)",
+      "Description": "Secretariat From: 14/10/2025 To: 13/10/2026",
+      "Value £s In bands of £1,500": "57,001-58,500",
+      "Received": "14/10/2025",
+      "Registered": "23/12/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/healthy-homes-and-buildings.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Housing, Planning & Built Environment"

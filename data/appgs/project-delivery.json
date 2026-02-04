@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appgprojectdelivery.org/officers-and-members"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Henry Tufnell",
@@ -331,7 +331,7 @@
         "member_type": "mp",
         "mnis_id": "5067",
         "twfy_id": "uk.org.publicwhip/person/26346",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Shockat Adam",
@@ -355,6 +355,14 @@
         "member_type": "mp",
         "mnis_id": "4131",
         "twfy_id": "uk.org.publicwhip/person/13864",
+        "removed": false
+      },
+      {
+        "name": "Tony Vaughan KC",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5067",
+        "twfy_id": "uk.org.publicwhip/person/26346",
         "removed": false
       }
     ]
@@ -388,8 +396,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/project-delivery.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/project-delivery.htm",
   "categories": [
     "Infrastructure, Transport & Mobility"
   ]

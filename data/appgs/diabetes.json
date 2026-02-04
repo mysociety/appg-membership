@@ -43,7 +43,7 @@
     "source_url": [
       "https://diabetesappg.wordpress.com/about/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Tom Gordon",
@@ -83,7 +83,7 @@
         "member_type": "lord",
         "mnis_id": "2484",
         "twfy_id": "uk.org.publicwhip/person/13277",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Shockat Adam",
@@ -155,7 +155,7 @@
         "member_type": "lord",
         "mnis_id": "4300",
         "twfy_id": "uk.org.publicwhip/person/25202",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Christine Jardine",
@@ -276,6 +276,38 @@
         "mnis_id": "5216",
         "twfy_id": "uk.org.publicwhip/person/26511",
         "removed": false
+      },
+      {
+        "name": "The Lord Rennard",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "2484",
+        "twfy_id": "uk.org.publicwhip/person/13277",
+        "removed": false
+      },
+      {
+        "name": "The Baroness Humphreys",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Rennard",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2484",
+        "twfy_id": "uk.org.publicwhip/person/13277",
+        "removed": false
+      },
+      {
+        "name": "Luke Akehurst",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5112",
+        "twfy_id": "uk.org.publicwhip/person/26420",
+        "removed": false
       }
     ]
   },
@@ -316,8 +348,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/diabetes.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/diabetes.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

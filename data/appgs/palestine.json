@@ -7,26 +7,18 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Debbie Abrahams",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25034",
-      "mnis_id": "4212",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
-      "name": "Baroness Warsi",
-      "party": "Non-affiliated",
-      "twfy_id": "uk.org.publicwhip/person/13937",
-      "mnis_id": "3839",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Andy McDonald",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25169",
       "mnis_id": "4269",
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Debbie Abrahams",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25034",
+      "mnis_id": "4212",
       "removed": false
     },
     {
@@ -36,12 +28,20 @@
       "twfy_id": "uk.org.publicwhip/person/26413",
       "mnis_id": "5142",
       "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Baroness Morris of Bolton",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2025-12-08",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Diane Abbott",
@@ -838,9 +838,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Debbie Abrahams MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 1041.",
-    "registered_contact_email": "abrahamsd@parliament.uk",
+    "registered_contact_name": "Andy McDonald MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 4995.",
+    "registered_contact_email": "andy.mcdonald.2nd@parliament.uk",
     "public_enquiry_point_name": "Joseph Willits, Caabu (Council for Arab-British Understanding). Tel: 0207 832 1325",
     "public_enquiry_point_email": "willitsj@caabu.org",
     "secretariat": "Caabu  acts as the group's secretariat.https://www.caabu.org/",
@@ -850,15 +850,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-05",
+    "date_of_most_recent_agm": "2025-12-16",
     "published_income_expenditure_statement": false,
     "reporting_year": "05 Sep to 04 Sep",
-    "next_reporting_deadline": "2026-01-05"
+    "next_reporting_deadline": "2027-01-05"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/palestine.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/palestine.htm",
   "categories": [
     "Country Group"
   ]

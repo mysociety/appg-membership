@@ -7,10 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "James Naish",
+      "name": "Jo White",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26329",
-      "mnis_id": "5047",
+      "twfy_id": "uk.org.publicwhip/person/26358",
+      "mnis_id": "5105",
       "removed": false
     },
     {
@@ -23,10 +23,10 @@
     },
     {
       "role": "Officer",
-      "name": "Jo White",
+      "name": "James Naish",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26358",
-      "mnis_id": "5105",
+      "twfy_id": "uk.org.publicwhip/person/26329",
+      "mnis_id": "5047",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://fusionenergyappg.co.uk/about-us/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "James Naish",
@@ -243,7 +243,7 @@
         "member_type": "mp",
         "mnis_id": "5126",
         "twfy_id": "uk.org.publicwhip/person/26374",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jamie Stone",
@@ -260,13 +260,21 @@
         "mnis_id": "4286",
         "twfy_id": "uk.org.publicwhip/person/25189",
         "removed": false
+      },
+      {
+        "name": "Olly Glover",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5318",
+        "twfy_id": "uk.org.publicwhip/person/26572",
+        "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "James Naish MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0115 646 6404.",
-    "registered_contact_email": "james.naish.mp@parliament.uk",
+    "registered_contact_name": "Jo White MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "jo.white.mp@parliament.uk",
     "public_enquiry_point_name": "Valerie Jamieson, The Fusion Cluster. Tel: 07788448478",
     "public_enquiry_point_email": "valerie.jamieson@ukaea.uk",
     "secretariat": "The Fusion Cluster acts as the group's secretariat.https://thefusioncluster.com/",
@@ -276,24 +284,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-07-23",
+    "date_of_most_recent_agm": "2025-12-02",
     "published_income_expenditure_statement": false,
     "reporting_year": "23 Jul to 22 Jul",
-    "next_reporting_deadline": "2025-11-23"
+    "next_reporting_deadline": "2026-11-23"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "The Fusion Cluster",
-      "Description": "The Fusion Cluster acts as the group's secretariat and pays Henham Strategy to help them fulfil this role From : 23/07/2024 To  : 22/07/2025",
-      "Value £s In bands of £1,500": "49,501-51,000",
+      "Description": "The Fusion Cluster acts as the group's secretariat and pays Henham Strategy to help them fulfil this role From: 23/07/2025 To: 10/03/2026",
+      "Value £s In bands of £1,500": "34,501-36,000",
       "Received": "23/07/2024",
-      "Registered": "30/07/2024",
+      "Registered": "03/12/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "250909",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/250909/fusion-energy.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/fusion-energy.htm",
   "categories": [
     "Science, Technology & Innovation",
     "Energy & Utilities"

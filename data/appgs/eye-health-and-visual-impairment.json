@@ -15,14 +15,6 @@
     },
     {
       "role": "Officer",
-      "name": "Mims Davies",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25330",
-      "mnis_id": "4513",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Shockat Adam",
       "party": "Independent",
       "twfy_id": "uk.org.publicwhip/person/26364",
@@ -31,10 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Lord Blunkett",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10050",
-      "mnis_id": "395",
+      "name": "Lord Shinkwin",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25470",
+      "mnis_id": "4557",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Florence Eshalomi",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/25759",
+      "mnis_id": "4870",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://eyehealthviappg.org.uk/members/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Marsha de Cordova",
@@ -236,24 +236,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-11",
+    "date_of_most_recent_agm": "2025-12-02",
     "published_income_expenditure_statement": false,
     "reporting_year": "11 Sep to 10 Sep",
-    "next_reporting_deadline": "2026-01-11"
+    "next_reporting_deadline": "2027-01-11"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "PLMR Healthcomms",
-      "Description": "PLMR Healthcomms is paid by RNIB and Thomas Pocklington Trust to act as the group's secretariat From: 11/09/2024 To: 10/09/2025",
-      "Value £s In bands of £1,500": "27,001-28,500",
-      "Received": "11/09/2024",
-      "Registered": "26/02/2025",
+      "Description": "PLMR Healthcomms is paid by RNIB and Thomas Pocklington Trust to act as the group's secretariat. From: 11/09/2025 To: 10/09/2026",
+      "Value £s In bands of £1,500": "51,001-52,500",
+      "Received": "11/09/2025",
+      "Registered": "19/12/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/eye-health-and-visual-impairment.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/eye-health-and-visual-impairment.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

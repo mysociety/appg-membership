@@ -7,10 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Dr Jeevun Sandher",
+      "name": "Kevin McKenna",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26521",
-      "mnis_id": "5259",
+      "twfy_id": "uk.org.publicwhip/person/26529",
+      "mnis_id": "5300",
       "removed": false
     },
     {
@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Jake Richards",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26486",
-      "mnis_id": "5082",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Christine Jardine",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25675",
       "mnis_id": "4634",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Young of Old Scone",
+      "party": "Labour",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "http://www.appg-endoflifechoice.org.uk/members"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Jeevun Sandher",
@@ -51,7 +51,7 @@
         "member_type": "mp",
         "mnis_id": "5259",
         "twfy_id": "uk.org.publicwhip/person/26521",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Kit Malthouse",
@@ -75,7 +75,7 @@
         "member_type": "mp",
         "mnis_id": "5082",
         "twfy_id": "uk.org.publicwhip/person/26486",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Christine Jardine",
@@ -91,7 +91,7 @@
         "member_type": "lord",
         "mnis_id": "3810",
         "twfy_id": "uk.org.publicwhip/person/13885",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rachel Hopkins",
@@ -228,13 +228,29 @@
         "mnis_id": "5137",
         "twfy_id": "uk.org.publicwhip/person/26455",
         "removed": false
+      },
+      {
+        "name": "Kevin McKenna",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5300",
+        "twfy_id": "uk.org.publicwhip/person/26529",
+        "removed": false
+      },
+      {
+        "name": "Baroness Young of Old Scone",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Dr Jeevun Sandher MP",
+    "registered_contact_name": "Kevin McKenna MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "jeevun.sandher.mp@parliament.uk",
+    "registered_contact_email": "kevin.mckenna.mp@parliament.uk",
     "public_enquiry_point_name": "Frances McFadden, Dignity in Dying. Tel: 020 7479 7106",
     "public_enquiry_point_email": "frances.mcfadden@dignityindying.org.uk",
     "secretariat": "Dignity in Dying acts as the group's secretariat.https://www.dignityindying.org.uk/",
@@ -244,24 +260,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-11",
+    "date_of_most_recent_agm": "2025-12-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "11 Sep to 10 Sep",
-    "next_reporting_deadline": "2026-01-11"
+    "next_reporting_deadline": "2027-01-11"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Dignity in Dying",
-      "Description": "Secretariat From: 11/09/2024 To: 10/09/2025",
-      "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "11/09/2024",
-      "Registered": "17/09/2024",
+      "Description": "Secretariat From: 11/09/2025 To: 10/09/2026",
+      "Value £s In bands of £1,500": "6,001-7,500",
+      "Received": "11/09/2025",
+      "Registered": "05/01/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/choice-at-the-end-of-life.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/choice-at-the-end-of-life.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Human Rights, Equality & Social Justice"

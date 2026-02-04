@@ -7,10 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Catherine Atkinson",
+      "name": "Sarah Russell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26405",
-      "mnis_id": "5143",
+      "twfy_id": "uk.org.publicwhip/person/26571",
+      "mnis_id": "5324",
       "removed": false
     },
     {
@@ -23,18 +23,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Dr Neil Shastri-Hurst",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26437",
-      "mnis_id": "5197",
+      "name": "Jayne Kirkham",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/26525",
+      "mnis_id": "5279",
       "removed": false
     },
     {
       "role": "Vice Chair",
-      "name": "Mr Paul Kohler",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26570",
-      "mnis_id": "5321",
+      "name": "Alberto Costa",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25413",
+      "mnis_id": "4439",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appg-access-to-justice.co.uk/our-elected-members"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Lord Willy Bach",
@@ -99,7 +99,7 @@
         "member_type": "mp",
         "mnis_id": "5082",
         "twfy_id": "uk.org.publicwhip/person/26486",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Kevin Bonavia",
@@ -251,7 +251,7 @@
         "member_type": "mp",
         "mnis_id": "5142",
         "twfy_id": "uk.org.publicwhip/person/26413",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Tony Vaughan",
@@ -275,14 +275,14 @@
         "member_type": "mp",
         "mnis_id": "4439",
         "twfy_id": "uk.org.publicwhip/person/25413",
-        "removed": true
+        "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Catherine Atkinson MP",
+    "registered_contact_name": "Sarah Russell MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "catherine.atkinson.mp@parliament.uk",
+    "registered_contact_email": "sarah.russell.mp@parliament.uk",
     "public_enquiry_point_name": "Rohini Jana, Legal Aid Practitioners Group. Tel: 07980 240676",
     "public_enquiry_point_email": "rohini.jana@lapg.co.uk",
     "secretariat": "Legal Aid Practitioners Group acts as the group's secretariat.https://lapg.co.uk/",
@@ -292,24 +292,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-04",
+    "date_of_most_recent_agm": "2025-11-25",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Sep to 03 Sep",
-    "next_reporting_deadline": "2026-01-04"
+    "next_reporting_deadline": "2027-01-04"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Legal Aid Practitioners Group",
-      "Description": "Legal Aid Practitioners Group is paid by The Legal Education Foundation to act as the group's secretariat From: 04/09/2024 To: 03/09/2025",
-      "Value £s In bands of £1,500": "28,501-30,000",
-      "Received": "04/09/2024",
-      "Registered": "06/09/2024",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/access-to-justice.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/access-to-justice.htm",
   "categories": [
     "Justice, Law & Security",
     "Human Rights, Equality & Social Justice"

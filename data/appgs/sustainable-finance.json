@@ -6,7 +6,7 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Vice Chair",
+      "role": "Chair & Registered Contact",
       "name": "Noah Law",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26513",
@@ -22,7 +22,15 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Co-Chair",
+      "name": "Barry Gardiner",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/10220",
+      "mnis_id": "146",
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
       "name": "Baroness Evans of Bowes Park",
       "party": "Conservative",
       "twfy_id": null,
@@ -37,9 +45,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Noah Law MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7751.",
+    "registered_contact_email": "noah.law.mp@parliament.uk",
     "public_enquiry_point_name": "Heather Buchanan, Athena Foundation. Tel: 07921 637 582",
     "public_enquiry_point_email": "heather.buchanan@parliament.uk",
     "secretariat": "Athena Foundation acts as the group's secretariat.https://www.theathenafoundation.org/",
@@ -49,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-25",
+    "date_of_most_recent_agm": "2025-12-03",
     "published_income_expenditure_statement": false,
     "reporting_year": "25 Nov to 24 Nov",
-    "next_reporting_deadline": "2026-03-25"
+    "next_reporting_deadline": "2027-03-25"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Athena Foundation",
-      "Description": "Secretariat From: 25/11/2024 To: 24/11/2025",
-      "Value £s In bands of £1,500": "97,501-99,000",
-      "Received": "25/11/2024",
-      "Registered": "23/12/2024",
+      "Description": "Secretariat From: 25/11/2025 To: 24/11/2026",
+      "Value £s In bands of £1,500": "57,001-58,500",
+      "Received": "25/11/2025",
+      "Registered": "03/12/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/sustainable-finance.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/sustainable-finance.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

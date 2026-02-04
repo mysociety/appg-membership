@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.climateappg.co.uk/who-we-are#members"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Luke Murphy",
@@ -251,7 +251,7 @@
         "member_type": "mp",
         "mnis_id": "5113",
         "twfy_id": "uk.org.publicwhip/person/26393",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Clive Jones",
@@ -716,6 +716,14 @@
         "mnis_id": "3789",
         "twfy_id": "uk.org.publicwhip/person/13732",
         "removed": false
+      },
+      {
+        "name": "Caroline Dinenage",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4008",
+        "twfy_id": "uk.org.publicwhip/person/24873",
+        "removed": false
       }
     ]
   },
@@ -748,8 +756,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/climate-change.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/climate-change.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

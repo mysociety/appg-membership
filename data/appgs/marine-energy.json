@@ -15,14 +15,6 @@
     },
     {
       "role": "Officer",
-      "name": "Torcuil Crichton",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26500",
-      "mnis_id": "5246",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Harriet Cross",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26538",
@@ -31,10 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Llinos Medi",
-      "party": "Plaid Cymru",
-      "twfy_id": "uk.org.publicwhip/person/26454",
-      "mnis_id": "5085",
+      "name": "Torcuil Crichton",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26500",
+      "mnis_id": "5246",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Mr Angus MacDonald",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26637",
+      "mnis_id": "5362",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.marineenergycouncil.co.uk/appg"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Alistair Carmichael",
@@ -292,24 +292,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-12",
+    "date_of_most_recent_agm": "2025-12-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "12 Sep to 11 Sep",
-    "next_reporting_deadline": "2026-01-12"
+    "next_reporting_deadline": "2027-01-12"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Marine Energy Council",
-      "Description": "Secretariat From: 12/09/2024 To: 11/09/2025",
-      "Value £s In bands of £1,500": "6,001-7,500",
-      "Received": "12/09/2024",
-      "Registered": "09/10/2024",
+      "Description": "Secretariat From: 12/09/2025 To: 11/09/2026",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "12/09/2025",
+      "Registered": "16/12/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/marine-energy.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/marine-energy.htm",
   "categories": [
     "Energy & Utilities"
   ]

@@ -41,9 +41,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://obesityappg.com/about"
+      "https://obesityappg.com/about",
+      "https://obesityappg.com/strategiccouncil"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Mary Glindon",
@@ -75,7 +76,7 @@
         "member_type": "mp",
         "mnis_id": "5307",
         "twfy_id": "uk.org.publicwhip/person/26515",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mary Kelly Foy",
@@ -219,7 +220,7 @@
         "member_type": "lord",
         "mnis_id": "4130",
         "twfy_id": "uk.org.publicwhip/person/13856",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Jenkin of Kennington",
@@ -251,6 +252,118 @@
         "member_type": "mp",
         "mnis_id": "4051",
         "twfy_id": "uk.org.publicwhip/person/24839",
+        "removed": true
+      },
+      {
+        "name": "Beccy Cooper",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5307",
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
+      },
+      {
+        "name": "Baroness Meyer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4699",
+        "twfy_id": "uk.org.publicwhip/person/25732",
+        "removed": false
+      },
+      {
+        "name": "John Glen",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4051",
+        "twfy_id": "uk.org.publicwhip/person/24839",
+        "removed": false
+      },
+      {
+        "name": "Baroness Boycott",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4704",
+        "twfy_id": "uk.org.publicwhip/person/25735",
+        "removed": false
+      },
+      {
+        "name": "Sarah Dyke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4995",
+        "twfy_id": "uk.org.publicwhip/person/26270",
+        "removed": false
+      },
+      {
+        "name": "Jas Athwal",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5227",
+        "twfy_id": "uk.org.publicwhip/person/26439",
+        "removed": false
+      },
+      {
+        "name": "Professor James Kingsland",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Shaw Somers",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Julia Thrift",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Birgitta Rabe",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Gabriella Conti",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sarah Le Brocq",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dr Adrian Brown",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Professor Thomas Barber",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -284,8 +397,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/obesity.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/obesity.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

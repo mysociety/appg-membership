@@ -43,7 +43,7 @@
     "source_url": [
       "https://antisemitism.org.uk/group-members/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Joani Reid",
@@ -363,7 +363,7 @@
         "member_type": "mp",
         "mnis_id": "193",
         "twfy_id": "uk.org.publicwhip/person/10381",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Blair McDougall",
@@ -571,7 +571,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rt Hon Lord Anderson of Swansea",
@@ -819,7 +819,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Mitchell",
@@ -1011,7 +1011,7 @@
         "member_type": "mp",
         "mnis_id": "193",
         "twfy_id": "uk.org.publicwhip/person/10381",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Catherine McKinnell",
@@ -1067,7 +1067,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Brady of Altrincham",
@@ -1075,7 +1075,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Carey of Clifton",
@@ -1083,7 +1083,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Eaton",
@@ -1163,7 +1163,7 @@
         "member_type": "lord",
         "mnis_id": "4286",
         "twfy_id": "uk.org.publicwhip/person/25189",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Pannick",
@@ -1195,6 +1195,46 @@
         "member_type": "lord",
         "mnis_id": "3839",
         "twfy_id": "uk.org.publicwhip/person/13937",
+        "removed": false
+      },
+      {
+        "name": "Lord Alton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "738",
+        "twfy_id": "uk.org.publicwhip/person/13103",
+        "removed": false
+      },
+      {
+        "name": "Lord Anderson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "568",
+        "twfy_id": "uk.org.publicwhip/person/10011",
+        "removed": false
+      },
+      {
+        "name": "Lord Brady",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "435",
+        "twfy_id": "uk.org.publicwhip/person/10062",
+        "removed": false
+      },
+      {
+        "name": "Lord Carey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2205",
+        "twfy_id": "uk.org.publicwhip/person/13669",
+        "removed": false
+      },
+      {
+        "name": "Lord Bishop of Lichfield",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -1228,8 +1268,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/antisemitism.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/antisemitism.htm",
   "categories": [
     "Human Rights, Equality & Social Justice",
     "Religion, Faith & Belief Communities"

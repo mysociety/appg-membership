@@ -43,7 +43,7 @@
     "source_url": [
       "https://winegb.co.uk/politics/appg-2/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Andrew Griffith",
@@ -283,7 +283,7 @@
         "member_type": "mp",
         "mnis_id": "5330",
         "twfy_id": "uk.org.publicwhip/person/26625",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rosie Duffield",
@@ -291,7 +291,7 @@
         "member_type": "mp",
         "mnis_id": "4616",
         "twfy_id": "uk.org.publicwhip/person/25656",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sarah Champion",
@@ -299,7 +299,7 @@
         "member_type": "mp",
         "mnis_id": "4267",
         "twfy_id": "uk.org.publicwhip/person/25168",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sharon Hodgson",
@@ -307,7 +307,7 @@
         "member_type": "mp",
         "mnis_id": "1521",
         "twfy_id": "uk.org.publicwhip/person/11592",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Dominic Johnson of Lainston",
@@ -315,7 +315,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Natalie Evans of Bowes Park",
@@ -323,6 +323,150 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Ben Mcguire",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5350",
+        "twfy_id": "uk.org.publicwhip/person/26623",
+        "removed": false
+      },
+      {
+        "name": "Ben Obese-Jecty",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5089",
+        "twfy_id": "uk.org.publicwhip/person/26354",
+        "removed": false
+      },
+      {
+        "name": "Blake Stephenson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5100",
+        "twfy_id": "uk.org.publicwhip/person/26355",
+        "removed": false
+      },
+      {
+        "name": "Danny Chambers",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5304",
+        "twfy_id": "uk.org.publicwhip/person/26607",
+        "removed": false
+      },
+      {
+        "name": "Diana, Baroness Warwick of Undercliffe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dominic, Lord Johnson of Lainston",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Edward Morello",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5326",
+        "twfy_id": "uk.org.publicwhip/person/26604",
+        "removed": false
+      },
+      {
+        "name": "Freddie van Mierlo",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5296",
+        "twfy_id": "uk.org.publicwhip/person/26540",
+        "removed": false
+      },
+      {
+        "name": "Graham Stuart",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1482",
+        "twfy_id": "uk.org.publicwhip/person/11406",
+        "removed": false
+      },
+      {
+        "name": "James Naish",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5047",
+        "twfy_id": "uk.org.publicwhip/person/26329",
+        "removed": false
+      },
+      {
+        "name": "Joe Roberts",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5255",
+        "twfy_id": "uk.org.publicwhip/person/26504",
+        "removed": false
+      },
+      {
+        "name": "John Glen",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4051",
+        "twfy_id": "uk.org.publicwhip/person/24839",
+        "removed": false
+      },
+      {
+        "name": "John Milne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5329",
+        "twfy_id": "uk.org.publicwhip/person/26624",
+        "removed": false
+      },
+      {
+        "name": "Julia Buckley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5171",
+        "twfy_id": "uk.org.publicwhip/person/26436",
+        "removed": false
+      },
+      {
+        "name": "Lauren Edwards",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5298",
+        "twfy_id": "uk.org.publicwhip/person/26597",
+        "removed": false
+      },
+      {
+        "name": "Mike Wood",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4384",
+        "twfy_id": "uk.org.publicwhip/person/25362",
+        "removed": false
+      },
+      {
+        "name": "Natalie, Baroness Evans of Bowes Park",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Paul Davies",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5317",
+        "twfy_id": "uk.org.publicwhip/person/26537",
         "removed": false
       }
     ]
@@ -347,8 +491,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/wine-of-great-britain.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/wine-of-great-britain.htm",
   "categories": [
     "Economy, Business & Industry",
     "Food, Agriculture & Rural Affairs"

@@ -43,7 +43,7 @@
     "source_url": [
       "https://youthappg.org.uk/members/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Shockat Adam",
@@ -67,7 +67,7 @@
         "member_type": "mp",
         "mnis_id": "4828",
         "twfy_id": "uk.org.publicwhip/person/25819",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Siân Berry",
@@ -75,7 +75,7 @@
         "member_type": "mp",
         "mnis_id": "5314",
         "twfy_id": "uk.org.publicwhip/person/25752",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Polly Billington",
@@ -83,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "5123",
         "twfy_id": "uk.org.publicwhip/person/26360",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ashley Dalton",
@@ -99,7 +99,7 @@
         "member_type": "mp",
         "mnis_id": "4513",
         "twfy_id": "uk.org.publicwhip/person/25330",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ann Davies",
@@ -107,7 +107,7 @@
         "member_type": "mp",
         "mnis_id": "5177",
         "twfy_id": "uk.org.publicwhip/person/26359",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Josh Dean",
@@ -155,7 +155,7 @@
         "member_type": "mp",
         "mnis_id": "5078",
         "twfy_id": "uk.org.publicwhip/person/26421",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sharon Hodgson",
@@ -171,7 +171,7 @@
         "member_type": "mp",
         "mnis_id": "4394",
         "twfy_id": "uk.org.publicwhip/person/25375",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Natasha Irons",
@@ -227,7 +227,7 @@
         "member_type": "mp",
         "mnis_id": "5361",
         "twfy_id": "uk.org.publicwhip/person/26636",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Abtisam Mohamed",
@@ -267,7 +267,7 @@
         "member_type": "mp",
         "mnis_id": "5297",
         "twfy_id": "uk.org.publicwhip/person/26466",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Andrew Ranger",
@@ -299,7 +299,7 @@
         "member_type": "mp",
         "mnis_id": "5126",
         "twfy_id": "uk.org.publicwhip/person/26374",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sam Rushworth",
@@ -307,7 +307,7 @@
         "member_type": "mp",
         "mnis_id": "5108",
         "twfy_id": "uk.org.publicwhip/person/26323",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Naz Shah",
@@ -315,7 +315,7 @@
         "member_type": "mp",
         "mnis_id": "4409",
         "twfy_id": "uk.org.publicwhip/person/25385",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Vikki Slade",
@@ -331,7 +331,7 @@
         "member_type": "mp",
         "mnis_id": "5127",
         "twfy_id": "uk.org.publicwhip/person/26564",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sarah Smith",
@@ -339,7 +339,7 @@
         "member_type": "mp",
         "mnis_id": "5117",
         "twfy_id": "uk.org.publicwhip/person/26410",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Gareth Snell",
@@ -500,6 +500,22 @@
         "mnis_id": "5341",
         "twfy_id": "uk.org.publicwhip/person/26629",
         "removed": false
+      },
+      {
+        "name": "Leigh Ingham",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5290",
+        "twfy_id": "uk.org.publicwhip/person/26392",
+        "removed": false
+      },
+      {
+        "name": "Lord Lilley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "68",
+        "twfy_id": "uk.org.publicwhip/person/10362",
+        "removed": false
       }
     ]
   },
@@ -523,8 +539,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/youth-affairs.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/youth-affairs.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

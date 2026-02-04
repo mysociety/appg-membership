@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgprostatecancer.org.uk/members"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Calvin Bailey",
@@ -107,7 +107,7 @@
         "member_type": "mp",
         "mnis_id": "1442",
         "twfy_id": "uk.org.publicwhip/person/10785",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Andrew George",
@@ -163,7 +163,7 @@
         "member_type": "mp",
         "mnis_id": "3969",
         "twfy_id": "uk.org.publicwhip/person/24782",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Euan Stainbank",
@@ -219,7 +219,7 @@
         "member_type": "mp",
         "mnis_id": "4366",
         "twfy_id": "uk.org.publicwhip/person/25376",
-        "removed": false
+        "removed": true
       },
       {
         "name": "James Frith",
@@ -259,7 +259,7 @@
         "member_type": "mp",
         "mnis_id": "54",
         "twfy_id": "uk.org.publicwhip/person/10358",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lauren Sullivan",
@@ -427,7 +427,7 @@
         "member_type": "lord",
         "mnis_id": "1413",
         "twfy_id": "uk.org.publicwhip/person/10920",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Mott",
@@ -451,7 +451,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Tyrie",
@@ -459,7 +459,7 @@
         "member_type": "lord",
         "mnis_id": "112",
         "twfy_id": "uk.org.publicwhip/person/10613",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Watson of Wyre Forest",
@@ -483,7 +483,7 @@
         "member_type": "mp",
         "mnis_id": "4358",
         "twfy_id": "uk.org.publicwhip/person/25342",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Rev. the Lord Bishop of Manchester",
@@ -499,6 +499,94 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Rt Hon Alistair Carmichael",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1442",
+        "twfy_id": "uk.org.publicwhip/person/10785",
+        "removed": false
+      },
+      {
+        "name": "The Rt Hon Sir Damian Hinds",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3969",
+        "twfy_id": "uk.org.publicwhip/person/24782",
+        "removed": false
+      },
+      {
+        "name": "The Rt Hon Sir James Cleverly",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4366",
+        "twfy_id": "uk.org.publicwhip/person/25376",
+        "removed": false
+      },
+      {
+        "name": "The Rt Hon Julian Lewis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "54",
+        "twfy_id": "uk.org.publicwhip/person/10358",
+        "removed": false
+      },
+      {
+        "name": "Kate Osamor",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4515",
+        "twfy_id": "uk.org.publicwhip/person/25365",
+        "removed": false
+      },
+      {
+        "name": "Laurence Turner",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5234",
+        "twfy_id": "uk.org.publicwhip/person/26517",
+        "removed": false
+      },
+      {
+        "name": "Liam Conlon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5132",
+        "twfy_id": "uk.org.publicwhip/person/26401",
+        "removed": false
+      },
+      {
+        "name": "The Rt Hon Wendy Morton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4358",
+        "twfy_id": "uk.org.publicwhip/person/25342",
+        "removed": false
+      },
+      {
+        "name": "The Rt Hon Lord Grayling",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1413",
+        "twfy_id": "uk.org.publicwhip/person/10920",
+        "removed": false
+      },
+      {
+        "name": "The Rt Hon Lord Taylor of Holbeach",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Rt Hon Lord Tyrie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "112",
+        "twfy_id": "uk.org.publicwhip/person/10613",
         "removed": false
       }
     ]
@@ -540,8 +628,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/prostate-cancer.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/prostate-cancer.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

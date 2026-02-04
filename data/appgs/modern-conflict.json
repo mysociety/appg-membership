@@ -36,7 +36,7 @@
       "https://www.appgmodernconflict.org/team-2",
       "https://www.appgmodernconflict.org/membership"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Richard Foord",
@@ -52,7 +52,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Stern",
@@ -244,7 +244,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Dubs",
@@ -252,7 +252,7 @@
         "member_type": "lord",
         "mnis_id": "805",
         "twfy_id": "uk.org.publicwhip/person/13000",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Dudley",
@@ -260,7 +260,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Goldsmith",
@@ -268,7 +268,7 @@
         "member_type": "lord",
         "mnis_id": "2490",
         "twfy_id": "uk.org.publicwhip/person/12924",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Hamilton of Epsom",
@@ -276,7 +276,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Hannay of Chiswick",
@@ -284,7 +284,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Hussain",
@@ -292,7 +292,7 @@
         "member_type": "lord",
         "mnis_id": "4221",
         "twfy_id": "uk.org.publicwhip/person/25046",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Jones",
@@ -300,7 +300,7 @@
         "member_type": "lord",
         "mnis_id": "530",
         "twfy_id": "uk.org.publicwhip/person/10317",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Kennedy of Cradley",
@@ -308,7 +308,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord MacDonald of River Glaven",
@@ -324,7 +324,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Miller of Chilthorne Domer",
@@ -332,7 +332,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Mobarik",
@@ -340,7 +340,7 @@
         "member_type": "lord",
         "mnis_id": "4335",
         "twfy_id": "uk.org.publicwhip/person/25235",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Roberts of Llandudno",
@@ -348,7 +348,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Strasburger",
@@ -356,7 +356,7 @@
         "member_type": "lord",
         "mnis_id": "4204",
         "twfy_id": "uk.org.publicwhip/person/25026",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Thomas of Gresford",
@@ -364,7 +364,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Tonge",
@@ -372,7 +372,7 @@
         "member_type": "lord",
         "mnis_id": "200",
         "twfy_id": "uk.org.publicwhip/person/10599",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Uddin",
@@ -380,7 +380,7 @@
         "member_type": "lord",
         "mnis_id": "1827",
         "twfy_id": "uk.org.publicwhip/person/13274",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Wallace of Tankerness",
@@ -388,7 +388,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baron Watson",
@@ -396,7 +396,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord West of Spithead",
@@ -412,7 +412,7 @@
         "member_type": "lord",
         "mnis_id": "2510",
         "twfy_id": "uk.org.publicwhip/person/12957",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bennett of Manor Castle",
@@ -436,7 +436,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord West Of Spithead",
@@ -444,6 +444,190 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Hodgson of Astley Abbotts",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Butler of Brockwell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dubs",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dudley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Goldsmith",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Hamilton of Epsom",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Hannay of Chiswick",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Hussain",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jones",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3792",
+        "twfy_id": "uk.org.publicwhip/person/13877",
+        "removed": false
+      },
+      {
+        "name": "Kennedy of Cradley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Macdonald of River Glaven",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mcconnell of Glenscorrdale",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Miller of Chilthorne Domer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mobarik",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4335",
+        "twfy_id": "uk.org.publicwhip/person/25235",
+        "removed": false
+      },
+      {
+        "name": "Roberts of Llandudno",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Strasburger",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Thomas of Gresford",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tonge",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "200",
+        "twfy_id": "uk.org.publicwhip/person/10599",
+        "removed": false
+      },
+      {
+        "name": "Uddin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1827",
+        "twfy_id": "uk.org.publicwhip/person/13274",
+        "removed": false
+      },
+      {
+        "name": "Wallace of Tankerness",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Watson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "West of Spithead",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Whitaker",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2510",
+        "twfy_id": "uk.org.publicwhip/person/12957",
         "removed": false
       }
     ]
@@ -476,8 +660,8 @@
       "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/modern-conflict.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/modern-conflict.htm",
   "categories": [
     "Justice, Law & Security"
   ]

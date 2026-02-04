@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.samaritans.org/about-samaritans/research-policy/appg/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Liz Twist",
@@ -59,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "4853",
         "twfy_id": "uk.org.publicwhip/person/25875",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Laura Kyrke-Smith",
@@ -83,7 +83,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bill Esterson",
@@ -99,7 +99,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mark Ferguson",
@@ -323,7 +323,7 @@
         "member_type": "mp",
         "mnis_id": "5307",
         "twfy_id": "uk.org.publicwhip/person/26515",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Berger",
@@ -331,6 +331,110 @@
         "member_type": "lord",
         "mnis_id": "4036",
         "twfy_id": "uk.org.publicwhip/person/24924",
+        "removed": true
+      },
+      {
+        "name": "Neil Hudson",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4853",
+        "twfy_id": "uk.org.publicwhip/person/25875",
+        "removed": false
+      },
+      {
+        "name": "Finlay of Llandaff",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jacob Collier",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5077",
+        "twfy_id": "uk.org.publicwhip/person/26382",
+        "removed": false
+      },
+      {
+        "name": "Berger",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4036",
+        "twfy_id": "uk.org.publicwhip/person/24924",
+        "removed": false
+      },
+      {
+        "name": "Ritchie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4130",
+        "twfy_id": "uk.org.publicwhip/person/13856",
+        "removed": false
+      },
+      {
+        "name": "Watkins",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4566",
+        "twfy_id": "uk.org.publicwhip/person/25481",
+        "removed": false
+      },
+      {
+        "name": "Chris Webb",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5025",
+        "twfy_id": "uk.org.publicwhip/person/26305",
+        "removed": false
+      },
+      {
+        "name": "Beccy Cooper",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5307",
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
+      },
+      {
+        "name": "Jo Platt",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4673",
+        "twfy_id": "uk.org.publicwhip/person/25611",
+        "removed": false
+      },
+      {
+        "name": "Maya Ellis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5228",
+        "twfy_id": "uk.org.publicwhip/person/26479",
+        "removed": false
+      },
+      {
+        "name": "Michael Wheeler",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5242",
+        "twfy_id": "uk.org.publicwhip/person/26551",
+        "removed": false
+      },
+      {
+        "name": "Paul Holmes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4803",
+        "twfy_id": "uk.org.publicwhip/person/25808",
+        "removed": false
+      },
+      {
+        "name": "Vikki Slade",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582",
         "removed": false
       }
     ]
@@ -364,8 +468,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/suicide-and-self-harm-prevention.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/suicide-and-self-harm-prevention.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"

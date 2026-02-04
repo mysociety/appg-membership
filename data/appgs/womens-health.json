@@ -15,10 +15,10 @@
     },
     {
       "role": "Officer",
-      "name": "Jo Platt",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25611",
-      "mnis_id": "4673",
+      "name": "Baroness Anelay of St Johns",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -28,6 +28,14 @@
       "twfy_id": "uk.org.publicwhip/person/24873",
       "mnis_id": "4008",
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Jo Platt",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/25611",
+      "mnis_id": "4673",
+      "removed": false
     }
   ],
   "members_list": {
@@ -36,7 +44,7 @@
       "https://www.appgwomenshealth.org/about",
       "https://www.appgwomenshealth.org/events-and-meetings"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Gill Furniss",
@@ -68,7 +76,7 @@
         "member_type": "mp",
         "mnis_id": "5095",
         "twfy_id": "uk.org.publicwhip/person/26378",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Cherilyn Mackrory",
@@ -133,6 +141,14 @@
         "mnis_id": "4430",
         "twfy_id": "uk.org.publicwhip/person/25327",
         "removed": false
+      },
+      {
+        "name": "Baroness Anelay of St Johns",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -149,24 +165,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-08",
+    "date_of_most_recent_agm": "2025-12-01",
     "published_income_expenditure_statement": false,
     "reporting_year": "08 Oct to 07 Oct",
-    "next_reporting_deadline": "2026-02-08"
+    "next_reporting_deadline": "2027-02-08"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Healthcomms Consulting Ltd (part of the PLMR Group)",
-      "Description": "Healthcomms Consulting Ltd (part of the PLMR Group) is paid by grants from Gedeon Richter, Theramex, Besins Healthcare, Orion Pharma, and AbbVie to act as the group's secretariat. (Originally registered 24/07/25) From: 08/10/2024 To: 07/10/2025",
-      "Value £s In bands of £1,500": "70,501-72,000",
-      "Received": "08/10/2024",
-      "Registered": "21/11/2025",
+      "Description": "Healthcomms Consulting Ltd (part of the PLMR Group) is paid by grants from Gedeon Richter, Theramex, Besins Healthcare, Orion Pharma, and AbbVie to act as the group's secretariat. From: 08/10/2025 To: 07/10/2026",
+      "Value £s In bands of £1,500": "52,501-54,000",
+      "Received": "08/10/2025",
+      "Registered": "02/12/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/womens-health.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/womens-health.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

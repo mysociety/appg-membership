@@ -43,7 +43,7 @@
     "source_url": [
       "https://gaps-uk.org/parliament/appg-members/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Alicia Kearns",
@@ -347,6 +347,14 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "The Lord Bishop of Gloucester",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -380,8 +388,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/women-peace-and-security.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/women-peace-and-security.htm",
   "categories": [
     "Human Rights, Equality & Social Justice",
     "International Affairs, Development & Trade"

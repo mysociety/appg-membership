@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.bioindustry.org/policy/appg.html"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Kit Malthouse",
@@ -67,7 +67,7 @@
         "member_type": "mp",
         "mnis_id": "5078",
         "twfy_id": "uk.org.publicwhip/person/26421",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Sadik Al-Hassan",
@@ -75,7 +75,7 @@
         "member_type": "mp",
         "mnis_id": "5312",
         "twfy_id": "uk.org.publicwhip/person/26527",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Finlay",
@@ -243,6 +243,14 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Delyth Morgan",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -253,39 +261,39 @@
     "registered_contact_email": "kit.malthouse.mp@parliament.uk",
     "public_enquiry_point_name": "Emma Lawrence, UK BioIndustry Association. Tel: 07880 009251",
     "public_enquiry_point_email": "lifesciencesappg@bioindustry.org",
-    "secretariat": "UK BioIndustry Association and Association of Medical Research Charities jointly act as the group's secretariat.https://www.bioindustry.org/andhttps://www.amrc.org.uk/",
+    "secretariat": "UK BioIndustry Association, Association of Medical Research Charities, British Heart Foundation, Association of the British Pharmaceutical Industry, British In Vitro Diagnostic Association, Academy of Medical Sciences, Cancer Research UK and Arthritis UK jointly act as the group's secretariat.https://www.bioindustry.org/andhttps://www.amrc.org.uk/andhttps://www.bhf.org.uk/andhttps://www.abpi.org.uk/andhttps://www.bivda.org.uk/andhttps://acmedsci.ac.uk/andhttps://www.cancerresearchuk.org/andhttps://www.arthritis-uk.org/",
     "website": {
       "status": "register",
       "url": "https://www.bioindustry.org/policy/appg.html"
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-15",
+    "date_of_most_recent_agm": "2025-12-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "15 Oct to 14 Oct",
-    "next_reporting_deadline": "2026-02-15"
+    "next_reporting_deadline": "2027-02-15"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "UK BioIndustry Association",
-      "Description": "Joint Secretariat From: 15/10/2024 To: 14/10/2025",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "15/10/2024",
-      "Registered": "23/10/2024",
+      "Description": "Joint Secretariat From: 15/10/2025 To: 14/10/2026",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "15/10/2025",
+      "Registered": "05/01/2026",
       "benefit_type": "Benefits In Kind"
     },
     {
       "Source": "Association of Medical Research Charities",
-      "Description": "Joint Secretariat From: 15/10/2024 To: 14/10/2025",
+      "Description": "Joint Secretariat From: 15/10/2025 To: 14/10/2026",
       "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "15/10/2024",
-      "Registered": "23/10/2024",
+      "Received": "15/10/2025",
+      "Registered": "05/01/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/life-sciences.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/life-sciences.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

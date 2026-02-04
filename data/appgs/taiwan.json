@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Baroness D'Souza",
-      "party": "Crossbench",
-      "twfy_id": "uk.org.publicwhip/person/13444",
-      "mnis_id": "3709",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Sir Iain Duncan Smith",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10180",
       "mnis_id": "152",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Rennard",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/13277",
+      "mnis_id": "2484",
       "removed": false
     }
   ],
@@ -57,10 +57,10 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-03",
+    "date_of_most_recent_agm": "2025-11-19",
     "published_income_expenditure_statement": false,
     "reporting_year": "03 Sep to 02 Sep",
-    "next_reporting_deadline": "2026-01-03"
+    "next_reporting_deadline": "2027-01-03"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
@@ -73,8 +73,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/taiwan.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/taiwan.htm",
   "categories": [
     "Country Group"
   ]

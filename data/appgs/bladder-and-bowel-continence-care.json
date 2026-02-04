@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appgcontinence.org.uk/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Jodie Gosling",
@@ -59,7 +59,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Watson",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": "1463",
         "twfy_id": "uk.org.publicwhip/person/11309",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Cat Eccles",
@@ -83,7 +83,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Watson",
@@ -91,7 +91,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -115,8 +115,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/bladder-and-bowel-continence-care.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/bladder-and-bowel-continence-care.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

@@ -7,18 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Bob Blackman",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24945",
-      "mnis_id": "4005",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
-      "name": "Sam Rushworth",
+      "name": "John McDonnell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26323",
-      "mnis_id": "5108",
+      "twfy_id": "uk.org.publicwhip/person/10383",
+      "mnis_id": "178",
       "removed": false
     },
     {
@@ -27,6 +19,14 @@
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26635",
       "mnis_id": "5355",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Ben Lake",
+      "party": "Plaid Cymru",
+      "twfy_id": "uk.org.publicwhip/person/25669",
+      "mnis_id": "4630",
       "removed": false
     },
     {
@@ -41,9 +41,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.appgifffs.org/about-us/members"
+      "https://www.appgifffs.org/about-us/members",
+      "https://www.appgifffs.org/about-us/secretariat"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Alastair Carmichael",
@@ -283,7 +284,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Kirkhope",
@@ -291,7 +292,7 @@
         "member_type": "lord",
         "mnis_id": "891",
         "twfy_id": "uk.org.publicwhip/person/18019",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Mann",
@@ -299,7 +300,7 @@
         "member_type": "lord",
         "mnis_id": "1387",
         "twfy_id": "uk.org.publicwhip/person/11093",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Prem Sikka",
@@ -307,7 +308,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Tyrie",
@@ -315,7 +316,7 @@
         "member_type": "lord",
         "mnis_id": "112",
         "twfy_id": "uk.org.publicwhip/person/10613",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Nick Smith",
@@ -323,7 +324,7 @@
         "member_type": "mp",
         "mnis_id": "3928",
         "twfy_id": "uk.org.publicwhip/person/24728",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ruth Jones",
@@ -331,7 +332,7 @@
         "member_type": "mp",
         "mnis_id": "4716",
         "twfy_id": "uk.org.publicwhip/person/25746",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sam Rushworth",
@@ -347,7 +348,7 @@
         "member_type": "mp",
         "mnis_id": "1593",
         "twfy_id": "uk.org.publicwhip/person/11374",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sarah Bool",
@@ -355,7 +356,7 @@
         "member_type": "mp",
         "mnis_id": "5355",
         "twfy_id": "uk.org.publicwhip/person/26635",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sarah Gibson",
@@ -363,7 +364,7 @@
         "member_type": "mp",
         "mnis_id": "5239",
         "twfy_id": "uk.org.publicwhip/person/26585",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sarah Olney",
@@ -371,7 +372,7 @@
         "member_type": "mp",
         "mnis_id": "4591",
         "twfy_id": "uk.org.publicwhip/person/25596",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Siobhain McDonagh",
@@ -379,7 +380,7 @@
         "member_type": "mp",
         "mnis_id": "193",
         "twfy_id": "uk.org.publicwhip/person/10381",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Susan Murray",
@@ -443,7 +444,7 @@
         "member_type": "mp",
         "mnis_id": "5108",
         "twfy_id": "uk.org.publicwhip/person/26323",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Suella Braverman",
@@ -451,14 +452,86 @@
         "member_type": "mp",
         "mnis_id": "4475",
         "twfy_id": "uk.org.publicwhip/person/25272",
+        "removed": true
+      },
+      {
+        "name": "Abtisam Mohamed",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5142",
+        "twfy_id": "uk.org.publicwhip/person/26413",
+        "removed": false
+      },
+      {
+        "name": "Chris Webb",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5025",
+        "twfy_id": "uk.org.publicwhip/person/26305",
+        "removed": false
+      },
+      {
+        "name": "Clive Lewis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4500",
+        "twfy_id": "uk.org.publicwhip/person/25356",
+        "removed": false
+      },
+      {
+        "name": "Desmond Swayne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "55",
+        "twfy_id": "uk.org.publicwhip/person/10580",
+        "removed": false
+      },
+      {
+        "name": "Greg Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4778",
+        "twfy_id": "uk.org.publicwhip/person/25925",
+        "removed": false
+      },
+      {
+        "name": "Helen Maguire",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5336",
+        "twfy_id": "uk.org.publicwhip/person/26627",
+        "removed": false
+      },
+      {
+        "name": "Jim Shannon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4131",
+        "twfy_id": "uk.org.publicwhip/person/13864",
+        "removed": false
+      },
+      {
+        "name": "Lauren Sullivan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5269",
+        "twfy_id": "uk.org.publicwhip/person/26435",
+        "removed": false
+      },
+      {
+        "name": "Lee Pitcher",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5233",
+        "twfy_id": "uk.org.publicwhip/person/26464",
         "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Bob Blackman MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7082.",
-    "registered_contact_email": "bob.blackman.mp@parliament.uk",
+    "registered_contact_name": "John McDonnell MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 4100.",
+    "registered_contact_email": "mcdonnellj@parliament.uk",
     "public_enquiry_point_name": "Andy Agathangelou, Transparency Task Force. Tel: 07501 460308",
     "public_enquiry_point_email": "andy.agathangelou@transparencytaskforce.org",
     "secretariat": "Transparency Task Force acts as the group's secretariat.https://transparencytaskforce.org/",
@@ -468,15 +541,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-10",
+    "date_of_most_recent_agm": "2025-12-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2026-01-10"
+    "next_reporting_deadline": "2027-01-10"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/investment-fraud-and-fairer-financial-services.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/investment-fraud-and-fairer-financial-services.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

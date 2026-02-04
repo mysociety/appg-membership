@@ -43,7 +43,7 @@
     "source_url": [
       "https://classicalassociation.org/all-party-parliamentary-group-for-classics/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Dr Peter Swallow",
@@ -83,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "5258",
         "twfy_id": "uk.org.publicwhip/person/26586",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Joani Reid",
@@ -123,7 +123,7 @@
         "member_type": "mp",
         "mnis_id": "5218",
         "twfy_id": "uk.org.publicwhip/person/26606",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dame Harriett Baldwin",
@@ -131,7 +131,7 @@
         "member_type": "mp",
         "mnis_id": "4107",
         "twfy_id": "uk.org.publicwhip/person/24785",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Aberdare",
@@ -139,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": "3898",
         "twfy_id": "uk.org.publicwhip/person/24696",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Thomas of Gresford",
@@ -252,6 +252,14 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": true
+      },
+      {
+        "name": "Lord Banner",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "5014",
+        "twfy_id": "uk.org.publicwhip/person/26292",
+        "removed": false
       }
     ]
   },
@@ -284,8 +292,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/classics.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/classics.htm",
   "categories": [
     "Education, Skills & Youth",
     "Arts, Culture, Heritage & Media"

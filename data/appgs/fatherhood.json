@@ -28,6 +28,14 @@
       "twfy_id": null,
       "mnis_id": null,
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Maya Ellis",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26479",
+      "mnis_id": "5228",
+      "removed": false
     }
   ],
   "members_list": {
@@ -35,7 +43,7 @@
     "source_url": [
       "https://futuremen.org/advocacy/appg-on-fatherhood/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Freddie van Mierlo",
@@ -51,7 +59,7 @@
         "member_type": "lord",
         "mnis_id": "4229",
         "twfy_id": "uk.org.publicwhip/person/25064",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Harlech",
@@ -67,7 +75,7 @@
         "member_type": "mp",
         "mnis_id": "5167",
         "twfy_id": "uk.org.publicwhip/person/26428",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Lawrence",
@@ -75,7 +83,7 @@
         "member_type": "lord",
         "mnis_id": "4290",
         "twfy_id": "uk.org.publicwhip/person/25193",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Verma",
@@ -99,7 +107,7 @@
         "member_type": "lord",
         "mnis_id": "4177",
         "twfy_id": "uk.org.publicwhip/person/24997",
-        "removed": false
+        "removed": true
       },
       {
         "name": "James McCleary",
@@ -107,7 +115,7 @@
         "member_type": "mp",
         "mnis_id": "5265",
         "twfy_id": "uk.org.publicwhip/person/26581",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tom Morrison",
@@ -163,7 +171,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Maya Ellis",
@@ -187,7 +195,7 @@
         "member_type": "lord",
         "mnis_id": "4234",
         "twfy_id": "uk.org.publicwhip/person/25058",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord K Ranger",
@@ -195,7 +203,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Bailey",
@@ -203,6 +211,70 @@
         "member_type": "lord",
         "mnis_id": "4987",
         "twfy_id": "uk.org.publicwhip/person/26262",
+        "removed": true
+      },
+      {
+        "name": "Baroness Jenkin of Kennington",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Lawrence of Clarendon",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord K Ranger of Northwood",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "James MacCleary",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5265",
+        "twfy_id": "uk.org.publicwhip/person/26581",
+        "removed": false
+      },
+      {
+        "name": "The Lord Bishop of Chichester",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Lister of Burtersett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Bailey of Paddington",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Matt Turmaine",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5130",
+        "twfy_id": "uk.org.publicwhip/person/26417",
         "removed": false
       }
     ]
@@ -236,8 +308,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/fatherhood.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/fatherhood.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

@@ -7,10 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Mr Connor Rand",
+      "name": "Mark Sewards",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26473",
-      "mnis_id": "5159",
+      "twfy_id": "uk.org.publicwhip/person/26440",
+      "mnis_id": "5166",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.parentkind.org.uk/research-and-policy/education-policy/policy-in-england/all-party-parliamentary-group-for-england"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Sharon Hodgson",
@@ -171,7 +171,7 @@
         "member_type": "mp",
         "mnis_id": "5092",
         "twfy_id": "uk.org.publicwhip/person/26565",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Emily Darlington",
@@ -179,7 +179,7 @@
         "member_type": "mp",
         "mnis_id": "5139",
         "twfy_id": "uk.org.publicwhip/person/26412",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Gregory Stafford",
@@ -187,7 +187,7 @@
         "member_type": "mp",
         "mnis_id": "5351",
         "twfy_id": "uk.org.publicwhip/person/26626",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jess Asato",
@@ -195,7 +195,7 @@
         "member_type": "mp",
         "mnis_id": "5156",
         "twfy_id": "uk.org.publicwhip/person/26386",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jess Brown-Fuller",
@@ -203,7 +203,7 @@
         "member_type": "mp",
         "mnis_id": "5335",
         "twfy_id": "uk.org.publicwhip/person/26372",
-        "removed": false
+        "removed": true
       },
       {
         "name": "John Slinger",
@@ -211,7 +211,7 @@
         "member_type": "mp",
         "mnis_id": "5127",
         "twfy_id": "uk.org.publicwhip/person/26564",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jonathan Davies",
@@ -356,13 +356,21 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
+      },
+      {
+        "name": "David Baine",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5092",
+        "twfy_id": "uk.org.publicwhip/person/26565",
+        "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Mr Connor Rand MP",
+    "registered_contact_name": "Mark Sewards MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "connor.rand.mp@parliament.uk",
+    "registered_contact_email": "mark.sewards.mp@parliament.uk",
     "public_enquiry_point_name": "Matthew Dent, Parentkind",
     "public_enquiry_point_email": "appg.parents@parentkind.org",
     "secretariat": "Parentkind acts as the group's secretariat.https://www.parentkind.org.uk/",
@@ -372,15 +380,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-12",
+    "date_of_most_recent_agm": "2025-12-01",
     "published_income_expenditure_statement": false,
     "reporting_year": "12 Nov to 11 Nov",
-    "next_reporting_deadline": "2026-03-12"
+    "next_reporting_deadline": "2027-03-12"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/parents.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Parentkind",
+      "Description": "Secretariat From: 12/11/2025 To: 11/11/2026",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "12/11/2025",
+      "Registered": "10/12/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/parents.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

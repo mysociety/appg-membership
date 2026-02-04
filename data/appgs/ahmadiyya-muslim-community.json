@@ -43,7 +43,7 @@
     "source_url": [
       "https://appg-ahmadiyyamuslim.org.uk/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Dame Siobhain McDonagh",
@@ -51,7 +51,7 @@
         "member_type": "mp",
         "mnis_id": "193",
         "twfy_id": "uk.org.publicwhip/person/10381",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sir Edward Davey",
@@ -59,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "188",
         "twfy_id": "uk.org.publicwhip/person/10155",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Greg Stafford",
@@ -115,7 +115,7 @@
         "member_type": "mp",
         "mnis_id": "4511",
         "twfy_id": "uk.org.publicwhip/person/25284",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Will Forster",
@@ -139,7 +139,7 @@
         "member_type": "mp",
         "mnis_id": "178",
         "twfy_id": "uk.org.publicwhip/person/10383",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Wendy Chamberlain",
@@ -155,7 +155,7 @@
         "member_type": "mp",
         "mnis_id": "1572",
         "twfy_id": "uk.org.publicwhip/person/11859",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Alton",
@@ -267,7 +267,7 @@
         "member_type": "mp",
         "mnis_id": "3969",
         "twfy_id": "uk.org.publicwhip/person/24782",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rebecca Long Bailey",
@@ -340,6 +340,62 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
+      },
+      {
+        "name": "Siobhain McDonagh",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "193",
+        "twfy_id": "uk.org.publicwhip/person/10381",
+        "removed": false
+      },
+      {
+        "name": "Edward Davey",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "188",
+        "twfy_id": "uk.org.publicwhip/person/10155",
+        "removed": false
+      },
+      {
+        "name": "Rupa Huq",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4511",
+        "twfy_id": "uk.org.publicwhip/person/25284",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Jeremy Hunt",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1572",
+        "twfy_id": "uk.org.publicwhip/person/11859",
+        "removed": false
+      },
+      {
+        "name": "Damian Hinds",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3969",
+        "twfy_id": "uk.org.publicwhip/person/24782",
+        "removed": false
+      },
+      {
+        "name": "Patricia Ferguson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5190",
+        "twfy_id": "uk.org.publicwhip/person/13984",
+        "removed": false
       }
     ]
   },
@@ -356,15 +412,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-11",
+    "date_of_most_recent_agm": "2025-12-15",
     "published_income_expenditure_statement": false,
     "reporting_year": "11 Sep to 10 Sep",
-    "next_reporting_deadline": "2026-01-11"
+    "next_reporting_deadline": "2027-01-11"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/ahmadiyya-muslim-community.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Ahmadiyya Muslim Community UK",
+      "Description": "Secretariat From: 11/09/2025 To: 10/09/2026",
+      "Value £s In bands of £1,500": "6,001-7,500",
+      "Received": "11/09/2025",
+      "Registered": "17/12/2025",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/ahmadiyya-muslim-community.htm",
   "categories": [
     "Religion, Faith & Belief Communities",
     "Human Rights, Equality & Social Justice"

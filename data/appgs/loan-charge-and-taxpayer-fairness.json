@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.loanchargeappg.co.uk/members/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Stuart Anderson",
@@ -99,7 +99,7 @@
         "member_type": "mp",
         "mnis_id": "5337",
         "twfy_id": "uk.org.publicwhip/person/26609",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Richard Baker",
@@ -147,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rt Hon Dame Karen Bradley",
@@ -251,7 +251,7 @@
         "member_type": "lord",
         "mnis_id": "181",
         "twfy_id": "uk.org.publicwhip/person/10143",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ashley Dalton",
@@ -1195,7 +1195,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Butler of Brockwell",
@@ -1203,7 +1203,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Gregory Campbell",
@@ -1275,7 +1275,7 @@
         "member_type": "lord",
         "mnis_id": "2685",
         "twfy_id": "uk.org.publicwhip/person/13662",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lee Dillon",
@@ -1299,7 +1299,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Stephen Flynn",
@@ -1363,7 +1363,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Paul Kohler",
@@ -1379,10 +1379,90 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Baroness Laing of Elderslie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Baroness Bowles of Berkhamsted",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Brady of Altrincham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Butler of Brockwell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Cryer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "181",
+        "twfy_id": "uk.org.publicwhip/person/10143",
+        "removed": false
+      },
+      {
+        "name": "Lord Dholakia",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2685",
+        "twfy_id": "uk.org.publicwhip/person/13662",
+        "removed": false
+      },
+      {
+        "name": "Baroness Eaton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4184",
+        "twfy_id": "uk.org.publicwhip/person/25003",
+        "removed": false
+      },
+      {
+        "name": "Clive Jones",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5207",
+        "twfy_id": "uk.org.publicwhip/person/26377",
+        "removed": false
+      },
+      {
+        "name": "Lord Kerr of Kinlochard",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Kramer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1557",
+        "twfy_id": "uk.org.publicwhip/person/11783",
+        "removed": false
+      },
+      {
+        "name": "Baroness Laing of Elderslie",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -1420,8 +1500,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/loan-charge-and-taxpayer-fairness.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/loan-charge-and-taxpayer-fairness.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

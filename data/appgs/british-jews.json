@@ -15,18 +15,10 @@
     },
     {
       "role": "Co-Chair",
-      "name": "Dan Tomlinson",
+      "name": "Peter Prinsley",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26502",
-      "mnis_id": "5282",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Helena Dollimore",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26507",
-      "mnis_id": "5192",
+      "twfy_id": "uk.org.publicwhip/person/26383",
+      "mnis_id": "5163",
       "removed": false
     },
     {
@@ -36,6 +28,14 @@
       "twfy_id": null,
       "mnis_id": null,
       "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Feryal Clark",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25896",
+      "mnis_id": "4822",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://bod.org.uk/appg-british-jews/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "David Simmonds",
@@ -59,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "5282",
         "twfy_id": "uk.org.publicwhip/person/26502",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon the Lord Palmer of Childs Hill OBE",
@@ -75,7 +75,7 @@
         "member_type": "mp",
         "mnis_id": "5192",
         "twfy_id": "uk.org.publicwhip/person/26507",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bob Blackman",
@@ -267,7 +267,7 @@
         "member_type": "mp",
         "mnis_id": "5031",
         "twfy_id": "uk.org.publicwhip/person/26310",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Nesil Caliskan",
@@ -275,7 +275,7 @@
         "member_type": "mp",
         "mnis_id": "5180",
         "twfy_id": "uk.org.publicwhip/person/26474",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Daisy Cooper",
@@ -804,6 +804,14 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
+      },
+      {
+        "name": "Feryal Clark",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4822",
+        "twfy_id": "uk.org.publicwhip/person/25896",
+        "removed": false
       }
     ]
   },
@@ -811,8 +819,8 @@
     "registered_contact_name": "David Simmonds MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 6578.",
     "registered_contact_email": "david.simmonds.mp@parliament.uk",
-    "public_enquiry_point_name": "David Robinson, Board of Deputies of British Jews. Tel: 0207 543 5400",
-    "public_enquiry_point_email": "david.robinson@bod.org.uk",
+    "public_enquiry_point_name": "Joe Crossley, Board of Deputies of British Jews. Tel: 07957 962020",
+    "public_enquiry_point_email": "joe.crossley@bod.org.uk",
     "secretariat": "Board of Deputies of British Jews acts as the group's secretariat.https://www.bod.org.uk/",
     "website": {
       "status": "register",
@@ -820,24 +828,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-10",
+    "date_of_most_recent_agm": "2025-11-24",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2026-01-10"
+    "next_reporting_deadline": "2027-01-10"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Board of Deputies of British Jews",
-      "Description": "Secretariat From: 10/09/2024 To: 09/09/2025",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "10/09/2024",
-      "Registered": "03/10/2024",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/british-jews.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/british-jews.htm",
   "categories": [
     "Religion, Faith & Belief Communities"
   ]

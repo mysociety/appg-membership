@@ -39,37 +39,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.royalcwsociety.org/commonwealthappg"
-    ],
-    "last_updated": "2025-10-20",
-    "members": [
-      {
-        "name": "Lord Kamall",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "4909",
-        "twfy_id": "uk.org.publicwhip/person/25976",
-        "removed": false
-      },
-      {
-        "name": "Baroness Northover",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "2539",
-        "twfy_id": "uk.org.publicwhip/person/13434",
-        "removed": false
-      },
-      {
-        "name": "Lord Howell of Guildford",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-02-04",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Andrew Rosindell MP",
@@ -91,8 +64,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/commonwealth.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/commonwealth.htm",
   "categories": [
     "Country Group"
   ]

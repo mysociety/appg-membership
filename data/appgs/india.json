@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appgindia.org/appg-members"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Jeevun Sandher",
@@ -91,7 +91,7 @@
         "member_type": "lord",
         "mnis_id": "2685",
         "twfy_id": "uk.org.publicwhip/person/13662",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Sahota",
@@ -99,7 +99,7 @@
         "member_type": "lord",
         "mnis_id": "4963",
         "twfy_id": "uk.org.publicwhip/person/26106",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Desai",
@@ -107,7 +107,7 @@
         "member_type": "lord",
         "mnis_id": "2699",
         "twfy_id": "uk.org.publicwhip/person/13661",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Shivani Raja",
@@ -139,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": "4909",
         "twfy_id": "uk.org.publicwhip/person/25976",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Parekh",
@@ -147,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": "2545",
         "twfy_id": "uk.org.publicwhip/person/12947",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Loomba",
@@ -155,7 +155,7 @@
         "member_type": "lord",
         "mnis_id": "4209",
         "twfy_id": "uk.org.publicwhip/person/25039",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baggy Shanker",
@@ -203,7 +203,7 @@
         "member_type": "lord",
         "mnis_id": "4173",
         "twfy_id": "uk.org.publicwhip/person/24995",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Royall",
@@ -219,7 +219,7 @@
         "member_type": "lord",
         "mnis_id": "4885",
         "twfy_id": "uk.org.publicwhip/person/25956",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mike Reader",
@@ -267,7 +267,7 @@
         "member_type": "lord",
         "mnis_id": "4564",
         "twfy_id": "uk.org.publicwhip/person/25479",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Valerie Vaz",
@@ -291,7 +291,7 @@
         "member_type": "lord",
         "mnis_id": "620",
         "twfy_id": "uk.org.publicwhip/person/10071",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Calvin Bailey",
@@ -315,7 +315,7 @@
         "member_type": "lord",
         "mnis_id": "4898",
         "twfy_id": "uk.org.publicwhip/person/25965",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jack Rankin",
@@ -331,7 +331,7 @@
         "member_type": "lord",
         "mnis_id": "1705",
         "twfy_id": "uk.org.publicwhip/person/13536",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Rennard",
@@ -339,7 +339,7 @@
         "member_type": "lord",
         "mnis_id": "2484",
         "twfy_id": "uk.org.publicwhip/person/13277",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sharon Hodgson",
@@ -355,7 +355,7 @@
         "member_type": "lord",
         "mnis_id": "924",
         "twfy_id": "uk.org.publicwhip/person/13042",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Prior",
@@ -572,6 +572,126 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
+      },
+      {
+        "name": "Dholakia",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sahota",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Desai",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Kamall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Parekh",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Loomba",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Popat",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sikka",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bird",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Browne",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Udny-Lister",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tugendhat",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Rennard",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Moynihan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Prior",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -595,14 +715,6 @@
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
-    {
-      "Source": "Observer Research Foundation",
-      "Description": "Visit to India From: 17/11/2024 To: 22/11/2024 Cost Met : Flights, accommodation and food",
-      "Value £s In bands of £1,500": "10,501-12,000",
-      "Received": "17/11/2024",
-      "Registered": "20/12/2024",
-      "benefit_type": "Benefits In Kind"
-    },
     {
       "Source": "The 1928 Institute",
       "Description": "Visit to India From: 17/11/2024 To: 22/11/2024 Cost Met : Flights, accommodation and food",
@@ -644,8 +756,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/india.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/india.htm",
   "categories": [
     "Country Group"
   ]

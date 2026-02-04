@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.oceanappg.org/officers-and-members"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Sarah Champion",
@@ -443,7 +443,7 @@
         "member_type": "lord",
         "mnis_id": "4338",
         "twfy_id": "uk.org.publicwhip/person/25243",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Banner",
@@ -491,7 +491,7 @@
         "member_type": "mp",
         "mnis_id": "5220",
         "twfy_id": "uk.org.publicwhip/person/26589",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tom Rutland",
@@ -499,6 +499,22 @@
         "member_type": "mp",
         "mnis_id": "5222",
         "twfy_id": "uk.org.publicwhip/person/26467",
+        "removed": false
+      },
+      {
+        "name": "Tris Osborne",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5220",
+        "twfy_id": "uk.org.publicwhip/person/26589",
+        "removed": false
+      },
+      {
+        "name": "Dr Simon Opher",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5030",
+        "twfy_id": "uk.org.publicwhip/person/26313",
         "removed": false
       }
     ]
@@ -540,8 +556,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/ocean.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/ocean.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

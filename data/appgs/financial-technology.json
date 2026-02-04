@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgfintech.org.uk/about/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Luke Charters",
@@ -91,7 +91,7 @@
         "member_type": "mp",
         "mnis_id": "5167",
         "twfy_id": "uk.org.publicwhip/person/26428",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Chris Coghlan",
@@ -123,7 +123,7 @@
         "member_type": "mp",
         "mnis_id": "5258",
         "twfy_id": "uk.org.publicwhip/person/26586",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Maya Ellis",
@@ -212,6 +212,22 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
+      },
+      {
+        "name": "Blake Stephenson",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5100",
+        "twfy_id": "uk.org.publicwhip/person/26355",
+        "removed": false
+      },
+      {
+        "name": "Sarah Russell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5324",
+        "twfy_id": "uk.org.publicwhip/person/26571",
+        "removed": false
       }
     ]
   },
@@ -244,8 +260,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/financial-technology.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/financial-technology.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

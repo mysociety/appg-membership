@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.youthemployment.org.uk/about-us/appg-for-youth-employment/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Mims Davies",
@@ -75,7 +75,7 @@
         "member_type": "other",
         "mnis_id": "4592",
         "twfy_id": "uk.org.publicwhip/person/25597",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Caroline Johnson",
@@ -83,6 +83,134 @@
         "member_type": "other",
         "mnis_id": "4592",
         "twfy_id": "uk.org.publicwhip/person/25597",
+        "removed": true
+      },
+      {
+        "name": "Adam Thompson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5044",
+        "twfy_id": "uk.org.publicwhip/person/26326",
+        "removed": false
+      },
+      {
+        "name": "Tony Hall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Stedman-Scott",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4174",
+        "twfy_id": "uk.org.publicwhip/person/25001",
+        "removed": false
+      },
+      {
+        "name": "David Blunkett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "395",
+        "twfy_id": "uk.org.publicwhip/person/10050",
+        "removed": false
+      },
+      {
+        "name": "Lord Young of Norwood Green",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Rt Hon Lord Knight of Weymouth",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Haskel",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2665",
+        "twfy_id": "uk.org.publicwhip/person/13499",
+        "removed": false
+      },
+      {
+        "name": "Lord Lucas",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1879",
+        "twfy_id": "uk.org.publicwhip/person/13301",
+        "removed": false
+      },
+      {
+        "name": "Afzal Khan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4671",
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
+      },
+      {
+        "name": "Marsha de Cordova",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4676",
+        "twfy_id": "uk.org.publicwhip/person/25620",
+        "removed": false
+      },
+      {
+        "name": "Jess Asato",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5156",
+        "twfy_id": "uk.org.publicwhip/person/26386",
+        "removed": false
+      },
+      {
+        "name": "Mike Reader",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5316",
+        "twfy_id": "uk.org.publicwhip/person/26630",
+        "removed": false
+      },
+      {
+        "name": "Natasha Irons",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5119",
+        "twfy_id": "uk.org.publicwhip/person/26404",
+        "removed": false
+      },
+      {
+        "name": "Damian Hinds",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3969",
+        "twfy_id": "uk.org.publicwhip/person/24782",
+        "removed": false
+      },
+      {
+        "name": "Baroness Blower",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4724",
+        "twfy_id": "uk.org.publicwhip/person/25777",
+        "removed": false
+      },
+      {
+        "name": "Lee Barron",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5315",
+        "twfy_id": "uk.org.publicwhip/person/26554",
         "removed": false
       }
     ]
@@ -107,8 +235,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/youth-employment.htm",
+  "index_date": "260112",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/youth-employment.htm",
   "categories": [
     "Education, Skills & Youth",
     "Economy, Business & Industry"

@@ -43,7 +43,7 @@
     "source_url": [
       "https://digitalidentitiesappg.wordpress.com/page/"
     ],
-    "last_updated": "2025-10-20",
+    "last_updated": "2026-02-04",
     "members": [
       {
         "name": "Dr Allison Gardner",
@@ -211,6 +211,22 @@
         "member_type": "mp",
         "mnis_id": "5334",
         "twfy_id": "uk.org.publicwhip/person/26621",
+        "removed": false
+      },
+      {
+        "name": "Martin Wrigley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5111",
+        "twfy_id": "uk.org.publicwhip/person/26484",
+        "removed": false
+      },
+      {
+        "name": "Lord Tim Clement-Jones",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
