@@ -314,9 +314,9 @@ def process_cpg(
         cy_member_list = []
 
         if en_appg:
-            # Reuse parsed member data from the English version
-            cy_officers = en_appg.officers.copy()
-            cy_member_list = en_appg.members_list.members.copy()
+            # Deep copy member data from the English version
+            cy_officers = [o.model_copy() for o in en_appg.officers]
+            cy_member_list = [m.model_copy() for m in en_appg.members_list.members]
         else:
             # Parse members from Welsh page as fallback
             cy_members_raw = parse_members_table(cy_html)
