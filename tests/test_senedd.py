@@ -5,6 +5,7 @@ from appg_membership.senedd import (
     clean_html_text,
     create_slug_from_name,
     determine_officer_role,
+    lookup_twfy_id,
     parse_cpg_list,
     parse_detail_page_purpose,
     parse_detail_page_title,
@@ -229,10 +230,13 @@ class TestParseMembersList:
         assert len(result) == 3
         assert result[0]["name"] == "Mike Hedges MS"
         assert result[0]["role"] == "Chair"
+        assert result[0]["senedd_id"] == "332"
         assert result[1]["name"] == "Sioned Williams MS"
         assert result[1]["role"] == "Vice-Chair"
+        assert result[1]["senedd_id"] == "8670"
         assert result[2]["name"] == "Jane Dodds MS"
         assert result[2]["role"] == ""
+        assert result[2]["senedd_id"] == "4983"
 
     def test_empty_list(self):
         html = """
@@ -247,6 +251,18 @@ class TestParseMembersList:
         result = parse_members_list(html)
         assert len(result) == 0
 
+    def test_member_without_link_has_no_senedd_id(self):
+        html = """
+        <h2 class="mgSectionTitle">Members</h2>
+        <ul class="mgBulletList">
+            <li>John Smith MS</li>
+        </ul>
+        """
+        result = parse_members_list(html)
+        assert len(result) == 1
+        assert result[0]["name"] == "John Smith MS"
+        assert result[0]["senedd_id"] == ""
+
     def test_real_english_members(self):
         """Test members extraction from real English detail page."""
         html = (SCRAPED_PAGES_DIR / "mgOutsideBodyDetails-en").read_text()
@@ -255,14 +271,18 @@ class TestParseMembersList:
         # Check Chair
         assert members[0]["name"] == "Mike Hedges MS"
         assert members[0]["role"] == "Chair"
+        assert members[0]["senedd_id"] == "332"
         # Check Vice-Chair
         assert members[1]["name"] == "Sioned Williams MS"
         assert members[1]["role"] == "Vice-Chair"
+        assert members[1]["senedd_id"] == "8670"
         # Check members without roles
         assert members[2]["name"] == "Jane Dodds MS"
         assert members[2]["role"] == ""
+        assert members[2]["senedd_id"] == "4983"
         assert members[3]["name"] == "Heledd Fychan MS"
         assert members[3]["role"] == ""
+        assert members[3]["senedd_id"] == "426"
 
     def test_real_welsh_members(self):
         """Test members extraction from real Welsh detail page."""
@@ -272,8 +292,10 @@ class TestParseMembersList:
         # Check Welsh role names
         assert members[0]["name"] == "Mike Hedges AS"
         assert members[0]["role"] == "Cadeirydd"
+        assert members[0]["senedd_id"] == "332"
         assert members[1]["name"] == "Sioned Williams AS"
         assert members[1]["role"] == "Is-Gadeirydd"
+        assert members[1]["senedd_id"] == "8670"
 
 
 class TestDetermineOfficerRole:
@@ -308,6 +330,44 @@ class TestDetermineOfficerRole:
 
     def test_welsh_secretary_is_officer(self):
         assert determine_officer_role("Ysgrifennydd") is True
+
+
+class TestLookupTwfyId:
+    """Tests for Senedd ID to TWFY ID conversion."""
+
+    def test_returns_none_when_no_popolo(self):
+        assert lookup_twfy_id("332", None) is None
+
+    def test_returns_none_for_empty_senedd_id(self):
+        assert lookup_twfy_id("", None) is None
+
+    def test_returns_none_for_unknown_id(self):
+        """Test that an unknown Senedd ID returns None (with a mock-like Popolo)."""
+
+        class FakePopolo:
+            class persons:
+                @staticmethod
+                def from_identifier(id, scheme):
+                    raise KeyError(f"Unknown id: {id}")
+
+        assert lookup_twfy_id("999999", FakePopolo()) is None
+
+    def test_returns_twfy_id_for_known_id(self):
+        """Test that a known Senedd ID returns the correct TWFY ID."""
+
+        class FakePerson:
+            id = "uk.org.publicwhip/person/26141"
+
+        class FakePopolo:
+            class persons:
+                @staticmethod
+                def from_identifier(id, scheme):
+                    if id == "332":
+                        return FakePerson()
+                    raise KeyError(f"Unknown id: {id}")
+
+        result = lookup_twfy_id("332", FakePopolo())
+        assert result == "uk.org.publicwhip/person/26141"
 
 
 class TestAPPGSeneddIntegration:

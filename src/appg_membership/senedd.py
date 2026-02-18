@@ -5,6 +5,8 @@ from pathlib import Path
 from urllib.parse import urljoin
 
 import httpx
+from mysoc_validator import Popolo
+from mysoc_validator.models.popolo import IdentifierScheme
 from pydantic import HttpUrl
 
 from .models import (
@@ -161,7 +163,8 @@ def parse_members_list(html: str) -> list[dict[str, str]]:
       <li><a href="mgUserInfo.aspx?UID=332">Mike Hedges MS</a> &#40;Chair&#41; </li>
     Roles are in HTML-encoded parentheses: &#40; = ( and &#41; = )
 
-    Returns a list of dicts with 'name' and 'role' keys.
+    Returns a list of dicts with 'name', 'role', and 'senedd_id' keys.
+    The senedd_id is extracted from the mgUserInfo.aspx?UID=NNN link.
     """
     members = []
 
@@ -186,6 +189,12 @@ def parse_members_list(html: str) -> list[dict[str, str]]:
     items = re.findall(r"<li>(.*?)</li>", list_html, re.DOTALL)
 
     for item in items:
+        # Extract senedd_id from mgUserInfo.aspx?UID=NNN link
+        senedd_id = ""
+        uid_match = re.search(r"mgUserInfo\.aspx\?UID=(\d+)", item, re.IGNORECASE)
+        if uid_match:
+            senedd_id = uid_match.group(1)
+
         # Extract name from link
         link_match = re.search(r"<a[^>]*>(.*?)</a>", item, re.DOTALL)
         if link_match:
@@ -202,7 +211,7 @@ def parse_members_list(html: str) -> list[dict[str, str]]:
         if role_match:
             role = unescape(role_match.group(1)).strip()
 
-        members.append({"name": name, "role": role})
+        members.append({"name": name, "role": role, "senedd_id": senedd_id})
 
     return members
 
@@ -228,9 +237,29 @@ def determine_officer_role(role: str) -> bool:
     return role.lower().strip() in officer_roles
 
 
+def lookup_twfy_id(senedd_id: str, popolo: Popolo | None) -> str | None:
+    """
+    Look up a TWFY person ID from a Senedd UID using the Popolo dataset.
+
+    Returns the TWFY person ID string (e.g. 'uk.org.publicwhip/person/26141')
+    or None if not found.
+    """
+    if not popolo or not senedd_id:
+        return None
+
+    try:
+        person = popolo.persons.from_identifier(
+            senedd_id, scheme=IdentifierScheme.SENEDD
+        )
+        return person.id
+    except (KeyError, ValueError):
+        return None
+
+
 def process_cpg(
     body_id: str,
     en_name: str,
+    popolo: Popolo | None = None,
 ) -> tuple[APPG | None, APPG | None]:
     """
     Process a single Senedd CPG, fetching both English and Welsh versions.
@@ -257,6 +286,8 @@ def process_cpg(
         for member_data in en_members_raw:
             name = member_data["name"]
             role = member_data["role"]
+            senedd_id = member_data["senedd_id"]
+            twfy_id = lookup_twfy_id(senedd_id, popolo)
 
             if determine_officer_role(role):
                 officers.append(
@@ -264,6 +295,8 @@ def process_cpg(
                         role=role,
                         name=name,
                         party="",
+                        mnis_id=senedd_id or None,
+                        twfy_id=twfy_id,
                     )
                 )
             else:
@@ -272,6 +305,8 @@ def process_cpg(
                         name=name,
                         is_officer=False,
                         member_type="ms",
+                        mnis_id=senedd_id or None,
+                        twfy_id=twfy_id,
                     )
                 )
 
@@ -322,6 +357,8 @@ def process_cpg(
             for member_data in cy_members_raw:
                 name = member_data["name"]
                 role = member_data["role"]
+                senedd_id = member_data["senedd_id"]
+                twfy_id = lookup_twfy_id(senedd_id, popolo)
 
                 if determine_officer_role(role):
                     cy_officers.append(
@@ -329,6 +366,8 @@ def process_cpg(
                             role=role,
                             name=name,
                             party="",
+                            mnis_id=senedd_id or None,
+                            twfy_id=twfy_id,
                         )
                     )
                 else:
@@ -337,6 +376,8 @@ def process_cpg(
                             name=name,
                             is_officer=False,
                             member_type="ms",
+                            mnis_id=senedd_id or None,
+                            twfy_id=twfy_id,
                         )
                     )
 
@@ -391,7 +432,8 @@ def download_and_convert_senedd_data():
     1. Fetches the list of Cross-Party Groups from the Senedd website
     2. For each group, fetches both the English and Welsh detail pages
     3. Extracts name, purpose, officers, and members
-    4. Saves one JSON file per group in data/cpg_senedd_en/ and data/cpg_senedd_cy/
+    4. Stores Senedd UIDs as mnis_id and converts to TWFY IDs using Popolo
+    5. Saves one JSON file per group in data/cpg_senedd_en/ and data/cpg_senedd_cy/
 
     The generated files follow the same format as UK APPGs for consistency.
     """
@@ -403,6 +445,10 @@ def download_and_convert_senedd_data():
 
     print(f"English output directory: {en_dir}")
     print(f"Welsh output directory: {cy_dir}")
+
+    # Initialize Popolo for person lookup (Senedd ID -> TWFY ID)
+    print("Loading Popolo data for Senedd ID conversion...")
+    popolo = Popolo.from_parlparse()
 
     # Fetch the listing page
     print("Fetching Senedd Cross-Party Group listing...")
@@ -425,7 +471,7 @@ def download_and_convert_senedd_data():
         name = entry["name"]
         print(f"Processing: {name} (ID: {body_id})")
 
-        en_appg, cy_appg = process_cpg(body_id, name)
+        en_appg, cy_appg = process_cpg(body_id, name, popolo=popolo)
 
         if en_appg:
             save_appg(en_appg, en_dir)
