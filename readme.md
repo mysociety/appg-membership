@@ -341,3 +341,34 @@ The output files follow the same format as UK APPGs for consistency, with:
 - **Public URLs**: parliament.scot Cross-Party Group pages
 
 For more detailed information about the Scotland functionality, see [README_scotland.md](README_scotland.md).
+
+## Senedd (Welsh Parliament) Cross-Party Groups
+
+This system can also download and process Cross-Party Group data from the Senedd (Welsh Parliament). Both English and Welsh language versions are scraped and stored separately.
+
+### Downloading Senedd Data
+
+```bash
+project senedd
+```
+
+This command will:
+- Fetch the list of Cross-Party Groups from `business.senedd.wales`
+- For each group, fetch both the English and Welsh language detail pages
+- Extract name, purpose, officers, and members from each page
+- Save one JSON file per group in `data/cpg_senedd_en/` (English) and `data/cpg_senedd_cy/` (Welsh)
+- Mark membership data as `official` source method
+
+The English and Welsh versions are treated as separate parliaments (`senedd-en` and `senedd-cy`) to mirror how they will eventually be presented in TheyWorkForYou.
+
+The output files follow the same format as UK APPGs for consistency, with:
+- `parliament` field set to `"senedd-en"` or `"senedd-cy"`
+- `member_type` set to `"ms"` (Member of the Senedd)
+- Officer roles detected in both English (Chair, Vice-Chair, Secretary) and Welsh (Cadeirydd, Is-Gadeirydd, Ysgrifennydd)
+- Source URLs pointing to the official Senedd ModernGov pages
+
+### Senedd Data Sources
+
+- **English listing page**: https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx
+- **English detail pages**: `https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID={id}`
+- **Welsh detail pages**: `https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID={id}`
