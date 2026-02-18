@@ -155,6 +155,19 @@ def parse_detail_page_purpose(html: str) -> str | None:
     return None
 
 
+def clean_member_name(name: str, has_senedd_id: bool) -> str:
+    """
+    Clean a member name by normalizing whitespace and stripping
+    the " MS" or " AS" suffix for Senedd members.
+    """
+    # Normalize excess whitespace
+    name = re.sub(r"\s+", " ", name).strip()
+    # Strip trailing " MS" or " AS" for parliamentary members
+    if has_senedd_id:
+        name = re.sub(r"\s+(?:MS|AS)$", "", name)
+    return name
+
+
 def parse_members_list(html: str) -> list[dict[str, str]]:
     """
     Parse the members list from a Senedd CPG detail page.
@@ -165,6 +178,8 @@ def parse_members_list(html: str) -> list[dict[str, str]]:
 
     Returns a list of dicts with 'name', 'role', and 'senedd_id' keys.
     The senedd_id is extracted from the mgUserInfo.aspx?UID=NNN link.
+    Names have excess whitespace normalized and " MS"/" AS" suffixes stripped
+    for parliamentary members (those with a senedd_id).
     """
     members = []
 
@@ -204,6 +219,9 @@ def parse_members_list(html: str) -> list[dict[str, str]]:
 
         if not name:
             continue
+
+        # Clean name: normalize whitespace, strip MS/AS suffix for Senedd members
+        name = clean_member_name(name, has_senedd_id=bool(senedd_id))
 
         # Extract role from HTML-encoded parentheses &#40;...&#41;
         role = ""
@@ -288,6 +306,7 @@ def process_cpg(
             role = member_data["role"]
             senedd_id = member_data["senedd_id"]
             twfy_id = lookup_twfy_id(senedd_id, popolo)
+            member_type = "ms" if senedd_id else "other"
 
             if determine_officer_role(role):
                 officers.append(
@@ -304,7 +323,7 @@ def process_cpg(
                     Member(
                         name=name,
                         is_officer=False,
-                        member_type="ms",
+                        member_type=member_type,
                         mnis_id=senedd_id or None,
                         twfy_id=twfy_id,
                     )
@@ -359,6 +378,7 @@ def process_cpg(
                 role = member_data["role"]
                 senedd_id = member_data["senedd_id"]
                 twfy_id = lookup_twfy_id(senedd_id, popolo)
+                member_type = "ms" if senedd_id else "other"
 
                 if determine_officer_role(role):
                     cy_officers.append(
@@ -375,7 +395,7 @@ def process_cpg(
                         Member(
                             name=name,
                             is_officer=False,
-                            member_type="ms",
+                            member_type=member_type,
                             mnis_id=senedd_id or None,
                             twfy_id=twfy_id,
                         )

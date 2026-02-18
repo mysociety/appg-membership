@@ -3,6 +3,7 @@ from pathlib import Path
 from appg_membership.models import APPG, Member, MemberList, Parliament
 from appg_membership.senedd import (
     clean_html_text,
+    clean_member_name,
     create_slug_from_name,
     determine_officer_role,
     lookup_twfy_id,
@@ -214,6 +215,32 @@ class TestParseDetailPagePurpose:
         assert "\n" not in purpose
 
 
+class TestCleanMemberName:
+    """Tests for the clean_member_name utility."""
+
+    def test_strips_ms_suffix_for_senedd_members(self):
+        assert clean_member_name("Mike Hedges MS", has_senedd_id=True) == "Mike Hedges"
+
+    def test_strips_as_suffix_for_senedd_members(self):
+        assert clean_member_name("Mike Hedges AS", has_senedd_id=True) == "Mike Hedges"
+
+    def test_keeps_ms_suffix_for_non_senedd_members(self):
+        assert clean_member_name("John Smith MS", has_senedd_id=False) == "John Smith MS"
+
+    def test_normalizes_excess_whitespace(self):
+        assert (
+            clean_member_name("Karen Davies    - Purple Shoots", has_senedd_id=False)
+            == "Karen Davies - Purple Shoots"
+        )
+
+    def test_strips_leading_trailing_whitespace(self):
+        assert clean_member_name("  Mike Hedges MS  ", has_senedd_id=True) == "Mike Hedges"
+
+    def test_no_false_strip_mid_name(self):
+        """MS or AS in middle of name is not stripped."""
+        assert clean_member_name("MSP Smith MS", has_senedd_id=True) == "MSP Smith"
+
+
 class TestParseMembersList:
     """Tests for parsing the members list."""
 
@@ -228,13 +255,13 @@ class TestParseMembersList:
         """
         result = parse_members_list(html)
         assert len(result) == 3
-        assert result[0]["name"] == "Mike Hedges MS"
+        assert result[0]["name"] == "Mike Hedges"
         assert result[0]["role"] == "Chair"
         assert result[0]["senedd_id"] == "332"
-        assert result[1]["name"] == "Sioned Williams MS"
+        assert result[1]["name"] == "Sioned Williams"
         assert result[1]["role"] == "Vice-Chair"
         assert result[1]["senedd_id"] == "8670"
-        assert result[2]["name"] == "Jane Dodds MS"
+        assert result[2]["name"] == "Jane Dodds"
         assert result[2]["role"] == ""
         assert result[2]["senedd_id"] == "4983"
 
@@ -260,7 +287,19 @@ class TestParseMembersList:
         """
         result = parse_members_list(html)
         assert len(result) == 1
-        assert result[0]["name"] == "John Smith MS"
+        assert result[0]["name"] == "John Smith MS"  # No senedd_id, so MS kept
+        assert result[0]["senedd_id"] == ""
+
+    def test_non_parliamentary_member_excess_spaces(self):
+        html = """
+        <h2 class="mgSectionTitle">Members</h2>
+        <ul class="mgBulletList">
+            <li>Karen Davies    - Purple Shoots</li>
+        </ul>
+        """
+        result = parse_members_list(html)
+        assert len(result) == 1
+        assert result[0]["name"] == "Karen Davies - Purple Shoots"
         assert result[0]["senedd_id"] == ""
 
     def test_real_english_members(self):
@@ -268,19 +307,19 @@ class TestParseMembersList:
         html = (SCRAPED_PAGES_DIR / "mgOutsideBodyDetails-en").read_text()
         members = parse_members_list(html)
         assert len(members) == 4
-        # Check Chair
-        assert members[0]["name"] == "Mike Hedges MS"
+        # Check Chair - MS stripped
+        assert members[0]["name"] == "Mike Hedges"
         assert members[0]["role"] == "Chair"
         assert members[0]["senedd_id"] == "332"
-        # Check Vice-Chair
-        assert members[1]["name"] == "Sioned Williams MS"
+        # Check Vice-Chair - MS stripped
+        assert members[1]["name"] == "Sioned Williams"
         assert members[1]["role"] == "Vice-Chair"
         assert members[1]["senedd_id"] == "8670"
-        # Check members without roles
-        assert members[2]["name"] == "Jane Dodds MS"
+        # Check members without roles - MS stripped
+        assert members[2]["name"] == "Jane Dodds"
         assert members[2]["role"] == ""
         assert members[2]["senedd_id"] == "4983"
-        assert members[3]["name"] == "Heledd Fychan MS"
+        assert members[3]["name"] == "Heledd Fychan"
         assert members[3]["role"] == ""
         assert members[3]["senedd_id"] == "426"
 
@@ -289,11 +328,11 @@ class TestParseMembersList:
         html = (SCRAPED_PAGES_DIR / "msOutsideBodyDetails-cy").read_text()
         members = parse_members_list(html)
         assert len(members) == 4
-        # Check Welsh role names
-        assert members[0]["name"] == "Mike Hedges AS"
+        # Check Welsh role names - AS stripped
+        assert members[0]["name"] == "Mike Hedges"
         assert members[0]["role"] == "Cadeirydd"
         assert members[0]["senedd_id"] == "332"
-        assert members[1]["name"] == "Sioned Williams AS"
+        assert members[1]["name"] == "Sioned Williams"
         assert members[1]["role"] == "Is-Gadeirydd"
         assert members[1]["senedd_id"] == "8670"
 
