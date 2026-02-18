@@ -32,44 +32,31 @@ def clean_html_text(html: str) -> str:
     text = re.sub(r"<br\s*/?>", "\n", html)
     text = re.sub(r"<[^>]+>", "", text)
     text = unescape(text)
-    text = re.sub(r"[ \t]+", " ", text)
-    text = re.sub(r"\n\s*\n", "\n", text)
+    text = re.sub(r"\s+", " ", text)
     return text.strip()
 
 
 def create_slug_from_name(name: str) -> str:
     """
     Convert a Senedd Cross-Party Group name to a slug.
-    E.g. 'Cross-Party Group on Epilepsy' -> 'epilepsy'
+
+    Handles the actual format used on the Senedd website:
+    E.g. 'Academic Staff in Universities - Cross Party Group' -> 'academic-staff-in-universities'
+    E.g. 'Staff Academaidd mewn Prifysgolion - Grŵp Trawsbleidiol' -> 'staff-academaidd-mewn-prifysgolion'
     """
-    # Remove common prefixes for Senedd CPGs
+    # Remove trailing " - Cross Party Group" or " - Grŵp Trawsbleidiol" suffix
     clean_name = re.sub(
-        r"^Cross-Party Group on\s+",
+        r"\s*-\s*Cross Party Group\s*$",
         "",
         name,
         flags=re.IGNORECASE,
     )
     clean_name = re.sub(
-        r"^Cross-Party Group for\s+",
+        r"\s*-\s*Grŵp Trawsbleidiol\s*$",
         "",
         clean_name,
         flags=re.IGNORECASE,
     )
-    clean_name = re.sub(
-        r"^Grŵp Trawsbleidiol ar\s+",
-        "",
-        clean_name,
-        flags=re.IGNORECASE,
-    )
-    clean_name = re.sub(
-        r"^Grŵp Trawsbleidiol ar gyfer\s+",
-        "",
-        clean_name,
-        flags=re.IGNORECASE,
-    )
-
-    # Remove leading "the " from the topic name
-    clean_name = re.sub(r"^the\s+", "", clean_name, flags=re.IGNORECASE)
 
     # Convert to lowercase and replace spaces/special chars with hyphens
     slug = re.sub(r"[^\w\s-]", "", clean_name.lower())
@@ -110,11 +97,13 @@ def parse_cpg_list(html: str) -> list[dict[str, str]]:
 def parse_detail_page_title(html: str) -> str | None:
     """
     Extract the title/name of the CPG from a detail page.
+
+    The Senedd ModernGov pages use:
+    <h2 class="mgSubTitleTxt">Academic Staff in Universities - Cross Party Group</h2>
     """
-    # Try common ModernGov title patterns
+    # Try the specific ModernGov subtitle pattern first (most reliable)
     patterns = [
-        r'<h1[^>]*class="[^"]*mgMainTitleSpacer[^"]*"[^>]*>(.*?)</h1>',
-        r'<span[^>]*id="[^"]*lblTitle[^"]*"[^>]*>(.*?)</span>',
+        r'<h2[^>]*class="mgSubTitleTxt"[^>]*>(.*?)</h2>',
         r"<h1[^>]*>(.*?)</h1>",
         r"<title>(.*?)(?:\s*-\s*.*?)?</title>",
     ]
@@ -133,75 +122,85 @@ def parse_detail_page_purpose(html: str) -> str | None:
     """
     Extract the purpose/description from a CPG detail page.
 
-    ModernGov outside body detail pages typically have a description
-    section that may be in various HTML structures.
+    The Senedd ModernGov pages have a description in a <div class="mgWordPara">
+    section. The purpose text sits between the "Purpose"/"Diben" heading and the
+    "Office-holders"/"Deiliaid swyddi" (or "Documentation"/"Dogfennau") heading.
     """
-    # Try to find a notes/description section
-    patterns = [
-        # Common pattern: "Notes" section with content
-        r'<span[^>]*id="[^"]*lblNotes[^"]*"[^>]*>(.*?)</span>',
-        # Content in a section body div after Description/Notes heading
-        r'(?:Description|Notes|Purpose)\s*:?\s*</(?:h[23456]|th|strong|b)>\s*</?\w[^>]*>\s*(.*?)(?=<(?:h[23456]|table|div\s+class))',
-        # Description in a dedicated div
-        r'<div[^>]*id="[^"]*divNotes[^"]*"[^>]*>(.*?)</div>',
-        # Try to find content between description heading and next section
-        r'<div[^>]*class="[^"]*mgSectionBody[^"]*"[^>]*>(.*?)</div>',
-    ]
+    # Find the mgWordPara section which contains the description
+    word_para_match = re.search(
+        r'<div class="mgWordPara">(.*?)</div>\s*</div>', html, re.DOTALL
+    )
+    if not word_para_match:
+        return None
 
-    for pattern in patterns:
-        match = re.search(pattern, html, re.DOTALL | re.IGNORECASE)
-        if match:
-            purpose = clean_html_text(match.group(1))
-            if purpose and len(purpose) > 5:
-                return purpose
+    content = word_para_match.group(1)
+
+    # Extract just the purpose text between Purpose/Diben heading and
+    # Office-holders/Deiliaid swyddi or Documentation/Dogfennau
+    purpose_match = re.search(
+        r"(?:Purpose|Diben)(.*?)(?:Office-holders|Deiliaid swyddi|Documentation|Dogfennau)",
+        content,
+        re.DOTALL | re.IGNORECASE,
+    )
+    if purpose_match:
+        purpose = re.sub(r"<[^>]+>", "", purpose_match.group(1))
+        purpose = unescape(purpose)
+        purpose = re.sub(r"\s+", " ", purpose)
+        purpose = purpose.strip().strip("\xa0").strip()
+        if purpose:
+            return purpose
 
     return None
 
 
-def parse_members_table(html: str) -> list[dict[str, str]]:
+def parse_members_list(html: str) -> list[dict[str, str]]:
     """
-    Parse the members/representatives table from a detail page.
+    Parse the members list from a Senedd CPG detail page.
+
+    The Senedd pages use a <ul class="mgBulletList"> with <li> items:
+      <li><a href="mgUserInfo.aspx?UID=332">Mike Hedges MS</a> &#40;Chair&#41; </li>
+    Roles are in HTML-encoded parentheses: &#40; = ( and &#41; = )
 
     Returns a list of dicts with 'name' and 'role' keys.
     """
     members = []
 
-    # Find all table rows that contain member links
-    # ModernGov member tables typically have links to mgUserInfo.aspx
-    row_pattern = r"<tr[^>]*>(.*?)</tr>"
-    rows = re.findall(row_pattern, html, re.DOTALL | re.IGNORECASE)
+    # Find the members bullet list (comes after Members/Aelodau heading)
+    list_match = re.search(
+        r'<h2[^>]*>(?:Members|Aelodau)</h2>\s*<ul\s+class="mgBulletList"[^>]*>(.*?)</ul>',
+        html,
+        re.DOTALL | re.IGNORECASE,
+    )
+    if not list_match:
+        # Fallback: try any mgBulletList
+        list_match = re.search(
+            r'<ul\s+class="mgBulletList"[^>]*>(.*?)</ul>',
+            html,
+            re.DOTALL | re.IGNORECASE,
+        )
 
-    for row in rows:
-        # Skip header rows
-        if "<th" in row.lower():
-            continue
+    if not list_match:
+        return members
 
-        # Extract cells
-        cells = re.findall(r"<td[^>]*>(.*?)</td>", row, re.DOTALL | re.IGNORECASE)
+    list_html = list_match.group(1)
+    items = re.findall(r"<li>(.*?)</li>", list_html, re.DOTALL)
 
-        if not cells:
-            continue
-
-        # First cell usually has the member name (possibly as a link)
-        name_html = cells[0]
-        # Try to get name from a link first
-        link_match = re.search(r"<a[^>]*>(.*?)</a>", name_html, re.DOTALL)
+    for item in items:
+        # Extract name from link
+        link_match = re.search(r"<a[^>]*>(.*?)</a>", item, re.DOTALL)
         if link_match:
-            name = clean_html_text(link_match.group(1))
+            name = re.sub(r"<[^>]+>", "", link_match.group(1)).strip()
         else:
-            name = clean_html_text(name_html)
+            name = re.sub(r"<[^>]+>", "", item).strip()
 
         if not name:
             continue
 
-        # Role is typically in a later cell (often the last one)
+        # Extract role from HTML-encoded parentheses &#40;...&#41;
         role = ""
-        if len(cells) >= 2:
-            # Check each cell after name for role content
-            for cell in cells[1:]:
-                cell_text = clean_html_text(cell)
-                if cell_text:
-                    role = cell_text
+        role_match = re.search(r"&#40;(.*?)&#41;", item)
+        if role_match:
+            role = unescape(role_match.group(1)).strip()
 
         members.append({"name": name, "role": role})
 
@@ -250,7 +249,7 @@ def process_cpg(
         en_html = fetch_page(en_url)
         en_title = parse_detail_page_title(en_html) or en_name
         en_purpose = parse_detail_page_purpose(en_html)
-        en_members_raw = parse_members_table(en_html)
+        en_members_raw = parse_members_list(en_html)
 
         officers = []
         member_list = []
@@ -319,7 +318,7 @@ def process_cpg(
             cy_member_list = [m.model_copy() for m in en_appg.members_list.members]
         else:
             # Parse members from Welsh page as fallback
-            cy_members_raw = parse_members_table(cy_html)
+            cy_members_raw = parse_members_list(cy_html)
             for member_data in cy_members_raw:
                 name = member_data["name"]
                 role = member_data["role"]

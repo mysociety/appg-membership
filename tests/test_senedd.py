@@ -1,3 +1,5 @@
+from pathlib import Path
+
 from appg_membership.models import APPG, Member, MemberList, Parliament
 from appg_membership.senedd import (
     clean_html_text,
@@ -6,8 +8,10 @@ from appg_membership.senedd import (
     parse_cpg_list,
     parse_detail_page_purpose,
     parse_detail_page_title,
-    parse_members_table,
+    parse_members_list,
 )
+
+SCRAPED_PAGES_DIR = Path(__file__).parent.parent / "temp-scraped-pages"
 
 
 class TestParliamentEnum:
@@ -82,30 +86,38 @@ class TestCleanHtmlText:
     def test_normalizes_whitespace(self):
         assert clean_html_text("  too   many   spaces  ") == "too many spaces"
 
+    def test_collapses_newlines_to_spaces(self):
+        assert clean_html_text("multi\n  line\n  text") == "multi line text"
+
 
 class TestCreateSlug:
     """Tests for the Senedd slug creation."""
 
-    def test_basic_slug(self):
-        assert create_slug_from_name("Cross-Party Group on Autism") == "autism"
+    def test_slug_from_cross_party_group_suffix(self):
+        result = create_slug_from_name("Autism - Cross Party Group")
+        assert result == "autism"
 
-    def test_slug_with_for(self):
+    def test_slug_multi_word_topic(self):
         result = create_slug_from_name(
-            "Cross-Party Group for Faith, Values and Ethics"
+            "Academic Staff in Universities - Cross Party Group"
         )
-        assert result == "faith-values-and-ethics"
+        assert result == "academic-staff-in-universities"
 
-    def test_slug_removes_the(self):
-        result = create_slug_from_name("Cross-Party Group on the Armed Forces")
-        assert result == "armed-forces"
+    def test_slug_with_ampersand(self):
+        result = create_slug_from_name(
+            "Co-operatives & Mutuals - Cross Party Group"
+        )
+        assert result == "co-operatives-mutuals"
+
+    def test_slug_from_welsh_suffix(self):
+        result = create_slug_from_name(
+            "Staff Academaidd mewn Prifysgolion - Grŵp Trawsbleidiol"
+        )
+        assert result == "staff-academaidd-mewn-prifysgolion"
 
     def test_slug_lowercases(self):
-        result = create_slug_from_name("Cross-Party Group on Mental Health")
+        result = create_slug_from_name("Mental Health - Cross Party Group")
         assert result == "mental-health"
-
-    def test_welsh_prefix_removal(self):
-        result = create_slug_from_name("Grŵp Trawsbleidiol ar Awtistiaeth")
-        assert result == "awtistiaeth"
 
 
 class TestParseCpgList:
@@ -113,33 +125,46 @@ class TestParseCpgList:
 
     def test_extracts_body_ids_and_names(self):
         html = """
-        <table>
-            <tr><td><a href="mgOutsideBodyDetails.aspx?ID=886">Cross-Party Group on Autism</a></td></tr>
-            <tr><td><a href="mgOutsideBodyDetails.aspx?ID=887">Cross-Party Group on Mental Health</a></td></tr>
-        </table>
+        <ul class="mgBulletList">
+            <li><a href="mgOutsideBodyDetails.aspx?ID=886"
+                   title="Link to details">Academic Staff in Universities - Cross Party Group</a></li>
+            <li><a href="mgOutsideBodyDetails.aspx?ID=790"
+                   title="Link to details">Active Travel Act - Cross Party Group</a></li>
+        </ul>
         """
         result = parse_cpg_list(html)
         assert len(result) == 2
         assert result[0]["id"] == "886"
-        assert result[0]["name"] == "Cross-Party Group on Autism"
-        assert result[1]["id"] == "887"
+        assert result[0]["name"] == "Academic Staff in Universities - Cross Party Group"
+        assert result[1]["id"] == "790"
 
     def test_empty_page(self):
         html = "<html><body>No groups</body></html>"
         result = parse_cpg_list(html)
         assert len(result) == 0
 
+    def test_real_listing_page(self):
+        """Test parsing against real Senedd listing page HTML."""
+        html = (SCRAPED_PAGES_DIR / "mgListOutsideBodiesByCategory.aspx").read_text()
+        result = parse_cpg_list(html)
+        assert len(result) == 85
+        # Check first entry
+        assert result[0]["id"] == "886"
+        assert result[0]["name"] == "Academic Staff in Universities - Cross Party Group"
+        # Check names don't have embedded newlines
+        for entry in result:
+            assert "\n" not in entry["name"]
+
 
 class TestParseDetailPageTitle:
     """Tests for parsing the title from a detail page."""
 
-    def test_h1_title(self):
-        html = '<h1 class="mgMainTitleSpacer">Cross-Party Group on Autism</h1>'
-        assert parse_detail_page_title(html) == "Cross-Party Group on Autism"
-
-    def test_span_title(self):
-        html = '<span id="lblTitle">Cross-Party Group on Mental Health</span>'
-        assert parse_detail_page_title(html) == "Cross-Party Group on Mental Health"
+    def test_mgSubTitleTxt(self):
+        html = '<h2 class="mgSubTitleTxt">Academic Staff in Universities - Cross Party Group</h2>'
+        assert (
+            parse_detail_page_title(html)
+            == "Academic Staff in Universities - Cross Party Group"
+        )
 
     def test_plain_h1(self):
         html = "<h1>Some Title</h1>"
@@ -149,61 +174,106 @@ class TestParseDetailPageTitle:
         html = "<div>No title here</div>"
         assert parse_detail_page_title(html) is None
 
+    def test_real_english_page_title(self):
+        """Test title extraction from real English detail page."""
+        html = (SCRAPED_PAGES_DIR / "mgOutsideBodyDetails-en").read_text()
+        title = parse_detail_page_title(html)
+        assert title == "Academic Staff in Universities - Cross Party Group"
+
+    def test_real_welsh_page_title(self):
+        """Test title extraction from real Welsh detail page."""
+        html = (SCRAPED_PAGES_DIR / "msOutsideBodyDetails-cy").read_text()
+        title = parse_detail_page_title(html)
+        assert title == "Staff Academaidd mewn Prifysgolion - Grŵp Trawsbleidiol"
+
 
 class TestParseDetailPagePurpose:
     """Tests for parsing the purpose from a detail page."""
-
-    def test_lblNotes_span(self):
-        html = '<span id="lblNotes">To promote awareness of autism.</span>'
-        assert parse_detail_page_purpose(html) == "To promote awareness of autism."
-
-    def test_divNotes_div(self):
-        html = '<div id="divNotes">To support mental health initiatives.</div>'
-        assert (
-            parse_detail_page_purpose(html) == "To support mental health initiatives."
-        )
 
     def test_no_purpose_returns_none(self):
         html = "<div>No purpose here</div>"
         assert parse_detail_page_purpose(html) is None
 
+    def test_real_english_page_purpose(self):
+        """Test purpose extraction from real English detail page."""
+        html = (SCRAPED_PAGES_DIR / "mgOutsideBodyDetails-en").read_text()
+        purpose = parse_detail_page_purpose(html)
+        assert purpose is not None
+        assert "universities" in purpose.lower()
+        assert "academic freedom" in purpose.lower()
+        # Should be clean text without newlines
+        assert "\n" not in purpose
 
-class TestParseMembersTable:
-    """Tests for parsing the members table."""
+    def test_real_welsh_page_purpose(self):
+        """Test purpose extraction from real Welsh detail page."""
+        html = (SCRAPED_PAGES_DIR / "msOutsideBodyDetails-cy").read_text()
+        purpose = parse_detail_page_purpose(html)
+        assert purpose is not None
+        assert "brifysgolion" in purpose.lower()
+        assert "\n" not in purpose
 
-    def test_basic_table(self):
+
+class TestParseMembersList:
+    """Tests for parsing the members list."""
+
+    def test_basic_bullet_list(self):
         html = """
-        <table>
-            <tr><th>Name</th><th>Role</th></tr>
-            <tr><td><a href="mgUserInfo.aspx?UID=1">John Smith MS</a></td><td>Chair</td></tr>
-            <tr><td><a href="mgUserInfo.aspx?UID=2">Jane Doe MS</a></td><td>Member</td></tr>
-        </table>
+        <h2 class="mgSectionTitle">Members</h2>
+        <ul  class="mgBulletList" >
+            <li><a href="mgUserInfo.aspx?UID=332">Mike Hedges MS</a> &#40;Chair&#41; </li>
+            <li><a href="mgUserInfo.aspx?UID=8670">Sioned Williams MS</a> &#40;Vice-Chair&#41; </li>
+            <li><a href="mgUserInfo.aspx?UID=4983">Jane Dodds MS</a>  </li>
+        </ul>
         """
-        result = parse_members_table(html)
-        assert len(result) == 2
-        assert result[0]["name"] == "John Smith MS"
+        result = parse_members_list(html)
+        assert len(result) == 3
+        assert result[0]["name"] == "Mike Hedges MS"
         assert result[0]["role"] == "Chair"
-        assert result[1]["name"] == "Jane Doe MS"
+        assert result[1]["name"] == "Sioned Williams MS"
+        assert result[1]["role"] == "Vice-Chair"
+        assert result[2]["name"] == "Jane Dodds MS"
+        assert result[2]["role"] == ""
 
-    def test_no_link_names(self):
+    def test_empty_list(self):
         html = """
-        <table>
-            <tr><th>Name</th><th>Role</th></tr>
-            <tr><td>John Smith</td><td>Chair</td></tr>
-        </table>
+        <h2 class="mgSectionTitle">Members</h2>
+        <ul class="mgBulletList"></ul>
         """
-        result = parse_members_table(html)
-        assert len(result) == 1
-        assert result[0]["name"] == "John Smith"
-
-    def test_empty_table(self):
-        html = """
-        <table>
-            <tr><th>Name</th><th>Role</th></tr>
-        </table>
-        """
-        result = parse_members_table(html)
+        result = parse_members_list(html)
         assert len(result) == 0
+
+    def test_no_members_section(self):
+        html = "<div>No members here</div>"
+        result = parse_members_list(html)
+        assert len(result) == 0
+
+    def test_real_english_members(self):
+        """Test members extraction from real English detail page."""
+        html = (SCRAPED_PAGES_DIR / "mgOutsideBodyDetails-en").read_text()
+        members = parse_members_list(html)
+        assert len(members) == 4
+        # Check Chair
+        assert members[0]["name"] == "Mike Hedges MS"
+        assert members[0]["role"] == "Chair"
+        # Check Vice-Chair
+        assert members[1]["name"] == "Sioned Williams MS"
+        assert members[1]["role"] == "Vice-Chair"
+        # Check members without roles
+        assert members[2]["name"] == "Jane Dodds MS"
+        assert members[2]["role"] == ""
+        assert members[3]["name"] == "Heledd Fychan MS"
+        assert members[3]["role"] == ""
+
+    def test_real_welsh_members(self):
+        """Test members extraction from real Welsh detail page."""
+        html = (SCRAPED_PAGES_DIR / "msOutsideBodyDetails-cy").read_text()
+        members = parse_members_list(html)
+        assert len(members) == 4
+        # Check Welsh role names
+        assert members[0]["name"] == "Mike Hedges AS"
+        assert members[0]["role"] == "Cadeirydd"
+        assert members[1]["name"] == "Sioned Williams AS"
+        assert members[1]["role"] == "Is-Gadeirydd"
 
 
 class TestDetermineOfficerRole:
@@ -218,6 +288,9 @@ class TestDetermineOfficerRole:
     def test_vice_chair_is_officer(self):
         assert determine_officer_role("Vice Chair") is True
 
+    def test_vice_hyphen_chair_is_officer(self):
+        assert determine_officer_role("Vice-Chair") is True
+
     def test_secretary_is_officer(self):
         assert determine_officer_role("Secretary") is True
 
@@ -230,6 +303,9 @@ class TestDetermineOfficerRole:
     def test_welsh_chair_is_officer(self):
         assert determine_officer_role("Cadeirydd") is True
 
+    def test_welsh_vice_chair_is_officer(self):
+        assert determine_officer_role("Is-Gadeirydd") is True
+
     def test_welsh_secretary_is_officer(self):
         assert determine_officer_role("Ysgrifennydd") is True
 
@@ -240,7 +316,7 @@ class TestAPPGSeneddIntegration:
     def test_create_senedd_en_appg(self):
         appg = APPG(
             slug="autism",
-            title="Cross-Party Group on Autism",
+            title="Autism - Cross Party Group",
             purpose="To promote awareness of autism.",
             parliament=Parliament.SENEDD_EN,
         )
@@ -250,7 +326,7 @@ class TestAPPGSeneddIntegration:
     def test_create_senedd_cy_appg(self):
         appg = APPG(
             slug="autism",
-            title="Grŵp Trawsbleidiol ar Awtistiaeth",
+            title="Awtistiaeth - Grŵp Trawsbleidiol",
             purpose="I hyrwyddo ymwybyddiaeth o awtistiaeth.",
             parliament=Parliament.SENEDD_CY,
         )
@@ -260,7 +336,7 @@ class TestAPPGSeneddIntegration:
     def test_appg_serialization(self):
         appg = APPG(
             slug="autism",
-            title="Cross-Party Group on Autism",
+            title="Autism - Cross Party Group",
             parliament=Parliament.SENEDD_EN,
         )
         data = appg.model_dump(mode="json")
@@ -269,7 +345,7 @@ class TestAPPGSeneddIntegration:
     def test_ms_member_in_appg(self):
         appg = APPG(
             slug="autism",
-            title="Cross-Party Group on Autism",
+            title="Autism - Cross Party Group",
             parliament=Parliament.SENEDD_EN,
             members_list=MemberList(
                 source_method="official",
