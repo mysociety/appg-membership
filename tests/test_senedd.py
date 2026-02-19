@@ -106,9 +106,7 @@ class TestCreateSlug:
         assert result == "academic-staff-in-universities"
 
     def test_slug_with_ampersand(self):
-        result = create_slug_from_name(
-            "Co-operatives & Mutuals - Cross Party Group"
-        )
+        result = create_slug_from_name("Co-operatives & Mutuals - Cross Party Group")
         assert result == "co-operatives-mutuals"
 
     def test_slug_from_welsh_suffix(self):
@@ -225,7 +223,9 @@ class TestCleanMemberName:
         assert clean_member_name("Mike Hedges AS", has_senedd_id=True) == "Mike Hedges"
 
     def test_keeps_ms_suffix_for_non_senedd_members(self):
-        assert clean_member_name("John Smith MS", has_senedd_id=False) == "John Smith MS"
+        assert (
+            clean_member_name("John Smith MS", has_senedd_id=False) == "John Smith MS"
+        )
 
     def test_normalizes_excess_whitespace(self):
         assert (
@@ -234,7 +234,9 @@ class TestCleanMemberName:
         )
 
     def test_strips_leading_trailing_whitespace(self):
-        assert clean_member_name("  Mike Hedges MS  ", has_senedd_id=True) == "Mike Hedges"
+        assert (
+            clean_member_name("  Mike Hedges MS  ", has_senedd_id=True) == "Mike Hedges"
+        )
 
     def test_no_false_strip_mid_name(self):
         """MS or AS in middle of name is not stripped."""
