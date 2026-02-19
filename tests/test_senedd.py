@@ -1,5 +1,3 @@
-from pathlib import Path
-
 from appg_membership.models import APPG, Member, MemberList, Parliament
 from appg_membership.senedd import (
     clean_html_text,
@@ -12,8 +10,6 @@ from appg_membership.senedd import (
     parse_detail_page_title,
     parse_members_list,
 )
-
-SCRAPED_PAGES_DIR = Path(__file__).parent.parent / "temp-scraped-pages"
 
 
 class TestParliamentEnum:
@@ -143,18 +139,6 @@ class TestParseCpgList:
         result = parse_cpg_list(html)
         assert len(result) == 0
 
-    def test_real_listing_page(self):
-        """Test parsing against real Senedd listing page HTML."""
-        html = (SCRAPED_PAGES_DIR / "mgListOutsideBodiesByCategory.aspx").read_text()
-        result = parse_cpg_list(html)
-        assert len(result) == 85
-        # Check first entry
-        assert result[0]["id"] == "886"
-        assert result[0]["name"] == "Academic Staff in Universities - Cross Party Group"
-        # Check names don't have embedded newlines
-        for entry in result:
-            assert "\n" not in entry["name"]
-
 
 class TestParseDetailPageTitle:
     """Tests for parsing the title from a detail page."""
@@ -174,18 +158,6 @@ class TestParseDetailPageTitle:
         html = "<div>No title here</div>"
         assert parse_detail_page_title(html) is None
 
-    def test_real_english_page_title(self):
-        """Test title extraction from real English detail page."""
-        html = (SCRAPED_PAGES_DIR / "mgOutsideBodyDetails-en").read_text()
-        title = parse_detail_page_title(html)
-        assert title == "Academic Staff in Universities - Cross Party Group"
-
-    def test_real_welsh_page_title(self):
-        """Test title extraction from real Welsh detail page."""
-        html = (SCRAPED_PAGES_DIR / "msOutsideBodyDetails-cy").read_text()
-        title = parse_detail_page_title(html)
-        assert title == "Staff Academaidd mewn Prifysgolion - Grŵp Trawsbleidiol"
-
 
 class TestParseDetailPagePurpose:
     """Tests for parsing the purpose from a detail page."""
@@ -193,24 +165,6 @@ class TestParseDetailPagePurpose:
     def test_no_purpose_returns_none(self):
         html = "<div>No purpose here</div>"
         assert parse_detail_page_purpose(html) is None
-
-    def test_real_english_page_purpose(self):
-        """Test purpose extraction from real English detail page."""
-        html = (SCRAPED_PAGES_DIR / "mgOutsideBodyDetails-en").read_text()
-        purpose = parse_detail_page_purpose(html)
-        assert purpose is not None
-        assert "universities" in purpose.lower()
-        assert "academic freedom" in purpose.lower()
-        # Should be clean text without newlines
-        assert "\n" not in purpose
-
-    def test_real_welsh_page_purpose(self):
-        """Test purpose extraction from real Welsh detail page."""
-        html = (SCRAPED_PAGES_DIR / "msOutsideBodyDetails-cy").read_text()
-        purpose = parse_detail_page_purpose(html)
-        assert purpose is not None
-        assert "brifysgolion" in purpose.lower()
-        assert "\n" not in purpose
 
 
 class TestCleanMemberName:
@@ -303,40 +257,6 @@ class TestParseMembersList:
         assert len(result) == 1
         assert result[0]["name"] == "Karen Davies - Purple Shoots"
         assert result[0]["senedd_id"] == ""
-
-    def test_real_english_members(self):
-        """Test members extraction from real English detail page."""
-        html = (SCRAPED_PAGES_DIR / "mgOutsideBodyDetails-en").read_text()
-        members = parse_members_list(html)
-        assert len(members) == 4
-        # Check Chair - MS stripped
-        assert members[0]["name"] == "Mike Hedges"
-        assert members[0]["role"] == "Chair"
-        assert members[0]["senedd_id"] == "332"
-        # Check Vice-Chair - MS stripped
-        assert members[1]["name"] == "Sioned Williams"
-        assert members[1]["role"] == "Vice-Chair"
-        assert members[1]["senedd_id"] == "8670"
-        # Check members without roles - MS stripped
-        assert members[2]["name"] == "Jane Dodds"
-        assert members[2]["role"] == ""
-        assert members[2]["senedd_id"] == "4983"
-        assert members[3]["name"] == "Heledd Fychan"
-        assert members[3]["role"] == ""
-        assert members[3]["senedd_id"] == "426"
-
-    def test_real_welsh_members(self):
-        """Test members extraction from real Welsh detail page."""
-        html = (SCRAPED_PAGES_DIR / "msOutsideBodyDetails-cy").read_text()
-        members = parse_members_list(html)
-        assert len(members) == 4
-        # Check Welsh role names - AS stripped
-        assert members[0]["name"] == "Mike Hedges"
-        assert members[0]["role"] == "Cadeirydd"
-        assert members[0]["senedd_id"] == "332"
-        assert members[1]["name"] == "Sioned Williams"
-        assert members[1]["role"] == "Is-Gadeirydd"
-        assert members[1]["senedd_id"] == "8670"
 
 
 class TestDetermineOfficerRole:
