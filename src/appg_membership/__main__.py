@@ -4,6 +4,24 @@ from typer import Typer
 app = Typer(pretty_exceptions_enable=False)
 
 
+def _parse_parliaments(parliament: str):
+    from .models import Parliament
+
+    options = {
+        "scotland": [Parliament.SCOTLAND],
+        "senedd-en": [Parliament.SENEDD_EN],
+        "senedd-cy": [Parliament.SENEDD_CY],
+        "ni": [Parliament.NI],
+        "all": [
+            Parliament.SCOTLAND,
+            Parliament.SENEDD_EN,
+            Parliament.SENEDD_CY,
+            Parliament.NI,
+        ],
+    }
+    return options.get(parliament.lower())
+
+
 @app.command()
 def fetch_appg_index(latest_only: bool = False):
     """
@@ -272,6 +290,30 @@ def senedd():
     except Exception as e:
         print(f"Error downloading Senedd data: {e}")
         raise typer.Exit(1)
+
+
+@app.command()
+def assign_categories(parliament: str = "all", all_groups: bool = False):
+    """
+    Run LLM category assignment for devolved parliaments.
+
+    By default this only classifies groups that currently have no categories.
+    Use --all-groups to reclassify all groups in the selected parliament(s).
+    """
+    from .category_assignment import assign_categories
+
+    selected_parliaments = _parse_parliaments(parliament)
+    if selected_parliaments is None:
+        print(
+            "Error: parliament must be one of: all, scotland, senedd-en, senedd-cy, ni"
+        )
+        raise typer.Exit(1)
+
+    updated_count = assign_categories(
+        parliaments=selected_parliaments,
+        only_missing=not all_groups,
+    )
+    print(f"Assigned categories for {updated_count} groups")
 
 
 def main():

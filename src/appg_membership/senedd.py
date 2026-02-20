@@ -9,6 +9,7 @@ from mysoc_validator import Popolo
 from mysoc_validator.models.popolo import IdentifierScheme
 from pydantic import HttpUrl
 
+from .category_assignment import assign_categories_for_new_groups
 from .models import (
     APPG,
     ContactDetails,
@@ -435,6 +436,11 @@ def save_appg(appg: APPG, data_dir: Path) -> None:
     Save an APPG to a JSON file.
     """
     file_path = data_dir / f"{appg.slug}.json"
+    if file_path.exists() and not appg.categories:
+        with file_path.open("r", encoding="utf-8") as existing_file:
+            existing_appg = APPG.model_validate_json(existing_file.read())
+        appg.categories = existing_appg.categories
+
     with file_path.open("w", encoding="utf-8") as f:
         json.dump(
             appg.model_dump(mode="json", exclude_none=False),
@@ -462,6 +468,8 @@ def download_and_convert_senedd_data():
     cy_dir = base_dir / "cpg_senedd_cy"
     en_dir.mkdir(parents=True, exist_ok=True)
     cy_dir.mkdir(parents=True, exist_ok=True)
+    existing_en_slugs = {path.stem for path in en_dir.glob("*.json")}
+    existing_cy_slugs = {path.stem for path in cy_dir.glob("*.json")}
 
     print(f"English output directory: {en_dir}")
     print(f"Welsh output directory: {cy_dir}")
@@ -510,3 +518,22 @@ def download_and_convert_senedd_data():
     print(f"\nCompleted processing {len(cpg_entries)} Cross-Party Groups")
     print(f"English files saved: {en_count} to {en_dir}")
     print(f"Welsh files saved: {cy_count} to {cy_dir}")
+
+    current_en_slugs = {path.stem for path in en_dir.glob("*.json")}
+    current_cy_slugs = {path.stem for path in cy_dir.glob("*.json")}
+
+    en_assigned_count = assign_categories_for_new_groups(
+        parliament=Parliament.SENEDD_EN,
+        previous_slugs=existing_en_slugs,
+        current_slugs=current_en_slugs,
+    )
+    cy_assigned_count = assign_categories_for_new_groups(
+        parliament=Parliament.SENEDD_CY,
+        previous_slugs=existing_cy_slugs,
+        current_slugs=current_cy_slugs,
+    )
+
+    if en_assigned_count:
+        print(f"Assigned categories for {en_assigned_count} new Senedd English groups")
+    if cy_assigned_count:
+        print(f"Assigned categories for {cy_assigned_count} new Senedd Welsh groups")
