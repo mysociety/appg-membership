@@ -4,8 +4,10 @@ from appg_membership.ni_assembly import (
     NIMemberRole,
     NIOrganisation,
     NIOrganisationsResponse,
+    PascalModel,
     create_slug_from_name,
     determine_officer_role,
+    lookup_twfy_id,
     normalise_role_name,
     scrape_benefits_from_detail_page,
     scrape_purpose_from_detail_page,
@@ -114,6 +116,24 @@ class TestNormaliseRoleName:
 
     def test_member(self):
         assert normalise_role_name("Assembly Party Group Member") == "Member"
+
+
+class TestPascalModel:
+    """Tests for the PascalModel alias generator."""
+
+    def test_alias_generator_converts_snake_to_pascal(self):
+        """Verify the alias generator maps PascalCase JSON keys to snake_case fields."""
+        data = {
+            "OrganisationId": "123",
+            "OrganisationName": "Test Group",
+            "OrganisationType": "All Party Group",
+        }
+        org = NIOrganisation.model_validate(data)
+        assert org.organisation_id == "123"
+
+    def test_pascal_model_is_base_class(self):
+        assert issubclass(NIOrganisation, PascalModel)
+        assert issubclass(NIMemberRole, PascalModel)
 
 
 class TestNIOrganisationModels:
@@ -284,3 +304,37 @@ class TestAPPGNIIntegration:
         )
         assert appg.members_list.members[0].member_type == "mla"
         assert appg.members_list.members[0].name == "Dr Steve Aiken OBE"
+
+
+class TestLookupTwfyId:
+    """Tests for NI Assembly person ID to TWFY ID conversion."""
+
+    def test_returns_none_when_no_popolo(self):
+        assert lookup_twfy_id("5797", None) is None
+
+    def test_returns_none_for_empty_person_id(self):
+        assert lookup_twfy_id("", None) is None
+
+    def test_returns_none_for_unknown_id(self):
+        class FakePopolo:
+            class persons:
+                @staticmethod
+                def from_identifier(id, scheme):
+                    raise KeyError(f"Unknown id: {id}")
+
+        assert lookup_twfy_id("999999", FakePopolo()) is None
+
+    def test_returns_twfy_id_for_known_id(self):
+        class FakePerson:
+            id = "uk.org.publicwhip/person/25000"
+
+        class FakePopolo:
+            class persons:
+                @staticmethod
+                def from_identifier(id, scheme):
+                    if id == "5797":
+                        return FakePerson()
+                    raise KeyError(f"Unknown id: {id}")
+
+        result = lookup_twfy_id("5797", FakePopolo())
+        assert result == "uk.org.publicwhip/person/25000"

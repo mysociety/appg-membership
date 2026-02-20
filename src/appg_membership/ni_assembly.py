@@ -3,7 +3,10 @@ import re
 from pathlib import Path
 
 import httpx
-from pydantic import BaseModel, Field, HttpUrl
+from mysoc_validator import Popolo
+from mysoc_validator.models.popolo import IdentifierScheme
+from pydantic import AliasGenerator, BaseModel, ConfigDict, HttpUrl
+from pydantic.alias_generators import to_pascal
 
 from .models import (
     APPG,
@@ -29,50 +32,58 @@ DETAIL_PAGE_URL = "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid={org
 # --- Pydantic models for NI Assembly API responses ---
 
 
-class NIOrganisation(BaseModel):
+class PascalModel(BaseModel):
+    """Base model that converts snake_case field names to PascalCase aliases."""
+
+    model_config = ConfigDict(
+        alias_generator=AliasGenerator(validation_alias=to_pascal),
+    )
+
+
+class NIOrganisation(PascalModel):
     """A single NI Assembly All-Party Group organisation."""
 
-    organisation_id: str = Field(alias="OrganisationId")
-    organisation_name: str = Field(alias="OrganisationName")
-    organisation_type: str = Field(alias="OrganisationType")
+    organisation_id: str
+    organisation_name: str
+    organisation_type: str
 
 
-class NIOrganisationsList(BaseModel):
+class NIOrganisationsList(PascalModel):
     """Wrapper for the list of organisations."""
 
-    organisation: list[NIOrganisation] = Field(alias="Organisation")
+    organisation: list[NIOrganisation]
 
 
-class NIOrganisationsResponse(BaseModel):
+class NIOrganisationsResponse(PascalModel):
     """Top-level response from GetAllPartyGroupsListCurrent_JSON."""
 
-    organisations_list: NIOrganisationsList = Field(alias="OrganisationsList")
+    organisations_list: NIOrganisationsList
 
 
-class NIMemberRole(BaseModel):
+class NIMemberRole(PascalModel):
     """A single member role from the NI Assembly API."""
 
-    person_id: str = Field(alias="PersonId")
-    affiliation_id: str = Field(alias="AffiliationId")
-    member_full_display_name: str = Field(alias="MemberFullDisplayName")
-    role_type: str = Field(alias="RoleType")
-    role: str = Field(alias="Role")
-    organisation_id: str = Field(alias="OrganisationId")
-    organisation: str = Field(alias="Organisation")
-    affiliation_start: str = Field(alias="AffiliationStart")
-    affiliation_title: str = Field(alias="AffiliationTitle")
+    person_id: str
+    affiliation_id: str
+    member_full_display_name: str
+    role_type: str
+    role: str
+    organisation_id: str
+    organisation: str
+    affiliation_start: str
+    affiliation_title: str
 
 
-class NIAllMembersRoles(BaseModel):
+class NIAllMembersRoles(PascalModel):
     """Wrapper for all member roles."""
 
-    role: list[NIMemberRole] = Field(alias="Role")
+    role: list[NIMemberRole]
 
 
-class NIAllMembersRolesResponse(BaseModel):
+class NIAllMembersRolesResponse(PascalModel):
     """Top-level response from GetAllMemberRoles_JSON."""
 
-    all_members_roles: NIAllMembersRoles = Field(alias="AllMembersRoles")
+    all_members_roles: NIAllMembersRoles
 
 
 # --- Helper functions ---
@@ -126,6 +137,25 @@ def normalise_role_name(role: str) -> str:
         role,
         flags=re.IGNORECASE,
     ).strip()
+
+
+def lookup_twfy_id(person_id: str, popolo: Popolo | None) -> str | None:
+    """
+    Look up a TWFY person ID from an NI Assembly person ID using the Popolo dataset.
+
+    Returns the TWFY person ID string (e.g. 'uk.org.publicwhip/person/...')
+    or None if not found.
+    """
+    if not popolo or not person_id:
+        return None
+
+    try:
+        person = popolo.persons.from_identifier(
+            person_id, scheme=IdentifierScheme.NI_ASSEMBLY
+        )
+        return person.id
+    except (KeyError, ValueError):
+        return None
 
 
 def fetch_organisations() -> list[NIOrganisation]:
@@ -236,12 +266,17 @@ def download_and_convert_ni_data():
     This function:
     1. Fetches current All-Party Groups from the NI Assembly API
     2. Fetches all member roles and filters to APG roles
-    3. Scrapes purpose and financial benefits from detail pages
-    4. Saves one JSON file per group in data/apg_ni/
+    3. Uses the Popolo library for TWFY ID lookups
+    4. Scrapes purpose and financial benefits from detail pages
+    5. Saves one JSON file per group in data/apg_ni/
     """
     data_dir = Path(__file__).parent.parent.parent / "data" / "apg_ni"
     data_dir.mkdir(parents=True, exist_ok=True)
     print(f"Output directory: {data_dir}")
+
+    # Initialize Popolo for person lookup
+    print("Loading Popolo data for NI Assembly ID conversion...")
+    popolo = Popolo.from_parlparse()
 
     # Fetch all the data
     print("Fetching NI Assembly All-Party Groups...")
@@ -294,6 +329,8 @@ def download_and_convert_ni_data():
         for role in seen_persons.values():
             name = role.member_full_display_name
             is_officer = determine_officer_role(role.role)
+            twfy_id = lookup_twfy_id(role.person_id, popolo)
+            member_type = "mla" if twfy_id else "other"
 
             if is_officer:
                 officers.append(
@@ -301,6 +338,8 @@ def download_and_convert_ni_data():
                         role=normalise_role_name(role.role),
                         name=name,
                         party="",
+                        twfy_id=twfy_id,
+                        mnis_id=role.person_id,
                     )
                 )
             else:
@@ -308,7 +347,9 @@ def download_and_convert_ni_data():
                     Member(
                         name=name,
                         is_officer=False,
-                        member_type="mla",
+                        member_type=member_type,
+                        twfy_id=twfy_id,
+                        mnis_id=role.person_id,
                     )
                 )
 
