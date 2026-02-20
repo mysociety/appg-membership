@@ -155,9 +155,10 @@ def scrape_purpose_from_detail_page(html: str) -> str | None:
     Extract the purpose text from an NI Assembly APG detail page.
     Looks for the 'Purpose' accordion section.
     """
-    # Find the purpose accordion content
+    # Find the purpose accordion content - match up to the next accordion or end
     purpose_match = re.search(
-        r'id="ctl00_MainContentPlaceHolder_AccordionPane0_content"[^>]*>(.*?)</div>\s*</div>',
+        r'id="ctl00_MainContentPlaceHolder_AccordionPane0_content"[^>]*>(.*?)'
+        r'(?=<div[^>]*id="ctl00_MainContentPlaceHolder_AccordionPane1|$)',
         html,
         re.DOTALL | re.IGNORECASE,
     )
@@ -182,9 +183,10 @@ def scrape_benefits_from_detail_page(html: str) -> str | None:
     Extract the financial or other benefits text from an NI Assembly APG detail page.
     Looks for the 'Financial or Other Benefits Received' accordion section.
     """
-    # Find the benefits accordion content
+    # Find the benefits accordion content - match up to the next accordion or end
     benefits_match = re.search(
-        r'id="ctl00_MainContentPlaceHolder_AccordionPane1_content"[^>]*>(.*?)</div>\s*</div>\s*</div>\s*</div>',
+        r'id="ctl00_MainContentPlaceHolder_AccordionPane1_content"[^>]*>(.*?)'
+        r'(?=<div[^>]*id="ctl00_MainContentPlaceHolder_AccordionPane[2-9]|$)',
         html,
         re.DOTALL | re.IGNORECASE,
     )
