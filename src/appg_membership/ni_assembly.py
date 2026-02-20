@@ -9,6 +9,7 @@ from mysoc_validator.models.popolo import IdentifierScheme
 from pydantic import AliasGenerator, BaseModel, ConfigDict, HttpUrl
 from pydantic.alias_generators import to_pascal
 
+from .category_assignment import assign_categories_for_new_groups
 from .models import (
     APPG,
     ContactDetails,
@@ -308,6 +309,7 @@ def download_and_convert_ni_data():
     data_dir = Path(__file__).parent.parent.parent / "data" / "apg_ni"
     data_dir.mkdir(parents=True, exist_ok=True)
     print(f"Output directory: {data_dir}")
+    existing_slugs = {path.stem for path in data_dir.glob("*.json")}
 
     # Initialize Popolo for person lookup
     print("Loading Popolo data for NI Assembly ID conversion...")
@@ -416,6 +418,11 @@ def download_and_convert_ni_data():
 
         # Save to file
         file_path = data_dir / f"{slug}.json"
+        if file_path.exists() and not appg.categories:
+            with file_path.open("r", encoding="utf-8") as existing_file:
+                existing_appg = APPG.model_validate_json(existing_file.read())
+            appg.categories = existing_appg.categories
+
         with file_path.open("w", encoding="utf-8") as f:
             json.dump(
                 appg.model_dump(mode="json", exclude_none=False),
@@ -430,3 +437,12 @@ def download_and_convert_ni_data():
 
     print(f"\nCompleted processing {len(organisations)} All-Party Groups")
     print(f"Files saved to: {data_dir}")
+
+    current_slugs = {path.stem for path in data_dir.glob("*.json")}
+    assigned_count = assign_categories_for_new_groups(
+        parliament=Parliament.NI,
+        previous_slugs=existing_slugs,
+        current_slugs=current_slugs,
+    )
+    if assigned_count:
+        print(f"Assigned categories for {assigned_count} new NI groups")
