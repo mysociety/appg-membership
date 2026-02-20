@@ -372,3 +372,32 @@ The output files follow the same format as UK APPGs for consistency, with:
 - **English listing page**: https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx
 - **English detail pages**: `https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID={id}`
 - **Welsh detail pages**: `https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID={id}`
+
+## Northern Ireland Assembly All-Party Groups
+
+This system can also download and process All-Party Group data from the Northern Ireland Assembly.
+
+### Downloading NI Assembly Data
+
+```bash
+project ni-assembly
+```
+
+This command will:
+- Fetch all current All-Party Groups from the NI Assembly organisations API
+- Download member roles and filter to APG role assignments
+- Scrape purpose and financial benefits from detail pages
+- Save one JSON file per group in `data/apg_ni/`
+- Mark membership data as `official` source method
+
+The output files follow the same format as UK APPGs for consistency, with:
+- `parliament` field set to `"ni"`
+- `member_type` set to `"mla"` (Member of the Legislative Assembly)
+- Officer roles detected: Chairperson, Vice-Chairperson, Secretary, Treasurer
+- Members deduplicated per group, preferring officer roles over member roles
+
+### NI Assembly Data Sources
+
+- **Current groups**: `https://data.niassembly.gov.uk/organisations.asmx/GetAllPartyGroupsListCurrent_JSON`
+- **Member roles**: `https://data.niassembly.gov.uk/members.asmx/GetAllMemberRoles_JSON`
+- **Detail pages**: `https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid={id}`
