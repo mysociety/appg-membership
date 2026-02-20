@@ -14,6 +14,7 @@ class Parliament(StrEnum):
     SCOTLAND = "scotland"
     SENEDD_EN = "senedd-en"
     SENEDD_CY = "senedd-cy"
+    NI = "ni"
 
 
 register_dates = [
@@ -68,7 +69,7 @@ class AppgCategory(StrEnum):
 class Member(BaseModel):
     name: str
     is_officer: bool = False
-    member_type: Literal["mp", "lord", "msp", "ms", "other"]
+    member_type: Literal["mp", "lord", "msp", "ms", "mla", "other"]
     mnis_id: Optional[str] = None
     twfy_id: Optional[str] = None
     removed: bool = False
@@ -250,6 +251,8 @@ class APPG(BaseModel):
             return "cpg_senedd_cy"
         elif parliament == Parliament.SCOTLAND:
             return "cpg_scotland"
+        elif parliament == Parliament.NI:
+            return "apg_ni"
         else:
             raise ValueError(f"Unknown parliament: {parliament}")
 
