@@ -224,6 +224,30 @@ def scotland():
 
 
 @app.command()
+def ni_assembly():
+    """
+    Download and convert NI Assembly All-Party Group data to APPG format.
+
+    This command fetches official All-Party Group data from the NI Assembly API
+    and converts it to the standard APPG format. It will:
+    - Fetch all current All-Party Groups from the NI Assembly organisations API
+    - Download member roles and filter to APG role assignments
+    - Scrape purpose and financial benefits from detail pages
+    - Save one JSON file per group in data/apg_ni/
+    - Mark membership data as 'official' source method
+
+    The output files follow the same format as UK APPGs for consistency.
+    """
+    from .ni_assembly import download_and_convert_ni_data
+
+    try:
+        download_and_convert_ni_data()
+    except Exception as e:
+        print(f"Error downloading NI Assembly data: {e}")
+        raise typer.Exit(1)
+
+
+@app.command()
 def senedd():
     """
     Download and convert Senedd Cross-Party Group data to APPG format.
