@@ -6,8 +6,8 @@ class Settings(BaseSettings):
     Settings for the Bluesky Manager application, loaded from environment variables.
     """
 
-    OPENAI_APIKEY: str
-    PARL_USERAGENT: str
+    OPENAI_APIKEY: str = ""
+    PARL_USERAGENT: str = "appg-membership"
     TAVITY_API_KEY: str = ""
 
     class Config:
