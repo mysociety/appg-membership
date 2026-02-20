@@ -12,7 +12,8 @@ from pydantic import BaseModel, EmailStr, Field, HttpUrl, RootModel, field_valid
 class Parliament(StrEnum):
     UK = "uk"
     SCOTLAND = "scotland"
-    WALES = "wales"
+    SENEDD_EN = "senedd-en"
+    SENEDD_CY = "senedd-cy"
 
 
 register_dates = [
@@ -67,7 +68,7 @@ class AppgCategory(StrEnum):
 class Member(BaseModel):
     name: str
     is_officer: bool = False
-    member_type: Literal["mp", "lord", "msp", "other"]
+    member_type: Literal["mp", "lord", "msp", "ms", "other"]
     mnis_id: Optional[str] = None
     twfy_id: Optional[str] = None
     removed: bool = False
@@ -243,8 +244,10 @@ class APPG(BaseModel):
         """
         if parliament == Parliament.UK:
             return "appgs"
-        elif parliament == Parliament.WALES:
-            return "cpg_wales"
+        elif parliament == Parliament.SENEDD_EN:
+            return "cpg_senedd_en"
+        elif parliament == Parliament.SENEDD_CY:
+            return "cpg_senedd_cy"
         elif parliament == Parliament.SCOTLAND:
             return "cpg_scotland"
         else:

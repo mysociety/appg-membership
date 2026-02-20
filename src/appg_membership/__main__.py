@@ -223,6 +223,33 @@ def scotland():
         raise typer.Exit(1)
 
 
+@app.command()
+def senedd():
+    """
+    Download and convert Senedd Cross-Party Group data to APPG format.
+
+    This command scrapes Cross-Party Group data from the Senedd website
+    and converts it to the standard APPG format. It will:
+    - Fetch the list of Cross-Party Groups from business.senedd.wales
+    - For each group, fetch both the English and Welsh language detail pages
+    - Extract name, purpose, officers, and members
+    - Save one JSON file per group in data/cpg_senedd_en/ (English)
+      and data/cpg_senedd_cy/ (Welsh)
+    - Mark membership data as 'official' source method
+
+    The English and Welsh versions are treated as separate parliaments
+    ('senedd-en' and 'senedd-cy') to mirror how they will be presented
+    in TheyWorkForYou.
+    """
+    from .senedd import download_and_convert_senedd_data
+
+    try:
+        download_and_convert_senedd_data()
+    except Exception as e:
+        print(f"Error downloading Senedd data: {e}")
+        raise typer.Exit(1)
+
+
 def main():
     """
     Main function to run the Typer app.
