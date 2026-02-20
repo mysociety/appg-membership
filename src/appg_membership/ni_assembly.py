@@ -1,5 +1,6 @@
 import json
 import re
+from html import unescape
 from pathlib import Path
 
 import httpx
@@ -23,9 +24,7 @@ ORGANISATIONS_URL = (
     "https://data.niassembly.gov.uk/organisations.asmx/"
     "GetAllPartyGroupsListCurrent_JSON"
 )
-MEMBER_ROLES_URL = (
-    "https://data.niassembly.gov.uk/members.asmx/GetAllMemberRoles_JSON"
-)
+MEMBER_ROLES_URL = "https://data.niassembly.gov.uk/members.asmx/GetAllMemberRoles_JSON"
 DETAIL_PAGE_URL = "https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid={org_id}"
 
 
@@ -180,32 +179,65 @@ def fetch_member_roles() -> list[NIMemberRole]:
     return parsed.all_members_roles.role
 
 
+def _clean_html_to_text(html_fragment: str) -> str:
+    """Convert an HTML fragment to plain text, excluding scripts/styles."""
+    text = re.sub(
+        r"<script[^>]*>.*?</script>",
+        " ",
+        html_fragment,
+        flags=re.DOTALL | re.IGNORECASE,
+    )
+    text = re.sub(
+        r"<style[^>]*>.*?</style>", " ", text, flags=re.DOTALL | re.IGNORECASE
+    )
+    text = re.sub(
+        r"<noscript[^>]*>.*?</noscript>", " ", text, flags=re.DOTALL | re.IGNORECASE
+    )
+    text = re.sub(r"<br\s*/?>", "\n", text, flags=re.IGNORECASE)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = unescape(text)
+    text = re.sub(r"\s+", " ", text).strip()
+    text = re.sub(r"\s+([,.;:!?])", r"\1", text)
+    return text
+
+
 def scrape_purpose_from_detail_page(html: str) -> str | None:
     """
     Extract the purpose text from an NI Assembly APG detail page.
     Looks for the 'Purpose' accordion section.
     """
-    # Find the purpose accordion content - match up to the next accordion or end
-    purpose_match = re.search(
-        r'id="ctl00_MainContentPlaceHolder_AccordionPane0_content"[^>]*>(.*?)'
-        r'(?=<div[^>]*id="ctl00_MainContentPlaceHolder_AccordionPane1|$)',
+    synopsis_match = re.search(
+        r'<div[^>]*class="[^"]*synopsis[^"]*"[^>]*>(.*?)</div>\s*</div>',
         html,
         re.DOTALL | re.IGNORECASE,
     )
-    if not purpose_match:
-        return None
+    if synopsis_match:
+        text = _clean_html_to_text(synopsis_match.group(1))
+        text = re.sub(r"^Purpose\s*:\s*", "", text, flags=re.IGNORECASE).strip()
+        text = re.sub(r"\s*•\s*", "; ", text)
+        text = re.sub(r"^;\s*", "", text)
+        text = re.sub(r"\.\s*;", ";", text)
+        text = re.sub(r"\s*;\s*", "; ", text).strip()
+        if text:
+            return text
 
-    content = purpose_match.group(1)
+    # Fallback for older or variant pages where purpose may appear in accordion pane 0.
+    pane_match = re.search(
+        r'id="ctl00_MainContentPlaceHolder_AccordionPane0_content"[^>]*>(.*?)'
+        r'(?=<div[^>]*id="ctl00_MainContentPlaceHolder_AccordionPane[1-9]_header"|$)',
+        html,
+        re.DOTALL | re.IGNORECASE,
+    )
+    if pane_match:
+        text = _clean_html_to_text(pane_match.group(1))
+        text = re.sub(r"\s*•\s*", "; ", text)
+        text = re.sub(r"^;\s*", "", text)
+        text = re.sub(r"\.\s*;", ";", text)
+        text = re.sub(r"\s*;\s*", "; ", text).strip()
+        if text:
+            return text
 
-    # Clean HTML tags and normalise whitespace
-    text = re.sub(r"<[^>]+>", "", content)
-    text = re.sub(r"&nbsp;", " ", text)
-    text = re.sub(r"&rsquo;", "'", text)
-    text = re.sub(r"&ldquo;", '"', text)
-    text = re.sub(r"&rdquo;", '"', text)
-    text = re.sub(r"\s+", " ", text).strip()
-
-    return text if text else None
+    return None
 
 
 def scrape_benefits_from_detail_page(html: str) -> str | None:
@@ -213,35 +245,38 @@ def scrape_benefits_from_detail_page(html: str) -> str | None:
     Extract the financial or other benefits text from an NI Assembly APG detail page.
     Looks for the 'Financial or Other Benefits Received' accordion section.
     """
-    # Find the benefits accordion content - match up to the next accordion or end
-    benefits_match = re.search(
-        r'id="ctl00_MainContentPlaceHolder_AccordionPane1_content"[^>]*>(.*?)'
-        r'(?=<div[^>]*id="ctl00_MainContentPlaceHolder_AccordionPane[2-9]|$)',
+    # First preference: extract the finance table only to avoid footer/script leakage.
+    table_match = re.search(
+        r'<table[^>]*id="ctl00_MainContentPlaceHolder_AccordionPane1_content_APGFinanceGridView"[^>]*>(.*?)</table>',
         html,
         re.DOTALL | re.IGNORECASE,
     )
-    if not benefits_match:
-        return None
+    if table_match:
+        text = _clean_html_to_text(table_match.group(1))
+        return text if text else None
 
-    content = benefits_match.group(1)
-
-    # Remove the mandate dropdown section
-    content = re.sub(
-        r'<div class="field-item">.*?</div>',
-        "",
-        content,
-        flags=re.DOTALL,
+    # Fallback: explicit no-finance message shown for some groups.
+    no_finance_match = re.search(
+        r"There have been no financial or other benefits received by this committee",
+        html,
+        re.IGNORECASE,
     )
+    if no_finance_match:
+        return no_finance_match.group(0)
 
-    # Clean HTML tags and normalise whitespace
-    text = re.sub(r"<[^>]+>", "", content)
-    text = re.sub(r"&nbsp;", " ", text)
-    text = re.sub(r"&rsquo;", "'", text)
-    text = re.sub(r"&ldquo;", '"', text)
-    text = re.sub(r"&rdquo;", '"', text)
-    text = re.sub(r"\s+", " ", text).strip()
+    # Last fallback: limited pane extraction without scripts/styles.
+    benefits_match = re.search(
+        r'id="ctl00_MainContentPlaceHolder_AccordionPane1_content"[^>]*>(.*?)'
+        r"(?=<script|</main>|</form>|</body>|$)",
+        html,
+        re.DOTALL | re.IGNORECASE,
+    )
+    if benefits_match:
+        text = _clean_html_to_text(benefits_match.group(1))
+        if text:
+            return text
 
-    return text if text else None
+    return None
 
 
 def fetch_detail_page(org_id: str) -> str | None:

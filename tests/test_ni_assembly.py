@@ -68,9 +68,7 @@ class TestCreateSlugNI:
         assert result == "science-technology-engineering-and-mathematics"
 
     def test_slug_ethnic_minority(self):
-        result = create_slug_from_name(
-            "All-Party Group on Ethnic Minority Community"
-        )
+        result = create_slug_from_name("All-Party Group on Ethnic Minority Community")
         assert result == "ethnic-minority-community"
 
 
@@ -233,9 +231,9 @@ class TestScrapePurpose:
 
     def test_extracts_purpose(self):
         html = """
-        <div id="ctl00_MainContentPlaceHolder_AccordionPane0_content" style="display:none;">
-            <div class="border-box">
-                <p>To promote access to justice for all.</p>
+        <div class="synopsis">
+            <div class="field-item">
+                Purpose: To promote access to justice for all.
             </div>
         </div>
         """
@@ -258,9 +256,50 @@ class TestScrapePurpose:
         result = scrape_purpose_from_detail_page(html)
         assert result == "To promote access to justice."
 
+    def test_converts_bullet_points_to_semicolons(self):
+        html = """
+        <div class="synopsis">
+            <div class="field-item">
+                Purpose: • First objective • Second objective • Third objective
+            </div>
+        </div>
+        """
+        result = scrape_purpose_from_detail_page(html)
+        assert result == "First objective; Second objective; Third objective"
+
 
 class TestScrapeBenefits:
     """Tests for scraping financial benefits from NI Assembly detail pages."""
+
+    def test_extracts_table_without_javascript_noise(self):
+        html = """
+        <div id="ctl00_MainContentPlaceHolder_AccordionPane1_content" style="display:none;">
+            <table id="ctl00_MainContentPlaceHolder_AccordionPane1_content_APGFinanceGridView">
+                <tr><th>Date</th><th>Amount</th><th>Source</th><th>Description</th></tr>
+                <tr><td>13/05/2025</td><td>&gt;&#163;250 p.a.</td><td>The Bar</td><td>Secretariat Support</td></tr>
+            </table>
+        </div>
+        <script>
+            $('table').each(function () { console.log('js should not be captured'); });
+        </script>
+        """
+        result = scrape_benefits_from_detail_page(html)
+        assert (
+            result
+            == "Date Amount Source Description 13/05/2025 >£250 p.a. The Bar Secretariat Support"
+        )
+
+    def test_extracts_no_finance_message(self):
+        html = """
+        <div id="ctl00_MainContentPlaceHolder_AccordionPane1_content_NoFinance">
+            There have been no financial or other benefits received by this committee
+        </div>
+        """
+        result = scrape_benefits_from_detail_page(html)
+        assert (
+            result
+            == "There have been no financial or other benefits received by this committee"
+        )
 
     def test_no_benefits_returns_none(self):
         html = "<div>No benefits here</div>"
