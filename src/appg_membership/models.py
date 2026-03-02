@@ -11,10 +11,10 @@ from pydantic import BaseModel, EmailStr, Field, HttpUrl, RootModel, field_valid
 
 class Parliament(StrEnum):
     UK = "uk"
-    SCOTLAND = "scotland"
+    SCOTLAND = "scottish-parliament"
     SENEDD_EN = "senedd-en"
     SENEDD_CY = "senedd-cy"
-    NI = "ni"
+    NI = "ni-assembly"
 
 
 register_dates = [

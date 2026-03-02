@@ -28,7 +28,7 @@ last_register = get_latest_register_date()
 
 
 def build_register():
-    items = APPGList.load()
+    items = APPGList.load_all()
 
     data = [x.flattened_dict() for x in items]
 
@@ -59,7 +59,7 @@ def build_members():
     """
     Missing step here is to bring in the officers.
     """
-    items = APPGList.load()
+    items = APPGList.load_all()
     pop = Popolo.from_parlparse()
 
     def extract_source_url(item: str | list[str]) -> str:
@@ -140,7 +140,7 @@ def build_categories():
     """
     Build the categories for the APPG membership package.
     """
-    items = APPGList.load()
+    items = APPGList.load_all()
 
     data = []
 

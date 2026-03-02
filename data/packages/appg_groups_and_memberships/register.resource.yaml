@@ -1,7 +1,7 @@
 title: APPG Register
 description: APPG Register as a spreadsheet
 custom:
-  row_count: 581
+  row_count: 911
 path: register.parquet
 name: register
 profile: data-resource
@@ -15,70 +15,54 @@ schema:
     type: string
     description: Slugified name of the APPG
     constraints:
-      unique: true
+      unique: false
     example: abraham-accords
   - name: title
     type: string
     description: Title of the APPG
     constraints:
       unique: true
-    example: Adult Social Care All-Party Parliamentary Group
+    example: Academic Staff in Universities - Cross Party Group
   - name: purpose
     type: string
     description: Purpose of the APPG
     constraints:
       unique: false
-    example: "'To raise awareness of disadvantages and poor outcomes faced by men\
-      \ and boys in education, mental and physical health and law; to influence attitudes,\
-      \ role models, policy and legislation that will lead to positive differences\
-      \ to their well-being and lives."
+    example: ''
   - name: category
     type: string
     description: Category of the APPG
     constraints:
       unique: false
       enum:
+      - ''
       - Country, Area or Region Group
       - Subject Group
-    example: Country, Area or Region Group
+    example: ''
   - name: parliament
     type: string
     description: Parliament the APPG is in
     constraints:
       unique: false
       enum:
+      - ni-assembly
+      - scottish-parliament
+      - senedd-cy
+      - senedd-en
       - uk
-    example: uk
+    example: ni-assembly
   - name: registrable_benefits
     type: string
     description: Registrable benefits of the APPG
     constraints:
       unique: false
-      enum:
-      - ''
-      - Benefits In Kind
-      - Financial Benefits
     example: ''
   - name: source_url
     type: string
     description: URL of the APPG on the Parliament website
     constraints:
-      unique: true
-    example: https://publications.parliament.uk/pa/cm/cmallparty/250507/kuwait.htm
-  - name: detailed_benefits
-    type: string
-    description: Json dict of the benefits of the APPG
-    constraints:
       unique: false
-    example: "[{\"Source\": \"ADS Group (trade association)\", \"Description\": \"\
-      Reception\", \"Value \\u00a3s In bands of \\u00a31,500\": \"4,501-6,000\", \"\
-      Received\": \"05/05/2025\", \"Registered\": \"17/07/2025\", \"benefit_type\"\
-      : \"Benefits In Kind\"}, {\"Source\": \"Chelgate Limited\", \"Description\"\
-      : \"Chelgate Limited is paid by ADS Group (trade association), Lockheed Martin,\
-      \ GE Aerospace and Safran UK to act as the APPG's secretariat. From: 19/11/2025\
-      \ To: 18/11/2026\", \"Value \\u00a3s In bands of \\u00a31,500\": \"25,501-27,000\"\
-      , \"Received\": \"19/11/2025\", \"Registered\": \"27/11/2025\", \"benefit_type\"\
-      : \"Benefits In Kind\"}]"
+    example: https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1218
   - name: categories
     type: string
     description: Pipe seperated list of (mysociety added) categories for the APPG
@@ -90,7 +74,7 @@ schema:
     description: Name of the registered contact
     constraints:
       unique: false
-    example: Abtisam Mohamed MP
+    example: ''
   - name: registered_contact_address
     type: string
     description: Address of the registered contact
@@ -139,6 +123,20 @@ schema:
       - register
       - search
     example: bad_search
+  - name: detailed_benefits
+    type: string
+    description: Json dict of the benefits of the APPG
+    constraints:
+      unique: false
+    example: "[{\"Source\": \"ADS Group (trade association)\", \"Description\": \"\
+      Reception\", \"Value \\u00a3s In bands of \\u00a31,500\": \"4,501-6,000\", \"\
+      Received\": \"05/05/2025\", \"Registered\": \"17/07/2025\", \"benefit_type\"\
+      : \"Benefits In Kind\"}, {\"Source\": \"Chelgate Limited\", \"Description\"\
+      : \"Chelgate Limited is paid by ADS Group (trade association), Lockheed Martin,\
+      \ GE Aerospace and Safran UK to act as the APPG's secretariat. From: 19/11/2025\
+      \ To: 18/11/2026\", \"Value \\u00a3s In bands of \\u00a31,500\": \"25,501-27,000\"\
+      , \"Received\": \"19/11/2025\", \"Registered\": \"27/11/2025\", \"benefit_type\"\
+      : \"Benefits In Kind\"}]"
   - name: date_of_most_recent_agm
     type: string
     description: Date of the most recent AGM
@@ -146,12 +144,12 @@ schema:
       unique: false
     example: '2024-07-23'
   - name: published_income_expenditure_statement
-    type: boolean
+    type: string
     description: Published income and expenditure statement
     constraints:
       unique: false
       enum:
-      - false
+      - 'False'
     example: 'False'
   - name: reporting_year
     type: string
@@ -165,4 +163,4 @@ schema:
     constraints:
       unique: false
     example: '2025-11-23'
-hash: cf7850a1b46229d5e7f8fa9f8d237e3d
+hash: cf276de2ef0780d7fce68c5cfcc28057
