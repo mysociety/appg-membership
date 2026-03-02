@@ -15,18 +15,10 @@
     },
     {
       "role": "Co-Chair",
-      "name": "Steve Race",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26345",
-      "mnis_id": "5064",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Baroness Goudie",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/12915",
-      "mnis_id": "3575",
+      "name": "Oliver Ryan",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/26381",
+      "mnis_id": "5135",
       "removed": false
     },
     {
@@ -35,6 +27,14 @@
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26516",
       "mnis_id": "5299",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Baroness Goudie",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/12915",
+      "mnis_id": "3575",
       "removed": false
     }
   ],
@@ -292,24 +292,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-23",
+    "date_of_most_recent_agm": "2026-01-21",
     "published_income_expenditure_statement": false,
     "reporting_year": "23 Oct to 22 Oct",
-    "next_reporting_deadline": "2026-02-23"
+    "next_reporting_deadline": "2027-02-23"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "The Alliance to End Malnutrition and Hunger Limited (known as United Against Malnutrition and Hunger)",
-      "Description": "Secretariat From: 23/10/2024 To: 22/10/2025",
+      "Description": "Secretariat From: 23/10/2025 To: 22/10/2026",
       "Value £s In bands of £1,500": "34,501-36,000",
-      "Received": "23/10/2024",
-      "Registered": "07/11/2024",
+      "Received": "23/10/2025",
+      "Registered": "23/01/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/nutrition-for-development.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/nutrition-for-development.htm",
   "categories": [
     "International Affairs, Development & Trade",
     "Health, Medicine & Public Health"

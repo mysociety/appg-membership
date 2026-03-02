@@ -7,14 +7,6 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Martin Vickers",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24814",
-      "mnis_id": "3957",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
       "name": "Dr Rosena Allin-Khan",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25579",
@@ -23,10 +15,26 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Dan Carden",
+      "name": "Dr Rupa Huq",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25642",
-      "mnis_id": "4651",
+      "twfy_id": "uk.org.publicwhip/person/25284",
+      "mnis_id": "4511",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Tom Tugendhat",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25374",
+      "mnis_id": "4462",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Rosie Duffield",
+      "party": "Independent",
+      "twfy_id": "uk.org.publicwhip/person/25656",
+      "mnis_id": "4616",
       "removed": false
     }
   ],
@@ -37,10 +45,10 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Martin Vickers MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7212.",
-    "registered_contact_email": "martin.vickers.mp@parliament.uk",
-    "public_enquiry_point_name": "Ryan Soraghan, Officer of Dr Rosena Allin-Khan MP",
+    "registered_contact_name": "Dr Rosena Allin-Khan MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 3621 2509.",
+    "registered_contact_email": "rosena.allinkhan.mp@parliament.uk",
+    "public_enquiry_point_name": "Ryan Soraghan, Office of Dr Rosena Allin-Khan MP",
     "public_enquiry_point_email": "ryan.soraghan@parliament.uk",
     "secretariat": null,
     "website": {
@@ -49,15 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-04",
+    "date_of_most_recent_agm": "2026-01-21",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Sep to 03 Sep",
-    "next_reporting_deadline": "2026-01-04"
+    "next_reporting_deadline": "2027-01-04"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/poland.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/poland.htm",
   "categories": [
     "Country Group"
   ]

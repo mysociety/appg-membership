@@ -23,18 +23,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Mr Peter Bedford",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26625",
-      "mnis_id": "5330",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Robin Swann",
       "party": "Ulster Unionist Party",
       "twfy_id": "uk.org.publicwhip/person/25141",
       "mnis_id": "5319",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Mr Peter Bedford",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26625",
+      "mnis_id": "5330",
       "removed": false
     }
   ],
@@ -274,15 +274,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-02-11",
+    "date_of_most_recent_agm": "2026-02-11",
     "published_income_expenditure_statement": false,
     "reporting_year": "11 Feb to 10 Feb",
-    "next_reporting_deadline": "2026-06-11"
+    "next_reporting_deadline": "2027-06-11"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/liver-disease-and-liver-cancer.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/liver-disease-and-liver-cancer.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

@@ -314,15 +314,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-14",
+    "date_of_most_recent_agm": "2026-02-12",
     "published_income_expenditure_statement": false,
     "reporting_year": "14 Oct to 13 Oct",
-    "next_reporting_deadline": "2026-02-14"
+    "next_reporting_deadline": "2027-02-14"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/ethnicity-transplantation-and-transfusion.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "National Black, Asian, Mixed Race, and Minority Ethnic Transplant Alliance (NBTA)",
+      "Description": "NBTA received funding from Team Margot to act as the group's secretariat and provide it with policy support. From: 14/10/2025 To: 13/10/2026",
+      "Value £s In bands of £1,500": "10,501-12,000",
+      "Received": "14/10/2025",
+      "Registered": "12/02/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ethnicity-transplantation-and-transfusion.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

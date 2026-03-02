@@ -1,7 +1,7 @@
 {
   "slug": "tennis",
   "title": "All-Party Parliamentary Group on Tennis",
-  "purpose": "To promote the sport of tennis, and to enable MPs and peers to play tennis matches together and compete with outside tennis teams.",
+  "purpose": "To promote tennis and padel, and to enable Members of Parliament and Peers to play matches together and compete with outside teams.",
   "category": "Subject Group",
   "parliament": "uk",
   "officers": [
@@ -450,21 +450,13 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-02",
+    "date_of_most_recent_agm": "2026-02-02",
     "published_income_expenditure_statement": false,
     "reporting_year": "02 Sep to 01 Sep",
-    "next_reporting_deadline": "2026-01-02"
+    "next_reporting_deadline": "2027-01-02"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
-    {
-      "Source": "Lawn Tennis Association",
-      "Description": "Secretariat From: 02/09/2024 To: 01/09/2025",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "02/09/2024",
-      "Registered": "10/09/2024",
-      "benefit_type": "Benefits In Kind"
-    },
     {
       "Source": "Lawn Tennis Association",
       "Description": "APPG for Tennis Annual Dinner",
@@ -472,10 +464,18 @@
       "Received": "22/04/2025",
       "Registered": "14/05/2025",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Lawn Tennis Association",
+      "Description": "Secretariat From: 02/09/2025 To: 01/09/2026",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "02/09/2025",
+      "Registered": "03/02/2026",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/tennis.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/tennis.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]

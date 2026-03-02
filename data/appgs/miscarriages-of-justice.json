@@ -23,18 +23,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Liz Saville Roberts",
-      "party": "Plaid Cymru",
-      "twfy_id": "uk.org.publicwhip/person/25302",
-      "mnis_id": "4521",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Lord Woodley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25966",
       "mnis_id": "4897",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Liz Saville Roberts",
+      "party": "Plaid Cymru",
+      "twfy_id": "uk.org.publicwhip/person/25302",
+      "mnis_id": "4521",
       "removed": false
     }
   ],
@@ -57,24 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-15",
+    "date_of_most_recent_agm": "2026-01-13",
     "published_income_expenditure_statement": false,
     "reporting_year": "15 Oct to 14 Oct",
-    "next_reporting_deadline": "2026-02-15"
+    "next_reporting_deadline": "2027-02-15"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Future Justice",
-      "Description": "Secretariat From: 15/10/2024 To: 14/10/2025",
-      "Value £s In bands of £1,500": "19,501-21,000",
-      "Received": "15/10/2024",
-      "Registered": "23/10/2024",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/miscarriages-of-justice.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/miscarriages-of-justice.htm",
   "categories": [
     "Justice, Law & Security"
   ]

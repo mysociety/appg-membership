@@ -15,14 +15,6 @@
     },
     {
       "role": "Co-Vice-Chair",
-      "name": "George Freeman",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24817",
-      "mnis_id": "4020",
-      "removed": false
-    },
-    {
-      "role": "Co-Vice-Chair",
       "name": "Charlotte Cane",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26425",
@@ -35,6 +27,14 @@
       "party": "Conservative",
       "twfy_id": null,
       "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Dr Roz Savage",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26603",
+      "mnis_id": "5352",
       "removed": false
     }
   ],
@@ -309,7 +309,7 @@
     "registered_contact_name": "Lee Pitcher MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "lee.pitcher.mp@parliament.uk",
-    "public_enquiry_point_name": "Joseph Eaton , Office of Lee Pitcher MP. Tel: 07470 999058",
+    "public_enquiry_point_name": "Joseph Eaton, Office of Lee Pitcher MP. Tel: 07470 999058",
     "public_enquiry_point_email": "joseph.eaton@parliament.uk",
     "secretariat": "Association of Drainage Authorities acts as the group's secretariat.https://www.ada.org.uk/",
     "website": {
@@ -318,24 +318,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-09",
+    "date_of_most_recent_agm": "2026-02-04",
     "published_income_expenditure_statement": false,
     "reporting_year": "09 Oct to 08 Oct",
-    "next_reporting_deadline": "2026-02-09"
+    "next_reporting_deadline": "2027-02-09"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Association of Drainage Authorities",
-      "Description": "Secretariat From: 09/10/2024 To: 08/10/2025",
-      "Value £s In bands of £1,500": "3,001-4,500",
-      "Received": "09/10/2024",
-      "Registered": "14/10/2024",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/sustainable-flood-and-drought-management.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sustainable-flood-and-drought-management.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Infrastructure, Transport & Mobility"

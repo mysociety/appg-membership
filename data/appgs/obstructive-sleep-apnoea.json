@@ -23,18 +23,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Mr Calvin Bailey",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26340",
-      "mnis_id": "5054",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Shockat Adam",
       "party": "Independent",
       "twfy_id": "uk.org.publicwhip/person/26364",
       "mnis_id": "5120",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Bilimoria",
+      "party": "Crossbench",
+      "twfy_id": "uk.org.publicwhip/person/13881",
+      "mnis_id": "3809",
       "removed": false
     }
   ],
@@ -48,7 +48,7 @@
     "registered_contact_name": "Jas Athwal MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "jas.athwal.mp@parliament.uk",
-    "public_enquiry_point_name": "Amrit Mann",
+    "public_enquiry_point_name": "Amrit Mann, Office of Baroness Verma",
     "public_enquiry_point_email": "appgsleepapnoea@gmail.com",
     "secretariat": null,
     "website": {
@@ -57,15 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-13",
+    "date_of_most_recent_agm": "2026-01-28",
     "published_income_expenditure_statement": false,
     "reporting_year": "13 Nov to 12 Nov",
-    "next_reporting_deadline": "2026-03-13"
+    "next_reporting_deadline": "2027-03-13"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/obstructive-sleep-apnoea.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/obstructive-sleep-apnoea.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

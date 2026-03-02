@@ -15,18 +15,10 @@
     },
     {
       "role": "Co-Chair",
-      "name": "Leigh Ingham",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26392",
-      "mnis_id": "5290",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Baroness Verma",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13730",
-      "mnis_id": "3790",
+      "name": "Sarah Hall",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/26416",
+      "mnis_id": "5154",
       "removed": false
     },
     {
@@ -35,6 +27,14 @@
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13517",
       "mnis_id": "3396",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Verma",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/13730",
+      "mnis_id": "3790",
       "removed": false
     }
   ],
@@ -254,32 +254,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-09",
+    "date_of_most_recent_agm": "2026-01-14",
     "published_income_expenditure_statement": false,
     "reporting_year": "09 Oct to 08 Oct",
-    "next_reporting_deadline": "2026-02-09"
+    "next_reporting_deadline": "2027-02-09"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Lodestone Communications",
-      "Description": "Lodestone Communications is paid by the following to act as the group's secretariat:  Virgin Money, BT Group, Nominet, Jisc, Vodafone, Virgin Media, Good Things Foundation From: 09/10/2024 To: 08/10/2025",
-      "Value £s In bands of £1,500": "45,001-46,500",
-      "Received": "09/10/2024",
-      "Registered": "25/10/2024",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "Lodestone Communications",
-      "Description": "Lodestone Communications is paid by the following to meet cost of events, reports, website: Virgin Money, BT Group, Nominet, Jisc, Vodafone, Virgin Media, Good Things Foundation From: 09/10/2024 To: 08/10/2025",
-      "Value £s In bands of £1,500": "3,001-4,500",
-      "Received": "09/10/2024",
-      "Registered": "25/10/2024",
+      "Description": "Lodestone Communications is paid by the following to act as the group's secretariat, including: Virgin Money, BT Group, Nominet, Jisc, VodafoneThree, Virgin Media, Good Things Foundation, Digital Poverty Alliance. From: 09/10/2025 To: 08/10/2026",
+      "Value £s In bands of £1,500": "58,501-60,000",
+      "Received": "09/10/2025",
+      "Registered": "02/02/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/digital-inclusion.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-inclusion.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

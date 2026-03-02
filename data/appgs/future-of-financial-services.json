@@ -23,18 +23,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Josh Dean",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26456",
-      "mnis_id": "5187",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Lewis Cocking",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26316",
       "mnis_id": "5050",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Baroness Goudie",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/12915",
+      "mnis_id": "3575",
       "removed": false
     }
   ],
@@ -48,33 +48,33 @@
     "registered_contact_name": "Mr Peter Bedford MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "peter.bedford.mp@parliament.uk",
-    "public_enquiry_point_name": "David Spencer, Future Financial Forum. Tel: 07444 227265",
-    "public_enquiry_point_email": "david.spencer@futurefinancialforum.org",
-    "secretariat": "Future Financial Forum  acts as the group's secretariat.https://futurefinancialforum.org/",
+    "public_enquiry_point_name": "David Spencer, Barndoor Strategy. Tel: 07444 227265",
+    "public_enquiry_point_email": "david.spencer@barndoorstrategy.com",
+    "secretariat": "Barndoor Strategy acts as the group's secretariat.https://www.barndoorstrategy.com/",
     "website": {
       "status": "register",
-      "url": "https://futurefinancialforum.org/appg"
+      "url": "https://fofsappg.org/"
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-08",
+    "date_of_most_recent_agm": "2026-02-04",
     "published_income_expenditure_statement": false,
     "reporting_year": "08 Oct to 07 Oct",
-    "next_reporting_deadline": "2026-02-08"
+    "next_reporting_deadline": "2027-02-08"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
-      "Source": "Future Financial Forum",
-      "Description": "Future Financial Forum (part of Barndoor Strategy) acts as the group's secretariat From: 08/10/2024 To: 07/10/2025",
+      "Source": "Barndoor Strategy",
+      "Description": "Secretariat From: 08/10/2025 To: 07/10/2026",
       "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "08/10/2024",
-      "Registered": "16/10/2024",
+      "Received": "08/10/2025",
+      "Registered": "05/02/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/future-of-financial-services.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/future-of-financial-services.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

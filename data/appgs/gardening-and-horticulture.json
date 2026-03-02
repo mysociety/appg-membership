@@ -6,14 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Valerie Vaz",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24852",
-      "mnis_id": "4076",
-      "removed": false
-    },
-    {
       "role": "Co-Chair",
       "name": "Baroness Fookes",
       "party": "Conservative",
@@ -45,9 +37,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Valerie Vaz MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 2237.",
-    "registered_contact_email": "valerie.vaz.mp@parliament.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
     "public_enquiry_point_name": "Dominic Aeissame, Whitehouse Communications Ltd",
     "public_enquiry_point_email": "dominic.aeissame@whitehousecomms.com",
     "secretariat": "Whitehouse Communications Ltd acts as the group's secretariat.http://www.whitehousecomms.com",
@@ -73,8 +65,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/gardening-and-horticulture.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/gardening-and-horticulture.htm",
   "categories": [
     "Food, Agriculture & Rural Affairs"
   ]

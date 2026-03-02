@@ -7,24 +7,24 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Tom Rutland",
+      "name": "Jeff Smith",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26467",
-      "mnis_id": "5222",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Lord Gilbert of Panteg",
-      "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25366",
+      "mnis_id": "4456",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Bonham-Carter of Yarnbury",
       "party": "Liberal Democrat",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Gilbert of Panteg",
+      "party": "Conservative",
       "twfy_id": null,
       "mnis_id": null,
       "removed": false
@@ -45,11 +45,11 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Tom Rutland MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "tom.rutland.mp@parliament.uk",
-    "public_enquiry_point_name": "Helen Deller, BBC. Tel: 07809 597 710",
-    "public_enquiry_point_email": "helen.deller@bbc.co.uk",
+    "registered_contact_name": "Jeff Smith MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 5878.",
+    "registered_contact_email": "jeff.smith.mp@parliament.uk",
+    "public_enquiry_point_name": "Laura Anderson, BBC. Tel: 07522 995759",
+    "public_enquiry_point_email": "laura.anderson@bbc.co.uk",
     "secretariat": "BBC acts as the group's secretariat.https://www.bbc.co.uk/",
     "website": {
       "status": "no_search",
@@ -57,15 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-18",
+    "date_of_most_recent_agm": "2026-02-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "18 Nov to 17 Nov",
-    "next_reporting_deadline": "2026-03-18"
+    "next_reporting_deadline": "2027-03-18"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/bbc.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "BBC",
+      "Description": "Secretariat From: 18/11/2025 To: 17/11/2026",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "18/11/2025",
+      "Registered": "23/02/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bbc.htm",
   "categories": [
     "Arts, Culture, Heritage & Media"
   ]

@@ -31,10 +31,10 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Vikki Slade",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26582",
-      "mnis_id": "5327",
+      "name": "Catherine West",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25328",
+      "mnis_id": "4523",
       "removed": false
     }
   ],
@@ -57,15 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-27",
+    "date_of_most_recent_agm": "2026-01-20",
     "published_income_expenditure_statement": false,
     "reporting_year": "27 Nov to 26 Nov",
-    "next_reporting_deadline": "2026-03-27"
+    "next_reporting_deadline": "2027-03-27"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/swimming.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Swim England",
+      "Description": "Secretariat From: 27/11/2025 To: 26/11/2026",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "27/11/2025",
+      "Registered": "03/02/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/swimming.htm",
   "categories": [
     "Sport, Recreation & Physical Activity",
     "Education, Skills & Youth"

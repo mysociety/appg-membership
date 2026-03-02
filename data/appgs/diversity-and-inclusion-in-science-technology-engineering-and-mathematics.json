@@ -15,10 +15,10 @@
     },
     {
       "role": "Officer",
-      "name": "Dr Lauren Sullivan",
+      "name": "Sureena Brackenridge",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26435",
-      "mnis_id": "5269",
+      "twfy_id": "uk.org.publicwhip/person/26433",
+      "mnis_id": "5152",
       "removed": false
     },
     {
@@ -31,10 +31,10 @@
     },
     {
       "role": "Officer",
-      "name": "Lord Lucas",
+      "name": "Baroness Verma",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13301",
-      "mnis_id": "1879",
+      "twfy_id": "uk.org.publicwhip/person/13730",
+      "mnis_id": "3790",
       "removed": false
     }
   ],
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-22",
+    "date_of_most_recent_agm": "2026-02-11",
     "published_income_expenditure_statement": false,
     "reporting_year": "22 Oct to 21 Oct",
-    "next_reporting_deadline": "2026-02-22"
+    "next_reporting_deadline": "2027-02-22"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "British Science Association",
-      "Description": "British Science Association is paid by the following to act as the group's secretariat: Applied Microbiology International, Association of Reproductive and Clinical Scientists, British Society for Haematology, Fujitsu, Institution of Engineering and Technology, The Physiological Society, Royal Society of Chemistry, Royal Academy of Engineering, Science Council From: 22/10/2024 To: 21/10/2025",
-      "Value £s In bands of £1,500": "39,001-40,500",
-      "Received": "22/10/2024",
-      "Registered": "29/10/2024",
+      "Description": "British Science Association is paid by the following to act as the group's secretariat: Applied Microbiology International, Association of Reproductive and Clinical Scientists, British Society for Haematology, Fujitsu, Institution of Engineering and Technology, Physiological Society, Royal Academy of Engineering, Royal Society of Chemistry, Science Council, British Society for Immunology, The Royal Society, and Society for Experimental Biology. From: 22/10/2025 To: 21/10/2026",
+      "Value £s In bands of £1,500": "30,001-31,500",
+      "Received": "22/10/2025",
+      "Registered": "11/02/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/diversity-and-inclusion-in-science-technology-engineering-and-mathematics.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/diversity-and-inclusion-in-science-technology-engineering-and-mathematics.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

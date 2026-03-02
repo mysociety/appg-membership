@@ -15,18 +15,18 @@
     },
     {
       "role": "Officer",
-      "name": "Anna Sabine",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26497",
-      "mnis_id": "5286",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Richard Baker",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/13952",
       "mnis_id": "5253",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Anna Sabine",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26497",
+      "mnis_id": "5286",
       "removed": false
     },
     {
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-16",
+    "date_of_most_recent_agm": "2026-02-03",
     "published_income_expenditure_statement": false,
     "reporting_year": "16 Oct to 15 Oct",
-    "next_reporting_deadline": "2026-02-16"
+    "next_reporting_deadline": "2027-02-16"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Local Government Association",
-      "Description": "Secretariat From: 16/10/2024 To: 15/10/2025",
+      "Description": "Secretariat From: 16/10/2025 To: 15/10/2026",
       "Value £s In bands of £1,500": "15,001-16,500",
-      "Received": "16/10/2024",
-      "Registered": "28/10/2024",
+      "Received": "16/10/2025",
+      "Registered": "09/02/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/digital-communities.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/digital-communities.htm",
   "categories": [
     "Science, Technology & Innovation",
     "Infrastructure, Transport & Mobility",

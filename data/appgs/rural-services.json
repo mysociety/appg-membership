@@ -57,24 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-09-10",
+    "date_of_most_recent_agm": "2026-01-14",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2026-01-10"
+    "next_reporting_deadline": "2027-01-10"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Rural Services Network",
-      "Description": "Secretariat From: 10/09/2024 To: 09/09/2025",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "10/09/2024",
-      "Registered": "13/09/2024",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/rural-services.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/rural-services.htm",
   "categories": [
     "Food, Agriculture & Rural Affairs"
   ]

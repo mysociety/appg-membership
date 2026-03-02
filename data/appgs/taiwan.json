@@ -32,7 +32,7 @@
     {
       "role": "Officer",
       "name": "Lord Rennard",
-      "party": "Liberal Democrat",
+      "party": "Non-affiliated",
       "twfy_id": "uk.org.publicwhip/person/13277",
       "mnis_id": "2484",
       "removed": false
@@ -71,10 +71,18 @@
       "Received": "15/05/2025",
       "Registered": "03/06/2025",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Taipei Representative Office in the UK",
+      "Description": "Reception",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "04/02/2026",
+      "Registered": "11/02/2026",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/taiwan.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/taiwan.htm",
   "categories": [
     "Country Group"
   ]

@@ -23,18 +23,18 @@
     },
     {
       "role": "Co-Chair",
-      "name": "Lord Hodgson of Astley Abbotts",
-      "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
       "name": "Baroness Pitkeathley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/13424",
       "mnis_id": "3179",
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Baroness Sater",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25734",
+      "mnis_id": "4700",
       "removed": false
     }
   ],
@@ -345,8 +345,8 @@
     "registered_contact_name": "Mary Kelly Foy MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 3000.",
     "registered_contact_email": "mary.foy.mp@parliament.uk",
-    "public_enquiry_point_name": "Adam Freedman, National Council for Voluntary Organisations. Tel: 07398 099013",
-    "public_enquiry_point_email": "adam.freedman@ncvo.org.uk",
+    "public_enquiry_point_name": "Seth Farsides, National Council for Voluntary Organisations",
+    "public_enquiry_point_email": "Seth.Farsides@ncvo.org.uk",
     "secretariat": "National Council for Voluntary Organisations acts as the group's secretariat.https://www.ncvo.org.uk/",
     "website": {
       "status": "register",
@@ -370,8 +370,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/charities-and-volunteering.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/charities-and-volunteering.htm",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Human Rights, Equality & Social Justice"

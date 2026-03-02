@@ -7,18 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Grahame Morris",
+      "name": "Steve Witherden",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/24715",
-      "mnis_id": "3973",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Lord Balfe",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25209",
-      "mnis_id": "4302",
+      "twfy_id": "uk.org.publicwhip/person/26583",
+      "mnis_id": "5221",
       "removed": false
     },
     {
@@ -31,10 +23,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Steve Witherden",
+      "name": "Lord Balfe",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25209",
+      "mnis_id": "4302",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Grahame Morris",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26583",
-      "mnis_id": "5221",
+      "twfy_id": "uk.org.publicwhip/person/24715",
+      "mnis_id": "3973",
       "removed": false
     }
   ],
@@ -45,11 +45,11 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Grahame Morris MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 1283.",
-    "registered_contact_email": "grahame.morris.mp@parliament.uk",
-    "public_enquiry_point_name": "Sophie Jackson, Office of Grahame Morris MP. Tel: 020 7219 1283",
-    "public_enquiry_point_email": "sophie.jackson@parliament.uk",
+    "registered_contact_name": "Steve Witherden MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "steve.witherden.mp@parliament.uk",
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
     "secretariat": null,
     "website": {
       "status": "no_search",
@@ -57,15 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-29",
+    "date_of_most_recent_agm": "2026-01-06",
     "published_income_expenditure_statement": false,
     "reporting_year": "29 Oct to 28 Oct",
-    "next_reporting_deadline": "2026-02-28"
+    "next_reporting_deadline": "2027-02-28"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/cuba.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cuba.htm",
   "categories": [
     "Country Group"
   ]

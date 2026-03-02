@@ -161,10 +161,24 @@
       "Received": "02/12/2025",
       "Registered": "06/01/2026",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "FCC Environment",
+      "Value £s": "2,000",
+      "Received": "06/01/2026",
+      "Registered": "05/02/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Atkins Realis",
+      "Value £s": "5,000",
+      "Received": "05/02/2026",
+      "Registered": "05/02/2026",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/environment.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/environment.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Energy & Utilities"

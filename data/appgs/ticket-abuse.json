@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Baroness Keeley",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11943",
-      "mnis_id": "1588",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Anneliese Midgley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26318",
       "mnis_id": "5038",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Keeley",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/11943",
+      "mnis_id": "1588",
       "removed": false
     }
   ],
@@ -252,15 +252,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-23",
+    "date_of_most_recent_agm": "2026-02-03",
     "published_income_expenditure_statement": false,
     "reporting_year": "23 Oct to 22 Oct",
-    "next_reporting_deadline": "2026-02-23"
+    "next_reporting_deadline": "2027-02-23"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/ticket-abuse.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ticket-abuse.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs",
     "Arts, Culture, Heritage & Media"

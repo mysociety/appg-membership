@@ -15,18 +15,18 @@
     },
     {
       "role": "Officer",
-      "name": "Ben Obese-Jecty",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26354",
-      "mnis_id": "5089",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Lord Faulkner of Worcester",
       "party": "Labour",
       "twfy_id": null,
       "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Ben Obese-Jecty",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26354",
+      "mnis_id": "5089",
       "removed": false
     },
     {
@@ -402,24 +402,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-03",
+    "date_of_most_recent_agm": "2026-02-09",
     "published_income_expenditure_statement": false,
     "reporting_year": "03 Dec to 02 Dec",
-    "next_reporting_deadline": "2026-04-03"
+    "next_reporting_deadline": "2027-04-03"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Commonwealth War Graves Commission",
-      "Description": "Secretariat From: 03/12/2024 To: 02/12/2025",
+      "Description": "Secretariat From: 03/12/2025 To: 02/12/2026",
       "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "03/12/2024",
-      "Registered": "18/12/2024",
+      "Received": "03/12/2025",
+      "Registered": "13/02/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/commonwealth-war-graves-commission-and-commemoration.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/commonwealth-war-graves-commission-and-commemoration.htm",
   "categories": [
     "Arts, Culture, Heritage & Media",
     "International Affairs, Development & Trade"

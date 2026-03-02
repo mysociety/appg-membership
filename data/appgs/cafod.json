@@ -15,6 +15,14 @@
     },
     {
       "role": "Vice Chair",
+      "name": "Ian Byrne",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25816",
+      "mnis_id": "4831",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
       "name": "Monica Harding",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26516",
@@ -27,14 +35,6 @@
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13081",
       "mnis_id": "2005",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Baroness O'Loan",
-      "party": "Crossbench",
-      "twfy_id": "uk.org.publicwhip/person/24694",
-      "mnis_id": "3902",
       "removed": false
     }
   ],
@@ -276,15 +276,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-23",
+    "date_of_most_recent_agm": "2026-01-14",
     "published_income_expenditure_statement": false,
     "reporting_year": "23 Oct to 22 Oct",
-    "next_reporting_deadline": "2026-02-23"
+    "next_reporting_deadline": "2027-02-23"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/cafod.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cafod.htm",
   "categories": [
     "International Affairs, Development & Trade"
   ]

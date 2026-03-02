@@ -7,14 +7,6 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Gill German",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26394",
-      "mnis_id": "5104",
-      "removed": false
-    },
-    {
-      "role": "Secretary",
       "name": "Andrew Ranger",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26336",
@@ -36,6 +28,14 @@
       "twfy_id": null,
       "mnis_id": null,
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Gill German",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26394",
+      "mnis_id": "5104",
+      "removed": false
     }
   ],
   "members_list": {
@@ -54,9 +54,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Gill German MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "gill.german.mp@parliament.uk",
+    "registered_contact_name": "Andrew Ranger MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 8995.",
+    "registered_contact_email": "andrew.ranger.mp@parliament.uk",
     "public_enquiry_point_name": null,
     "public_enquiry_point_email": null,
     "secretariat": "Children in Wales acts as the group's secretariat.https://www.childreninwales.org.uk/",
@@ -73,8 +73,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/children-in-wales.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/children-in-wales.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

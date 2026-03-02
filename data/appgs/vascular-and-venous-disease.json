@@ -15,10 +15,10 @@
     },
     {
       "role": "Officer",
-      "name": "Matt Bishop",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26574",
-      "mnis_id": "5323",
+      "name": "Lord Elliott of Ballinamallard",
+      "party": "Ulster Unionist Party",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -27,6 +27,14 @@
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10349",
       "mnis_id": "123",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Brian Leishman",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26492",
+      "mnis_id": "5196",
       "removed": false
     }
   ],
@@ -108,24 +116,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-23",
+    "date_of_most_recent_agm": "2026-01-12",
     "published_income_expenditure_statement": false,
     "reporting_year": "23 Oct to 22 Oct",
-    "next_reporting_deadline": "2026-02-23"
+    "next_reporting_deadline": "2027-02-23"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Healthcomms Consulting Ltd (part of PLMR group)",
-      "Description": "Healthcomms Consulting Ltd (part of the PLMR Group) is paid by the following to act as the group’s secretariat: Becton Dickinson, Boston Scientific, Inari Medical, Medtronic, and VeinCentre From: 23/10/2024 To: 22/10/2025",
-      "Value £s In bands of £1,500": "64,501-66,000",
-      "Received": "23/10/2024",
-      "Registered": "28/10/2024",
+      "Description": "Healthcomms Consulting Ltd (part of the PLMR Group) is paid by Becton Dickinson, Boston Scientific, Inari Medical, Medtronic and Vein Centre to act as the group's Secretariat. From: 23/10/2025 To: 22/10/2026",
+      "Value £s In bands of £1,500": "70,501-72,000",
+      "Received": "23/10/2025",
+      "Registered": "22/01/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/vascular-and-venous-disease.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vascular-and-venous-disease.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

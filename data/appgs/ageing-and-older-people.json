@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Baroness Altmann",
-      "party": "Non-affiliated",
-      "twfy_id": "uk.org.publicwhip/person/25445",
-      "mnis_id": "4533",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Joy Morrissey",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25878",
       "mnis_id": "4759",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Steve Darling",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26349",
+      "mnis_id": "5066",
       "removed": false
     }
   ],
@@ -250,24 +250,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-08",
+    "date_of_most_recent_agm": "2026-01-21",
     "published_income_expenditure_statement": false,
     "reporting_year": "08 Oct to 07 Oct",
-    "next_reporting_deadline": "2026-02-08"
+    "next_reporting_deadline": "2027-02-08"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Age UK",
-      "Description": "Secretariat From: 08/10/2024 To: 07/10/2025",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "08/10/2024",
-      "Registered": "31/10/2024",
+      "Description": "Secretariat From: 08/10/2025 To: 07/10/2026",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "08/10/2025",
+      "Registered": "21/01/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/ageing-and-older-people.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ageing-and-older-people.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

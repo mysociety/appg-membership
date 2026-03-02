@@ -23,18 +23,18 @@
     },
     {
       "role": "Treasurer",
-      "name": "Mark Garnier",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24824",
-      "mnis_id": "4074",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "David Taylor",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26576",
       "mnis_id": "5348",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Monica Harding",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26516",
+      "mnis_id": "5299",
       "removed": false
     }
   ],
@@ -72,8 +72,8 @@
       "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/japan.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/japan.htm",
   "categories": [
     "Country Group"
   ]

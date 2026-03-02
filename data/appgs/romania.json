@@ -1,0 +1,124 @@
+{
+  "slug": "romania",
+  "title": "All-Party Parliamentary Group for Romania",
+  "purpose": "To promote better relations between the UK and Romania and between their parliaments.",
+  "category": "Country, Area or Region Group",
+  "parliament": "uk",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Gareth Thomas",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/10594",
+      "mnis_id": "177",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Carolyn Harris",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25308",
+      "mnis_id": "4480",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Davies of Gower",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Baroness Smith of Newnham",
+      "party": "Liberal Democrat",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": [
+      "https://www.uk-romania.business/appg"
+    ],
+    "last_updated": "2026-03-02",
+    "members": [
+      {
+        "name": "Gareth Thomas",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "177",
+        "twfy_id": "uk.org.publicwhip/person/10594",
+        "removed": false
+      },
+      {
+        "name": "Lord Davies of Gower",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Carolyn Harris",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4480",
+        "twfy_id": "uk.org.publicwhip/person/25308",
+        "removed": false
+      },
+      {
+        "name": "Baroness Smith of Newnham",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dr David Webster",
+        "is_officer": true,
+        "member_type": "other",
+        "mnis_id": "None",
+        "twfy_id": "uk.org.publicwhip/person/21741",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Gareth Thomas MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 4243.",
+    "registered_contact_email": "gareth.thomas.mp@parliament.uk",
+    "public_enquiry_point_name": "David Webster, UK/Romania Business. Tel: 07776 188676",
+    "public_enquiry_point_email": "appg.romania@gmail.com",
+    "secretariat": "UK/Romania Business acts as the group's secretariat.https://www.uk-romania.business/",
+    "website": {
+      "status": "register",
+      "url": "https://www.uk-romania.business/appg"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2026-01-21",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "21 Jan to 20 Jan",
+    "next_reporting_deadline": "2027-05-21"
+  },
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "UK/Romania Business",
+      "Description": "Secretariat From: 21/01/2026 To: 20/01/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "21/01/2026",
+      "Registered": "21/01/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/romania.htm",
+  "categories": [
+    "Country Group"
+  ]
+}

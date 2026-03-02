@@ -379,9 +379,9 @@
     "registered_contact_name": "Chris Kane MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "chris.kane.mp@parliament.uk",
-    "public_enquiry_point_name": "Ella Harvey, Whitehouse Communications Ltd",
-    "public_enquiry_point_email": "ella.harvey@whitehousecomms.com",
-    "secretariat": "Whitehouse Communications Ltd acts as the group's secretariat.https://whitehousecomms.com/",
+    "public_enquiry_point_name": "Talia Newmark, Whitehouse Communications. Tel: 07500871321",
+    "public_enquiry_point_email": "talia.newmark@whitehousecomms.com",
+    "secretariat": "Whitehouse Communications acts as the group's secretariat.https://whitehousecomms.com/",
     "website": {
       "status": "register",
       "url": "https://www.appgmedia.org/"
@@ -396,16 +396,24 @@
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
-      "Source": "Whitehouse Communications Ltd",
-      "Description": "Whitehouse Communications Ltd is funded by the following to act as the group's secretariat: Global, News UK, ScreenSkills, Bauer Media, Pact and Public Interest News Foundation. From: 10/09/2025 To: 09/09/2026",
-      "Value £s In bands of £1,500": "27,001-28,500",
+      "Source": "Whitehouse Communications",
+      "Description": "Whitehouse Communications is funded by the following to act as the group's secretariat: Global, News UK, ScreenSkills, Bauer Media, Pact, Public Interest News Foundation, and British Screen Forum. (originally registered 04/12/2025) From: 10/09/2025 To: 09/09/2026",
+      "Value £s In bands of £1,500": "33,001-34,500",
       "Received": "10/09/2025",
-      "Registered": "04/12/2025",
+      "Registered": "17/02/2026",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Whitehouse Communications",
+      "Description": "Reception",
+      "Value £s In bands of £1,500": "13,501-15,000",
+      "Received": "14/01/2026",
+      "Registered": "20/02/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/media.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/media.htm",
   "categories": [
     "Arts, Culture, Heritage & Media"
   ]

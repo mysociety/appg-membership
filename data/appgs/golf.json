@@ -7,10 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Brian Leishman",
+      "name": "Douglas McAllister",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26492",
-      "mnis_id": "5196",
+      "twfy_id": "uk.org.publicwhip/person/26334",
+      "mnis_id": "5057",
       "removed": false
     },
     {
@@ -23,18 +23,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Lord Moynihan",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13042",
-      "mnis_id": "924",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Jo White",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26358",
       "mnis_id": "5105",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Moynihan",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/13042",
+      "mnis_id": "924",
       "removed": false
     }
   ],
@@ -230,9 +230,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Brian Leishman MP",
+    "registered_contact_name": "Douglas McAllister MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "brian.leishman.mp@parliament.uk",
+    "registered_contact_email": "douglas.mcallister.mp@parliament.uk",
     "public_enquiry_point_name": "Tom Arnold, Hanbury Strategy. Tel: 020 3870 1117",
     "public_enquiry_point_email": "golfappg@hanburystrategy.com",
     "secretariat": "Hanbury Strategy acts as the group's secretariat.https://hanburystrategy.com/",
@@ -242,15 +242,93 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-15",
+    "date_of_most_recent_agm": "2026-02-03",
     "published_income_expenditure_statement": false,
     "reporting_year": "15 Oct to 14 Oct",
-    "next_reporting_deadline": "2026-02-15"
+    "next_reporting_deadline": "2027-02-15"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/golf.htm",
+  "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "R&A",
+      "Value £s": "20,000",
+      "Received": "29/01/2025",
+      "Registered": "05/02/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "IMG",
+      "Value £s": "2,500",
+      "Received": "07/02/2025",
+      "Registered": "05/02/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Syngenta",
+      "Value £s": "2,500",
+      "Received": "22/02/2025",
+      "Registered": "05/02/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "PING",
+      "Value £s": "2,500",
+      "Received": "22/03/2025",
+      "Registered": "05/02/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "PGA",
+      "Value £s": "10,000",
+      "Received": "25/10/2025",
+      "Registered": "05/02/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "PING",
+      "Value £s": "2,500",
+      "Received": "14/11/2025",
+      "Registered": "05/02/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "UK Golf Federation",
+      "Value £s": "2,500",
+      "Received": "28/11/2025",
+      "Registered": "05/02/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Federation of Sports Associations (BGIA)",
+      "Value £s": "2,500",
+      "Received": "28/11/2025",
+      "Registered": "05/02/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "IMG",
+      "Value £s": "2,500",
+      "Received": "10/12/2025",
+      "Registered": "05/02/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "PGA",
+      "Value £s": "10,000",
+      "Received": "20/01/2026",
+      "Registered": "05/02/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Federation of Sports Associations (BGIA)",
+      "Value £s": "2,500",
+      "Received": "01/02/2025",
+      "Registered": "10/02/2026",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/golf.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]

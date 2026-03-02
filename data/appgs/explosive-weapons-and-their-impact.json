@@ -15,26 +15,26 @@
     },
     {
       "role": "Officer",
-      "name": "Alex Ballinger",
+      "name": "Fleur Anderson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26580",
-      "mnis_id": "5238",
+      "twfy_id": "uk.org.publicwhip/person/25813",
+      "mnis_id": "4788",
       "removed": false
     },
     {
       "role": "Officer",
-      "name": "David Reed",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26628",
-      "mnis_id": "5347",
+      "name": "Cameron Thomas",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26532",
+      "mnis_id": "5354",
       "removed": false
     },
     {
       "role": "Officer",
-      "name": "Baroness Foster of Oxton",
+      "name": "Viscount Camrose",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26062",
+      "mnis_id": "4939",
       "removed": false
     }
   ],
@@ -48,19 +48,19 @@
     "registered_contact_name": "Helen Maguire MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 01372 232145.",
     "registered_contact_email": "helen.maguire.mp@parliament.uk",
-    "public_enquiry_point_name": "Nigel Ellway, Office of Lord Dear. Tel: 07586 329 335",
-    "public_enquiry_point_email": "ellwaynb@parliament.uk",
-    "secretariat": "REVIVE Campaign Community Interest Company acts as the group's secretariat.https://revivecampaign.org/",
+    "public_enquiry_point_name": "Megan Gittoes, Gittoes Strategic Advisory Ltd",
+    "public_enquiry_point_email": "secretariat@appg-explosivethreats.com",
+    "secretariat": "Gittoes Strategic Advisory Ltd acts as the group's secretariat.",
     "website": {
       "status": "register",
       "url": "https://www.appg-explosive-threats.co.uk/"
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-01-13",
+    "date_of_most_recent_agm": "2026-02-12",
     "published_income_expenditure_statement": false,
     "reporting_year": "13 Jan to 12 Jan",
-    "next_reporting_deadline": "2026-05-13"
+    "next_reporting_deadline": "2027-05-13"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
@@ -103,10 +103,18 @@
       "Received": "05/10/2025",
       "Registered": "30/10/2025",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "TetraTech",
+      "Description": "Parliamentary reception",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "02/06/2025",
+      "Registered": "29/01/2026",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/explosive-weapons-and-their-impact.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/explosive-weapons-and-their-impact.htm",
   "categories": [
     "Justice, Law & Security",
     "International Affairs, Development & Trade"

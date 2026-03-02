@@ -285,20 +285,6 @@
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {
-      "Source": "Dyson Technology Ltd",
-      "Value £s": "5,000",
-      "Received": "22/11/2024",
-      "Registered": "22/01/2025",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "Nutrition Society",
-      "Value £s": "5,000",
-      "Received": "29/11/2024",
-      "Registered": "22/01/2025",
-      "benefit_type": "Financial Benefits"
-    },
-    {
       "Source": "Parliamentary Scientific and Technical Information Foundation",
       "Value £s": "5,000",
       "Received": "26/03/2025",
@@ -374,10 +360,17 @@
       "Received": "19/09/2025",
       "Registered": "14/10/2025",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "I/Relx Finance Limited",
+      "Value £s": "5,000",
+      "Received": "23/12/2025",
+      "Registered": "16/02/2026",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/scientific.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/scientific.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

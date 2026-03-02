@@ -62,25 +62,19 @@
     "reporting_year": "20 May to 19 May",
     "next_reporting_deadline": "2026-09-20"
   },
-  "registrable_benefits": "Financial Benefits",
+  "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
-      "Source": "Regeneron Pharmaceuticals Inc",
-      "Value £s": "15,000",
-      "Received": "05/09/2025",
-      "Registered": "12/01/2026",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "AbbVie Ltd",
-      "Value £s": "15,000",
-      "Received": "18/12/2025",
-      "Registered": "12/01/2026",
-      "benefit_type": "Financial Benefits"
+      "Source": "RPP Group",
+      "Description": "Secretariat From: 20/05/2025 To: 19/05/2026",
+      "Value £s In bands of £1,500": "60,001-61,500",
+      "Received": "20/05/2025",
+      "Registered": "17/06/2025",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/access-to-medicines-and-medical-devices.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/access-to-medicines-and-medical-devices.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Baroness Lister of Burtersett",
-      "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Jess Asato",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26386",
       "mnis_id": "5156",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Hazarika",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26304",
+      "mnis_id": "5024",
       "removed": false
     }
   ],
@@ -66,15 +66,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-11",
+    "date_of_most_recent_agm": "2026-02-04",
     "published_income_expenditure_statement": false,
     "reporting_year": "11 Nov to 10 Nov",
-    "next_reporting_deadline": "2026-03-11"
+    "next_reporting_deadline": "2027-03-11"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/domestic-violence-and-abuse.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Women's Aid Federation of England",
+      "Description": "Secretariat From: 11/11/2025 To: 10/11/2026",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "11/11/2025",
+      "Registered": "09/02/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/domestic-violence-and-abuse.htm",
   "categories": [
     "Human Rights, Equality & Social Justice",
     "Justice, Law & Security",

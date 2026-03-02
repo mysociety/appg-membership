@@ -6,14 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Irene Campbell",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26419",
-      "mnis_id": "5145",
-      "removed": false
-    },
-    {
       "role": "Vice Chair",
       "name": "Lord Hunt of Wirral",
       "party": "Conservative",
@@ -45,9 +37,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Irene Campbell MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "irene.campbell.mp@parliament.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
     "public_enquiry_point_name": "Josiah Cadman, Association of British Credit Unions Limited (ABCUL)",
     "public_enquiry_point_email": "advocacy@abcul.org",
     "secretariat": "Association of British Credit Unions Limited (ABCUL) acts as the group's secretariat.https://www.abcul.coop/",
@@ -73,8 +65,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/credit-unions.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/credit-unions.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

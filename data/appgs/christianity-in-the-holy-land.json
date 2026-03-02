@@ -7,18 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Danny Kruger",
-      "party": "Reform UK",
-      "twfy_id": "uk.org.publicwhip/person/25913",
-      "mnis_id": "4858",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "The Lord Bishop of Southwark",
-      "party": "Bishops",
-      "twfy_id": null,
-      "mnis_id": null,
+      "name": "Rebecca Smith",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26512",
+      "mnis_id": "5301",
       "removed": false
     },
     {
@@ -36,6 +28,14 @@
       "twfy_id": "uk.org.publicwhip/person/10352",
       "mnis_id": "345",
       "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "The Lord Bishop of Southwark",
+      "party": "Bishops",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
     }
   ],
   "members_list": {
@@ -45,10 +45,10 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Danny Kruger MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 7050.",
-    "registered_contact_email": null,
-    "public_enquiry_point_name": "David Linden, Good Faith Partnership",
+    "registered_contact_name": "Rebecca Smith MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "rebecca.smith.mp@parliament.uk",
+    "public_enquiry_point_name": "Molly Conrad, Good Faith Partnership",
     "public_enquiry_point_email": "cithlappg@goodfaith.org.uk",
     "secretariat": "Good Faith Partnership acts as the group's secretariat.https://goodfaith.org.uk/",
     "website": {
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-22",
+    "date_of_most_recent_agm": "2026-02-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "22 Oct to 21 Oct",
-    "next_reporting_deadline": "2026-02-22"
+    "next_reporting_deadline": "2027-02-22"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Good Faith Partnership",
-      "Description": "Good Faith Partnership is paid by Greek Orthodox Patriarchate of Jerusalem to act as the group's secretariat From: 22/10/2024 To: 21/10/2025",
-      "Value £s In bands of £1,500": "22,501-24,000",
-      "Received": "22/10/2024",
-      "Registered": "15/11/2024",
+      "Description": "Good Faith Partnership is paid by Greek Orthodox Patriarchate of Jerusalem to act as the group's secretariat. From: 22/10/2025 To: 21/10/2026",
+      "Value £s In bands of £1,500": "19,501-21,000",
+      "Received": "22/10/2025",
+      "Registered": "18/02/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/christianity-in-the-holy-land.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/christianity-in-the-holy-land.htm",
   "categories": [
     "International Affairs, Development & Trade",
     "Religion, Faith & Belief Communities"

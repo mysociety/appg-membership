@@ -15,26 +15,26 @@
     },
     {
       "role": "Officer",
-      "name": "Monica Harding",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26516",
-      "mnis_id": "5299",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Lord Bethell",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25740",
-      "mnis_id": "4708",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Lord Russell of Liverpool",
       "party": "Crossbench",
       "twfy_id": null,
       "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Damian Hinds",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/24782",
+      "mnis_id": "3969",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Bertin",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25589",
+      "mnis_id": "4577",
       "removed": false
     }
   ],
@@ -372,24 +372,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-18",
+    "date_of_most_recent_agm": "2026-02-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "18 Dec to 17 Dec",
-    "next_reporting_deadline": "2026-04-18"
+    "next_reporting_deadline": "2027-04-18"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Internet Watch Foundation",
-      "Description": "Secretariat From: 18/12/2024 To: 17/12/2025",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "18/12/2024",
-      "Registered": "15/01/2025",
+      "Description": "Secretariat From: 18/12/2025 To: 17/12/2026",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "18/12/2025",
+      "Registered": "13/01/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/childrens-online-safety.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/childrens-online-safety.htm",
   "categories": [
     "Education, Skills & Youth",
     "Science, Technology & Innovation",

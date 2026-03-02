@@ -23,18 +23,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Lord Howarth of Newport",
-      "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Lord Kamall",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25976",
       "mnis_id": "4909",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Baroness Royall of Blaisdon",
+      "party": "Labour",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -420,24 +420,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-26",
+    "date_of_most_recent_agm": "2026-02-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "26 Nov to 25 Nov",
-    "next_reporting_deadline": "2026-03-26"
+    "next_reporting_deadline": "2027-03-26"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "National Centre for Creative Health",
-      "Description": "Secretariat From: 26/11/2024 To: 25/11/2025",
+      "Description": "Secretariat From: 26/11/2025 To: 25/11/2026",
       "Value £s In bands of £1,500": "3,001-4,500",
-      "Received": "26/11/2024",
-      "Registered": "09/12/2024",
+      "Received": "26/11/2025",
+      "Registered": "11/02/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/creative-health.htm",
+  "index_date": "260223",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/creative-health.htm",
   "categories": [
     "Arts, Culture, Heritage & Media",
     "Health, Medicine & Public Health"
