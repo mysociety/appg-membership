@@ -24,7 +24,7 @@ class TestParliamentEnum:
     def test_all_parliament_values(self):
         values = [p.value for p in Parliament]
         assert "uk" in values
-        assert "scotland" in values
+        assert "scottish-parliament" in values
         assert "senedd-en" in values
         assert "senedd-cy" in values
 

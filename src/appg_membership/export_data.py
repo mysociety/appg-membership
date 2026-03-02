@@ -52,6 +52,7 @@ def export_for_crowdsource(output_path: Optional[str] = None) -> str:
     Fields:
     - starting_status: Current status (no_website, website, website_no_members, website_members_list)
     - review_status: Blank at export, to be filled by crowdsourcers
+    - parliament: Which parliament the group belongs to (uk, scotland, senedd-en, senedd-cy, ni)
     - appg_slug: Unique identifier for the APPG
     - appg_name: Full name of the APPG
     - parliament_source_url: URL to the official parliament page for this APPG
@@ -65,7 +66,7 @@ def export_for_crowdsource(output_path: Optional[str] = None) -> str:
     Returns:
         The path to the created Excel file
     """
-    appgs = APPGList.load()
+    appgs = APPGList.load_all()
 
     # If no output path is specified, create one with a timestamp
     if output_path is None:
@@ -88,6 +89,7 @@ def export_for_crowdsource(output_path: Optional[str] = None) -> str:
     headers = [
         "starting_status",
         "review_status",
+        "parliament",
         "appg_slug",
         "appg_name",
         "parliament_source_url",
@@ -120,14 +122,15 @@ def export_for_crowdsource(output_path: Optional[str] = None) -> str:
         # Populate cells
         ws.cell(row=row_num, column=1, value=determine_starting_status(appg))
         ws.cell(row=row_num, column=2, value="")  # review_status is blank at export
-        ws.cell(row=row_num, column=3, value=appg.slug)
-        ws.cell(row=row_num, column=4, value=appg.title)
+        ws.cell(row=row_num, column=3, value=str(appg.parliament))
+        ws.cell(row=row_num, column=4, value=appg.slug)
+        ws.cell(row=row_num, column=5, value=appg.title)
         ws.cell(
-            row=row_num, column=5, value=str(appg.source_url) if appg.source_url else ""
+            row=row_num, column=6, value=str(appg.source_url) if appg.source_url else ""
         )
-        ws.cell(row=row_num, column=6, value=generate_google_search_link(appg.title))
-        ws.cell(row=row_num, column=7, value=website_url)
-        ws.cell(row=row_num, column=8, value=website_url)  # Initially same as website
+        ws.cell(row=row_num, column=7, value=generate_google_search_link(appg.title))
+        ws.cell(row=row_num, column=8, value=website_url)
+        ws.cell(row=row_num, column=9, value=website_url)  # Initially same as website
 
         row_num += 1
 

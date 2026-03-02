@@ -18,11 +18,11 @@ class TestParliamentEnumNI:
     """Tests for the NI addition to the Parliament enum."""
 
     def test_ni_value(self):
-        assert Parliament.NI == "ni"
+        assert Parliament.NI == "ni-assembly"
 
     def test_all_parliament_values_include_ni(self):
         values = [p.value for p in Parliament]
-        assert "ni" in values
+        assert "ni-assembly" in values
 
     def test_ni_folder(self):
         folder = APPG._get_parliament_folder(Parliament.NI)
@@ -318,7 +318,7 @@ class TestAPPGNIIntegration:
             parliament=Parliament.NI,
         )
         assert appg.parliament == Parliament.NI
-        assert str(appg.parliament) == "ni"
+        assert str(appg.parliament) == "ni-assembly"
 
     def test_appg_serialization(self):
         appg = APPG(
@@ -327,7 +327,7 @@ class TestAPPGNIIntegration:
             parliament=Parliament.NI,
         )
         data = appg.model_dump(mode="json")
-        assert data["parliament"] == "ni"
+        assert data["parliament"] == "ni-assembly"
 
     def test_mla_member_in_appg(self):
         appg = APPG(
