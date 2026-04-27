@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.simonfell.org/aukus"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Simon Fell",
@@ -75,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": "4539",
         "twfy_id": "uk.org.publicwhip/person/25462",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Walney",
@@ -83,7 +83,7 @@
         "member_type": "lord",
         "mnis_id": "3917",
         "twfy_id": "uk.org.publicwhip/person/24837",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rob Butler",
@@ -95,6 +95,30 @@
       },
       {
         "name": "Baroness Anderson",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4508",
+        "twfy_id": "uk.org.publicwhip/person/25435",
+        "removed": true
+      },
+      {
+        "name": "Mountevans",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Walney",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Anderson",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": "4508",
@@ -145,8 +169,8 @@
       "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/australia-united-kingdom-and-united-states-of-america-aukus.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/australia-united-kingdom-and-united-states-of-america-aukus.htm",
   "categories": [
     "International Affairs, Development & Trade",
     "Economy, Business & Industry",

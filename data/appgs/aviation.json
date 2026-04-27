@@ -7,10 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Tim Roca",
+      "name": "Noah Law",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26549",
-      "mnis_id": "5287",
+      "twfy_id": "uk.org.publicwhip/person/26513",
+      "mnis_id": "5302",
       "removed": false
     },
     {
@@ -31,10 +31,10 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Mr Calvin Bailey",
+      "name": "Tim Roca",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26340",
-      "mnis_id": "5054",
+      "twfy_id": "uk.org.publicwhip/person/26549",
+      "mnis_id": "5287",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://aviationappg.uk/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Tim Roca",
@@ -336,9 +336,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Tim Roca MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "tim.roca.mp@parliament.uk",
+    "registered_contact_name": "Noah Law MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7751.",
+    "registered_contact_email": "noah.law.mp@parliament.uk",
     "public_enquiry_point_name": "Matthew Bolshaw",
     "public_enquiry_point_email": "bolshaw@btinternet.com",
     "secretariat": null,
@@ -348,15 +348,23 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-23",
+    "date_of_most_recent_agm": "2026-03-18",
     "published_income_expenditure_statement": false,
     "reporting_year": "23 Oct to 22 Oct",
-    "next_reporting_deadline": "2026-02-23"
+    "next_reporting_deadline": "2027-02-23"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/aviation.htm",
+  "registrable_benefits": "Financial Benefits",
+  "detailed_benefits": [
+    {
+      "Source": "APPG on Aviation in the previous Parliament",
+      "Value £s": "4,843",
+      "Received": "02/01/2025",
+      "Registered": "25/03/2026",
+      "benefit_type": "Financial Benefits"
+    }
+  ],
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/aviation.htm",
   "categories": [
     "Infrastructure, Transport & Mobility",
     "Science, Technology & Innovation",

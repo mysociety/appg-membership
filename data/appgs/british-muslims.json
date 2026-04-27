@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgbritishmuslims.org/members"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Sarah Owen",
@@ -468,6 +468,54 @@
         "mnis_id": "3839",
         "twfy_id": "uk.org.publicwhip/person/13937",
         "removed": false
+      },
+      {
+        "name": "Feryal Clark",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4822",
+        "twfy_id": "uk.org.publicwhip/person/25896",
+        "removed": false
+      },
+      {
+        "name": "Lord Wajid Khan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Nosheena Mobarik",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Syed Salah Kamall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Pola Uddin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Shaffaq Mohammed",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -504,10 +552,17 @@
       "Received": "03/12/2025",
       "Registered": "19/12/2025",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Muslim Aid",
+      "Value £s": "25,000",
+      "Received": "06/03/2026",
+      "Registered": "11/03/2026",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/british-muslims.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/british-muslims.htm",
   "categories": [
     "Human Rights, Equality & Social Justice",
     "Religion, Faith & Belief Communities"

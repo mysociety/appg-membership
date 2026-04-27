@@ -43,7 +43,7 @@
     "source_url": [
       "https://classicalassociation.org/all-party-parliamentary-group-for-classics/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Dr Peter Swallow",
@@ -115,7 +115,7 @@
         "member_type": "mp",
         "mnis_id": "5134",
         "twfy_id": "uk.org.publicwhip/person/26391",
-        "removed": false
+        "removed": true
       },
       {
         "name": "David Smith",
@@ -187,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord King of Bridgwater",
@@ -260,6 +260,14 @@
         "mnis_id": "5014",
         "twfy_id": "uk.org.publicwhip/person/26292",
         "removed": false
+      },
+      {
+        "name": "Andy MacNae",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5134",
+        "twfy_id": "uk.org.publicwhip/person/26391",
+        "removed": false
       }
     ]
   },
@@ -283,8 +291,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/classics.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/classics.htm",
   "categories": [
     "Education, Skills & Youth",
     "Arts, Culture, Heritage & Media"

@@ -15,14 +15,6 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Simon Hoare",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25427",
-      "mnis_id": "4494",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Paulette Hamilton",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26061",
@@ -31,10 +23,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Baroness Golding",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10233",
-      "mnis_id": "281",
+      "name": "Simon Hoare",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25427",
+      "mnis_id": "4494",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Zöe Franklin",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26555",
+      "mnis_id": "5313",
       "removed": false
     }
   ],
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-12",
+    "date_of_most_recent_agm": "2026-03-17",
     "published_income_expenditure_statement": false,
     "reporting_year": "12 Nov to 11 Nov",
-    "next_reporting_deadline": "2026-03-12"
+    "next_reporting_deadline": "2027-03-12"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "The Local Government Information Unit",
-      "Description": "Secretariat From: 12/11/2024 To: 11/11/2025",
+      "Description": "Secretariat From: 12/11/2025 To: 11/11/2026",
       "Value £s In bands of £1,500": "10,501-12,000",
-      "Received": "12/11/2024",
-      "Registered": "19/11/2024",
+      "Received": "12/11/2025",
+      "Registered": "19/03/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/local-government.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/local-government.htm",
   "categories": [
     "Governance, Democracy & Political Reform"
   ]

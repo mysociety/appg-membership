@@ -28,6 +28,14 @@
       "twfy_id": "uk.org.publicwhip/person/25894",
       "mnis_id": "4743",
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Jim Dickson",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26547",
+      "mnis_id": "5223",
+      "removed": false
     }
   ],
   "members_list": {
@@ -40,7 +48,7 @@
     "registered_contact_name": "Mike Wood MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 6982.",
     "registered_contact_email": "mike.wood.mp@parliament.uk",
-    "public_enquiry_point_name": "Courtney Kirton , UK Sepsis Trust . Tel: 07930 950 539",
+    "public_enquiry_point_name": "Courtney Kirton, UK Sepsis Trust. Tel: 07930 950 539",
     "public_enquiry_point_email": "courtney@sepssistrust.org",
     "secretariat": "UK Sepsis Trust acts as the group's secretariat.https://sepsistrust.org/",
     "website": {
@@ -54,19 +62,10 @@
     "reporting_year": "01 Apr to 31 Mar",
     "next_reporting_deadline": "2026-08-01"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "The UK Sepsis Trust",
-      "Description": "Staff assistance for an Officer (valued at £300 a month)",
-      "Value £s In bands of £1,500": "3,001-4,500",
-      "Received": "01/07/2025",
-      "Registered": "13/08/2025",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/sepsis.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/sepsis.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

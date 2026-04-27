@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgap.info/membership"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Rachael Maskell",
@@ -75,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": "4218",
         "twfy_id": "uk.org.publicwhip/person/25049",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Gideon Amos",
@@ -83,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "5250",
         "twfy_id": "uk.org.publicwhip/person/26531",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jess Asato",
@@ -251,6 +251,30 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Young of Cookham",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Alex Barros-Curtis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5175",
+        "twfy_id": "uk.org.publicwhip/person/26402",
+        "removed": false
+      },
+      {
+        "name": "Cameron Thomas",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5354",
+        "twfy_id": "uk.org.publicwhip/person/26532",
         "removed": false
       }
     ]

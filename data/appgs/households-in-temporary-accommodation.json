@@ -43,7 +43,7 @@
     "source_url": [
       "https://householdsintemporaryaccommodation.co.uk/who-we-are/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Siobhain McDonagh",
@@ -339,7 +339,7 @@
         "member_type": "lord",
         "mnis_id": "123",
         "twfy_id": "uk.org.publicwhip/person/10349",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Balfe",
@@ -347,7 +347,7 @@
         "member_type": "lord",
         "mnis_id": "4302",
         "twfy_id": "uk.org.publicwhip/person/25209",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Bishop of Manchester, David Walker",
@@ -411,7 +411,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Balfe",
@@ -419,7 +419,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bennet of Manor Castle",
@@ -427,7 +427,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Lister of Burtersett",
@@ -435,6 +435,30 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Bennett of Manor Castle",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dr Beccy Cooper",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5307",
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
+      },
+      {
+        "name": "Sarah Gibson",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5239",
+        "twfy_id": "uk.org.publicwhip/person/26585",
         "removed": false
       }
     ]
@@ -476,8 +500,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/households-in-temporary-accommodation.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/households-in-temporary-accommodation.htm",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Education, Skills & Youth",

@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.climatetechappg.co.uk/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Steve Race",
@@ -51,7 +51,7 @@
         "member_type": "mp",
         "mnis_id": "5064",
         "twfy_id": "uk.org.publicwhip/person/26345",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Evans of Rainow",
@@ -107,7 +107,7 @@
         "member_type": "mp",
         "mnis_id": "5116",
         "twfy_id": "uk.org.publicwhip/person/26367",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alex Barros-Curtis",
@@ -244,6 +244,22 @@
         "mnis_id": "5123",
         "twfy_id": "uk.org.publicwhip/person/26360",
         "removed": false
+      },
+      {
+        "name": "John Whitby",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5342",
+        "twfy_id": "uk.org.publicwhip/person/26613",
+        "removed": false
+      },
+      {
+        "name": "Luke Murphy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5248",
+        "twfy_id": "uk.org.publicwhip/person/26488",
+        "removed": false
       }
     ]
   },
@@ -276,8 +292,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/climatetech.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/climatetech.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Science, Technology & Innovation"

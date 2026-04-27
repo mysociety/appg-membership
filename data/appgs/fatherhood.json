@@ -43,7 +43,7 @@
     "source_url": [
       "https://futuremen.org/advocacy/appg-on-fatherhood/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Freddie van Mierlo",
@@ -163,7 +163,7 @@
         "member_type": "mp",
         "mnis_id": "4637",
         "twfy_id": "uk.org.publicwhip/person/25622",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bishop of Chichester",
@@ -276,6 +276,14 @@
         "mnis_id": "5130",
         "twfy_id": "uk.org.publicwhip/person/26417",
         "removed": false
+      },
+      {
+        "name": "The Baroness Penn",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -308,8 +316,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fatherhood.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/fatherhood.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

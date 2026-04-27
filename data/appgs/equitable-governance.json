@@ -41,9 +41,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.appg-equitablegovernance.org/copy-of-about-us"
+      "https://www.appg-equitablegovernance.org/parliamentarycommittee",
+      "https://www.appg-equitablegovernance.org/businessboard"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Sarah Edwards",
@@ -107,7 +108,7 @@
         "member_type": "lord",
         "mnis_id": "5387",
         "twfy_id": "uk.org.publicwhip/person/26665",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hamwee",
@@ -172,6 +173,126 @@
         "mnis_id": "5126",
         "twfy_id": "uk.org.publicwhip/person/26374",
         "removed": false
+      },
+      {
+        "name": "Gurinder Singh Josan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5059",
+        "twfy_id": "uk.org.publicwhip/person/26348",
+        "removed": false
+      },
+      {
+        "name": "Kim Rowell",
+        "is_officer": true,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "David Hayes",
+        "is_officer": true,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dr Jen Fensome",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dr Lorna Treanor",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tabitha Morton",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jill Pay",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Eileen Richards",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lina Kačiulis",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Katie Normington",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Debbie Moore",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Nikki Paterson",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Louise Adams",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Katie Allen",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bhavya Arora",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -204,8 +325,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/equitable-governance.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/equitable-governance.htm",
   "categories": [
     "Economy, Business & Industry",
     "Governance, Democracy & Political Reform",

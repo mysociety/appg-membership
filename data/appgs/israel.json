@@ -39,117 +39,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.7octparliamentarycommission.co.uk/thepanel"
-    ],
-    "last_updated": "2026-02-04",
-    "members": [
-      {
-        "name": "Lord Roberts of Belgravia",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Lord Macdonald of River Glaven",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Baroness Fox of Buckley",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Lord Farmer",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "4321",
-        "twfy_id": "uk.org.publicwhip/person/25233",
-        "removed": true
-      },
-      {
-        "name": "Baroness Smith of Newnham",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Baroness Hodge of Barking",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Greg Smith",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4778",
-        "twfy_id": "uk.org.publicwhip/person/25925",
-        "removed": false
-      },
-      {
-        "name": "Sharon Hodgson",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "1521",
-        "twfy_id": "uk.org.publicwhip/person/11592",
-        "removed": false
-      },
-      {
-        "name": "Lord Andrew Roberts of Belgravia",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord Ken Macdonald of River Glaven",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Baroness Claire Fox of Buckley",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Baroness Julie Smith of Newnham",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord Michael Farmer",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-04-27",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Bob Blackman MP",
@@ -178,10 +71,18 @@
       "Received": "18/03/2025",
       "Registered": "10/04/2025",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Cedarsoak Ltd",
+      "Description": "Second Edition of Report (research, writing, graphic design, printing, media and communication costs).",
+      "Value £s In bands of £1,500": "16,501-18,000",
+      "Received": "18/03/2026",
+      "Registered": "30/03/2026",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/israel.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/israel.htm",
   "categories": [
     "Country Group"
   ]

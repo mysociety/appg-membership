@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.schoolsappg.org.uk/who-we-are"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Peter Swallow",
@@ -83,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "5126",
         "twfy_id": "uk.org.publicwhip/person/26374",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Morris of Yardley",
@@ -107,7 +107,7 @@
         "member_type": "mp",
         "mnis_id": "1521",
         "twfy_id": "uk.org.publicwhip/person/11592",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Kim Johnson",
@@ -131,7 +131,7 @@
         "member_type": "lord",
         "mnis_id": "3898",
         "twfy_id": "uk.org.publicwhip/person/24696",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Storey",
@@ -259,7 +259,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       }
     ]
   },
@@ -292,8 +292,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/schools-learning-and-assessment.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/schools-learning-and-assessment.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

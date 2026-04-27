@@ -43,7 +43,7 @@
     "source_url": [
       "https://adultsocialcareappg.com/who-we-are"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Sojan Joseph",
@@ -99,7 +99,7 @@
         "member_type": "mp",
         "mnis_id": "1521",
         "twfy_id": "uk.org.publicwhip/person/11592",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ben Coleman",
@@ -372,6 +372,46 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": true
+      },
+      {
+        "name": "Sarah Owen",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4777",
+        "twfy_id": "uk.org.publicwhip/person/25823",
+        "removed": false
+      },
+      {
+        "name": "Marie Tidball",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5098",
+        "twfy_id": "uk.org.publicwhip/person/26390",
+        "removed": false
+      },
+      {
+        "name": "Anna Dixon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5281",
+        "twfy_id": "uk.org.publicwhip/person/26524",
+        "removed": false
+      },
+      {
+        "name": "Pippa Heylings",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5078",
+        "twfy_id": "uk.org.publicwhip/person/26421",
+        "removed": false
+      },
+      {
+        "name": "Freddie Van Mierlo",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5296",
+        "twfy_id": "uk.org.publicwhip/person/26540",
+        "removed": false
       }
     ]
   },
@@ -404,8 +444,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adult-social-care.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/adult-social-care.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

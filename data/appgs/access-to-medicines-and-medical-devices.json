@@ -39,10 +39,45 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
-    "source_url": [],
-    "last_updated": null,
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://ammdappg.inparliament.uk/people"
+    ],
+    "last_updated": "2026-04-27",
+    "members": [
+      {
+        "name": "Baroness Margaret Ritchie of Downpatrick",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Danny Beales",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5339",
+        "twfy_id": "uk.org.publicwhip/person/26619",
+        "removed": false
+      },
+      {
+        "name": "Iqbal Hussain Mohamed",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5268",
+        "twfy_id": "uk.org.publicwhip/person/26620",
+        "removed": false
+      },
+      {
+        "name": "Lord Andrew Lansley",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Danny Beales MP",
@@ -52,8 +87,8 @@
     "public_enquiry_point_email": "ammdappg@rpp-group.com",
     "secretariat": "RPP Group acts as the group's secretariat.https://rpp-group.com/",
     "website": {
-      "status": "bad_search",
-      "url": null
+      "status": "register",
+      "url": "https://ammdappg.inparliament.uk/"
     }
   },
   "agm": {
@@ -73,8 +108,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/access-to-medicines-and-medical-devices.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/access-to-medicines-and-medical-devices.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

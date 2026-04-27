@@ -15,18 +15,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Lord Storey",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25060",
-      "mnis_id": "4238",
+      "name": "Graham Stuart",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/11406",
+      "mnis_id": "1482",
       "removed": false
     },
     {
       "role": "Vice Chair",
-      "name": "Baroness Hooper",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13081",
-      "mnis_id": "2005",
+      "name": "Lord Storey",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/25060",
+      "mnis_id": "4238",
       "removed": false
     },
     {
@@ -57,24 +57,40 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-05",
+    "date_of_most_recent_agm": "2026-03-04",
     "published_income_expenditure_statement": false,
     "reporting_year": "05 Nov to 04 Nov",
-    "next_reporting_deadline": "2026-03-05"
+    "next_reporting_deadline": "2027-03-05"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Ranelagh Ltd",
-      "Description": "Ranelagh Political Communications is paid by British Educational Suppliers Association to act as the group's secretariat From: 05/11/2024 To: 04/11/2025",
+      "Description": "Ranelagh Political Communications is paid by British Educational Suppliers Association to act as the group's secretariat. From: 05/11/2025 To: 04/11/2026",
       "Value £s In bands of £1,500": "19,501-21,000",
-      "Received": "05/11/2024",
-      "Registered": "07/11/2024",
+      "Received": "05/11/2025",
+      "Registered": "04/03/2026",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "The Education Company",
+      "Description": "Assistance with roundtable events for APPG Inquiry on 13 and 14 May 2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "13/05/2025",
+      "Registered": "05/03/2026",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "British Educational Suppliers Association",
+      "Description": "Launch event for APPG Inquiry",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "15/07/2025",
+      "Registered": "05/03/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/education.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/education.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

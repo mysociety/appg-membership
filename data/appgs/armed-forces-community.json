@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.calvinbailey.co.uk/armedforcesappg"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Calvin Bailey",
@@ -83,7 +83,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Neil Shastri Hurst",
@@ -91,7 +91,7 @@
         "member_type": "mp",
         "mnis_id": "5197",
         "twfy_id": "uk.org.publicwhip/person/26437",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Richard Foord",
@@ -99,7 +99,7 @@
         "member_type": "mp",
         "mnis_id": "4942",
         "twfy_id": "uk.org.publicwhip/person/26086",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Charlie Maynard",
@@ -107,7 +107,7 @@
         "member_type": "mp",
         "mnis_id": "5325",
         "twfy_id": "uk.org.publicwhip/person/26544",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rachel Gilmour",
@@ -115,7 +115,7 @@
         "member_type": "mp",
         "mnis_id": "5252",
         "twfy_id": "uk.org.publicwhip/person/26543",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Angus Macdonald",
@@ -123,7 +123,7 @@
         "member_type": "mp",
         "mnis_id": "5362",
         "twfy_id": "uk.org.publicwhip/person/26637",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Louise Jones",
@@ -355,7 +355,7 @@
         "member_type": "mp",
         "mnis_id": "5355",
         "twfy_id": "uk.org.publicwhip/person/26635",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Maureen Burke",
@@ -363,7 +363,7 @@
         "member_type": "mp",
         "mnis_id": "5137",
         "twfy_id": "uk.org.publicwhip/person/26455",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Leigh Ingham",
@@ -371,7 +371,7 @@
         "member_type": "mp",
         "mnis_id": "5290",
         "twfy_id": "uk.org.publicwhip/person/26392",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lauren Edwards",
@@ -379,7 +379,7 @@
         "member_type": "mp",
         "mnis_id": "5298",
         "twfy_id": "uk.org.publicwhip/person/26597",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jake Richards",
@@ -387,7 +387,7 @@
         "member_type": "mp",
         "mnis_id": "5082",
         "twfy_id": "uk.org.publicwhip/person/26486",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jack Rankin",
@@ -395,7 +395,7 @@
         "member_type": "mp",
         "mnis_id": "5340",
         "twfy_id": "uk.org.publicwhip/person/26622",
-        "removed": false
+        "removed": true
       },
       {
         "name": "George Freeman",
@@ -403,7 +403,7 @@
         "member_type": "mp",
         "mnis_id": "4020",
         "twfy_id": "uk.org.publicwhip/person/24817",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Elsie Blundell",
@@ -411,7 +411,7 @@
         "member_type": "mp",
         "mnis_id": "5084",
         "twfy_id": "uk.org.publicwhip/person/26481",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Brian Leishman",
@@ -419,6 +419,14 @@
         "member_type": "mp",
         "mnis_id": "5196",
         "twfy_id": "uk.org.publicwhip/person/26492",
+        "removed": true
+      },
+      {
+        "name": "Sarah Boo",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5355",
+        "twfy_id": "uk.org.publicwhip/person/26635",
         "removed": false
       }
     ]
@@ -452,8 +460,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/armed-forces-community.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/armed-forces-community.htm",
   "categories": [
     "Justice, Law & Security",
     "Human Rights, Equality & Social Justice"

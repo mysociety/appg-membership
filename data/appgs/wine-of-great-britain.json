@@ -43,7 +43,7 @@
     "source_url": [
       "https://winegb.co.uk/politics/appg-2/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Andrew Griffith",
@@ -467,6 +467,14 @@
         "member_type": "mp",
         "mnis_id": "5317",
         "twfy_id": "uk.org.publicwhip/person/26537",
+        "removed": true
+      },
+      {
+        "name": "Ben Lake",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4630",
+        "twfy_id": "uk.org.publicwhip/person/25669",
         "removed": false
       }
     ]
@@ -491,8 +499,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/wine-of-great-britain.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/wine-of-great-britain.htm",
   "categories": [
     "Economy, Business & Industry",
     "Food, Agriculture & Rural Affairs"

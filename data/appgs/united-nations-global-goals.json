@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appg-globalgoals.org/members-1"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Wendy Chamberlain",
@@ -515,7 +515,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Oates",
@@ -523,7 +523,7 @@
         "member_type": "lord",
         "mnis_id": "4549",
         "twfy_id": "uk.org.publicwhip/person/25464",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Grey-Thompson",
@@ -539,7 +539,7 @@
         "member_type": "lord",
         "mnis_id": "4564",
         "twfy_id": "uk.org.publicwhip/person/25479",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Lynda Chalker",
@@ -1035,6 +1035,38 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Purvis of Tweed",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Oates",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bird",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bishop of Salisbury, Revd. Holtam",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -1066,10 +1098,26 @@
       "Received": "23/07/2025",
       "Registered": "19/11/2025",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Bond",
+      "Description": "Business and the SDGs Conference",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "10/02/2026",
+      "Registered": "05/03/2026",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Coalition for Global Prosperity",
+      "Description": "Business and the SDGs Conference",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "10/02/2026",
+      "Registered": "05/03/2026",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/united-nations-global-goals.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/united-nations-global-goals.htm",
   "categories": [
     "International Affairs, Development & Trade"
   ]

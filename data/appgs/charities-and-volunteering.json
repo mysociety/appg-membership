@@ -15,14 +15,6 @@
     },
     {
       "role": "Co-Chair",
-      "name": "Ian Roome",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26388",
-      "mnis_id": "5138",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
       "name": "Baroness Pitkeathley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/13424",
@@ -36,12 +28,20 @@
       "twfy_id": "uk.org.publicwhip/person/25734",
       "mnis_id": "4700",
       "removed": false
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Ian Roome",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26388",
+      "mnis_id": "5138",
+      "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Mary Kelly Foy MP",
@@ -354,24 +354,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-20",
+    "date_of_most_recent_agm": "2026-03-11",
     "published_income_expenditure_statement": false,
     "reporting_year": "20 Nov to 19 Nov",
-    "next_reporting_deadline": "2026-03-20"
+    "next_reporting_deadline": "2027-03-20"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "National Council for Voluntary Organisations",
-      "Description": "Secretariat From: 20/11/2024 To: 19/11/2025",
-      "Value £s In bands of £1,500": "6,001-7,500",
-      "Received": "20/11/2024",
-      "Registered": "21/11/2024",
+      "Description": "Secretariat From: 20/11/2025 To: 19/11/2026",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "20/11/2025",
+      "Registered": "18/03/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/charities-and-volunteering.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/charities-and-volunteering.htm",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Human Rights, Equality & Social Justice"

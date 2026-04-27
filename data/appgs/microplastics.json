@@ -15,18 +15,26 @@
     },
     {
       "role": "Officer",
-      "name": "Lord Brennan",
-      "party": "Non-affiliated",
-      "twfy_id": "uk.org.publicwhip/person/10753",
-      "mnis_id": "1400",
+      "name": "Paula Barker",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25819",
+      "mnis_id": "4828",
       "removed": false
     },
     {
       "role": "Officer",
-      "name": "Lord Bach",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/13526",
-      "mnis_id": "3451",
+      "name": "Iqbal Mohamed",
+      "party": "Independent",
+      "twfy_id": "uk.org.publicwhip/person/26620",
+      "mnis_id": "5268",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Bakewell of Hardington Mandeville",
+      "party": "Liberal Democrat",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -42,31 +50,31 @@
     "registered_contact_email": "alberto.costa.mp@parliament.uk",
     "public_enquiry_point_name": "Tobias Arno, National Federation of Women's Institutes. Tel: 020 7371 9300",
     "public_enquiry_point_email": "t.arno@nfwi.org.uk",
-    "secretariat": "National Federation of Women's Institutes, acts as the group's secretariat.https://www.thewi.org.uk/",
+    "secretariat": "National Federation of Women's Institutes acts as the group's secretariat.https://www.thewi.org.uk/",
     "website": {
       "status": "register",
       "url": "https://www.thewi.org.uk/campaigns/key-and-current-campaigns/end-plastic-soup/all-party-parliamentary-group-on-microplastics"
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-19",
+    "date_of_most_recent_agm": "2026-03-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "19 Nov to 18 Nov",
-    "next_reporting_deadline": "2026-03-19"
+    "next_reporting_deadline": "2027-03-19"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "National Federation of Women's Institutes",
-      "Description": "Secretariat From: 19/11/2024 To: 18/11/2025",
-      "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "19/11/2024",
-      "Registered": "05/12/2024",
+      "Description": "Secretariat From: 19/11/2025 To: 18/11/2026",
+      "Value £s In bands of £1,500": "6,001-7,500",
+      "Received": "19/11/2025",
+      "Registered": "11/03/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/microplastics.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/microplastics.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

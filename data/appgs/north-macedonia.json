@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgnorthmacedonia.com/members.html"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Graeme Downie",
@@ -83,7 +83,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord George Robertson of Port Ellen",
@@ -91,7 +91,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Catherine Ashton of Upholland",
@@ -99,7 +99,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tanmanjeet Singh Dhesi",
@@ -123,7 +123,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ian Roome",
@@ -228,6 +228,38 @@
         "mnis_id": "4657",
         "twfy_id": "uk.org.publicwhip/person/25618",
         "removed": false
+      },
+      {
+        "name": "Stuart William Peach",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "George Robertson of Port Ellen",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Catherine Ashton of Upholland",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Brian MacKenzie of Framwellgate",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -251,8 +283,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/north-macedonia.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/north-macedonia.htm",
   "categories": [
     "Country Group"
   ]

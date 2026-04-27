@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.oceanappg.org/officers-and-members"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Sarah Champion",
@@ -291,7 +291,7 @@
         "member_type": "lord",
         "mnis_id": "1413",
         "twfy_id": "uk.org.publicwhip/person/10920",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Teverson",
@@ -299,7 +299,7 @@
         "member_type": "lord",
         "mnis_id": "3789",
         "twfy_id": "uk.org.publicwhip/person/13732",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Ritchie",
@@ -315,7 +315,7 @@
         "member_type": "lord",
         "mnis_id": "497",
         "twfy_id": "uk.org.publicwhip/person/10394",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Randall",
@@ -323,7 +323,7 @@
         "member_type": "lord",
         "mnis_id": "209",
         "twfy_id": "uk.org.publicwhip/person/10660",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Grantchester",
@@ -331,7 +331,7 @@
         "member_type": "lord",
         "mnis_id": "3577",
         "twfy_id": "uk.org.publicwhip/person/13570",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Wigley",
@@ -339,7 +339,7 @@
         "member_type": "lord",
         "mnis_id": "547",
         "twfy_id": "uk.org.publicwhip/person/10635",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Strathcarron",
@@ -347,7 +347,7 @@
         "member_type": "lord",
         "mnis_id": "4937",
         "twfy_id": "uk.org.publicwhip/person/26060",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Brown",
@@ -363,7 +363,7 @@
         "member_type": "lord",
         "mnis_id": "1400",
         "twfy_id": "uk.org.publicwhip/person/10753",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Viscount Bridgeman",
@@ -371,7 +371,7 @@
         "member_type": "lord",
         "mnis_id": "3515",
         "twfy_id": "uk.org.publicwhip/person/13640",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hooper",
@@ -395,7 +395,7 @@
         "member_type": "lord",
         "mnis_id": "3569",
         "twfy_id": "uk.org.publicwhip/person/13560",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Golding",
@@ -411,7 +411,7 @@
         "member_type": "lord",
         "mnis_id": "4984",
         "twfy_id": "uk.org.publicwhip/person/26259",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Healy",
@@ -435,7 +435,7 @@
         "member_type": "lord",
         "mnis_id": "3526",
         "twfy_id": "uk.org.publicwhip/person/13505",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Lennie",
@@ -451,7 +451,7 @@
         "member_type": "lord",
         "mnis_id": "5014",
         "twfy_id": "uk.org.publicwhip/person/26292",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Smith of Newnham",
@@ -459,7 +459,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Sater",
@@ -467,7 +467,7 @@
         "member_type": "lord",
         "mnis_id": "4700",
         "twfy_id": "uk.org.publicwhip/person/25734",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Bakewell",
@@ -475,7 +475,7 @@
         "member_type": "lord",
         "mnis_id": "4223",
         "twfy_id": "uk.org.publicwhip/person/25045",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Goddard",
@@ -515,6 +515,62 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
+      },
+      {
+        "name": "Alex Sobel",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4658",
+        "twfy_id": "uk.org.publicwhip/person/25680",
+        "removed": false
+      },
+      {
+        "name": "Cameron Thomas",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5354",
+        "twfy_id": "uk.org.publicwhip/person/26532",
+        "removed": false
+      },
+      {
+        "name": "Kerry McCarthy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1491",
+        "twfy_id": "uk.org.publicwhip/person/11455",
+        "removed": false
+      },
+      {
+        "name": "Pippa Heylings",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5078",
+        "twfy_id": "uk.org.publicwhip/person/26421",
+        "removed": false
+      },
+      {
+        "name": "Steve Race",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5064",
+        "twfy_id": "uk.org.publicwhip/person/26345",
+        "removed": false
+      },
+      {
+        "name": "Baroness Sugg",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4584",
+        "twfy_id": "uk.org.publicwhip/person/25586",
+        "removed": false
+      },
+      {
+        "name": "Baroness Willis",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4945",
+        "twfy_id": "uk.org.publicwhip/person/26088",
         "removed": false
       }
     ]
@@ -564,8 +620,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/ocean.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/ocean.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

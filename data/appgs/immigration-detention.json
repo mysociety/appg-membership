@@ -41,10 +41,12 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
+      "https://appgdetention.org.uk/about/current-members-3/",
       "https://appgdetention.org.uk/about/current-members-2/",
-      "https://appgdetention.org.uk/about/current-members/"
+      "https://appgdetention.org.uk/about/current-members/",
+      "https://appgdetention.org.uk/about/members-2023-24/"
     ],
-    "last_updated": "2026-03-02",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Bell Ribeiro-Addy",
@@ -268,7 +270,7 @@
         "member_type": "mp",
         "mnis_id": "117",
         "twfy_id": "uk.org.publicwhip/person/10057",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Anne McLaughlin",
@@ -556,7 +558,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Liz Saville Roberts",
@@ -613,6 +615,54 @@
         "mnis_id": "4809",
         "twfy_id": "uk.org.publicwhip/person/25826",
         "removed": false
+      },
+      {
+        "name": "Alex Sobel",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4658",
+        "twfy_id": "uk.org.publicwhip/person/25680",
+        "removed": false
+      },
+      {
+        "name": "Pete Wishart",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1440",
+        "twfy_id": "uk.org.publicwhip/person/11333",
+        "removed": false
+      },
+      {
+        "name": "Peter Bottomley",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "117",
+        "twfy_id": "uk.org.publicwhip/person/10057",
+        "removed": false
+      },
+      {
+        "name": "Earl of Sandwich",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Peter Bottomley",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "117",
+        "twfy_id": "uk.org.publicwhip/person/10057",
+        "removed": false
+      },
+      {
+        "name": "Earl of Sandwich",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -645,8 +695,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/immigration-detention.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/immigration-detention.htm",
   "categories": [
     "Justice, Law & Security",
     "Human Rights, Equality & Social Justice"

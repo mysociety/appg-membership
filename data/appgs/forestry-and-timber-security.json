@@ -14,27 +14,27 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "Lord Clark of Windermere",
+      "role": "Officer",
+      "name": "Lillian Jones",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26327",
+      "mnis_id": "5043",
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "David Chadwick",
+      "role": "Officer",
+      "name": "Mr Angus MacDonald",
       "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26518",
-      "mnis_id": "5284",
+      "twfy_id": "uk.org.publicwhip/person/26637",
+      "mnis_id": "5362",
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "Lord Colgrain",
+      "role": "Officer",
+      "name": "Lord Roborough",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25610",
-      "mnis_id": "4596",
+      "twfy_id": "uk.org.publicwhip/person/26099",
+      "mnis_id": "4953",
       "removed": false
     }
   ],
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-29",
+    "date_of_most_recent_agm": "2026-03-17",
     "published_income_expenditure_statement": false,
     "reporting_year": "29 Oct to 28 Oct",
-    "next_reporting_deadline": "2026-02-28"
+    "next_reporting_deadline": "2027-02-28"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Confor: Promoting Forestry and Wood",
-      "Description": "Secretariat From: 29/10/2024 To: 28/10/2025",
+      "Description": "Secretariat From: 29/10/2025 To: 28/10/2026",
       "Value £s In bands of £1,500": "22,501-24,000",
-      "Received": "29/10/2024",
-      "Registered": "29/11/2024",
+      "Received": "29/10/2025",
+      "Registered": "18/03/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/forestry-and-timber-security.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/forestry-and-timber-security.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

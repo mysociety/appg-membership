@@ -43,7 +43,7 @@
     "source_url": [
       "https://hospiceuk-files-prod.s3.eu-west-2.amazonaws.com/s3fs-public/2026-01/APPG%20on%20Hospice%20and%20End%20of%20Life%20Care%20Membership.pdf"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Baroness Ilora Finlay",
@@ -51,7 +51,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Paulette Hamilton",
@@ -123,7 +123,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Steve Yemm",
@@ -395,7 +395,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Simon Opher",
@@ -403,7 +403,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Josh Newbury",

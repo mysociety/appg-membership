@@ -39,69 +39,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.vvappg.com/who-we-are"
-    ],
-    "last_updated": "2026-02-04",
-    "members": [
-      {
-        "name": "Jim Shannon",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4131",
-        "twfy_id": "uk.org.publicwhip/person/13864",
-        "removed": false
-      },
-      {
-        "name": "Peter Prinsley",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5163",
-        "twfy_id": "uk.org.publicwhip/person/26383",
-        "removed": true
-      },
-      {
-        "name": "Matt Bishop",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5323",
-        "twfy_id": "uk.org.publicwhip/person/26574",
-        "removed": true
-      },
-      {
-        "name": "Lord Lansley CBE",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "123",
-        "twfy_id": "uk.org.publicwhip/person/10349",
-        "removed": true
-      },
-      {
-        "name": "Lord Lansley",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "123",
-        "twfy_id": "uk.org.publicwhip/person/10349",
-        "removed": false
-      },
-      {
-        "name": "The Lord Elliott of Ballinamallard",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Brian Leishman",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5196",
-        "twfy_id": "uk.org.publicwhip/person/26492",
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-04-27",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Jim Shannon MP",
@@ -132,8 +73,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/vascular-and-venous-disease.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/vascular-and-venous-disease.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

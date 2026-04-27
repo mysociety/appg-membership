@@ -39,45 +39,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://blogs.soas.ac.uk/cop/tigi-appg/"
-    ],
-    "last_updated": "2026-02-04",
-    "members": [
-      {
-        "name": "Paul Kohler",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5321",
-        "twfy_id": "uk.org.publicwhip/person/26570",
-        "removed": false
-      },
-      {
-        "name": "Baroness Bennett",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "4719",
-        "twfy_id": "uk.org.publicwhip/person/25776",
-        "removed": false
-      },
-      {
-        "name": "Lord Balfe of Dulwich",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "John McDonnell",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "178",
-        "twfy_id": "uk.org.publicwhip/person/10383",
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-04-27",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Mr Paul Kohler MP",
@@ -108,8 +73,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/intergenerational-inquiry.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/intergenerational-inquiry.htm",
   "categories": [
     "Governance, Democracy & Political Reform",
     "Education, Skills & Youth"

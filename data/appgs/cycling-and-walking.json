@@ -41,11 +41,11 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
+      "https://appgcw.org/members/committee/",
       "https://appgcw.org/members/mps/",
-      "https://appgcw.org/members/peers/",
-      "https://appgcw.org/members/associate-members/"
+      "https://appgcw.org/members/peers/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Scott Arthur",
@@ -333,7 +333,7 @@
         "member_type": "lord",
         "mnis_id": "1511",
         "twfy_id": "uk.org.publicwhip/person/11553",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Balfe",
@@ -341,7 +341,7 @@
         "member_type": "lord",
         "mnis_id": "4302",
         "twfy_id": "uk.org.publicwhip/person/25209",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Barker",
@@ -357,7 +357,7 @@
         "member_type": "lord",
         "mnis_id": "1091",
         "twfy_id": "uk.org.publicwhip/person/14134",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bennett",
@@ -373,7 +373,7 @@
         "member_type": "lord",
         "mnis_id": "3526",
         "twfy_id": "uk.org.publicwhip/person/13505",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bottomley",
@@ -397,7 +397,7 @@
         "member_type": "lord",
         "mnis_id": "3351",
         "twfy_id": "uk.org.publicwhip/person/13430",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Butler",
@@ -405,7 +405,7 @@
         "member_type": "lord",
         "mnis_id": "3337",
         "twfy_id": "uk.org.publicwhip/person/13347",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Viscount Colville",
@@ -429,7 +429,7 @@
         "member_type": "lord",
         "mnis_id": "805",
         "twfy_id": "uk.org.publicwhip/person/13000",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Grey-Thompson",
@@ -445,7 +445,7 @@
         "member_type": "lord",
         "mnis_id": "2665",
         "twfy_id": "uk.org.publicwhip/person/13499",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Hoffmann",
@@ -453,7 +453,7 @@
         "member_type": "lord",
         "mnis_id": "2633",
         "twfy_id": "uk.org.publicwhip/person/13221",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Jenkin",
@@ -477,7 +477,7 @@
         "member_type": "lord",
         "mnis_id": "4153",
         "twfy_id": "uk.org.publicwhip/person/24986",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Lucas",
@@ -485,7 +485,7 @@
         "member_type": "lord",
         "mnis_id": "1879",
         "twfy_id": "uk.org.publicwhip/person/13301",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Marks",
@@ -493,7 +493,7 @@
         "member_type": "lord",
         "mnis_id": "4206",
         "twfy_id": "uk.org.publicwhip/person/25035",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Mcnally",
@@ -517,7 +517,7 @@
         "member_type": "lord",
         "mnis_id": "3271",
         "twfy_id": "uk.org.publicwhip/person/13031",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Robathan",
@@ -525,7 +525,7 @@
         "member_type": "lord",
         "mnis_id": "334",
         "twfy_id": "uk.org.publicwhip/person/10503",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Russell",
@@ -533,7 +533,7 @@
         "member_type": "lord",
         "mnis_id": "2134",
         "twfy_id": "uk.org.publicwhip/person/25260",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Teverson",
@@ -541,7 +541,7 @@
         "member_type": "lord",
         "mnis_id": "3789",
         "twfy_id": "uk.org.publicwhip/person/13732",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Walney",
@@ -549,7 +549,7 @@
         "member_type": "lord",
         "mnis_id": "3917",
         "twfy_id": "uk.org.publicwhip/person/24837",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Watson",
@@ -557,7 +557,7 @@
         "member_type": "lord",
         "mnis_id": "1463",
         "twfy_id": "uk.org.publicwhip/person/11309",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Young",
@@ -573,7 +573,7 @@
         "member_type": "lord",
         "mnis_id": "4145",
         "twfy_id": "uk.org.publicwhip/person/24970",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Fabian Hamilton",
@@ -581,7 +581,7 @@
         "member_type": "mp",
         "mnis_id": "415",
         "twfy_id": "uk.org.publicwhip/person/10256",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Olly Glover",
@@ -589,7 +589,7 @@
         "member_type": "mp",
         "mnis_id": "5318",
         "twfy_id": "uk.org.publicwhip/person/26572",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Jamieson",
@@ -605,7 +605,7 @@
         "member_type": "mp",
         "mnis_id": "5134",
         "twfy_id": "uk.org.publicwhip/person/26391",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Scott ARTHUR",
@@ -1645,6 +1645,174 @@
         "member_type": "lord",
         "mnis_id": "919",
         "twfy_id": "uk.org.publicwhip/person/13129",
+        "removed": true
+      },
+      {
+        "name": "Jamieson",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Austin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Balfe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bates",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Berkeley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Burns",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Butler",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dubs",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Haskel",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Hoffmann",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Kennedy",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1987",
+        "twfy_id": "uk.org.publicwhip/person/12994",
+        "removed": false
+      },
+      {
+        "name": "Lucas",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Marks",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "McNally",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Redesdale",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Robathan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Russell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Teverson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Walney",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Watson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Wei",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -1669,22 +1837,6 @@
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
-    {
-      "Source": "Forest",
-      "Description": "Parliamentary Bike Ride",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "21/02/2025",
-      "Registered": "07/03/2025",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "Lime",
-      "Description": "Parliamentary Bike Ride",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "05/03/2025",
-      "Registered": "07/03/2025",
-      "benefit_type": "Benefits In Kind"
-    },
     {
       "Source": "British Cycling",
       "Description": "Active Travel and Social Justice report",
@@ -1766,8 +1918,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/cycling-and-walking.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/cycling-and-walking.htm",
   "categories": [
     "Infrastructure, Transport & Mobility",
     "Environment, Climate & Sustainability"

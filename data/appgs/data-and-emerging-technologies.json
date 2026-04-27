@@ -1,0 +1,116 @@
+{
+  "slug": "data-and-emerging-technologies",
+  "title": "All-Party Parliamentary Group for Data and Emerging Technologies",
+  "purpose": "To disseminate knowledge, generate debate and facilitate engagement on data and emerging technologies amongst Members of both Houses of Parliament. To connect with business, academia and civil society to promote better policy making on data and emerging technologies.",
+  "category": "Subject Group",
+  "parliament": "uk",
+  "officers": [
+    {
+      "role": "Chair & Registered Contact",
+      "name": "Daniel Zeichner",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25386",
+      "mnis_id": "4382",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Tristan Osborne",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26589",
+      "mnis_id": "5220",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Holmes of Richmond",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Uddin",
+      "party": "Non-affiliated",
+      "twfy_id": "uk.org.publicwhip/person/13274",
+      "mnis_id": "1827",
+      "removed": false
+    }
+  ],
+  "members_list": {
+    "source_method": "ai_search",
+    "source_url": [
+      "https://policyconnect.org.uk/parliamentary_group/apgdet/"
+    ],
+    "last_updated": "2026-04-27",
+    "members": [
+      {
+        "name": "Daniel Zeichner",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4382",
+        "twfy_id": "uk.org.publicwhip/person/25386",
+        "removed": false
+      },
+      {
+        "name": "Tristan Osborne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5220",
+        "twfy_id": "uk.org.publicwhip/person/26589",
+        "removed": false
+      },
+      {
+        "name": "Lord Holmes of Richmond",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Uddin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1827",
+        "twfy_id": "uk.org.publicwhip/person/13274",
+        "removed": false
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": "Daniel Zeichner MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 4379.",
+    "registered_contact_email": "daniel@danielzeichner.co.uk",
+    "public_enquiry_point_name": "Lavanya Rangarajan, Policy Connect. Tel: 0207 202 8585",
+    "public_enquiry_point_email": "Lavanya.Rangarajan@policyconnect.org.uk",
+    "secretariat": "Policy Connect acts as the group's secretariat.https://policyconnect.org.uk/",
+    "website": {
+      "status": "register",
+      "url": "https://policyconnect.org.uk/parliamentary_group/apgdet/"
+    }
+  },
+  "agm": {
+    "date_of_most_recent_agm": "2026-02-10",
+    "published_income_expenditure_statement": false,
+    "reporting_year": "10 Feb to 09 Feb",
+    "next_reporting_deadline": "2027-06-10"
+  },
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Policy Connect",
+      "Description": "Policy Connect is paid by the following to act as the group's secretariat: ACCA, Open Data Institute, Zurich. From: 10/02/2026 To: 09/02/2027",
+      "Value £s In bands of £1,500": "37,501-39,000",
+      "Received": "10/02/2026",
+      "Registered": "05/03/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/data-and-emerging-technologies.htm",
+  "categories": [
+    "Science, Technology & Innovation"
+  ]
+}

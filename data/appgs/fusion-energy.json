@@ -43,7 +43,7 @@
     "source_url": [
       "https://fusionenergyappg.co.uk/about-us/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "James Naish",
@@ -227,7 +227,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Viscount Trenchard",
@@ -268,6 +268,14 @@
         "mnis_id": "5318",
         "twfy_id": "uk.org.publicwhip/person/26572",
         "removed": false
+      },
+      {
+        "name": "Baroness Willis",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4945",
+        "twfy_id": "uk.org.publicwhip/person/26088",
+        "removed": false
       }
     ]
   },
@@ -300,8 +308,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fusion-energy.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/fusion-energy.htm",
   "categories": [
     "Science, Technology & Innovation",
     "Energy & Utilities"

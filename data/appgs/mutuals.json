@@ -7,18 +7,26 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Andrew Pakes",
+      "name": "Gareth Thomas",
       "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26601",
-      "mnis_id": "5243",
+      "twfy_id": "uk.org.publicwhip/person/10594",
+      "mnis_id": "177",
       "removed": false
     },
     {
-      "role": "Officer",
-      "name": "Gareth Snell",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25601",
-      "mnis_id": "4595",
+      "role": "Vice Chair",
+      "name": "Lord Naseby",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/13704",
+      "mnis_id": "1251",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Patrick Hurley",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26463",
+      "mnis_id": "5052",
       "removed": false
     },
     {
@@ -27,14 +35,6 @@
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/19579",
       "mnis_id": "965",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Viscount Trenchard",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13177",
-      "mnis_id": "1829",
       "removed": false
     }
   ],
@@ -45,9 +45,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Andrew Pakes MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "andrew.pakes.mp@parliament.uk",
+    "registered_contact_name": "Gareth Thomas MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 4243.",
+    "registered_contact_email": "gareth.thomas.mp@parliament.uk",
     "public_enquiry_point_name": "Mark Willetts, Mutuo. Tel: 07525 630 007",
     "public_enquiry_point_email": "mark@mutuo.coop",
     "secretariat": "Mutuo acts as the group's secretariat.http://www.mutuo.coop/",
@@ -57,24 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-10",
+    "date_of_most_recent_agm": "2026-03-24",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Dec to 09 Dec",
-    "next_reporting_deadline": "2026-04-10"
+    "next_reporting_deadline": "2027-04-10"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Mutuo",
-      "Description": "Secretariat From: 10/12/2024 To: 09/12/2025",
-      "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "10/12/2024",
-      "Registered": "30/01/2025",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/mutuals.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/mutuals.htm",
   "categories": [
     "Economy, Business & Industry"
   ]

@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgmigration.org.uk/appg-on-migration-members/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "David Simmonds",
@@ -283,7 +283,7 @@
         "member_type": "mp",
         "mnis_id": "163",
         "twfy_id": "uk.org.publicwhip/person/10596",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Stephen Kinnock",
@@ -347,7 +347,7 @@
         "member_type": "lord",
         "mnis_id": "2685",
         "twfy_id": "uk.org.publicwhip/person/13662",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Stephen Timms",
@@ -355,7 +355,7 @@
         "member_type": "mp",
         "mnis_id": "163",
         "twfy_id": "uk.org.publicwhip/person/10596",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Bishop of Chelmsford, Dr. Guli Francis-Dehqani",
@@ -363,7 +363,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Bishop of Sheffield, Dr. Peter Jonathan Wilcox",
@@ -371,7 +371,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Dholakia",
@@ -379,6 +379,22 @@
         "member_type": "lord",
         "mnis_id": "2685",
         "twfy_id": "uk.org.publicwhip/person/13662",
+        "removed": true
+      },
+      {
+        "name": "Lord Bishop of Chelmsford, Dr. Guli Francis-Dehqani",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Bishop of Sheffield, Dr. Peter Jonathan Wilcox",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -420,8 +436,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/migration.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/migration.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

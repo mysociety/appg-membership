@@ -7,34 +7,34 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Andrew Rosindell",
-      "party": "Reform UK",
-      "twfy_id": "uk.org.publicwhip/person/11199",
-      "mnis_id": "1447",
+      "name": "Wendy Morton",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25342",
+      "mnis_id": "4358",
       "removed": false
     },
     {
       "role": "Vice Chair",
+      "name": "Kerry McCarthy",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/11455",
+      "mnis_id": "1491",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Alberto Costa",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25413",
+      "mnis_id": "4439",
+      "removed": false
+    },
+    {
+      "role": "Officer",
       "name": "Lord Brady of Altrincham",
       "party": "Conservative",
       "twfy_id": null,
       "mnis_id": null,
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Frank McNally",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26424",
-      "mnis_id": "5183",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Alison Taylor",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26563",
-      "mnis_id": "5093",
       "removed": false
     }
   ],
@@ -45,11 +45,11 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Andrew Rosindell MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 8475.",
-    "registered_contact_email": "andrew.rosindell.mp@parliament.uk",
-    "public_enquiry_point_name": "Starbuck Coleman, Office of Andrew Rosindell MP. Tel: 020 7219 8475",
-    "public_enquiry_point_email": "starbuck.coleman@parliament.uk",
+    "registered_contact_name": "Wendy Morton MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 5909.",
+    "registered_contact_email": "wendy.morton.mp@parliament.uk",
+    "public_enquiry_point_name": "Jon Jo MacNamara, Office of Wendy Morton MP. Tel: 0207 219 5909",
+    "public_enquiry_point_email": "jonjo.macnamara@parliament.uk",
     "secretariat": null,
     "website": {
       "status": "bad_search",
@@ -57,15 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-05",
+    "date_of_most_recent_agm": "2026-02-24",
     "published_income_expenditure_statement": false,
     "reporting_year": "05 Dec to 04 Dec",
-    "next_reporting_deadline": "2026-04-05"
+    "next_reporting_deadline": "2027-04-05"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/san-marino.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/san-marino.htm",
   "categories": [
     "Country Group"
   ]

@@ -43,7 +43,7 @@
     "source_url": [
       "https://appg-n4dev.org.uk/members/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "David Mundell",
@@ -276,6 +276,46 @@
         "mnis_id": "4298",
         "twfy_id": "uk.org.publicwhip/person/25198",
         "removed": false
+      },
+      {
+        "name": "Oliver Ryan",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5135",
+        "twfy_id": "uk.org.publicwhip/person/26381",
+        "removed": false
+      },
+      {
+        "name": "Lord Mohammed of Tinsley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bobby Dean",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5083",
+        "twfy_id": "uk.org.publicwhip/person/26371",
+        "removed": false
+      },
+      {
+        "name": "Sam Rushworth",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5108",
+        "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
+      },
+      {
+        "name": "Alan Gemmell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5185",
+        "twfy_id": "uk.org.publicwhip/person/26476",
+        "removed": false
       }
     ]
   },
@@ -308,8 +348,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/nutrition-for-development.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/nutrition-for-development.htm",
   "categories": [
     "International Affairs, Development & Trade",
     "Health, Medicine & Public Health"

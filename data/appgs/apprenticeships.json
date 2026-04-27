@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appgapprenticeships.uk/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Andrew Pakes",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": "3898",
         "twfy_id": "uk.org.publicwhip/person/24696",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Peter Bedford",
@@ -476,6 +476,46 @@
         "mnis_id": "5239",
         "twfy_id": "uk.org.publicwhip/person/26585",
         "removed": false
+      },
+      {
+        "name": "Lord Hunt of Wirral",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Luke Akehurst",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5112",
+        "twfy_id": "uk.org.publicwhip/person/26420",
+        "removed": false
+      },
+      {
+        "name": "Rachael Maskell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4471",
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
+      },
+      {
+        "name": "Adam Dance",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5191",
+        "twfy_id": "uk.org.publicwhip/person/26459",
+        "removed": false
+      },
+      {
+        "name": "Baroness Whitaker",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2510",
+        "twfy_id": "uk.org.publicwhip/person/12957",
+        "removed": false
       }
     ]
   },
@@ -508,8 +548,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/apprenticeships.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/apprenticeships.htm",
   "categories": [
     "Education, Skills & Youth",
     "Economy, Business & Industry"

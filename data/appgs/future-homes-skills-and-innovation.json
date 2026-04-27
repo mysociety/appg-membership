@@ -6,14 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Amanda Hack",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26449",
-      "mnis_id": "5149",
-      "removed": false
-    },
-    {
       "role": "Officer",
       "name": "Julia Buckley",
       "party": "Labour",
@@ -39,242 +31,15 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.fhsiappg.co.uk/new-page"
-    ],
-    "last_updated": "2026-02-04",
-    "members": [
-      {
-        "name": "Amanda Hack",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5149",
-        "twfy_id": "uk.org.publicwhip/person/26449",
-        "removed": false
-      },
-      {
-        "name": "Porter of Spalding",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Julia Buckley",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5171",
-        "twfy_id": "uk.org.publicwhip/person/26436",
-        "removed": false
-      },
-      {
-        "name": "Sarah Gibson",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5239",
-        "twfy_id": "uk.org.publicwhip/person/26585",
-        "removed": false
-      },
-      {
-        "name": "Jess Asato",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5156",
-        "twfy_id": "uk.org.publicwhip/person/26386",
-        "removed": false
-      },
-      {
-        "name": "Sian Berry",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5314",
-        "twfy_id": "uk.org.publicwhip/person/25752",
-        "removed": false
-      },
-      {
-        "name": "Bob Blackman",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4005",
-        "twfy_id": "uk.org.publicwhip/person/24945",
-        "removed": false
-      },
-      {
-        "name": "Andrew Bowie",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4601",
-        "twfy_id": "uk.org.publicwhip/person/25703",
-        "removed": false
-      },
-      {
-        "name": "Tom Collins",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5087",
-        "twfy_id": "uk.org.publicwhip/person/26351",
-        "removed": false
-      },
-      {
-        "name": "Mims Davies",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4513",
-        "twfy_id": "uk.org.publicwhip/person/25330",
-        "removed": false
-      },
-      {
-        "name": "Marsha De Cordova",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4676",
-        "twfy_id": "uk.org.publicwhip/person/25620",
-        "removed": false
-      },
-      {
-        "name": "Lauren Edwards",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5298",
-        "twfy_id": "uk.org.publicwhip/person/26597",
-        "removed": false
-      },
-      {
-        "name": "Goddard of Stockport",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Ben Goldsborough",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5205",
-        "twfy_id": "uk.org.publicwhip/person/26530",
-        "removed": false
-      },
-      {
-        "name": "Andrew Gwynne",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "1506",
-        "twfy_id": "uk.org.publicwhip/person/11531",
-        "removed": false
-      },
-      {
-        "name": "Alice Macdonald",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5133",
-        "twfy_id": "uk.org.publicwhip/person/26450",
-        "removed": false
-      },
-      {
-        "name": "Kevin McKenna",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5300",
-        "twfy_id": "uk.org.publicwhip/person/26529",
-        "removed": false
-      },
-      {
-        "name": "Wendy Morton",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4358",
-        "twfy_id": "uk.org.publicwhip/person/25342",
-        "removed": false
-      },
-      {
-        "name": "Susan Murray",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5157",
-        "twfy_id": "uk.org.publicwhip/person/26429",
-        "removed": false
-      },
-      {
-        "name": "Kate Osamor",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4515",
-        "twfy_id": "uk.org.publicwhip/person/25365",
-        "removed": false
-      },
-      {
-        "name": "Jo Platt",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4673",
-        "twfy_id": "uk.org.publicwhip/person/25611",
-        "removed": false
-      },
-      {
-        "name": "Richard Quigley",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5144",
-        "twfy_id": "uk.org.publicwhip/person/26373",
-        "removed": false
-      },
-      {
-        "name": "Andrew Ranger",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5046",
-        "twfy_id": "uk.org.publicwhip/person/26336",
-        "removed": false
-      },
-      {
-        "name": "Jack Rankin",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5340",
-        "twfy_id": "uk.org.publicwhip/person/26622",
-        "removed": false
-      },
-      {
-        "name": "Mike Reader",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5316",
-        "twfy_id": "uk.org.publicwhip/person/26630",
-        "removed": false
-      },
-      {
-        "name": "David Reed",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5347",
-        "twfy_id": "uk.org.publicwhip/person/26628",
-        "removed": false
-      },
-      {
-        "name": "Marie Rimmer",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4457",
-        "twfy_id": "uk.org.publicwhip/person/25321",
-        "removed": false
-      },
-      {
-        "name": "Alex Sobel",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4658",
-        "twfy_id": "uk.org.publicwhip/person/25680",
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-04-27",
+    "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Amanda Hack MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "amanda.hack.mp@parliament.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
     "public_enquiry_point_name": "Gill Morris, Devo Agency. Tel: 07976263869",
     "public_enquiry_point_email": "fhappg@devoagency.co.uk",
     "secretariat": "Devo Agency acts as the group's secretariat.https://www.devoagency.co.uk/",
@@ -300,8 +65,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/future-homes-skills-and-innovation.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/future-homes-skills-and-innovation.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Education, Skills & Youth",

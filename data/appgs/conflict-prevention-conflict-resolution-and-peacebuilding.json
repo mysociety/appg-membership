@@ -30,7 +30,7 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Officer",
       "name": "Helen Maguire",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26627",
@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Alex Ballinger MP",
@@ -514,15 +514,32 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-01-07",
+    "date_of_most_recent_agm": "2026-03-18",
     "published_income_expenditure_statement": false,
     "reporting_year": "07 Jan to 06 Jan",
-    "next_reporting_deadline": "2026-05-07"
+    "next_reporting_deadline": "2027-05-07"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/conflict-prevention-conflict-resolution-and-peacebuilding.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Mercy Corps",
+      "Description": "Joint Secretariat From: 07/01/2026 To: 06/01/2027",
+      "Value £s In bands of £1,500": "15,001-16,500",
+      "Received": "07/01/2026",
+      "Registered": "26/03/2026",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Search For Common Ground",
+      "Description": "Joint Secretariat From: 07/01/2026 To: 06/01/2027",
+      "Value £s In bands of £1,500": "15,001-16,500",
+      "Received": "07/01/2026",
+      "Registered": "26/03/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/conflict-prevention-conflict-resolution-and-peacebuilding.htm",
   "categories": [
     "International Affairs, Development & Trade"
   ]

@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgpse.org.uk/membership/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Josh Newbury",
@@ -139,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Banner KC",
@@ -212,6 +212,14 @@
         "mnis_id": "4872",
         "twfy_id": "uk.org.publicwhip/person/25892",
         "removed": false
+      },
+      {
+        "name": "The Lord Lancaster of Kimbolton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -237,7 +245,7 @@
   "detailed_benefits": [
     {
       "Source": "Efficio Consulting Ltd",
-      "Description": "Secretariat",
+      "Description": "Secretariat From: 21/10/2025 To: 20/10/2026",
       "Value £s In bands of £1,500": "19,501-21,000",
       "Received": "21/10/2025",
       "Registered": "24/10/2025",
@@ -245,15 +253,31 @@
     },
     {
       "Source": "Efficio Consulting Ltd",
-      "Description": "Web domain, hosting and templates",
+      "Description": "Web domain, hosting and templates From: 21/10/2025 To: 20/10/2026",
       "Value £s In bands of £1,500": "1,501-3,000",
       "Received": "21/10/2025",
       "Registered": "05/11/2025",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Efficio Consulting Ltd",
+      "Description": "Launch Reception (originally registered 11/03/2026)",
+      "Value £s In bands of £1,500": "15,001-16,500",
+      "Received": "06/01/2026",
+      "Registered": "19/03/2026",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Efficio Consulting Ltd",
+      "Description": "Visit to Singapore for the Global Commission Workstream, including subsistence, hotel accommodation, flights, and visas for an APPG Member, secretariat representative, and the Global Commission Chair (originally registered 11/03/2026). From: 31/01/2026 To: 03/02/2026",
+      "Value £s In bands of £1,500": "21,001-22,500",
+      "Received": "31/01/2026",
+      "Registered": "20/03/2026",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/public-sector-efficiency.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/public-sector-efficiency.htm",
   "categories": [
     "Governance, Democracy & Political Reform"
   ]

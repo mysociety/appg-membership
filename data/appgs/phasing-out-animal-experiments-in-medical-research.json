@@ -14,11 +14,11 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "The Earl of Courtown",
+      "role": "Officer",
+      "name": "Ben Obese-Jecty",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26354",
+      "mnis_id": "5089",
       "removed": false
     },
     {
@@ -31,10 +31,10 @@
     },
     {
       "role": "Officer",
-      "name": "Ben Obese-Jecty",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26354",
-      "mnis_id": "5089",
+      "name": "Douglas McAllister",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26334",
+      "mnis_id": "5057",
       "removed": false
     }
   ],
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-11",
+    "date_of_most_recent_agm": "2026-03-11",
     "published_income_expenditure_statement": false,
     "reporting_year": "11 Dec to 10 Dec",
-    "next_reporting_deadline": "2026-04-11"
+    "next_reporting_deadline": "2027-04-11"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
-      "Source": "Animal Free Research Uk",
-      "Description": "Secretariat From: 11/12/2024 To: 10/12/2025",
+      "Source": "Animal Free Research UK",
+      "Description": "Secretariat From: 11/12/2025 To: 10/12/2026",
       "Value £s In bands of £1,500": "12,001-13,500",
-      "Received": "11/12/2024",
-      "Registered": "03/01/2025",
+      "Received": "11/12/2025",
+      "Registered": "16/03/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/phasing-out-animal-experiments-in-medical-research.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/phasing-out-animal-experiments-in-medical-research.htm",
   "categories": [
     "Animals & Animal Welfare"
   ]

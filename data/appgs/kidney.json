@@ -39,61 +39,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.kidney.org.uk/all-party-parliamentary-group"
-    ],
-    "last_updated": "2026-02-04",
-    "members": [
-      {
-        "name": "Jo White",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5105",
-        "twfy_id": "uk.org.publicwhip/person/26358",
-        "removed": false
-      },
-      {
-        "name": "Mohammad Yasin",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4598",
-        "twfy_id": "uk.org.publicwhip/person/25649",
-        "removed": false
-      },
-      {
-        "name": "Sir Desmond Swayne",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "55",
-        "twfy_id": "uk.org.publicwhip/person/10580",
-        "removed": true
-      },
-      {
-        "name": "Lord David Watts",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Desmond Swayne",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "55",
-        "twfy_id": "uk.org.publicwhip/person/10580",
-        "removed": false
-      },
-      {
-        "name": "David Watts",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "489",
-        "twfy_id": "uk.org.publicwhip/person/10625",
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-04-27",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Jo White MP",
@@ -115,8 +64,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/kidney.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/kidney.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

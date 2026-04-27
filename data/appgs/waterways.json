@@ -22,19 +22,19 @@
       "removed": false
     },
     {
-      "role": "Co-Chair",
-      "name": "Uma Kumaran",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26542",
-      "mnis_id": "5278",
-      "removed": false
-    },
-    {
       "role": "Vice Chair",
       "name": "Wendy Morton",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25342",
       "mnis_id": "4358",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Uma Kumaran",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26542",
+      "mnis_id": "5278",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://waterways.org.uk/about-us/all-party-parliamentary-group-for-the-waterways"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Bill Esterson",
@@ -260,6 +260,14 @@
         "mnis_id": "5047",
         "twfy_id": "uk.org.publicwhip/person/26329",
         "removed": false
+      },
+      {
+        "name": "Wera Hobhouse",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4602",
+        "twfy_id": "uk.org.publicwhip/person/25648",
+        "removed": false
       }
     ]
   },
@@ -276,24 +284,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-12",
+    "date_of_most_recent_agm": "2026-02-24",
     "published_income_expenditure_statement": false,
     "reporting_year": "12 Nov to 11 Nov",
-    "next_reporting_deadline": "2026-03-12"
+    "next_reporting_deadline": "2027-03-12"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Inland Waterways Association",
-      "Description": "Secretariat From: 12/11/2024 To: 11/11/2025",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "12/11/2024",
-      "Registered": "21/11/2024",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/waterways.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/waterways.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

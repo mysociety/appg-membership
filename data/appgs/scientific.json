@@ -39,230 +39,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.scienceinparliament.org.uk/information/officers/",
-      "https://www.scienceinparliament.org.uk/information/membership/"
-    ],
-    "last_updated": "2026-02-04",
-    "members": [
-      {
-        "name": "George Freeman",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4020",
-        "twfy_id": "uk.org.publicwhip/person/24817",
-        "removed": false
-      },
-      {
-        "name": "Viscount Stansgate",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "4925",
-        "twfy_id": "uk.org.publicwhip/person/26044",
-        "removed": false
-      },
-      {
-        "name": "Baroness Northover",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "2539",
-        "twfy_id": "uk.org.publicwhip/person/13434",
-        "removed": false
-      },
-      {
-        "name": "Sam Carling",
-        "is_officer": true,
-        "member_type": "other",
-        "mnis_id": "5308",
-        "twfy_id": "uk.org.publicwhip/person/26558",
-        "removed": false
-      },
-      {
-        "name": "AIRTO",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Academy for the Mathematical Sciences",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Applied Microbiology International",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Association of Consulting Scientists",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Association of Management & Professional Staffs",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Aston Institute of Membrane Excellence",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "AWE",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "The Babraham Institute",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Biochemical Society",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Biotechnology and Biological Sciences Research Council",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "BMT Ltd",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "British Antarctic Survey",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "British Council",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "British Ecological Society",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "British Geological Survey",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "British and Irish Association of Zoos and Aquariums",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "The British Institute of Radiology",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "British Measurement & Testing Assn",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "British Neuroscience Association",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "British Pharmacological Society",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "British Science Association",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "British Society for Antimicrobial Chemotherapy",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "British Society of Soil Science",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-04-27",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Sam Carling MP",
@@ -367,10 +147,17 @@
       "Received": "23/12/2025",
       "Registered": "16/02/2026",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Institute of Biomedical Science",
+      "Value £s": "2,500",
+      "Received": "01/04/2026",
+      "Registered": "07/04/2026",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/scientific.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/scientific.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

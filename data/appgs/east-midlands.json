@@ -15,14 +15,6 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Rosie Wrighting",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26615",
-      "mnis_id": "5331",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Jonathan Davies",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26557",
@@ -36,24 +28,21 @@
       "twfy_id": "uk.org.publicwhip/person/10397",
       "mnis_id": "333",
       "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Baroness Verma",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/13730",
+      "mnis_id": "3790",
+      "removed": false
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.emcouncils.gov.uk/about/our-boards/east-midlands-appg/"
-    ],
-    "last_updated": "2026-02-04",
-    "members": [
-      {
-        "name": "James Naish",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5047",
-        "twfy_id": "uk.org.publicwhip/person/26329",
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-04-27",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "James Naish MP",
@@ -61,39 +50,31 @@
     "registered_contact_email": "james.naish.mp@parliament.uk",
     "public_enquiry_point_name": "Rachael Pengelly, East Midlands Councils. Tel: 01664 502624",
     "public_enquiry_point_email": "rachael.pengelly@emcouncils.gov.uk",
-    "secretariat": "East Midlands Councils and East Midlands Chamber of Commerce: jointly act as the group's secretariat.https://www.emcouncils.gov.uk/andhttps://www.emc-dnl.co.uk/",
+    "secretariat": "East Midlands Councils acts as the group's secretariat.https://www.emcouncils.gov.uk/",
     "website": {
       "status": "register",
       "url": "https://www.emcouncils.gov.uk/about/our-boards/east-midlands-appg/"
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-27",
+    "date_of_most_recent_agm": "2026-03-17",
     "published_income_expenditure_statement": false,
     "reporting_year": "27 Nov to 26 Nov",
-    "next_reporting_deadline": "2026-03-27"
+    "next_reporting_deadline": "2027-03-27"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "East Midlands Councils",
-      "Description": "Joint Secretariat From: 27/11/2024 To: 26/11/2025",
+      "Description": "Joint Secretariat From: 27/11/2025 To: 26/11/2026",
       "Value £s In bands of £1,500": "28,501-30,000",
-      "Received": "27/11/2024",
-      "Registered": "20/02/2025",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "East Midlands Chambers of Commerce",
-      "Description": "Joint Secretariat From: 27/11/2024 To: 26/11/2025",
-      "Value £s In bands of £1,500": "10,501-12,000",
-      "Received": "27/11/2024",
-      "Registered": "20/02/2025",
+      "Received": "27/11/2025",
+      "Registered": "18/03/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/east-midlands.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/east-midlands.htm",
   "categories": [
     "Regions, Nations & Devolution",
     "Infrastructure, Transport & Mobility"

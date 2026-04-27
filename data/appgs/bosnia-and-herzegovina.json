@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Alicia Kearns MP",
@@ -383,10 +383,19 @@
     "reporting_year": "04 Sep to 03 Sep",
     "next_reporting_deadline": "2027-01-04"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/bosnia-and-herzegovina.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Charity Bosnia-UK Network",
+      "Description": "Reception",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "24/03/2026",
+      "Registered": "27/03/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/bosnia-and-herzegovina.htm",
   "categories": [
     "Country Group"
   ]

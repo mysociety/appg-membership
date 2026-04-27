@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Josh Babarinde",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26353",
-      "mnis_id": "5086",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Peter Prinsley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26383",
       "mnis_id": "5163",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Mott",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26259",
+      "mnis_id": "4984",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgprostatecancer.org.uk/members"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Calvin Bailey",
@@ -107,7 +107,7 @@
         "member_type": "mp",
         "mnis_id": "1442",
         "twfy_id": "uk.org.publicwhip/person/10785",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Andrew George",
@@ -163,7 +163,7 @@
         "member_type": "mp",
         "mnis_id": "3969",
         "twfy_id": "uk.org.publicwhip/person/24782",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Euan Stainbank",
@@ -219,7 +219,7 @@
         "member_type": "mp",
         "mnis_id": "4366",
         "twfy_id": "uk.org.publicwhip/person/25376",
-        "removed": true
+        "removed": false
       },
       {
         "name": "James Frith",
@@ -227,7 +227,7 @@
         "member_type": "mp",
         "mnis_id": "4637",
         "twfy_id": "uk.org.publicwhip/person/25622",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jayne Kirkham",
@@ -259,7 +259,7 @@
         "member_type": "mp",
         "mnis_id": "54",
         "twfy_id": "uk.org.publicwhip/person/10358",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lauren Sullivan",
@@ -363,7 +363,7 @@
         "member_type": "mp",
         "mnis_id": "1521",
         "twfy_id": "uk.org.publicwhip/person/11592",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Steve Darling",
@@ -427,7 +427,7 @@
         "member_type": "lord",
         "mnis_id": "1413",
         "twfy_id": "uk.org.publicwhip/person/10920",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Mott",
@@ -451,7 +451,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Tyrie",
@@ -459,7 +459,7 @@
         "member_type": "lord",
         "mnis_id": "112",
         "twfy_id": "uk.org.publicwhip/person/10613",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Watson of Wyre Forest",
@@ -483,7 +483,7 @@
         "member_type": "mp",
         "mnis_id": "4358",
         "twfy_id": "uk.org.publicwhip/person/25342",
-        "removed": true
+        "removed": false
       },
       {
         "name": "The Rt Rev. the Lord Bishop of Manchester",
@@ -491,7 +491,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Royall of Blaisdon",
@@ -507,7 +507,7 @@
         "member_type": "mp",
         "mnis_id": "1442",
         "twfy_id": "uk.org.publicwhip/person/10785",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon Sir Damian Hinds",
@@ -515,7 +515,7 @@
         "member_type": "mp",
         "mnis_id": "3969",
         "twfy_id": "uk.org.publicwhip/person/24782",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon Sir James Cleverly",
@@ -523,7 +523,7 @@
         "member_type": "mp",
         "mnis_id": "4366",
         "twfy_id": "uk.org.publicwhip/person/25376",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon Julian Lewis",
@@ -531,7 +531,7 @@
         "member_type": "mp",
         "mnis_id": "54",
         "twfy_id": "uk.org.publicwhip/person/10358",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Kate Osamor",
@@ -563,7 +563,7 @@
         "member_type": "mp",
         "mnis_id": "4358",
         "twfy_id": "uk.org.publicwhip/person/25342",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon Lord Grayling",
@@ -571,7 +571,7 @@
         "member_type": "lord",
         "mnis_id": "1413",
         "twfy_id": "uk.org.publicwhip/person/10920",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon Lord Taylor of Holbeach",
@@ -579,7 +579,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon Lord Tyrie",
@@ -587,6 +587,38 @@
         "member_type": "lord",
         "mnis_id": "112",
         "twfy_id": "uk.org.publicwhip/person/10613",
+        "removed": true
+      },
+      {
+        "name": "Cat Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4436",
+        "twfy_id": "uk.org.publicwhip/person/25432",
+        "removed": false
+      },
+      {
+        "name": "Fleur Anderson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4788",
+        "twfy_id": "uk.org.publicwhip/person/25813",
+        "removed": false
+      },
+      {
+        "name": "Seamus Logan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5280",
+        "twfy_id": "uk.org.publicwhip/person/26534",
+        "removed": false
+      },
+      {
+        "name": "the Lord Bishop of Manchester",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -604,48 +636,48 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-17",
+    "date_of_most_recent_agm": "2026-03-12",
     "published_income_expenditure_statement": false,
     "reporting_year": "17 Dec to 16 Dec",
-    "next_reporting_deadline": "2026-04-17"
+    "next_reporting_deadline": "2027-04-17"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Prostate Cancer Research",
-      "Description": "Joint Secretariat (originally registered 13/01/2025) From: 17/12/2024 To: 16/12/2025",
-      "Value £s In bands of £1,500": "3,001-4,500",
-      "Received": "17/12/2024",
+      "Description": "Website design and maintenance From: 21/05/2025 To: 16/12/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "21/05/2025",
       "Registered": "19/02/2026",
       "benefit_type": "Benefits In Kind"
     },
     {
       "Source": "Prostate Cancer UK",
-      "Description": "Joint Secretariat (originally registered 13/01/2025) From: 17/12/2024 To: 16/12/2025",
-      "Value £s In bands of £1,500": "3,001-4,500",
-      "Received": "17/12/2024",
+      "Description": "Website design and maintenance From: 21/05/2025 To: 16/12/2025",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "21/05/2025",
       "Registered": "19/02/2026",
       "benefit_type": "Benefits In Kind"
     },
     {
       "Source": "Prostate Cancer Research",
-      "Description": "Website design and maintenance From: 21/05/2025 To: 16/12/2025",
+      "Description": "Joint Secretariat From: 17/12/2025 To: 16/12/2026",
       "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "21/05/2025",
-      "Registered": "19/02/2026",
+      "Received": "17/12/2025",
+      "Registered": "12/03/2026",
       "benefit_type": "Benefits In Kind"
     },
     {
       "Source": "Prostate Cancer UK",
-      "Description": "Website design and maintenance From: 21/05/2025 To: 16/12/2025",
+      "Description": "Joint Secretariat From: 17/12/2025 To: 16/12/2026",
       "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "21/05/2025",
-      "Registered": "19/02/2026",
+      "Received": "17/12/2025",
+      "Registered": "12/03/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/prostate-cancer.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/prostate-cancer.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

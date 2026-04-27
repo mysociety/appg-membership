@@ -14,27 +14,27 @@
       "removed": false
     },
     {
-      "role": "Officer",
-      "name": "Steve Witherden",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26583",
-      "mnis_id": "5221",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Dr Neil Shastri-Hurst",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26437",
-      "mnis_id": "5197",
-      "removed": false
-    },
-    {
-      "role": "Officer",
+      "role": "Vice Chair",
       "name": "Baroness Foster of Aghadrumsee",
       "party": "Non-affiliated",
       "twfy_id": null,
       "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Rushanara Ali",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/24958",
+      "mnis_id": "4138",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "David Reed",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26628",
+      "mnis_id": "5347",
       "removed": false
     }
   ],
@@ -57,15 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-03-04",
+    "date_of_most_recent_agm": "2026-03-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Mar to 03 Mar",
-    "next_reporting_deadline": "2026-07-04"
+    "next_reporting_deadline": "2027-07-04"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/air-ambulances.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/air-ambulances.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

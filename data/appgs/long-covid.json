@@ -15,10 +15,10 @@
     },
     {
       "role": "Officer",
-      "name": "Jodie Gosling",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26314",
-      "mnis_id": "5036",
+      "name": "Lord Taylor of Holbeach",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     },
     {
@@ -31,10 +31,10 @@
     },
     {
       "role": "Officer",
-      "name": "Lord Bethell",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25740",
-      "mnis_id": "4708",
+      "name": "Jodie Gosling",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26314",
+      "mnis_id": "5036",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.longcovid.org/impact/appg-on-long-covid"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Jo Platt",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": "4708",
         "twfy_id": "uk.org.publicwhip/person/25740",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Strasburger",
@@ -75,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": "4204",
         "twfy_id": "uk.org.publicwhip/person/25026",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tonia Antoniazzi",
@@ -163,7 +163,7 @@
         "member_type": "mp",
         "mnis_id": "1521",
         "twfy_id": "uk.org.publicwhip/person/11592",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Louise Jones",
@@ -251,7 +251,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Grey-Thompson",
@@ -259,7 +259,7 @@
         "member_type": "lord",
         "mnis_id": "3862",
         "twfy_id": "uk.org.publicwhip/person/24707",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Harris of Richmond",
@@ -267,7 +267,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hodgson of Abinger",
@@ -275,7 +275,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Nuala O'Loan",
@@ -283,7 +283,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Watkins of Tavistock",
@@ -291,7 +291,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Earl of Clancarty",
@@ -299,7 +299,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Luke Akehurst",
@@ -348,6 +348,78 @@
         "mnis_id": "5322",
         "twfy_id": "uk.org.publicwhip/person/26560",
         "removed": false
+      },
+      {
+        "name": "Taylor of Holbeach",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Strasburger",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Finlay of Llandaff",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Grey-Thompson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3862",
+        "twfy_id": "uk.org.publicwhip/person/24707",
+        "removed": false
+      },
+      {
+        "name": "Harris of Richmond",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Hodgson of Abinger",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Nuala O'Loan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Watkins of Tavistock",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Earl of Clancarty",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -356,7 +428,7 @@
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "jo.platt.mp@parliament.uk",
     "public_enquiry_point_name": "Jo Dainow, Long Covid Support",
-    "public_enquiry_point_email": "jodainow@longcovid.org",
+    "public_enquiry_point_email": "appg.longcovid@longcovid.org",
     "secretariat": "Long Covid Support acts as the group's secretariat.https://www.longcovid.org/",
     "website": {
       "status": "search",
@@ -364,15 +436,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-09",
+    "date_of_most_recent_agm": "2026-03-24",
     "published_income_expenditure_statement": false,
     "reporting_year": "09 Dec to 08 Dec",
-    "next_reporting_deadline": "2026-04-09"
+    "next_reporting_deadline": "2027-04-09"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/long-covid.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/long-covid.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

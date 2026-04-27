@@ -15,14 +15,6 @@
     },
     {
       "role": "Officer",
-      "name": "Dr Al Pinkerton",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26593",
-      "mnis_id": "5288",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Neil Duncan-Jordan",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26633",
@@ -31,17 +23,25 @@
     },
     {
       "role": "Officer",
-      "name": "Paul Holmes",
+      "name": "Zöe Franklin",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26555",
+      "mnis_id": "5313",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Sir Desmond Swayne",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25808",
-      "mnis_id": "4803",
+      "twfy_id": "uk.org.publicwhip/person/10580",
+      "mnis_id": "55",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Will Forster",
@@ -266,15 +266,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-01-22",
+    "date_of_most_recent_agm": "2026-02-24",
     "published_income_expenditure_statement": false,
     "reporting_year": "22 Jan to 21 Jan",
-    "next_reporting_deadline": "2026-05-22"
+    "next_reporting_deadline": "2027-05-22"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/south-western-railway.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/south-western-railway.htm",
   "categories": [
     "Infrastructure, Transport & Mobility"
   ]

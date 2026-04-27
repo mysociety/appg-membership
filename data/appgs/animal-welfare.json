@@ -41,10 +41,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://apgaw.org/apgaw-members/associate-members/",
-      "https://apgaw.org/about-apgaw/political-officers/"
+      "https://apgaw.org/about-apgaw/political-officers/",
+      "https://apgaw.org/apgaw-members/associate-members/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Dr Neil Hudson MP",
@@ -244,7 +244,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Danny Chambers",
@@ -260,7 +260,7 @@
         "member_type": "mp",
         "mnis_id": "5063",
         "twfy_id": "uk.org.publicwhip/person/26375",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Irene Campbell",
@@ -316,7 +316,7 @@
         "member_type": "mp",
         "mnis_id": "5136",
         "twfy_id": "uk.org.publicwhip/person/26409",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Andrew Rosindell",
@@ -860,7 +860,7 @@
         "member_type": "lord",
         "mnis_id": "4260",
         "twfy_id": "uk.org.publicwhip/person/25162",
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -893,8 +893,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/animal-welfare.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/animal-welfare.htm",
   "categories": [
     "Animals & Animal Welfare"
   ]

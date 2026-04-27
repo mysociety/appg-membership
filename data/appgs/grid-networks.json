@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.gridnetworks.co.uk/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Mary Glindon",
@@ -235,7 +235,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord David Howell of Guildford",
@@ -243,7 +243,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Livingston of Parkhead",
@@ -259,7 +259,7 @@
         "member_type": "lord",
         "mnis_id": "1251",
         "twfy_id": "uk.org.publicwhip/person/13704",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Lucas and Dingwall",
@@ -300,6 +300,30 @@
         "mnis_id": "4957",
         "twfy_id": "uk.org.publicwhip/person/26100",
         "removed": false
+      },
+      {
+        "name": "The Lord Arbuthnot of Edrom",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord David Howell of Guildford",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Naseby",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1251",
+        "twfy_id": "uk.org.publicwhip/person/13704",
+        "removed": false
       }
     ]
   },
@@ -332,8 +356,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/grid-networks.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/grid-networks.htm",
   "categories": [
     "Energy & Utilities",
     "Infrastructure, Transport & Mobility"

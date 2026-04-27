@@ -33,9 +33,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
+      "https://www.smrappg.com/officers-and-members/",
       "https://www.smrappg.com/wp-content/uploads/2024/12/241202-SMR-APPG-Membership-List.pdf"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Baggy Shanker",
@@ -315,7 +316,7 @@
         "member_type": "lord",
         "mnis_id": "547",
         "twfy_id": "uk.org.publicwhip/person/10635",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Viscount Trenchard",
@@ -347,7 +348,7 @@
         "member_type": "lord",
         "mnis_id": "4284",
         "twfy_id": "uk.org.publicwhip/person/25205",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Brown of Leyton",
@@ -355,7 +356,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Blackwell of Huntingdon Mandeville",
@@ -363,7 +364,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Whitty",
@@ -371,7 +372,7 @@
         "member_type": "lord",
         "mnis_id": "2444",
         "twfy_id": "uk.org.publicwhip/person/12958",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Wigley",
@@ -379,7 +380,7 @@
         "member_type": "lord",
         "mnis_id": "547",
         "twfy_id": "uk.org.publicwhip/person/10635",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Neville-Jones",
@@ -387,6 +388,30 @@
         "member_type": "lord",
         "mnis_id": "3840",
         "twfy_id": "uk.org.publicwhip/person/13936",
+        "removed": true
+      },
+      {
+        "name": "Rt Hon. the Lord Whitty",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2444",
+        "twfy_id": "uk.org.publicwhip/person/12958",
+        "removed": false
+      },
+      {
+        "name": "Baroness Neville-Jones DCMG",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Neville-Rolfe DBE CMG",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

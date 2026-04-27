@@ -6,14 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Mrs Sharon Hodgson",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11592",
-      "mnis_id": "1521",
-      "removed": false
-    },
-    {
       "role": "Officer",
       "name": "Baroness Ritchie of Downpatrick",
       "party": "Labour",
@@ -230,9 +222,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Mrs Sharon Hodgson MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 5160.",
-    "registered_contact_email": "sharon.hodgson.mp@parliament.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
     "public_enquiry_point_name": null,
     "public_enquiry_point_email": null,
     "secretariat": null,
@@ -249,8 +241,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/first-do-no-harm---mesh-primodos-valproate.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/first-do-no-harm---mesh-primodos-valproate.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

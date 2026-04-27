@@ -41,9 +41,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.climateappg.co.uk/who-we-are#members"
+      "https://www.climateappg.co.uk/who-we-are"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Luke Murphy",
@@ -724,6 +724,30 @@
         "mnis_id": "4008",
         "twfy_id": "uk.org.publicwhip/person/24873",
         "removed": false
+      },
+      {
+        "name": "Claire Young",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5140",
+        "twfy_id": "uk.org.publicwhip/person/26458",
+        "removed": false
+      },
+      {
+        "name": "Kerry McCarthy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1491",
+        "twfy_id": "uk.org.publicwhip/person/11455",
+        "removed": false
+      },
+      {
+        "name": "Tim Farron",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1591",
+        "twfy_id": "uk.org.publicwhip/person/11923",
+        "removed": false
       }
     ]
   },
@@ -756,8 +780,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/climate-change.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/climate-change.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

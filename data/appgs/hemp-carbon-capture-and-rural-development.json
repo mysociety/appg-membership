@@ -39,66 +39,15 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.tenaciouscarbon.com/appg"
-    ],
-    "last_updated": "2026-02-04",
-    "members": [
-      {
-        "name": "Bayo Alaba",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5097",
-        "twfy_id": "uk.org.publicwhip/person/26422",
-        "removed": false
-      },
-      {
-        "name": "Lord Benjy Mancroft",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Richard Quigley",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5144",
-        "twfy_id": "uk.org.publicwhip/person/26373",
-        "removed": false
-      },
-      {
-        "name": "Lord Robathan",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "334",
-        "twfy_id": "uk.org.publicwhip/person/10503",
-        "removed": true
-      },
-      {
-        "name": "Benjy Mancroft",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Robathan",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-04-27",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Mr Bayo Alaba MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "bayo.alaba.mp@parliament.uk",
+    "registered_contact_email": "bayo@bayoalaba.com",
     "public_enquiry_point_name": "Andrew Cutbill, Cutbill Jacoby. Tel: 07841 576000",
     "public_enquiry_point_email": "andy@cutbilljacoby.com",
     "secretariat": "Tenacious Carbon acts as the group's secretariat.https://www.tenaciouscarbon.com/",
@@ -124,8 +73,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/hemp-carbon-capture-and-rural-development.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/hemp-carbon-capture-and-rural-development.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Energy & Utilities",

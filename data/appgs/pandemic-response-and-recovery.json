@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgpandemic.org/about"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Graham Stringer",
@@ -99,7 +99,7 @@
         "member_type": "lord",
         "mnis_id": "4879",
         "twfy_id": "uk.org.publicwhip/person/25943",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Alton of Liverpool",
@@ -107,7 +107,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Danny Kruger",
@@ -123,7 +123,7 @@
         "member_type": "lord",
         "mnis_id": "4713",
         "twfy_id": "uk.org.publicwhip/person/25744",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Foster of Oxton",
@@ -131,7 +131,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Lilley",
@@ -139,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": "68",
         "twfy_id": "uk.org.publicwhip/person/10362",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Ashcombe",
@@ -147,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": "4957",
         "twfy_id": "uk.org.publicwhip/person/26100",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Rupert Lowe",
@@ -163,7 +163,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Morrissey",
@@ -171,7 +171,7 @@
         "member_type": "lord",
         "mnis_id": "4881",
         "twfy_id": "uk.org.publicwhip/person/25946",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Brady of Altrincham",
@@ -179,7 +179,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Strathcarron",
@@ -187,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": "4937",
         "twfy_id": "uk.org.publicwhip/person/26060",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Fox of Buckley",
@@ -195,7 +195,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Robathan",
@@ -203,7 +203,7 @@
         "member_type": "lord",
         "mnis_id": "334",
         "twfy_id": "uk.org.publicwhip/person/10503",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Esther McVey",
@@ -243,7 +243,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alton of Liverpool",
@@ -251,7 +251,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Reay",
@@ -259,7 +259,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Foster of Oxton",
@@ -267,7 +267,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lilley",
@@ -275,7 +275,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ashcombe",
@@ -283,7 +283,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Earl of Leicester",
@@ -291,7 +291,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Morrissey",
@@ -299,7 +299,7 @@
         "member_type": "lord",
         "mnis_id": "4881",
         "twfy_id": "uk.org.publicwhip/person/25946",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Brady of Altrincham",
@@ -307,7 +307,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Strathcarron",
@@ -315,7 +315,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Fox of Buckley",
@@ -323,7 +323,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Robathan",
@@ -331,7 +331,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -348,15 +348,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-14",
+    "date_of_most_recent_agm": "2026-03-16",
     "published_income_expenditure_statement": false,
     "reporting_year": "14 Oct to 13 Oct",
-    "next_reporting_deadline": "2026-02-14"
+    "next_reporting_deadline": "2027-02-14"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/pandemic-response-and-recovery.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/pandemic-response-and-recovery.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"

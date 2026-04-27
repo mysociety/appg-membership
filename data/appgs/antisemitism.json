@@ -8,7 +8,7 @@
     {
       "role": "Chair & Registered Contact",
       "name": "Joani Reid",
-      "party": "Labour",
+      "party": "Independent",
       "twfy_id": "uk.org.publicwhip/person/26418",
       "mnis_id": "5079",
       "removed": false
@@ -43,7 +43,7 @@
     "source_url": [
       "https://antisemitism.org.uk/group-members/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Joani Reid",
@@ -363,7 +363,7 @@
         "member_type": "mp",
         "mnis_id": "193",
         "twfy_id": "uk.org.publicwhip/person/10381",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Blair McDougall",
@@ -571,7 +571,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Rt Hon Lord Anderson of Swansea",
@@ -755,7 +755,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Ludford",
@@ -907,7 +907,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Rt Hon Baroness Warsi",
@@ -1011,7 +1011,7 @@
         "member_type": "mp",
         "mnis_id": "193",
         "twfy_id": "uk.org.publicwhip/person/10381",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Catherine McKinnell",
@@ -1067,7 +1067,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Brady of Altrincham",
@@ -1075,7 +1075,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Carey of Clifton",
@@ -1083,7 +1083,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Eaton",
@@ -1123,7 +1123,7 @@
         "member_type": "lord",
         "mnis_id": "140",
         "twfy_id": "uk.org.publicwhip/person/10281",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Howard of Lympne",
@@ -1187,7 +1187,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Warsi",
@@ -1203,7 +1203,7 @@
         "member_type": "lord",
         "mnis_id": "738",
         "twfy_id": "uk.org.publicwhip/person/13103",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Anderson",
@@ -1211,7 +1211,7 @@
         "member_type": "lord",
         "mnis_id": "568",
         "twfy_id": "uk.org.publicwhip/person/10011",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Brady",
@@ -1219,7 +1219,7 @@
         "member_type": "lord",
         "mnis_id": "435",
         "twfy_id": "uk.org.publicwhip/person/10062",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Carey",
@@ -1227,7 +1227,7 @@
         "member_type": "lord",
         "mnis_id": "2205",
         "twfy_id": "uk.org.publicwhip/person/13669",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Bishop of Lichfield",
@@ -1235,6 +1235,14 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Margaret Hodge",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "140",
+        "twfy_id": "uk.org.publicwhip/person/10281",
         "removed": false
       }
     ]
@@ -1268,8 +1276,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/antisemitism.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/antisemitism.htm",
   "categories": [
     "Human Rights, Equality & Social Justice",
     "Religion, Faith & Belief Communities"

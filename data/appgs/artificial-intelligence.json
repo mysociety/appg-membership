@@ -62,10 +62,19 @@
     "reporting_year": "21 Oct to 20 Oct",
     "next_reporting_deadline": "2027-02-21"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/artificial-intelligence.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Big Innovation Centre",
+      "Description": "Secretariat From: 26/01/2026 To: 20/10/2026",
+      "Value £s In bands of £1,500": "49,501-51,000",
+      "Received": "26/01/2026",
+      "Registered": "30/03/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/artificial-intelligence.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

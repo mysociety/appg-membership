@@ -15,18 +15,10 @@
     },
     {
       "role": "Co-Chair",
-      "name": "Rosie Wrighting",
+      "name": "Catherine McKinnell",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26615",
-      "mnis_id": "5331",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Dr Caroline Johnson",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25597",
-      "mnis_id": "4592",
+      "twfy_id": "uk.org.publicwhip/person/24818",
+      "mnis_id": "4125",
       "removed": false
     },
     {
@@ -36,6 +28,14 @@
       "twfy_id": "uk.org.publicwhip/person/26456",
       "mnis_id": "5187",
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Dr Caroline Johnson",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25597",
+      "mnis_id": "4592",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.youthemployment.org.uk/about-us/appg-for-youth-employment/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Mims Davies",
@@ -59,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "5331",
         "twfy_id": "uk.org.publicwhip/person/26615",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Josh Dean",
@@ -131,7 +131,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Haskel",
@@ -139,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": "2665",
         "twfy_id": "uk.org.publicwhip/person/13499",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Lucas",
@@ -147,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": "1879",
         "twfy_id": "uk.org.publicwhip/person/13301",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Afzal Khan",
@@ -171,7 +171,7 @@
         "member_type": "mp",
         "mnis_id": "5156",
         "twfy_id": "uk.org.publicwhip/person/26386",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mike Reader",
@@ -179,7 +179,7 @@
         "member_type": "mp",
         "mnis_id": "5316",
         "twfy_id": "uk.org.publicwhip/person/26630",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Natasha Irons",
@@ -187,7 +187,7 @@
         "member_type": "mp",
         "mnis_id": "5119",
         "twfy_id": "uk.org.publicwhip/person/26404",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Damian Hinds",
@@ -195,7 +195,7 @@
         "member_type": "mp",
         "mnis_id": "3969",
         "twfy_id": "uk.org.publicwhip/person/24782",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Blower",
@@ -203,7 +203,7 @@
         "member_type": "lord",
         "mnis_id": "4724",
         "twfy_id": "uk.org.publicwhip/person/25777",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lee Barron",
@@ -211,6 +211,38 @@
         "member_type": "mp",
         "mnis_id": "5315",
         "twfy_id": "uk.org.publicwhip/person/26554",
+        "removed": true
+      },
+      {
+        "name": "Catherine McKinnell",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4125",
+        "twfy_id": "uk.org.publicwhip/person/24818",
+        "removed": false
+      },
+      {
+        "name": "Lord Knight of Weymouth",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Haskel",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lucas",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -228,15 +260,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-04",
+    "date_of_most_recent_agm": "2026-02-25",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Dec to 03 Dec",
-    "next_reporting_deadline": "2026-04-04"
+    "next_reporting_deadline": "2027-04-04"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/youth-employment.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/youth-employment.htm",
   "categories": [
     "Education, Skills & Youth",
     "Economy, Business & Industry"

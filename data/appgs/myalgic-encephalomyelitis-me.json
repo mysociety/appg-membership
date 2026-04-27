@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgme.co.uk/who-we-are/"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Jo Platt",
@@ -91,7 +91,7 @@
         "member_type": "lord",
         "mnis_id": "4708",
         "twfy_id": "uk.org.publicwhip/person/25740",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Luke Charters",
@@ -227,7 +227,7 @@
         "member_type": "lord",
         "mnis_id": "3651",
         "twfy_id": "uk.org.publicwhip/person/12839",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Paul Waugh",
@@ -347,7 +347,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Simon Opher",
@@ -363,7 +363,7 @@
         "member_type": "mp",
         "mnis_id": "3785",
         "twfy_id": "uk.org.publicwhip/person/13728",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Triesman",
@@ -371,6 +371,30 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Gregory Stafford",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5351",
+        "twfy_id": "uk.org.publicwhip/person/26626",
+        "removed": false
+      },
+      {
+        "name": "Tom Morrison",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5090",
+        "twfy_id": "uk.org.publicwhip/person/26400",
+        "removed": false
+      },
+      {
+        "name": "Catherine Atkinson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5143",
+        "twfy_id": "uk.org.publicwhip/person/26405",
         "removed": false
       }
     ]

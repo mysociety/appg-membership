@@ -6,27 +6,35 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Deputy Chair",
-      "name": "John Lamont",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/14026",
-      "mnis_id": "4608",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Dr Allison Gardner",
+      "role": "Chair & Registered Contact",
+      "name": "Uma Kumaran",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26621",
-      "mnis_id": "5334",
+      "twfy_id": "uk.org.publicwhip/person/26542",
+      "mnis_id": "5278",
       "removed": false
     },
     {
-      "role": "Officer",
-      "name": "Baroness Young of Hornsey",
-      "party": "Crossbench",
+      "role": "Vice Chair",
+      "name": "Lord Taylor of Warwick",
+      "party": "Non-affiliated",
       "twfy_id": null,
       "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Jenkin of Kennington",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Catherine West",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25328",
+      "mnis_id": "4523",
       "removed": false
     }
   ],
@@ -37,10 +45,10 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
-    "public_enquiry_point_name": "Tamara Cincik, Fashion Roundtable  Org. Ltd",
+    "registered_contact_name": "Uma Kumaran MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7777.",
+    "registered_contact_email": "uma.kumaran.mp@parliament.uk",
+    "public_enquiry_point_name": "Tamara Cincik, Fashion Roundtable Org. Ltd",
     "public_enquiry_point_email": "admin@fashionroundtable.co.uk",
     "secretariat": "Fashion Roundtable  Org. Ltd acts as the group's secretariat.https://www.fashionroundtable.co.uk/",
     "website": {
@@ -65,8 +73,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "251201",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/251201/ethics-and-sustainability-in-fashion.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/ethics-and-sustainability-in-fashion.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Economy, Business & Industry"

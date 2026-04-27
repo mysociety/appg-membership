@@ -35,7 +35,7 @@
     "source_url": [
       "https://datacentresappg.co.uk/our-parliamentary-members/"
     ],
-    "last_updated": "2026-03-02",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Chris Curtis",
@@ -139,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": "4939",
         "twfy_id": "uk.org.publicwhip/person/26062",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jessica Morden",
@@ -163,7 +163,7 @@
         "member_type": "lord",
         "mnis_id": "5014",
         "twfy_id": "uk.org.publicwhip/person/26292",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Johnson of Lainston",
@@ -252,6 +252,22 @@
         "mnis_id": "5105",
         "twfy_id": "uk.org.publicwhip/person/26358",
         "removed": false
+      },
+      {
+        "name": "The Viscount Camrose",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Banner KC",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -284,8 +300,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/data-centres.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/data-centres.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

@@ -39,33 +39,205 @@
     }
   ],
   "members_list": {
-    "source_method": "empty",
-    "source_url": [],
-    "last_updated": null,
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://www.thamesestuaryappg.org/about"
+    ],
+    "last_updated": "2026-04-27",
+    "members": [
+      {
+        "name": "Jim Dickson",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5223",
+        "twfy_id": "uk.org.publicwhip/person/26547",
+        "removed": false
+      },
+      {
+        "name": "Teresa O'Neill",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lauren Sullivan",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5269",
+        "twfy_id": "uk.org.publicwhip/person/26435",
+        "removed": false
+      },
+      {
+        "name": "James Asser",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5211",
+        "twfy_id": "uk.org.publicwhip/person/26594",
+        "removed": false
+      },
+      {
+        "name": "Sojan Joseph",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5247",
+        "twfy_id": "uk.org.publicwhip/person/26578",
+        "removed": false
+      },
+      {
+        "name": "Bayo Alaba",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5097",
+        "twfy_id": "uk.org.publicwhip/person/26422",
+        "removed": false
+      },
+      {
+        "name": "Lauren Edwards",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5298",
+        "twfy_id": "uk.org.publicwhip/person/26597",
+        "removed": false
+      },
+      {
+        "name": "Polly Billington",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5123",
+        "twfy_id": "uk.org.publicwhip/person/26360",
+        "removed": false
+      },
+      {
+        "name": "David Burton Sampson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5106",
+        "twfy_id": "uk.org.publicwhip/person/26442",
+        "removed": false
+      },
+      {
+        "name": "Nesil Caliskan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5180",
+        "twfy_id": "uk.org.publicwhip/person/26474",
+        "removed": false
+      },
+      {
+        "name": "Jen Craft",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5056",
+        "twfy_id": "uk.org.publicwhip/person/26341",
+        "removed": false
+      },
+      {
+        "name": "Daniel Francis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5184",
+        "twfy_id": "uk.org.publicwhip/person/26493",
+        "removed": false
+      },
+      {
+        "name": "Richard Holden",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4813",
+        "twfy_id": "uk.org.publicwhip/person/25893",
+        "removed": false
+      },
+      {
+        "name": "Naushabah Khan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5215",
+        "twfy_id": "uk.org.publicwhip/person/26562",
+        "removed": false
+      },
+      {
+        "name": "Kevin McKenna",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5300",
+        "twfy_id": "uk.org.publicwhip/person/26529",
+        "removed": false
+      },
+      {
+        "name": "Julia Lopez",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4647",
+        "twfy_id": "uk.org.publicwhip/person/25652",
+        "removed": false
+      },
+      {
+        "name": "James McMurdock",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5361",
+        "twfy_id": "uk.org.publicwhip/person/26636",
+        "removed": false
+      },
+      {
+        "name": "Tristan Osborne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5220",
+        "twfy_id": "uk.org.publicwhip/person/26589",
+        "removed": false
+      },
+      {
+        "name": "The Lord Cryer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "181",
+        "twfy_id": "uk.org.publicwhip/person/10143",
+        "removed": false
+      },
+      {
+        "name": "The Lord Ranger of Northwood",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Jim Dickson MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "jim.dickson.mp@parliament.uk",
-    "public_enquiry_point_name": "Jonathan Shaw, Shaw Business Partnership",
+    "public_enquiry_point_name": "Jonathan Shaw, The Shaw Business Partnership Ltd",
     "public_enquiry_point_email": "secretariat@thamesestuaryappg.org",
-    "secretariat": "Thames Estuary Growth Board  acts as the group's secretariat.https://thamesestuary.org.uk/",
+    "secretariat": "The Shaw Business Partnership acts as the group's secretariat.",
     "website": {
-      "status": "no_search",
-      "url": null
+      "status": "register",
+      "url": "https://www.thamesestuaryappg.org/"
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-03",
+    "date_of_most_recent_agm": "2026-03-17",
     "published_income_expenditure_statement": false,
     "reporting_year": "03 Dec to 02 Dec",
-    "next_reporting_deadline": "2026-04-03"
+    "next_reporting_deadline": "2027-04-03"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/thames-estuary-fair-economic-growth.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "The Shaw Business Partnership Ltd",
+      "Description": "The Shaw Business Partnership Ltd is paid by the following to act as the group's secretariat: London St Pancras High Speed, University of Greenwich, Port of London Authority. From: 03/12/2025 To: 02/12/2026",
+      "Value £s In bands of £1,500": "21,001-22,500",
+      "Received": "03/12/2025",
+      "Registered": "26/03/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/thames-estuary-fair-economic-growth.htm",
   "categories": [
     "Economy, Business & Industry",
     "Regions, Nations & Devolution"

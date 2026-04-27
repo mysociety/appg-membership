@@ -39,44 +39,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search_with_manual",
-    "source_url": [
-      "https://www.parallelparliament.co.uk/APPG/medical-cannabis-under-prescription"
-    ],
-    "last_updated": "2026-02-04",
+    "source_method": "manual",
+    "source_url": [],
+    "last_updated": "2026-04-27",
     "members": [
-      {
-        "name": "Tonia Antoniazzi",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4623",
-        "twfy_id": "uk.org.publicwhip/person/25634",
-        "removed": false
-      },
-      {
-        "name": "Jeremy Wright",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "1560",
-        "twfy_id": "uk.org.publicwhip/person/11791",
-        "removed": false
-      },
-      {
-        "name": "Baroness Walmsley",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "2547",
-        "twfy_id": "uk.org.publicwhip/person/13113",
-        "removed": false
-      },
-      {
-        "name": "Andy McDonald",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4269",
-        "twfy_id": "uk.org.publicwhip/person/25169",
-        "removed": false
-      },
       {
         "name": "Tonia Antoniazzi MP",
         "is_officer": false,
@@ -355,8 +321,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/medical-cannabis-under-prescription.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/medical-cannabis-under-prescription.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

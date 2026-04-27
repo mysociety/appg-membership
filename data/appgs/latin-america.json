@@ -14,15 +14,7 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "David Mundell",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/11970",
-      "mnis_id": "1512",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
+      "role": "Officer",
       "name": "Baroness Hooper",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13081",
@@ -30,18 +22,26 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Officer",
       "name": "Lord Mountevans",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/25462",
       "mnis_id": "4539",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "David Mundell",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/11970",
+      "mnis_id": "1512",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Steve Witherden",
@@ -66,24 +66,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-03-12",
+    "date_of_most_recent_agm": "2026-03-17",
     "published_income_expenditure_statement": false,
     "reporting_year": "12 Mar to 11 Mar",
-    "next_reporting_deadline": "2026-07-12"
+    "next_reporting_deadline": "2027-07-12"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Canning House",
-      "Description": "Secretariat From: 12/03/2025 To: 11/03/2026",
+      "Description": "Secretariat From: 12/03/2026 To: 11/03/2027",
       "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "12/03/2025",
-      "Registered": "13/03/2025",
+      "Received": "12/03/2026",
+      "Registered": "18/03/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/latin-america.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/latin-america.htm",
   "categories": [
     "Country Group"
   ]

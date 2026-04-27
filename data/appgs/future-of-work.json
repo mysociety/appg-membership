@@ -7,10 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Andrew Pakes",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26601",
-      "mnis_id": "5243",
+      "name": "Justin Madders",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25378",
+      "mnis_id": "4418",
       "removed": false
     },
     {
@@ -31,274 +31,23 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Kirsty Blackman",
-      "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/25314",
-      "mnis_id": "4357",
+      "name": "Patrick Hurley",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26463",
+      "mnis_id": "5052",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.futureworkappg.org.uk/about"
-    ],
-    "last_updated": "2026-02-04",
-    "members": [
-      {
-        "name": "Andrew Pakes",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5243",
-        "twfy_id": "uk.org.publicwhip/person/26601",
-        "removed": false
-      },
-      {
-        "name": "Lord Knight of Weymouth",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Lord Johnson of Marylebone",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Kirsty Blackman",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4357",
-        "twfy_id": "uk.org.publicwhip/person/25314",
-        "removed": false
-      },
-      {
-        "name": "Lord Clement-Jones",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "3396",
-        "twfy_id": "uk.org.publicwhip/person/13517",
-        "removed": true
-      },
-      {
-        "name": "Baroness Manzila Pola Uddin",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Clive Lewis",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4500",
-        "twfy_id": "uk.org.publicwhip/person/25356",
-        "removed": false
-      },
-      {
-        "name": "Baroness Prosser",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "3684",
-        "twfy_id": "uk.org.publicwhip/person/13475",
-        "removed": false
-      },
-      {
-        "name": "Liam Byrne",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "1171",
-        "twfy_id": "uk.org.publicwhip/person/11360",
-        "removed": false
-      },
-      {
-        "name": "Lord Richard Layard",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "David Davis",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "373",
-        "twfy_id": "uk.org.publicwhip/person/10162",
-        "removed": false
-      },
-      {
-        "name": "Lord Hodgson of Astley Abbotts CBE",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Baroness Kennedy",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "1987",
-        "twfy_id": "uk.org.publicwhip/person/12994",
-        "removed": true
-      },
-      {
-        "name": "Lord Monks",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "4186",
-        "twfy_id": "uk.org.publicwhip/person/25014",
-        "removed": true
-      },
-      {
-        "name": "Lord Kennedy of Southwark",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Baroness Twycross",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "4966",
-        "twfy_id": "uk.org.publicwhip/person/25770",
-        "removed": true
-      },
-      {
-        "name": "Lord Leong CBE",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "4959",
-        "twfy_id": "uk.org.publicwhip/person/26104",
-        "removed": true
-      },
-      {
-        "name": "Lord Watson",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "1463",
-        "twfy_id": "uk.org.publicwhip/person/11309",
-        "removed": true
-      },
-      {
-        "name": "Darren Jones",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4621",
-        "twfy_id": "uk.org.publicwhip/person/25637",
-        "removed": true
-      },
-      {
-        "name": "Daniel Zeichner",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4382",
-        "twfy_id": "uk.org.publicwhip/person/25386",
-        "removed": true
-      },
-      {
-        "name": "Lilian Greenwood",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4029",
-        "twfy_id": "uk.org.publicwhip/person/24774",
-        "removed": true
-      },
-      {
-        "name": "Stephen Timms",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "163",
-        "twfy_id": "uk.org.publicwhip/person/10596",
-        "removed": true
-      },
-      {
-        "name": "Tonia Antoniazzi",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4623",
-        "twfy_id": "uk.org.publicwhip/person/25634",
-        "removed": true
-      },
-      {
-        "name": "Sarah Olney",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4591",
-        "twfy_id": "uk.org.publicwhip/person/25596",
-        "removed": true
-      },
-      {
-        "name": "Christian Wakeford",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4871",
-        "twfy_id": "uk.org.publicwhip/person/25874",
-        "removed": true
-      },
-      {
-        "name": "Charlotte Nichols",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4799",
-        "twfy_id": "uk.org.publicwhip/person/25885",
-        "removed": true
-      },
-      {
-        "name": "Barry Gardiner",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "146",
-        "twfy_id": "uk.org.publicwhip/person/10220",
-        "removed": true
-      },
-      {
-        "name": "Lord Austin",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "1511",
-        "twfy_id": "uk.org.publicwhip/person/11553",
-        "removed": true
-      },
-      {
-        "name": "Jim Knight",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "4160",
-        "twfy_id": "uk.org.publicwhip/person/11027",
-        "removed": false
-      },
-      {
-        "name": "Tim Clement-Jones",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord Hodgson of Astley Abbotts",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-04-27",
+    "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Andrew Pakes MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "andrew.pakes.mp@parliament.uk",
+    "registered_contact_name": "Justin Madders MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 6584.",
+    "registered_contact_email": "justin.madders.mp@parliament.uk",
     "public_enquiry_point_name": "Thomas Lacy, Institute for the Future of Work",
     "public_enquiry_point_email": "thomas.lacy@ifow.org",
     "secretariat": "Institute for the Future of Work acts as the group's secretariat.https://www.ifow.org/",
@@ -308,21 +57,13 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-29",
+    "date_of_most_recent_agm": "2026-02-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "29 Oct to 28 Oct",
-    "next_reporting_deadline": "2026-02-28"
+    "next_reporting_deadline": "2027-02-28"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
-    {
-      "Source": "Institute for the Future of Work",
-      "Description": "Institute for the Future of Work is paid by the following to act as the group's secretariat: Simmons and Simmons, Prospect Union, Community Union, Pearson. From: 29/10/2024 To: 28/10/2025",
-      "Value £s In bands of £1,500": "57,001-58,500",
-      "Received": "29/10/2024",
-      "Registered": "10/11/2025",
-      "benefit_type": "Benefits In Kind"
-    },
     {
       "Source": "Warwick Business School",
       "Description": "Venue and for catering for an event (Good Jobs and Regional Growth)",
@@ -332,8 +73,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/future-of-work.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/future-of-work.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

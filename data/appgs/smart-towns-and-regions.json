@@ -43,7 +43,7 @@
     "source_url": [
       "https://smarttownsandregions.org.uk/about"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Sureena Brackenridge",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lee Baron",
@@ -83,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "4441",
         "twfy_id": "uk.org.publicwhip/person/25323",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Stephen Yemm",
@@ -131,10 +131,42 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Benjamin Gascoigne",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Graham Evans",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4081",
+        "twfy_id": "uk.org.publicwhip/person/24883",
+        "removed": false
+      },
+      {
+        "name": "Oliver Dowden",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4441",
+        "twfy_id": "uk.org.publicwhip/person/25323",
+        "removed": false
+      },
+      {
+        "name": "Shaun Bailey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4757",
+        "twfy_id": "uk.org.publicwhip/person/25814",
+        "removed": false
+      },
+      {
+        "name": "Benjamin Gascoigne",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -163,8 +195,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/smart-towns-and-regions.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/smart-towns-and-regions.htm",
   "categories": [
     "Regions, Nations & Devolution"
   ]

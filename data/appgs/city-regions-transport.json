@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.urbantransportgroup.org/city-regions-transport-appg"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Clive Betts",
@@ -243,6 +243,14 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lee Pitcher",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5233",
+        "twfy_id": "uk.org.publicwhip/person/26464",
         "removed": false
       }
     ]

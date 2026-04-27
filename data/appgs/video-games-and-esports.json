@@ -15,14 +15,6 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Matt Western",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25701",
-      "mnis_id": "4617",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Lord Vaizey of Didcot",
       "party": "Conservative",
       "twfy_id": null,
@@ -36,12 +28,20 @@
       "twfy_id": null,
       "mnis_id": null,
       "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Matt Western",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25701",
+      "mnis_id": "4617",
+      "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Charlotte Nichols",
@@ -370,15 +370,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-08",
+    "date_of_most_recent_agm": "2026-03-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "08 Oct to 07 Oct",
-    "next_reporting_deadline": "2026-02-08"
+    "next_reporting_deadline": "2027-02-08"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/video-games-and-esports.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/video-games-and-esports.htm",
   "categories": [
     "Economy, Business & Industry",
     "Arts, Culture, Heritage & Media",

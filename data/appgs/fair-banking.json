@@ -14,15 +14,7 @@
       "removed": false
     },
     {
-      "role": "Co-Chair",
-      "name": "Lloyd Hatton",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26471",
-      "mnis_id": "5217",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
+      "role": "Officer",
       "name": "Lord Davies of Gower",
       "party": "Conservative",
       "twfy_id": null,
@@ -30,11 +22,19 @@
       "removed": false
     },
     {
-      "role": "Co-Chair",
+      "role": "Officer",
       "name": "Lord Sharkey",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/25022",
       "mnis_id": "4196",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Gareth Thomas",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/10594",
+      "mnis_id": "177",
       "removed": false
     }
   ],
@@ -73,8 +73,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/fair-banking.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/fair-banking.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

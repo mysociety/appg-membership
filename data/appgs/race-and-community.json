@@ -7,18 +7,18 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Clive Lewis",
+      "name": "Dawn Butler",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25356",
-      "mnis_id": "4500",
+      "twfy_id": "uk.org.publicwhip/person/11447",
+      "mnis_id": "1489",
       "removed": false
     },
     {
       "role": "Officer",
-      "name": "Helen Grant",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24796",
-      "mnis_id": "4018",
+      "name": "Nadia Whittome",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25845",
+      "mnis_id": "4869",
       "removed": false
     },
     {
@@ -31,10 +31,10 @@
     },
     {
       "role": "Officer",
-      "name": "Nadia Whittome",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25845",
-      "mnis_id": "4869",
+      "name": "Baroness Nicholson of Winterbourne",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appg-race.com/members"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Clive Lewis",
@@ -59,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "4824",
         "twfy_id": "uk.org.publicwhip/person/25803",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Helen Grant",
@@ -67,7 +67,7 @@
         "member_type": "mp",
         "mnis_id": "4018",
         "twfy_id": "uk.org.publicwhip/person/24796",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Abtisam Mohamed",
@@ -236,13 +236,37 @@
         "mnis_id": "4764",
         "twfy_id": "uk.org.publicwhip/person/25856",
         "removed": false
+      },
+      {
+        "name": "Dawn Butler",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1489",
+        "twfy_id": "uk.org.publicwhip/person/11447",
+        "removed": false
+      },
+      {
+        "name": "Nadia Whittome",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4869",
+        "twfy_id": "uk.org.publicwhip/person/25845",
+        "removed": false
+      },
+      {
+        "name": "Baroness Nicholson",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "1164",
+        "twfy_id": "uk.org.publicwhip/person/13706",
+        "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Clive Lewis MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 2700.",
-    "registered_contact_email": "clive.lewis.mp@parliament.uk",
+    "registered_contact_name": "Dawn Butler MP",
+    "registered_contact_address": "House of Commons , London, SW1A 0AA. Tel: 020 7219 8591.",
+    "registered_contact_email": "dawn.butler.mp@parliament.uk",
     "public_enquiry_point_name": "Nannette Youssef, The Runnymede Trust",
     "public_enquiry_point_email": "nannette@runnymedetrust.org",
     "secretariat": "The Runnymede Trust acts as the group's secretariat.https://www.runnymedetrust.org/",
@@ -252,24 +276,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-13",
+    "date_of_most_recent_agm": "2026-02-24",
     "published_income_expenditure_statement": false,
     "reporting_year": "13 Nov to 12 Nov",
-    "next_reporting_deadline": "2026-03-13"
+    "next_reporting_deadline": "2027-03-13"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "The Runnymede Trust",
-      "Description": "Secretariat From: 13/11/2024 To: 12/11/2025",
+      "Description": "Secretariat From: 13/11/2025 To: 12/11/2026",
       "Value £s In bands of £1,500": "19,501-21,000",
-      "Received": "13/11/2024",
-      "Registered": "29/11/2024",
+      "Received": "13/11/2025",
+      "Registered": "13/03/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/race-and-community.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/race-and-community.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

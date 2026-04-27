@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Dr Marie Tidball",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26390",
-      "mnis_id": "5098",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Baroness Wyld",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25708",
       "mnis_id": "4685",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Michael Payne",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26408",
+      "mnis_id": "5146",
       "removed": false
     }
   ],
@@ -57,15 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-03-10",
+    "date_of_most_recent_agm": "2026-03-17",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Mar to 09 Mar",
-    "next_reporting_deadline": "2026-07-10"
+    "next_reporting_deadline": "2027-07-10"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/maternity.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/maternity.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

@@ -41,10 +41,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.appgifffs.org/about-us/members",
-      "https://www.appgifffs.org/about-us/secretariat"
+      "https://www.appgifffs.org/about-us/members"
     ],
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-04-27",
     "members": [
       {
         "name": "Alastair Carmichael",
@@ -196,7 +195,7 @@
         "member_type": "mp",
         "mnis_id": "4277",
         "twfy_id": "uk.org.publicwhip/person/25181",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Helen Morgan",
@@ -236,7 +235,7 @@
         "member_type": "mp",
         "mnis_id": "4521",
         "twfy_id": "uk.org.publicwhip/person/25302",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Browne of Ladyton",
@@ -244,7 +243,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Davies of Brixton",
@@ -252,7 +251,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Fox",
@@ -260,7 +259,7 @@
         "member_type": "lord",
         "mnis_id": "4322",
         "twfy_id": "uk.org.publicwhip/person/25240",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Haskel",
@@ -268,7 +267,7 @@
         "member_type": "lord",
         "mnis_id": "2665",
         "twfy_id": "uk.org.publicwhip/person/13499",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Harris",
@@ -525,6 +524,54 @@
         "mnis_id": "5233",
         "twfy_id": "uk.org.publicwhip/person/26464",
         "removed": false
+      },
+      {
+        "name": "Alison Hume",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5254",
+        "twfy_id": "uk.org.publicwhip/person/26523",
+        "removed": false
+      },
+      {
+        "name": "Andrew George",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "227",
+        "twfy_id": "uk.org.publicwhip/person/10222",
+        "removed": false
+      },
+      {
+        "name": "Baroness Kramer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1557",
+        "twfy_id": "uk.org.publicwhip/person/11783",
+        "removed": false
+      },
+      {
+        "name": "Fabian Hamilton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "415",
+        "twfy_id": "uk.org.publicwhip/person/10256",
+        "removed": false
+      },
+      {
+        "name": "Graham Leadbitter",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5277",
+        "twfy_id": "uk.org.publicwhip/person/26499",
+        "removed": false
+      },
+      {
+        "name": "Joe Morris",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5081",
+        "twfy_id": "uk.org.publicwhip/person/26468",
+        "removed": false
       }
     ]
   },
@@ -548,8 +595,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/investment-fraud-and-fairer-financial-services.htm",
+  "index_date": "260413",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/investment-fraud-and-fairer-financial-services.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]
