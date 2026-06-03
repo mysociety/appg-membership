@@ -44,7 +44,7 @@
       "https://digitalcommunities.inparliament.uk/appg-membership",
       "https://digitalcommunities.inparliament.uk/people"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Alison Taylor",
@@ -348,7 +348,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Markus Campbell-Savours",
@@ -388,7 +388,7 @@
         "member_type": "lord",
         "mnis_id": "2594",
         "twfy_id": "uk.org.publicwhip/person/25228",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord de Clifford",
@@ -396,7 +396,7 @@
         "member_type": "lord",
         "mnis_id": "4997",
         "twfy_id": "uk.org.publicwhip/person/26274",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Helen Morgan",
@@ -469,8 +469,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/digital-creators.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/digital-creators.htm",
   "categories": [
     "Economy, Business & Industry",
     "Arts, Culture, Heritage & Media",

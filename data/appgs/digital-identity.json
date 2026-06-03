@@ -43,7 +43,7 @@
     "source_url": [
       "https://digitalidentitiesappg.wordpress.com/page/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Dr Allison Gardner",
@@ -59,7 +59,7 @@
         "member_type": "lord",
         "mnis_id": "1827",
         "twfy_id": "uk.org.publicwhip/person/13274",
-        "removed": false
+        "removed": true
       },
       {
         "name": "David Williams",
@@ -75,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Verma",
@@ -228,6 +228,22 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
+      },
+      {
+        "name": "Baroness Uddin of Bethnal Green",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "James Arbuthnot",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "56",
+        "twfy_id": "uk.org.publicwhip/person/10013",
+        "removed": false
       }
     ]
   },
@@ -260,8 +276,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/digital-identity.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/digital-identity.htm",
   "categories": [
     "Economy, Business & Industry"
   ]

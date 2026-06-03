@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgiss.uk/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Martin Wrigley",
@@ -155,7 +155,7 @@
         "member_type": "mp",
         "mnis_id": "54",
         "twfy_id": "uk.org.publicwhip/person/10358",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sian Berry",
@@ -171,7 +171,7 @@
         "member_type": "mp",
         "mnis_id": "4124",
         "twfy_id": "uk.org.publicwhip/person/24807",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Andrew George",
@@ -211,7 +211,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Porter",
@@ -219,7 +219,7 @@
         "member_type": "lord",
         "mnis_id": "5009",
         "twfy_id": "uk.org.publicwhip/person/26289",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lucus",
@@ -227,7 +227,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Naseby",
@@ -235,7 +235,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lansley",
@@ -243,7 +243,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mott",
@@ -251,7 +251,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jamieson",
@@ -259,7 +259,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Brady of Altrincham",
@@ -267,7 +267,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Neville-Rolfe",
@@ -275,7 +275,7 @@
         "member_type": "lord",
         "mnis_id": "4284",
         "twfy_id": "uk.org.publicwhip/person/25205",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Garden of Forgnal",
@@ -283,7 +283,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Cromwell",
@@ -291,7 +291,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Cameron of Dillington",
@@ -299,10 +299,130 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Maclean",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4668",
+        "twfy_id": "uk.org.publicwhip/person/25692",
+        "removed": true
+      },
+      {
+        "name": "Sir Julian Lewis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "54",
+        "twfy_id": "uk.org.publicwhip/person/10358",
+        "removed": false
+      },
+      {
+        "name": "Dame Chi Onwurah",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4124",
+        "twfy_id": "uk.org.publicwhip/person/24807",
+        "removed": false
+      },
+      {
+        "name": "Lord Clement-Jones",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3396",
+        "twfy_id": "uk.org.publicwhip/person/13517",
+        "removed": false
+      },
+      {
+        "name": "Lord Porter",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4555",
+        "twfy_id": "uk.org.publicwhip/person/25469",
+        "removed": false
+      },
+      {
+        "name": "Lord Lucas",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1879",
+        "twfy_id": "uk.org.publicwhip/person/13301",
+        "removed": false
+      },
+      {
+        "name": "Lord Naseby",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1251",
+        "twfy_id": "uk.org.publicwhip/person/13704",
+        "removed": false
+      },
+      {
+        "name": "Lord Lansley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "123",
+        "twfy_id": "uk.org.publicwhip/person/10349",
+        "removed": false
+      },
+      {
+        "name": "Lord Mott",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4984",
+        "twfy_id": "uk.org.publicwhip/person/26259",
+        "removed": false
+      },
+      {
+        "name": "Lord Jamieson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "5019",
+        "twfy_id": "uk.org.publicwhip/person/26299",
+        "removed": false
+      },
+      {
+        "name": "Lord Brady of Altrincham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Neville-Rolfe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4284",
+        "twfy_id": "uk.org.publicwhip/person/25205",
+        "removed": false
+      },
+      {
+        "name": "Baroness Garden of Forgnal",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Cromwell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2594",
+        "twfy_id": "uk.org.publicwhip/person/25228",
+        "removed": false
+      },
+      {
+        "name": "Lord Cameron of Dillington",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Maclean",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "4668",
@@ -340,8 +460,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/uk-innovation-startups-and-smes.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/uk-innovation-startups-and-smes.htm",
   "categories": [
     "Economy, Business & Industry",
     "Science, Technology & Innovation"

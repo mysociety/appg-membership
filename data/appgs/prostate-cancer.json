@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgprostatecancer.org.uk/members"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Calvin Bailey",
@@ -75,7 +75,7 @@
         "member_type": "mp",
         "mnis_id": "5163",
         "twfy_id": "uk.org.publicwhip/person/26383",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Abtisam Mohamed",
@@ -403,7 +403,7 @@
         "member_type": "lord",
         "mnis_id": "4708",
         "twfy_id": "uk.org.publicwhip/person/25740",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Bishop of Manchester",
@@ -427,7 +427,7 @@
         "member_type": "lord",
         "mnis_id": "1413",
         "twfy_id": "uk.org.publicwhip/person/10920",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Mott",
@@ -459,7 +459,7 @@
         "member_type": "lord",
         "mnis_id": "112",
         "twfy_id": "uk.org.publicwhip/person/10613",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Watson of Wyre Forest",
@@ -491,7 +491,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Royall of Blaisdon",
@@ -619,6 +619,46 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Peter Prinsley",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5163",
+        "twfy_id": "uk.org.publicwhip/person/26383",
+        "removed": false
+      },
+      {
+        "name": "Charlie Dewhirst",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5169",
+        "twfy_id": "uk.org.publicwhip/person/26461",
+        "removed": false
+      },
+      {
+        "name": "Bates",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Grayling",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tyrie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -676,8 +716,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/prostate-cancer.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/prostate-cancer.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Victoria Atkins MP",
@@ -1063,8 +1063,8 @@
         "name": "Lord Moynihan",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "924",
-        "twfy_id": "uk.org.publicwhip/person/13042",
+        "mnis_id": "5007",
+        "twfy_id": "uk.org.publicwhip/person/26286",
         "removed": false
       },
       {
@@ -1359,10 +1359,24 @@
       "Received": "02/12/2025",
       "Registered": "15/12/2025",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Marstons",
+      "Value £s": "2,707",
+      "Received": "02/04/2026",
+      "Registered": "21/04/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "UK Hospitality",
+      "Value £s": "1,504",
+      "Received": "02/04/2026",
+      "Registered": "21/04/2026",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/beer.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/beer.htm",
   "categories": [
     "Economy, Business & Industry",
     "Arts, Culture, Heritage & Media"

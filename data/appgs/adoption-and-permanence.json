@@ -1,7 +1,7 @@
 {
   "slug": "adoption-and-permanence",
   "title": "All-Party Parliamentary Group on Adoption and Permanence",
-  "purpose": "To amplify the voices and experiences of adoptees and those in other forms of permanence and their families and use that to inform parliamentarians on issues around adoption and permanence and promote the development and implementation of effective policy and practice. To provide an opportunity for the ambitious exploration of innovative solutions to enable adoptees and those in other forms of permanence and their families to thrive.",
+  "purpose": "To amplify the voices and experiences of adoptees, those in other forms of permanence, and their families, and to support parliamentarians to explore and promote improvements to relevant policy and practice.",
   "category": "Subject Group",
   "parliament": "uk",
   "officers": [
@@ -31,10 +31,10 @@
     },
     {
       "role": "Officer",
-      "name": "Baroness Berridge",
+      "name": "Lord Young of Cookham",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25049",
-      "mnis_id": "4218",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgap.info/membership"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Rachael Maskell",
@@ -276,6 +276,14 @@
         "mnis_id": "5354",
         "twfy_id": "uk.org.publicwhip/person/26532",
         "removed": false
+      },
+      {
+        "name": "Lord Gove",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1571",
+        "twfy_id": "uk.org.publicwhip/person/11858",
+        "removed": false
       }
     ]
   },
@@ -292,32 +300,32 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-03-04",
+    "date_of_most_recent_agm": "2026-04-15",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Mar to 03 Mar",
-    "next_reporting_deadline": "2026-07-04"
+    "next_reporting_deadline": "2027-07-04"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Home for Good",
-      "Description": "Joint Secretariat From: 04/03/2025 To: 03/03/2026",
+      "Description": "Joint Secretariat From: 04/03/2026 To: 03/03/2027",
       "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "04/03/2025",
-      "Registered": "17/03/2025",
+      "Received": "04/03/2026",
+      "Registered": "20/04/2026",
       "benefit_type": "Benefits In Kind"
     },
     {
       "Source": "Adoption UK",
-      "Description": "Joint Secretariat From: 04/03/2025 To: 03/03/2026 Cost Met : `",
+      "Description": "Joint Secretariat From: 04/03/2026 To: 03/03/2027",
       "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "04/03/2025",
-      "Registered": "17/03/2025",
+      "Received": "04/03/2026",
+      "Registered": "20/04/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/adoption-and-permanence.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/adoption-and-permanence.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

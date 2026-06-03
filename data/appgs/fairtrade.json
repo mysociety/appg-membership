@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Ann Davies",
-      "party": "Plaid Cymru",
-      "twfy_id": "uk.org.publicwhip/person/26359",
-      "mnis_id": "5177",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Dr Rupa Huq",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25284",
       "mnis_id": "4511",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Ann Davies",
+      "party": "Plaid Cymru",
+      "twfy_id": "uk.org.publicwhip/person/26359",
+      "mnis_id": "5177",
       "removed": false
     }
   ],
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-02-12",
+    "date_of_most_recent_agm": "2026-04-22",
     "published_income_expenditure_statement": false,
     "reporting_year": "12 Feb to 11 Feb",
-    "next_reporting_deadline": "2026-06-12"
+    "next_reporting_deadline": "2027-06-12"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Fairtrade Foundation",
-      "Description": "Secretariat From: 12/02/2025 To: 11/02/2026",
+      "Description": "Secretariat From: 12/02/2026 To: 11/02/2027",
       "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "12/02/2025",
-      "Registered": "27/02/2025",
+      "Received": "12/02/2026",
+      "Registered": "28/04/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/fairtrade.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/fairtrade.htm",
   "categories": [
     "International Affairs, Development & Trade"
   ]

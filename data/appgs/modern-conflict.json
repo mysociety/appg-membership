@@ -36,7 +36,7 @@
       "https://www.appgmodernconflict.org/team-2",
       "https://www.appgmodernconflict.org/membership"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Richard Foord",
@@ -316,7 +316,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord McConnell of Glenscorrdale",
@@ -324,7 +324,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Miller of Chilthorne Domer",
@@ -404,7 +404,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Whitaker",
@@ -420,7 +420,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Smith of Newnham",
@@ -428,7 +428,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Macdonald of River Glaven",
@@ -436,7 +436,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord West Of Spithead",
@@ -444,7 +444,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Hodgson of Astley Abbotts",
@@ -636,7 +636,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       }
     ]
   },

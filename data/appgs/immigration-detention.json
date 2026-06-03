@@ -43,10 +43,9 @@
     "source_url": [
       "https://appgdetention.org.uk/about/current-members-3/",
       "https://appgdetention.org.uk/about/current-members-2/",
-      "https://appgdetention.org.uk/about/current-members/",
-      "https://appgdetention.org.uk/about/members-2023-24/"
+      "https://appgdetention.org.uk/about/current-members/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Bell Ribeiro-Addy",
@@ -62,7 +61,7 @@
         "member_type": "lord",
         "mnis_id": "337",
         "twfy_id": "uk.org.publicwhip/person/10221",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hamwee",
@@ -270,7 +269,7 @@
         "member_type": "mp",
         "mnis_id": "117",
         "twfy_id": "uk.org.publicwhip/person/10057",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Anne McLaughlin",
@@ -558,7 +557,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Liz Saville Roberts",
@@ -638,7 +637,7 @@
         "member_type": "mp",
         "mnis_id": "117",
         "twfy_id": "uk.org.publicwhip/person/10057",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Earl of Sandwich",
@@ -646,7 +645,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Peter Bottomley",
@@ -654,7 +653,7 @@
         "member_type": "mp",
         "mnis_id": "117",
         "twfy_id": "uk.org.publicwhip/person/10057",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Earl of Sandwich",
@@ -662,6 +661,22 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "the Lord Garnier",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "337",
+        "twfy_id": "uk.org.publicwhip/person/10221",
+        "removed": false
+      },
+      {
+        "name": "the Lord Garnier",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "337",
+        "twfy_id": "uk.org.publicwhip/person/10221",
         "removed": false
       }
     ]
@@ -670,8 +685,8 @@
     "registered_contact_name": "Bell Ribeiro-Addy MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 6695.",
     "registered_contact_email": "bell.ribeiroaddy.mp@parliament.uk",
-    "public_enquiry_point_name": null,
-    "public_enquiry_point_email": null,
+    "public_enquiry_point_name": "Medical Justice",
+    "public_enquiry_point_email": "contact@appgdetention.org.uk",
     "secretariat": "Medical Justice acts as the group's secretariat.http://www.medicaljustice.org.uk/",
     "website": {
       "status": "register",
@@ -695,8 +710,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/immigration-detention.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/immigration-detention.htm",
   "categories": [
     "Justice, Law & Security",
     "Human Rights, Equality & Social Justice"

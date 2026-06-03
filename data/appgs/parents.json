@@ -15,14 +15,6 @@
     },
     {
       "role": "Officer",
-      "name": "Baroness Stedman-Scott",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25001",
-      "mnis_id": "4174",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Lord Knight of Weymouth",
       "party": "Labour",
       "twfy_id": null,
@@ -31,10 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Mrs Sharon Hodgson",
+      "name": "Baroness Penn",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25783",
+      "mnis_id": "4726",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Fleur Anderson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11592",
-      "mnis_id": "1521",
+      "twfy_id": "uk.org.publicwhip/person/25813",
+      "mnis_id": "4788",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.parentkind.org.uk/research-and-policy/education-policy/policy-in-england/all-party-parliamentary-group-for-england"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Sharon Hodgson",
@@ -243,7 +243,7 @@
         "member_type": "lord",
         "mnis_id": "4951",
         "twfy_id": "uk.org.publicwhip/person/26096",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Lucas",
@@ -396,8 +396,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/parents.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/parents.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

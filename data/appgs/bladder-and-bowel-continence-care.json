@@ -15,14 +15,6 @@
     },
     {
       "role": "Officer",
-      "name": "The Earl of Dundee",
-      "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Lord Watson of Wyre Forest",
       "party": "Labour",
       "twfy_id": null,
@@ -43,7 +35,7 @@
     "source_url": [
       "https://www.appgcontinence.org.uk/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Jodie Gosling",
@@ -113,10 +105,19 @@
     "reporting_year": "03 Jun to 02 Jun",
     "next_reporting_deadline": "2026-10-03"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/bladder-and-bowel-continence-care.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Absorbent Hygiene Products Manufacturers Association",
+      "Description": "Secretariat From: 17/04/2026 To: 02/06/2026",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "17/04/2026",
+      "Registered": "08/05/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/bladder-and-bowel-continence-care.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

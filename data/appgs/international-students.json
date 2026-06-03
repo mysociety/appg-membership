@@ -41,9 +41,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://internationalstudents.org.uk/about/members-of-the-appg/"
+      "https://internationalstudents.org.uk/about/members-of-the-appg/",
+      "https://internationalstudents.org.uk/about/officers-of-the-appg/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Shockat Adam",
@@ -459,7 +460,7 @@
         "member_type": "lord",
         "mnis_id": "3809",
         "twfy_id": "uk.org.publicwhip/person/13881",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Johnson",
@@ -467,7 +468,7 @@
         "member_type": "lord",
         "mnis_id": "4039",
         "twfy_id": "uk.org.publicwhip/person/24895",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Uddin",
@@ -475,7 +476,7 @@
         "member_type": "lord",
         "mnis_id": "1827",
         "twfy_id": "uk.org.publicwhip/person/13274",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Warwick",
@@ -483,7 +484,7 @@
         "member_type": "lord",
         "mnis_id": "2471",
         "twfy_id": "uk.org.publicwhip/person/12894",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Willetts",
@@ -491,7 +492,7 @@
         "member_type": "lord",
         "mnis_id": "53",
         "twfy_id": "uk.org.publicwhip/person/10637",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Garden",
@@ -499,7 +500,7 @@
         "member_type": "lord",
         "mnis_id": "3842",
         "twfy_id": "uk.org.publicwhip/person/13938",
-        "removed": true
+        "removed": false
       }
     ]
   },
@@ -532,8 +533,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/international-students.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/international-students.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

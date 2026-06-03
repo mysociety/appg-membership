@@ -43,7 +43,7 @@
     "source_url": [
       "https://fusionenergyappg.co.uk/about-us/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "James Naish",
@@ -139,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": "2483",
         "twfy_id": "uk.org.publicwhip/person/13028",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Craig of Radley",
@@ -235,7 +235,7 @@
         "member_type": "lord",
         "mnis_id": "1829",
         "twfy_id": "uk.org.publicwhip/person/13177",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dave Robertson",
@@ -276,6 +276,30 @@
         "mnis_id": "4945",
         "twfy_id": "uk.org.publicwhip/person/26088",
         "removed": false
+      },
+      {
+        "name": "Gurinder Josan",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5059",
+        "twfy_id": "uk.org.publicwhip/person/26348",
+        "removed": false
+      },
+      {
+        "name": "Lord Lilley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "68",
+        "twfy_id": "uk.org.publicwhip/person/10362",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hooper",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2005",
+        "twfy_id": "uk.org.publicwhip/person/13081",
+        "removed": false
       }
     ]
   },
@@ -308,8 +332,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/fusion-energy.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/fusion-energy.htm",
   "categories": [
     "Science, Technology & Innovation",
     "Energy & Utilities"

@@ -15,14 +15,6 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Lord Harlech",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26046",
-      "mnis_id": "4928",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Cameron Thomas",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26532",
@@ -43,7 +35,7 @@
     "source_url": [
       "https://www.appgclimsec.uk/members"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Barry Gardiner",
@@ -59,7 +51,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Dr Sam Rushworth",
@@ -67,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "5108",
         "twfy_id": "uk.org.publicwhip/person/26323",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Cameron Thomas",
@@ -139,7 +131,7 @@
         "member_type": "mp",
         "mnis_id": "40",
         "twfy_id": "uk.org.publicwhip/person/10312",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Cat Smith",
@@ -155,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Christine Crawley",
@@ -163,7 +155,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Viscount Hugh Trenchard",
@@ -171,7 +163,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Anthony st John",
@@ -187,7 +179,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Daniel Mosley",
@@ -195,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Martin Rees",
@@ -203,7 +195,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Kevan Jones",
@@ -211,7 +203,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "James Gray",
@@ -323,7 +315,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Anthony St John",
@@ -331,7 +323,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "WERA HOBHOUSE",
@@ -443,7 +435,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sam Rushworth",
@@ -451,7 +443,7 @@
         "member_type": "mp",
         "mnis_id": "5108",
         "twfy_id": "uk.org.publicwhip/person/26323",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bernard Jenkin",
@@ -459,7 +451,7 @@
         "member_type": "mp",
         "mnis_id": "40",
         "twfy_id": "uk.org.publicwhip/person/10312",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Toby Harris",
@@ -467,7 +459,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Christine Crawley",
@@ -475,7 +467,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Hugh Trenchard",
@@ -483,7 +475,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Anthony st John",
@@ -499,7 +491,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Daniel Mosley",
@@ -507,7 +499,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Martin Rees",
@@ -515,7 +507,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Kevan Jones",
@@ -523,7 +515,7 @@
         "member_type": "lord",
         "mnis_id": "1438",
         "twfy_id": "uk.org.publicwhip/person/11003",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mark Lancaster",
@@ -531,7 +523,7 @@
         "member_type": "lord",
         "mnis_id": "1544",
         "twfy_id": "uk.org.publicwhip/person/11715",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Anthony St John",
@@ -539,7 +531,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -572,8 +564,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/climate-nature-and-security.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/climate-nature-and-security.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Justice, Law & Security"

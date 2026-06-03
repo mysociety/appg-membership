@@ -43,7 +43,7 @@
     "source_url": [
       "https://allianceofsport.org/our-work-article/the-all-party-parliamentary-group-appg-on-sport-and-physical-activity-in-the-criminal-justice-system/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Clive Efford",
@@ -91,7 +91,7 @@
         "member_type": "lord",
         "mnis_id": "3453",
         "twfy_id": "uk.org.publicwhip/person/13368",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Brady",
@@ -99,7 +99,7 @@
         "member_type": "lord",
         "mnis_id": "4339",
         "twfy_id": "uk.org.publicwhip/person/25249",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rt. Revd Libby Lane",
@@ -107,7 +107,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Grey-Thompson DBE",
@@ -121,9 +121,9 @@
         "name": "Lord Moynihan",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "924",
-        "twfy_id": "uk.org.publicwhip/person/13042",
-        "removed": false
+        "mnis_id": "5007",
+        "twfy_id": "uk.org.publicwhip/person/26286",
+        "removed": true
       },
       {
         "name": "Baroness Porter of Fulwood",
@@ -131,7 +131,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hodgson of Abinger CBE",
@@ -147,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tonia Antonazzia",
@@ -155,7 +155,7 @@
         "member_type": "mp",
         "mnis_id": "4623",
         "twfy_id": "uk.org.publicwhip/person/25634",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Max Wilkinson",
@@ -163,7 +163,7 @@
         "member_type": "mp",
         "mnis_id": "5055",
         "twfy_id": "uk.org.publicwhip/person/26344",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Sewell of Sanderstead",
@@ -171,7 +171,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bloomfield of Hinton Waldrist",
@@ -179,7 +179,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Randall of Uxbridge",
@@ -187,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Wyld",
@@ -195,7 +195,7 @@
         "member_type": "lord",
         "mnis_id": "4685",
         "twfy_id": "uk.org.publicwhip/person/25708",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Hastings of Scarisbrick",
@@ -203,7 +203,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord McNally",
@@ -211,7 +211,7 @@
         "member_type": "lord",
         "mnis_id": "919",
         "twfy_id": "uk.org.publicwhip/person/13129",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Grey-Thompson",
@@ -219,7 +219,7 @@
         "member_type": "lord",
         "mnis_id": "3862",
         "twfy_id": "uk.org.publicwhip/person/24707",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hodgson of Abinger",
@@ -227,7 +227,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -244,15 +244,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-03-17",
+    "date_of_most_recent_agm": "2026-04-22",
     "published_income_expenditure_statement": false,
     "reporting_year": "17 Mar to 16 Mar",
-    "next_reporting_deadline": "2026-07-17"
+    "next_reporting_deadline": "2027-07-17"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sport-and-physical-activity-in-the-criminal-justice-system.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Alliance of Sport in Criminal Justice",
+      "Description": "Secretariat From: 17/03/2026 To: 16/03/2027",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "17/03/2026",
+      "Registered": "24/04/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/sport-and-physical-activity-in-the-criminal-justice-system.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]

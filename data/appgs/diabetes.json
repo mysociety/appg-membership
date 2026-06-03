@@ -31,10 +31,10 @@
     },
     {
       "role": "Officer",
-      "name": "Lord Rennard",
-      "party": "Non-affiliated",
-      "twfy_id": "uk.org.publicwhip/person/13277",
-      "mnis_id": "2484",
+      "name": "Chris Bloore",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26357",
+      "mnis_id": "5109",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://diabetesappg.wordpress.com/about/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Tom Gordon",
@@ -155,7 +155,7 @@
         "member_type": "lord",
         "mnis_id": "4300",
         "twfy_id": "uk.org.publicwhip/person/25202",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Christine Jardine",
@@ -291,7 +291,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "The Lord Rennard",
@@ -324,32 +324,32 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-02-12",
+    "date_of_most_recent_agm": "2026-04-20",
     "published_income_expenditure_statement": false,
     "reporting_year": "12 Feb to 11 Feb",
-    "next_reporting_deadline": "2026-06-12"
+    "next_reporting_deadline": "2027-06-12"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Diabetes UK",
-      "Description": "Joint Secretariat From: 12/02/2025 To: 11/02/2026",
+      "Description": "Joint Secretariat From: 12/02/2026 To: 11/02/2027",
       "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "12/02/2025",
-      "Registered": "27/02/2025",
+      "Received": "12/02/2026",
+      "Registered": "21/04/2026",
       "benefit_type": "Benefits In Kind"
     },
     {
       "Source": "Breakthrough T1D",
-      "Description": "Joint Secretariat From: 12/02/2025 To: 11/02/2026",
+      "Description": "Joint Secretariat From: 12/02/2026 To: 11/02/2027",
       "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "12/02/2025",
-      "Registered": "27/02/2025",
+      "Received": "12/02/2026",
+      "Registered": "21/04/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/diabetes.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/diabetes.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

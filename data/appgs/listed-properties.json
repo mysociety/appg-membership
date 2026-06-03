@@ -6,6 +6,14 @@
   "parliament": "uk",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Tom Tugendhat",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25374",
+      "mnis_id": "4462",
+      "removed": false
+    },
+    {
       "role": "Co-Chair",
       "name": "Lord Mackinlay of Richborough",
       "party": "Conservative",
@@ -14,18 +22,26 @@
       "removed": false
     },
     {
-      "role": "Treasurer",
-      "name": "Lord Dear",
-      "party": "Crossbench",
-      "twfy_id": "uk.org.publicwhip/person/13884",
-      "mnis_id": "3808",
+      "role": "Officer",
+      "name": "Sarah Edwards",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26277",
+      "mnis_id": "5001",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Ben Maguire",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26623",
+      "mnis_id": "5350",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Sir James Cleverly MP",
@@ -774,9 +790,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Tom Tugendhat MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 01732 441563.",
+    "registered_contact_email": "tom.tugendhat.mp@parliament.uk",
     "public_enquiry_point_name": "Kirstie Oakes, Listed Property Owners' Club. Tel: 01795 844 939",
     "public_enquiry_point_email": "kirstie@lpoc.co.uk",
     "secretariat": "Listed Property Owners' Club acts as the group's secretariat.https://www.lpoc.co.uk/",
@@ -786,15 +802,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-02-11",
+    "date_of_most_recent_agm": "2026-04-29",
     "published_income_expenditure_statement": false,
     "reporting_year": "11 Feb to 10 Feb",
-    "next_reporting_deadline": "2026-06-11"
+    "next_reporting_deadline": "2027-06-11"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/listed-properties.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/listed-properties.htm",
   "categories": [
     "Arts, Culture, Heritage & Media",
     "Housing, Planning & Built Environment"

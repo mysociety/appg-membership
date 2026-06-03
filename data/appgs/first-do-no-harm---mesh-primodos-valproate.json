@@ -6,6 +6,14 @@
   "parliament": "uk",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Sarah Green",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26034",
+      "mnis_id": "4918",
+      "removed": false
+    },
+    {
       "role": "Officer",
       "name": "Baroness Ritchie of Downpatrick",
       "party": "Labour",
@@ -15,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Sarah Green",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26034",
-      "mnis_id": "4918",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Sir Alec Shelbrooke",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24893",
       "mnis_id": "3997",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Warinder Juss",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26533",
+      "mnis_id": "5230",
       "removed": false
     }
   ],
@@ -222,9 +230,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Sarah Green MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 3000.",
+    "registered_contact_email": "sarah.green.mp@parliament.uk",
     "public_enquiry_point_name": null,
     "public_enquiry_point_email": null,
     "secretariat": null,
@@ -241,8 +249,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/first-do-no-harm---mesh-primodos-valproate.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/first-do-no-harm---mesh-primodos-valproate.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

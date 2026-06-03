@@ -15,10 +15,18 @@
     },
     {
       "role": "Officer",
-      "name": "Stephen Gethins",
-      "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/25324",
-      "mnis_id": "4434",
+      "name": "Baroness Anelay of St Johns",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Bates",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/14134",
+      "mnis_id": "1091",
       "removed": false
     },
     {
@@ -27,14 +35,6 @@
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26516",
       "mnis_id": "5299",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Baroness Anelay of St Johns",
-      "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
       "removed": false
     }
   ],
@@ -49,23 +49,32 @@
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 2705.",
     "registered_contact_email": "anneliese.dodds.mp@parliament.uk",
     "public_enquiry_point_name": "Glen Promnitz. Tel: 07456 192552",
-    "public_enquiry_point_email": "grpromnitz@gmaiil.com",
-    "secretariat": null,
+    "public_enquiry_point_email": "grpromnitz@gmail.com",
+    "secretariat": "Glen Promnitz acts as the group's secretariat.",
     "website": {
       "status": "search",
       "url": "https://appgsudan.uk/"
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-10-23",
+    "date_of_most_recent_agm": "2026-04-14",
     "published_income_expenditure_statement": false,
     "reporting_year": "23 Oct to 22 Oct",
-    "next_reporting_deadline": "2026-02-23"
+    "next_reporting_deadline": "2027-02-23"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/sudan-and-south-sudan.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Glen Promnitz",
+      "Description": "Glen Promnitz is paid by the following to act as the group's secretariat: Mo Ibrahim Foundation, Salisibury Diocese, Tinsley Family Charitable Trust. From: 23/10/2025 To: 22/10/2026",
+      "Value £s In bands of £1,500": "22,501-24,000",
+      "Received": "23/10/2025",
+      "Registered": "24/04/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/sudan-and-south-sudan.htm",
   "categories": [
     "Country Group"
   ]

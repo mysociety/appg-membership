@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.climatetechappg.co.uk/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Steve Race",
@@ -131,7 +131,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord John Russell",
@@ -139,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Iain McNicol",
@@ -147,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord David Willetts",
@@ -155,7 +155,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Luke Charters",
@@ -179,7 +179,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Ben Gascoigne",
@@ -187,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ben Lake",
@@ -260,6 +260,54 @@
         "mnis_id": "5248",
         "twfy_id": "uk.org.publicwhip/person/26488",
         "removed": false
+      },
+      {
+        "name": "Adair Turner",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Iain McNicol",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "David Willetts",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "53",
+        "twfy_id": "uk.org.publicwhip/person/10637",
+        "removed": false
+      },
+      {
+        "name": "John Russell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "None",
+        "twfy_id": "uk.org.publicwhip/person/20469",
+        "removed": false
+      },
+      {
+        "name": "Syed Kamall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ben Gascoigne",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -292,8 +340,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/climatetech.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/climatetech.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Science, Technology & Innovation"

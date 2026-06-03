@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.secouncils.gov.uk/appg-south-east"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Tan Dhesi",
@@ -147,7 +147,7 @@
         "member_type": "mp",
         "mnis_id": "5313",
         "twfy_id": "uk.org.publicwhip/person/26555",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tony Vaughan",
@@ -339,7 +339,7 @@
         "member_type": "mp",
         "mnis_id": "5314",
         "twfy_id": "uk.org.publicwhip/person/25752",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Beccy Cooper",
@@ -372,6 +372,22 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
+      },
+      {
+        "name": "Sian Berry",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5314",
+        "twfy_id": "uk.org.publicwhip/person/25752",
+        "removed": false
+      },
+      {
+        "name": "Zoe Franklin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5313",
+        "twfy_id": "uk.org.publicwhip/person/26555",
+        "removed": false
       }
     ]
   },
@@ -395,8 +411,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/south-east.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/south-east.htm",
   "categories": [
     "Regions, Nations & Devolution",
     "Economy, Business & Industry"

@@ -36,7 +36,7 @@
       "https://www.smrappg.com/officers-and-members/",
       "https://www.smrappg.com/wp-content/uploads/2024/12/241202-SMR-APPG-Membership-List.pdf"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Baggy Shanker",
@@ -188,7 +188,7 @@
         "member_type": "mp",
         "mnis_id": "1512",
         "twfy_id": "uk.org.publicwhip/person/11970",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bloomfield of Hinton Waldrist",
@@ -308,7 +308,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Rt Hon. the Lord Wigley",
@@ -340,7 +340,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Neville-Rolfe",
@@ -348,7 +348,7 @@
         "member_type": "lord",
         "mnis_id": "4284",
         "twfy_id": "uk.org.publicwhip/person/25205",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Brown of Leyton",
@@ -356,7 +356,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Blackwell of Huntingdon Mandeville",
@@ -364,7 +364,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Whitty",
@@ -396,7 +396,7 @@
         "member_type": "lord",
         "mnis_id": "2444",
         "twfy_id": "uk.org.publicwhip/person/12958",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Neville-Jones DCMG",
@@ -404,7 +404,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Neville-Rolfe DBE CMG",
@@ -412,6 +412,14 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Rt. Hon. David Mundell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1512",
+        "twfy_id": "uk.org.publicwhip/person/11970",
         "removed": false
       }
     ]

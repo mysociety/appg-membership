@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgme.co.uk/who-we-are/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Jo Platt",
@@ -83,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "4107",
         "twfy_id": "uk.org.publicwhip/person/24785",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Bethell",
@@ -91,7 +91,7 @@
         "member_type": "lord",
         "mnis_id": "4708",
         "twfy_id": "uk.org.publicwhip/person/25740",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Luke Charters",
@@ -187,7 +187,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Steve Race",
@@ -227,7 +227,7 @@
         "member_type": "lord",
         "mnis_id": "3651",
         "twfy_id": "uk.org.publicwhip/person/12839",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Paul Waugh",
@@ -339,7 +339,7 @@
         "member_type": "mp",
         "mnis_id": "4107",
         "twfy_id": "uk.org.publicwhip/person/24785",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bethell",
@@ -355,7 +355,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Thomas",
@@ -395,6 +395,14 @@
         "member_type": "mp",
         "mnis_id": "5143",
         "twfy_id": "uk.org.publicwhip/person/26405",
+        "removed": false
+      },
+      {
+        "name": "Tom Gordon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5032",
+        "twfy_id": "uk.org.publicwhip/person/26312",
         "removed": false
       }
     ]

@@ -41,9 +41,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://prisonreformtrust.org.uk/wp-content/uploads/2025/07/minute-of-APPG-on-Penal-Affairs-meeting-170625.pdf"
+      "https://prisonreformtrust.org.uk/wp-content/uploads/2025/07/minute-of-APPG-on-Penal-Affairs-meeting-170625.pdf",
+      "https://prisonreformtrust.org.uk/wp-content/uploads/2022/05/Minutes-of-APPG-meeting-and-AGM-26.04.22.pdf"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Pam Cox",
@@ -123,7 +124,7 @@
         "member_type": "mp",
         "mnis_id": "5073",
         "twfy_id": "uk.org.publicwhip/person/26338",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Paul Maynard",
@@ -131,7 +132,7 @@
         "member_type": "mp",
         "mnis_id": "3926",
         "twfy_id": "uk.org.publicwhip/person/24764",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Carlile",
@@ -155,7 +156,7 @@
         "member_type": "mp",
         "mnis_id": "4457",
         "twfy_id": "uk.org.publicwhip/person/25321",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Andrew Selous",
@@ -163,7 +164,7 @@
         "member_type": "mp",
         "mnis_id": "1453",
         "twfy_id": "uk.org.publicwhip/person/11216",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Hodgson of Astley Abbotts",
@@ -171,7 +172,55 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
+      },
+      {
+        "name": "Tessa Munt",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4089",
+        "twfy_id": "uk.org.publicwhip/person/24942",
+        "removed": false
+      },
+      {
+        "name": "Kate Green",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4120",
+        "twfy_id": "uk.org.publicwhip/person/24896",
+        "removed": false
+      },
+      {
+        "name": "Baroness Masham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1850",
+        "twfy_id": "uk.org.publicwhip/person/12909",
+        "removed": false
+      },
+      {
+        "name": "Bishop Rachel Treweek",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Bradley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "452",
+        "twfy_id": "uk.org.publicwhip/person/10059",
+        "removed": false
+      },
+      {
+        "name": "Crispin Blunt",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "104",
+        "twfy_id": "uk.org.publicwhip/person/10051",
+        "removed": false
       }
     ]
   },
@@ -204,8 +253,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/penal-affairs.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/penal-affairs.htm",
   "categories": [
     "Justice, Law & Security"
   ]

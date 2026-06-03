@@ -43,7 +43,7 @@
     "source_url": [
       "https://socialscienceappg.co.uk/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Yuan Yang",
@@ -139,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": "3187",
         "twfy_id": "uk.org.publicwhip/person/13441",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Lister",
@@ -147,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": "4234",
         "twfy_id": "uk.org.publicwhip/person/25058",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Primarolo",
@@ -251,7 +251,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ruth Lister",
@@ -259,7 +259,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -292,8 +292,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/social-science-and-policy.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/social-science-and-policy.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

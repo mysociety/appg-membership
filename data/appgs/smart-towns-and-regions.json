@@ -43,7 +43,7 @@
     "source_url": [
       "https://smarttownsandregions.org.uk/about"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Sureena Brackenridge",
@@ -59,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "4668",
         "twfy_id": "uk.org.publicwhip/person/25692",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Graham Evans",
@@ -172,6 +172,14 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
+      },
+      {
+        "name": "Rachel Maclean",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4668",
+        "twfy_id": "uk.org.publicwhip/person/25692",
+        "removed": false
       }
     ]
   },
@@ -195,8 +203,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/smart-towns-and-regions.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/smart-towns-and-regions.htm",
   "categories": [
     "Regions, Nations & Devolution"
   ]

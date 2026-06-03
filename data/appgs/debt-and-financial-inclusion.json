@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Andrew Ranger",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26336",
-      "mnis_id": "5046",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Katrina Murray",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26494",
       "mnis_id": "5309",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Andrew Ranger",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26336",
+      "mnis_id": "5046",
       "removed": false
     }
   ],
@@ -57,15 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-01-15",
+    "date_of_most_recent_agm": "2026-04-15",
     "published_income_expenditure_statement": false,
     "reporting_year": "15 Jan to 14 Jan",
-    "next_reporting_deadline": "2026-05-15"
+    "next_reporting_deadline": "2027-05-15"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/debt-and-financial-inclusion.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/debt-and-financial-inclusion.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

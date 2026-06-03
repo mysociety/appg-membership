@@ -43,7 +43,7 @@
     "source_url": [
       "https://defibrillatorappg.wordpress.com/about/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Steve Darling",
@@ -115,7 +115,7 @@
         "member_type": "lord",
         "mnis_id": "4970",
         "twfy_id": "uk.org.publicwhip/person/26113",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Blair McDougall",
@@ -147,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": "4547",
         "twfy_id": "uk.org.publicwhip/person/25457",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Andrew Rosindell",
@@ -203,7 +203,7 @@
         "member_type": "lord",
         "mnis_id": "4596",
         "twfy_id": "uk.org.publicwhip/person/25610",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Campbell-Savours",
@@ -211,7 +211,7 @@
         "member_type": "lord",
         "mnis_id": "499",
         "twfy_id": "uk.org.publicwhip/person/10090",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Cox",
@@ -235,7 +235,7 @@
         "member_type": "lord",
         "mnis_id": "4219",
         "twfy_id": "uk.org.publicwhip/person/25051",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Tope",
@@ -243,7 +243,7 @@
         "member_type": "lord",
         "mnis_id": "1703",
         "twfy_id": "uk.org.publicwhip/person/13542",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Dame Harriet Baldwin",
@@ -291,7 +291,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Polak",
@@ -299,7 +299,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Fink",
@@ -307,7 +307,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dan Alridge",
@@ -323,7 +323,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rachael Maskell",
@@ -339,7 +339,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Campbell-Savours",
@@ -347,7 +347,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tope",
@@ -355,7 +355,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Maureen Burke",
@@ -363,6 +363,14 @@
         "member_type": "mp",
         "mnis_id": "5137",
         "twfy_id": "uk.org.publicwhip/person/26455",
+        "removed": false
+      },
+      {
+        "name": "Lord Banner",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "5014",
+        "twfy_id": "uk.org.publicwhip/person/26292",
         "removed": false
       }
     ]
@@ -396,8 +404,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/defibrillators.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/defibrillators.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

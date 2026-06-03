@@ -14,7 +14,7 @@
       "removed": false
     },
     {
-      "role": "Officer",
+      "role": "Vice Chair",
       "name": "Alison Griffiths",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26536",
@@ -28,6 +28,14 @@
       "twfy_id": null,
       "mnis_id": null,
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "David Reed",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26628",
+      "mnis_id": "5347",
+      "removed": false
     }
   ],
   "members_list": {
@@ -35,7 +43,7 @@
     "source_url": [
       "https://datacentresappg.co.uk/our-parliamentary-members/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Chris Curtis",
@@ -139,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": "4939",
         "twfy_id": "uk.org.publicwhip/person/26062",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Jessica Morden",
@@ -163,7 +171,7 @@
         "member_type": "lord",
         "mnis_id": "5014",
         "twfy_id": "uk.org.publicwhip/person/26292",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Johnson of Lainston",
@@ -259,7 +267,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Banner KC",
@@ -267,6 +275,14 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Greg Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4778",
+        "twfy_id": "uk.org.publicwhip/person/25925",
         "removed": false
       }
     ]
@@ -300,8 +316,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/data-centres.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/data-centres.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

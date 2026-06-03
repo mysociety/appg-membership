@@ -44,7 +44,7 @@
       "https://apgaw.org/about-apgaw/political-officers/",
       "https://apgaw.org/apgaw-members/associate-members/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Dr Neil Hudson MP",
@@ -60,7 +60,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Danny Chambers MP",
@@ -244,7 +244,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Danny Chambers",
@@ -893,8 +893,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/animal-welfare.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/animal-welfare.htm",
   "categories": [
     "Animals & Animal Welfare"
   ]

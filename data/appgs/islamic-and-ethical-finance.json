@@ -15,14 +15,6 @@
     },
     {
       "role": "Officer",
-      "name": "Robbie Moore",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25922",
-      "mnis_id": "4861",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Lord Alderdice",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13371",
@@ -31,10 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Iqbal Mohamed",
+      "name": "Baroness Mobarik",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25235",
+      "mnis_id": "4335",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Ayoub Khan",
       "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/26620",
-      "mnis_id": "5268",
+      "twfy_id": "uk.org.publicwhip/person/26631",
+      "mnis_id": "5357",
       "removed": false
     }
   ],
@@ -57,24 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-03",
+    "date_of_most_recent_agm": "2026-04-29",
     "published_income_expenditure_statement": false,
     "reporting_year": "03 Dec to 02 Dec",
-    "next_reporting_deadline": "2026-04-03"
+    "next_reporting_deadline": "2027-04-03"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Islamic Finance Council UK",
-      "Description": "Secretariat From: 03/12/2024 To: 02/12/2025",
-      "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "03/12/2024",
-      "Registered": "10/12/2024",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/islamic-and-ethical-finance.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/islamic-and-ethical-finance.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs",
     "Religion, Faith & Belief Communities"

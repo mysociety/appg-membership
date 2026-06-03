@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.ciol.org.uk/appg-members"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Tonia Antoniazzi",
@@ -187,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Dykes",
@@ -324,6 +324,14 @@
         "mnis_id": "5034",
         "twfy_id": "uk.org.publicwhip/person/26317",
         "removed": false
+      },
+      {
+        "name": "The Earl of Clancarty",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -356,8 +364,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/modern-languages.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/modern-languages.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

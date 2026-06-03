@@ -43,7 +43,7 @@
     "source_url": [
       "https://householdsintemporaryaccommodation.co.uk/who-we-are/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Siobhain McDonagh",
@@ -99,7 +99,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Bell Ribeiro-Addy",
@@ -435,7 +435,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bennett of Manor Castle",
@@ -443,7 +443,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dr Beccy Cooper",
@@ -459,6 +459,14 @@
         "member_type": "other",
         "mnis_id": "5239",
         "twfy_id": "uk.org.publicwhip/person/26585",
+        "removed": false
+      },
+      {
+        "name": "Baroness Bennett of Manor Castle, Natalie Bennet",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -500,8 +508,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/households-in-temporary-accommodation.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/households-in-temporary-accommodation.htm",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Education, Skills & Youth",

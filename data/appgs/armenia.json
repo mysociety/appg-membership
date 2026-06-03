@@ -43,7 +43,7 @@
     "source_url": [
       "https://ancuk.org.uk/about-anc-uk/appg-for-armenia/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Jessica Morden",
@@ -59,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "39",
         "twfy_id": "uk.org.publicwhip/person/10632",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Chris Law",
@@ -75,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Cox",
@@ -91,7 +91,15 @@
         "member_type": "mp",
         "mnis_id": "39",
         "twfy_id": "uk.org.publicwhip/person/10632",
-        "removed": true
+        "removed": false
+      },
+      {
+        "name": "McInnes of Kilwinning",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -115,8 +123,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/armenia.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/armenia.htm",
   "categories": [
     "Country Group"
   ]

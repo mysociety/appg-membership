@@ -7,14 +7,6 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Dr Ben Spencer",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25889",
-      "mnis_id": "4785",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Noah Law",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26513",
@@ -22,7 +14,7 @@
       "removed": false
     },
     {
-      "role": "Officer",
+      "role": "Co-Chair",
       "name": "Baroness McIntosh of Pickering",
       "party": "Conservative",
       "twfy_id": null,
@@ -30,18 +22,26 @@
       "removed": false
     },
     {
-      "role": "Officer",
+      "role": "Vice Chair",
       "name": "Lord Beith",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/10034",
       "mnis_id": "513",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Fabian Hamilton",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/10256",
+      "mnis_id": "415",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Ben Spencer MP",
@@ -262,9 +262,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Dr Ben Spencer MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 6783.",
-    "registered_contact_email": "ben.spencer.mp@parliament.uk",
+    "registered_contact_name": "Noah Law MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7751.",
+    "registered_contact_email": "noah.law.mp@parliament.uk",
     "public_enquiry_point_name": null,
     "public_enquiry_point_email": null,
     "secretariat": null,
@@ -274,15 +274,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-11-26",
+    "date_of_most_recent_agm": "2026-04-29",
     "published_income_expenditure_statement": false,
     "reporting_year": "26 Nov to 25 Nov",
-    "next_reporting_deadline": "2026-03-26"
+    "next_reporting_deadline": "2027-03-26"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/nordic-countries.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/nordic-countries.htm",
   "categories": [
     "Country Group"
   ]

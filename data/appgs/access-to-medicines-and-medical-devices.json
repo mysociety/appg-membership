@@ -43,7 +43,7 @@
     "source_url": [
       "https://ammdappg.inparliament.uk/people"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Baroness Margaret Ritchie of Downpatrick",
@@ -75,6 +75,14 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Andrew Lansley",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "123",
+        "twfy_id": "uk.org.publicwhip/person/10349",
         "removed": false
       }
     ]
@@ -108,8 +116,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/access-to-medicines-and-medical-devices.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/access-to-medicines-and-medical-devices.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

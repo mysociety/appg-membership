@@ -43,7 +43,7 @@
     "source_url": [
       "https://appg-ahmadiyyamuslim.org.uk/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Dame Siobhain McDonagh",
@@ -51,7 +51,7 @@
         "member_type": "mp",
         "mnis_id": "193",
         "twfy_id": "uk.org.publicwhip/person/10381",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Sir Edward Davey",
@@ -59,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "188",
         "twfy_id": "uk.org.publicwhip/person/10155",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Greg Stafford",
@@ -347,7 +347,7 @@
         "member_type": "mp",
         "mnis_id": "193",
         "twfy_id": "uk.org.publicwhip/person/10381",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Edward Davey",
@@ -355,7 +355,7 @@
         "member_type": "mp",
         "mnis_id": "188",
         "twfy_id": "uk.org.publicwhip/person/10155",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rupa Huq",
@@ -444,8 +444,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/ahmadiyya-muslim-community.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/ahmadiyya-muslim-community.htm",
   "categories": [
     "Religion, Faith & Belief Communities",
     "Human Rights, Equality & Social Justice"

@@ -43,7 +43,7 @@
     "source_url": [
       "https://obesityhealthalliance.org.uk/appg/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Marie Goldman",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Joan Walmsley",
@@ -75,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Simon Opher",
@@ -163,7 +163,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Tanni Grey-Thompson",
@@ -171,7 +171,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Cathy Bakewell",
@@ -179,7 +179,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Alison Suttie",
@@ -187,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "John Krebs",
@@ -203,10 +203,98 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Clive Brooke",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Anne Jenkin",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Joan Walmsley",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Natalie Bennett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tanni Grey-Thompson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Cathy Bakewell",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Alison Suttie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Rosie Boycott",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Clive Brooke",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Andrew George",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "227",
+        "twfy_id": "uk.org.publicwhip/person/10222",
+        "removed": false
+      },
+      {
+        "name": "Mary Kelly Foy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4753",
+        "twfy_id": "uk.org.publicwhip/person/25833",
+        "removed": false
+      },
+      {
+        "name": "Sharron Davies",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -244,8 +332,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/dietary-health.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/dietary-health.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Food, Agriculture & Rural Affairs"

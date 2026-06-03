@@ -23,14 +23,6 @@
     },
     {
       "role": "Officer",
-      "name": "The Earl of Dundee",
-      "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Baroness Bennett of Manor Castle",
       "party": "Green Party",
       "twfy_id": null,
@@ -41,7 +33,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Jim Shannon MP",
@@ -273,8 +265,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/respiratory-health.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/respiratory-health.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

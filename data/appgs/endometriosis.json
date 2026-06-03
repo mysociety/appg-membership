@@ -41,10 +41,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.endometriosis-uk.org/all-party-parliamentary-group-endometriosis",
       "https://www.endometriosis-uk.org/sites/default/files/2025-12/APPG%20Parliamentary%20Members%20Dec%202025%20%281%29.pdf"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Bell Ribeiro-Addy",
@@ -60,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "3997",
         "twfy_id": "uk.org.publicwhip/person/24893",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Gill Furniss",
@@ -341,6 +340,14 @@
         "mnis_id": "1482",
         "twfy_id": "uk.org.publicwhip/person/11406",
         "removed": false
+      },
+      {
+        "name": "Alec Shelbrooke",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "3997",
+        "twfy_id": "uk.org.publicwhip/person/24893",
+        "removed": false
       }
     ]
   },
@@ -364,8 +371,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/endometriosis.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/endometriosis.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Rosena Allin-Khan MP",
@@ -242,21 +242,13 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-02-12",
+    "date_of_most_recent_agm": "2026-04-14",
     "published_income_expenditure_statement": false,
     "reporting_year": "12 Feb to 11 Feb",
-    "next_reporting_deadline": "2026-06-12"
+    "next_reporting_deadline": "2027-06-12"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
-    {
-      "Source": "Royal College of Emergency Medicine",
-      "Description": "Secretariat From: 12/02/2025 To: 11/02/2026",
-      "Value £s In bands of £1,500": "3,001-4,500",
-      "Received": "12/02/2025",
-      "Registered": "03/03/2025",
-      "benefit_type": "Benefits In Kind"
-    },
     {
       "Source": "Royal College of Emergency Medicine",
       "Description": "Launch reception",
@@ -264,10 +256,18 @@
       "Received": "15/05/2025",
       "Registered": "27/05/2025",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Royal College of Emergency Medicine",
+      "Description": "Secretariat From: 12/02/2026 To: 11/02/2027",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "12/02/2026",
+      "Registered": "14/04/2026",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/emergency-care.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/emergency-care.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

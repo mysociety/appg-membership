@@ -14,7 +14,7 @@
       "removed": false
     },
     {
-      "role": "Co-Chair",
+      "role": "Vice Chair",
       "name": "Baroness Uddin",
       "party": "Non-affiliated",
       "twfy_id": "uk.org.publicwhip/person/13274",
@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Co-Chair Baroness Uddin",
@@ -322,15 +322,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-01-21",
+    "date_of_most_recent_agm": "2026-04-29",
     "published_income_expenditure_statement": false,
     "reporting_year": "21 Jan to 20 Jan",
-    "next_reporting_deadline": "2026-05-21"
+    "next_reporting_deadline": "2027-05-21"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/saudi-arabia.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "The Kingdom of Saudi Arabia",
+      "Description": "Hotel, transportation and meals for eight people to Riyadh to meet several Saudi Ministers, royal family members and members of the Shura Council, in relation to: trade, defence, tourism (Hajj/Umrah), education and energy. From: 11/10/2025 To: 14/10/2025",
+      "Value £s In bands of £1,500": "76,501-78,000",
+      "Received": "11/10/2025",
+      "Registered": "30/04/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/saudi-arabia.htm",
   "categories": [
     "Country Group"
   ]

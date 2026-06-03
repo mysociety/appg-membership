@@ -6,14 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Amanda Hack",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26449",
-      "mnis_id": "5149",
-      "removed": false
-    },
-    {
       "role": "Co-Chair",
       "name": "John Glen",
       "party": "Conservative",
@@ -45,9 +37,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Amanda Hack MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "amanda.hack.mp@parliament.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
     "public_enquiry_point_name": "Alice Clarke, Young Enterprise. Tel: 0207 549 1980",
     "public_enquiry_point_email": "appg@y-e.org.uk",
     "secretariat": "Young Enterprise acts as the group's secretariat.https://www.young-enterprise.org.uk/",
@@ -73,8 +65,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/financial-education-for-young-people.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/financial-education-for-young-people.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

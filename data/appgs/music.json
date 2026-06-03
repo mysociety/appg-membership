@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgonmusic.wordpress.com/officers-and-members/"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Pete Wishart",
@@ -163,7 +163,7 @@
         "member_type": "mp",
         "mnis_id": "4634",
         "twfy_id": "uk.org.publicwhip/person/25675",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Claire Hughes",
@@ -371,7 +371,7 @@
         "member_type": "mp",
         "mnis_id": "4473",
         "twfy_id": "uk.org.publicwhip/person/25357",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lucy Powell",
@@ -403,7 +403,7 @@
         "member_type": "mp",
         "mnis_id": "1383",
         "twfy_id": "uk.org.publicwhip/person/11267",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Max Wilkinson",
@@ -523,7 +523,7 @@
         "member_type": "mp",
         "mnis_id": "1521",
         "twfy_id": "uk.org.publicwhip/person/11592",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Shaun Davies",
@@ -531,7 +531,7 @@
         "member_type": "mp",
         "mnis_id": "5041",
         "twfy_id": "uk.org.publicwhip/person/26332",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Simon Opher",
@@ -643,7 +643,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Guy Black",
@@ -683,7 +683,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Elizabeth (Dee)",
@@ -691,7 +691,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Susan Elizabeth",
@@ -795,7 +795,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Joyce Quin",
@@ -851,7 +851,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Robin Teveson",
@@ -996,6 +996,166 @@
         "mnis_id": "4036",
         "twfy_id": "uk.org.publicwhip/person/24924",
         "removed": false
+      },
+      {
+        "name": "Anna Sabine",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5286",
+        "twfy_id": "uk.org.publicwhip/person/26497",
+        "removed": false
+      },
+      {
+        "name": "Deirdre Costigan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5075",
+        "twfy_id": "uk.org.publicwhip/person/26384",
+        "removed": true
+      },
+      {
+        "name": "Karen Bradley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4110",
+        "twfy_id": "uk.org.publicwhip/person/24725",
+        "removed": false
+      },
+      {
+        "name": "Louise Haigh",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4473",
+        "twfy_id": "uk.org.publicwhip/person/25357",
+        "removed": false
+      },
+      {
+        "name": "Marsha De Cordova",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4676",
+        "twfy_id": "uk.org.publicwhip/person/25620",
+        "removed": false
+      },
+      {
+        "name": "Natalie Fleet",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5053",
+        "twfy_id": "uk.org.publicwhip/person/26343",
+        "removed": false
+      },
+      {
+        "name": "Richard Baker",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5253",
+        "twfy_id": "uk.org.publicwhip/person/13952",
+        "removed": false
+      },
+      {
+        "name": "Rosie Wrighting",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5331",
+        "twfy_id": "uk.org.publicwhip/person/26615",
+        "removed": false
+      },
+      {
+        "name": "Alec Shelbrooke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3997",
+        "twfy_id": "uk.org.publicwhip/person/24893",
+        "removed": false
+      },
+      {
+        "name": "Zoe Franklin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5313",
+        "twfy_id": "uk.org.publicwhip/person/26555",
+        "removed": false
+      },
+      {
+        "name": "Colin Berkeley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Michael Berkeley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Caine",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "5391",
+        "twfy_id": "uk.org.publicwhip/person/26669",
+        "removed": false
+      },
+      {
+        "name": "John David",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Navnit Dholakia",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Doocey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4197",
+        "twfy_id": "uk.org.publicwhip/person/25033",
+        "removed": false
+      },
+      {
+        "name": "Lord Evans",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2766",
+        "twfy_id": "uk.org.publicwhip/person/12852",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hazarika",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "5024",
+        "twfy_id": "uk.org.publicwhip/person/26304",
+        "removed": false
+      },
+      {
+        "name": "Baroness Morgan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2168",
+        "twfy_id": "uk.org.publicwhip/person/13045",
+        "removed": false
+      },
+      {
+        "name": "Baroness Smith of Llanfaes",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -1028,8 +1188,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/music.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/music.htm",
   "categories": [
     "Arts, Culture, Heritage & Media"
   ]

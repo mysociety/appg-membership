@@ -6,27 +6,11 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Sarah Edwards",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26277",
-      "mnis_id": "5001",
-      "removed": false
-    },
-    {
       "role": "Officer",
       "name": "Baroness Verma",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13730",
       "mnis_id": "3790",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Amanda Hack",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26449",
-      "mnis_id": "5149",
       "removed": false
     },
     {
@@ -44,7 +28,7 @@
       "https://www.appg-equitablegovernance.org/parliamentarycommittee",
       "https://www.appg-equitablegovernance.org/businessboard"
     ],
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-06-03",
     "members": [
       {
         "name": "Sarah Edwards",
@@ -196,7 +180,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dr Jen Fensome",
@@ -297,9 +281,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Sarah Edwards MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 01827 794 475.",
-    "registered_contact_email": "sarah.edwards.mp@parliament.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
     "public_enquiry_point_name": "Payal Walker, Women on Boards CIC. Tel: 01827 794 475",
     "public_enquiry_point_email": "appgeg@womenonboardscic.com",
     "secretariat": "Women on Boards CIC acts as the group's secretariat.https://www.womenonboardscic.com",
@@ -325,8 +309,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/equitable-governance.htm",
+  "index_date": "260518",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/equitable-governance.htm",
   "categories": [
     "Economy, Business & Industry",
     "Governance, Democracy & Political Reform",
