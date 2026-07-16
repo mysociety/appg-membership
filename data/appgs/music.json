@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgonmusic.wordpress.com/officers-and-members/"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Pete Wishart",
@@ -403,7 +403,7 @@
         "member_type": "mp",
         "mnis_id": "1383",
         "twfy_id": "uk.org.publicwhip/person/11267",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Max Wilkinson",
@@ -539,7 +539,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Stephanie Peacock",
@@ -643,7 +643,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Guy Black",
@@ -683,7 +683,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Elizabeth (Dee)",
@@ -795,7 +795,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Joyce Quin",
@@ -851,7 +851,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Robin Teveson",
@@ -1067,7 +1067,7 @@
         "member_type": "mp",
         "mnis_id": "3997",
         "twfy_id": "uk.org.publicwhip/person/24893",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Zoe Franklin",
@@ -1083,7 +1083,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Michael Berkeley",
@@ -1091,7 +1091,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Caine",
@@ -1107,7 +1107,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Navnit Dholakia",
@@ -1115,7 +1115,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Doocey",
@@ -1156,6 +1156,46 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
+      },
+      {
+        "name": "Dr Simon Opher",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5030",
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
+      },
+      {
+        "name": "Sir Alec Shelbrooke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3997",
+        "twfy_id": "uk.org.publicwhip/person/24893",
+        "removed": false
+      },
+      {
+        "name": "Baroness Coffey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4098",
+        "twfy_id": "uk.org.publicwhip/person/24771",
+        "removed": false
+      },
+      {
+        "name": "Baroness Keeley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1588",
+        "twfy_id": "uk.org.publicwhip/person/11943",
+        "removed": false
+      },
+      {
+        "name": "Baroness MacLeod",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "5432",
+        "twfy_id": "uk.org.publicwhip/person/26715",
+        "removed": false
       }
     ]
   },
@@ -1188,8 +1228,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/music.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/music.htm",
   "categories": [
     "Arts, Culture, Heritage & Media"
   ]

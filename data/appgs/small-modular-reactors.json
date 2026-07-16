@@ -33,10 +33,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.smrappg.com/officers-and-members/",
       "https://www.smrappg.com/wp-content/uploads/2024/12/241202-SMR-APPG-Membership-List.pdf"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Baggy Shanker",
@@ -420,6 +419,14 @@
         "member_type": "mp",
         "mnis_id": "1512",
         "twfy_id": "uk.org.publicwhip/person/11970",
+        "removed": false
+      },
+      {
+        "name": "Josh McAlister",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5033",
+        "twfy_id": "uk.org.publicwhip/person/26321",
         "removed": false
       }
     ]

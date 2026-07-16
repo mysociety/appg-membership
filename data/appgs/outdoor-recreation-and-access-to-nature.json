@@ -50,22 +50,39 @@
     "registered_contact_email": "andy.macnae.mp@parliament.uk",
     "public_enquiry_point_name": "Dr Catherine Flitcroft, British Mountaineering Council. Tel: 07932 801351",
     "public_enquiry_point_email": "catherine.flitcroft@thebmc.co.uk",
-    "secretariat": "British Mountaineering Council acts as the group's secretariat.https://www.thebmc.co.uk",
+    "secretariat": "British Mountaineering Council, The Ramblers and Paddle UK jointly act as the group's secretariat.https://www.thebmc.co.ukandhttps://www.ramblers.org.uk/andhttps://paddleuk.org.uk/",
     "website": {
       "status": "bad_search",
       "url": null
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-05-19",
+    "date_of_most_recent_agm": "2026-05-20",
     "published_income_expenditure_statement": false,
     "reporting_year": "19 May to 18 May",
-    "next_reporting_deadline": "2026-09-19"
+    "next_reporting_deadline": "2027-09-19"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/outdoor-recreation-and-access-to-nature.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "British Mountaineering Council",
+      "Description": "Joint Secretariat From: 19/05/2026 To: 18/05/2027",
+      "Value £s In bands of £1,500": "7,501-9,000",
+      "Received": "19/05/2026",
+      "Registered": "28/05/2026",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Paddle UK",
+      "Description": "Joint Secretariat From: 19/05/2026 To: 18/05/2027",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "19/05/2026",
+      "Registered": "09/06/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/outdoor-recreation-and-access-to-nature.htm",
   "categories": [
     "Sport, Recreation & Physical Activity",
     "Environment, Climate & Sustainability"

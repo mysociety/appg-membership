@@ -35,7 +35,7 @@
     "source_url": [
       "https://www.c-r-y.org.uk/appg/"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Amanda Hack",
@@ -43,7 +43,7 @@
         "member_type": "mp",
         "mnis_id": "5149",
         "twfy_id": "uk.org.publicwhip/person/26449",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Polak",
@@ -51,7 +51,7 @@
         "member_type": "lord",
         "mnis_id": "4547",
         "twfy_id": "uk.org.publicwhip/person/25457",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Beamish",
@@ -59,7 +59,7 @@
         "member_type": "lord",
         "mnis_id": "1438",
         "twfy_id": "uk.org.publicwhip/person/11003",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Michelle Scrogham",
@@ -228,6 +228,30 @@
         "mnis_id": "5237",
         "twfy_id": "uk.org.publicwhip/person/26350",
         "removed": true
+      },
+      {
+        "name": "Polak",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Beamish",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Douglas Lumsden",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5450",
+        "twfy_id": "uk.org.publicwhip/person/26001",
+        "removed": false
       }
     ]
   },
@@ -260,8 +284,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/cardiac-risk-in-the-young.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/cardiac-risk-in-the-young.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

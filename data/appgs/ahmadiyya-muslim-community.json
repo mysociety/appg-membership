@@ -43,7 +43,7 @@
     "source_url": [
       "https://appg-ahmadiyyamuslim.org.uk/"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Dame Siobhain McDonagh",
@@ -51,7 +51,7 @@
         "member_type": "mp",
         "mnis_id": "193",
         "twfy_id": "uk.org.publicwhip/person/10381",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sir Edward Davey",
@@ -59,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "188",
         "twfy_id": "uk.org.publicwhip/person/10155",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Greg Stafford",
@@ -163,7 +163,7 @@
         "member_type": "lord",
         "mnis_id": "738",
         "twfy_id": "uk.org.publicwhip/person/13103",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Tope",
@@ -171,7 +171,7 @@
         "member_type": "lord",
         "mnis_id": "1703",
         "twfy_id": "uk.org.publicwhip/person/13542",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Dholakia",
@@ -179,7 +179,7 @@
         "member_type": "lord",
         "mnis_id": "2685",
         "twfy_id": "uk.org.publicwhip/person/13662",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Clive Betts",
@@ -331,7 +331,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Chris Grayling",
@@ -339,7 +339,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Siobhain McDonagh",
@@ -347,7 +347,7 @@
         "member_type": "mp",
         "mnis_id": "193",
         "twfy_id": "uk.org.publicwhip/person/10381",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Edward Davey",
@@ -355,7 +355,7 @@
         "member_type": "mp",
         "mnis_id": "188",
         "twfy_id": "uk.org.publicwhip/person/10155",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Rupa Huq",
@@ -412,6 +412,46 @@
         "mnis_id": "5157",
         "twfy_id": "uk.org.publicwhip/person/26429",
         "removed": false
+      },
+      {
+        "name": "Alton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tope",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Dholakia",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ahmad of Wimbledon",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Chris Grayling",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1413",
+        "twfy_id": "uk.org.publicwhip/person/10920",
+        "removed": false
       }
     ]
   },
@@ -444,8 +484,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/ahmadiyya-muslim-community.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/ahmadiyya-muslim-community.htm",
   "categories": [
     "Religion, Faith & Belief Communities",
     "Human Rights, Equality & Social Justice"

@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.urbantransportgroup.org/local-transport-appg"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Clive Betts",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": "333",
         "twfy_id": "uk.org.publicwhip/person/10397",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alex Sobel",
@@ -203,6 +203,22 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "the Lord McLoughlin",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "333",
+        "twfy_id": "uk.org.publicwhip/person/10397",
+        "removed": false
+      },
+      {
+        "name": "the Lord Brady of Altrincham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -227,8 +243,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/local-transport.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/local-transport.htm",
   "categories": [
     "Infrastructure, Transport & Mobility"
   ]

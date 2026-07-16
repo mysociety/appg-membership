@@ -8,7 +8,7 @@
     {
       "role": "Chair & Registered Contact",
       "name": "Jeremy Corbyn",
-      "party": "Independent",
+      "party": "Your Party",
       "twfy_id": "uk.org.publicwhip/person/10133",
       "mnis_id": "185",
       "removed": false
@@ -39,10 +39,45 @@
     }
   ],
   "members_list": {
-    "source_method": "not_found",
-    "source_url": [],
-    "last_updated": "2026-02-04",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://sites.google.com/site/thechagosarchipelagofacts/parliamentary-group"
+    ],
+    "last_updated": "2026-07-16",
+    "members": [
+      {
+        "name": "Jeremy Corbyn",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "185",
+        "twfy_id": "uk.org.publicwhip/person/10133",
+        "removed": false
+      },
+      {
+        "name": "David Snoxell",
+        "is_officer": true,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mike Salem",
+        "is_officer": true,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Richard Gifford",
+        "is_officer": true,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Jeremy Corbyn MP",
@@ -64,8 +99,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/chagos-british-indian-ocean-territory.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/chagos-british-indian-ocean-territory.htm",
   "categories": [
     "Country Group"
   ]

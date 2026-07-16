@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Mr James Frith",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25622",
-      "mnis_id": "4637",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Michelle Scrogham",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26322",
       "mnis_id": "5049",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Susan Murray",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26429",
+      "mnis_id": "5157",
       "removed": false
     }
   ],
@@ -57,24 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-01-08",
+    "date_of_most_recent_agm": "2026-05-20",
     "published_income_expenditure_statement": false,
     "reporting_year": "08 Jan to 07 Jan",
-    "next_reporting_deadline": "2026-05-08"
+    "next_reporting_deadline": "2027-05-08"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "PANS PANDAS UK",
-      "Description": "Secretariat From: 08/01/2025 To: 07/01/2026",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "08/01/2025",
-      "Registered": "08/01/2025",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/pans-pandas.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/pans-pandas.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

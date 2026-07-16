@@ -39,10 +39,45 @@
     }
   ],
   "members_list": {
-    "source_method": "not_found",
-    "source_url": [],
-    "last_updated": "2026-04-27",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://blogs.soas.ac.uk/cop/tigi-appg/"
+    ],
+    "last_updated": "2026-07-16",
+    "members": [
+      {
+        "name": "Paul Kohler",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5321",
+        "twfy_id": "uk.org.publicwhip/person/26570",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Lord Balfe",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4302",
+        "twfy_id": "uk.org.publicwhip/person/25209",
+        "removed": false
+      },
+      {
+        "name": "Neil Duncan Jordan",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5359",
+        "twfy_id": "uk.org.publicwhip/person/26633",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Mr Paul Kohler MP",
@@ -73,8 +108,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/intergenerational-inquiry.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/intergenerational-inquiry.htm",
   "categories": [
     "Governance, Democracy & Political Reform",
     "Education, Skills & Youth"

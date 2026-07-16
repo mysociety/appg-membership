@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appgifffs.org/about-us/members"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Alastair Carmichael",
@@ -515,7 +515,7 @@
         "member_type": "mp",
         "mnis_id": "5269",
         "twfy_id": "uk.org.publicwhip/person/26435",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lee Pitcher",
@@ -588,6 +588,14 @@
         "mnis_id": "55",
         "twfy_id": "uk.org.publicwhip/person/10580",
         "removed": false
+      },
+      {
+        "name": "Dr. Lauren Sullivan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5269",
+        "twfy_id": "uk.org.publicwhip/person/26435",
+        "removed": false
       }
     ]
   },
@@ -611,8 +619,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/investment-fraud-and-fairer-financial-services.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/investment-fraud-and-fairer-financial-services.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

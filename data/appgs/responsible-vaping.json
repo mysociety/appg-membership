@@ -39,17 +39,52 @@
     }
   ],
   "members_list": {
-    "source_method": "not_found",
-    "source_url": [],
-    "last_updated": "2026-04-27",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://responsiblevapingappg.org/members/"
+    ],
+    "last_updated": "2026-07-16",
+    "members": [
+      {
+        "name": "Euan Stainbank",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5110",
+        "twfy_id": "uk.org.publicwhip/person/26407",
+        "removed": false
+      },
+      {
+        "name": "Mary Glindon",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4126",
+        "twfy_id": "uk.org.publicwhip/person/24927",
+        "removed": false
+      },
+      {
+        "name": "Naseby",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Brady",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4339",
+        "twfy_id": "uk.org.publicwhip/person/25249",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Euan Stainbank MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "euan.stainbank.mp@parliament.uk",
     "public_enquiry_point_name": "Independent British Vape Trade Association. Tel: 020 3909 8080",
-    "public_enquiry_point_email": "info@responsiblevapingappg.org",
+    "public_enquiry_point_email": "matthew@responsiblevapingappg.org",
     "secretariat": "Independent British Vape Trade Association acts as the group's secretariat.https://www.ibvta.org.uk/",
     "website": {
       "status": "register",
@@ -73,8 +108,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/responsible-vaping.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/responsible-vaping.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

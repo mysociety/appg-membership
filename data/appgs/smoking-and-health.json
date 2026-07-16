@@ -32,7 +32,7 @@
     {
       "role": "Vice Chair",
       "name": "Lord Rennard",
-      "party": "Non-affiliated",
+      "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13277",
       "mnis_id": "2484",
       "removed": false
@@ -43,7 +43,7 @@
     "source_url": [
       "https://ash.org.uk/about/who-we-work-with/appg/appg-members"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Bob Blackman CBE",
@@ -244,6 +244,14 @@
         "mnis_id": "5415",
         "twfy_id": "uk.org.publicwhip/person/26696",
         "removed": false
+      },
+      {
+        "name": "Lorraine Beavers",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5232",
+        "twfy_id": "uk.org.publicwhip/person/26475",
+        "removed": false
       }
     ]
   },
@@ -290,10 +298,18 @@
       "Received": "14/10/2025",
       "Registered": "05/11/2025",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Action on Smoking and Health (ASH)",
+      "Description": "50th anniversary event",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "04/06/2026",
+      "Registered": "08/06/2026",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/smoking-and-health.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/smoking-and-health.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"

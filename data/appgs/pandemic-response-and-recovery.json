@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgpandemic.org/about"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Graham Stringer",
@@ -163,7 +163,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Morrissey",
@@ -187,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": "4937",
         "twfy_id": "uk.org.publicwhip/person/26060",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Fox of Buckley",
@@ -332,6 +332,22 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": true
+      },
+      {
+        "name": "Baroness Hoey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "210",
+        "twfy_id": "uk.org.publicwhip/person/10282",
+        "removed": false
+      },
+      {
+        "name": "Carla Lockhart",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4857",
+        "twfy_id": "uk.org.publicwhip/person/25562",
+        "removed": false
       }
     ]
   },
@@ -355,8 +371,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/pandemic-response-and-recovery.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/pandemic-response-and-recovery.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"

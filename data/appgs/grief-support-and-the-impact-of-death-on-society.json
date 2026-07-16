@@ -7,18 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Maureen Burke",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26455",
-      "mnis_id": "5137",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Lord Evans of Rainow",
-      "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "name": "Christine Jardine",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/25675",
+      "mnis_id": "4634",
       "removed": false
     },
     {
@@ -31,10 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Christine Jardine",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25675",
-      "mnis_id": "4634",
+      "name": "Maureen Burke",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26455",
+      "mnis_id": "5137",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Popat",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/24995",
+      "mnis_id": "4173",
       "removed": false
     }
   ],
@@ -45,9 +45,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Maureen Burke MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "maureen.burke.mp@parliament.uk",
+    "registered_contact_name": "Christine Jardine MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 1701.",
+    "registered_contact_email": "christine.jardine.mp@parliament.uk",
     "public_enquiry_point_name": "Daniel Sparshott, AtaLoss. Tel: 07355 200543",
     "public_enquiry_point_email": "appg.griefsupport@ataloss.org",
     "secretariat": "AtaLoss acts as the group's secretariat.https://www.ataloss.org/",
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-03-19",
+    "date_of_most_recent_agm": "2026-05-20",
     "published_income_expenditure_statement": false,
     "reporting_year": "19 Mar to 18 Mar",
-    "next_reporting_deadline": "2026-07-19"
+    "next_reporting_deadline": "2027-07-19"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "AtaLoss",
-      "Description": "Secretariat From: 19/03/2025 To: 18/03/2026",
+      "Description": "Secretariat From: 19/03/2026 To: 18/03/2027",
       "Value £s In bands of £1,500": "10,501-12,000",
-      "Received": "19/03/2025",
-      "Registered": "24/03/2025",
+      "Received": "19/03/2026",
+      "Registered": "03/06/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/grief-support-and-the-impact-of-death-on-society.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/grief-support-and-the-impact-of-death-on-society.htm",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Health, Medicine & Public Health"

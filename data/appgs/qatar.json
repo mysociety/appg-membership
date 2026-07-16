@@ -15,18 +15,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Baroness Warsi",
-      "party": "Non-affiliated",
-      "twfy_id": "uk.org.publicwhip/person/13937",
-      "mnis_id": "3839",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Paul Holmes",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25808",
       "mnis_id": "4803",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Baroness Warsi",
+      "party": "Non-affiliated",
+      "twfy_id": "uk.org.publicwhip/person/13937",
+      "mnis_id": "3839",
       "removed": false
     },
     {
@@ -57,24 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-04-30",
+    "date_of_most_recent_agm": "2026-05-21",
     "published_income_expenditure_statement": false,
     "reporting_year": "30 Apr to 29 Apr",
-    "next_reporting_deadline": "2026-08-30"
+    "next_reporting_deadline": "2027-08-30"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Asia House",
-      "Description": "Secretariat (originally registered 07/05/2025) From: 30/04/2025 To: 04/03/2026",
-      "Value £s In bands of £1,500": "22,501-24,000",
-      "Received": "30/04/2025",
-      "Registered": "04/03/2026",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/qatar.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/qatar.htm",
   "categories": [
     "Country Group"
   ]

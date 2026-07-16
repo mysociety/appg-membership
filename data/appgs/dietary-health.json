@@ -43,7 +43,7 @@
     "source_url": [
       "https://obesityhealthalliance.org.uk/appg/"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Marie Goldman",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Joan Walmsley",
@@ -75,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Simon Opher",
@@ -83,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ben Coleman",
@@ -163,7 +163,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Tanni Grey-Thompson",
@@ -171,7 +171,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Cathy Bakewell",
@@ -179,7 +179,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Alison Suttie",
@@ -187,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "John Krebs",
@@ -195,7 +195,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Rosie Boycott",
@@ -203,7 +203,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Clive Brooke",
@@ -211,7 +211,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Anne Jenkin",
@@ -219,7 +219,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Joan Walmsley",
@@ -227,7 +227,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Natalie Bennett",
@@ -235,7 +235,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tanni Grey-Thompson",
@@ -243,7 +243,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Cathy Bakewell",
@@ -251,7 +251,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alison Suttie",
@@ -259,7 +259,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rosie Boycott",
@@ -267,7 +267,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Clive Brooke",
@@ -275,7 +275,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Andrew George",
@@ -295,6 +295,30 @@
       },
       {
         "name": "Sharron Davies",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Dr Simon Opher",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5030",
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
+      },
+      {
+        "name": "Lord John Krebs",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Sharron Davies",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -332,8 +356,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/dietary-health.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/dietary-health.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Food, Agriculture & Rural Affairs"

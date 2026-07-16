@@ -15,10 +15,10 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Lord Goddard of Stockport",
-      "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "name": "Elaine Stewart",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26598",
+      "mnis_id": "5206",
       "removed": false
     },
     {
@@ -28,12 +28,20 @@
       "twfy_id": "uk.org.publicwhip/person/25066",
       "mnis_id": "4241",
       "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Hendy",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25780",
+      "mnis_id": "4723",
+      "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "APPG Officer and Chairman Bob Blackman CBE MP",
@@ -361,12 +369,12 @@
     "registered_contact_name": "Bob Blackman MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7082.",
     "registered_contact_email": "bob.blackman.mp@parliament.uk",
-    "public_enquiry_point_name": "Ronnie King, Office of Lord Hendy. Tel: 07836266614",
-    "public_enquiry_point_email": "kingrb@parliament.uk",
-    "secretariat": null,
+    "public_enquiry_point_name": "Steve McGuirk. Tel: 07776297780",
+    "public_enquiry_point_email": "mcguirk.steve@googlemail.com",
+    "secretariat": "Steve McGuirk acts as the group's secretariat.",
     "website": {
       "status": "register",
-      "url": "https://firesafetyrescueappg.co.uk/"
+      "url": "https://firesectorconfederation.co.uk/appg-for-fire-safety-and-rescue/"
     }
   },
   "agm": {
@@ -392,8 +400,8 @@
       "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/fire-safety-and-rescue.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/fire-safety-and-rescue.htm",
   "categories": [
     "Justice, Law & Security",
     "Housing, Planning & Built Environment"

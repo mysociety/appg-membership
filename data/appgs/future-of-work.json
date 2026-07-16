@@ -39,10 +39,117 @@
     }
   ],
   "members_list": {
-    "source_method": "not_found",
-    "source_url": [],
-    "last_updated": "2026-04-27",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://www.futureworkappg.org.uk/about"
+    ],
+    "last_updated": "2026-07-16",
+    "members": [
+      {
+        "name": "Justin Madders",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4418",
+        "twfy_id": "uk.org.publicwhip/person/25378",
+        "removed": false
+      },
+      {
+        "name": "Knight of Weymouth",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Johnson of Marylebone",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Patrick Hurley",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5052",
+        "twfy_id": "uk.org.publicwhip/person/26463",
+        "removed": false
+      },
+      {
+        "name": "Andrew Pakes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5243",
+        "twfy_id": "uk.org.publicwhip/person/26601",
+        "removed": false
+      },
+      {
+        "name": "Kirsty Blackman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4357",
+        "twfy_id": "uk.org.publicwhip/person/25314",
+        "removed": false
+      },
+      {
+        "name": "Clement-Jones",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Manzila Pola Uddin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Clive Lewis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4500",
+        "twfy_id": "uk.org.publicwhip/person/25356",
+        "removed": false
+      },
+      {
+        "name": "Prosser",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3684",
+        "twfy_id": "uk.org.publicwhip/person/13475",
+        "removed": false
+      },
+      {
+        "name": "Liam Byrne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1171",
+        "twfy_id": "uk.org.publicwhip/person/11360",
+        "removed": false
+      },
+      {
+        "name": "Richard Layard",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "David Davis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "373",
+        "twfy_id": "uk.org.publicwhip/person/10162",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Justin Madders MP",
@@ -73,8 +180,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/future-of-work.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/future-of-work.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

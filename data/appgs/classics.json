@@ -43,7 +43,7 @@
     "source_url": [
       "https://classicalassociation.org/all-party-parliamentary-group-for-classics/"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Dr Peter Swallow",
@@ -51,7 +51,7 @@
         "member_type": "mp",
         "mnis_id": "5165",
         "twfy_id": "uk.org.publicwhip/person/26369",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Katie Lam",
@@ -268,6 +268,14 @@
         "mnis_id": "5134",
         "twfy_id": "uk.org.publicwhip/person/26391",
         "removed": false
+      },
+      {
+        "name": "Peter Swallow",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5165",
+        "twfy_id": "uk.org.publicwhip/person/26369",
+        "removed": false
       }
     ]
   },
@@ -291,8 +299,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/classics.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/classics.htm",
   "categories": [
     "Education, Skills & Youth",
     "Arts, Culture, Heritage & Media"

@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.longcovid.org/impact/appg-on-long-covid"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Jo Platt",
@@ -75,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": "4204",
         "twfy_id": "uk.org.publicwhip/person/25026",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tonia Antoniazzi",
@@ -251,7 +251,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Grey-Thompson",
@@ -259,7 +259,7 @@
         "member_type": "lord",
         "mnis_id": "3862",
         "twfy_id": "uk.org.publicwhip/person/24707",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Harris of Richmond",
@@ -267,7 +267,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hodgson of Abinger",
@@ -275,7 +275,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Nuala O'Loan",
@@ -283,7 +283,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Watkins of Tavistock",
@@ -291,7 +291,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Earl of Clancarty",
@@ -355,7 +355,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Strasburger",
@@ -363,7 +363,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Finlay of Llandaff",
@@ -371,7 +371,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Grey-Thompson",
@@ -379,7 +379,7 @@
         "member_type": "lord",
         "mnis_id": "3862",
         "twfy_id": "uk.org.publicwhip/person/24707",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Harris of Richmond",
@@ -387,7 +387,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Hodgson of Abinger",
@@ -395,7 +395,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Nuala O'Loan",
@@ -403,7 +403,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Watkins of Tavistock",
@@ -411,7 +411,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Earl of Clancarty",
@@ -427,7 +427,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -451,8 +451,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/long-covid.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/long-covid.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

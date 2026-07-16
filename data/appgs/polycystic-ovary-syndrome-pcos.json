@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.pcosappg.co.uk/about"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Michelle Welsh",
@@ -75,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Anne Davies",
@@ -219,6 +219,14 @@
         "member_type": "mp",
         "mnis_id": "5108",
         "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
+      },
+      {
+        "name": "Sir Alec Shelbrooke",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "3997",
+        "twfy_id": "uk.org.publicwhip/person/24893",
         "removed": false
       }
     ]

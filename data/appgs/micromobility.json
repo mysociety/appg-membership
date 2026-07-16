@@ -15,26 +15,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Lord Shinkwin",
+      "name": "Baroness Grey-Thompson",
+      "party": "Crossbench",
+      "twfy_id": "uk.org.publicwhip/person/24707",
+      "mnis_id": "3862",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Balfe",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25470",
-      "mnis_id": "4557",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "David Burton-Sampson",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26442",
-      "mnis_id": "5106",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Rachel Blake",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26546",
-      "mnis_id": "5257",
+      "twfy_id": "uk.org.publicwhip/person/25209",
+      "mnis_id": "4302",
       "removed": false
     }
   ],
@@ -48,33 +40,33 @@
     "registered_contact_name": "Alex Mayer MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "alex.mayer.mp@parliament.uk",
-    "public_enquiry_point_name": "Harry Foskin, Voi Technology",
-    "public_enquiry_point_email": "harry.foskin@voi.com",
-    "secretariat": "Voi Technology acts as the group's secretariat.https://voi.com/",
+    "public_enquiry_point_name": "Anna Lewis, CoMoUK",
+    "public_enquiry_point_email": "anna@como.org.uk",
+    "secretariat": "CoMoUK acts as the group's secretariat.https://www.como.org.uk/",
     "website": {
       "status": "no_search",
       "url": null
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-01-28",
+    "date_of_most_recent_agm": "2026-05-19",
     "published_income_expenditure_statement": false,
     "reporting_year": "28 Jan to 27 Jan",
-    "next_reporting_deadline": "2026-05-28"
+    "next_reporting_deadline": "2027-05-28"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
-      "Source": "Voi Technology",
-      "Description": "Secretariat From: 28/01/2025 To: 27/01/2026",
-      "Value £s In bands of £1,500": "6,001-7,500",
-      "Received": "28/01/2025",
-      "Registered": "14/02/2025",
+      "Source": "CoMoUK",
+      "Description": "CoMoUKis paid by the following to act as the group's secretariat: Lime, Beryl, Tier/Dott, Voi, Bolt, Forest, Serco, Tripy Mobility. From: 28/01/2026 To: 27/01/2027",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "28/01/2026",
+      "Registered": "27/05/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/micromobility.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/micromobility.htm",
   "categories": [
     "Infrastructure, Transport & Mobility",
     "Environment, Climate & Sustainability"

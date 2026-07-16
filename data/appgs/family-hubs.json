@@ -15,18 +15,18 @@
     },
     {
       "role": "Officer",
-      "name": "Chris Bloore",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26357",
-      "mnis_id": "5109",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Rebecca Paul",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26466",
       "mnis_id": "5297",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Chris Bloore",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26357",
+      "mnis_id": "5109",
       "removed": false
     },
     {
@@ -39,10 +39,45 @@
     }
   ],
   "members_list": {
-    "source_method": "not_found",
-    "source_url": [],
-    "last_updated": "2025-09-16",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://www.familyhubsappg.org.uk/about/"
+    ],
+    "last_updated": "2026-07-16",
+    "members": [
+      {
+        "name": "Tom Collins",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5087",
+        "twfy_id": "uk.org.publicwhip/person/26351",
+        "removed": false
+      },
+      {
+        "name": "Lord Farmer",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4321",
+        "twfy_id": "uk.org.publicwhip/person/25233",
+        "removed": false
+      },
+      {
+        "name": "Chris Bloore",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5109",
+        "twfy_id": "uk.org.publicwhip/person/26357",
+        "removed": false
+      },
+      {
+        "name": "Rebecca Paul",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5297",
+        "twfy_id": "uk.org.publicwhip/person/26466",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Tom Collins MP",
@@ -53,28 +88,28 @@
     "secretariat": "Spurgeons acts as the group's secretariat.https://spurgeons.org/",
     "website": {
       "status": "register",
-      "url": "https://spurgeons.org/about-us/advocacy-for-children-and-families/appg-spurgeons/"
+      "url": "https://www.familyhubsappg.org.uk/"
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-02-05",
+    "date_of_most_recent_agm": "2026-05-20",
     "published_income_expenditure_statement": false,
     "reporting_year": "05 Feb to 04 Feb",
-    "next_reporting_deadline": "2026-06-05"
+    "next_reporting_deadline": "2027-06-05"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Spurgeons",
-      "Description": "Secretariat From: 05/02/2025 To: 04/02/2026",
+      "Description": "Secretariat From: 05/02/2026 To: 04/02/2027",
       "Value £s In bands of £1,500": "6,001-7,500",
-      "Received": "05/02/2025",
-      "Registered": "27/02/2025",
+      "Received": "05/02/2026",
+      "Registered": "01/06/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/family-hubs.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/family-hubs.htm",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Education, Skills & Youth"

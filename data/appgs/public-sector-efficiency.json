@@ -28,6 +28,14 @@
       "twfy_id": null,
       "mnis_id": null,
       "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Joy Morrissey",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25878",
+      "mnis_id": "4759",
+      "removed": false
     }
   ],
   "members_list": {
@@ -35,7 +43,7 @@
     "source_url": [
       "https://appgpse.org.uk/membership/"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Josh Newbury",
@@ -59,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Bailey of Paddington",
@@ -67,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mike Reader",
@@ -99,7 +107,7 @@
         "member_type": "lord",
         "mnis_id": "5016",
         "twfy_id": "uk.org.publicwhip/person/26294",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dr Neil Shastri-Hurst",
@@ -107,7 +115,7 @@
         "member_type": "mp",
         "mnis_id": "5197",
         "twfy_id": "uk.org.publicwhip/person/26437",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jayne Kirkham",
@@ -123,7 +131,7 @@
         "member_type": "lord",
         "mnis_id": "4909",
         "twfy_id": "uk.org.publicwhip/person/25976",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon. the Lord Lancaster of Kimbolton",
@@ -139,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Joe Powell",
@@ -179,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Greg Stafford",
@@ -207,6 +215,78 @@
       },
       {
         "name": "The Lord Lancaster of Kimbolton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Joy Morrisey",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4759",
+        "twfy_id": "uk.org.publicwhip/person/25878",
+        "removed": false
+      },
+      {
+        "name": "Jackson of Peterborough",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bailey of Paddington",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Booth",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Neil Shastri-Hurst",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5197",
+        "twfy_id": "uk.org.publicwhip/person/26437",
+        "removed": false
+      },
+      {
+        "name": "Kamall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lancaster of Kimbolton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Banner KC",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Black of Brentwood",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -276,8 +356,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/public-sector-efficiency.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/public-sector-efficiency.htm",
   "categories": [
     "Governance, Democracy & Political Reform"
   ]

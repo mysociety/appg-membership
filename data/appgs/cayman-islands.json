@@ -62,10 +62,19 @@
     "reporting_year": "07 May to 06 May",
     "next_reporting_deadline": "2026-09-07"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/cayman-islands.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Cayman Islands Government Office in the UK",
+      "Description": "Reception",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "25/11/2025",
+      "Registered": "25/06/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/cayman-islands.htm",
   "categories": [
     "Country Group"
   ]

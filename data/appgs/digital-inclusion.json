@@ -39,10 +39,366 @@
     }
   ],
   "members_list": {
-    "source_method": "not_found",
-    "source_url": [],
-    "last_updated": "2026-04-27",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://www.datapovertyappg.co.uk/parliamentary-members",
+      "https://www.datapovertyappg.co.uk/industry-partners"
+    ],
+    "last_updated": "2026-07-16",
+    "members": [
+      {
+        "name": "Daniel Aldridge",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5172",
+        "twfy_id": "uk.org.publicwhip/person/26453",
+        "removed": false
+      },
+      {
+        "name": "Sarah Hall",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5154",
+        "twfy_id": "uk.org.publicwhip/person/26416",
+        "removed": false
+      },
+      {
+        "name": "Baroness Verma",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "3790",
+        "twfy_id": "uk.org.publicwhip/person/13730",
+        "removed": false
+      },
+      {
+        "name": "Tim Clement-Jones",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Cox",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3364",
+        "twfy_id": "uk.org.publicwhip/person/13559",
+        "removed": false
+      },
+      {
+        "name": "Baroness Goudie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3575",
+        "twfy_id": "uk.org.publicwhip/person/12915",
+        "removed": false
+      },
+      {
+        "name": "Lord Kamall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4909",
+        "twfy_id": "uk.org.publicwhip/person/25976",
+        "removed": false
+      },
+      {
+        "name": "Elsie Blundell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5084",
+        "twfy_id": "uk.org.publicwhip/person/26481",
+        "removed": false
+      },
+      {
+        "name": "Lord Truscott",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3682",
+        "twfy_id": "uk.org.publicwhip/person/12845",
+        "removed": false
+      },
+      {
+        "name": "Baroness Lister of Burtersett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Blunkett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "395",
+        "twfy_id": "uk.org.publicwhip/person/10050",
+        "removed": false
+      },
+      {
+        "name": "Claire Hughes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5113",
+        "twfy_id": "uk.org.publicwhip/person/26393",
+        "removed": false
+      },
+      {
+        "name": "Siobhain McDonagh",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "193",
+        "twfy_id": "uk.org.publicwhip/person/10381",
+        "removed": false
+      },
+      {
+        "name": "Jamie Stone",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4612",
+        "twfy_id": "uk.org.publicwhip/person/25668",
+        "removed": false
+      },
+      {
+        "name": "Baroness Kennedy of Cradley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Liz Saville Roberts",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4521",
+        "twfy_id": "uk.org.publicwhip/person/25302",
+        "removed": false
+      },
+      {
+        "name": "Grahame Morris",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3973",
+        "twfy_id": "uk.org.publicwhip/person/24715",
+        "removed": false
+      },
+      {
+        "name": "Nav Mishra",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4811",
+        "twfy_id": "uk.org.publicwhip/person/25836",
+        "removed": false
+      },
+      {
+        "name": "Lord Watson of Wyre Forest",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Colum Eastwood",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4846",
+        "twfy_id": "uk.org.publicwhip/person/25130",
+        "removed": false
+      },
+      {
+        "name": "Lord Knight of Weymouth",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Lucas",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1879",
+        "twfy_id": "uk.org.publicwhip/person/13301",
+        "removed": false
+      },
+      {
+        "name": "Sarah Dyke",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4995",
+        "twfy_id": "uk.org.publicwhip/person/26270",
+        "removed": false
+      },
+      {
+        "name": "Luke Charters",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5199",
+        "twfy_id": "uk.org.publicwhip/person/26480",
+        "removed": false
+      },
+      {
+        "name": "Leigh Ingham",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5290",
+        "twfy_id": "uk.org.publicwhip/person/26392",
+        "removed": false
+      },
+      {
+        "name": "Sadik Al-Hassan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5312",
+        "twfy_id": "uk.org.publicwhip/person/26527",
+        "removed": false
+      },
+      {
+        "name": "Julie Minns",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5094",
+        "twfy_id": "uk.org.publicwhip/person/26403",
+        "removed": false
+      },
+      {
+        "name": "Tan Dhesi",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4638",
+        "twfy_id": "uk.org.publicwhip/person/25695",
+        "removed": false
+      },
+      {
+        "name": "Maya Ellis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5228",
+        "twfy_id": "uk.org.publicwhip/person/26479",
+        "removed": false
+      },
+      {
+        "name": "Kirsty Blackman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4357",
+        "twfy_id": "uk.org.publicwhip/person/25314",
+        "removed": false
+      },
+      {
+        "name": "Dave Robertson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5126",
+        "twfy_id": "uk.org.publicwhip/person/26374",
+        "removed": false
+      },
+      {
+        "name": "Karen Bradley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4110",
+        "twfy_id": "uk.org.publicwhip/person/24725",
+        "removed": false
+      },
+      {
+        "name": "Baroness Elliott of Whitburn Bay",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Barry Gardiner",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "146",
+        "twfy_id": "uk.org.publicwhip/person/10220",
+        "removed": false
+      },
+      {
+        "name": "Lord Hall of Birkenhead",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Gill German",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5104",
+        "twfy_id": "uk.org.publicwhip/person/26394",
+        "removed": false
+      },
+      {
+        "name": "BT Group",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "VodafoneThree",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Virgin Money",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Nominet",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Virgin Media",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Digital Poverty Alliance",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jisc",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Good Things Foundation",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Dan Aldridge MP",
@@ -73,8 +429,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/digital-inclusion.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/digital-inclusion.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

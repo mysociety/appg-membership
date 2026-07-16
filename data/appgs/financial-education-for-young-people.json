@@ -6,6 +6,14 @@
   "parliament": "uk",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Andrew Ranger",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26336",
+      "mnis_id": "5046",
+      "removed": false
+    },
+    {
       "role": "Co-Chair",
       "name": "John Glen",
       "party": "Conservative",
@@ -37,9 +45,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Andrew Ranger MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 8995.",
+    "registered_contact_email": "andrew.ranger.mp@parliament.uk",
     "public_enquiry_point_name": "Alice Clarke, Young Enterprise. Tel: 0207 549 1980",
     "public_enquiry_point_email": "appg@y-e.org.uk",
     "secretariat": "Young Enterprise acts as the group's secretariat.https://www.young-enterprise.org.uk/",
@@ -65,8 +73,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/financial-education-for-young-people.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/financial-education-for-young-people.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

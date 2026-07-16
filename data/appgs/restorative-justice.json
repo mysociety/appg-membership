@@ -31,10 +31,45 @@
     }
   ],
   "members_list": {
-    "source_method": "not_found",
-    "source_url": [],
-    "last_updated": "2026-02-04",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://rjappg.co.uk/about/"
+    ],
+    "last_updated": "2026-07-16",
+    "members": [
+      {
+        "name": "Gavin Robinson",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4360",
+        "twfy_id": "uk.org.publicwhip/person/25280",
+        "removed": false
+      },
+      {
+        "name": "John Slinger",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5127",
+        "twfy_id": "uk.org.publicwhip/person/26564",
+        "removed": false
+      },
+      {
+        "name": "Baroness Jones of Moulsecoomb",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jeremy Wright",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1560",
+        "twfy_id": "uk.org.publicwhip/person/11791",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Gavin Robinson MP",

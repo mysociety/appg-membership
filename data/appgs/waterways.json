@@ -28,14 +28,6 @@
       "twfy_id": "uk.org.publicwhip/person/25342",
       "mnis_id": "4358",
       "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Uma Kumaran",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26542",
-      "mnis_id": "5278",
-      "removed": false
     }
   ],
   "members_list": {
@@ -43,7 +35,7 @@
     "source_url": [
       "https://waterways.org.uk/about-us/all-party-parliamentary-group-for-the-waterways"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Bill Esterson",
@@ -276,6 +268,14 @@
         "mnis_id": "5324",
         "twfy_id": "uk.org.publicwhip/person/26571",
         "removed": false
+      },
+      {
+        "name": "Baroness Jenny Jones of Moulsecoomb",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -299,8 +299,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/waterways.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/waterways.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

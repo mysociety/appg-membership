@@ -23,10 +23,10 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Kate Osamor",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25365",
-      "mnis_id": "4515",
+      "name": "James Asser",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26594",
+      "mnis_id": "5211",
       "removed": false
     },
     {
@@ -39,10 +39,45 @@
     }
   ],
   "members_list": {
-    "source_method": "not_found",
-    "source_url": [],
-    "last_updated": "2026-04-27",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://appg-tb.org.uk/about/"
+    ],
+    "last_updated": "2026-07-16",
+    "members": [
+      {
+        "name": "Sojan Joseph",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5247",
+        "twfy_id": "uk.org.publicwhip/person/26578",
+        "removed": false
+      },
+      {
+        "name": "Lord Nick Herbert",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Kate Osamor",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4515",
+        "twfy_id": "uk.org.publicwhip/person/25365",
+        "removed": false
+      },
+      {
+        "name": "Baroness Suttie",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4298",
+        "twfy_id": "uk.org.publicwhip/person/25198",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Sojan Joseph MP",
@@ -57,24 +92,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-03-24",
+    "date_of_most_recent_agm": "2026-06-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "24 Mar to 23 Mar",
-    "next_reporting_deadline": "2026-07-24"
+    "next_reporting_deadline": "2027-07-24"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Results UK",
-      "Description": "Secretariat From: 24/03/2025 To: 23/03/2026",
-      "Value £s In bands of £1,500": "12,001-13,500",
-      "Received": "24/03/2025",
-      "Registered": "31/03/2025",
+      "Description": "Secretariat From: 24/03/2026 To: 23/03/2027",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "24/03/2026",
+      "Registered": "10/06/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/global-tuberculosis.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/global-tuberculosis.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "International Affairs, Development & Trade"

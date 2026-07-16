@@ -7,10 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Sam Rushworth",
+      "name": "Andy Slaughter",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26323",
-      "mnis_id": "5108",
+      "twfy_id": "uk.org.publicwhip/person/11559",
+      "mnis_id": "1516",
       "removed": false
     },
     {
@@ -22,11 +22,11 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "Kit Malthouse",
+      "role": "Officer",
+      "name": "David Simmonds",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25346",
-      "mnis_id": "4495",
+      "twfy_id": "uk.org.publicwhip/person/25892",
+      "mnis_id": "4872",
       "removed": false
     },
     {
@@ -39,28 +39,223 @@
     }
   ],
   "members_list": {
-    "source_method": "not_found",
-    "source_url": [],
-    "last_updated": "2025-09-16",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://www.extraordinaryrendition.org/about/48-the-appg-on-extraordinary-rendition.html"
+    ],
+    "last_updated": "2026-07-16",
+    "members": [
+      {
+        "name": "Andy Slaughter",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1516",
+        "twfy_id": "uk.org.publicwhip/person/11559",
+        "removed": false
+      },
+      {
+        "name": "Lord Tyrie",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "112",
+        "twfy_id": "uk.org.publicwhip/person/10613",
+        "removed": false
+      },
+      {
+        "name": "Baroness Kramer",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "1557",
+        "twfy_id": "uk.org.publicwhip/person/11783",
+        "removed": false
+      },
+      {
+        "name": "David Simmonds",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4872",
+        "twfy_id": "uk.org.publicwhip/person/25892",
+        "removed": false
+      },
+      {
+        "name": "David Davis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "373",
+        "twfy_id": "uk.org.publicwhip/person/10162",
+        "removed": false
+      },
+      {
+        "name": "Fabian Hamilton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "415",
+        "twfy_id": "uk.org.publicwhip/person/10256",
+        "removed": false
+      },
+      {
+        "name": "Chris Law",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4403",
+        "twfy_id": "uk.org.publicwhip/person/25270",
+        "removed": false
+      },
+      {
+        "name": "Clive Lewis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4500",
+        "twfy_id": "uk.org.publicwhip/person/25356",
+        "removed": false
+      },
+      {
+        "name": "Douglas McAllister",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5057",
+        "twfy_id": "uk.org.publicwhip/person/26334",
+        "removed": false
+      },
+      {
+        "name": "Blair McDougall",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5076",
+        "twfy_id": "uk.org.publicwhip/person/26490",
+        "removed": false
+      },
+      {
+        "name": "Kit Malthouse",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4495",
+        "twfy_id": "uk.org.publicwhip/person/25346",
+        "removed": false
+      },
+      {
+        "name": "Rachael Maskell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4471",
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
+      },
+      {
+        "name": "Brendan O'Hara",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4371",
+        "twfy_id": "uk.org.publicwhip/person/25370",
+        "removed": false
+      },
+      {
+        "name": "Sam Rushworth",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5108",
+        "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
+      },
+      {
+        "name": "Alex Sobel",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4658",
+        "twfy_id": "uk.org.publicwhip/person/25680",
+        "removed": false
+      },
+      {
+        "name": "Henry Tufnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5121",
+        "twfy_id": "uk.org.publicwhip/person/26387",
+        "removed": false
+      },
+      {
+        "name": "Baroness Chakrabarti",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4579",
+        "twfy_id": "uk.org.publicwhip/person/25581",
+        "removed": false
+      },
+      {
+        "name": "Baroness D'Souza",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3709",
+        "twfy_id": "uk.org.publicwhip/person/13444",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hamwee",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2652",
+        "twfy_id": "uk.org.publicwhip/person/13422",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hodge",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "140",
+        "twfy_id": "uk.org.publicwhip/person/10281",
+        "removed": false
+      },
+      {
+        "name": "Baroness Ludford",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1867",
+        "twfy_id": "uk.org.publicwhip/person/13299",
+        "removed": false
+      },
+      {
+        "name": "Lord Pannick",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3870",
+        "twfy_id": "uk.org.publicwhip/person/14143",
+        "removed": false
+      },
+      {
+        "name": "Lord Sharkey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4196",
+        "twfy_id": "uk.org.publicwhip/person/25022",
+        "removed": false
+      },
+      {
+        "name": "Lord Young of Cookham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
-    "registered_contact_name": "Sam Rushworth MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "sam.rushworth.mp@parliament.uk",
+    "registered_contact_name": "Andy Slaughter MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 4990.",
+    "registered_contact_email": "slaughtera@parliament.uk",
     "public_enquiry_point_name": "Roger Gough, Office of Lord Tyrie",
     "public_enquiry_point_email": "goughr@parliament.uk",
-    "secretariat": null,
+    "secretariat": "Roger Gough acts as the group's secretariat.",
     "website": {
       "status": "register",
       "url": "https://www.extraordinaryrendition.org/"
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-03",
+    "date_of_most_recent_agm": "2026-06-01",
     "published_income_expenditure_statement": false,
     "reporting_year": "03 Dec to 02 Dec",
-    "next_reporting_deadline": "2026-04-03"
+    "next_reporting_deadline": "2027-04-03"
   },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
@@ -98,10 +293,24 @@
       "Received": "01/10/2025",
       "Registered": "15/12/2025",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Joseph Rowntree Charitable Trust",
+      "Value £s": "15,000",
+      "Received": "01/01/2026",
+      "Registered": "12/06/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Joseph Rowntree Charitable Trust",
+      "Value £s": "15,000",
+      "Received": "01/04/2026",
+      "Registered": "12/06/2026",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/extraordinary-rendition.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/extraordinary-rendition.htm",
   "categories": [
     "Justice, Law & Security",
     "Human Rights, Equality & Social Justice"

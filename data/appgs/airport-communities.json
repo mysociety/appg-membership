@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.airportcommunities.co.uk/"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Ruth Cadbury",
@@ -251,7 +251,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Blower",
@@ -299,7 +299,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mims Davies",
@@ -396,6 +396,22 @@
         "mnis_id": "5340",
         "twfy_id": "uk.org.publicwhip/person/26622",
         "removed": false
+      },
+      {
+        "name": "Randall of Uxbridge",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bryn Davies",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -428,8 +444,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/airport-communities.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/airport-communities.htm",
   "categories": [
     "Economy, Business & Industry",
     "Environment, Climate & Sustainability",

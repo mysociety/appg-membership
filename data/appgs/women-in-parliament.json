@@ -39,10 +39,589 @@
     }
   ],
   "members_list": {
-    "source_method": "not_found",
-    "source_url": [],
-    "last_updated": "2026-04-27",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://centenaryaction.org.uk/appg-women-in-parliament/"
+    ],
+    "last_updated": "2026-07-16",
+    "members": [
+      {
+        "name": "Mims Davies",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4513",
+        "twfy_id": "uk.org.publicwhip/person/25330",
+        "removed": false
+      },
+      {
+        "name": "Dawn Butler",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1489",
+        "twfy_id": "uk.org.publicwhip/person/11447",
+        "removed": false
+      },
+      {
+        "name": "Sarah Dyke",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4995",
+        "twfy_id": "uk.org.publicwhip/person/26270",
+        "removed": false
+      },
+      {
+        "name": "Baroness Grey Thompson",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Abtisam Mohamed",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5142",
+        "twfy_id": "uk.org.publicwhip/person/26413",
+        "removed": false
+      },
+      {
+        "name": "Ann Davies",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5177",
+        "twfy_id": "uk.org.publicwhip/person/26359",
+        "removed": false
+      },
+      {
+        "name": "Anita Gale, Baroness Gale",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Anne Jenkin, Baroness Jenkin of Kennington",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Anneliese Dodds",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4657",
+        "twfy_id": "uk.org.publicwhip/person/25618",
+        "removed": false
+      },
+      {
+        "name": "Aphra Brandreth",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5241",
+        "twfy_id": "uk.org.publicwhip/person/26553",
+        "removed": false
+      },
+      {
+        "name": "Apsana Begum",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4790",
+        "twfy_id": "uk.org.publicwhip/person/25914",
+        "removed": false
+      },
+      {
+        "name": "Becky Gittins",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5181",
+        "twfy_id": "uk.org.publicwhip/person/26568",
+        "removed": false
+      },
+      {
+        "name": "Bell Riberio-Addy",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4764",
+        "twfy_id": "uk.org.publicwhip/person/25856",
+        "removed": false
+      },
+      {
+        "name": "Beverly Hughes, Baroness Hughes of Stretford",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Carmen Smith, Baroness Smith of Llanfaes",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Caroline Cox, Baroness Cox",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Caroline Dinenage",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4008",
+        "twfy_id": "uk.org.publicwhip/person/24873",
+        "removed": false
+      },
+      {
+        "name": "Caroline Voaden",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5216",
+        "twfy_id": "uk.org.publicwhip/person/26511",
+        "removed": false
+      },
+      {
+        "name": "Carolyn Harris",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4480",
+        "twfy_id": "uk.org.publicwhip/person/25308",
+        "removed": false
+      },
+      {
+        "name": "Catherine Fookes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5291",
+        "twfy_id": "uk.org.publicwhip/person/26510",
+        "removed": false
+      },
+      {
+        "name": "Christine Jardine",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4634",
+        "twfy_id": "uk.org.publicwhip/person/25675",
+        "removed": false
+      },
+      {
+        "name": "Debbie Wilcox, Baroness Wilcox of Newport",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Deborah Stedman-Scott, Baroness Stedman-Scott",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ellie Chowns",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5249",
+        "twfy_id": "uk.org.publicwhip/person/26577",
+        "removed": false
+      },
+      {
+        "name": "Emily Darlington",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5139",
+        "twfy_id": "uk.org.publicwhip/person/26412",
+        "removed": false
+      },
+      {
+        "name": "Fiona Hodgson, Baroness Hodgson of Abinger",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Harriett Baldwin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4107",
+        "twfy_id": "uk.org.publicwhip/person/24785",
+        "removed": false
+      },
+      {
+        "name": "Helen Maguire",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5336",
+        "twfy_id": "uk.org.publicwhip/person/26627",
+        "removed": false
+      },
+      {
+        "name": "Jan Royall, Baroness Royall of Blaisdon",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jess Asato",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5156",
+        "twfy_id": "uk.org.publicwhip/person/26386",
+        "removed": false
+      },
+      {
+        "name": "Jodie Gosling",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5036",
+        "twfy_id": "uk.org.publicwhip/person/26314",
+        "removed": false
+      },
+      {
+        "name": "JoJo Penn, Baroness Penn",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Kate Osborne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4783",
+        "twfy_id": "uk.org.publicwhip/person/25794",
+        "removed": false
+      },
+      {
+        "name": "Kim Johnson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4824",
+        "twfy_id": "uk.org.publicwhip/person/25803",
+        "removed": false
+      },
+      {
+        "name": "Kim Leadbeater",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4923",
+        "twfy_id": "uk.org.publicwhip/person/26040",
+        "removed": false
+      },
+      {
+        "name": "Kirith Entwhistle",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5095",
+        "twfy_id": "uk.org.publicwhip/person/26378",
+        "removed": false
+      },
+      {
+        "name": "Kirsteen Sullivan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5179",
+        "twfy_id": "uk.org.publicwhip/person/26501",
+        "removed": false
+      },
+      {
+        "name": "Kirsty Blackman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4357",
+        "twfy_id": "uk.org.publicwhip/person/25314",
+        "removed": false
+      },
+      {
+        "name": "Laura Kyrke-Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5341",
+        "twfy_id": "uk.org.publicwhip/person/26629",
+        "removed": false
+      },
+      {
+        "name": "Lindsay Northover, Baroness Northover",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Liz Saville Roberts",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4521",
+        "twfy_id": "uk.org.publicwhip/person/25302",
+        "removed": false
+      },
+      {
+        "name": "Liz Sugg, Baroness Sugg",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Llinos Medi",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5085",
+        "twfy_id": "uk.org.publicwhip/person/26454",
+        "removed": false
+      },
+      {
+        "name": "Louise Jones",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5258",
+        "twfy_id": "uk.org.publicwhip/person/26586",
+        "removed": false
+      },
+      {
+        "name": "Marie Tidball",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5098",
+        "twfy_id": "uk.org.publicwhip/person/26390",
+        "removed": false
+      },
+      {
+        "name": "Marsha De Cordova",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4676",
+        "twfy_id": "uk.org.publicwhip/person/25620",
+        "removed": false
+      },
+      {
+        "name": "Mary Goudie, Baroness Goudie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Maya Ellis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5228",
+        "twfy_id": "uk.org.publicwhip/person/26479",
+        "removed": false
+      },
+      {
+        "name": "Melanie Ward",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5240",
+        "twfy_id": "uk.org.publicwhip/person/26610",
+        "removed": false
+      },
+      {
+        "name": "Munira Wilson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4776",
+        "twfy_id": "uk.org.publicwhip/person/25820",
+        "removed": false
+      },
+      {
+        "name": "Natalie Bennett, Baroness Bennett of Manor Castle",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Natalie Fleet",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5053",
+        "twfy_id": "uk.org.publicwhip/person/26343",
+        "removed": false
+      },
+      {
+        "name": "Pam Cox",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5042",
+        "twfy_id": "uk.org.publicwhip/person/26324",
+        "removed": false
+      },
+      {
+        "name": "Preet Gill",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4603",
+        "twfy_id": "uk.org.publicwhip/person/25666",
+        "removed": false
+      },
+      {
+        "name": "Rachel Maskell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4471",
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
+      },
+      {
+        "name": "Rebecca Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5301",
+        "twfy_id": "uk.org.publicwhip/person/26512",
+        "removed": false
+      },
+      {
+        "name": "Ruth Hunt, Baroness Hunt of Bethnal Green",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ruth Lister, Baroness Lister of Burtersett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Samantha Niblett",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5150",
+        "twfy_id": "uk.org.publicwhip/person/26414",
+        "removed": false
+      },
+      {
+        "name": "Sandip Verma, Baroness Verma",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Sarah Bool",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5355",
+        "twfy_id": "uk.org.publicwhip/person/26635",
+        "removed": false
+      },
+      {
+        "name": "Satvir Kaur",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5271",
+        "twfy_id": "uk.org.publicwhip/person/26451",
+        "removed": false
+      },
+      {
+        "name": "Shaista Gohirs, Baroness Gohirs",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Shivani Raja",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5068",
+        "twfy_id": "uk.org.publicwhip/person/26363",
+        "removed": false
+      },
+      {
+        "name": "Tessa Blackstone, Baroness Blackstone",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Theresa Griffin, Baroness Griffin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Uma Kumaran",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5278",
+        "twfy_id": "uk.org.publicwhip/person/26542",
+        "removed": false
+      },
+      {
+        "name": "Vikki Slade",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5327",
+        "twfy_id": "uk.org.publicwhip/person/26582",
+        "removed": false
+      },
+      {
+        "name": "Wendy Chamberlain",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4765",
+        "twfy_id": "uk.org.publicwhip/person/25872",
+        "removed": false
+      },
+      {
+        "name": "Wendy Morton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4358",
+        "twfy_id": "uk.org.publicwhip/person/25342",
+        "removed": false
+      },
+      {
+        "name": "Wera Hobhouse",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4602",
+        "twfy_id": "uk.org.publicwhip/person/25648",
+        "removed": false
+      },
+      {
+        "name": "Zoe Franklin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5313",
+        "twfy_id": "uk.org.publicwhip/person/26555",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Mims Davies MP",
@@ -73,8 +652,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/women-in-parliament.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/women-in-parliament.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

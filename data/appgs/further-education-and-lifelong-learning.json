@@ -15,6 +15,14 @@
     },
     {
       "role": "Officer",
+      "name": "Kenneth Stevenson",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26535",
+      "mnis_id": "5200",
+      "removed": false
+    },
+    {
+      "role": "Officer",
       "name": "Baroness Garden of Frognal",
       "party": "Liberal Democrat",
       "twfy_id": null,
@@ -27,14 +35,6 @@
       "party": "Conservative",
       "twfy_id": null,
       "mnis_id": null,
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Frank McNally",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26424",
-      "mnis_id": "5183",
       "removed": false
     }
   ],
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-01-21",
+    "date_of_most_recent_agm": "2026-05-20",
     "published_income_expenditure_statement": false,
     "reporting_year": "21 Jan to 20 Jan",
-    "next_reporting_deadline": "2026-05-21"
+    "next_reporting_deadline": "2027-05-21"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Association of Colleges",
-      "Description": "Secretariat From: 21/01/2025 To: 20/01/2026",
-      "Value £s In bands of £1,500": "9,001-10,500",
-      "Received": "21/01/2025",
-      "Registered": "12/02/2025",
+      "Description": "Secretariat From: 21/01/2026 To: 20/01/2027",
+      "Value £s In bands of £1,500": "10,501-12,000",
+      "Received": "21/01/2026",
+      "Registered": "21/05/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/further-education-and-lifelong-learning.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/further-education-and-lifelong-learning.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

@@ -14,15 +14,7 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "Baroness Thornton",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/13543",
-      "mnis_id": "1782",
-      "removed": false
-    },
-    {
-      "role": "Officer",
+      "role": "Deputy Chair",
       "name": "Lord Balfe",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25209",
@@ -30,11 +22,19 @@
       "removed": false
     },
     {
-      "role": "Officer",
+      "role": "Deputy Chair",
       "name": "Josh Babarinde",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26353",
       "mnis_id": "5086",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Thornton",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/13543",
+      "mnis_id": "1782",
       "removed": false
     }
   ],
@@ -57,15 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-10",
+    "date_of_most_recent_agm": "2026-04-29",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Dec to 09 Dec",
-    "next_reporting_deadline": "2026-04-10"
+    "next_reporting_deadline": "2027-04-10"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/social-cooperative-and-community-economy.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Social Enterprise UK",
+      "Description": "Secretariat From: 10/12/2025 To: 09/12/2026",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "10/12/2025",
+      "Registered": "20/05/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/social-cooperative-and-community-economy.htm",
   "categories": [
     "Economy, Business & Industry"
   ]

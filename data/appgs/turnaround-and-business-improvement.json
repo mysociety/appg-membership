@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.the-ift.com/appg/"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Gurinder Singh Josan",
@@ -195,7 +195,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Mawson",
@@ -203,7 +203,7 @@
         "member_type": "lord",
         "mnis_id": "3830",
         "twfy_id": "uk.org.publicwhip/person/13925",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Viscount Hanworth",
@@ -227,6 +227,22 @@
         "member_type": "mp",
         "mnis_id": "5169",
         "twfy_id": "uk.org.publicwhip/person/26461",
+        "removed": false
+      },
+      {
+        "name": "The Rt Hon Lord Naseby of Sandy",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Lord Mawson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3830",
+        "twfy_id": "uk.org.publicwhip/person/13925",
         "removed": false
       }
     ]
@@ -260,8 +276,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/turnaround-and-business-improvement.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/turnaround-and-business-improvement.htm",
   "categories": [
     "Economy, Business & Industry",
     "Finance, Markets & Consumer Affairs"

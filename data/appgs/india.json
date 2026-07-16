@@ -6,14 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Baggy Shanker",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26489",
-      "mnis_id": "5176",
-      "removed": false
-    },
-    {
       "role": "Co-Chair",
       "name": "Lord Bilimoria",
       "party": "Crossbench",
@@ -39,15 +31,338 @@
     }
   ],
   "members_list": {
-    "source_method": "not_found",
-    "source_url": [],
-    "last_updated": "2026-04-27",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://www.appgindia.org/appg-members"
+    ],
+    "last_updated": "2026-07-16",
+    "members": [
+      {
+        "name": "Lord Bilimoria",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "3809",
+        "twfy_id": "uk.org.publicwhip/person/13881",
+        "removed": false
+      },
+      {
+        "name": "Baroness Verma",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "3790",
+        "twfy_id": "uk.org.publicwhip/person/13730",
+        "removed": false
+      },
+      {
+        "name": "Mark Prichard",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1576",
+        "twfy_id": "uk.org.publicwhip/person/11946",
+        "removed": false
+      },
+      {
+        "name": "Shivani Raja",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5068",
+        "twfy_id": "uk.org.publicwhip/person/26363",
+        "removed": false
+      },
+      {
+        "name": "Baggy Shanker",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5176",
+        "twfy_id": "uk.org.publicwhip/person/26489",
+        "removed": false
+      },
+      {
+        "name": "Ruth Cadbury",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4389",
+        "twfy_id": "uk.org.publicwhip/person/25343",
+        "removed": false
+      },
+      {
+        "name": "Lord Dholakia",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2685",
+        "twfy_id": "uk.org.publicwhip/person/13662",
+        "removed": false
+      },
+      {
+        "name": "Lord Sahota",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4963",
+        "twfy_id": "uk.org.publicwhip/person/26106",
+        "removed": false
+      },
+      {
+        "name": "Sojan Joseph",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5247",
+        "twfy_id": "uk.org.publicwhip/person/26578",
+        "removed": false
+      },
+      {
+        "name": "Baroness Owen",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4990",
+        "twfy_id": "uk.org.publicwhip/person/26267",
+        "removed": false
+      },
+      {
+        "name": "Lord Kamall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4909",
+        "twfy_id": "uk.org.publicwhip/person/25976",
+        "removed": false
+      },
+      {
+        "name": "Lord Parekh",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2545",
+        "twfy_id": "uk.org.publicwhip/person/12947",
+        "removed": false
+      },
+      {
+        "name": "Lord Loomba",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4209",
+        "twfy_id": "uk.org.publicwhip/person/25039",
+        "removed": false
+      },
+      {
+        "name": "Lord Camoys",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "5005",
+        "twfy_id": "uk.org.publicwhip/person/26283",
+        "removed": false
+      },
+      {
+        "name": "Gurinder Josan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5059",
+        "twfy_id": "uk.org.publicwhip/person/26348",
+        "removed": false
+      },
+      {
+        "name": "Warinder Juss",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5230",
+        "twfy_id": "uk.org.publicwhip/person/26533",
+        "removed": false
+      },
+      {
+        "name": "Kirith Entwistle",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5095",
+        "twfy_id": "uk.org.publicwhip/person/26378",
+        "removed": false
+      },
+      {
+        "name": "Lord Popat",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4173",
+        "twfy_id": "uk.org.publicwhip/person/24995",
+        "removed": false
+      },
+      {
+        "name": "Baroness Royall",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3703",
+        "twfy_id": "uk.org.publicwhip/person/13452",
+        "removed": false
+      },
+      {
+        "name": "Lord Sikka",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4885",
+        "twfy_id": "uk.org.publicwhip/person/25956",
+        "removed": false
+      },
+      {
+        "name": "Mike Reader",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5316",
+        "twfy_id": "uk.org.publicwhip/person/26630",
+        "removed": false
+      },
+      {
+        "name": "Uma Kumaran",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5278",
+        "twfy_id": "uk.org.publicwhip/person/26542",
+        "removed": false
+      },
+      {
+        "name": "James Asser",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5211",
+        "twfy_id": "uk.org.publicwhip/person/26594",
+        "removed": false
+      },
+      {
+        "name": "Bob Blackman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4005",
+        "twfy_id": "uk.org.publicwhip/person/24945",
+        "removed": false
+      },
+      {
+        "name": "Baroness Prashar",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2476",
+        "twfy_id": "uk.org.publicwhip/person/13071",
+        "removed": false
+      },
+      {
+        "name": "Lord Bird",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4564",
+        "twfy_id": "uk.org.publicwhip/person/25479",
+        "removed": false
+      },
+      {
+        "name": "Valerie Vaz",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4076",
+        "twfy_id": "uk.org.publicwhip/person/24852",
+        "removed": false
+      },
+      {
+        "name": "Jake Richards",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5082",
+        "twfy_id": "uk.org.publicwhip/person/26486",
+        "removed": false
+      },
+      {
+        "name": "Lord Browne",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2172",
+        "twfy_id": "uk.org.publicwhip/person/13609",
+        "removed": false
+      },
+      {
+        "name": "Calvin Bailey",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5054",
+        "twfy_id": "uk.org.publicwhip/person/26340",
+        "removed": false
+      },
+      {
+        "name": "Navendu Mishra",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4811",
+        "twfy_id": "uk.org.publicwhip/person/25836",
+        "removed": false
+      },
+      {
+        "name": "Lord Udny-Lister",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4898",
+        "twfy_id": "uk.org.publicwhip/person/25965",
+        "removed": false
+      },
+      {
+        "name": "Jack Rankin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5340",
+        "twfy_id": "uk.org.publicwhip/person/26622",
+        "removed": false
+      },
+      {
+        "name": "Lord Tugendhat",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1705",
+        "twfy_id": "uk.org.publicwhip/person/13536",
+        "removed": false
+      },
+      {
+        "name": "Lord Rennard",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2484",
+        "twfy_id": "uk.org.publicwhip/person/13277",
+        "removed": false
+      },
+      {
+        "name": "Lord Moynihan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "924",
+        "twfy_id": "uk.org.publicwhip/person/13042",
+        "removed": false
+      },
+      {
+        "name": "Lord Prior",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "127",
+        "twfy_id": "uk.org.publicwhip/person/10490",
+        "removed": false
+      },
+      {
+        "name": "Chris Law",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4403",
+        "twfy_id": "uk.org.publicwhip/person/25270",
+        "removed": false
+      },
+      {
+        "name": "Lord Sharpe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4888",
+        "twfy_id": "uk.org.publicwhip/person/25955",
+        "removed": false
+      },
+      {
+        "name": "Lord Maude",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "115",
+        "twfy_id": "uk.org.publicwhip/person/10423",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
-    "registered_contact_name": "Baggy Shanker MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "baggy.shanker.mp@parliament.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
     "public_enquiry_point_name": "Nikita Singh, The 1928 Institute",
     "public_enquiry_point_email": "welcome@1928institute.org",
     "secretariat": "The 1928 Institute acts as the group's secretariat.https://www.1928institute.org/",
@@ -70,14 +385,6 @@
       "Value £s In bands of £1,500": "3,001-4,500",
       "Received": "17/11/2024",
       "Registered": "20/12/2024",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "UK India Business Council",
-      "Description": "Roundtable event",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "21/05/2025",
-      "Registered": "11/06/2025",
       "benefit_type": "Benefits In Kind"
     },
     {
@@ -105,8 +412,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/india.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/india.htm",
   "categories": [
     "Country Group"
   ]

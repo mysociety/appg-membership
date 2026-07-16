@@ -43,7 +43,7 @@
     "source_url": [
       "https://raceequalityineducationappg.org/members"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Diane Abbott",
@@ -91,7 +91,7 @@
         "member_type": "mp",
         "mnis_id": "4764",
         "twfy_id": "uk.org.publicwhip/person/25856",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Helen Hayes",
@@ -99,7 +99,7 @@
         "member_type": "mp",
         "mnis_id": "4510",
         "twfy_id": "uk.org.publicwhip/person/25310",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sharon Hodgson",
@@ -307,8 +307,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/race-equality-in-education.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/race-equality-in-education.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

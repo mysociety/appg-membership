@@ -7,6 +7,14 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
+      "name": "Torcuil Crichton",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26500",
+      "mnis_id": "5246",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
       "name": "Sir John Hayes",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10265",
@@ -14,19 +22,11 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Officer",
       "name": "James Wild",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25866",
       "mnis_id": "4787",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Torcuil Crichton",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26500",
-      "mnis_id": "5246",
       "removed": false
     },
     {
@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Sir John Hayes MP",
@@ -222,11 +222,11 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Sir John Hayes MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 1389.",
-    "registered_contact_email": "hayesj@parliament.uk",
-    "public_enquiry_point_name": "Neil McClements, Haemochromatosis UK. Tel: 03030 401 101",
-    "public_enquiry_point_email": "appg.secretariat@huk.org.uk",
+    "registered_contact_name": "Torcuil Crichton MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "torcuil.crichton.mp@parliament.uk",
+    "public_enquiry_point_name": "Jonathan Jelley, Haemochromatosis UK. Tel: 03030 401 101",
+    "public_enquiry_point_email": "office@huk.org.uk",
     "secretariat": "Haemochromatosis UK acts as the group's secretariat.https://www.haemochromatosis.org.uk",
     "website": {
       "status": "register",
@@ -234,24 +234,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-02-11",
+    "date_of_most_recent_agm": "2026-06-09",
     "published_income_expenditure_statement": false,
     "reporting_year": "11 Feb to 10 Feb",
-    "next_reporting_deadline": "2026-06-11"
+    "next_reporting_deadline": "2027-06-11"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Haemochromatosis UK",
-      "Description": "Secretariat From: 11/02/2025 To: 10/02/2026",
-      "Value £s In bands of £1,500": "3,001-4,500",
-      "Received": "11/02/2025",
-      "Registered": "14/02/2025",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/genetic-haemochromatosis.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/genetic-haemochromatosis.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

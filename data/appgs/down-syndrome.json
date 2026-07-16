@@ -39,10 +39,365 @@
     }
   ],
   "members_list": {
-    "source_method": "not_found",
-    "source_url": [],
-    "last_updated": "2025-09-16",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://appg-ds.org/wp-content/uploads/2025/11/members-as-at-nov-25a.pdf"
+    ],
+    "last_updated": "2026-07-16",
+    "members": [
+      {
+        "name": "Andrew Cooper",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5195",
+        "twfy_id": "uk.org.publicwhip/person/26447",
+        "removed": false
+      },
+      {
+        "name": "Damian Hinds",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "3969",
+        "twfy_id": "uk.org.publicwhip/person/24782",
+        "removed": false
+      },
+      {
+        "name": "Baroness Sheila Hollins",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Perron Moon",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5208",
+        "twfy_id": "uk.org.publicwhip/person/26482",
+        "removed": false
+      },
+      {
+        "name": "Jack Abbott",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5131",
+        "twfy_id": "uk.org.publicwhip/person/26385",
+        "removed": false
+      },
+      {
+        "name": "Aphra Brandreth",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5241",
+        "twfy_id": "uk.org.publicwhip/person/26553",
+        "removed": false
+      },
+      {
+        "name": "Lee Anderson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4743",
+        "twfy_id": "uk.org.publicwhip/person/25894",
+        "removed": false
+      },
+      {
+        "name": "Lee Barron",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5315",
+        "twfy_id": "uk.org.publicwhip/person/26554",
+        "removed": false
+      },
+      {
+        "name": "Lewis Cocking",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5050",
+        "twfy_id": "uk.org.publicwhip/person/26316",
+        "removed": false
+      },
+      {
+        "name": "Lord David Alton of Liverpool",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lorraine Beavers",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5232",
+        "twfy_id": "uk.org.publicwhip/person/26475",
+        "removed": false
+      },
+      {
+        "name": "Dame Karen Bradley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4110",
+        "twfy_id": "uk.org.publicwhip/person/24725",
+        "removed": false
+      },
+      {
+        "name": "Ruth Cadbury",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4389",
+        "twfy_id": "uk.org.publicwhip/person/25343",
+        "removed": false
+      },
+      {
+        "name": "Mims Davies",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4513",
+        "twfy_id": "uk.org.publicwhip/person/25330",
+        "removed": false
+      },
+      {
+        "name": "Dame Caroline Dinenage",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4008",
+        "twfy_id": "uk.org.publicwhip/person/24873",
+        "removed": false
+      },
+      {
+        "name": "Chris Evans",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4040",
+        "twfy_id": "uk.org.publicwhip/person/24721",
+        "removed": false
+      },
+      {
+        "name": "Dame Meg Hillier",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1524",
+        "twfy_id": "uk.org.publicwhip/person/11605",
+        "removed": false
+      },
+      {
+        "name": "Richard Holden",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4813",
+        "twfy_id": "uk.org.publicwhip/person/25893",
+        "removed": false
+      },
+      {
+        "name": "Jayne Kirkham",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5279",
+        "twfy_id": "uk.org.publicwhip/person/26525",
+        "removed": false
+      },
+      {
+        "name": "Noah Law",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5302",
+        "twfy_id": "uk.org.publicwhip/person/26513",
+        "removed": false
+      },
+      {
+        "name": "Carla Lockheart",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4857",
+        "twfy_id": "uk.org.publicwhip/person/25562",
+        "removed": false
+      },
+      {
+        "name": "Amanda Martin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5294",
+        "twfy_id": "uk.org.publicwhip/person/26430",
+        "removed": false
+      },
+      {
+        "name": "Rachael Maskell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4471",
+        "twfy_id": "uk.org.publicwhip/person/25433",
+        "removed": false
+      },
+      {
+        "name": "Ben Maguire",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5350",
+        "twfy_id": "uk.org.publicwhip/person/26623",
+        "removed": false
+      },
+      {
+        "name": "Esther McVey",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4084",
+        "twfy_id": "uk.org.publicwhip/person/24882",
+        "removed": false
+      },
+      {
+        "name": "Munira Wilson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4776",
+        "twfy_id": "uk.org.publicwhip/person/25820",
+        "removed": false
+      },
+      {
+        "name": "Abtisam Mohamed",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5142",
+        "twfy_id": "uk.org.publicwhip/person/26413",
+        "removed": false
+      },
+      {
+        "name": "Helen Morgan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4934",
+        "twfy_id": "uk.org.publicwhip/person/26056",
+        "removed": false
+      },
+      {
+        "name": "Jack Rankin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5340",
+        "twfy_id": "uk.org.publicwhip/person/26622",
+        "removed": false
+      },
+      {
+        "name": "Sam Rushworth",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5108",
+        "twfy_id": "uk.org.publicwhip/person/26323",
+        "removed": false
+      },
+      {
+        "name": "Jim Shannon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4131",
+        "twfy_id": "uk.org.publicwhip/person/13864",
+        "removed": false
+      },
+      {
+        "name": "Lord Kevin Shinkwin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Graham Stuart",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1482",
+        "twfy_id": "uk.org.publicwhip/person/11406",
+        "removed": false
+      },
+      {
+        "name": "Lord Don Touhig",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Paul Waugh",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5071",
+        "twfy_id": "uk.org.publicwhip/person/26319",
+        "removed": false
+      },
+      {
+        "name": "Baroness Rosa Monckton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Andy MacNae",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5134",
+        "twfy_id": "uk.org.publicwhip/person/26391",
+        "removed": false
+      },
+      {
+        "name": "Cat Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4436",
+        "twfy_id": "uk.org.publicwhip/person/25432",
+        "removed": false
+      },
+      {
+        "name": "Bambos Charalambous",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4610",
+        "twfy_id": "uk.org.publicwhip/person/25676",
+        "removed": false
+      },
+      {
+        "name": "Sarah Russell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5324",
+        "twfy_id": "uk.org.publicwhip/person/26571",
+        "removed": false
+      },
+      {
+        "name": "Michael Wheeler",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5242",
+        "twfy_id": "uk.org.publicwhip/person/26551",
+        "removed": false
+      },
+      {
+        "name": "Ben Coleman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5344",
+        "twfy_id": "uk.org.publicwhip/person/26602",
+        "removed": false
+      },
+      {
+        "name": "Lord James Arbuthnot of Edrom",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord John Kerr of Kinlochard",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Damian Hinds MP",
@@ -64,8 +419,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/down-syndrome.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/down-syndrome.htm",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Health, Medicine & Public Health",

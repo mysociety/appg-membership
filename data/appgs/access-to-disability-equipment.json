@@ -14,15 +14,15 @@
       "removed": false
     },
     {
-      "role": "Officer",
-      "name": "Lord Mackinlay of Richborough",
-      "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "role": "Vice Chair",
+      "name": "Tessa Munt",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/24942",
+      "mnis_id": "4089",
       "removed": false
     },
     {
-      "role": "Officer",
+      "role": "Vice Chair",
       "name": "Josh Newbury",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26317",
@@ -30,11 +30,11 @@
       "removed": false
     },
     {
-      "role": "Officer",
-      "name": "Tessa Munt",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/24942",
-      "mnis_id": "4089",
+      "role": "Vice Chair",
+      "name": "Lord Mackinlay of Richborough",
+      "party": "Conservative",
+      "twfy_id": null,
+      "mnis_id": null,
       "removed": false
     }
   ],
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-05-14",
+    "date_of_most_recent_agm": "2026-06-23",
     "published_income_expenditure_statement": false,
     "reporting_year": "14 May to 13 May",
-    "next_reporting_deadline": "2026-09-14"
+    "next_reporting_deadline": "2027-09-14"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Tendo Consulting Limited",
-      "Description": "Tendo Consulting is paid by the British Healthcare Trades Association and Newlife to act as the group's secretariat. From: 14/05/2025 To: 13/05/2026",
-      "Value £s In bands of £1,500": "22,501-24,000",
-      "Received": "14/05/2025",
-      "Registered": "12/06/2025",
+      "Description": "Tendo Consulting is paid by the following to act as the group's secretariat: British Healthcare Trades Association, Whizz Kidz, and Newlife. From: 14/05/2026 To: 13/05/2027",
+      "Value £s In bands of £1,500": "24,001-25,500",
+      "Received": "14/05/2026",
+      "Registered": "24/06/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/access-to-disability-equipment.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/access-to-disability-equipment.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

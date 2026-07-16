@@ -6,14 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Mr Calvin Bailey",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26340",
-      "mnis_id": "5054",
-      "removed": false
-    },
-    {
       "role": "Officer",
       "name": "Ben Obese-Jecty",
       "party": "Conservative",
@@ -23,7 +15,7 @@
     },
     {
       "role": "Officer",
-      "name": "Peter Prinsley",
+      "name": "Dr Peter Prinsley",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26383",
       "mnis_id": "5163",
@@ -43,7 +35,7 @@
     "source_url": [
       "https://appgprostatecancer.org.uk/members"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Calvin Bailey",
@@ -51,7 +43,7 @@
         "member_type": "mp",
         "mnis_id": "5054",
         "twfy_id": "uk.org.publicwhip/person/26340",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ben Obese-Jecty",
@@ -75,7 +67,7 @@
         "member_type": "mp",
         "mnis_id": "5163",
         "twfy_id": "uk.org.publicwhip/person/26383",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Abtisam Mohamed",
@@ -411,7 +403,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Brennan of Canton",
@@ -427,7 +419,7 @@
         "member_type": "lord",
         "mnis_id": "1413",
         "twfy_id": "uk.org.publicwhip/person/10920",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Mott",
@@ -459,7 +451,7 @@
         "member_type": "lord",
         "mnis_id": "112",
         "twfy_id": "uk.org.publicwhip/person/10613",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Watson of Wyre Forest",
@@ -491,7 +483,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Royall of Blaisdon",
@@ -627,7 +619,7 @@
         "member_type": "mp",
         "mnis_id": "5163",
         "twfy_id": "uk.org.publicwhip/person/26383",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Charlie Dewhirst",
@@ -643,7 +635,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Grayling",
@@ -651,7 +643,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tyrie",
@@ -659,14 +651,22 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Lord Bates",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1091",
+        "twfy_id": "uk.org.publicwhip/person/14134",
         "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Mr Calvin Bailey MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "calvin.bailey.mp@parliament.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
     "public_enquiry_point_name": "Joint Secretariat of APPG",
     "public_enquiry_point_email": "contact@appgprostatecancer.org.uk",
     "secretariat": "Prostate Cancer Research and Prostate Cancer UK jointly act as the group's secretariat.https://www.prostate-cancer-research.org.uk/andhttps://prostatecanceruk.org/",
@@ -716,8 +716,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/prostate-cancer.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/prostate-cancer.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

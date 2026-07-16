@@ -31,61 +31,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.appgcontinence.org.uk/"
-    ],
-    "last_updated": "2026-06-03",
-    "members": [
-      {
-        "name": "Jodie Gosling",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5036",
-        "twfy_id": "uk.org.publicwhip/person/26314",
-        "removed": false
-      },
-      {
-        "name": "Lord Dundee",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord Watson",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "1463",
-        "twfy_id": "uk.org.publicwhip/person/11309",
-        "removed": false
-      },
-      {
-        "name": "Cat Eccles",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5293",
-        "twfy_id": "uk.org.publicwhip/person/26587",
-        "removed": false
-      },
-      {
-        "name": "Dundee",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Watson",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-07-16",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Jodie Gosling MP",
@@ -116,8 +65,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/bladder-and-bowel-continence-care.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/bladder-and-bowel-continence-care.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.patient-safety-watch.com/patient-safety-appg"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Jeremy Hunt",
@@ -67,7 +67,7 @@
         "member_type": "mp",
         "mnis_id": "4573",
         "twfy_id": "uk.org.publicwhip/person/25579",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Bernard Jenkin",
@@ -83,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "4573",
         "twfy_id": "uk.org.publicwhip/person/25579",
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -140,8 +140,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/patient-safety.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/patient-safety.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

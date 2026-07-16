@@ -28,6 +28,14 @@
       "twfy_id": null,
       "mnis_id": null,
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Nick Smith",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/24728",
+      "mnis_id": "3928",
+      "removed": false
     }
   ],
   "members_list": {
@@ -73,8 +81,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/cyber-security-and-business-resilience.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/cyber-security-and-business-resilience.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

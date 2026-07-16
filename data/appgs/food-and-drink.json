@@ -28,12 +28,20 @@
       "twfy_id": "uk.org.publicwhip/person/25777",
       "mnis_id": "4724",
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "John Lamont",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/14026",
+      "mnis_id": "4608",
+      "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Mike Reader MP",
@@ -305,8 +313,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/food-and-drink.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/food-and-drink.htm",
   "categories": [
     "Economy, Business & Industry",
     "Food, Agriculture & Rural Affairs"

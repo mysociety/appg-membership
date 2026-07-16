@@ -62,10 +62,19 @@
     "reporting_year": "08 Oct to 07 Oct",
     "next_reporting_deadline": "2027-02-08"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/germany.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "German Chamber of Commerce and Industry",
+      "Description": "Industry Dinner",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "17/06/2026",
+      "Registered": "29/06/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/germany.htm",
   "categories": [
     "Country Group"
   ]

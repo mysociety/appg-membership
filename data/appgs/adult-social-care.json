@@ -43,7 +43,7 @@
     "source_url": [
       "https://adultsocialcareappg.com/who-we-are"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Sojan Joseph",
@@ -171,7 +171,7 @@
         "member_type": "lord",
         "mnis_id": "2471",
         "twfy_id": "uk.org.publicwhip/person/12894",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Grey-Thompson",
@@ -179,7 +179,7 @@
         "member_type": "lord",
         "mnis_id": "3862",
         "twfy_id": "uk.org.publicwhip/person/24707",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Best",
@@ -219,7 +219,7 @@
         "member_type": "lord",
         "mnis_id": "2471",
         "twfy_id": "uk.org.publicwhip/person/12894",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Grey-Thompson",
@@ -227,7 +227,7 @@
         "member_type": "lord",
         "mnis_id": "3862",
         "twfy_id": "uk.org.publicwhip/person/24707",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Best",
@@ -444,8 +444,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/adult-social-care.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/adult-social-care.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

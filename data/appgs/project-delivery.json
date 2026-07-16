@@ -14,15 +14,7 @@
       "removed": false
     },
     {
-      "role": "Officer",
-      "name": "Lord Lilley",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10362",
-      "mnis_id": "68",
-      "removed": false
-    },
-    {
-      "role": "Officer",
+      "role": "Vice Chair",
       "name": "Llinos Medi",
       "party": "Plaid Cymru",
       "twfy_id": "uk.org.publicwhip/person/26454",
@@ -30,11 +22,19 @@
       "removed": false
     },
     {
-      "role": "Officer",
-      "name": "Lord Goddard of Stockport",
-      "party": "Liberal Democrat",
+      "role": "Vice Chair",
+      "name": "Lord Howell of Guildford",
+      "party": "Conservative",
       "twfy_id": null,
       "mnis_id": null,
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Lilley",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/10362",
+      "mnis_id": "68",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appgprojectdelivery.org/officers-and-members"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Henry Tufnell",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": "4334",
         "twfy_id": "uk.org.publicwhip/person/25247",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Lilley",
@@ -75,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": "68",
         "twfy_id": "uk.org.publicwhip/person/10362",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Luke Taylor",
@@ -243,7 +243,7 @@
         "member_type": "lord",
         "mnis_id": "3671",
         "twfy_id": "uk.org.publicwhip/person/12836",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Haskel",
@@ -251,7 +251,7 @@
         "member_type": "lord",
         "mnis_id": "2665",
         "twfy_id": "uk.org.publicwhip/person/13499",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Ravensdale",
@@ -259,7 +259,7 @@
         "member_type": "lord",
         "mnis_id": "4715",
         "twfy_id": "uk.org.publicwhip/person/25745",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Greenhalgh",
@@ -267,7 +267,7 @@
         "member_type": "lord",
         "mnis_id": "4877",
         "twfy_id": "uk.org.publicwhip/person/25937",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Neville Jones",
@@ -275,7 +275,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Grey-Thompson",
@@ -283,7 +283,7 @@
         "member_type": "lord",
         "mnis_id": "3862",
         "twfy_id": "uk.org.publicwhip/person/24707",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Freyberg",
@@ -291,7 +291,7 @@
         "member_type": "lord",
         "mnis_id": "2593",
         "twfy_id": "uk.org.publicwhip/person/13308",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Eaton",
@@ -299,7 +299,7 @@
         "member_type": "lord",
         "mnis_id": "4184",
         "twfy_id": "uk.org.publicwhip/person/25003",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Hollick",
@@ -307,7 +307,7 @@
         "member_type": "lord",
         "mnis_id": "2732",
         "twfy_id": "uk.org.publicwhip/person/13222",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Golding",
@@ -315,7 +315,7 @@
         "member_type": "lord",
         "mnis_id": "281",
         "twfy_id": "uk.org.publicwhip/person/10233",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Helen Maguire",
@@ -331,7 +331,7 @@
         "member_type": "mp",
         "mnis_id": "5067",
         "twfy_id": "uk.org.publicwhip/person/26346",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Shockat Adam",
@@ -347,7 +347,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jim Shannon",
@@ -363,7 +363,7 @@
         "member_type": "mp",
         "mnis_id": "5067",
         "twfy_id": "uk.org.publicwhip/person/26346",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Jim Dickson",
@@ -379,6 +379,118 @@
         "member_type": "mp",
         "mnis_id": "5059",
         "twfy_id": "uk.org.publicwhip/person/26348",
+        "removed": false
+      },
+      {
+        "name": "Howell of Guildford",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lilley",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tunnicliffe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Haskel",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ravensdale",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Greenhalgh",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Neville Jones",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Grey-Thompson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3862",
+        "twfy_id": "uk.org.publicwhip/person/24707",
+        "removed": false
+      },
+      {
+        "name": "Freyberg",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Eaton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4184",
+        "twfy_id": "uk.org.publicwhip/person/25003",
+        "removed": false
+      },
+      {
+        "name": "Hollick",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Golding",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "281",
+        "twfy_id": "uk.org.publicwhip/person/10233",
+        "removed": false
+      },
+      {
+        "name": "Hunt of Kings Heath",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bernard Jenkin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "40",
+        "twfy_id": "uk.org.publicwhip/person/10312",
         "removed": false
       }
     ]
@@ -396,24 +508,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-02-11",
+    "date_of_most_recent_agm": "2026-06-02",
     "published_income_expenditure_statement": false,
     "reporting_year": "11 Feb to 10 Feb",
-    "next_reporting_deadline": "2026-06-11"
+    "next_reporting_deadline": "2027-06-11"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Tendo Consulting",
-      "Description": "Tendo Consulting is paid by The Association for Project Management to act as the group's secretariat From: 11/02/2025 To: 10/02/2026",
-      "Value £s In bands of £1,500": "24,001-25,500",
-      "Received": "11/02/2025",
-      "Registered": "05/03/2025",
+      "Description": "Tendo Consulting is paid by The Association for Project Management to act as the group's secretariat. From: 11/02/2026 To: 10/02/2025",
+      "Value £s In bands of £1,500": "34,501-36,000",
+      "Received": "11/02/2026",
+      "Registered": "03/06/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/project-delivery.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/project-delivery.htm",
   "categories": [
     "Infrastructure, Transport & Mobility"
   ]

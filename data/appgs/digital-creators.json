@@ -41,10 +41,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://digitalcommunities.inparliament.uk/appg-membership",
-      "https://digitalcommunities.inparliament.uk/people"
+      "https://digitalcommunities.inparliament.uk/appg-membership"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Alison Taylor",
@@ -324,7 +323,7 @@
         "member_type": "mp",
         "mnis_id": "5286",
         "twfy_id": "uk.org.publicwhip/person/26497",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sian Berry",
@@ -412,7 +411,7 @@
         "member_type": "lord",
         "mnis_id": "4939",
         "twfy_id": "uk.org.publicwhip/person/26062",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Richard Baker",
@@ -420,7 +419,7 @@
         "member_type": "mp",
         "mnis_id": "5253",
         "twfy_id": "uk.org.publicwhip/person/13952",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bray of Coln",
@@ -437,7 +436,7 @@
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "feryal.clark.mp@parliament.uk",
     "public_enquiry_point_name": "Phil Hughes, Digital Creators Association. Tel: 020 7240 7338",
-    "public_enquiry_point_email": "youtube@inhouse.london",
+    "public_enquiry_point_email": "digitalcreatorsappg@gmail.com",
     "secretariat": "The Digital Creators Association and Influencer Marketing Trade Body jointly act as the group's secretariat.https://www.digitalcreatorassociation.com/andhttps://imtb.org.uk/",
     "website": {
       "status": "search",
@@ -469,8 +468,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/digital-creators.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/digital-creators.htm",
   "categories": [
     "Economy, Business & Industry",
     "Arts, Culture, Heritage & Media",

@@ -7,6 +7,14 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
+      "name": "Tessa Munt",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/24942",
+      "mnis_id": "4089",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
       "name": "Jo Platt",
       "party": "Labour (Co-op)",
       "twfy_id": "uk.org.publicwhip/person/25611",
@@ -15,18 +23,10 @@
     },
     {
       "role": "Officer",
-      "name": "Tessa Munt",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/24942",
-      "mnis_id": "4089",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Lord Offord of Garvel",
-      "party": "Non-affiliated",
-      "twfy_id": null,
-      "mnis_id": null,
+      "name": "Bradley Thomas",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26561",
+      "mnis_id": "5186",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgme.co.uk/who-we-are/"
     ],
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-07-16",
     "members": [
       {
         "name": "Jo Platt",
@@ -404,13 +404,21 @@
         "mnis_id": "5032",
         "twfy_id": "uk.org.publicwhip/person/26312",
         "removed": false
+      },
+      {
+        "name": "The Baroness Penn",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Jo Platt MP",
+    "registered_contact_name": "Tessa Munt MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "jo.platt.mp@parliament.uk",
+    "registered_contact_email": "tessa.munt.mp@parliament.uk",
     "public_enquiry_point_name": "Sonya Chowdhury, Action for ME",
     "public_enquiry_point_email": "policy@actionforme.org.uk",
     "secretariat": "Action for ME acts as the group's secretariat.https://www.actionforme.org.uk/",
@@ -420,15 +428,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-17",
+    "date_of_most_recent_agm": "2026-05-20",
     "published_income_expenditure_statement": false,
     "reporting_year": "17 Dec to 16 Dec",
-    "next_reporting_deadline": "2026-04-17"
+    "next_reporting_deadline": "2027-04-17"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260112",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260112/myalgic-encephalomyelitis-me.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Action for ME",
+      "Description": "Secretariat From: 17/12/2025 To: 16/12/2026",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "29/05/2026",
+      "Registered": "29/05/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/myalgic-encephalomyelitis-me.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

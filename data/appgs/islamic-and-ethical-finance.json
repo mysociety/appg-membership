@@ -39,10 +39,45 @@
     }
   ],
   "members_list": {
-    "source_method": "not_found",
-    "source_url": [],
-    "last_updated": "2026-02-04",
-    "members": []
+    "source_method": "ai_search",
+    "source_url": [
+      "https://appgief.org.uk/about/who-we-are/"
+    ],
+    "last_updated": "2026-07-16",
+    "members": [
+      {
+        "name": "Naz Shah",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4409",
+        "twfy_id": "uk.org.publicwhip/person/25385",
+        "removed": false
+      },
+      {
+        "name": "Alderdice",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Afzal Khan",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4671",
+        "twfy_id": "uk.org.publicwhip/person/25662",
+        "removed": false
+      },
+      {
+        "name": "Robbie Moore",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4861",
+        "twfy_id": "uk.org.publicwhip/person/25922",
+        "removed": false
+      }
+    ]
   },
   "contact_details": {
     "registered_contact_name": "Naz Shah MP",
@@ -64,8 +99,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/islamic-and-ethical-finance.htm",
+  "index_date": "260629",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/islamic-and-ethical-finance.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs",
     "Religion, Faith & Belief Communities"
