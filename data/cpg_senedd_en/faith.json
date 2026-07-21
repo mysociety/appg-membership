@@ -7,26 +7,26 @@
   "officers": [
     {
       "role": "Chair",
-      "name": "Darren Millar",
+      "name": "Sam Rowlands",
       "party": "",
-      "twfy_id": "uk.org.publicwhip/person/26182",
-      "mnis_id": "171",
+      "twfy_id": "uk.org.publicwhip/person/26237",
+      "mnis_id": "8734",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "official",
     "source_url": [
-      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=727"
+      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1031"
     ],
     "last_updated": null,
     "members": [
       {
-        "name": "Rhys ab Owen",
+        "name": "Catherine Cullen",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "8625",
-        "twfy_id": "uk.org.publicwhip/person/26240",
+        "mnis_id": "12154",
+        "twfy_id": "uk.org.publicwhip/person/26741",
         "removed": false
       },
       {
@@ -44,6 +44,30 @@
         "mnis_id": "332",
         "twfy_id": "uk.org.publicwhip/person/26141",
         "removed": false
+      },
+      {
+        "name": "David Hughes",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12159",
+        "twfy_id": "uk.org.publicwhip/person/26789",
+        "removed": false
+      },
+      {
+        "name": "Darren Millar",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "171",
+        "twfy_id": "uk.org.publicwhip/person/26182",
+        "removed": false
+      },
+      {
+        "name": "Paul Rock",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12176",
+        "twfy_id": "uk.org.publicwhip/person/26752",
+        "removed": false
       }
     ]
   },
@@ -56,14 +80,14 @@
     "secretariat": null,
     "website": {
       "status": "register",
-      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=727"
+      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1031"
     }
   },
   "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "",
-  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=727",
+  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1031",
   "categories": [
     "Religion, Faith & Belief Communities",
     "Regions, Nations & Devolution"

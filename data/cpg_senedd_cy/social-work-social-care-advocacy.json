@@ -1,40 +1,32 @@
 {
-  "slug": "mental-health-and-eating-disorders",
-  "title": "Mental Health and Eating Disorders - Cross Party Group",
-  "purpose": "To raise, discuss and encourage action on issues in relation to the mental health and eating disorders of all communities in Wales.",
+  "slug": "social-work-social-care-advocacy",
+  "title": "Waith Cymdeithasol, Gofal Cymdeithasol ac Eiriolaeth - Grwp Trawsbleidiol",
+  "purpose": "Gweithio gydag Aelodau o’r Senedd, cynrychiolwyr rheng flaen a chydweithwyr o bob rhan o’r sector iechyd a gofal cymdeithasol, pobl sydd â phrofiadau bywyd ac eraill i ymgyrchu, trafod a chodi ymwybyddiaeth o faterion allweddol sy’n effeithio ar waith cymdeithasol, gofal cymdeithasol ac eiriolaeth i blant, oedolion a chymunedau ledled Cymru.",
   "category": null,
-  "parliament": "senedd-en",
+  "parliament": "senedd-cy",
   "officers": [
     {
       "role": "Chair",
-      "name": "Sarah Murphy",
+      "name": "Elfed Williams",
       "party": "",
-      "twfy_id": "uk.org.publicwhip/person/26249",
-      "mnis_id": "8594",
-      "removed": false
-    },
-    {
-      "role": "Chair",
-      "name": "Lynne Neagle",
-      "party": "",
-      "twfy_id": "uk.org.publicwhip/person/26179",
-      "mnis_id": "174",
+      "twfy_id": "uk.org.publicwhip/person/26740",
+      "mnis_id": "12165",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "official",
     "source_url": [
-      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1038"
+      "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1042"
     ],
     "last_updated": null,
     "members": [
       {
-        "name": "Sara Crowley",
+        "name": "Claire Archibald",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "12150",
-        "twfy_id": "uk.org.publicwhip/person/26788",
+        "mnis_id": "12179",
+        "twfy_id": "uk.org.publicwhip/person/26763",
         "removed": false
       },
       {
@@ -46,11 +38,11 @@
         "removed": false
       },
       {
-        "name": "Janet Finch-Saunders",
+        "name": "Safa Elhassan",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "212",
-        "twfy_id": "uk.org.publicwhip/person/26188",
+        "mnis_id": "12189",
+        "twfy_id": "uk.org.publicwhip/person/26780",
         "removed": false
       },
       {
@@ -62,19 +54,19 @@
         "removed": false
       },
       {
-        "name": "Claire Johnson-Wood",
+        "name": "Becca Martin",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "12188",
-        "twfy_id": "uk.org.publicwhip/person/26777",
+        "mnis_id": "12184",
+        "twfy_id": "uk.org.publicwhip/person/26768",
         "removed": false
       },
       {
-        "name": "Kiera Marshall",
+        "name": "Gwyn Williams",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "12166",
-        "twfy_id": "uk.org.publicwhip/person/26756",
+        "mnis_id": "5083",
+        "twfy_id": "uk.org.publicwhip/person/26783",
         "removed": false
       }
     ]
@@ -88,15 +80,17 @@
     "secretariat": null,
     "website": {
       "status": "register",
-      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1038"
+      "url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1042"
     }
   },
   "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "",
-  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1038",
+  "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1042",
   "categories": [
-    "Health, Medicine & Public Health"
+    "Social Care, Welfare & Family Support",
+    "Health, Medicine & Public Health",
+    "Regions, Nations & Devolution"
   ]
 }
