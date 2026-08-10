@@ -41,6 +41,18 @@ schema:
     constraints:
       unique: false
     example: Abena Oppong-Asare
+  - name: parliament
+    type: string
+    description: Parliament the APPG belongs to
+    constraints:
+      unique: false
+      enum:
+      - ni-assembly
+      - scottish-parliament
+      - senedd-cy
+      - senedd-en
+      - uk
+    example: uk
   - name: appg
     type: string
     description: Slugified name of the APPG

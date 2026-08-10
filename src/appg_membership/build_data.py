@@ -86,6 +86,7 @@ def build_members():
             item["twfy_id"] = officer.twfy_id
             item["mnis_id"] = officer.mnis_id
             item["canon_name"] = canon_name
+            item["parliament"] = str(x.parliament)
             item["appg"] = x.slug
             item["is_officer"] = True
             item["member_type"] = officer_type(officer.name)
@@ -106,6 +107,7 @@ def build_members():
                     canon_name = canon_name.nice_name()
             item = member.model_dump()
             item["canon_name"] = canon_name
+            item["parliament"] = str(x.parliament)
             item["appg"] = x.slug
             item["source"] = x.members_list.source_method
             item["last_updated"] = x.members_list.last_updated
