@@ -1,0 +1,78 @@
+name: appg_groups_and_memberships
+title: APPG Groups and Memberships
+description: APPG register with experimental ML membership scrapers.
+version: 0.26.0
+licenses:
+- name: CC-BY-4.0
+  path: https://creativecommons.org/licenses/by/4.0/
+  title: Creative Commons Attribution 4.0 International License
+contributors:
+- title: mySociety
+  path: https://mysociety.org
+  role: author
+custom:
+  build: project build
+  tests:
+  - test_appg_groups_and_memberships
+  dataset_order: 0
+  download_options:
+    gate: default
+    survey: default
+    header_text: default
+  formats:
+    csv: true
+    parquet: true
+    gpkg: false
+    geojson: false
+  is_geodata: false
+  composite:
+    xlsx:
+      include: all
+      exclude: none
+      render: true
+    sqlite:
+      include: all
+      exclude: none
+      render: true
+    json:
+      include: all
+      exclude: none
+      render: true
+  change_log:
+    0.1.0: Don't need to increment, first version
+    0.2.0: 'New field(s) added to end of resource: removed'
+    0.3.0: 'New field(s) added to resource: categories'
+    0.4.0: 'Existing resource field(s) type changed: published_income_expenditure_statement'
+    0.5.0: 'Change in data for resource(s): categories,members,register'
+    0.5.1: 'Minor change in data for resource(s): members'
+    0.5.2: 'Minor change in data for resource(s): members'
+    0.5.3: "description changed from 'APPG register with experimental ML membership\
+      \ scrapers.\n' to 'APPG register with experimental ML membership scrapers.\n\
+      DO NOT REPLY ON 'ai_search' MEMBERSHIP DATA YET - needs further validation.\n\
+      '"
+    0.5.4: "description changed from 'APPG register with experimental ML membership\
+      \ scrapers.\nDO NOT REPLY ON 'ai_search' MEMBERSHIP DATA YET - needs further\
+      \ validation.\n' to 'APPG register with experimental ML membership scrapers.\n\
+      DO NOT RELY ON 'ai_search' MEMBERSHIP DATA YET - needs further validation.\n\
+      '"
+    0.6.0: 'Change in data for resource(s): categories,members,register'
+    0.7.0: 'Change in data for resource(s): categories,members,register'
+    0.8.0: 'Change in data for resource(s): members'
+    0.9.0: 'Change in data for resource(s): members'
+    0.10.0: 'Existing resource field(s) type changed: published_income_expenditure_statement'
+    0.11.0: 'Existing resource field(s) type changed: published_income_expenditure_statement'
+    0.12.0: 'Change in data for resource(s): members'
+    0.13.0: 'Change in data for resource(s): members'
+    0.14.0: 'Change in data for resource(s): members'
+    0.15.0: 'Change in data for resource(s): members'
+    0.16.0: 'Change in data for resource(s): members'
+    0.17.0: 'New field(s) added to resource: parliament'
+    0.18.0: 'Change in data for resource(s): categories,members,register'
+    0.19.0: 'Change in data for resource(s): categories,members,register'
+    0.20.0: 'Existing resource field(s) type changed: published_income_expenditure_statement'
+    0.21.0: 'Change in data for resource(s): categories,members,register'
+    0.22.0: 'Change in data for resource(s): categories,members,register'
+    0.23.0: 'Change in data for resource(s): categories,members,register'
+    0.24.0: 'Change in data for resource(s): categories,members,register'
+    0.25.0: 'Change in data for resource(s): categories,members,register'
+    0.26.0: 'New field(s) added to resource: parliament'

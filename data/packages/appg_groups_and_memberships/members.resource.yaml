@@ -52,7 +52,7 @@ schema:
       - senedd-cy
       - senedd-en
       - uk
-    example: uk
+    example: ni-assembly
   - name: appg
     type: string
     description: Slugified name of the APPG
@@ -116,4 +116,4 @@ schema:
       enum:
       - 'False'
     example: 'False'
-hash: b15bbaed5627a805d7105761084a4e34
+hash: 267f8d491ae5fbff42d333fd0c3d8ca9
