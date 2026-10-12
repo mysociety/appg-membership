@@ -13,50 +13,42 @@ schema:
   fields:
   - name: name
     type: string
+    extDtype: str
     description: Original name from the scraper (may contain typos)
     constraints:
       unique: false
     example: ALAW
   - name: officer_role
     type: string
+    extDtype: str
     description: Role of the member in the APPG
     constraints:
       unique: false
-      enum:
-      - Assistant Chair
-      - Chair & Registered Contact
-      - Co-Chair
-      - Co-Vice-Chair
-      - Deputy Chair
-      - Honorary President
-      - Honorary Secretary
-      - Officer
-      - President
-      - Secretary
-      - Senior Vice Chair
-      - Treasurer
-      - Vice Chair
     example: Assistant Chair
   - name: twfy_id
     type: string
+    extDtype: str
     description: TheyWorkForYou ID for the member
     constraints:
       unique: false
     example: uk.org.publicwhip/person/10001
   - name: mnis_id
     type: string
+    extDtype: str
     description: Parliamentary ID for the member
     constraints:
       unique: false
     example: '1028'
   - name: canon_name
     type: string
+    extDtype: str
     description: Name from the TWFY database
     constraints:
       unique: false
     example: Abena Oppong-Asare
   - name: appg
     type: string
+    extDtype: str
     description: Slugified name of the APPG
     constraints:
       unique: false
@@ -72,6 +64,7 @@ schema:
     example: 'False'
   - name: member_type
     type: string
+    extDtype: str
     description: Type of member (trusting source, not always right)
     constraints:
       unique: false
@@ -82,6 +75,7 @@ schema:
     example: lord
   - name: source
     type: string
+    extDtype: str
     description: Source of the data
     constraints:
       unique: false
@@ -91,7 +85,7 @@ schema:
       - parliament
     example: ai_search
   - name: last_updated
-    type: string
+    type: date
     description: Date the data was last updated
     constraints:
       unique: false
@@ -104,6 +98,7 @@ schema:
     example: '2024-12-01'
   - name: url_source
     type: string
+    extDtype: str
     description: URL of the source of the data
     constraints:
       unique: false

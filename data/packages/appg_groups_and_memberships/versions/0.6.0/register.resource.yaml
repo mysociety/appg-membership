@@ -13,27 +13,31 @@ schema:
   fields:
   - name: slug
     type: string
+    extDtype: str
     description: Slugified name of the APPG
     constraints:
       unique: true
     example: abraham-accords
   - name: title
     type: string
+    extDtype: str
     description: Title of the APPG
     constraints:
       unique: true
     example: Adult Social Care All-Party Parliamentary Group
   - name: purpose
     type: string
+    extDtype: str
     description: Purpose of the APPG
     constraints:
       unique: true
-    example: "'To raise awareness of disadvantages and poor outcomes faced by men\
-      \ and boys in education, mental and physical health and law; to influence attitudes,\
-      \ role models, policy and legislation that will lead to positive differences\
-      \ to their well-being and lives."
+    example: "'To raise awareness of disadvantages and poor outcomes faced by men
+      and boys in education, mental and physical health and law; to influence attitudes,
+      role models, policy and legislation that will lead to positive differences to
+      their well-being and lives."
   - name: category
     type: string
+    extDtype: str
     description: Category of the APPG
     constraints:
       unique: false
@@ -43,6 +47,7 @@ schema:
     example: Country, Area or Region Group
   - name: registrable_benefits
     type: string
+    extDtype: str
     description: Registrable benefits of the APPG
     constraints:
       unique: false
@@ -52,30 +57,37 @@ schema:
     example: ''
   - name: source_url
     type: string
+    extDtype: str
     description: URL of the APPG on the Parliament website
     constraints:
       unique: true
-    example: https://publications.parliament.uk/pa/cm/cmallparty/250507/digital-markets-and-digital-money.htm
+    example:
+      https://publications.parliament.uk/pa/cm/cmallparty/250507/digital-markets-and-digital-money.htm
   - name: categories
     type: string
-    description: Pipe seperated list of (mysociety added) categories for the APPG
+    extDtype: str
+    description: Pipe seperated list of (mysociety added) categories for the
+      APPG
     constraints:
       unique: false
     example: Animals & Animal Welfare
   - name: registered_contact_name
     type: string
+    extDtype: str
     description: Name of the registered contact
     constraints:
       unique: false
     example: Abtisam Mohamed MP
   - name: registered_contact_address
     type: string
+    extDtype: str
     description: Address of the registered contact
     constraints:
       unique: false
     example: ''
   - name: registered_contact_email
     type: string
+    extDtype: str
     description: Email of the registered contact
     constraints:
       unique: false
@@ -84,12 +96,14 @@ schema:
     example: ''
   - name: public_enquiry_point_name
     type: string
+    extDtype: str
     description: Name of the public enquiry point
     constraints:
       unique: false
     example: ''
   - name: public_enquiry_point_email
     type: string
+    extDtype: str
     description: Email of the public enquiry point
     constraints:
       unique: false
@@ -98,18 +112,21 @@ schema:
     example: ''
   - name: secretariat
     type: string
+    extDtype: str
     description: Name of the secretariat
     constraints:
       unique: false
     example: ''
   - name: website
     type: string
+    extDtype: str
     description: URL of the APPG website
     constraints:
       unique: false
     example: None
   - name: website_status
     type: string
+    extDtype: str
     description: Status of the APPG website
     constraints:
       unique: false
@@ -121,7 +138,7 @@ schema:
       - search
     example: bad_search
   - name: date_of_most_recent_agm
-    type: string
+    type: date
     description: Date of the most recent AGM
     constraints:
       unique: false
@@ -136,18 +153,20 @@ schema:
     example: 'False'
   - name: reporting_year
     type: string
+    extDtype: str
     description: Reporting year of the APPG
     constraints:
       unique: false
     example: 01 Apr to 31 Mar
   - name: next_reporting_deadline
-    type: string
+    type: date
     description: Next reporting deadline for the APPG
     constraints:
       unique: false
     example: '2025-08-01'
   - name: detailed_benefits
     type: string
+    extDtype: str
     description: Json dict of the benefits of the APPG
     constraints:
       unique: false

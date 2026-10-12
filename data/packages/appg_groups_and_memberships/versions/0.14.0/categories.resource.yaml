@@ -13,18 +13,21 @@ schema:
   fields:
   - name: appg_slug
     type: string
+    extDtype: str
     description: Slugified name of the APPG
     constraints:
       unique: false
     example: abraham-accords
   - name: category_slug
     type: string
+    extDtype: str
     description: Slugified name of the category
     constraints:
       unique: false
     example: ANIMALS_ANIMAL_WELFARE
   - name: category_name
     type: string
+    extDtype: str
     description: Nice name of the category
     constraints:
       unique: false

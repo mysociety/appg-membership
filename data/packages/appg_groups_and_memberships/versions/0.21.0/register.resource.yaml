@@ -13,24 +13,28 @@ schema:
   fields:
   - name: slug
     type: string
+    extDtype: str
     description: Slugified name of the APPG
     constraints:
       unique: false
     example: abraham-accords
   - name: title
     type: string
+    extDtype: str
     description: Title of the APPG
     constraints:
       unique: true
     example: Academic Staff in Universities - Cross Party Group
   - name: purpose
     type: string
+    extDtype: str
     description: Purpose of the APPG
     constraints:
       unique: false
     example: ''
   - name: category
     type: string
+    extDtype: str
     description: Category of the APPG
     constraints:
       unique: false
@@ -41,6 +45,7 @@ schema:
     example: ''
   - name: parliament
     type: string
+    extDtype: str
     description: Parliament the APPG is in
     constraints:
       unique: false
@@ -53,66 +58,78 @@ schema:
     example: ni-assembly
   - name: registrable_benefits
     type: string
+    extDtype: str
     description: Registrable benefits of the APPG
     constraints:
       unique: false
     example: ''
   - name: source_url
     type: string
+    extDtype: str
     description: URL of the APPG on the Parliament website
     constraints:
       unique: false
     example: https://aims.niassembly.gov.uk/mlas/apgdetails.aspx?&cid=1218
   - name: categories
     type: string
-    description: Pipe seperated list of (mysociety added) categories for the APPG
+    extDtype: str
+    description: Pipe seperated list of (mysociety added) categories for the
+      APPG
     constraints:
       unique: false
     example: Animals & Animal Welfare
   - name: registered_contact_name
     type: string
+    extDtype: str
     description: Name of the registered contact
     constraints:
       unique: false
     example: ''
   - name: registered_contact_address
     type: string
+    extDtype: str
     description: Address of the registered contact
     constraints:
       unique: false
     example: ''
   - name: registered_contact_email
     type: string
+    extDtype: str
     description: Email of the registered contact
     constraints:
       unique: false
     example: ''
   - name: public_enquiry_point_name
     type: string
+    extDtype: str
     description: Name of the public enquiry point
     constraints:
       unique: false
     example: ''
   - name: public_enquiry_point_email
     type: string
+    extDtype: str
     description: Email of the public enquiry point
     constraints:
       unique: false
     example: ''
   - name: secretariat
     type: string
+    extDtype: str
     description: Name of the secretariat
     constraints:
       unique: false
     example: ''
   - name: website
     type: string
+    extDtype: str
     description: URL of the APPG website
     constraints:
       unique: false
     example: None
   - name: website_status
     type: string
+    extDtype: str
     description: Status of the APPG website
     constraints:
       unique: false
@@ -125,6 +142,7 @@ schema:
     example: bad_search
   - name: detailed_benefits
     type: string
+    extDtype: str
     description: Json dict of the benefits of the APPG
     constraints:
       unique: false
@@ -132,33 +150,32 @@ schema:
       Reception\", \"Value \\u00a3s In bands of \\u00a31,500\": \"4,501-6,000\", \"\
       Received\": \"05/05/2025\", \"Registered\": \"17/07/2025\", \"benefit_type\"\
       : \"Benefits In Kind\"}, {\"Source\": \"Chelgate Limited\", \"Description\"\
-      : \"Chelgate Limited is paid by ADS Group (trade association), Lockheed Martin,\
-      \ GE Aerospace and Safran UK to act as the APPG's secretariat. From: 19/11/2025\
-      \ To: 18/11/2026\", \"Value \\u00a3s In bands of \\u00a31,500\": \"25,501-27,000\"\
+      : \"Chelgate Limited is paid by ADS Group (trade association), Lockheed Martin,
+      GE Aerospace and Safran UK to act as the APPG's secretariat. From: 19/11/2025
+      To: 18/11/2026\", \"Value \\u00a3s In bands of \\u00a31,500\": \"25,501-27,000\"\
       , \"Received\": \"19/11/2025\", \"Registered\": \"27/11/2025\", \"benefit_type\"\
       : \"Benefits In Kind\"}]"
   - name: date_of_most_recent_agm
-    type: string
+    type: date
     description: Date of the most recent AGM
     constraints:
       unique: false
     example: '2024-07-23'
   - name: published_income_expenditure_statement
-    type: string
+    type: boolean
     description: Published income and expenditure statement
     constraints:
       unique: false
-      enum:
-      - 'False'
     example: 'False'
   - name: reporting_year
     type: string
+    extDtype: str
     description: Reporting year of the APPG
     constraints:
       unique: false
     example: 01 Apr to 31 Mar
   - name: next_reporting_deadline
-    type: string
+    type: date
     description: Next reporting deadline for the APPG
     constraints:
       unique: false

@@ -13,24 +13,28 @@ schema:
   fields:
   - name: slug
     type: string
+    extDtype: str
     description: Slugified name of the APPG
     constraints:
       unique: true
     example: access-to-justice
   - name: title
     type: string
+    extDtype: str
     description: Title of the APPG
     constraints:
       unique: false
     example: ''
   - name: purpose
     type: string
+    extDtype: str
     description: Purpose of the APPG
     constraints:
       unique: false
     example: ''
   - name: category
     type: string
+    extDtype: str
     description: Category of the APPG
     constraints:
       unique: false
@@ -41,6 +45,7 @@ schema:
     example: ''
   - name: registrable_benefits
     type: string
+    extDtype: str
     description: Registrable benefits of the APPG
     constraints:
       unique: false
@@ -50,24 +55,29 @@ schema:
     example: ''
   - name: source_url
     type: string
+    extDtype: str
     description: URL of the APPG on the Parliament website
     constraints:
       unique: true
-    example: https://publications.parliament.uk/pa/cm/cmallparty/250328/access-to-justice.htm
+    example:
+      https://publications.parliament.uk/pa/cm/cmallparty/250328/access-to-justice.htm
   - name: registered_contact_name
     type: string
+    extDtype: str
     description: Name of the registered contact
     constraints:
       unique: false
     example: ''
   - name: registered_contact_address
     type: string
+    extDtype: str
     description: Address of the registered contact
     constraints:
       unique: false
     example: ''
   - name: registered_contact_email
     type: string
+    extDtype: str
     description: Email of the registered contact
     constraints:
       unique: false
@@ -76,12 +86,14 @@ schema:
     example: ''
   - name: public_enquiry_point_name
     type: string
+    extDtype: str
     description: Name of the public enquiry point
     constraints:
       unique: false
     example: ''
   - name: public_enquiry_point_email
     type: string
+    extDtype: str
     description: Email of the public enquiry point
     constraints:
       unique: false
@@ -90,18 +102,21 @@ schema:
     example: ''
   - name: secretariat
     type: string
+    extDtype: str
     description: Name of the secretariat
     constraints:
       unique: false
     example: ''
   - name: website
     type: string
+    extDtype: str
     description: URL of the APPG website
     constraints:
       unique: false
     example: None
   - name: website_status
     type: string
+    extDtype: str
     description: Status of the APPG website
     constraints:
       unique: false
@@ -113,27 +128,26 @@ schema:
       - search
     example: bad_search
   - name: date_of_most_recent_agm
-    type: string
+    type: date
     description: Date of the most recent AGM
     constraints:
       unique: false
     example: '2024-07-22'
   - name: published_income_expenditure_statement
-    type: string
+    type: boolean
     description: Published income and expenditure statement
     constraints:
       unique: false
-      enum:
-      - 'False'
     example: 'False'
   - name: reporting_year
     type: string
+    extDtype: str
     description: Reporting year of the APPG
     constraints:
       unique: false
     example: 01 Apr to 31 Mar
   - name: next_reporting_deadline
-    type: string
+    type: date
     description: Next reporting deadline for the APPG
     constraints:
       unique: false
