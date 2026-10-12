@@ -1,7 +1,7 @@
 title: Categories
 description: Categories added to APPG by mySociety
 custom:
-  row_count: 1449
+  row_count: 1477
 path: categories.parquet
 name: categories
 profile: data-resource
@@ -13,20 +13,23 @@ schema:
   fields:
   - name: appg_slug
     type: string
+    extDtype: str
     description: Slugified name of the APPG
     constraints:
       unique: false
     example: abraham-accords
   - name: category_slug
     type: string
+    extDtype: str
     description: Slugified name of the category
     constraints:
       unique: false
     example: ANIMALS_ANIMAL_WELFARE
   - name: category_name
     type: string
+    extDtype: str
     description: Nice name of the category
     constraints:
       unique: false
     example: Animals & Animal Welfare
-hash: bfd38917e3a10e1cf40e2557c0fd6c3d
+hash: e8aff036c4ed27674ccec6338c4d9766
