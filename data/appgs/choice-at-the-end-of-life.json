@@ -33,8 +33,8 @@
       "role": "Officer",
       "name": "Baroness Young of Old Scone",
       "party": "Non-affiliated",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13030",
+      "mnis_id": "1755",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "http://www.appg-endoflifechoice.org.uk/members"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Jeevun Sandher",
@@ -99,22 +99,22 @@
         "member_type": "mp",
         "mnis_id": "4873",
         "twfy_id": "uk.org.publicwhip/person/25809",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Falconer of Thoroton",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "2758",
+        "twfy_id": "uk.org.publicwhip/person/12851",
         "removed": false
       },
       {
         "name": "Lord Goddard of Stockport",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4334",
+        "twfy_id": "uk.org.publicwhip/person/25247",
         "removed": false
       },
       {
@@ -241,8 +241,8 @@
         "name": "Baroness Young of Old Scone",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1755",
+        "twfy_id": "uk.org.publicwhip/person/13030",
         "removed": false
       },
       {
@@ -259,6 +259,22 @@
         "member_type": "mp",
         "mnis_id": "5163",
         "twfy_id": "uk.org.publicwhip/person/26383",
+        "removed": false
+      },
+      {
+        "name": "Freddie van Mierlo",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5296",
+        "twfy_id": "uk.org.publicwhip/person/26540",
+        "removed": false
+      },
+      {
+        "name": "Catherine Fookes",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5291",
+        "twfy_id": "uk.org.publicwhip/person/26510",
         "removed": false
       }
     ]
@@ -292,8 +308,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/choice-at-the-end-of-life.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/choice-at-the-end-of-life.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Human Rights, Equality & Social Justice"

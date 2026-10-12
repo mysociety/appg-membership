@@ -25,8 +25,8 @@
       "role": "Officer",
       "name": "Baroness Morgan of Drefelin",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13480",
+      "mnis_id": "3685",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://breastcancernow.org/get-involved/campaign-with-us/developing-policy-and-working-with-government/the-all-party-parliamentary-group-on-breast-cancer"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Clive Jones",
@@ -187,7 +187,7 @@
         "member_type": "mp",
         "mnis_id": "5310",
         "twfy_id": "uk.org.publicwhip/person/26584",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alex Easton",
@@ -211,7 +211,7 @@
         "member_type": "mp",
         "mnis_id": "5322",
         "twfy_id": "uk.org.publicwhip/person/26560",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mary Kelly Foy",
@@ -227,7 +227,7 @@
         "member_type": "mp",
         "mnis_id": "4932",
         "twfy_id": "uk.org.publicwhip/person/26055",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rachel Gilmour",
@@ -259,7 +259,7 @@
         "member_type": "mp",
         "mnis_id": "5321",
         "twfy_id": "uk.org.publicwhip/person/26570",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alice Macdonald",
@@ -291,7 +291,7 @@
         "member_type": "mp",
         "mnis_id": "5214",
         "twfy_id": "uk.org.publicwhip/person/26509",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Perran Moon",
@@ -305,8 +305,8 @@
         "name": "Baroness Morgan of Drefelin",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3685",
+        "twfy_id": "uk.org.publicwhip/person/13480",
         "removed": false
       },
       {
@@ -323,7 +323,7 @@
         "member_type": "mp",
         "mnis_id": "1466",
         "twfy_id": "uk.org.publicwhip/person/11132",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Josh Newbury",
@@ -337,8 +337,8 @@
         "name": "Baroness Ritchie of Downpatrick",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4130",
+        "twfy_id": "uk.org.publicwhip/person/13856",
         "removed": false
       },
       {
@@ -420,6 +420,62 @@
         "mnis_id": "5194",
         "twfy_id": "uk.org.publicwhip/person/26469",
         "removed": false
+      },
+      {
+        "name": "Mr Lee Dillon",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5310",
+        "twfy_id": "uk.org.publicwhip/person/26584",
+        "removed": false
+      },
+      {
+        "name": "Mr Will Forster",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5322",
+        "twfy_id": "uk.org.publicwhip/person/26560",
+        "removed": false
+      },
+      {
+        "name": "Mr Louie French",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4932",
+        "twfy_id": "uk.org.publicwhip/person/26055",
+        "removed": false
+      },
+      {
+        "name": "Mr Paul Kohler",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5321",
+        "twfy_id": "uk.org.publicwhip/person/26570",
+        "removed": false
+      },
+      {
+        "name": "Dr Brian Mathew",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5214",
+        "twfy_id": "uk.org.publicwhip/person/26509",
+        "removed": false
+      },
+      {
+        "name": "Dr Andrew Murrison",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1466",
+        "twfy_id": "uk.org.publicwhip/person/11132",
+        "removed": false
+      },
+      {
+        "name": "Sharon Hodgson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1521",
+        "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
       }
     ]
   },
@@ -427,7 +483,7 @@
     "registered_contact_name": "Clive Jones MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "clive.jones.mp@parliament.uk",
-    "public_enquiry_point_name": "Jennie Nadon, Breast Cancer Now",
+    "public_enquiry_point_name": "Nele Gewert, Breast Cancer Now",
     "public_enquiry_point_email": "APPG@breastcancernow.org",
     "secretariat": "Breast Cancer Now acts as the group's secretariat.https://breastcancernow.org/",
     "website": {
@@ -452,8 +508,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/breast-cancer.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/breast-cancer.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

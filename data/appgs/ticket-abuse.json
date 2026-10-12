@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgticketabuse.wordpress.com/about-2/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Sharon Hodgson",
@@ -145,9 +145,9 @@
         "name": "Earl of Glasgow",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "2608",
+        "twfy_id": "uk.org.publicwhip/person/13170",
+        "removed": true
       },
       {
         "name": "Baroness Grey-Thompson",
@@ -155,15 +155,15 @@
         "member_type": "lord",
         "mnis_id": "3862",
         "twfy_id": "uk.org.publicwhip/person/24707",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hayter of Kentish Town",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4159",
+        "twfy_id": "uk.org.publicwhip/person/24973",
+        "removed": true
       },
       {
         "name": "Mark Garnier",
@@ -196,6 +196,30 @@
         "mnis_id": "4034",
         "twfy_id": "uk.org.publicwhip/person/24805",
         "removed": false
+      },
+      {
+        "name": "The Earl of Glasgow",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Baroness Grey-Thompson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "The Baroness Hayter of Kentish Town",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -219,8 +243,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/ticket-abuse.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/ticket-abuse.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs",
     "Arts, Culture, Heritage & Media"

@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appg-access-to-justice.co.uk/our-elected-members"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Lord Willy Bach",
@@ -107,7 +107,7 @@
         "member_type": "mp",
         "mnis_id": "5051",
         "twfy_id": "uk.org.publicwhip/person/26330",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Henry Tufnell",
@@ -155,7 +155,7 @@
         "member_type": "lord",
         "mnis_id": "4920",
         "twfy_id": "uk.org.publicwhip/person/26038",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Bellamy",
@@ -219,7 +219,7 @@
         "member_type": "mp",
         "mnis_id": "1516",
         "twfy_id": "uk.org.publicwhip/person/11559",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rachel Taylor",
@@ -259,7 +259,7 @@
         "member_type": "mp",
         "mnis_id": "5067",
         "twfy_id": "uk.org.publicwhip/person/26346",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Bell Ribeiro-Addy",
@@ -267,7 +267,7 @@
         "member_type": "mp",
         "mnis_id": "4764",
         "twfy_id": "uk.org.publicwhip/person/25856",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Alberto Costa",
@@ -275,6 +275,14 @@
         "member_type": "mp",
         "mnis_id": "4439",
         "twfy_id": "uk.org.publicwhip/person/25413",
+        "removed": false
+      },
+      {
+        "name": "Baroness Harman",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "150",
+        "twfy_id": "uk.org.publicwhip/person/10260",
         "removed": false
       }
     ]
@@ -299,8 +307,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/access-to-justice.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/access-to-justice.htm",
   "categories": [
     "Justice, Law & Security",
     "Human Rights, Equality & Social Justice"

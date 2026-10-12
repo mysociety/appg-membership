@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Mark Pritchard MP",
@@ -79,8 +79,8 @@
         "name": "Lord McConnell of Glenscorrodale",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4168",
+        "twfy_id": "uk.org.publicwhip/person/14049",
         "removed": false
       },
       {
@@ -167,16 +167,16 @@
         "name": "Baroness Hodgson of Abinger",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4301",
+        "twfy_id": "uk.org.publicwhip/person/25199",
         "removed": false
       },
       {
         "name": "Lord McInnes of Kilwinning",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4576",
+        "twfy_id": "uk.org.publicwhip/person/25585",
         "removed": false
       },
       {
@@ -223,8 +223,8 @@
         "name": "Lord Foulkes",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "579",
-        "twfy_id": "uk.org.publicwhip/person/10211",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

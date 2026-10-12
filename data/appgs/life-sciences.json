@@ -33,8 +33,8 @@
       "role": "Officer",
       "name": "Baroness Morgan of Drefelin",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13480",
+      "mnis_id": "3685",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.bioindustry.org/policy/appg.html"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Kit Malthouse",
@@ -57,8 +57,8 @@
         "name": "Baroness Morgan of Drefelin",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3685",
+        "twfy_id": "uk.org.publicwhip/person/13480",
         "removed": false
       },
       {
@@ -292,8 +292,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/life-sciences.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/life-sciences.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

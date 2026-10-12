@@ -33,18 +33,18 @@
       "role": "Officer",
       "name": "Lord Bassam of Brighton",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13512",
+      "mnis_id": "3504",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.appgrb.org.uk/members-of-the-appg-for-responsible-business/",
-      "https://www.appgrb.org.uk/officers-of-the-appg-for-responsible-business/"
+      "https://www.appgrb.org.uk/officers-of-the-appg-for-responsible-business/",
+      "https://www.appgrb.org.uk/members-of-the-appg-for-responsible-business/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "AB InBev",
@@ -162,8 +162,8 @@
         "name": "Thales UK",
         "is_officer": false,
         "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
@@ -226,8 +226,8 @@
         "name": "The Lord Bassam of Brighton",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3504",
+        "twfy_id": "uk.org.publicwhip/person/13512",
         "removed": false
       }
     ]
@@ -261,8 +261,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/responsible-business.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/responsible-business.htm",
   "categories": [
     "Economy, Business & Industry"
   ]

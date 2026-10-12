@@ -6,14 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Uma Kumaran",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26542",
-      "mnis_id": "5278",
-      "removed": false
-    },
-    {
       "role": "Vice Chair",
       "name": "Pippa Heylings",
       "party": "Liberal Democrat",
@@ -33,8 +25,8 @@
       "role": "Vice Chair",
       "name": "Lord Goldsmith of Richmond Park",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/24911",
+      "mnis_id": "4062",
       "removed": false
     }
   ],
@@ -43,7 +35,7 @@
     "source_url": [
       "https://www.climateappg.co.uk/who-we-are#members"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Luke Murphy",
@@ -73,8 +65,8 @@
         "name": "Lord Goldsmith of Richmond Park",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4062",
+        "twfy_id": "uk.org.publicwhip/person/24911",
         "removed": false
       },
       {
@@ -571,7 +563,7 @@
         "member_type": "mp",
         "mnis_id": "5278",
         "twfy_id": "uk.org.publicwhip/person/26542",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Victoria Collins",
@@ -625,8 +617,8 @@
         "name": "Baroness Bennett of Manor Castle",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4719",
+        "twfy_id": "uk.org.publicwhip/person/25776",
         "removed": false
       },
       {
@@ -681,33 +673,33 @@
         "name": "Baroness Willis of Summertown",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4945",
+        "twfy_id": "uk.org.publicwhip/person/26088",
         "removed": false
       },
       {
         "name": "Baroness Young of Old Scone",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1755",
+        "twfy_id": "uk.org.publicwhip/person/13030",
         "removed": false
       },
       {
         "name": "Bishop of Norwich",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4999",
+        "twfy_id": "uk.org.publicwhip/person/26279",
         "removed": false
       },
       {
         "name": "Lord Stone of Blackheath",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "2222",
+        "twfy_id": "uk.org.publicwhip/person/13630",
+        "removed": true
       },
       {
         "name": "Lord Teverson",
@@ -764,13 +756,21 @@
         "mnis_id": "5059",
         "twfy_id": "uk.org.publicwhip/person/26348",
         "removed": false
+      },
+      {
+        "name": "Sarah Russell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5324",
+        "twfy_id": "uk.org.publicwhip/person/26571",
+        "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Uma Kumaran MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7777.",
-    "registered_contact_email": "uma.kumaran.mp@parliament.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
     "public_enquiry_point_name": "Zoe Avison, Uplift",
     "public_enquiry_point_email": "zoe@upliftuk.org",
     "secretariat": "Uplift acts as the group's secretariat.https://upliftuk.org/",
@@ -796,8 +796,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/climate-change.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/climate-change.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

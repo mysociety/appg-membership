@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgonmusic.wordpress.com/officers-and-members/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Pete Wishart",
@@ -1153,8 +1153,8 @@
         "name": "Baroness Smith of Llanfaes",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5023",
+        "twfy_id": "uk.org.publicwhip/person/26303",
         "removed": false
       },
       {
@@ -1187,7 +1187,7 @@
         "member_type": "lord",
         "mnis_id": "1588",
         "twfy_id": "uk.org.publicwhip/person/11943",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness MacLeod",
@@ -1203,8 +1203,8 @@
     "registered_contact_name": "Pete Wishart MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 8303.",
     "registered_contact_email": "pete.wishart.mp@parliament.uk",
-    "public_enquiry_point_name": "Dougie Brown, UK Music",
-    "public_enquiry_point_email": "Dougie.Brown@ukmusic.org",
+    "public_enquiry_point_name": "Lois Hinder, UK Music",
+    "public_enquiry_point_email": "Lois.Hinder@ukmusic.org",
     "secretariat": "UK Music acts as the group's secretariat.http://www.ukmusic.org/",
     "website": {
       "status": "register",
@@ -1228,8 +1228,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/music.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/music.htm",
   "categories": [
     "Arts, Culture, Heritage & Media"
   ]

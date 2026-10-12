@@ -25,8 +25,8 @@
       "role": "Officer",
       "name": "Baroness Lawrence of Clarendon",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25193",
+      "mnis_id": "4290",
       "removed": false
     },
     {
@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Bell Ribeiro-Addy MP",
@@ -55,8 +55,8 @@
         "name": "Lord Taylor of Warwick",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1796",
+        "twfy_id": "uk.org.publicwhip/person/13194",
         "removed": false
       },
       {
@@ -225,8 +225,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/jamaica.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/jamaica.htm",
   "categories": [
     "Country Group"
   ]

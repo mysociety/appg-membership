@@ -43,7 +43,7 @@
     "source_url": [
       "https://adultsocialcareappg.com/who-we-are"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Sojan Joseph",
@@ -169,9 +169,9 @@
         "name": "Baroness Warwick",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "2471",
-        "twfy_id": "uk.org.publicwhip/person/12894",
-        "removed": true
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
+        "removed": false
       },
       {
         "name": "Baroness Grey-Thompson",
@@ -179,7 +179,7 @@
         "member_type": "lord",
         "mnis_id": "3862",
         "twfy_id": "uk.org.publicwhip/person/24707",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Best",
@@ -217,9 +217,9 @@
         "name": "Warwick",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "2471",
-        "twfy_id": "uk.org.publicwhip/person/12894",
-        "removed": false
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
+        "removed": true
       },
       {
         "name": "Grey-Thompson",
@@ -227,7 +227,7 @@
         "member_type": "lord",
         "mnis_id": "3862",
         "twfy_id": "uk.org.publicwhip/person/24707",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Best",
@@ -241,8 +241,8 @@
         "name": "Bishop of Southwell and Nottingham",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4940",
+        "twfy_id": "uk.org.publicwhip/person/26063",
         "removed": false
       },
       {
@@ -444,8 +444,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/adult-social-care.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/adult-social-care.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

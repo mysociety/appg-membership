@@ -33,8 +33,8 @@
       "role": "Vice Chair",
       "name": "Baroness Lister of Burtersett",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25058",
+      "mnis_id": "4234",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgmigration.org.uk/appg-on-migration-members/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "David Simmonds",
@@ -73,8 +73,8 @@
         "name": "Baroness Lister of Burtersett CBE",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4234",
+        "twfy_id": "uk.org.publicwhip/person/25058",
         "removed": true
       },
       {
@@ -177,16 +177,16 @@
         "name": "Lord Anderson of Ipswich",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4705",
+        "twfy_id": "uk.org.publicwhip/person/25736",
         "removed": false
       },
       {
         "name": "Lord Boswell of Aynho",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "352",
+        "twfy_id": "uk.org.publicwhip/person/10056",
         "removed": false
       },
       {
@@ -217,16 +217,16 @@
         "name": "Lord Hodgson of Astley Abbotts",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1651",
+        "twfy_id": "uk.org.publicwhip/person/13226",
         "removed": false
       },
       {
         "name": "Lord Rees of Easton OBE",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5397",
+        "twfy_id": "uk.org.publicwhip/person/26676",
         "removed": true
       },
       {
@@ -321,16 +321,16 @@
         "name": "Baroness Lister of Burtersett",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4234",
+        "twfy_id": "uk.org.publicwhip/person/25058",
         "removed": false
       },
       {
         "name": "Lord Rees of Easton",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5397",
+        "twfy_id": "uk.org.publicwhip/person/26676",
         "removed": false
       },
       {
@@ -363,7 +363,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "The Lord Bishop of Sheffield, Dr. Peter Jonathan Wilcox",
@@ -371,7 +371,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "The Lord Dholakia",
@@ -387,7 +387,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Bishop of Sheffield, Dr. Peter Jonathan Wilcox",
@@ -395,7 +395,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -421,14 +421,6 @@
   "detailed_benefits": [
     {
       "Source": "Refugee, Asylum and Migration Policy Project (RAMP)",
-      "Description": "Transportation food and translation service for five members during a visit to Calais to meet with French government officials. From: 12/06/2025 To: 12/06/2025",
-      "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "12/06/2025",
-      "Registered": "11/07/2025",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "Refugee, Asylum and Migration Policy Project (RAMP)",
       "Description": "Secretariat From: 10/09/2025 To: 09/09/2026",
       "Value £s In bands of £1,500": "22,501-24,000",
       "Received": "10/09/2025",
@@ -436,8 +428,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/migration.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/migration.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

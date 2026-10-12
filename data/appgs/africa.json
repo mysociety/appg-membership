@@ -43,7 +43,7 @@
     "source_url": [
       "https://royalafricansociety.org/whatwedo/policy/appga/members-officers/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Lord Boateng",
@@ -251,9 +251,9 @@
     "registered_contact_name": "Dame Chi Onwurah MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7114.",
     "registered_contact_email": "chi.onwurah.mp@parliament.uk",
-    "public_enquiry_point_name": "Rita Davids",
-    "public_enquiry_point_email": "rita.davids@outlook.com",
-    "secretariat": "Rita Davids acts as the group's secretariat.",
+    "public_enquiry_point_name": "Michaela Levy, Royal African Society",
+    "public_enquiry_point_email": "ml4@soas.ac.uk",
+    "secretariat": "Royal African Society acts as the group's secretariat.https://royalafricansociety.org/",
     "website": {
       "status": "register",
       "url": "https://royalafricansociety.org/whatwedo/policy/appga"
@@ -265,10 +265,19 @@
     "reporting_year": "12 Sep to 11 Sep",
     "next_reporting_deadline": "2027-01-12"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/africa.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Royal African Society",
+      "Description": "Secretariat From: 19/05/2026 To: 11/09/2026",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "19/05/2026",
+      "Registered": "31/07/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/africa.htm",
   "categories": [
     "Country Group"
   ]

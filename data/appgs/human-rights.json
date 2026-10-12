@@ -15,6 +15,14 @@
     },
     {
       "role": "Officer",
+      "name": "Markus Campbell-Savours",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26485",
+      "mnis_id": "5124",
+      "removed": false
+    },
+    {
+      "role": "Officer",
       "name": "Dr Ellie Chowns",
       "party": "Green Party",
       "twfy_id": "uk.org.publicwhip/person/26577",
@@ -28,14 +36,6 @@
       "twfy_id": "uk.org.publicwhip/person/10221",
       "mnis_id": "337",
       "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Markus Campbell-Savours",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26485",
-      "mnis_id": "5124",
-      "removed": false
     }
   ],
   "members_list": {
@@ -44,7 +44,7 @@
       "https://www.appghumanrights.com/officers",
       "https://www.appghumanrights.com/members"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Fabian Hamilton",
@@ -60,7 +60,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ellie Chowns",
@@ -348,7 +348,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bird",
@@ -356,7 +356,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Blower",
@@ -364,7 +364,7 @@
         "member_type": "lord",
         "mnis_id": "4724",
         "twfy_id": "uk.org.publicwhip/person/25777",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dholakia",
@@ -372,15 +372,15 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Finlay of Llandaff",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "3609",
+        "twfy_id": "uk.org.publicwhip/person/13471",
+        "removed": true
       },
       {
         "name": "Hamwee",
@@ -388,7 +388,7 @@
         "member_type": "lord",
         "mnis_id": "2652",
         "twfy_id": "uk.org.publicwhip/person/13422",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Harries of Pentregarth",
@@ -396,15 +396,15 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Hodgson of Abinger",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4301",
+        "twfy_id": "uk.org.publicwhip/person/25199",
+        "removed": true
       },
       {
         "name": "Hooper",
@@ -412,23 +412,23 @@
         "member_type": "lord",
         "mnis_id": "2005",
         "twfy_id": "uk.org.publicwhip/person/13081",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jones of Moulsecoomb",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4297",
+        "twfy_id": "uk.org.publicwhip/person/25214",
+        "removed": true
       },
       {
         "name": "Miller of Chilthorne Domer",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "1934",
+        "twfy_id": "uk.org.publicwhip/person/13554",
+        "removed": true
       },
       {
         "name": "Oates",
@@ -436,7 +436,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Russell of Liverpool",
@@ -444,7 +444,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Scriven",
@@ -452,10 +452,138 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Whitaker",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2510",
+        "twfy_id": "uk.org.publicwhip/person/12957",
+        "removed": true
+      },
+      {
+        "name": "The Lord Garnier",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "337",
+        "twfy_id": "uk.org.publicwhip/person/10221",
+        "removed": false
+      },
+      {
+        "name": "Lord Alton of Liverpool",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "738",
+        "twfy_id": "uk.org.publicwhip/person/13103",
+        "removed": false
+      },
+      {
+        "name": "Lord Bird",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4564",
+        "twfy_id": "uk.org.publicwhip/person/25479",
+        "removed": false
+      },
+      {
+        "name": "Baroness Blower",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4724",
+        "twfy_id": "uk.org.publicwhip/person/25777",
+        "removed": false
+      },
+      {
+        "name": "The Lord Dholakia",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2685",
+        "twfy_id": "uk.org.publicwhip/person/13662",
+        "removed": false
+      },
+      {
+        "name": "Baroness Finlay of Llandaff",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3609",
+        "twfy_id": "uk.org.publicwhip/person/13471",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hamwee",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2652",
+        "twfy_id": "uk.org.publicwhip/person/13422",
+        "removed": false
+      },
+      {
+        "name": "The Lord Harries of Pentregarth",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3813",
+        "twfy_id": "uk.org.publicwhip/person/13168",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hodgson of Abinger",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4301",
+        "twfy_id": "uk.org.publicwhip/person/25199",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hooper",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2005",
+        "twfy_id": "uk.org.publicwhip/person/13081",
+        "removed": false
+      },
+      {
+        "name": "Baroness Jones of Moulsecoomb",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4297",
+        "twfy_id": "uk.org.publicwhip/person/25214",
+        "removed": false
+      },
+      {
+        "name": "Baroness Miller of Chilthorne Domer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1934",
+        "twfy_id": "uk.org.publicwhip/person/13554",
+        "removed": false
+      },
+      {
+        "name": "Lord Oates",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4549",
+        "twfy_id": "uk.org.publicwhip/person/25464",
+        "removed": false
+      },
+      {
+        "name": "Lord Russell of Liverpool",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2134",
+        "twfy_id": "uk.org.publicwhip/person/25260",
+        "removed": false
+      },
+      {
+        "name": "Lord Scriven",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4333",
+        "twfy_id": "uk.org.publicwhip/person/25242",
+        "removed": false
+      },
+      {
+        "name": "Baroness Whitaker",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": "2510",
@@ -477,10 +605,10 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-07-15",
+    "date_of_most_recent_agm": "2026-07-08",
     "published_income_expenditure_statement": false,
     "reporting_year": "01 Apr to 31 Mar",
-    "next_reporting_deadline": "2026-08-01"
+    "next_reporting_deadline": "2027-08-01"
   },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
@@ -492,8 +620,8 @@
       "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/human-rights.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/human-rights.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

@@ -33,18 +33,17 @@
       "role": "Vice Chair",
       "name": "Baroness Elliott of Whitburn Bay",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/24710",
+      "mnis_id": "4127",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://allpartywritersgroup.co.uk/group-officers/",
-      "https://allpartywritersgroup.co.uk/group-members/"
+      "https://allpartywritersgroup.co.uk/group-officers/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Matt Rodda",
@@ -60,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "4591",
         "twfy_id": "uk.org.publicwhip/person/25596",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rebecca Elizabeth Harris",
@@ -76,7 +75,7 @@
         "member_type": "mp",
         "mnis_id": "1521",
         "twfy_id": "uk.org.publicwhip/person/11592",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Neil Coyle",
@@ -84,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "4368",
         "twfy_id": "uk.org.publicwhip/person/25326",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Barry Strachan Gardiner",
@@ -164,7 +163,7 @@
         "member_type": "lord",
         "mnis_id": "805",
         "twfy_id": "uk.org.publicwhip/person/13000",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Clement-Jones CBE",
@@ -178,9 +177,9 @@
         "name": "The Lord Norton of Louth",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "3187",
+        "twfy_id": "uk.org.publicwhip/person/13441",
+        "removed": true
       },
       {
         "name": "The Rt Hon the Lord Naseby",
@@ -196,7 +195,7 @@
         "member_type": "lord",
         "mnis_id": "2709",
         "twfy_id": "uk.org.publicwhip/person/13651",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Baroness Massey of Darwen",
@@ -220,7 +219,7 @@
         "member_type": "lord",
         "mnis_id": "489",
         "twfy_id": "uk.org.publicwhip/person/10625",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon the Lord Blunkett",
@@ -236,14 +235,14 @@
         "member_type": "lord",
         "mnis_id": "134",
         "twfy_id": "uk.org.publicwhip/person/10370",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon Lord Foster of Bath",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "214",
+        "twfy_id": "uk.org.publicwhip/person/10208",
         "removed": true
       },
       {
@@ -266,8 +265,8 @@
         "name": "The Rt Hon the Lord Knight of Weymouth",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4160",
+        "twfy_id": "uk.org.publicwhip/person/11027",
         "removed": true
       },
       {
@@ -284,7 +283,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Baroness Young of Hornsey",
@@ -298,32 +297,32 @@
         "name": "The Rt Hon Lord Vaizey of Didcot",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1580",
+        "twfy_id": "uk.org.publicwhip/person/11905",
         "removed": true
       },
       {
         "name": "The Rt Hon the Lord Smith of Finsbury",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "186",
+        "twfy_id": "uk.org.publicwhip/person/10547",
         "removed": true
       },
       {
         "name": "The Rt Hon the Lord Howarth of Newport",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "544",
+        "twfy_id": "uk.org.publicwhip/person/10291",
         "removed": true
       },
       {
         "name": "The Rt Hon. the Lord Foulkes of Cumnock",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "579",
+        "twfy_id": "uk.org.publicwhip/person/10211",
         "removed": true
       },
       {
@@ -348,7 +347,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Dobbs",
@@ -356,15 +355,15 @@
         "member_type": "lord",
         "mnis_id": "4192",
         "twfy_id": "uk.org.publicwhip/person/25024",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Fellowes of West Stafford",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4208",
+        "twfy_id": "uk.org.publicwhip/person/25038",
+        "removed": true
       },
       {
         "name": "The Lord Wigley",
@@ -386,9 +385,9 @@
         "name": "The Lord Bourne of Aberystwyth",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4282",
+        "twfy_id": "uk.org.publicwhip/person/25192",
+        "removed": true
       },
       {
         "name": "The Baroness Suttie",
@@ -404,7 +403,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Chris Evans",
@@ -420,7 +419,7 @@
         "member_type": "mp",
         "mnis_id": "5254",
         "twfy_id": "uk.org.publicwhip/person/26523",
-        "removed": false
+        "removed": true
       },
       {
         "name": "John Whittingdale",
@@ -442,8 +441,8 @@
         "name": "Baroness Elliott of Whitburn Bay",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4127",
+        "twfy_id": "uk.org.publicwhip/person/24710",
         "removed": false
       },
       {
@@ -452,7 +451,7 @@
         "member_type": "mp",
         "mnis_id": "54",
         "twfy_id": "uk.org.publicwhip/person/10358",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Graham Stringer",
@@ -460,7 +459,7 @@
         "member_type": "mp",
         "mnis_id": "449",
         "twfy_id": "uk.org.publicwhip/person/10576",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Clive Efford",
@@ -468,7 +467,7 @@
         "member_type": "mp",
         "mnis_id": "165",
         "twfy_id": "uk.org.publicwhip/person/10185",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Barry Gardiner",
@@ -476,7 +475,7 @@
         "member_type": "mp",
         "mnis_id": "146",
         "twfy_id": "uk.org.publicwhip/person/10220",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Meg Hillier",
@@ -484,7 +483,7 @@
         "member_type": "mp",
         "mnis_id": "1524",
         "twfy_id": "uk.org.publicwhip/person/11605",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Valerie Vaz",
@@ -492,7 +491,7 @@
         "member_type": "mp",
         "mnis_id": "4076",
         "twfy_id": "uk.org.publicwhip/person/24852",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alex Sobel",
@@ -500,7 +499,7 @@
         "member_type": "mp",
         "mnis_id": "4658",
         "twfy_id": "uk.org.publicwhip/person/25680",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Valerie Vaz",
@@ -508,7 +507,7 @@
         "member_type": "mp",
         "mnis_id": "4076",
         "twfy_id": "uk.org.publicwhip/person/24852",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Pete Wishart",
@@ -516,7 +515,7 @@
         "member_type": "mp",
         "mnis_id": "1440",
         "twfy_id": "uk.org.publicwhip/person/11333",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Freyberg",
@@ -524,7 +523,7 @@
         "member_type": "lord",
         "mnis_id": "2593",
         "twfy_id": "uk.org.publicwhip/person/13308",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord McCabe",
@@ -532,39 +531,39 @@
         "member_type": "lord",
         "mnis_id": "298",
         "twfy_id": "uk.org.publicwhip/person/10377",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Brennan of Canton",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "1400",
+        "twfy_id": "uk.org.publicwhip/person/10753",
+        "removed": true
       },
       {
         "name": "Lord Vaizey of Didcot",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "1580",
+        "twfy_id": "uk.org.publicwhip/person/11905",
+        "removed": true
       },
       {
         "name": "Baroness Winterton of Doncaster",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "390",
+        "twfy_id": "uk.org.publicwhip/person/10648",
+        "removed": true
       },
       {
         "name": "Baroness Hodge of Barking",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "140",
+        "twfy_id": "uk.org.publicwhip/person/10281",
+        "removed": true
       },
       {
         "name": "The Lord Cryer",
@@ -572,15 +571,15 @@
         "member_type": "lord",
         "mnis_id": "181",
         "twfy_id": "uk.org.publicwhip/person/10143",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Massey of Hampstead",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "5405",
+        "twfy_id": "uk.org.publicwhip/person/26685",
+        "removed": true
       },
       {
         "name": "The Lord Bragg",
@@ -588,15 +587,15 @@
         "member_type": "lord",
         "mnis_id": "3514",
         "twfy_id": "uk.org.publicwhip/person/13034",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Harris of Haringey",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "2671",
+        "twfy_id": "uk.org.publicwhip/person/13135",
+        "removed": true
       },
       {
         "name": "The Lord Clement-Jones",
@@ -604,7 +603,7 @@
         "member_type": "lord",
         "mnis_id": "3396",
         "twfy_id": "uk.org.publicwhip/person/13517",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Naseby",
@@ -612,7 +611,7 @@
         "member_type": "lord",
         "mnis_id": "1251",
         "twfy_id": "uk.org.publicwhip/person/13704",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Baroness O’Neill of Bengarve",
@@ -620,7 +619,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Blunkett",
@@ -628,47 +627,47 @@
         "member_type": "lord",
         "mnis_id": "395",
         "twfy_id": "uk.org.publicwhip/person/10050",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Armstrong of Hill Top",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4150",
+        "twfy_id": "uk.org.publicwhip/person/10014",
+        "removed": true
       },
       {
         "name": "Lord Knight of Weymouth",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4160",
+        "twfy_id": "uk.org.publicwhip/person/11027",
+        "removed": true
       },
       {
         "name": "Baroness Young of Hornsey",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "3696",
+        "twfy_id": "uk.org.publicwhip/person/13048",
+        "removed": true
       },
       {
         "name": "Lord Smith of Finsbury",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "186",
+        "twfy_id": "uk.org.publicwhip/person/10547",
+        "removed": true
       },
       {
         "name": "The Lord Foulkes of Cumnock",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "579",
+        "twfy_id": "uk.org.publicwhip/person/10211",
+        "removed": true
       },
       {
         "name": "Baroness Drake",
@@ -676,7 +675,7 @@
         "member_type": "lord",
         "mnis_id": "4155",
         "twfy_id": "uk.org.publicwhip/person/24990",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Benjamin",
@@ -684,7 +683,7 @@
         "member_type": "lord",
         "mnis_id": "4167",
         "twfy_id": "uk.org.publicwhip/person/24987",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Wigley",
@@ -692,7 +691,7 @@
         "member_type": "lord",
         "mnis_id": "547",
         "twfy_id": "uk.org.publicwhip/person/10635",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bakewell",
@@ -700,7 +699,7 @@
         "member_type": "lord",
         "mnis_id": "4223",
         "twfy_id": "uk.org.publicwhip/person/25045",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Balfe",
@@ -708,7 +707,7 @@
         "member_type": "lord",
         "mnis_id": "4302",
         "twfy_id": "uk.org.publicwhip/person/25209",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Suttie",
@@ -716,15 +715,15 @@
         "member_type": "lord",
         "mnis_id": "4298",
         "twfy_id": "uk.org.publicwhip/person/25198",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Foster of Bath",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "214",
+        "twfy_id": "uk.org.publicwhip/person/10208",
+        "removed": true
       }
     ]
   },
@@ -773,8 +772,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/writers.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/writers.htm",
   "categories": [
     "Arts, Culture, Heritage & Media",
     "Economy, Business & Industry"

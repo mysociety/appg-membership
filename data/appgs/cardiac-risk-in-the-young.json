@@ -6,6 +6,14 @@
   "parliament": "uk",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Michelle Scrogham",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26322",
+      "mnis_id": "5049",
+      "removed": false
+    },
+    {
       "role": "Vice Chair",
       "name": "Lord Polak",
       "party": "Conservative",
@@ -23,10 +31,10 @@
     },
     {
       "role": "Officer",
-      "name": "Michelle Scrogham",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26322",
-      "mnis_id": "5049",
+      "name": "Douglas Lumsden",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26001",
+      "mnis_id": "5450",
       "removed": false
     }
   ],
@@ -35,7 +43,7 @@
     "source_url": [
       "https://www.c-r-y.org.uk/appg/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Amanda Hack",
@@ -256,10 +264,10 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
-    "public_enquiry_point_name": "Maria Carter, CRY (Cardiac Risk in the Young). Tel: 01737 363222",
+    "registered_contact_name": "Michelle Scrogham MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "michelle.scrogham.mp@parliament.uk",
+    "public_enquiry_point_name": "Jennifer Irvine-Cadman, CRY (Cardiac Risk in the Young). Tel: 01737 363222",
     "public_enquiry_point_email": "parliament@c-r-y.org.uk",
     "secretariat": "Cardiac Risk in the Young acts as the group's secretariat.https://www.c-r-y.org.uk/",
     "website": {
@@ -284,8 +292,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/cardiac-risk-in-the-young.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/cardiac-risk-in-the-young.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

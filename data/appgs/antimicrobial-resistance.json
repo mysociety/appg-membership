@@ -17,8 +17,8 @@
       "role": "Co-Chair",
       "name": "Lord Mackinlay of Richborough",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25437",
+      "mnis_id": "4529",
       "removed": false
     },
     {
@@ -33,8 +33,8 @@
       "role": "Treasurer",
       "name": "Baroness Bennett of Manor Castle",
       "party": "Green Party",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25776",
+      "mnis_id": "4719",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgamr.com/members/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Dr Beccy Cooper",
@@ -57,8 +57,8 @@
         "name": "Lord Mackinlay of Richborough",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4529",
+        "twfy_id": "uk.org.publicwhip/person/25437",
         "removed": false
       },
       {
@@ -73,8 +73,8 @@
         "name": "Baroness Bennett of Manor Castle",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4719",
+        "twfy_id": "uk.org.publicwhip/person/25776",
         "removed": false
       },
       {
@@ -121,8 +121,8 @@
         "name": "Baroness Lister of Burtersett",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4234",
+        "twfy_id": "uk.org.publicwhip/person/25058",
         "removed": false
       },
       {
@@ -147,7 +147,7 @@
         "member_type": "mp",
         "mnis_id": "1572",
         "twfy_id": "uk.org.publicwhip/person/11859",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Sugg",
@@ -161,9 +161,9 @@
         "name": "The Rt Hon. the Lord Goldsmith of Richmond Park",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4062",
+        "twfy_id": "uk.org.publicwhip/person/24911",
+        "removed": true
       },
       {
         "name": "Richard Foord",
@@ -179,7 +179,7 @@
         "member_type": "lord",
         "mnis_id": "4260",
         "twfy_id": "uk.org.publicwhip/person/25162",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jim Shannon",
@@ -195,7 +195,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Baroness Grey-Thompson",
@@ -203,14 +203,62 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon. the Lord Darzi of Denham",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3779",
+        "twfy_id": "uk.org.publicwhip/person/13932",
+        "removed": true
+      },
+      {
+        "name": "Jeremy Hunt",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "1572",
+        "twfy_id": "uk.org.publicwhip/person/11859",
+        "removed": false
+      },
+      {
+        "name": "Lord Goldsmith of Richmond Park",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4062",
+        "twfy_id": "uk.org.publicwhip/person/24911",
+        "removed": false
+      },
+      {
+        "name": "Lord Trees",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4260",
+        "twfy_id": "uk.org.publicwhip/person/25162",
+        "removed": false
+      },
+      {
+        "name": "Baroness Finlay of Llandaff",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3609",
+        "twfy_id": "uk.org.publicwhip/person/13471",
+        "removed": false
+      },
+      {
+        "name": "Baroness Grey-Thompson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3862",
+        "twfy_id": "uk.org.publicwhip/person/24707",
+        "removed": false
+      },
+      {
+        "name": "Lord Darzi of Denham",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3779",
+        "twfy_id": "uk.org.publicwhip/person/13932",
         "removed": false
       }
     ]
@@ -244,8 +292,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/antimicrobial-resistance.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/antimicrobial-resistance.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Science, Technology & Innovation"

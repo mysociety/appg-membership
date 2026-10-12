@@ -25,8 +25,8 @@
       "role": "Vice Chair",
       "name": "Lord Randall of Uxbridge",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10660",
+      "mnis_id": "209",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.airportcommunities.co.uk/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Ruth Cadbury",
@@ -249,9 +249,9 @@
         "name": "Lord Randall of Uxbridge",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
+        "mnis_id": "209",
+        "twfy_id": "uk.org.publicwhip/person/10660",
+        "removed": false
       },
       {
         "name": "Baroness Blower",
@@ -299,7 +299,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Mims Davies",
@@ -403,7 +403,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bryn Davies",
@@ -411,7 +411,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -444,8 +444,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/airport-communities.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/airport-communities.htm",
   "categories": [
     "Economy, Business & Industry",
     "Environment, Climate & Sustainability",

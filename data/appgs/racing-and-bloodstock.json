@@ -33,8 +33,8 @@
       "role": "Officer",
       "name": "Baroness McIntosh of Pickering",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10389",
+      "mnis_id": "384",
       "removed": false
     }
   ],
@@ -62,51 +62,10 @@
     "reporting_year": "04 Sep to 03 Sep",
     "next_reporting_deadline": "2027-01-04"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "British Horseracing Authority",
-      "Description": "Reception",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "13/01/2025",
-      "Registered": "01/09/2025",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "Jockey Club",
-      "Description": "Reception",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "13/01/2025",
-      "Registered": "01/09/2025",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "Arena Racing Company",
-      "Description": "Reception",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "13/01/2025",
-      "Registered": "01/09/2025",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "British Horseracing Authority",
-      "Description": "Report polling",
-      "Value £s In bands of £1,500": "13,501-15,000",
-      "Received": "12/05/2025",
-      "Registered": "01/09/2025",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "British Horseracing Authority",
-      "Description": "Report production, and launch reception",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "16/06/2025",
-      "Registered": "01/09/2025",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/racing-and-bloodstock.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/racing-and-bloodstock.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]

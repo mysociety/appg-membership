@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Peter Dowd",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25309",
-      "mnis_id": "4397",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Mike Reader",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26630",
       "mnis_id": "5316",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Peter Dowd",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25309",
+      "mnis_id": "4397",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://spiritsuk.co.uk/APPG/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Carolyn Harris",
@@ -121,16 +121,16 @@
         "name": "Lord Hart of Tenby",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3944",
+        "twfy_id": "uk.org.publicwhip/person/24813",
         "removed": false
       },
       {
         "name": "Lord Jack of Courance",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4619",
+        "twfy_id": "uk.org.publicwhip/person/25674",
         "removed": false
       },
       {
@@ -284,15 +284,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-07-01",
+    "date_of_most_recent_agm": "2026-07-01",
     "published_income_expenditure_statement": false,
     "reporting_year": "01 Jul to 30 Jun",
-    "next_reporting_deadline": "2026-11-01"
+    "next_reporting_deadline": "2027-11-01"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/uk-spirits.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "UK Spirits Alliance",
+      "Description": "Secretariat From: 01/07/2026 To: 30/06/2027",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "01/07/2026",
+      "Registered": "27/07/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/uk-spirits.htm",
   "categories": [
     "Economy, Business & Industry"
   ]

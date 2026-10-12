@@ -17,8 +17,8 @@
       "role": "Co-Chair",
       "name": "Baroness McIntosh of Pickering",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10389",
+      "mnis_id": "384",
       "removed": false
     },
     {
@@ -28,20 +28,12 @@
       "twfy_id": "uk.org.publicwhip/person/10034",
       "mnis_id": "513",
       "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Fabian Hamilton",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10256",
-      "mnis_id": "415",
-      "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Ben Spencer MP",
@@ -151,8 +143,8 @@
         "name": "Lord Hamilton of Epsom",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "100",
+        "twfy_id": "uk.org.publicwhip/person/10255",
         "removed": false
       },
       {
@@ -239,16 +231,16 @@
         "name": "Baroness Smith of Llanfaes",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5023",
+        "twfy_id": "uk.org.publicwhip/person/26303",
         "removed": false
       },
       {
         "name": "Baroness Stuart",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "296",
-        "twfy_id": "uk.org.publicwhip/person/10577",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -281,8 +273,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/nordic-countries.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/nordic-countries.htm",
   "categories": [
     "Country Group"
   ]

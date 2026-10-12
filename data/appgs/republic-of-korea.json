@@ -15,18 +15,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Mr Paul Kohler",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26570",
-      "mnis_id": "5321",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Jonathan Davies",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26557",
       "mnis_id": "5256",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Mr Paul Kohler",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26570",
+      "mnis_id": "5321",
       "removed": false
     },
     {
@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Sir Edward Davey MP",
@@ -79,8 +79,8 @@
         "name": "Lord Alton of Liverpool",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "738",
+        "twfy_id": "uk.org.publicwhip/person/13103",
         "removed": false
       },
       {
@@ -127,8 +127,8 @@
         "name": "Lord Mohammed of Tinsley",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5401",
+        "twfy_id": "uk.org.publicwhip/person/26681",
         "removed": false
       },
       {
@@ -215,8 +215,8 @@
         "name": "Lord Brady of Altrincham",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "435",
+        "twfy_id": "uk.org.publicwhip/person/10062",
         "removed": false
       },
       {
@@ -231,8 +231,8 @@
         "name": "Lord Kerr of Kinlochard",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3708",
+        "twfy_id": "uk.org.publicwhip/person/13443",
         "removed": false
       },
       {
@@ -247,16 +247,16 @@
         "name": "Lord Watson of Wyre Forest",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1463",
+        "twfy_id": "uk.org.publicwhip/person/11309",
         "removed": false
       },
       {
         "name": "Lord Dodds of Duncairn",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1388",
+        "twfy_id": "uk.org.publicwhip/person/10857",
         "removed": false
       },
       {
@@ -298,15 +298,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-03-18",
+    "date_of_most_recent_agm": "2026-07-13",
     "published_income_expenditure_statement": false,
     "reporting_year": "18 Mar to 17 Mar",
-    "next_reporting_deadline": "2026-07-18"
+    "next_reporting_deadline": "2027-07-18"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/republic-of-korea.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/republic-of-korea.htm",
   "categories": [
     "Country Group"
   ]

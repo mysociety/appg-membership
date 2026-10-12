@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Nick Smith MP",
@@ -79,16 +79,16 @@
         "name": "Baroness Chapman",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "3972",
-        "twfy_id": "uk.org.publicwhip/person/24711",
+        "mnis_id": "3700",
+        "twfy_id": "uk.org.publicwhip/person/13449",
         "removed": false
       },
       {
         "name": "Lord Dodds",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "1388",
-        "twfy_id": "uk.org.publicwhip/person/10857",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -127,8 +127,8 @@
         "name": "Baroness Hayter",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "4159",
-        "twfy_id": "uk.org.publicwhip/person/24973",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -271,18 +271,18 @@
         "name": "Bishop Hartley",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": "4996",
-        "twfy_id": "uk.org.publicwhip/person/26273",
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       }
     ]
   },
   "contact_details": {
     "registered_contact_name": "Nick Smith MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7018.",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "nick.smith.mp@parliament.uk",
-    "public_enquiry_point_name": "Lindsey Kell, Office of Nick Smith MP. Tel: 020 7219 7018",
-    "public_enquiry_point_email": "lindseya.kell@parliament.uk",
+    "public_enquiry_point_name": "Chloe Tapper, Office of Nick Smith MP. Tel: 01495 364351",
+    "public_enquiry_point_email": "chloe.tapper@parliament.uk",
     "secretariat": null,
     "website": {
       "status": "no_search",
@@ -297,8 +297,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/parkrun.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/parkrun.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

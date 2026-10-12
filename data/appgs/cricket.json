@@ -6,7 +6,7 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Vice Chair",
+      "role": "Chair & Registered Contact",
       "name": "Peter Fortune",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26027",
@@ -25,22 +25,30 @@
       "role": "Officer",
       "name": "Lord Evans of Rainow",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/24883",
+      "mnis_id": "4081",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Jonathan Davies",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26557",
+      "mnis_id": "5256",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Commons",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
@@ -215,16 +223,16 @@
         "name": "Lord Evans",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "2766",
-        "twfy_id": "uk.org.publicwhip/person/12852",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
         "name": "Lord Lancaster",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "1544",
-        "twfy_id": "uk.org.publicwhip/person/11715",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -239,8 +247,8 @@
         "name": "Baroness Evans",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "4329",
-        "twfy_id": "uk.org.publicwhip/person/25245",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -270,9 +278,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Peter Fortune MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 6033.",
+    "registered_contact_email": "peter.fortune.mp@parliament.uk",
     "public_enquiry_point_name": "Andrew Bingham. Tel: 07968 109336",
     "public_enquiry_point_email": "bingham.bingham@btopenworld.com",
     "secretariat": null,
@@ -289,8 +297,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/cricket.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/cricket.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]

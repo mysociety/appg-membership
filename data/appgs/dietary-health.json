@@ -25,8 +25,8 @@
       "role": "Vice Chair",
       "name": "Baroness Jenkin of Kennington",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25064",
+      "mnis_id": "4229",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://obesityhealthalliance.org.uk/appg/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Marie Goldman",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Joan Walmsley",
@@ -75,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Simon Opher",
@@ -83,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Ben Coleman",
@@ -163,15 +163,15 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Tanni Grey-Thompson",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
+        "removed": true
       },
       {
         "name": "Baroness Cathy Bakewell",
@@ -179,7 +179,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Alison Suttie",
@@ -187,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "John Krebs",
@@ -195,15 +195,15 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Rosie Boycott",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
+        "removed": true
       },
       {
         "name": "Lord Clive Brooke",
@@ -211,7 +211,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Anne Jenkin",
@@ -219,7 +219,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Joan Walmsley",
@@ -227,7 +227,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Natalie Bennett",
@@ -235,15 +235,15 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Tanni Grey-Thompson",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
+        "removed": false
       },
       {
         "name": "Cathy Bakewell",
@@ -251,7 +251,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Alison Suttie",
@@ -259,15 +259,15 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Rosie Boycott",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
+        "removed": false
       },
       {
         "name": "Clive Brooke",
@@ -275,7 +275,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Andrew George",
@@ -307,7 +307,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord John Krebs",
@@ -315,7 +315,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Sharron Davies",
@@ -323,6 +323,22 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Ian Byrne",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4831",
+        "twfy_id": "uk.org.publicwhip/person/25816",
+        "removed": false
+      },
+      {
+        "name": "Susan Murray",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5157",
+        "twfy_id": "uk.org.publicwhip/person/26429",
         "removed": false
       }
     ]
@@ -356,8 +372,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/dietary-health.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/dietary-health.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Food, Agriculture & Rural Affairs"

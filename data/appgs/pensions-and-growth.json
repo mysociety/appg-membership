@@ -14,14 +14,6 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "Viscount Younger of Leckie",
-      "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
-      "removed": false
-    },
-    {
       "role": "Officer",
       "name": "Blake Stephenson",
       "party": "Conservative",
@@ -35,6 +27,14 @@
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26624",
       "mnis_id": "5329",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Coffey",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/24771",
+      "mnis_id": "4098",
       "removed": false
     }
   ],
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-04-23",
+    "date_of_most_recent_agm": "2026-07-14",
     "published_income_expenditure_statement": false,
     "reporting_year": "23 Apr to 22 Apr",
-    "next_reporting_deadline": "2026-08-23"
+    "next_reporting_deadline": "2027-08-23"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Pensions and Lifetime Savings Association",
-      "Description": "Secretariat From: 23/04/2025 To: 22/04/2026",
+      "Description": "Secretariat From: 23/04/2026 To: 22/04/2027",
       "Value £s In bands of £1,500": "12,001-13,500",
-      "Received": "23/04/2025",
-      "Registered": "02/06/2025",
+      "Received": "23/04/2026",
+      "Registered": "14/07/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/pensions-and-growth.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/pensions-and-growth.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs",
     "Economy, Business & Industry"

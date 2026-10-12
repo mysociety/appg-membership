@@ -33,8 +33,8 @@
       "role": "Vice Chair",
       "name": "Baroness Bonham-Carter of Yarnbury",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/12838",
+      "mnis_id": "3699",
       "removed": false
     }
   ],
@@ -42,9 +42,10 @@
     "source_method": "ai_search",
     "source_url": [
       "https://www.birmingham.ac.uk/about/college-of-arts-and-law/shakespeare-institute/international-collaborations/the-all-party-parliamentary-group-on-shakespeare",
-      "https://www.birmingham.ac.uk/documents/college-artslaw/shakespeare/appg/appg-minutes-11.06.25.pdf"
+      "https://www.birmingham.ac.uk/documents/college-artslaw/shakespeare/appg/4th-apr-appg-notes.pdf",
+      "https://www.birmingham.ac.uk/documents/college-artslaw/shakespeare/appg/appg-minutes-nov-28-2024.pdf"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Manuela Perteghella",
@@ -84,7 +85,7 @@
         "member_type": "mp",
         "mnis_id": "3992",
         "twfy_id": "uk.org.publicwhip/person/24855",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Manuela Perteghella",
@@ -100,7 +101,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jack Jewers",
@@ -108,7 +109,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Martyn Bond",
@@ -116,7 +117,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Karl-Matthias Klause",
@@ -124,7 +125,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Will Tosh",
@@ -132,7 +133,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lucy Cuthbertson",
@@ -140,7 +141,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jacqui O’Hanlon",
@@ -148,7 +149,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Charlotte Scott",
@@ -156,7 +157,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tracy Irish",
@@ -164,7 +165,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Kathy Dacre",
@@ -172,7 +173,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lisa Allen",
@@ -180,7 +181,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Allie Esiri",
@@ -188,7 +189,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alison Smedley",
@@ -196,7 +197,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lisa Cunningham",
@@ -204,15 +205,15 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Hannan of Kingsclere",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4905",
+        "twfy_id": "uk.org.publicwhip/person/25975",
+        "removed": true
       }
     ]
   },
@@ -236,8 +237,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/shakespeare.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/shakespeare.htm",
   "categories": [
     "Arts, Culture, Heritage & Media",
     "Education, Skills & Youth"

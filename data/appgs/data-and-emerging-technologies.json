@@ -25,8 +25,8 @@
       "role": "Officer",
       "name": "Lord Holmes of Richmond",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25208",
+      "mnis_id": "4294",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://policyconnect.org.uk/parliamentary_group/apgdet/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Daniel Zeichner",
@@ -65,8 +65,8 @@
         "name": "Lord Holmes of Richmond",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4294",
+        "twfy_id": "uk.org.publicwhip/person/25208",
         "removed": false
       },
       {
@@ -75,6 +75,150 @@
         "member_type": "lord",
         "mnis_id": "1827",
         "twfy_id": "uk.org.publicwhip/person/13274",
+        "removed": false
+      },
+      {
+        "name": "Daniel Aldridge",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5172",
+        "twfy_id": "uk.org.publicwhip/person/26453",
+        "removed": false
+      },
+      {
+        "name": "Alex Sobel",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4658",
+        "twfy_id": "uk.org.publicwhip/person/25680",
+        "removed": false
+      },
+      {
+        "name": "Lord Knight of Weymouth",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4160",
+        "twfy_id": "uk.org.publicwhip/person/11027",
+        "removed": false
+      },
+      {
+        "name": "Lord Clement-Jones",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3396",
+        "twfy_id": "uk.org.publicwhip/person/13517",
+        "removed": false
+      },
+      {
+        "name": "Lord Lucas",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1879",
+        "twfy_id": "uk.org.publicwhip/person/13301",
+        "removed": false
+      },
+      {
+        "name": "Lord Taylor of Warwick",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1796",
+        "twfy_id": "uk.org.publicwhip/person/13194",
+        "removed": false
+      },
+      {
+        "name": "Dr. Simon Opher",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5030",
+        "twfy_id": "uk.org.publicwhip/person/26313",
+        "removed": false
+      },
+      {
+        "name": "Peter Prinsley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5163",
+        "twfy_id": "uk.org.publicwhip/person/26383",
+        "removed": false
+      },
+      {
+        "name": "Lauren Edwards",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5298",
+        "twfy_id": "uk.org.publicwhip/person/26597",
+        "removed": false
+      },
+      {
+        "name": "Graham Leadbitter",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5277",
+        "twfy_id": "uk.org.publicwhip/person/26499",
+        "removed": false
+      },
+      {
+        "name": "Louise Jones",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5258",
+        "twfy_id": "uk.org.publicwhip/person/26586",
+        "removed": false
+      },
+      {
+        "name": "Bob Blackman",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4005",
+        "twfy_id": "uk.org.publicwhip/person/24945",
+        "removed": false
+      },
+      {
+        "name": "Lord Fairfax of Cameron",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2760",
+        "twfy_id": "uk.org.publicwhip/person/25472",
+        "removed": false
+      },
+      {
+        "name": "Baroness Verma",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3790",
+        "twfy_id": "uk.org.publicwhip/person/13730",
+        "removed": false
+      },
+      {
+        "name": "Baroness McGregor-Smith",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4554",
+        "twfy_id": "uk.org.publicwhip/person/25474",
+        "removed": false
+      },
+      {
+        "name": "Baroness Neville-Rolfe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4284",
+        "twfy_id": "uk.org.publicwhip/person/25205",
+        "removed": false
+      },
+      {
+        "name": "Lord Evans of Rainow",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4081",
+        "twfy_id": "uk.org.publicwhip/person/24883",
+        "removed": false
+      },
+      {
+        "name": "Dr. Alison Gardner",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5334",
+        "twfy_id": "uk.org.publicwhip/person/26621",
         "removed": false
       }
     ]
@@ -108,8 +252,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/data-and-emerging-technologies.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/data-and-emerging-technologies.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

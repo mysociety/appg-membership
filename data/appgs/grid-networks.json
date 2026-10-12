@@ -17,16 +17,16 @@
       "role": "Officer",
       "name": "Lord Arbuthnot of Edrom",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10013",
+      "mnis_id": "56",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Baroness Elliott of Whitburn Bay",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/24710",
+      "mnis_id": "4127",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.gridnetworks.co.uk/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Mary Glindon",
@@ -57,8 +57,8 @@
         "name": "The Rt Hon. the Lord Arbuthnot of Edrom",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "56",
+        "twfy_id": "uk.org.publicwhip/person/10013",
         "removed": true
       },
       {
@@ -185,8 +185,8 @@
         "name": "The Rt Hon. the Lord Livingston of Parkhead",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4278",
+        "twfy_id": "uk.org.publicwhip/person/25184",
         "removed": true
       },
       {
@@ -233,9 +233,9 @@
         "name": "Lord Arbuthnot of Edrom",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
+        "mnis_id": "56",
+        "twfy_id": "uk.org.publicwhip/person/10013",
+        "removed": false
       },
       {
         "name": "Lord David Howell of Guildford",
@@ -243,14 +243,14 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Livingston of Parkhead",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4278",
+        "twfy_id": "uk.org.publicwhip/person/25184",
         "removed": false
       },
       {
@@ -259,7 +259,7 @@
         "member_type": "lord",
         "mnis_id": "1251",
         "twfy_id": "uk.org.publicwhip/person/13704",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Lucas and Dingwall",
@@ -289,8 +289,8 @@
         "name": "Baroness Elliott of Whitburn Bay",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4127",
+        "twfy_id": "uk.org.publicwhip/person/24710",
         "removed": false
       },
       {
@@ -305,9 +305,9 @@
         "name": "The Lord Arbuthnot of Edrom",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "56",
+        "twfy_id": "uk.org.publicwhip/person/10013",
+        "removed": true
       },
       {
         "name": "The Lord David Howell of Guildford",
@@ -315,7 +315,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Lord Naseby",
@@ -323,7 +323,7 @@
         "member_type": "lord",
         "mnis_id": "1251",
         "twfy_id": "uk.org.publicwhip/person/13704",
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -356,8 +356,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/grid-networks.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/grid-networks.htm",
   "categories": [
     "Energy & Utilities",
     "Infrastructure, Transport & Mobility"

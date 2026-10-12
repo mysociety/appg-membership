@@ -15,14 +15,6 @@
     },
     {
       "role": "Officer",
-      "name": "Rebecca Paul",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26466",
-      "mnis_id": "5297",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Baroness Ludford",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/13299",
@@ -43,7 +35,7 @@
     "source_url": [
       "https://www.fawcettsociety.org.uk/appg-on-women-in-parliament"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Maria Miller",
@@ -57,16 +49,16 @@
         "name": "Baroness Jenkin of Kennington",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4229",
+        "twfy_id": "uk.org.publicwhip/person/25064",
         "removed": false
       },
       {
         "name": "Baroness Burt of Solihull",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1567",
+        "twfy_id": "uk.org.publicwhip/person/11823",
         "removed": false
       },
       {
@@ -243,8 +235,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/womens-rights.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/womens-rights.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

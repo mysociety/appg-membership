@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.spinal.co.uk/campaigns/our-campaigns/all-party-parliamentary-group/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Andy McDonald",
@@ -147,7 +147,7 @@
         "member_type": "mp",
         "mnis_id": "1516",
         "twfy_id": "uk.org.publicwhip/person/11559",
-        "removed": false
+        "removed": true
       },
       {
         "name": "John McDonnell",
@@ -195,7 +195,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Andrew Pakes",
@@ -211,6 +211,14 @@
         "member_type": "mp",
         "mnis_id": "5274",
         "twfy_id": "uk.org.publicwhip/person/26590",
+        "removed": false
+      },
+      {
+        "name": "Lord Allan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -235,8 +243,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/spinal-cord-injury.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/spinal-cord-injury.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

@@ -25,16 +25,16 @@
       "role": "Vice Chair",
       "name": "Lord Black of Brentwood",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/24996",
+      "mnis_id": "4171",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Goddard of Stockport",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25247",
+      "mnis_id": "4334",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.apgocats.org.uk/officers-members/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Johanna Baxter",
@@ -65,16 +65,16 @@
         "name": "Lord Goddard of Stockport",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4334",
+        "twfy_id": "uk.org.publicwhip/person/25247",
         "removed": false
       },
       {
         "name": "Lord Black of Brentwood",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4171",
+        "twfy_id": "uk.org.publicwhip/person/24996",
         "removed": false
       },
       {
@@ -155,7 +155,7 @@
         "member_type": "mp",
         "mnis_id": "1516",
         "twfy_id": "uk.org.publicwhip/person/11559",
-        "removed": false
+        "removed": true
       },
       {
         "name": "James MacCleary",
@@ -273,8 +273,8 @@
         "name": "Lord John of Southwark",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5418",
+        "twfy_id": "uk.org.publicwhip/person/26701",
         "removed": false
       },
       {
@@ -331,8 +331,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/cats.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/cats.htm",
   "categories": [
     "Animals & Animal Welfare"
   ]

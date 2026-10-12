@@ -17,8 +17,8 @@
       "role": "Officer",
       "name": "Baroness Jones of Moulsecoomb",
       "party": "Green Party",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25214",
+      "mnis_id": "4297",
       "removed": false
     },
     {
@@ -35,7 +35,7 @@
     "source_url": [
       "https://rjappg.co.uk/about/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Gavin Robinson",
@@ -57,12 +57,20 @@
         "name": "Baroness Jones of Moulsecoomb",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4297",
+        "twfy_id": "uk.org.publicwhip/person/25214",
         "removed": false
       },
       {
         "name": "Jeremy Wright",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1560",
+        "twfy_id": "uk.org.publicwhip/person/11791",
+        "removed": true
+      },
+      {
+        "name": "Sir Jeremy Wright",
         "is_officer": true,
         "member_type": "mp",
         "mnis_id": "1560",

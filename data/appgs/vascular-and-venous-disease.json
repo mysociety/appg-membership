@@ -1,7 +1,7 @@
 {
   "slug": "vascular-and-venous-disease",
   "title": "All-Party Parliamentary Group on Vascular and Venous Disease",
-  "purpose": "The group aims to empower women to make informed choices about their treatment and ensure they are treated with dignity and respect throughout their treatment pathway.",
+  "purpose": "This group aims to spread awareness of vascular and venous disease and strengthen the provision of services to improve outcomes for patients.",
   "category": "Subject Group",
   "parliament": "uk",
   "officers": [
@@ -17,8 +17,8 @@
       "role": "Officer",
       "name": "Lord Elliott of Ballinamallard",
       "party": "Ulster Unionist Party",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13781",
+      "mnis_id": "4367",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.vvappg.com/who-we-are"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Jim Shannon",
@@ -57,9 +57,9 @@
         "name": "The Lord Elliott of Ballinamallard",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4367",
+        "twfy_id": "uk.org.publicwhip/person/13781",
+        "removed": true
       },
       {
         "name": "Brian Leishman",
@@ -75,6 +75,22 @@
         "member_type": "lord",
         "mnis_id": "123",
         "twfy_id": "uk.org.publicwhip/person/10349",
+        "removed": true
+      },
+      {
+        "name": "Elliott of Ballinamallard",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lansley",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -108,8 +124,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/vascular-and-venous-disease.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/vascular-and-venous-disease.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

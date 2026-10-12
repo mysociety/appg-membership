@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Ben Lake MP",
@@ -79,8 +79,8 @@
         "name": "Lord Murphy",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "546",
-        "twfy_id": "uk.org.publicwhip/person/10454",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -119,8 +119,8 @@
         "name": "Lord Faulkner",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "2472",
-        "twfy_id": "uk.org.publicwhip/person/12847",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -143,8 +143,8 @@
         "name": "Lord Watson of Invergowrie",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1241",
+        "twfy_id": "uk.org.publicwhip/person/12893",
         "removed": false
       },
       {
@@ -175,8 +175,8 @@
         "name": "Baroness Prentis",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "4401",
-        "twfy_id": "uk.org.publicwhip/person/25420",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -207,16 +207,16 @@
         "name": "Baroness Hughes of Stretford",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "459",
+        "twfy_id": "uk.org.publicwhip/person/10296",
         "removed": false
       },
       {
         "name": "Lord Griffiths of Burry Port",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3707",
+        "twfy_id": "uk.org.publicwhip/person/12837",
         "removed": false
       }
     ]
@@ -241,8 +241,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/france.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/france.htm",
   "categories": [
     "Country Group"
   ]

@@ -33,8 +33,8 @@
       "role": "Officer",
       "name": "Lord Baker of Dorking",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13528",
+      "mnis_id": "1028",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://appeg.co.uk/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Lord Mair",
@@ -168,10 +168,17 @@
       "Received": "28/05/2026",
       "Registered": "23/06/2026",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Laing O’Rourke",
+      "Value £s": "5,000",
+      "Received": "30/06/2026",
+      "Registered": "27/07/2026",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/engineering.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/engineering.htm",
   "categories": [
     "Education, Skills & Youth",
     "Science, Technology & Innovation"

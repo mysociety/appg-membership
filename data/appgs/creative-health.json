@@ -33,8 +33,8 @@
       "role": "Vice Chair",
       "name": "Baroness Royall of Blaisdon",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13452",
+      "mnis_id": "3703",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://ncch.org.uk/appg-on-creative-health"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Dr Simon Opher",
@@ -51,7 +51,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dame Caroline Dinenage",
@@ -59,14 +59,14 @@
         "member_type": "mp",
         "mnis_id": "4008",
         "twfy_id": "uk.org.publicwhip/person/24873",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rt Hon Lord Howarth of Newport",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "544",
+        "twfy_id": "uk.org.publicwhip/person/10291",
         "removed": true
       },
       {
@@ -75,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Kay Andrews",
@@ -83,7 +83,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Ilora Finlay of Llandaff",
@@ -91,7 +91,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Sheila Hollins",
@@ -99,7 +99,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Ruth Lister of Burtesset",
@@ -107,7 +107,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rt Hon. Baroness Nicky Morgan of Cotes",
@@ -139,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sadik Al-Hassan",
@@ -195,7 +195,7 @@
         "member_type": "mp",
         "mnis_id": "5307",
         "twfy_id": "uk.org.publicwhip/person/26515",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Cat Eccles",
@@ -227,7 +227,7 @@
         "member_type": "mp",
         "mnis_id": "4873",
         "twfy_id": "uk.org.publicwhip/person/25809",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Peter Prinsley",
@@ -267,7 +267,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Estelle Morris of Yardley",
@@ -275,7 +275,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Jan Royall of Blaisdon",
@@ -291,7 +291,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Caroline Dinenage",
@@ -299,7 +299,7 @@
         "member_type": "mp",
         "mnis_id": "4008",
         "twfy_id": "uk.org.publicwhip/person/24873",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Syed Kamall",
@@ -315,7 +315,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Ilora Finlay",
@@ -331,7 +331,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Syed Kamall",
@@ -369,8 +369,8 @@
         "name": "Jan Royall",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": true
       },
       {
@@ -387,7 +387,7 @@
         "member_type": "mp",
         "mnis_id": "5307",
         "twfy_id": "uk.org.publicwhip/person/26515",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Caroline Dinenage",
@@ -395,7 +395,7 @@
         "member_type": "mp",
         "mnis_id": "4008",
         "twfy_id": "uk.org.publicwhip/person/24873",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Simon Opher",
@@ -403,11 +403,83 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Royall of Blaisdon",
         "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "3703",
+        "twfy_id": "uk.org.publicwhip/person/13452",
+        "removed": true
+      },
+      {
+        "name": "Kamall of Edmonton",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Royall of Blaisdon",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "3703",
+        "twfy_id": "uk.org.publicwhip/person/13452",
+        "removed": false
+      },
+      {
+        "name": "Ilora Finlay of Llandaff",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Syed Kamall of Edmonton",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ruth Lister of Burtesset",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Nicky Morgan of Cotes",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Estelle Morris of Yardley",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Jan Royall of Blaisdon",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lola Young of Hornsey",
+        "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
@@ -444,8 +516,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/creative-health.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/creative-health.htm",
   "categories": [
     "Arts, Culture, Heritage & Media",
     "Health, Medicine & Public Health"

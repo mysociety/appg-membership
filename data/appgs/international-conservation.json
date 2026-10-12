@@ -17,8 +17,8 @@
       "role": "Vice Chair",
       "name": "Lord Randall of Uxbridge",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10660",
+      "mnis_id": "209",
       "removed": false
     },
     {
@@ -28,20 +28,12 @@
       "twfy_id": "uk.org.publicwhip/person/26603",
       "mnis_id": "5352",
       "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Uma Kumaran",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26542",
-      "mnis_id": "5278",
-      "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Barry Gardiner",
@@ -143,8 +135,8 @@
         "name": "Barbara Young",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
@@ -167,8 +159,8 @@
         "name": "Charlotte Vere",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
@@ -247,16 +239,16 @@
         "name": "Kathy Willis",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
         "name": "Ben Gascoigne",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
@@ -303,8 +295,8 @@
         "name": "Graham Usher",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
@@ -343,8 +335,8 @@
         "name": "Rosie Boycott",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
@@ -442,8 +434,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/international-conservation.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/international-conservation.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

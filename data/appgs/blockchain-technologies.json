@@ -9,16 +9,16 @@
       "role": "Vice Chair",
       "name": "Lord McNicol of West Kilbride",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25731",
+      "mnis_id": "4702",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Goddard of Stockport",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25247",
+      "mnis_id": "4334",
       "removed": false
     },
     {
@@ -31,93 +31,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://britishblockchainassociation.org/chair-and-officers/"
-    ],
-    "last_updated": "2026-07-16",
-    "members": [
-      {
-        "name": "Gareth Davies",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4850",
-        "twfy_id": "uk.org.publicwhip/person/25858",
-        "removed": false
-      },
-      {
-        "name": "Lord McNicol of West Kilbride",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord Goddard of Stockport",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Matt Vickers",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4844",
-        "twfy_id": "uk.org.publicwhip/person/25853",
-        "removed": false
-      },
-      {
-        "name": "Dr Simon Opher",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5030",
-        "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": false
-      },
-      {
-        "name": "John Lamont",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4608",
-        "twfy_id": "uk.org.publicwhip/person/14026",
-        "removed": false
-      },
-      {
-        "name": "Lauren Edwards",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5298",
-        "twfy_id": "uk.org.publicwhip/person/26597",
-        "removed": false
-      },
-      {
-        "name": "Lord Taylor of Warwick",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord Vaizey of Didcot",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Will Forster",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5322",
-        "twfy_id": "uk.org.publicwhip/person/26560",
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-10-12",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "None",

@@ -23,18 +23,10 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Mrs Elsie Blundell",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26481",
-      "mnis_id": "5084",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Baroness Jones of Moulsecoomb",
       "party": "Green Party",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25214",
+      "mnis_id": "4297",
       "removed": false
     }
   ],
@@ -43,7 +35,7 @@
     "source_url": [
       "https://transportsafetyappg.org.uk/members/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Andy MacNae",
@@ -73,8 +65,8 @@
         "name": "Baroness Jones of Moulsecoomb",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4297",
+        "twfy_id": "uk.org.publicwhip/person/25214",
         "removed": false
       },
       {
@@ -137,8 +129,8 @@
         "name": "Baroness McIntosh of Pickering",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "384",
+        "twfy_id": "uk.org.publicwhip/person/10389",
         "removed": false
       },
       {
@@ -315,7 +307,7 @@
         "member_type": "mp",
         "mnis_id": "5070",
         "twfy_id": "uk.org.publicwhip/person/26556",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Liz Twist",
@@ -353,8 +345,8 @@
         "name": "Lord Brooke of Alverthorpe",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3335",
+        "twfy_id": "uk.org.publicwhip/person/13611",
         "removed": false
       },
       {
@@ -363,22 +355,22 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Robertson of Port Ellen",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "672",
+        "twfy_id": "uk.org.publicwhip/person/10504",
         "removed": false
       },
       {
         "name": "Lord Young of Cookham",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "57",
+        "twfy_id": "uk.org.publicwhip/person/10659",
         "removed": false
       },
       {
@@ -508,6 +500,62 @@
         "mnis_id": "5032",
         "twfy_id": "uk.org.publicwhip/person/26312",
         "removed": false
+      },
+      {
+        "name": "Adam Jogee",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5168",
+        "twfy_id": "uk.org.publicwhip/person/26541",
+        "removed": false
+      },
+      {
+        "name": "Alex McIntyre",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5349",
+        "twfy_id": "uk.org.publicwhip/person/26434",
+        "removed": false
+      },
+      {
+        "name": "Baroness Blake of Leeds",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4912",
+        "twfy_id": "uk.org.publicwhip/person/25980",
+        "removed": false
+      },
+      {
+        "name": "Deirdre Costigan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5075",
+        "twfy_id": "uk.org.publicwhip/person/26384",
+        "removed": true
+      },
+      {
+        "name": "James Naish",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5047",
+        "twfy_id": "uk.org.publicwhip/person/26329",
+        "removed": false
+      },
+      {
+        "name": "Jenny Riddell-Carpenter",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5160",
+        "twfy_id": "uk.org.publicwhip/person/26472",
+        "removed": false
+      },
+      {
+        "name": "Lord Hogan-Howe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4693",
+        "twfy_id": "uk.org.publicwhip/person/25722",
+        "removed": false
       }
     ]
   },
@@ -564,8 +612,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/transport-safety.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/transport-safety.htm",
   "categories": [
     "Infrastructure, Transport & Mobility"
   ]

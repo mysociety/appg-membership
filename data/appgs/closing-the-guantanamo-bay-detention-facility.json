@@ -43,7 +43,7 @@
     "source_url": [
       "https://ukguantanamonetwork.org/appg"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Chris Law",
@@ -75,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Natalie Bennett",
@@ -187,7 +187,7 @@
         "member_type": "mp",
         "mnis_id": "1516",
         "twfy_id": "uk.org.publicwhip/person/11559",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Will Stone",
@@ -211,6 +211,14 @@
         "member_type": "lord",
         "mnis_id": "337",
         "twfy_id": "uk.org.publicwhip/person/10221",
+        "removed": true
+      },
+      {
+        "name": "Ruth Cadbury",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4389",
+        "twfy_id": "uk.org.publicwhip/person/25343",
         "removed": false
       }
     ]
@@ -235,8 +243,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/closing-the-guantanamo-bay-detention-facility.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/closing-the-guantanamo-bay-detention-facility.htm",
   "categories": [
     "Justice, Law & Security",
     "Human Rights, Equality & Social Justice",

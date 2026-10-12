@@ -17,16 +17,8 @@
       "role": "Officer",
       "name": "Baroness Owen of Alderley Edge",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Lord Browne of Ladyton",
-      "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26267",
+      "mnis_id": "4990",
       "removed": false
     },
     {
@@ -35,6 +27,14 @@
       "party": "Independent",
       "twfy_id": "uk.org.publicwhip/person/25656",
       "mnis_id": "4616",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Helen Hayes",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25310",
+      "mnis_id": "4510",
       "removed": false
     }
   ],
@@ -57,15 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-05-13",
+    "date_of_most_recent_agm": "2026-06-24",
     "published_income_expenditure_statement": false,
     "reporting_year": "13 May to 12 May",
-    "next_reporting_deadline": "2026-09-13"
+    "next_reporting_deadline": "2027-09-13"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/tigray.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/tigray.htm",
   "categories": [
     "Country Group"
   ]

@@ -43,7 +43,7 @@
     "source_url": [
       "https://solt.co.uk/theatreappg/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Leigh Ingham",
@@ -51,7 +51,7 @@
         "member_type": "mp",
         "mnis_id": "5290",
         "twfy_id": "uk.org.publicwhip/person/26392",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dan Aldridge",
@@ -59,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "5172",
         "twfy_id": "uk.org.publicwhip/person/26453",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Keeley",
@@ -105,8 +105,8 @@
         "name": "Baroness Christine Blower",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
@@ -115,7 +115,7 @@
         "member_type": "lord",
         "mnis_id": "3699",
         "twfy_id": "uk.org.publicwhip/person/12838",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Harriet Harman",
@@ -129,9 +129,9 @@
         "name": "Baroness Hayter of Kentish Town",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4159",
+        "twfy_id": "uk.org.publicwhip/person/24973",
+        "removed": true
       },
       {
         "name": "Baroness Hazarika of Coatbridge",
@@ -139,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Lister of Burstersett",
@@ -147,23 +147,23 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness McIntosh of Hudnall",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "2506",
+        "twfy_id": "uk.org.publicwhip/person/13121",
+        "removed": true
       },
       {
         "name": "Baroness Ramsey of Wall Heath",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "5022",
+        "twfy_id": "uk.org.publicwhip/person/26302",
+        "removed": true
       },
       {
         "name": "Baroness Sue Nye",
@@ -185,8 +185,8 @@
         "name": "Earl of Clancarty",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3391",
+        "twfy_id": "uk.org.publicwhip/person/24991",
         "removed": false
       },
       {
@@ -203,7 +203,7 @@
         "member_type": "mp",
         "mnis_id": "5136",
         "twfy_id": "uk.org.publicwhip/person/26409",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jo Platt",
@@ -241,9 +241,9 @@
         "name": "Lord Knight of Weymouth",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4160",
+        "twfy_id": "uk.org.publicwhip/person/11027",
+        "removed": true
       },
       {
         "name": "Manuella Perthegella",
@@ -292,6 +292,150 @@
         "mnis_id": "5075",
         "twfy_id": "uk.org.publicwhip/person/26384",
         "removed": true
+      },
+      {
+        "name": "Ashley Dalton",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4981",
+        "twfy_id": "uk.org.publicwhip/person/26123",
+        "removed": false
+      },
+      {
+        "name": "Simon Hoare",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4494",
+        "twfy_id": "uk.org.publicwhip/person/25427",
+        "removed": false
+      },
+      {
+        "name": "Andrew Pakes",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5243",
+        "twfy_id": "uk.org.publicwhip/person/26601",
+        "removed": false
+      },
+      {
+        "name": "Jess Brown-Fuller",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5335",
+        "twfy_id": "uk.org.publicwhip/person/26372",
+        "removed": false
+      },
+      {
+        "name": "Dawn Butler",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1489",
+        "twfy_id": "uk.org.publicwhip/person/11447",
+        "removed": false
+      },
+      {
+        "name": "Claire Hanna",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4827",
+        "twfy_id": "uk.org.publicwhip/person/25447",
+        "removed": false
+      },
+      {
+        "name": "Andrew Rosindell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1447",
+        "twfy_id": "uk.org.publicwhip/person/11199",
+        "removed": false
+      },
+      {
+        "name": "Tom Rutland",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5222",
+        "twfy_id": "uk.org.publicwhip/person/26467",
+        "removed": false
+      },
+      {
+        "name": "Baroness Luciana Berger",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4036",
+        "twfy_id": "uk.org.publicwhip/person/24924",
+        "removed": false
+      },
+      {
+        "name": "Baroness Jane Bonham-Carter",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Dianne Hayter",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Ayesha Hazarika",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Sara Hyde",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord David Isaac",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Jim Knight",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Ruth Lister",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Genista McIntosh",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Stephen Parkinson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },

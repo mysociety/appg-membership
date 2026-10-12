@@ -25,15 +25,23 @@
       "role": "Officer",
       "name": "Baroness Bennett of Manor Castle",
       "party": "Green Party",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25776",
+      "mnis_id": "4719",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Sir Oliver Dowden",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25323",
+      "mnis_id": "4441",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Jim Shannon MP",
@@ -55,8 +63,8 @@
         "name": "Baroness Bennett",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "4719",
-        "twfy_id": "uk.org.publicwhip/person/25776",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -265,8 +273,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/respiratory-health.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/respiratory-health.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

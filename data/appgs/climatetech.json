@@ -17,8 +17,8 @@
       "role": "Officer",
       "name": "Lord Evans of Rainow",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/24883",
+      "mnis_id": "4081",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.climatetechappg.co.uk/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Steve Race",
@@ -57,8 +57,8 @@
         "name": "Lord Evans of Rainow",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4081",
+        "twfy_id": "uk.org.publicwhip/person/24883",
         "removed": false
       },
       {
@@ -305,8 +305,8 @@
         "name": "Ben Gascoigne",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": true
       }
     ]
@@ -340,8 +340,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/climatetech.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/climatetech.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Science, Technology & Innovation"

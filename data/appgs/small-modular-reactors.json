@@ -33,9 +33,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
+      "https://www.smrappg.com/officers-and-members/",
       "https://www.smrappg.com/wp-content/uploads/2024/12/241202-SMR-APPG-Membership-List.pdf"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Baggy Shanker",
@@ -187,22 +188,22 @@
         "member_type": "mp",
         "mnis_id": "1512",
         "twfy_id": "uk.org.publicwhip/person/11970",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Bloomfield of Hinton Waldrist",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4582",
+        "twfy_id": "uk.org.publicwhip/person/25582",
         "removed": false
       },
       {
         "name": "Lord Browne of Ladyton",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "620",
+        "twfy_id": "uk.org.publicwhip/person/10071",
         "removed": false
       },
       {
@@ -257,8 +258,8 @@
         "name": "Baroness Brown of Cambridge",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4565",
+        "twfy_id": "uk.org.publicwhip/person/25486",
         "removed": false
       },
       {
@@ -273,8 +274,8 @@
         "name": "Lord Cameron of Dillington",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3705",
+        "twfy_id": "uk.org.publicwhip/person/13447",
         "removed": false
       },
       {
@@ -339,7 +340,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Neville-Rolfe",
@@ -387,7 +388,7 @@
         "member_type": "lord",
         "mnis_id": "3840",
         "twfy_id": "uk.org.publicwhip/person/13936",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Rt Hon. the Lord Whitty",
@@ -419,7 +420,7 @@
         "member_type": "mp",
         "mnis_id": "1512",
         "twfy_id": "uk.org.publicwhip/person/11970",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Josh McAlister",

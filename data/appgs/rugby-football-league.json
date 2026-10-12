@@ -14,19 +14,19 @@
       "removed": false
     },
     {
-      "role": "Treasurer",
-      "name": "Ms Marie Rimmer",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25321",
-      "mnis_id": "4457",
-      "removed": false
-    },
-    {
-      "role": "Deputy Chair",
+      "role": "Vice Chair",
       "name": "Lord Caine",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25591",
       "mnis_id": "4581",
+      "removed": false
+    },
+    {
+      "role": "Treasurer",
+      "name": "Charlotte Nichols",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25885",
+      "mnis_id": "4799",
       "removed": false
     },
     {
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-01-15",
+    "date_of_most_recent_agm": "2026-07-01",
     "published_income_expenditure_statement": false,
     "reporting_year": "15 Jan to 14 Jan",
-    "next_reporting_deadline": "2026-05-15"
+    "next_reporting_deadline": "2027-05-15"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Rugby Football League",
-      "Description": "Secretariat From: 15/01/2025 To: 14/01/2026",
+      "Description": "Secretariat From: 15/01/2026 To: 14/01/2027",
       "Value £s In bands of £1,500": "3,001-4,500",
-      "Received": "15/01/2025",
-      "Registered": "03/02/2025",
+      "Received": "15/01/2026",
+      "Registered": "06/07/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/rugby-football-league.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/rugby-football-league.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]

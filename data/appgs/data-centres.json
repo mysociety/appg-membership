@@ -25,8 +25,8 @@
       "role": "Officer",
       "name": "Lord Hunt of Kings Heath",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13353",
+      "mnis_id": "2024",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://datacentresappg.co.uk/our-parliamentary-members/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Chris Curtis",
@@ -65,8 +65,8 @@
         "name": "Lord Hunt of Kings Heath",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "2024",
+        "twfy_id": "uk.org.publicwhip/person/13353",
         "removed": false
       },
       {
@@ -147,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": "4939",
         "twfy_id": "uk.org.publicwhip/person/26062",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jessica Morden",
@@ -171,14 +171,14 @@
         "member_type": "lord",
         "mnis_id": "5014",
         "twfy_id": "uk.org.publicwhip/person/26292",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Johnson of Lainston",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4949",
+        "twfy_id": "uk.org.publicwhip/person/26094",
         "removed": false
       },
       {
@@ -259,7 +259,7 @@
         "member_type": "mp",
         "mnis_id": "5105",
         "twfy_id": "uk.org.publicwhip/person/26358",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Viscount Camrose",
@@ -267,7 +267,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Banner KC",
@@ -275,7 +275,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Greg Smith",
@@ -309,15 +309,15 @@
   "detailed_benefits": [
     {
       "Source": "iNHouse Communications",
-      "Description": "iNHouse Communications is paid by Google and ARK Data Centres to act as the group's secretariat (updated 29/05/2026). From: 14/01/2026 To: 13/01/2027",
-      "Value £s In bands of £1,500": "39,001-40,500",
+      "Description": "iNHouse Communications is paid by Google, ARK Data Centres, and Western Digital (WD) to act as the group's secretariat (updated 29/05/2026 and 27/07/2026). From: 14/01/2026 To: 13/01/2027",
+      "Value £s In bands of £1,500": "57,001-58,500",
       "Received": "14/01/2026",
       "Registered": "16/01/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/data-centres.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/data-centres.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

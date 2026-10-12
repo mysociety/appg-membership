@@ -17,211 +17,24 @@
       "role": "Officer",
       "name": "Lord Vaizey of Didcot",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/11905",
+      "mnis_id": "1580",
       "removed": false
     },
     {
       "role": "Officer",
       "name": "Lord McNicol of West Kilbride",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25731",
+      "mnis_id": "4702",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://appgfintech.org.uk/about/"
-    ],
-    "last_updated": "2026-07-16",
-    "members": [
-      {
-        "name": "Luke Charters",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5199",
-        "twfy_id": "uk.org.publicwhip/person/26480",
-        "removed": true
-      },
-      {
-        "name": "Samantha Niblett",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5150",
-        "twfy_id": "uk.org.publicwhip/person/26414",
-        "removed": false
-      },
-      {
-        "name": "Lord Vaizey of Didcot",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord McNicol of West Kilbride",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Anna Gelderd",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5353",
-        "twfy_id": "uk.org.publicwhip/person/26618",
-        "removed": false
-      },
-      {
-        "name": "Gregor Poynton",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5167",
-        "twfy_id": "uk.org.publicwhip/person/26428",
-        "removed": true
-      },
-      {
-        "name": "Chris Coghlan",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5198",
-        "twfy_id": "uk.org.publicwhip/person/26445",
-        "removed": false
-      },
-      {
-        "name": "Leigh Ingham",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5290",
-        "twfy_id": "uk.org.publicwhip/person/26392",
-        "removed": false
-      },
-      {
-        "name": "Henry Tufnell",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5121",
-        "twfy_id": "uk.org.publicwhip/person/26387",
-        "removed": false
-      },
-      {
-        "name": "Louise Jones",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5258",
-        "twfy_id": "uk.org.publicwhip/person/26586",
-        "removed": true
-      },
-      {
-        "name": "Maya Ellis",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5228",
-        "twfy_id": "uk.org.publicwhip/person/26479",
-        "removed": false
-      },
-      {
-        "name": "Lucy Rigby",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5333",
-        "twfy_id": "uk.org.publicwhip/person/26596",
-        "removed": true
-      },
-      {
-        "name": "Dan Aldridge",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5172",
-        "twfy_id": "uk.org.publicwhip/person/26453",
-        "removed": false
-      },
-      {
-        "name": "Adam Jogee",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5168",
-        "twfy_id": "uk.org.publicwhip/person/26541",
-        "removed": false
-      },
-      {
-        "name": "Alex Sobel",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4658",
-        "twfy_id": "uk.org.publicwhip/person/25680",
-        "removed": false
-      },
-      {
-        "name": "Bob Blackman",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4005",
-        "twfy_id": "uk.org.publicwhip/person/24945",
-        "removed": false
-      },
-      {
-        "name": "Lord Moynihan of Chelsea",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord Elliott of Mickle Fell",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord Holmes of Richmond",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord Taylor of Warwick",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord Vaux of Harrowden",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Blake Stephenson",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5100",
-        "twfy_id": "uk.org.publicwhip/person/26355",
-        "removed": false
-      },
-      {
-        "name": "Sarah Russell",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5324",
-        "twfy_id": "uk.org.publicwhip/person/26571",
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-10-12",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "None",

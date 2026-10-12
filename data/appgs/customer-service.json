@@ -7,22 +7,22 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Mr Connor Rand",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26473",
-      "mnis_id": "5159",
+      "name": "Chris Evans",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/24721",
+      "mnis_id": "4040",
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Co-Chair",
       "name": "Baroness Stowell of Beeston",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25032",
+      "mnis_id": "4205",
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Officer",
       "name": "Esther McVey",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24882",
@@ -30,7 +30,7 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Officer",
       "name": "Lord Sahota",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26106",
@@ -45,9 +45,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Mr Connor Rand MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "connor.rand.mp@parliament.uk",
+    "registered_contact_name": "Chris Evans MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 5025.",
+    "registered_contact_email": "chris.evans.mp@parliament.uk",
     "public_enquiry_point_name": "David Dagger, The Institute of Customer Service . Tel: 020 7260 2699",
     "public_enquiry_point_email": "appg@icsmail.co.uk",
     "secretariat": "The Institute of Customer Service acts as the group's secretariat.https://www.instituteofcustomerservice.com/",
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-10",
+    "date_of_most_recent_agm": "2026-06-24",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Dec to 09 Dec",
-    "next_reporting_deadline": "2026-04-10"
+    "next_reporting_deadline": "2027-04-10"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "The Institute of Customer Service",
-      "Description": "Secretariat From: 10/12/2024 To: 09/12/2025",
-      "Value £s In bands of £1,500": "30,001-31,500",
-      "Received": "10/12/2024",
-      "Registered": "07/01/2025",
+      "Description": "Secretariat From: 10/12/2025 To: 09/12/2026",
+      "Value £s In bands of £1,500": "10,501-12,000",
+      "Received": "10/12/2025",
+      "Registered": "16/07/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260223",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260223/customer-service.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/customer-service.htm",
   "categories": [
     "Economy, Business & Industry",
     "Finance, Markets & Consumer Affairs"

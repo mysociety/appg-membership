@@ -43,7 +43,7 @@
     "source_url": [
       "https://fofsappg.org/wp-content/uploads/2026/02/260204-APPG-on-Future-Of-Financial-Services-Membership-List.pdf"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Peter Bedford",
@@ -59,7 +59,7 @@
         "member_type": "lord",
         "mnis_id": "4196",
         "twfy_id": "uk.org.publicwhip/person/25022",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Goudie",
@@ -377,8 +377,8 @@
         "name": "Lord Davidson of Glen Clova",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3781",
+        "twfy_id": "uk.org.publicwhip/person/13717",
         "removed": false
       },
       {
@@ -400,6 +400,14 @@
       {
         "name": "Lord Davies of Brixton",
         "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4893",
+        "twfy_id": "uk.org.publicwhip/person/25950",
+        "removed": false
+      },
+      {
+        "name": "Sharkey",
+        "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
@@ -436,8 +444,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/future-of-financial-services.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/future-of-financial-services.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

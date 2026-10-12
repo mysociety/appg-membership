@@ -41,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Wendy Morton",
@@ -103,24 +103,24 @@
         "name": "Baroness Hodgson of Abinger",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4301",
+        "twfy_id": "uk.org.publicwhip/person/25199",
         "removed": false
       },
       {
         "name": "Baroness McIntosh of Pickering",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "384",
+        "twfy_id": "uk.org.publicwhip/person/10389",
         "removed": false
       },
       {
         "name": "Earl of Caithness",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3310",
+        "twfy_id": "uk.org.publicwhip/person/13351",
         "removed": false
       },
       {
@@ -255,8 +255,8 @@
         "name": "Baroness Bakewell of Hardington Mandeville",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4285",
+        "twfy_id": "uk.org.publicwhip/person/25194",
         "removed": false
       },
       {
@@ -271,16 +271,16 @@
         "name": "Lord Carrington",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "1206",
-        "twfy_id": "uk.org.publicwhip/person/16901",
+        "mnis_id": "4712",
+        "twfy_id": "uk.org.publicwhip/person/25743",
         "removed": false
       },
       {
         "name": "Lord Alton of Liverpool",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "738",
+        "twfy_id": "uk.org.publicwhip/person/13103",
         "removed": false
       },
       {
@@ -295,8 +295,8 @@
         "name": "Lord Cameron of Dillington",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3705",
+        "twfy_id": "uk.org.publicwhip/person/13447",
         "removed": false
       }
     ]
@@ -321,8 +321,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/uk-food-security.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/uk-food-security.htm",
   "categories": [
     "Food, Agriculture & Rural Affairs"
   ]

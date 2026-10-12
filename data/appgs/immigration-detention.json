@@ -50,7 +50,7 @@
       "https://appgdetention.org.uk/about/members-2020-2021/",
       "https://appgdetention.org.uk/about/members-2019/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Bell Ribeiro-Addy",
@@ -96,8 +96,8 @@
         "name": "Baroness Bennett of Manor Castle",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4719",
+        "twfy_id": "uk.org.publicwhip/person/25776",
         "removed": false
       },
       {
@@ -184,8 +184,8 @@
         "name": "Baroness Lister of Burtersett",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4234",
+        "twfy_id": "uk.org.publicwhip/person/25058",
         "removed": false
       },
       {
@@ -248,8 +248,8 @@
         "name": "Lord Roberts of Llandudno",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3691",
+        "twfy_id": "uk.org.publicwhip/person/13477",
         "removed": false
       },
       {
@@ -312,8 +312,8 @@
         "name": "Baroness Bennett of Manor Castle",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4719",
+        "twfy_id": "uk.org.publicwhip/person/25776",
         "removed": false
       },
       {
@@ -362,7 +362,7 @@
         "member_type": "mp",
         "mnis_id": "4419",
         "twfy_id": "uk.org.publicwhip/person/25404",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Dubs",
@@ -432,8 +432,8 @@
         "name": "Baroness Lister of Burtersett",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4234",
+        "twfy_id": "uk.org.publicwhip/person/25058",
         "removed": false
       },
       {
@@ -456,8 +456,8 @@
         "name": "Angus B. MacNeil",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
@@ -472,8 +472,8 @@
         "name": "Stuart C. McDonald",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
@@ -544,8 +544,8 @@
         "name": "Lord Roberts of Llandudno",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3691",
+        "twfy_id": "uk.org.publicwhip/person/13477",
         "removed": false
       },
       {
@@ -648,8 +648,8 @@
         "name": "Earl of Sandwich",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "2109",
+        "twfy_id": "uk.org.publicwhip/person/13633",
         "removed": true
       },
       {
@@ -664,8 +664,8 @@
         "name": "Earl of Sandwich",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "2109",
+        "twfy_id": "uk.org.publicwhip/person/13633",
         "removed": true
       },
       {
@@ -690,7 +690,7 @@
         "member_type": "mp",
         "mnis_id": "4419",
         "twfy_id": "uk.org.publicwhip/person/25404",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Joanna Cherry QC",
@@ -698,7 +698,7 @@
         "member_type": "mp",
         "mnis_id": "4419",
         "twfy_id": "uk.org.publicwhip/person/25404",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Stephen Doughty",
@@ -714,31 +714,7 @@
         "member_type": "mp",
         "mnis_id": "4419",
         "twfy_id": "uk.org.publicwhip/person/25404",
-        "removed": false
-      },
-      {
-        "name": "Stephen Doughty",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4264",
-        "twfy_id": "uk.org.publicwhip/person/25166",
-        "removed": false
-      },
-      {
-        "name": "Richard Fuller",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "3912",
-        "twfy_id": "uk.org.publicwhip/person/24787",
-        "removed": false
-      },
-      {
-        "name": "Joanna Cherry QC",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4419",
-        "twfy_id": "uk.org.publicwhip/person/25404",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Stephen Doughty",
@@ -762,7 +738,31 @@
         "member_type": "mp",
         "mnis_id": "4419",
         "twfy_id": "uk.org.publicwhip/person/25404",
+        "removed": true
+      },
+      {
+        "name": "Stephen Doughty",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4264",
+        "twfy_id": "uk.org.publicwhip/person/25166",
         "removed": false
+      },
+      {
+        "name": "Richard Fuller",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "3912",
+        "twfy_id": "uk.org.publicwhip/person/24787",
+        "removed": false
+      },
+      {
+        "name": "Joanna Cherry QC",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4419",
+        "twfy_id": "uk.org.publicwhip/person/25404",
+        "removed": true
       },
       {
         "name": "Afzal Khan",
@@ -826,7 +826,7 @@
         "member_type": "mp",
         "mnis_id": "4419",
         "twfy_id": "uk.org.publicwhip/person/25404",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Stephen Kerr",
@@ -875,8 +875,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/immigration-detention.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/immigration-detention.htm",
   "categories": [
     "Justice, Law & Security",
     "Human Rights, Equality & Social Justice"

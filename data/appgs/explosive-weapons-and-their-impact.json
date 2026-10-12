@@ -15,14 +15,6 @@
     },
     {
       "role": "Officer",
-      "name": "Cameron Thomas",
-      "party": "Independent",
-      "twfy_id": "uk.org.publicwhip/person/26532",
-      "mnis_id": "5354",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Melanie Ward",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26610",
@@ -31,10 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Lord Roberts of Belgravia",
+      "name": "Viscount Camrose",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26062",
+      "mnis_id": "4939",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Bennett of Manor Castle",
+      "party": "Green Party",
+      "twfy_id": "uk.org.publicwhip/person/25776",
+      "mnis_id": "4719",
       "removed": false
     }
   ],
@@ -70,10 +70,24 @@
       "Received": "27/03/2026",
       "Registered": "14/04/2026",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Blind Veterans UK",
+      "Value £s": "3,500",
+      "Received": "17/08/2026",
+      "Registered": "26/08/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Tetra Tech Ltd",
+      "Value £s": "5,000",
+      "Received": "26/08/2026",
+      "Registered": "26/08/2026",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/explosive-weapons-and-their-impact.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/explosive-weapons-and-their-impact.htm",
   "categories": [
     "Justice, Law & Security",
     "International Affairs, Development & Trade"

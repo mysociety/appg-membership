@@ -33,7 +33,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Alex Sobel",
@@ -63,8 +63,8 @@
         "name": "Sarah",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
@@ -479,8 +479,8 @@
         "name": "Maurice Glasman",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
@@ -719,8 +719,8 @@
         "name": "Baroness Healy",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "4179",
-        "twfy_id": "uk.org.publicwhip/person/25004",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -743,16 +743,16 @@
         "name": "Baroness Prentis",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "4401",
-        "twfy_id": "uk.org.publicwhip/person/25420",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
         "name": "Lord Austin",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "1511",
-        "twfy_id": "uk.org.publicwhip/person/11553",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -767,16 +767,16 @@
         "name": "Lord Davies",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "3879",
-        "twfy_id": "uk.org.publicwhip/person/14145",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
         "name": "Lord Evans",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "2766",
-        "twfy_id": "uk.org.publicwhip/person/12852",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -807,8 +807,8 @@
         "name": "Lord Watson",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "1463",
-        "twfy_id": "uk.org.publicwhip/person/11309",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -833,8 +833,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/ukraine.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/ukraine.htm",
   "categories": [
     "Country Group"
   ]

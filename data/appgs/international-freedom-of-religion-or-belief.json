@@ -17,59 +17,24 @@
       "role": "Vice Chair",
       "name": "Lord Jackson of Peterborough",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/11759",
+      "mnis_id": "1551",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Lord Alton of Liverpool",
       "party": "Crossbench",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13103",
+      "mnis_id": "738",
       "removed": false
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://appgfreedomofreligionorbelief.org/about-2/"
-    ],
-    "last_updated": "2026-07-16",
-    "members": [
-      {
-        "name": "Jim Shannon",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4131",
-        "twfy_id": "uk.org.publicwhip/person/13864",
-        "removed": false
-      },
-      {
-        "name": "Sam Rushworth",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5108",
-        "twfy_id": "uk.org.publicwhip/person/26323",
-        "removed": false
-      },
-      {
-        "name": "Lord Alton of Liverpool",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lord Jackson of Peterborough",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-10-12",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Jim Shannon MP",
@@ -100,8 +65,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/international-freedom-of-religion-or-belief.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/international-freedom-of-religion-or-belief.htm",
   "categories": [
     "Religion, Faith & Belief Communities",
     "Human Rights, Equality & Social Justice",

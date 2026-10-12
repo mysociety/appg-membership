@@ -7,18 +7,18 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Pam Cox",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26324",
-      "mnis_id": "5042",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Tessa Munt",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/24942",
       "mnis_id": "4089",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Warinder Juss",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26533",
+      "mnis_id": "5230",
       "removed": false
     },
     {
@@ -41,9 +41,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://prisonreformtrust.org.uk/wp-content/uploads/2025/07/minute-of-APPG-on-Penal-Affairs-meeting-170625.pdf"
+      "https://prisonreformtrust.org.uk/wp-content/uploads/2023/06/Minutes-of-APPG-meeting-and-AGM-23.05.23.pdf",
+      "https://prisonreformtrust.org.uk/wp-content/uploads/2022/05/Minutes-of-APPG-meeting-and-AGM-26.04.22.pdf"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Pam Cox",
@@ -51,7 +52,7 @@
         "member_type": "mp",
         "mnis_id": "5042",
         "twfy_id": "uk.org.publicwhip/person/26324",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Prashar",
@@ -65,9 +66,9 @@
         "name": "Lord Carlile of Berriew",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "1138",
+        "twfy_id": "uk.org.publicwhip/person/13674",
+        "removed": true
       },
       {
         "name": "Lord Garnier",
@@ -83,7 +84,7 @@
         "member_type": "mp",
         "mnis_id": "4389",
         "twfy_id": "uk.org.publicwhip/person/25343",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lee Pitcher",
@@ -91,15 +92,15 @@
         "member_type": "mp",
         "mnis_id": "5233",
         "twfy_id": "uk.org.publicwhip/person/26464",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Healy of Primrose Hill",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4179",
+        "twfy_id": "uk.org.publicwhip/person/25004",
+        "removed": true
       },
       {
         "name": "Andy Slaughter",
@@ -107,7 +108,7 @@
         "member_type": "mp",
         "mnis_id": "1516",
         "twfy_id": "uk.org.publicwhip/person/11559",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Bishop of Lichfield",
@@ -115,7 +116,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Marie Goldman",
@@ -123,7 +124,7 @@
         "member_type": "mp",
         "mnis_id": "5073",
         "twfy_id": "uk.org.publicwhip/person/26338",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Paul Maynard",
@@ -131,7 +132,7 @@
         "member_type": "mp",
         "mnis_id": "3926",
         "twfy_id": "uk.org.publicwhip/person/24764",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Carlile",
@@ -139,7 +140,7 @@
         "member_type": "lord",
         "mnis_id": "1138",
         "twfy_id": "uk.org.publicwhip/person/13674",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Carolyn Harris",
@@ -147,7 +148,7 @@
         "member_type": "mp",
         "mnis_id": "4480",
         "twfy_id": "uk.org.publicwhip/person/25308",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Marie Rimmer",
@@ -155,7 +156,7 @@
         "member_type": "mp",
         "mnis_id": "4457",
         "twfy_id": "uk.org.publicwhip/person/25321",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Andrew Selous",
@@ -163,15 +164,15 @@
         "member_type": "mp",
         "mnis_id": "1453",
         "twfy_id": "uk.org.publicwhip/person/11216",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Hodgson of Astley Abbotts",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
+        "mnis_id": "1651",
+        "twfy_id": "uk.org.publicwhip/person/13226",
+        "removed": false
       },
       {
         "name": "Tessa Munt",
@@ -187,7 +188,7 @@
         "member_type": "mp",
         "mnis_id": "4120",
         "twfy_id": "uk.org.publicwhip/person/24896",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Masham",
@@ -195,7 +196,7 @@
         "member_type": "lord",
         "mnis_id": "1850",
         "twfy_id": "uk.org.publicwhip/person/12909",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Bishop Rachel Treweek",
@@ -203,7 +204,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Bradley",
@@ -211,7 +212,7 @@
         "member_type": "lord",
         "mnis_id": "452",
         "twfy_id": "uk.org.publicwhip/person/10059",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Crispin Blunt",
@@ -219,14 +220,78 @@
         "member_type": "mp",
         "mnis_id": "104",
         "twfy_id": "uk.org.publicwhip/person/10051",
-        "removed": true
+        "removed": false
+      },
+      {
+        "name": "Lord Attlee",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Julia Braggins",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mark Day",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Alex Hewson",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lord Atlee",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Julia Braggins",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Zoe Burton",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mark Day",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Pam Cox MP",
+    "registered_contact_name": "Tessa Munt MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "pam.cox.mp@parliament.uk",
+    "registered_contact_email": "tessa.munt.mp@parliament.uk",
     "public_enquiry_point_name": "Mark Day, Prison Reform Trust. Tel: 020 7689 7746",
     "public_enquiry_point_email": "mark.day@prisonreformtrust.org.uk",
     "secretariat": "Prison Reform Trust acts as the group's secretariat.http://www.prisonreformtrust.org.uk/",
@@ -236,24 +301,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-06-17",
+    "date_of_most_recent_agm": "2026-06-30",
     "published_income_expenditure_statement": false,
     "reporting_year": "17 Jun to 16 Jun",
-    "next_reporting_deadline": "2026-10-17"
+    "next_reporting_deadline": "2027-10-17"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Prison Reform Trust",
-      "Description": "From 28 August 2025, the Prison Reform Trust receives a grant from the Barrow Cadbury Trust to act as the group’s secretariat. From: 17/06/2025 To: 16/06/2026",
+      "Description": "From 28 August 2025, the Prison Reform Trust receives a grant from the Barrow Cadbury Trust to act as the group’s secretariat. From: 17/06/2026 To: 16/06/2027",
       "Value £s In bands of £1,500": "40,501-42,000",
-      "Received": "17/06/2025",
-      "Registered": "10/09/2025",
+      "Received": "17/06/2026",
+      "Registered": "06/07/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/penal-affairs.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/penal-affairs.htm",
   "categories": [
     "Justice, Law & Security"
   ]

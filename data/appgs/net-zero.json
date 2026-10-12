@@ -43,7 +43,7 @@
     "source_url": [
       "https://netzeroappg.org.uk/who-we-are/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Edward Morello",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "John Whitby",
@@ -105,9 +105,9 @@
         "name": "Young",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "1755",
-        "twfy_id": "uk.org.publicwhip/person/13030",
-        "removed": false
+        "mnis_id": "1752",
+        "twfy_id": "uk.org.publicwhip/person/13680",
+        "removed": true
       },
       {
         "name": "Barry Gardiner",
@@ -123,7 +123,7 @@
         "member_type": "lord",
         "mnis_id": "2539",
         "twfy_id": "uk.org.publicwhip/person/13434",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bill Esterson",
@@ -348,6 +348,30 @@
         "mnis_id": "4765",
         "twfy_id": "uk.org.publicwhip/person/25872",
         "removed": false
+      },
+      {
+        "name": "Lord Callanan",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4336",
+        "twfy_id": "uk.org.publicwhip/person/25250",
+        "removed": false
+      },
+      {
+        "name": "Baroness Young",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1752",
+        "twfy_id": "uk.org.publicwhip/person/13680",
+        "removed": false
+      },
+      {
+        "name": "Baroness Northover",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2539",
+        "twfy_id": "uk.org.publicwhip/person/13434",
+        "removed": false
       }
     ]
   },
@@ -380,8 +404,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/net-zero.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/net-zero.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

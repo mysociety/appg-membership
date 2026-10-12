@@ -28,6 +28,14 @@
       "twfy_id": "uk.org.publicwhip/person/26371",
       "mnis_id": "5083",
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Yuan Yang",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26600",
+      "mnis_id": "5267",
+      "removed": false
     }
   ],
   "members_list": {
@@ -35,7 +43,7 @@
     "source_url": [
       "https://anticorruption-responsibletax.org/about"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Phil Brickell",
@@ -107,7 +115,7 @@
         "member_type": "lord",
         "mnis_id": "337",
         "twfy_id": "uk.org.publicwhip/person/10221",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Morgan",
@@ -131,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": "891",
         "twfy_id": "uk.org.publicwhip/person/18019",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Catherine McKinnell",
@@ -259,7 +267,7 @@
         "member_type": "mp",
         "mnis_id": "4511",
         "twfy_id": "uk.org.publicwhip/person/25284",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dan Carden",
@@ -283,15 +291,15 @@
         "member_type": "lord",
         "mnis_id": "2172",
         "twfy_id": "uk.org.publicwhip/person/13609",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Wood of Anfield",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4217",
+        "twfy_id": "uk.org.publicwhip/person/25044",
+        "removed": true
       },
       {
         "name": "Sarah Olney",
@@ -315,7 +323,7 @@
         "member_type": "lord",
         "mnis_id": "4183",
         "twfy_id": "uk.org.publicwhip/person/25008",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Alton",
@@ -323,7 +331,7 @@
         "member_type": "lord",
         "mnis_id": "738",
         "twfy_id": "uk.org.publicwhip/person/13103",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Vaux",
@@ -331,7 +339,7 @@
         "member_type": "lord",
         "mnis_id": "4687",
         "twfy_id": "uk.org.publicwhip/person/25717",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Paul Kohler",
@@ -507,7 +515,7 @@
         "member_type": "lord",
         "mnis_id": "1138",
         "twfy_id": "uk.org.publicwhip/person/13674",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Lister",
@@ -515,6 +523,78 @@
         "member_type": "lord",
         "mnis_id": "4234",
         "twfy_id": "uk.org.publicwhip/person/25058",
+        "removed": false
+      },
+      {
+        "name": "Garnier",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Kirkhope",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Rupa Huq",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4511",
+        "twfy_id": "uk.org.publicwhip/person/25284",
+        "removed": false
+      },
+      {
+        "name": "Browne",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Wood of Anfield",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Faulks",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Alton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Vaux",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Carlile",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -548,8 +628,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/anti-corruption-and-responsible-tax.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/anti-corruption-and-responsible-tax.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

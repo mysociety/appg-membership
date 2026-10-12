@@ -25,23 +25,23 @@
       "role": "Vice Chair",
       "name": "Lord Young of Acton",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/26659",
+      "mnis_id": "5379",
       "removed": false
     },
     {
       "role": "Vice Chair",
       "name": "Baroness Fox of Buckley",
       "party": "Non-affiliated",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25961",
+      "mnis_id": "4887",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Richard Holden",
@@ -79,8 +79,8 @@
         "name": "Earl of Leicester",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4919",
+        "twfy_id": "uk.org.publicwhip/person/26036",
         "removed": false
       },
       {
@@ -95,8 +95,8 @@
         "name": "Baroness Jenkin",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "4229",
-        "twfy_id": "uk.org.publicwhip/person/25064",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -119,8 +119,8 @@
         "name": "Lord Jackson of Peterborough",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1551",
+        "twfy_id": "uk.org.publicwhip/person/11759",
         "removed": false
       },
       {
@@ -345,8 +345,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/freedom-of-speech.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/freedom-of-speech.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

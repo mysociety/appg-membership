@@ -6,14 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Justin Madders",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25378",
-      "mnis_id": "4418",
-      "removed": false
-    },
-    {
       "role": "Vice Chair",
       "name": "Samantha Niblett",
       "party": "Labour",
@@ -25,8 +17,8 @@
       "role": "Vice Chair",
       "name": "Baroness McIntosh of Pickering",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10389",
+      "mnis_id": "384",
       "removed": false
     },
     {
@@ -41,7 +33,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Mr Matt Western MP",
@@ -238,9 +230,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Justin Madders MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 6584.",
-    "registered_contact_email": "justin.madders.mp@parliament.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
     "public_enquiry_point_name": "Andrew Harries, Society of Motor Manufacturers and Traders Ltd",
     "public_enquiry_point_email": "apmg@smmt.co.uk",
     "secretariat": "Society of Motor Manufacturers and Traders, Motorsport Industry Association and RAC Foundation jointly act as the group's secretariat.https://www.smmt.co.ukandhttps://the-mia.comandhttps://www.racfoundation.org",
@@ -282,8 +274,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/motor.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/motor.htm",
   "categories": [
     "Infrastructure, Transport & Mobility",
     "Economy, Business & Industry",

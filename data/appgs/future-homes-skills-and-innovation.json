@@ -33,8 +33,8 @@
       "role": "Officer",
       "name": "Lord Porter of Spalding",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25469",
+      "mnis_id": "4555",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.fhsiappg.co.uk/members"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Margaret Mullane",
@@ -73,8 +73,8 @@
         "name": "Lord Porter of Spalding",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4555",
+        "twfy_id": "uk.org.publicwhip/person/25469",
         "removed": false
       },
       {
@@ -145,8 +145,8 @@
         "name": "Lord Goddard of Stockport",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4334",
+        "twfy_id": "uk.org.publicwhip/person/25247",
         "removed": false
       },
       {
@@ -276,6 +276,22 @@
         "mnis_id": "5223",
         "twfy_id": "uk.org.publicwhip/person/26547",
         "removed": false
+      },
+      {
+        "name": "Lord Mohammed of Tinsley",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "5401",
+        "twfy_id": "uk.org.publicwhip/person/26681",
+        "removed": false
+      },
+      {
+        "name": "Hannah Spencer",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5447",
+        "twfy_id": "uk.org.publicwhip/person/26729",
+        "removed": false
       }
     ]
   },
@@ -308,8 +324,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/future-homes-skills-and-innovation.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/future-homes-skills-and-innovation.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Education, Skills & Youth",

@@ -25,8 +25,8 @@
       "role": "Vice Chair",
       "name": "Lord Evans of Rainow",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/24883",
+      "mnis_id": "4081",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://thefsa.org.uk/our-work/appg-for-football-supporters/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Alex Norris",
@@ -67,7 +67,7 @@
         "member_type": "mp",
         "mnis_id": "1516",
         "twfy_id": "uk.org.publicwhip/person/11559",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Anneliese Midgley",
@@ -81,8 +81,8 @@
         "name": "Baroness Taylor of Bolton",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "407",
+        "twfy_id": "uk.org.publicwhip/person/10584",
         "removed": false
       },
       {
@@ -315,7 +315,7 @@
         "member_type": "mp",
         "mnis_id": "5094",
         "twfy_id": "uk.org.publicwhip/person/26403",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Justin Madders",
@@ -353,8 +353,8 @@
         "name": "Lord Collins of Highbury",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4222",
+        "twfy_id": "uk.org.publicwhip/person/25048",
         "removed": false
       },
       {
@@ -363,22 +363,22 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Evans of Rainow",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4081",
+        "twfy_id": "uk.org.publicwhip/person/24883",
         "removed": false
       },
       {
         "name": "Lord Evans of Sealand",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "5376",
+        "twfy_id": "uk.org.publicwhip/person/26655",
         "removed": false
       },
       {
@@ -393,16 +393,16 @@
         "name": "Lord Goddard of Stockport",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4334",
+        "twfy_id": "uk.org.publicwhip/person/25247",
         "removed": false
       },
       {
         "name": "Lord Goodman of Wycombe",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1471",
+        "twfy_id": "uk.org.publicwhip/person/26298",
         "removed": false
       },
       {
@@ -417,16 +417,16 @@
         "name": "Lord Stoneham of Droxford",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4215",
+        "twfy_id": "uk.org.publicwhip/person/25052",
         "removed": false
       },
       {
         "name": "Lord Taylor of Warwick",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1796",
+        "twfy_id": "uk.org.publicwhip/person/13194",
         "removed": false
       },
       {
@@ -547,7 +547,7 @@
         "member_type": "mp",
         "mnis_id": "4873",
         "twfy_id": "uk.org.publicwhip/person/25809",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Richard Burgon",
@@ -659,8 +659,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/football-supporters.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/football-supporters.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]

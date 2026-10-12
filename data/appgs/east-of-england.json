@@ -43,7 +43,7 @@
     "source_url": [
       "https://eastofenglandappg.org.uk/members/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Jess Asato",
@@ -273,9 +273,9 @@
         "name": "Dean Josh",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
+        "removed": true
       },
       {
         "name": "James Wild",
@@ -316,6 +316,14 @@
         "mnis_id": "5201",
         "twfy_id": "uk.org.publicwhip/person/26539",
         "removed": false
+      },
+      {
+        "name": "Josh Dean",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5187",
+        "twfy_id": "uk.org.publicwhip/person/26456",
+        "removed": false
       }
     ]
   },
@@ -348,8 +356,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/east-of-england.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/east-of-england.htm",
   "categories": [
     "Regions, Nations & Devolution"
   ]

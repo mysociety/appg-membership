@@ -41,9 +41,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://appg-ds.org/wp-content/uploads/2025/11/members-as-at-nov-25a.pdf"
+      "https://appg-ds.org/wp-content/uploads/2026/09/members-at-sept26.pdf"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Andrew Cooper",
@@ -163,7 +163,7 @@
         "member_type": "mp",
         "mnis_id": "4008",
         "twfy_id": "uk.org.publicwhip/person/24873",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Chris Evans",
@@ -179,7 +179,7 @@
         "member_type": "mp",
         "mnis_id": "1524",
         "twfy_id": "uk.org.publicwhip/person/11605",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Richard Holden",
@@ -371,7 +371,7 @@
         "member_type": "mp",
         "mnis_id": "5242",
         "twfy_id": "uk.org.publicwhip/person/26551",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ben Coleman",
@@ -379,7 +379,7 @@
         "member_type": "mp",
         "mnis_id": "5344",
         "twfy_id": "uk.org.publicwhip/person/26602",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord James Arbuthnot of Edrom",
@@ -387,7 +387,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord John Kerr of Kinlochard",
@@ -395,6 +395,22 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Dinenage",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4008",
+        "twfy_id": "uk.org.publicwhip/person/24873",
+        "removed": false
+      },
+      {
+        "name": "Dame Meg Hiller",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1524",
+        "twfy_id": "uk.org.publicwhip/person/11605",
         "removed": false
       }
     ]
@@ -419,8 +435,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/down-syndrome.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/down-syndrome.htm",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Health, Medicine & Public Health",

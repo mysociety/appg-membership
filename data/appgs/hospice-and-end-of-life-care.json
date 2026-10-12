@@ -17,8 +17,8 @@
       "role": "Co-Chair",
       "name": "Baroness Finlay of Llandaff",
       "party": "Crossbench",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13471",
+      "mnis_id": "3609",
       "removed": false
     },
     {
@@ -41,9 +41,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://hospiceuk-files-prod.s3.eu-west-2.amazonaws.com/s3fs-public/2026-06/APPG%20on%20Hospice%20and%20End%20of%20Life%20Care%20Membership.pdf"
+      "https://hospiceuk-files-prod.s3.eu-west-2.amazonaws.com/s3fs-public/2026-09/APPG%20on%20Hospice%20and%20End%20of%20Life%20Care%20Membership.pdf"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Baroness Ilora Finlay",
@@ -169,8 +169,8 @@
         "name": "Baroness Healy of Primrose Hill",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4179",
+        "twfy_id": "uk.org.publicwhip/person/25004",
         "removed": false
       },
       {
@@ -452,6 +452,14 @@
         "mnis_id": "4321",
         "twfy_id": "uk.org.publicwhip/person/25233",
         "removed": false
+      },
+      {
+        "name": "Pippa Heylings",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5078",
+        "twfy_id": "uk.org.publicwhip/person/26421",
+        "removed": false
       }
     ]
   },
@@ -484,8 +492,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/hospice-and-end-of-life-care.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/hospice-and-end-of-life-care.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"

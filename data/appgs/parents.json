@@ -17,8 +17,8 @@
       "role": "Officer",
       "name": "Lord Knight of Weymouth",
       "party": "Labour",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/11027",
+      "mnis_id": "4160",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.parentkind.org.uk/research-and-policy/education-policy/policy-in-england/all-party-parliamentary-group-for-england"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Sharon Hodgson",
@@ -57,8 +57,8 @@
         "name": "Lord Knight of Weymouth",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4160",
+        "twfy_id": "uk.org.publicwhip/person/11027",
         "removed": false
       },
       {
@@ -75,7 +75,7 @@
         "member_type": "lord",
         "mnis_id": "4174",
         "twfy_id": "uk.org.publicwhip/person/25001",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Blower",
@@ -97,24 +97,24 @@
         "name": "Baroness Garden of Frognal",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3842",
+        "twfy_id": "uk.org.publicwhip/person/13938",
         "removed": false
       },
       {
         "name": "Baroness Lister of Burtersett",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4234",
+        "twfy_id": "uk.org.publicwhip/person/25058",
         "removed": false
       },
       {
         "name": "Baroness Morgan of Drefelin",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3685",
+        "twfy_id": "uk.org.publicwhip/person/13480",
         "removed": false
       },
       {
@@ -129,8 +129,8 @@
         "name": "Baroness Watkins of Tavistock",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4566",
+        "twfy_id": "uk.org.publicwhip/person/25481",
         "removed": false
       },
       {
@@ -219,7 +219,7 @@
         "member_type": "mp",
         "mnis_id": "5256",
         "twfy_id": "uk.org.publicwhip/person/26557",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Kirith Entwistle",
@@ -227,7 +227,7 @@
         "member_type": "mp",
         "mnis_id": "5095",
         "twfy_id": "uk.org.publicwhip/person/26378",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Laura Kyrke-Smith",
@@ -265,8 +265,8 @@
         "name": "Lord Watson of Invergowrie",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1241",
+        "twfy_id": "uk.org.publicwhip/person/12893",
         "removed": true
       },
       {
@@ -355,7 +355,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "David Baine",
@@ -396,8 +396,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/parents.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/parents.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

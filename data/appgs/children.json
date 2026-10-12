@@ -25,8 +25,8 @@
       "role": "Officer",
       "name": "Baroness Tyler of Enfield",
       "party": "Liberal Democrat",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25056",
+      "mnis_id": "4231",
       "removed": false
     },
     {
@@ -41,30 +41,30 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Jess Asato (co-chair)",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
         "name": "Munira Wilson (co-chair)",
         "is_officer": false,
         "member_type": "mp",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3699",
+        "twfy_id": "uk.org.publicwhip/person/12838",
         "removed": false
       },
       {
         "name": "Baroness Tyler",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "4231",
-        "twfy_id": "uk.org.publicwhip/person/25056",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -263,8 +263,8 @@
         "name": "Lord Russell of Liverpool",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "2134",
+        "twfy_id": "uk.org.publicwhip/person/25260",
         "removed": false
       },
       {
@@ -303,32 +303,32 @@
         "name": "Baroness Watkins of Tavistock",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4566",
+        "twfy_id": "uk.org.publicwhip/person/25481",
         "removed": false
       },
       {
         "name": "Baroness Hughes",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "459",
-        "twfy_id": "uk.org.publicwhip/person/10296",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
         "name": "Baroness Lister",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "4234",
-        "twfy_id": "uk.org.publicwhip/person/25058",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
         "name": "Lord Hunt",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "2024",
-        "twfy_id": "uk.org.publicwhip/person/13353",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -343,8 +343,8 @@
         "name": "Baroness Morris",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "305",
-        "twfy_id": "uk.org.publicwhip/person/10445",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       },
       {
@@ -377,8 +377,8 @@
     "registered_contact_name": "Jess Asato MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "jess.asato.mp@parliament.uk",
-    "public_enquiry_point_name": "Bia Torres, National Children's Bureau",
-    "public_enquiry_point_email": "btorres@ncb.org.uk",
+    "public_enquiry_point_name": "Jemima Colahan, National Children's Bureau",
+    "public_enquiry_point_email": "jcolahan@ncb.org.uk",
     "secretariat": "National Children's Bureau acts as the group's secretariat.https://www.ncb.org.uk/",
     "website": {
       "status": "register",
@@ -402,8 +402,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/children.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/children.htm",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Education, Skills & Youth"

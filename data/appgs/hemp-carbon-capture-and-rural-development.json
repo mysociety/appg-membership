@@ -8,17 +8,25 @@
     {
       "role": "Chair & Registered Contact",
       "name": "Mr Bayo Alaba",
-      "party": "Labour",
+      "party": "Independent",
       "twfy_id": "uk.org.publicwhip/person/26422",
       "mnis_id": "5097",
       "removed": false
     },
     {
-      "role": "Co-Chair",
-      "name": "Lord Mancroft",
+      "role": "Officer",
+      "name": "John Lamont",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/12905",
-      "mnis_id": "1833",
+      "twfy_id": "uk.org.publicwhip/person/14026",
+      "mnis_id": "4608",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Cameron of Dillington",
+      "party": "Crossbench",
+      "twfy_id": "uk.org.publicwhip/person/13447",
+      "mnis_id": "3705",
       "removed": false
     },
     {
@@ -27,14 +35,6 @@
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10503",
       "mnis_id": "334",
-      "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Richard Quigley",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26373",
-      "mnis_id": "5144",
       "removed": false
     }
   ],
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-04-01",
+    "date_of_most_recent_agm": "2026-06-16",
     "published_income_expenditure_statement": false,
     "reporting_year": "01 Apr to 31 Mar",
-    "next_reporting_deadline": "2026-08-01"
+    "next_reporting_deadline": "2027-08-01"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Tenacious Carbon",
-      "Description": "Tenacious Carbon acts as the group's secretariat and pays Cutbill Jacoby to help it fulfil this role From: 01/04/2025 To: 31/03/2026",
-      "Value £s In bands of £1,500": "19,501-21,000",
-      "Received": "01/04/2025",
-      "Registered": "17/04/2025",
+      "Description": "Tenacious Carbon acts as the group's secretariat and pays Cutbill Jacoby to help it fulfil this role. From: 01/04/2026 To: 31/03/2027",
+      "Value £s In bands of £1,500": "18,001-19,500",
+      "Received": "01/04/2026",
+      "Registered": "03/07/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/hemp-carbon-capture-and-rural-development.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/hemp-carbon-capture-and-rural-development.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Energy & Utilities",

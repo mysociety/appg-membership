@@ -17,8 +17,8 @@
       "role": "Vice Chair",
       "name": "Baroness Foster of Oxton",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25972",
+      "mnis_id": "4911",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.resilienceinunity.com/appg"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Andy MacNae",
@@ -59,7 +59,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Neil Coyle",
@@ -71,6 +71,22 @@
       },
       {
         "name": "The Lord Bishop of Manchester",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Jacqueline Foster",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "David Walker",
         "is_officer": true,
         "member_type": "lord",
         "mnis_id": null,
@@ -99,8 +115,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/terrorism-and-security.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/terrorism-and-security.htm",
   "categories": [
     "Justice, Law & Security"
   ]

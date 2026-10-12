@@ -14,14 +14,6 @@
       "removed": false
     },
     {
-      "role": "Co-Chair",
-      "name": "Katie Lam",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26588",
-      "mnis_id": "5285",
-      "removed": false
-    },
-    {
       "role": "Officer",
       "name": "Charlotte Cane",
       "party": "Liberal Democrat",
@@ -33,8 +25,8 @@
       "role": "Officer",
       "name": "Baroness Young of Old Scone",
       "party": "Non-affiliated",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13030",
+      "mnis_id": "1755",
       "removed": false
     }
   ],
@@ -43,7 +35,7 @@
     "source_url": [
       "https://classicalassociation.org/all-party-parliamentary-group-for-classics/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Dr Peter Swallow",
@@ -51,7 +43,7 @@
         "member_type": "mp",
         "mnis_id": "5165",
         "twfy_id": "uk.org.publicwhip/person/26369",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Katie Lam",
@@ -73,8 +65,8 @@
         "name": "Baroness Young of Old Scone",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1755",
+        "twfy_id": "uk.org.publicwhip/person/13030",
         "removed": false
       },
       {
@@ -145,8 +137,8 @@
         "name": "Lord Thomas of Gresford",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1804",
+        "twfy_id": "uk.org.publicwhip/person/12974",
         "removed": false
       },
       {
@@ -169,8 +161,8 @@
         "name": "Lord Hope of Craighead",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "2004",
+        "twfy_id": "uk.org.publicwhip/person/13079",
         "removed": false
       },
       {
@@ -185,16 +177,16 @@
         "name": "Lord Boswell of Aynho",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "352",
+        "twfy_id": "uk.org.publicwhip/person/10056",
         "removed": true
       },
       {
         "name": "Lord King of Bridgwater",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "254",
+        "twfy_id": "uk.org.publicwhip/person/10342",
         "removed": false
       },
       {
@@ -209,8 +201,8 @@
         "name": "Lord Evans of Weardale",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4348",
+        "twfy_id": "uk.org.publicwhip/person/25257",
         "removed": false
       },
       {
@@ -227,7 +219,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Oxford",
@@ -241,8 +233,8 @@
         "name": "Lord Watson of Wyre Forest",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "1463",
+        "twfy_id": "uk.org.publicwhip/person/11309",
         "removed": false
       },
       {
@@ -251,7 +243,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Banner",
@@ -275,6 +267,22 @@
         "member_type": "mp",
         "mnis_id": "5165",
         "twfy_id": "uk.org.publicwhip/person/26369",
+        "removed": true
+      },
+      {
+        "name": "Lord Parekh FBA",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Black of Strome",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4915",
+        "twfy_id": "uk.org.publicwhip/person/25983",
         "removed": false
       }
     ]
@@ -299,8 +307,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/classics.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/classics.htm",
   "categories": [
     "Education, Skills & Youth",
     "Arts, Culture, Heritage & Media"

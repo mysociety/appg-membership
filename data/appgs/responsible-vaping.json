@@ -33,8 +33,8 @@
       "role": "Officer",
       "name": "Lord Brady of Altrincham",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10062",
+      "mnis_id": "435",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://responsiblevapingappg.org/members/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Euan Stainbank",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Brady",
@@ -75,6 +75,22 @@
         "member_type": "lord",
         "mnis_id": "4339",
         "twfy_id": "uk.org.publicwhip/person/25249",
+        "removed": true
+      },
+      {
+        "name": "Lord Naseby",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "1251",
+        "twfy_id": "uk.org.publicwhip/person/13704",
+        "removed": false
+      },
+      {
+        "name": "Lord Brady",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -83,9 +99,9 @@
     "registered_contact_name": "Euan Stainbank MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
     "registered_contact_email": "euan.stainbank.mp@parliament.uk",
-    "public_enquiry_point_name": "Independent British Vape Trade Association. Tel: 020 3909 8080",
-    "public_enquiry_point_email": "matthew@responsiblevapingappg.org",
-    "secretariat": "Independent British Vape Trade Association acts as the group's secretariat.https://www.ibvta.org.uk/",
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
     "website": {
       "status": "register",
       "url": "https://responsiblevapingappg.org/"
@@ -101,15 +117,15 @@
   "detailed_benefits": [
     {
       "Source": "Independent British Vape Trade Association",
-      "Description": "The Independent British Vape Trade Association acts as the group's secretariat and pays CalComms to assist them in that role. From: 02/09/2025 To: 01/09/2026",
+      "Description": "The Independent British Vape Trade Association acted as the group's secretariat and paid CalComms to assist them in that role. From: 02/09/2025 To: 01/09/2026",
       "Value £s In bands of £1,500": "46,501-48,000",
       "Received": "02/09/2025",
       "Registered": "19/11/2025",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/responsible-vaping.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/responsible-vaping.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

@@ -33,8 +33,8 @@
       "role": "Vice Chair",
       "name": "Lord Sherbourne of Didsbury",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/25203",
+      "mnis_id": "4287",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.ciol.org.uk/appg-members"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Tonia Antoniazzi",
@@ -73,8 +73,8 @@
         "name": "Lord Sherbourne of Didsbury",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "4287",
+        "twfy_id": "uk.org.publicwhip/person/25203",
         "removed": false
       },
       {
@@ -169,8 +169,8 @@
         "name": "Lord Anderson of Swansea",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "568",
+        "twfy_id": "uk.org.publicwhip/person/10011",
         "removed": false
       },
       {
@@ -187,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Dykes",
@@ -201,24 +201,24 @@
         "name": "Baroness Finlay of Llandaff",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3609",
+        "twfy_id": "uk.org.publicwhip/person/13471",
         "removed": false
       },
       {
         "name": "Baroness Garden of Frognal",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3842",
+        "twfy_id": "uk.org.publicwhip/person/13938",
         "removed": false
       },
       {
         "name": "Lord Hannay of Chiswick",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "2167",
+        "twfy_id": "uk.org.publicwhip/person/13140",
         "removed": false
       },
       {
@@ -241,8 +241,8 @@
         "name": "Lord Jay of Ewelme",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3818",
+        "twfy_id": "uk.org.publicwhip/person/13886",
         "removed": false
       },
       {
@@ -273,8 +273,8 @@
         "name": "Baroness Morris of Yardley",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "305",
+        "twfy_id": "uk.org.publicwhip/person/10445",
         "removed": false
       },
       {
@@ -289,8 +289,8 @@
         "name": "Baroness O'Neill of Bengarve",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "2441",
+        "twfy_id": "uk.org.publicwhip/person/13167",
         "removed": false
       },
       {
@@ -305,8 +305,8 @@
         "name": "Baroness Royall of Blaisdon",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3703",
+        "twfy_id": "uk.org.publicwhip/person/13452",
         "removed": false
       },
       {
@@ -331,7 +331,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -364,8 +364,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/modern-languages.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/modern-languages.htm",
   "categories": [
     "Education, Skills & Youth"
   ]

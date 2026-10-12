@@ -17,8 +17,8 @@
       "role": "Officer",
       "name": "Baroness Anelay of St Johns",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/13107",
+      "mnis_id": "3474",
       "removed": false
     },
     {
@@ -28,14 +28,6 @@
       "twfy_id": "uk.org.publicwhip/person/24873",
       "mnis_id": "4008",
       "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Jo Platt",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/25611",
-      "mnis_id": "4673",
-      "removed": false
     }
   ],
   "members_list": {
@@ -44,7 +36,7 @@
       "https://www.appgwomenshealth.org/about",
       "https://www.appgwomenshealth.org/events-and-meetings"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Gill Furniss",
@@ -74,8 +66,8 @@
         "name": "Baroness Anelay of St Johns",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "3474",
+        "twfy_id": "uk.org.publicwhip/person/13107",
         "removed": false
       },
       {
@@ -173,8 +165,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/womens-health.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/womens-health.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

@@ -17,8 +17,8 @@
       "role": "Vice Chair",
       "name": "Lord Randall of Uxbridge",
       "party": "Conservative",
-      "twfy_id": null,
-      "mnis_id": null,
+      "twfy_id": "uk.org.publicwhip/person/10660",
+      "mnis_id": "209",
       "removed": false
     },
     {
@@ -41,9 +41,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.royensoc.co.uk/beepollinvertappg/"
+      "https://www.royensoc.co.uk/beepollinvertappg/",
+      "https://www.royensoc.co.uk/news/res-policy-news-update-july-2026/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Barry Gardiner",
@@ -57,8 +58,8 @@
         "name": "Lord Randall of Uxbridge",
         "is_officer": true,
         "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
+        "mnis_id": "209",
+        "twfy_id": "uk.org.publicwhip/person/10660",
         "removed": false
       },
       {
@@ -75,6 +76,30 @@
         "member_type": "mp",
         "mnis_id": "5145",
         "twfy_id": "uk.org.publicwhip/person/26419",
+        "removed": false
+      },
+      {
+        "name": "Manuela Perteghella",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5122",
+        "twfy_id": "uk.org.publicwhip/person/26569",
+        "removed": false
+      },
+      {
+        "name": "Blake Stephenson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5100",
+        "twfy_id": "uk.org.publicwhip/person/26355",
+        "removed": false
+      },
+      {
+        "name": "Adrian Ramsay",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5320",
+        "twfy_id": "uk.org.publicwhip/person/26514",
         "removed": false
       }
     ]
@@ -108,8 +133,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/bees-pollinators-and-invertebrates.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/bees-pollinators-and-invertebrates.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

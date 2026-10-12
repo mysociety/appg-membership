@@ -41,9 +41,10 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
+      "https://www.menandboys.org.uk/policy-and-research/appg-summary",
       "https://cdn.prod.website-files.com/68e000877f13a12f91fcdd4a/69c3f52afd325ccf2e10f6c8_Membership%20Names%20APPG%20Men%20and%20Boys%20(March%202026).pdf"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Mims Davies",
@@ -353,8 +354,8 @@
         "name": "Lord Gilbert",
         "is_officer": false,
         "member_type": "lord",
-        "mnis_id": "4543",
-        "twfy_id": "uk.org.publicwhip/person/25456",
+        "mnis_id": "843",
+        "twfy_id": "uk.org.publicwhip/person/13065",
         "removed": false
       },
       {
@@ -484,6 +485,22 @@
         "mnis_id": "5426",
         "twfy_id": "uk.org.publicwhip/person/26708",
         "removed": false
+      },
+      {
+        "name": "Baroness Eaton",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4184",
+        "twfy_id": "uk.org.publicwhip/person/25003",
+        "removed": false
+      },
+      {
+        "name": "Lord Farmer",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4321",
+        "twfy_id": "uk.org.publicwhip/person/25233",
+        "removed": false
       }
     ]
   },
@@ -507,8 +524,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/men-and-boys-issues.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/men-and-boys-issues.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

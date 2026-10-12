@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgief.org.uk/about/who-we-are/"
     ],
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-10-12",
     "members": [
       {
         "name": "Naz Shah",
@@ -59,7 +59,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Afzal Khan",
@@ -75,6 +75,14 @@
         "member_type": "mp",
         "mnis_id": "4861",
         "twfy_id": "uk.org.publicwhip/person/25922",
+        "removed": false
+      },
+      {
+        "name": "Lord Alderdice",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "3478",
+        "twfy_id": "uk.org.publicwhip/person/13371",
         "removed": false
       }
     ]
@@ -99,8 +107,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/islamic-and-ethical-finance.htm",
+  "index_date": "260901",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/islamic-and-ethical-finance.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs",
     "Religion, Faith & Belief Communities"
