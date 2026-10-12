@@ -4,6 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    working_dir: /workspaces/appg_membership      
+    working_dir: /workspaces/appg_membership
     volumes:
       - ./:/workspaces/appg_membership/
+      - /workspaces/appg_membership/.venv

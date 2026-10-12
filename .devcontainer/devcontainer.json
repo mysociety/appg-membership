@@ -16,26 +16,12 @@
 				"ms-python.vscode-pylance",
 				"ms-azuretools.vscode-docker",
 				"valentjn.vscode-ltex",
-				"ms-python.black-formatter",
 				"charliermarsh.ruff"
 			]
 		},
 		"codespaces": {
 			"repositories": {
 				"mysociety/data_common": {
-					"permissions": {
-						"contents": "write",
-						"actions": "write",
-						"deployments": "write",
-						"issues": "write",
-						"packages": "read",
-						"pull_requests": "write",
-						"repository_projects": "write",
-						"statuses": "write",
-						"workflows": "write"
-					}
-				},
-				"mysociety/mysociety-docs-theme": {
 					"permissions": {
 						"contents": "write",
 						"actions": "write",

@@ -179,7 +179,7 @@ project generate-diffs
 
 This creates diff reports showing what changed between consecutive registers, which are saved to:
 - `data/interim/diffs/` (JSON format)
-- `docs/_diffs/` (Markdown format for the Jekyll site)
+- `_render/site/analysis/register-changes-*/` (Flask analysis bundles)
 
 
 ### 12. Verify the Results
@@ -306,7 +306,7 @@ This approach is preferable to keeping inaccurate data, as it clearly indicates 
 
 ### 16. Rebuild the Documentation Site (if hosting)
 
-Run the Jekyll build process to update the documentation site with the new diffs.
+Run `uv run dataset site check` and `uv run dataset site build` to build the Flask site into `_site`. Use `script/server` to serve it locally. Published downloads live under `data/packages/_published` and remain intentionally ignored by Git.
 
 ## Scotland Cross-Party Groups
 

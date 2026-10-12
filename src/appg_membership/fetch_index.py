@@ -112,7 +112,7 @@ def _parse_contact_details(table: Optional[Tag]) -> Optional[ContactDetails]:
                 break
 
             # Skip non-tag elements (like text nodes)
-            if not hasattr(current, "name"):
+            if not isinstance(current, Tag):
                 continue
 
             # If we hit another paragraph with a <strong> tag, we're done with this section
@@ -123,12 +123,12 @@ def _parse_contact_details(table: Optional[Tag]) -> Optional[ContactDetails]:
             if current.name == "p":
                 # Look for email links in this paragraph
                 email_links = current.find_all(
-                    "a", href=lambda x: x and x.startswith("mailto:")
+                    "a", href=lambda x: bool(x and x.startswith("mailto:"))
                 )
                 if (
                     email_links and not email
                 ):  # Take the first email found in this section
-                    extracted_email = email_links[0]["href"].replace("mailto:", "")
+                    extracted_email = str(email_links[0]["href"]).replace("mailto:", "")
                     # Validate the email before storing it
                     if _is_valid_email(extracted_email):
                         email = extracted_email
@@ -256,7 +256,7 @@ def _find_benefits_tables(tables: List[Tag]) -> tuple[Optional[Tag], Optional[Ta
             if text_content and text_content != "none":
                 # Check if this looks like a benefits category header or actual data
                 colspan = cells[0].get("colspan")
-                if colspan and int(colspan) > 1:
+                if isinstance(colspan, str) and int(colspan) > 1:
                     # This is a category header, so there is data in this table
                     has_data = True
                     break
@@ -354,7 +354,7 @@ def _parse_registrable_benefits(
 
         # Check if this is a category header row (spans multiple columns)
         colspan = cells[0].get("colspan")
-        if colspan and int(colspan) > 1:
+        if isinstance(colspan, str) and int(colspan) > 1:
             # This is a category header row
             current_benefit_type = cells[0].get_text(strip=True)
             continue
@@ -467,7 +467,7 @@ def get_appg_data(url: str, index_date: str) -> APPG:
 
 
 def fetch_from_index(index_date: str, is_latest: bool = False):
-    url_folder = f"https://publications.parliament.uk/pa/cm/cmallparty/{ index_date }/"
+    url_folder = f"https://publications.parliament.uk/pa/cm/cmallparty/{index_date}/"
     index_url = url_folder + "contents.htm"
 
     headers = {"User-Agent": settings.PARL_USERAGENT}
@@ -481,7 +481,7 @@ def fetch_from_index(index_date: str, is_latest: bool = False):
     # url to them
     for link in links:
         href = link.get("href")
-        if href and href.endswith(".htm"):
+        if isinstance(href, str) and href.endswith(".htm"):
             # prepend the folder URL
             urls.append(url_folder + href)
 

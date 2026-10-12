@@ -1,40 +1,58 @@
-[tool.poetry]
+[project]
 name = "appg_membership"
 version = "0.1.0"
 description = "Scraper and raw_data for APPG memberships"
 authors = []
+requires-python = ">=3.11,<3.15"
+dependencies = [
+    "data-common[dataset]",
+    "pydantic-settings>=2.9.1,<3",
+    "pydantic[email]>=2.11.3,<3",
+    "pydantic-ai>=0.1.6,<0.2",
+    "markdownify>=1.1.0,<2",
+    "duckduckgo-search>=8.0.1,<9",
+    "tavily-python>=0.7.0,<0.8",
+    "mysoc-validator>=1.1.4,<2",
+    "pypdf2>=3.0.1,<4",
+    "levenshtein>=0.27.1,<0.28",
+    "backports-strenum>=1.3.1,<2",
+    "pydantic-store>=0.1.0,<0.2",
+    "openpyxl>=3.1,<4",
+]
+
+[project.scripts]
+project = "appg_membership.__main__:main"
+
+[dependency-groups]
+test = [{ include-group = "render" }, "pytest>=8"]
+lint = ["ruff>=0.6.1"]
+type = ["pandas-stubs>=2.2", "pyright[nodejs]>=1.1.248"]
+notebook = ["data-common[notebook]", "jupyterlab>=4"]
+render = ["data-common[render]"]
+google = ["data-common[google]"]
+dev = [
+    { include-group = "test" },
+    { include-group = "lint" },
+    { include-group = "type" },
+]
+
+[tool.uv]
+# The existing AI client requires the pre-removal telemetry events API.
+constraint-dependencies = ["opentelemetry-api<1.39", "logfire-api<4", "griffe<2", "click<8.2"]
+
+[tool.uv.sources]
+data-common = { path = "src/data_common/", editable = true }
+
+[tool.pytest.ini_options]
+markers = ["notebook: exercises notebook execution and analysis bundle production"]
 
 [build-system]
-requires = ["poetry-core>=1.0.0"]
-build-backend = "poetry.core.masonry.api"
-
-[tool.poetry.dependencies]
-python = ">=3.10,<3.11"
-data_common = { path = "src/data_common/", develop = true }
-pydantic-settings = "^2.9.1"
-pydantic = {extras = ["email"], version = "^2.11.3"}
-pydantic-ai = "^0.1.6"
-markdownify = "^1.1.0"
-duckduckgo-search = "^8.0.1"
-tavily-python = "^0.7.0"
-mysoc-validator = "^1.1.4"
-pypdf2 = "^3.0.1"
-levenshtein = "^0.27.1"
-backports-strenum = "^1.3.1"
-pydantic-store = "^0.1.0"
-
-[tool.poetry.group.dev.dependencies]
-pytest = "^7.1.1"
-
-[tool.poetry.scripts]
-project = 'appg_membership.__main__:main'
-notebook = "data_common.notebookcli.__main__:run"
-dataset = "data_common.dataset.__main__:run"
+requires = ["uv_build>=0.8.3,<0.9.0"]
+build-backend = "uv_build"
 
 [tool.pyright]
 include = ["src", "notebooks"]
-exclude=["src/data_common/typings"]
-stubPath="src/data_common/typings"
+exclude = ["src/data_common"]
 typeCheckingMode="basic"
 reportPrivateImportUsage="warning"
 
@@ -43,14 +61,13 @@ default_page_title = "Settings file defined title"
 
 [tool.dataset]
 dataset_dir = "data/packages"
-publish_dir = "docs/"
-publish_url = "https://pages.mysociety.org/appg_membership/"
+publish_dir = "data/packages/_published"
+publish_url = "https://pages.mysociety.org/appg-membership/datasets/"
 credit_text = "If you find this data useful, please let us know to help us make the case for future funding."
 credit_url = "https://survey.alchemer.com/s3/6876792/Data-usage"
 
-
 [tool.ruff]
-extend-exclude = ["migrations", "*.pyi"]
+extend-exclude = ["migrations", "*.pyi", "src/data_common"]
 
 [tool.ruff.lint]
 select = [
@@ -65,7 +82,6 @@ ignore = [
     "E501", 
 ]
 
-
 [tool.ruff.lint.isort]
 known-first-party = ["hub"]
 section-order = [
@@ -79,3 +95,25 @@ section-order = [
 
 [tool.ruff.lint.isort.sections]
 django = ["django"]
+
+[tool.dataset.site]
+title = "APPG Memberships"
+homepage_title = "APPG Membership database"
+description = "Scraper and raw_data for APPG memberships"
+intro = "Download APPG memberships and explore changes between successive registers through the analysis pages."
+base_url = "/appg-membership"
+canonical_url = "https://pages.mysociety.org/appg-membership"
+source_url = "https://github.com/mysociety/appg-membership"
+output_dir = "_site"
+accent_colour = "#4faded"
+
+[tool.dataset.site.downloads]
+gate = "soft"
+survey = "6876792/Data-usage"
+form_header = "Can you help us with funding by telling us more about yourself?"
+show_code_examples = true
+show_subscription = true
+
+[tool.dataset.site.analysis]
+enabled = true
+bundle_dir = "_render/site/analysis"

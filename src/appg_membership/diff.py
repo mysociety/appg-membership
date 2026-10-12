@@ -1,6 +1,13 @@
+from __future__ import annotations
+
+import re
+from html import escape
 from pathlib import Path
 from typing import Optional
 
+from data_common.dataset.site.schemas import AnalysisBundleManifest
+from data_common.dataset.site.settings import get_site_settings
+from markdown_it import MarkdownIt
 from pydantic import BaseModel
 
 from appg_membership.models import APPGList, register_dates
@@ -65,13 +72,15 @@ class DiffResult(BaseModel):
         with diff_file.open("w", encoding="utf-8") as f:
             f.write(self.model_dump_json(indent=2))
 
-    def generate_jekyll_pages(self):
+    def generate_analysis_pages(self) -> None:
         """
-        Generate markdown files for the Jekyll site in the docs/_diffs/ directory.
+        Generate a Flask analysis bundle for this register comparison.
         Creates a single consolidated page for each register date with all changes.
         """
-        # Create _diffs directory if it doesn't exist
-        diffs_dir = Path("docs", "_diffs")
+        diffs_dir = (
+            get_site_settings().analysis.bundle_dir
+            / f"register-changes-{self.current_index}"
+        )
         diffs_dir.mkdir(parents=True, exist_ok=True)
 
         # Create the consolidated diff page for this register date
@@ -79,25 +88,13 @@ class DiffResult(BaseModel):
         diff_path = diffs_dir / diff_filename
 
         with diff_path.open("w", encoding="utf-8") as f:
-            # Write front matter
-            f.write("---\n")
-            f.write(f'title: "Changes in {self.current_index} Register"\n')
-            f.write(f'previous_register: "{self.previous_index}"\n')
-            f.write(f'current_register: "{self.current_index}"\n')
-            f.write("layout: datasets/analysis\n")
-            f.write("external_js:\n")
-            f.write("  - //cdn.datatables.net/2.3.0/js/dataTables.min.js\n")
-            f.write("external_css:\n")
-            f.write(" - //cdn.datatables.net/2.3.0/css/dataTables.dataTables.min.css\n")
-            f.write("---\n\n")
-
             # Write summary statistics
             f.write(
                 f"# APPG Register Changes: {self.previous_index} → {self.current_index}\n\n"
             )
 
             # Table of contents with anchor links
-            f.write("## Table of Contents\n\n")
+            f.write("## Table of Contents {#table-of-contents}\n\n")
             f.write("- [Summary](#summary)\n")
             if self.added_appgs:
                 f.write("- [Added APPGs](#added-appgs)\n")
@@ -180,6 +177,30 @@ class DiffResult(BaseModel):
                     f.write("\n")
                     # Add a return to top link at the end of each section
                     f.write("[Return to Table of Contents](#table-of-contents)\n\n")
+
+        markdown = diff_path.read_text()
+        markdown = re.sub(
+            r"^(#+) (.*?) \{#([^}]+)\}$",
+            lambda match: (
+                f'<h{len(match[1])} id="{escape(match[3], quote=True)}">{escape(match[2])}</h{len(match[1])}>'
+            ),
+            markdown,
+            flags=re.MULTILINE,
+        )
+        body = MarkdownIt("commonmark", {"html": True}).enable("table").render(markdown)
+        manifest = AnalysisBundleManifest(
+            slug=diffs_dir.name,
+            title=f"APPG Register Changes: {self.previous_index} → {self.current_index}",
+            description="Changes between consecutive APPG registers.",
+            order=-int(self.current_index),
+        )
+        (diffs_dir / "page.json").write_text(manifest.model_dump_json(indent=2) + "\n")
+        resources = diffs_dir / "notebook_resources"
+        resources.mkdir(exist_ok=True)
+        (resources / "diffs.css").write_bytes(Path("site/diffs.css").read_bytes())
+        (diffs_dir / "body.html").write_text(
+            '<link rel="stylesheet" href="notebook_resources/diffs.css">\n' + body
+        )
 
 
 def normalize_for_comparison(value: str) -> str:
@@ -349,14 +370,14 @@ def compare_all_registers():
         print(f"Comparing APPGs between {register_date} and the previous register")
         diff_result = compare_registers(register_date)
         diff_result.save()
-        # Generate Jekyll pages for the diffs
-        diff_result.generate_jekyll_pages()
+        # Generate Flask pages for the diffs
+        diff_result.generate_analysis_pages()
 
 
-def generate_all_jekyll_diff_pages():
+def generate_all_analysis_diff_pages():
     """
-    Generate Jekyll markdown pages for all existing diff files.
-    This can be used to regenerate the Jekyll pages without recomputing the diffs.
+    Generate Flask analysis bundles for all existing diff files.
+    This can be used to regenerate the analysis bundles without recomputing the diffs.
     """
     diffs_dir = Path("data", "interim", "diffs")
 
@@ -365,17 +386,17 @@ def generate_all_jekyll_diff_pages():
         return
 
     for diff_file in diffs_dir.glob("*.json"):
-        print(f"Generating Jekyll pages for {diff_file.stem}")
+        print(f"Generating Flask pages for {diff_file.stem}")
         with diff_file.open("r", encoding="utf-8") as f:
             diff_result = DiffResult.model_validate_json(f.read())
-            diff_result.generate_jekyll_pages()
+            diff_result.generate_analysis_pages()
 
 
 def generate_diffs():
     compare_all_registers()
-    generate_all_jekyll_diff_pages()
+    generate_all_analysis_diff_pages()
 
 
 if __name__ == "__main__":
     compare_all_registers()
-    generate_all_jekyll_diff_pages()
+    generate_all_analysis_diff_pages()
