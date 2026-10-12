@@ -177,7 +177,7 @@ class PascalModel(BaseModel):
         response = httpx.get(cls.source_url)
         response.raise_for_status()
         data = response.json()
-        adapter = TypeAdapter(list[cls])
+        adapter = TypeAdapter(list[cls])  # type: ignore
         return adapter.validate_python(data)
 
 

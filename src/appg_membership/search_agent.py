@@ -10,8 +10,6 @@ from tqdm import tqdm
 from appg_membership.config import settings
 from appg_membership.models import APPG, APPGList
 
-model = OpenAIModel("gpt-4o", provider=OpenAIProvider(api_key=settings.OPENAI_APIKEY))
-
 
 class APPGSearchOutput(BaseModel):
     has_website: bool = Field(..., description="Whether the APPG has a website or not")
@@ -53,6 +51,9 @@ Sometimes an APPG's website used to exist but doesn't - worth checking the final
 """
 
 # Create a new agent instance with the provided message and output type
+model = OpenAIModel("gpt-4o", provider=OpenAIProvider(api_key=settings.OPENAI_APIKEY))
+
+
 agent = Agent(
     model,
     system_prompt=prompt,

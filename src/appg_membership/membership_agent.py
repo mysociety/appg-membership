@@ -12,8 +12,6 @@ from appg_membership.agent_functions import get_url_as_markdown
 from appg_membership.config import settings
 from appg_membership.models import APPG, APPGList, Member
 
-model = OpenAIModel("gpt-4o", provider=OpenAIProvider(api_key=settings.OPENAI_APIKEY))
-
 
 def remove_all_whitespace(text: str) -> str:
     """
@@ -155,6 +153,9 @@ If there is no list of members, return an empty list.
 """
 
 # Create a new agent instance with the provided message and output type
+model = OpenAIModel("gpt-4o", provider=OpenAIProvider(api_key=settings.OPENAI_APIKEY))
+
+
 agent = Agent(
     model,
     system_prompt=prompt,

@@ -7,9 +7,6 @@ from pydantic_ai.providers.openai import OpenAIProvider
 from appg_membership.config import settings
 from appg_membership.models import APPG, AppgCategory
 
-model = OpenAIModel("gpt-4o", provider=OpenAIProvider(api_key=settings.OPENAI_APIKEY))
-
-
 prompt = """
 You are classifying a Parliamentary APPG into one or more categories (ideally one, but multiple if they fit).
 
@@ -20,6 +17,11 @@ You will be given the title and purpose of the group - and classify it based on 
 
 
 def classify_appg(appg: APPG) -> APPG:
+
+    model = OpenAIModel(
+        "gpt-4o", provider=OpenAIProvider(api_key=settings.OPENAI_APIKEY)
+    )
+
     agent = Agent(
         model,
         system_prompt=prompt,
