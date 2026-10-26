@@ -1,7 +1,7 @@
 title: APPG Register
 description: APPG Register as a spreadsheet
 custom:
-  row_count: 987
+  row_count: 990
 path: register.parquet
 name: register
 profile: data-resource
@@ -165,7 +165,11 @@ schema:
       {"Source": "Marstons", "Value \u00a3s": "2,707", "Received": "02/04/2026", "Registered":
       "21/04/2026", "benefit_type": "Financial Benefits"}, {"Source": "UK Hospitality",
       "Value \u00a3s": "1,504", "Received": "02/04/2026", "Registered": "21/04/2026",
-      "benefit_type": "Financial Benefits"}]'
+      "benefit_type": "Financial Benefits"}, {"Source": "Greene King", "Value \u00a3s":
+      "5,870", "Received": "30/09/2026", "Registered": "02/10/2026", "benefit_type":
+      "Financial Benefits"}, {"Source": "Admiral Taverns", "Value \u00a3s": "1,910",
+      "Received": "30/09/2026", "Registered": "02/10/2026", "benefit_type": "Financial
+      Benefits"}]'
   - name: date_of_most_recent_agm
     type: date
     description: Date of the most recent AGM
@@ -191,4 +195,4 @@ schema:
     constraints:
       unique: false
     example: '2025-11-23'
-hash: 2b016d1b1949d05af187543d45ac7937
+hash: 1469a8918f96a443632bcdc259f3025b

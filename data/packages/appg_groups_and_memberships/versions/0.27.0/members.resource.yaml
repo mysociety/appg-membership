@@ -1,0 +1,123 @@
+title: APPG Memberships
+description: APPG Memberships scraped using experimental ML scraper
+custom:
+  row_count: 12982
+path: members.parquet
+name: members
+profile: data-resource
+scheme: file
+format: parquet
+hashing: md5
+encoding: utf-8
+schema:
+  fields:
+  - name: name
+    type: string
+    extDtype: str
+    description: Original name from the scraper (may contain typos)
+    constraints:
+      unique: false
+    example: 14.Joe Powell MP
+  - name: officer_role
+    type: string
+    extDtype: str
+    description: Role of the member in the APPG
+    constraints:
+      unique: false
+    example: Acting Chair
+  - name: twfy_id
+    type: string
+    extDtype: str
+    description: TheyWorkForYou ID for the member
+    constraints:
+      unique: false
+    example: uk.org.publicwhip/person/10001
+  - name: mnis_id
+    type: string
+    extDtype: str
+    description: Parliamentary ID for the member
+    constraints:
+      unique: false
+    example: '100'
+  - name: canon_name
+    type: string
+    extDtype: str
+    description: Name from the TWFY database
+    constraints:
+      unique: false
+    example: Abena Oppong-Asare
+  - name: parliament
+    type: string
+    extDtype: str
+    description: Parliament the APPG belongs to
+    constraints:
+      unique: false
+      enum:
+      - ni-assembly
+      - scottish-parliament
+      - senedd-cy
+      - senedd-en
+      - uk
+    example: ni-assembly
+  - name: appg
+    type: string
+    extDtype: str
+    description: Slugified name of the APPG
+    constraints:
+      unique: false
+    example: abraham-accords
+  - name: is_officer
+    type: boolean
+    description: Is the member an officer of the APPG?
+    constraints:
+      unique: false
+      enum:
+      - false
+      - true
+    example: 'False'
+  - name: member_type
+    type: string
+    extDtype: str
+    description: Type of member (trusting source, not always right)
+    constraints:
+      unique: false
+      enum:
+      - lord
+      - mla
+      - mp
+      - ms
+      - msp
+      - other
+    example: lord
+  - name: source
+    type: string
+    extDtype: str
+    description: Source of the data
+    constraints:
+      unique: false
+      enum:
+      - ai_search
+      - manual
+      - official
+      - parliament
+    example: ai_search
+  - name: last_updated
+    type: date
+    description: Date the data was last updated
+    constraints:
+      unique: false
+    example: '2025-09-16'
+  - name: url_source
+    type: string
+    extDtype: str
+    description: URL of the source of the data
+    constraints:
+      unique: false
+    example: ''
+  - name: removed
+    type: boolean
+    description: Is this a previous member who is no longer a member.
+    constraints:
+      unique: false
+    example: 'False'
+hash: 11d98c9155059d385c42a2d2852c2ce2

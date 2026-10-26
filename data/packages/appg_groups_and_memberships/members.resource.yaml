@@ -1,7 +1,7 @@
 title: APPG Memberships
 description: APPG Memberships scraped using experimental ML scraper
 custom:
-  row_count: 12970
+  row_count: 12982
 path: members.parquet
 name: members
 profile: data-resource
@@ -120,4 +120,4 @@ schema:
     constraints:
       unique: false
     example: 'False'
-hash: 20a251d75b2e0f5113757eb4790c30e5
+hash: 11d98c9155059d385c42a2d2852c2ce2
