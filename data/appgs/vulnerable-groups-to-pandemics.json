@@ -6,6 +6,14 @@
   "parliament": "uk",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Alex Mayer",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26395",
+      "mnis_id": "5141",
+      "removed": false
+    },
+    {
       "role": "Co-Chair",
       "name": "Lord Mendelsohn",
       "party": "Labour",
@@ -33,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-26",
     "members": [
       {
         "name": "Chair & Registered Contact",
@@ -374,9 +382,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Alex Mayer MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "alex.mayer.mp@parliament.uk",
     "public_enquiry_point_name": "Lola Hamilton, Office of Lord Polak",
     "public_enquiry_point_email": "hamiltonl@parliament.uk",
     "secretariat": null,
@@ -386,15 +394,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-10-28",
+    "date_of_most_recent_agm": "2026-09-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Sep to 03 Sep",
-    "next_reporting_deadline": "2027-01-04"
+    "next_reporting_deadline": "2028-01-04"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "260901",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/vulnerable-groups-to-pandemics.htm",
+  "index_date": "261012",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/vulnerable-groups-to-pandemics.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"

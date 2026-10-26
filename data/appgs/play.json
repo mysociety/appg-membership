@@ -433,10 +433,19 @@
     "reporting_year": "02 Sep to 01 Sep",
     "next_reporting_deadline": "2027-01-02"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "260901",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/play.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "Play England",
+      "Description": "Secretariat From: 02/09/2025 To: 01/09/2026",
+      "Value £s In bands of £1,500": "15,001-16,500",
+      "Received": "02/09/2025",
+      "Registered": "08/10/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "261012",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/play.htm",
   "categories": [
     "Education, Skills & Youth",
     "Social Care, Welfare & Family Support"

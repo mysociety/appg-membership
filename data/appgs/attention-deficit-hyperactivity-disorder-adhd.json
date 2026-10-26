@@ -6,19 +6,19 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Officer",
-      "name": "Sarah Hall",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26416",
-      "mnis_id": "5154",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
+      "role": "Chair & Registered Contact",
       "name": "Adam Dance",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26459",
       "mnis_id": "5191",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Sarah Hall",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/26416",
+      "mnis_id": "5154",
       "removed": false
     },
     {
@@ -27,6 +27,14 @@
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26259",
       "mnis_id": "4984",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Baroness Leaman",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26725",
+      "mnis_id": "5444",
       "removed": false
     }
   ],
@@ -37,36 +45,44 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
-    "public_enquiry_point_name": null,
-    "public_enquiry_point_email": null,
-    "secretariat": null,
+    "registered_contact_name": "Adam Dance MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "adam.dance.mp@parliament.uk",
+    "public_enquiry_point_name": "Natasha Davies, Keys Health (ADHD360)",
+    "public_enquiry_point_email": "contact@adhd-appg.co.uk",
+    "secretariat": "Keys Health (ADHD360) and The Hidden jointly act as the group's secretariat.https://www.adhd-360.com/andhttps://hidden20.org/",
     "website": {
       "status": "bad_search",
       "url": null
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-07-16",
+    "date_of_most_recent_agm": "2026-09-08",
     "published_income_expenditure_statement": false,
     "reporting_year": "16 Jul to 15 Jul",
-    "next_reporting_deadline": "2026-11-16"
+    "next_reporting_deadline": "2027-11-16"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
-      "Source": "GK Strategy",
-      "Description": "GK Strategy was paid by ADHD 360 to act as the group's secretariat (updated 21/07/2026). From: 16/07/2025 To: 30/06/2026",
-      "Value £s In bands of £1,500": "48,001-49,500",
-      "Received": "16/07/2025",
-      "Registered": "17/07/2025",
+      "Source": "Keys Health (ADHD360)",
+      "Description": "Secretariat From: 16/07/2026 To: 15/07/2027",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "16/07/2026",
+      "Registered": "15/09/2026",
+      "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "The Hidden",
+      "Description": "Secretariat From: 16/07/2026 To: 15/07/2027",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "16/07/2026",
+      "Registered": "15/09/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260901",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/attention-deficit-hyperactivity-disorder-adhd.htm",
+  "index_date": "261012",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/attention-deficit-hyperactivity-disorder-adhd.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"

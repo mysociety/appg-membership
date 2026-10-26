@@ -100,34 +100,6 @@
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {
-      "Source": "Laing O’Rourke",
-      "Value £s": "5,000",
-      "Received": "03/04/2025",
-      "Registered": "01/10/2025",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "Sizewell C Limited",
-      "Value £s": "5,000",
-      "Received": "03/04/2025",
-      "Registered": "01/10/2025",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "COWI UK Ltd",
-      "Value £s": "5,000",
-      "Received": "15/04/2025",
-      "Registered": "01/10/2025",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "Thales",
-      "Value £s": "5,000",
-      "Received": "08/08/2025",
-      "Registered": "01/10/2025",
-      "benefit_type": "Financial Benefits"
-    },
-    {
       "Source": "Institute of Civil Engineers (ICE)",
       "Value £s": "5,000",
       "Received": "09/04/2026",
@@ -175,10 +147,24 @@
       "Received": "30/06/2026",
       "Registered": "27/07/2026",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Rolls Royce",
+      "Value £s": "5,000",
+      "Received": "14/08/2026",
+      "Registered": "29/09/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "University College London",
+      "Value £s": "5,000",
+      "Received": "01/09/2026",
+      "Registered": "29/09/2026",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "260901",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/engineering.htm",
+  "index_date": "261012",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/engineering.htm",
   "categories": [
     "Education, Skills & Youth",
     "Science, Technology & Innovation"

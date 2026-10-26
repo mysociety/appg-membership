@@ -35,6 +35,7 @@ register_dates = [
     "260518",  # 18 May 2026
     "260629",  # 29 June 2026
     "260901",  # 1 September 2026
+    "261012",  # 12 October 2026
 ]
 
 # MPs who are ineligible to be part of any APPG and should be marked as removed=True

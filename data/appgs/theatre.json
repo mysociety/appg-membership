@@ -7,18 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Leigh Ingham",
+      "name": "Ashley Dalton",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26392",
-      "mnis_id": "5290",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
-      "name": "Dan Aldridge",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26453",
-      "mnis_id": "5172",
+      "twfy_id": "uk.org.publicwhip/person/26123",
+      "mnis_id": "4981",
       "removed": false
     },
     {
@@ -30,7 +22,15 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Officer",
+      "name": "Andrew Pakes",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/26601",
+      "mnis_id": "5243",
+      "removed": false
+    },
+    {
+      "role": "Officer",
       "name": "Simon Hoare",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25427",
@@ -440,9 +440,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Leigh Ingham MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7757.",
-    "registered_contact_email": "leigh.ingham.mp@parliament.uk",
+    "registered_contact_name": "Ashley Dalton MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 0005.",
+    "registered_contact_email": "ashley.dalton.mp@parliament.uk",
     "public_enquiry_point_name": "Kate Roche, SOLT & UK Theatre. Tel: 07721 205 781",
     "public_enquiry_point_email": "kate.roche@soltukt.co.uk",
     "secretariat": "Society of London Theatre and UK Theatre jointly act as the group's secretariat.https://solt.co.uk/andhttps://uktheatre.org",
@@ -452,32 +452,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-04-02",
+    "date_of_most_recent_agm": "2026-09-14",
     "published_income_expenditure_statement": false,
     "reporting_year": "02 Apr to 01 Apr",
-    "next_reporting_deadline": "2026-08-02"
+    "next_reporting_deadline": "2027-08-02"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Society of London Theatre",
-      "Description": "Joint Secretariat From: 02/04/2025 To: 01/04/2026",
-      "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "02/04/2025",
-      "Registered": "03/04/2025",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "UK Theatre",
-      "Description": "Joint Secretariat From: 02/04/2025 To: 01/04/2026",
-      "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "02/04/2025",
-      "Registered": "03/04/2025",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "260518",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260518/theatre.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "261012",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/theatre.htm",
   "categories": [
     "Arts, Culture, Heritage & Media"
   ]

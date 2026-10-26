@@ -15,14 +15,6 @@
     },
     {
       "role": "Officer",
-      "name": "Melanie Ward",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26610",
-      "mnis_id": "5240",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Viscount Camrose",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26062",
@@ -35,6 +27,14 @@
       "party": "Green Party",
       "twfy_id": "uk.org.publicwhip/person/25776",
       "mnis_id": "4719",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lillian Jones",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26327",
+      "mnis_id": "5043",
       "removed": false
     }
   ],
@@ -84,10 +84,17 @@
       "Received": "26/08/2026",
       "Registered": "26/08/2026",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Combat Stress",
+      "Value £s": "3,500",
+      "Received": "18/09/2026",
+      "Registered": "18/09/2026",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "260901",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/explosive-weapons-and-their-impact.htm",
+  "index_date": "261012",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/explosive-weapons-and-their-impact.htm",
   "categories": [
     "Justice, Law & Security",
     "International Affairs, Development & Trade"

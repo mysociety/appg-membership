@@ -6,6 +6,14 @@
   "parliament": "uk",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Dr Peter Prinsley",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26383",
+      "mnis_id": "5163",
+      "removed": false
+    },
+    {
       "role": "Officer",
       "name": "Ben Obese-Jecty",
       "party": "Conservative",
@@ -15,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Dr Peter Prinsley",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26383",
-      "mnis_id": "5163",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Lord Mott",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26259",
       "mnis_id": "4984",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Clive Efford",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/10185",
+      "mnis_id": "165",
       "removed": false
     }
   ],
@@ -664,9 +672,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Dr Peter Prinsley MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "peter.prinsley.mp@parliament.uk",
     "public_enquiry_point_name": "Joint Secretariat of APPG",
     "public_enquiry_point_email": "contact@appgprostatecancer.org.uk",
     "secretariat": "Prostate Cancer Research and Prostate Cancer UK jointly act as the group's secretariat.https://www.prostate-cancer-research.org.uk/andhttps://prostatecanceruk.org/",
@@ -716,8 +724,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260901",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/prostate-cancer.htm",
+  "index_date": "261012",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/prostate-cancer.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

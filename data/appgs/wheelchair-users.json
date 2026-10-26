@@ -22,19 +22,19 @@
       "removed": false
     },
     {
-      "role": "Officer",
-      "name": "Lord Shinkwin",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25470",
-      "mnis_id": "4557",
-      "removed": false
-    },
-    {
       "role": "Vice Chair",
       "name": "Dr Allison Gardner",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26621",
       "mnis_id": "5334",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Shinkwin",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25470",
+      "mnis_id": "4557",
       "removed": false
     }
   ],
@@ -48,33 +48,24 @@
     "registered_contact_name": "Daniel Francis MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 5278.",
     "registered_contact_email": "daniel.francis.mp@parliament.uk",
-    "public_enquiry_point_name": "Jo Fashan, Whizz Kidz. Tel: 07795 109 573",
-    "public_enquiry_point_email": "j.fashan@whizz-kidz.org.uk",
-    "secretariat": "Whizz Kidz acts as the group's secretariat.https://www.whizz-kidz.org.uk/",
+    "public_enquiry_point_name": "Abigail Lock, The Back-Up Trust",
+    "public_enquiry_point_email": "abigail@backuptrust.org.uk",
+    "secretariat": "The Back-Up Trust acts as the group's secretariat.https://www.backuptrust.org.uk/",
     "website": {
       "status": "bad_search",
       "url": null
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-05-20",
+    "date_of_most_recent_agm": "2026-09-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "20 May to 19 May",
-    "next_reporting_deadline": "2026-09-20"
+    "next_reporting_deadline": "2027-09-20"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Whizz Kidz",
-      "Description": "Secretariat From: 20/05/2025 To: 19/05/2026",
-      "Value £s In bands of £1,500": "13,501-15,000",
-      "Received": "20/05/2025",
-      "Registered": "12/06/2025",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "260901",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/wheelchair-users.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "261012",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/wheelchair-users.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

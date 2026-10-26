@@ -23,17 +23,25 @@
     },
     {
       "role": "Officer",
-      "name": "Graham Stuart",
+      "name": "Alex Mayer",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26395",
+      "mnis_id": "5141",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Douglas Lumsden",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/11406",
-      "mnis_id": "1482",
+      "twfy_id": "uk.org.publicwhip/person/26001",
+      "mnis_id": "5450",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-26",
     "members": [
       {
         "name": "Euan Stainbank MP",
@@ -226,8 +234,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260901",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/british-buses.htm",
+  "index_date": "261012",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/british-buses.htm",
   "categories": [
     "Infrastructure, Transport & Mobility",
     "Economy, Business & Industry"

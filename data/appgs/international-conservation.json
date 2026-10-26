@@ -28,12 +28,20 @@
       "twfy_id": "uk.org.publicwhip/person/26603",
       "mnis_id": "5352",
       "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Kerry McCarthy",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/11455",
+      "mnis_id": "1491",
+      "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-26",
     "members": [
       {
         "name": "Barry Gardiner",
@@ -409,7 +417,7 @@
     "registered_contact_name": "Barry Gardiner MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 4046.",
     "registered_contact_email": "barry.gardiner.mp@parliament.uk",
-    "public_enquiry_point_name": "Steve Kolenberg , International Conservation Caucus Foundation - UK",
+    "public_enquiry_point_name": "Steve Kolenberg, International Conservation Caucus Foundation - UK",
     "public_enquiry_point_email": "uk@internationalconservation.org",
     "secretariat": "International Conservation Caucus Foundation acts as the group's secretariat.https://www.internationalconservation.org/",
     "website": {
@@ -418,24 +426,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2026-01-27",
+    "date_of_most_recent_agm": "2026-09-14",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2027-01-10"
+    "next_reporting_deadline": "2028-01-10"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "International Conservation Caucus Foundation",
-      "Description": "Secretariat From: 10/09/2025 To: 09/09/2026",
+      "Description": "Secretariat From: 10/09/2026 To: 09/09/2027",
       "Value £s In bands of £1,500": "24,001-25,500",
-      "Received": "10/09/2025",
-      "Registered": "28/01/2026",
+      "Received": "10/09/2026",
+      "Registered": "15/09/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260901",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/international-conservation.htm",
+  "index_date": "261012",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/international-conservation.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]
