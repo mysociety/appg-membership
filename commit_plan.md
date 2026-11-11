@@ -161,4 +161,29 @@ filenames:
 5. Test Senedd lifecycle rules and refresh data daily — includes this plan, the
    regression tests, official HTML fixtures and the scheduled workflow.
 
-No commits were pushed. The separate TWFY integration tasks above remain open.
+The five planned commits are on main. The separate TWFY integration tasks above remain open.
+
+
+## GitHub Actions composite JSON publishing fix
+
+- Reproduced `TypeError: Invalid value '' for dtype 'Int64'` in the shared
+  `data_common` JSON publisher. Its missing-value replacement attempted to insert
+  strings into the nullable `senedd_term` integer array.
+- Shared-library fix `c280dae7f6405ff6c8d07a70243422e9ec525381` normalizes
+  storage before replacing missing cells, retains integer/boolean/float values,
+  and serializes dates and timestamps as ISO strings rather than silently
+  returning JSON null. It preserves the newer upstream main commit.
+- Added shared-library regression tests and a consuming-repository test that
+  builds JSON, SQLite and Excel from the real current/historical CPG resources.
+- Verification after incorporating upstream main: **213 tests passed**; Ruff
+  and parent-repository Pyright pass. Scoped Pyright passes for the two changed
+  shared-library modules. Its full optional-module type check requires
+  Google/charting/scientific extras absent from this environment.
+- Both `dataset version auto --auto-ban major --all --publish` and
+  `dataset publish --all` passed in an isolated copy with outputs confined to
+  `/tmp`. These commands generate local artifacts; no hosted data was published
+  during verification.
+- After user approval, the dependency fix was pushed directly to
+  `mysociety/data_common` main before committing this repository's updated
+  submodule pin. This follow-up commit includes the pin, integration regression
+  test and updated plan, for direct delivery to main without a PR.

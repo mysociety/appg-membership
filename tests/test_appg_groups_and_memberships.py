@@ -3,6 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 
 import pandas as pd
+import pytest
 from ruamel.yaml import YAML
 
 
@@ -107,3 +108,57 @@ def test_historical_resources_validate_against_their_published_schema() -> None:
         report = validate(package / f"{name}.resource.yaml")
         errors = [error.message for task in report.tasks for error in task.errors[:3]]
         assert report.valid, errors
+
+
+def test_composite_exports_preserve_senedd_terms_and_date_bounds(
+    tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    """
+    Exercise the publication formats against the real nullable Senedd resources.
+    """
+    import json
+    import sqlite3
+
+    from data_common.dataset.resource_management import DataPackage
+
+    package_path = (
+        Path(__file__).resolve().parents[1]
+        / "data/packages/appg_groups_and_memberships"
+    )
+    package = DataPackage(package_path)
+    monkeypatch.setattr(DataPackage, "build_path", lambda self, version="": tmp_path)
+
+    package.build_composites()
+
+    output = json.loads((tmp_path / f"{package.slug}.json").read_text())
+    resources = {resource["name"]: resource for resource in output["resources"]}
+    current_members = resources["members"]["data"]
+    current = next(row for row in current_members if row["parliament"] == "senedd-en")
+    assert current["senedd_term"] == 7
+    assert type(current["senedd_term"]) is int
+    assert current["observed_on"]
+    assert (
+        next(row for row in current_members if row["parliament"] == "uk")["senedd_term"]
+        == ""
+    )
+    sixth = [
+        row
+        for row in resources["senedd_members_history"]["data"]
+        if row["senedd_term"] == 6
+    ]
+    assert sixth
+    assert all(
+        row["valid_until"] and row["valid_until"] <= "2026-04-08" for row in sixth
+    )
+    assert (tmp_path / f"{package.slug}.xlsx").is_file()
+    with sqlite3.connect(tmp_path / f"{package.slug}.sqlite") as connection:
+        assert connection.execute(
+            "SELECT DISTINCT senedd_term FROM members WHERE parliament = 'senedd-en'"
+        ).fetchall() == [(7,)]
+        assert (
+            connection.execute(
+                "SELECT count(*) FROM members WHERE parliament = 'uk' AND senedd_term IS NULL"
+            ).fetchone()[0]
+            > 0
+        )
