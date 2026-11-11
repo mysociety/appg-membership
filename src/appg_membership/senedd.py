@@ -1,7 +1,10 @@
-import json
+from __future__ import annotations
+
 import re
+from datetime import date
 from html import unescape
 from pathlib import Path
+from typing import NamedTuple
 from urllib.parse import urljoin
 
 import httpx
@@ -19,6 +22,14 @@ from .models import (
     Parliament,
     WebsiteSource,
 )
+from .senedd_lifecycle import (
+    SENEDD_TERMS,
+    SeneddMembershipChecker,
+    archive_group,
+    bound_senedd_group,
+    membership_is_current,
+)
+from .senedd_models import MembershipValidity, SeneddRegistration
 
 # Base URLs for the English and Welsh versions of the Senedd website
 SENEDD_EN_BASE = "https://business.senedd.wales/"
@@ -162,7 +173,7 @@ def clean_member_name(name: str, has_senedd_id: bool) -> str:
     the " MS" or " AS" suffix for Senedd members.
     """
     # Normalize excess whitespace
-    name = re.sub(r"\s+", " ", name).strip()
+    name = re.sub(r"\s+", " ", unescape(name)).strip()
     # Strip trailing " MS" or " AS" for parliamentary members
     if has_senedd_id:
         name = re.sub(r"\s+(?:MS|AS)$", "", name)
@@ -275,265 +286,292 @@ def lookup_twfy_id(senedd_id: str, popolo: Popolo | None) -> str | None:
         return None
 
 
+class CPGEntry(NamedTuple):
+    """
+    A source registration linked from the validated current-register section.
+    """
+
+    body_id: str
+    name: str
+
+
+class BilingualCPG(NamedTuple):
+    """
+    English and Welsh representations of the same registration and membership.
+    """
+
+    english: APPG
+    welsh: APPG
+
+
+def parse_current_cpg_list(html: str) -> list[CPGEntry]:
+    """
+    Recognise a complete current register, including a confirmed empty list.
+
+    Unknown layouts and error pages raise rather than closing saved registrations.
+    Archived links elsewhere on the page cannot become current registrations.
+    """
+    match = re.search(
+        r"<h2[^>]*>\s*Current Cross-Party Groups\s*</h2>\s*"
+        r'<ul\s+class="mgBulletList"[^>]*>(.*?)</ul>',
+        html,
+        re.DOTALL | re.IGNORECASE,
+    )
+    if not match:
+        raise ValueError("Unrecognised Senedd current register; saved data retained")
+    section = match.group(1)
+    entries = [CPGEntry(item["id"], item["name"]) for item in parse_cpg_list(section)]
+    if not entries and clean_html_text(section):
+        raise ValueError("Unrecognised empty register; saved data retained")
+    if len(re.findall(r"<li\b", section, re.IGNORECASE)) != len(entries):
+        raise ValueError("Incomplete Senedd register parsing; saved data retained")
+    if len({entry.body_id for entry in entries}) != len(entries):
+        raise ValueError("Duplicate source IDs in Senedd current register")
+    slugs = [create_slug_from_name(entry.name) for entry in entries]
+    if len(set(slugs)) != len(slugs):
+        raise ValueError("Ambiguous names in Senedd current register")
+    return entries
+
+
+def validate_current_detail(html: str) -> None:
+    """
+    Reject archives, error pages and incomplete detail pages before changing data.
+    """
+    title = re.search(r'<h2[^>]*class="mgSubTitleTxt"[^>]*>(.*?)</h2>', html, re.S)
+    text = clean_html_text(html)
+    member_section = re.search(
+        r"<h2[^>]*>(?:Members|Aelodau)</h2>\s*"
+        r'<ul\s+class="mgBulletList"[^>]*>(.*?)</ul>',
+        html,
+        re.S | re.I,
+    )
+    if not title or not member_section:
+        raise ValueError("Unrecognised Senedd detail page; saved data retained")
+    if len(re.findall(r"<li\b", member_section.group(1), re.I)) != len(
+        parse_members_list(html)
+    ):
+        raise ValueError("Incomplete Senedd membership list; saved data retained")
+    if re.search(
+        r"Sixth Senedd|Chweched Senedd|was dissolved|wedi.*ddiddymu", text, re.I
+    ):
+        raise ValueError("Archived Senedd registration cannot be imported as current")
+
+
 def process_cpg(
     body_id: str,
     en_name: str,
     popolo: Popolo | None = None,
-) -> tuple[APPG | None, APPG | None]:
+    registration: SeneddRegistration | None = None,
+    observed_on: date | None = None,
+) -> BilingualCPG:
     """
-    Process a single Senedd CPG, fetching both English and Welsh versions.
-
-    Returns a tuple of (english_appg, welsh_appg), either of which may be None
-    if the page could not be fetched or parsed.
+    Fetch a complete bilingual registration, failing before saving partial results.
     """
+    observed_on = observed_on or date.today()
     en_url = urljoin(SENEDD_EN_BASE, DETAIL_PAGE.format(body_id=body_id))
     cy_url = urljoin(SENEDD_CY_BASE, DETAIL_PAGE.format(body_id=body_id))
-
-    slug = create_slug_from_name(en_name)
-
-    # Fetch English page
-    en_appg = None
-    try:
-        en_html = fetch_page(en_url)
-        en_title = parse_detail_page_title(en_html) or en_name
-        en_purpose = parse_detail_page_purpose(en_html)
-        en_members_raw = parse_members_list(en_html)
-
-        officers = []
-        member_list = []
-
-        for member_data in en_members_raw:
-            name = member_data["name"]
-            role = member_data["role"]
-            senedd_id = member_data["senedd_id"]
-            twfy_id = lookup_twfy_id(senedd_id, popolo)
-            member_type = "ms" if senedd_id else "other"
-
-            if determine_officer_role(role):
-                officers.append(
-                    Officer(
-                        role=role,
-                        name=name,
-                        party="",
-                        mnis_id=senedd_id or None,
-                        twfy_id=twfy_id,
-                    )
+    en_html = fetch_page(en_url)
+    cy_html = fetch_page(cy_url)
+    validate_current_detail(en_html)
+    validate_current_detail(cy_html)
+    officers: list[Officer] = []
+    members: list[Member] = []
+    for data in parse_members_list(en_html):
+        senedd_id = data["senedd_id"]
+        twfy_id = lookup_twfy_id(senedd_id, popolo)
+        validity = MembershipValidity(observed_on=observed_on)
+        if determine_officer_role(data["role"]):
+            officers.append(
+                Officer(
+                    role=data["role"],
+                    name=data["name"],
+                    party="",
+                    mnis_id=senedd_id or None,
+                    twfy_id=twfy_id,
+                    validity=validity,
                 )
-            else:
-                member_list.append(
-                    Member(
-                        name=name,
-                        is_officer=False,
-                        member_type=member_type,
-                        mnis_id=senedd_id or None,
-                        twfy_id=twfy_id,
-                    )
-                )
-
-        en_appg = APPG(
-            slug=slug,
-            title=en_title,
-            purpose=en_purpose,
-            category=None,
-            parliament=Parliament.SENEDD_EN,
-            officers=officers,
-            members_list=MemberList(
-                source_method="official",
-                source_url=[HttpUrl(en_url)],
-                last_updated=None,
-                members=member_list,
-            ),
-            contact_details=ContactDetails(
-                website=WebsiteSource(status="register", url=HttpUrl(en_url))
-            ),
-            agm=None,
-            registrable_benefits=None,
-            detailed_benefits=[],
-            index_date="",
-            source_url=HttpUrl(en_url),
-            categories=[],
-        )
-    except (httpx.RequestError, httpx.HTTPStatusError) as e:
-        print(f"  Warning: Could not fetch English page for {en_name}: {e}")
-
-    # Fetch Welsh page
-    cy_appg = None
-    try:
-        cy_html = fetch_page(cy_url)
-        cy_title = parse_detail_page_title(cy_html) or en_name
-        cy_purpose = parse_detail_page_purpose(cy_html)
-
-        # Members are the same for both languages, reuse from English version
-        cy_officers = []
-        cy_member_list = []
-
-        if en_appg:
-            # Deep copy member data from the English version
-            cy_officers = [o.model_copy() for o in en_appg.officers]
-            cy_member_list = [m.model_copy() for m in en_appg.members_list.members]
+            )
         else:
-            # Parse members from Welsh page as fallback
-            cy_members_raw = parse_members_list(cy_html)
-            for member_data in cy_members_raw:
-                name = member_data["name"]
-                role = member_data["role"]
-                senedd_id = member_data["senedd_id"]
-                twfy_id = lookup_twfy_id(senedd_id, popolo)
-                member_type = "ms" if senedd_id else "other"
-
-                if determine_officer_role(role):
-                    cy_officers.append(
-                        Officer(
-                            role=role,
-                            name=name,
-                            party="",
-                            mnis_id=senedd_id or None,
-                            twfy_id=twfy_id,
-                        )
-                    )
-                else:
-                    cy_member_list.append(
-                        Member(
-                            name=name,
-                            is_officer=False,
-                            member_type=member_type,
-                            mnis_id=senedd_id or None,
-                            twfy_id=twfy_id,
-                        )
-                    )
-
-        cy_appg = APPG(
-            slug=slug,
-            title=cy_title,
-            purpose=cy_purpose,
-            category=None,
-            parliament=Parliament.SENEDD_CY,
-            officers=cy_officers,
-            members_list=MemberList(
-                source_method="official",
-                source_url=[HttpUrl(cy_url)],
-                last_updated=None,
-                members=cy_member_list,
-            ),
-            contact_details=ContactDetails(
-                website=WebsiteSource(status="register", url=HttpUrl(cy_url))
-            ),
-            agm=None,
-            registrable_benefits=None,
-            detailed_benefits=[],
-            index_date="",
-            source_url=HttpUrl(cy_url),
-            categories=[],
-        )
-    except (httpx.RequestError, httpx.HTTPStatusError) as e:
-        print(f"  Warning: Could not fetch Welsh page for {en_name}: {e}")
-
-    return en_appg, cy_appg
+            members.append(
+                Member(
+                    name=data["name"],
+                    member_type="ms"
+                    if senedd_id
+                    or re.search(r"\b(?:MS|AS)(?:\s*\([^)]*\))?$", data["name"])
+                    else "other",
+                    mnis_id=senedd_id or None,
+                    twfy_id=twfy_id,
+                    validity=validity,
+                )
+            )
+    english = APPG(
+        slug=create_slug_from_name(en_name),
+        title=parse_detail_page_title(en_html) or en_name,
+        purpose=parse_detail_page_purpose(en_html),
+        parliament=Parliament.SENEDD_EN,
+        officers=officers,
+        members_list=MemberList(
+            source_method="official",
+            source_url=[HttpUrl(en_url)],
+            last_updated=observed_on,
+            members=members,
+        ),
+        contact_details=ContactDetails(
+            website=WebsiteSource(status="register", url=HttpUrl(en_url))
+        ),
+        source_url=HttpUrl(en_url),
+        senedd_registration=registration,
+    )
+    welsh = english.model_copy(deep=True)
+    welsh.title = parse_detail_page_title(cy_html) or en_name
+    welsh.purpose = parse_detail_page_purpose(cy_html)
+    welsh.parliament = Parliament.SENEDD_CY
+    welsh.source_url = HttpUrl(cy_url)
+    welsh.members_list.source_url = [HttpUrl(cy_url)]
+    welsh.contact_details.website.url = HttpUrl(cy_url)
+    return BilingualCPG(english, welsh)
 
 
 def save_appg(appg: APPG, data_dir: Path) -> None:
     """
-    Save an APPG to a JSON file.
+    Save a registration while retaining existing category assignments.
     """
+    data_dir.mkdir(parents=True, exist_ok=True)
     file_path = data_dir / f"{appg.slug}.json"
     if file_path.exists() and not appg.categories:
-        with file_path.open("r", encoding="utf-8") as existing_file:
-            existing_appg = APPG.model_validate_json(existing_file.read())
-        appg.categories = existing_appg.categories
-
-    with file_path.open("w", encoding="utf-8") as f:
-        json.dump(
-            appg.model_dump(mode="json", exclude_none=False),
-            f,
-            indent=2,
-            ensure_ascii=False,
-        )
+        existing = APPG.model_validate_json(file_path.read_text(encoding="utf-8"))
+        appg.categories = existing.categories
+    file_path.write_text(appg.model_dump_json(indent=2) + "\n", encoding="utf-8")
 
 
-def download_and_convert_senedd_data():
+def member_identity(member: Member | Officer) -> str:
     """
-    Download Senedd Cross-Party Group data and convert to APPG format.
-
-    This function:
-    1. Fetches the list of Cross-Party Groups from the Senedd website
-    2. For each group, fetches both the English and Welsh detail pages
-    3. Extracts name, purpose, officers, and members
-    4. Stores Senedd UIDs as mnis_id and converts to TWFY IDs using Popolo
-    5. Saves one JSON file per group in data/cpg_senedd_en/ and data/cpg_senedd_cy/
-
-    The generated files follow the same format as UK APPGs for consistency.
+    Match membership evidence across snapshots without depending on language.
     """
-    base_dir = Path(__file__).parent.parent.parent / "data"
-    en_dir = base_dir / "cpg_senedd_en"
-    cy_dir = base_dir / "cpg_senedd_cy"
-    en_dir.mkdir(parents=True, exist_ok=True)
-    cy_dir.mkdir(parents=True, exist_ok=True)
-    existing_en_slugs = {path.stem for path in en_dir.glob("*.json")}
-    existing_cy_slugs = {path.stem for path in cy_dir.glob("*.json")}
+    return member.twfy_id or member.mnis_id or member.name.casefold()
 
-    print(f"English output directory: {en_dir}")
-    print(f"Welsh output directory: {cy_dir}")
 
-    # Initialize Popolo for person lookup (Senedd ID -> TWFY ID)
-    print("Loading Popolo data for Senedd ID conversion...")
-    popolo = Popolo.from_parlparse()
+def reconcile_snapshot(
+    previous: APPG,
+    current: APPG | None,
+    checker: SeneddMembershipChecker,
+    observed_on: date,
+    data_dir: Path,
+) -> None:
+    """
+    Preserve prior evidence and end missing memberships at the observation bound.
+    """
+    previous = bound_senedd_group(previous, checker)
+    old_registration = previous.senedd_registration
+    new_registration = current.senedd_registration if current else None
+    same_registration = bool(
+        old_registration
+        and new_registration
+        and old_registration.id == new_registration.id
+    )
+    if same_registration and current and new_registration and old_registration:
+        new_registration.observed_on = old_registration.observed_on or observed_on
+        new_people = {
+            member_identity(member): member
+            for member in [*current.officers, *current.members_list.members]
+        }
+        for old_member in [*previous.officers, *previous.members_list.members]:
+            new_member = new_people.get(member_identity(old_member))
+            if new_member and membership_is_current(
+                old_member, previous, checker, observed_on
+            ):
+                new_member.validity = (
+                    old_member.validity.model_copy()
+                    if old_member.validity
+                    else MembershipValidity()
+                )
+                new_member.validity.observed_on = (
+                    new_member.validity.observed_on or observed_on
+                )
+            elif new_member is None:
+                validity = old_member.validity or MembershipValidity()
+                if validity.valid_until is None or observed_on < validity.valid_until:
+                    validity.valid_until = observed_on
+                    validity.end_reason = "no_longer_listed"
+                old_member.validity = validity
+    elif old_registration:
+        if (
+            old_registration.valid_until is None
+            or observed_on < old_registration.valid_until
+        ):
+            old_registration.valid_until = observed_on
+            old_registration.end_reason = "no_longer_listed"
+        previous = bound_senedd_group(previous, checker)
+    archive_group(previous, data_dir)
+    if current is None:
+        save_appg(previous, data_dir / APPG._get_parliament_folder(previous.parliament))
 
-    # Fetch the listing page
-    print("Fetching Senedd Cross-Party Group listing...")
+
+def download_and_convert_senedd_data(
+    data_dir: Path | None = None,
+    observed_on: date | None = None,
+    term_number: int = 7,
+    classify_new_groups: bool = True,
+) -> None:
+    """
+    Stage and validate a complete current register before reconciling saved data.
+
+    The configured term is explicit, never inferred from the year of a scrape.
+    A known term end remains enforced by the exporter even if this refresh fails.
+    """
+    data_dir = data_dir or Path(__file__).resolve().parents[2] / "data"
+    observed_on = observed_on or date.today()
+    term = SENEDD_TERMS[term_number]
+    if observed_on < term.registration_opens_on or (
+        term.ends_on and observed_on >= term.ends_on
+    ):
+        raise ValueError("Current register is not valid for the configured Senedd term")
     list_url = urljoin(SENEDD_EN_BASE, LIST_PAGE)
-    list_html = fetch_page(list_url)
+    entries = parse_current_cpg_list(fetch_page(list_url))
+    popolo = Popolo.from_parlparse()
+    checker = SeneddMembershipChecker(popolo)
+    staged: list[APPG] = []
+    for entry in entries:
+        print(f"Processing: {entry.name} (ID: {entry.body_id})")
+        registration = SeneddRegistration(
+            body_id=entry.body_id,
+            term=term_number,
+            verified=True,
+            evidence_url=HttpUrl(list_url),
+            observed_on=observed_on,
+        )
+        pair = process_cpg(
+            entry.body_id,
+            entry.name,
+            popolo=popolo,
+            registration=registration,
+            observed_on=observed_on,
+        )
+        staged.extend(pair)
 
-    # Parse the listing to get all CPG IDs
-    cpg_entries = parse_cpg_list(list_html)
-    print(f"Found {len(cpg_entries)} Cross-Party Group entries")
-
-    if not cpg_entries:
-        print("Warning: No Cross-Party Groups found on the listing page.")
-        return
-
-    en_count = 0
-    cy_count = 0
-
-    for entry in cpg_entries:
-        body_id = entry["id"]
-        name = entry["name"]
-        print(f"Processing: {name} (ID: {body_id})")
-
-        en_appg, cy_appg = process_cpg(body_id, name, popolo=popolo)
-
-        if en_appg:
-            save_appg(en_appg, en_dir)
-            en_count += 1
-            print(
-                f"  Saved English: {en_appg.slug} "
-                f"({len(en_appg.officers)} officers, "
-                f"{len(en_appg.members_list.members)} members)"
+    # No saved files change until every English and Welsh detail page is valid.
+    for parliament in (Parliament.SENEDD_EN, Parliament.SENEDD_CY):
+        folder = data_dir / APPG._get_parliament_folder(parliament)
+        previous = [
+            APPG.model_validate_json(path.read_text(encoding="utf-8"))
+            for path in sorted(folder.glob("*.json"))
+        ]
+        current_groups = [group for group in staged if group.parliament == parliament]
+        current_by_id = {
+            group.senedd_registration.id: group
+            for group in current_groups
+            if group.senedd_registration
+        }
+        for old in previous:
+            registration = old.senedd_registration
+            current = current_by_id.get(registration.id) if registration else None
+            reconcile_snapshot(old, current, checker, observed_on, data_dir)
+        for group in current_groups:
+            save_appg(bound_senedd_group(group, checker), folder)
+        if classify_new_groups:
+            assign_categories_for_new_groups(
+                parliament=parliament,
+                previous_slugs={group.slug for group in previous},
+                current_slugs={group.slug for group in current_groups},
             )
-
-        if cy_appg:
-            save_appg(cy_appg, cy_dir)
-            cy_count += 1
-            print(f"  Saved Welsh: {cy_appg.slug}")
-
-    print(f"\nCompleted processing {len(cpg_entries)} Cross-Party Groups")
-    print(f"English files saved: {en_count} to {en_dir}")
-    print(f"Welsh files saved: {cy_count} to {cy_dir}")
-
-    current_en_slugs = {path.stem for path in en_dir.glob("*.json")}
-    current_cy_slugs = {path.stem for path in cy_dir.glob("*.json")}
-
-    en_assigned_count = assign_categories_for_new_groups(
-        parliament=Parliament.SENEDD_EN,
-        previous_slugs=existing_en_slugs,
-        current_slugs=current_en_slugs,
-    )
-    cy_assigned_count = assign_categories_for_new_groups(
-        parliament=Parliament.SENEDD_CY,
-        previous_slugs=existing_cy_slugs,
-        current_slugs=current_cy_slugs,
-    )
-
-    if en_assigned_count:
-        print(f"Assigned categories for {en_assigned_count} new Senedd English groups")
-    if cy_assigned_count:
-        print(f"Assigned categories for {cy_assigned_count} new Senedd Welsh groups")
+    print(f"Saved {len(entries)} current bilingual Senedd registrations")

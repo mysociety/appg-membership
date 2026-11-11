@@ -266,7 +266,7 @@ def ni_assembly():
 
 
 @app.command()
-def senedd():
+def senedd(term_number: int = 7, classify_new_groups: bool = True):
     """
     Download and convert Senedd Cross-Party Group data to APPG format.
 
@@ -286,7 +286,9 @@ def senedd():
     from .senedd import download_and_convert_senedd_data
 
     try:
-        download_and_convert_senedd_data()
+        download_and_convert_senedd_data(
+            term_number=term_number, classify_new_groups=classify_new_groups
+        )
     except Exception as e:
         print(f"Error downloading Senedd data: {e}")
         raise typer.Exit(1)
