@@ -8,6 +8,8 @@ from typing import List, Literal, Optional
 from backports.strenum import StrEnum
 from pydantic import BaseModel, EmailStr, Field, HttpUrl, RootModel, field_validator
 
+from .senedd_models import MembershipValidity, SeneddRegistration
+
 
 class Parliament(StrEnum):
     UK = "uk"
@@ -79,6 +81,9 @@ class Member(BaseModel):
     mnis_id: Optional[str] = None
     twfy_id: Optional[str] = None
     removed: bool = False
+    validity: MembershipValidity | None = Field(
+        default=None, exclude_if=lambda value: value is None
+    )
 
 
 class MemberList(BaseModel):
@@ -110,6 +115,9 @@ class Officer(BaseModel):
     twfy_id: Optional[str] = None
     mnis_id: Optional[str] = None
     removed: bool = False
+    validity: MembershipValidity | None = Field(
+        default=None, exclude_if=lambda value: value is None
+    )
 
 
 class WebsiteSource(BaseModel):
@@ -196,6 +204,9 @@ class APPG(BaseModel):
     index_date: str = ""
     source_url: Optional[HttpUrl] = None
     categories: list[AppgCategory] = Field(default_factory=list)
+    senedd_registration: SeneddRegistration | None = Field(
+        default=None, exclude_if=lambda value: value is None
+    )
 
     def update_from(self, other: APPG):
         """
