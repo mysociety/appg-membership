@@ -1,7 +1,7 @@
 title: APPG Register
 description: APPG Register as a spreadsheet
 custom:
-  row_count: 990
+  row_count: 916
 path: register.parquet
 name: register
 profile: data-resource
@@ -23,8 +23,8 @@ schema:
     extDtype: str
     description: Title of the APPG
     constraints:
-      unique: true
-    example: Academic Staff in Universities - Cross Party Group
+      unique: false
+    example: Addysg Bellach a Sgiliau - Grŵp Trawsbleidiol
   - name: purpose
     type: string
     extDtype: str
@@ -77,7 +77,7 @@ schema:
       APPG
     constraints:
       unique: false
-    example: Animals & Animal Welfare
+    example: ''
   - name: registered_contact_name
     type: string
     extDtype: str
@@ -195,4 +195,48 @@ schema:
     constraints:
       unique: false
     example: '2025-11-23'
-hash: 1469a8918f96a443632bcdc259f3025b
+  - name: registration_id
+    type: string
+    extDtype: str
+    description: Senedd registration identity, including term and official body
+      ID; null for other parliaments
+    constraints:
+      unique: false
+    example: senedd-7-1030
+  - name: senedd_term
+    type: integer
+    extDtype: Int64
+    description: Senedd term number; a registration never carries membership
+      into another term
+    constraints:
+      unique: false
+    example: '7'
+  - name: valid_from
+    type: date
+    description: Known membership or registration start, inclusive; null when
+      unknown
+    constraints:
+      unique: false
+    example: ''
+  - name: valid_until
+    type: date
+    description: Latest possible end, exclusive; not evidence of continuous
+      membership before this date
+    constraints:
+      unique: false
+    example: ''
+  - name: end_reason
+    type: string
+    description: 'Reason for the validity bound: term_ended, left_senedd, no_longer_listed
+      or registration_closed'
+    constraints:
+      unique: false
+    example: ''
+  - name: observed_on
+    type: date
+    description: First dated observation of this membership spell or
+      registration; not its start date
+    constraints:
+      unique: false
+    example: '2026-11-11'
+hash: 3e065a0384be0814e620274c8f1b9d41
