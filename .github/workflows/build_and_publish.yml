@@ -4,6 +4,8 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * *'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -23,6 +25,12 @@ jobs:
         with:
           submodules: recursive
           persist-credentials: false
+      - name: Refresh current Senedd registrations
+        if: github.event_name == 'schedule'
+        continue-on-error: true
+        uses: ./.github/actions/in-dev-container
+        with:
+          run: project senedd --term-number 7 --no-classify-new-groups
       - name: Test, build, and render site
         uses: ./.github/actions/in-dev-container
         with:
