@@ -1,0 +1,227 @@
+title: Senedd CPG register history
+description: Historical and current Senedd CPG evidence, bounded to its term.
+  Unknown start and observation dates remain null. These records do not
+  establish continuous historical membership.
+custom:
+  row_count: 278
+name: senedd_register_history
+type: table
+path: senedd_register_history.parquet
+scheme: file
+format: parquet
+mediatype: application/parquet
+schema:
+  fields:
+  - name: slug
+    type: string
+    extDtype: str
+    description: Slugified name of the APPG
+    constraints:
+      unique: false
+    example: academic-staff-in-universities
+  - name: title
+    type: string
+    extDtype: str
+    description: Title of the APPG
+    constraints:
+      unique: false
+    example: Academic Staff in Universities - Cross Party Group
+  - name: purpose
+    type: string
+    extDtype: str
+    description: Purpose of the APPG
+    constraints:
+      unique: false
+    example: ''
+  - name: category
+    type: string
+    extDtype: str
+    description: Category of the APPG
+    constraints:
+      unique: false
+      enum:
+      - ''
+    example: ''
+  - name: parliament
+    type: string
+    extDtype: str
+    description: Parliament the APPG is in
+    constraints:
+      unique: false
+      enum:
+      - senedd-cy
+      - senedd-en
+    example: senedd-cy
+  - name: registrable_benefits
+    type: string
+    extDtype: str
+    description: Registrable benefits of the APPG
+    constraints:
+      unique: false
+      enum:
+      - ''
+    example: ''
+  - name: source_url
+    type: string
+    extDtype: str
+    description: URL of the APPG on the Parliament website
+    constraints:
+      unique: true
+    example: https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1030
+  - name: categories
+    type: string
+    extDtype: str
+    description: Pipe seperated list of (mysociety added) categories for the
+      APPG
+    constraints:
+      unique: false
+    example: ''
+  - name: registered_contact_name
+    type: string
+    extDtype: str
+    description: Name of the registered contact
+    constraints:
+      unique: false
+      enum:
+      - ''
+    example: ''
+  - name: registered_contact_address
+    type: string
+    extDtype: str
+    description: Address of the registered contact
+    constraints:
+      unique: false
+      enum:
+      - ''
+    example: ''
+  - name: registered_contact_email
+    type: string
+    extDtype: str
+    description: Email of the registered contact
+    constraints:
+      unique: false
+      enum:
+      - ''
+    example: ''
+  - name: public_enquiry_point_name
+    type: string
+    extDtype: str
+    description: Name of the public enquiry point
+    constraints:
+      unique: false
+      enum:
+      - ''
+    example: ''
+  - name: public_enquiry_point_email
+    type: string
+    extDtype: str
+    description: Email of the public enquiry point
+    constraints:
+      unique: false
+      enum:
+      - ''
+    example: ''
+  - name: secretariat
+    type: string
+    extDtype: str
+    description: Name of the secretariat
+    constraints:
+      unique: false
+      enum:
+      - ''
+    example: ''
+  - name: website
+    type: string
+    extDtype: str
+    description: URL of the APPG website
+    constraints:
+      unique: true
+    example: https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1030
+  - name: website_status
+    type: string
+    extDtype: str
+    description: Status of the APPG website
+    constraints:
+      unique: false
+      enum:
+      - register
+    example: register
+  - name: detailed_benefits
+    type: string
+    description: Json dict of the benefits of the APPG
+    constraints:
+      unique: false
+    example: ''
+  - name: date_of_most_recent_agm
+    type: date
+    description: Date of the most recent AGM
+    constraints:
+      unique: false
+    example: ''
+  - name: published_income_expenditure_statement
+    type: boolean
+    description: Published income and expenditure statement
+    constraints:
+      unique: false
+    example: ''
+  - name: reporting_year
+    type: string
+    description: Reporting year of the APPG
+    constraints:
+      unique: false
+    example: ''
+  - name: next_reporting_deadline
+    type: date
+    description: Next reporting deadline for the APPG
+    constraints:
+      unique: false
+    example: ''
+  - name: registration_id
+    type: string
+    extDtype: str
+    description: Senedd registration identity, including term and official body
+      ID; null for other parliaments
+    constraints:
+      unique: false
+    example: senedd-6-726
+  - name: senedd_term
+    type: integer
+    extDtype: Int64
+    description: Senedd term number; a registration never carries membership
+      into another term
+    constraints:
+      unique: false
+      enum:
+      - 6
+      - 7
+    example: '6'
+  - name: valid_from
+    type: date
+    description: Known membership or registration start, inclusive; null when
+      unknown
+    constraints:
+      unique: false
+    example: ''
+  - name: valid_until
+    type: date
+    description: Latest possible end, exclusive; not evidence of continuous
+      membership before this date
+    constraints:
+      unique: false
+    example: '2026-04-08'
+  - name: end_reason
+    type: string
+    extDtype: str
+    description: 'Reason for the validity bound: term_ended, left_senedd, no_longer_listed
+      or registration_closed'
+    constraints:
+      unique: false
+    example: term_ended
+  - name: observed_on
+    type: date
+    description: First dated observation of this membership spell or
+      registration; not its start date
+    constraints:
+      unique: false
+    example: '2026-11-11'
+hash: 4cf63c0343ce338a6b0969411abafd5e

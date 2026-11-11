@@ -1,0 +1,166 @@
+title: Senedd CPG members history
+description: Historical and current Senedd CPG evidence, bounded to its term.
+  Unknown start and observation dates remain null. These records do not
+  establish continuous historical membership.
+custom:
+  row_count: 3660
+name: senedd_members_history
+type: table
+path: senedd_members_history.parquet
+scheme: file
+format: parquet
+mediatype: application/parquet
+schema:
+  fields:
+  - name: name
+    type: string
+    extDtype: str
+    description: Original name from the scraper (may contain typos)
+    constraints:
+      unique: false
+    example: Aaron Hill - Community Housing Cymru
+  - name: officer_role
+    type: string
+    extDtype: str
+    description: Role of the member in the APPG
+    constraints:
+      unique: false
+    example: Chair
+  - name: twfy_id
+    type: string
+    extDtype: str
+    description: TheyWorkForYou ID for the member
+    constraints:
+      unique: false
+    example: uk.org.publicwhip/person/10442
+  - name: mnis_id
+    type: string
+    extDtype: str
+    description: Parliamentary ID for the member
+    constraints:
+      unique: false
+    example: '11079'
+  - name: canon_name
+    type: string
+    extDtype: str
+    description: Name from the TWFY database
+    constraints:
+      unique: false
+    example: Adam Price
+  - name: parliament
+    type: string
+    extDtype: str
+    description: Parliament the APPG belongs to
+    constraints:
+      unique: false
+      enum:
+      - senedd-cy
+      - senedd-en
+    example: senedd-cy
+  - name: appg
+    type: string
+    extDtype: str
+    description: Slugified name of the APPG
+    constraints:
+      unique: false
+    example: academic-staff-in-universities
+  - name: is_officer
+    type: boolean
+    description: Is the member an officer of the APPG?
+    constraints:
+      unique: false
+      enum:
+      - false
+      - true
+    example: 'False'
+  - name: member_type
+    type: string
+    extDtype: str
+    description: Type of member (trusting source, not always right)
+    constraints:
+      unique: false
+      enum:
+      - ms
+      - other
+    example: ms
+  - name: source
+    type: string
+    extDtype: str
+    description: Source of the data
+    constraints:
+      unique: false
+      enum:
+      - official
+      - parliament
+    example: official
+  - name: last_updated
+    type: date
+    description: Source observation date for Senedd records; UK register date
+      for UK officers
+    constraints:
+      unique: false
+    example: '2026-11-11'
+  - name: url_source
+    type: string
+    extDtype: str
+    description: URL of the source of the data
+    constraints:
+      unique: false
+    example: https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1030
+  - name: removed
+    type: boolean
+    description: Is this a previous member who is no longer a member.
+    constraints:
+      unique: false
+      enum:
+      - false
+    example: 'False'
+  - name: registration_id
+    type: string
+    extDtype: str
+    description: Senedd registration identity, including term and official body
+      ID; null for other parliaments
+    constraints:
+      unique: false
+    example: senedd-6-726
+  - name: senedd_term
+    type: integer
+    extDtype: Int64
+    description: Senedd term number; a registration never carries membership
+      into another term
+    constraints:
+      unique: false
+      enum:
+      - 6
+      - 7
+    example: '6'
+  - name: valid_from
+    type: date
+    description: Known membership or registration start, inclusive; null when
+      unknown
+    constraints:
+      unique: false
+    example: ''
+  - name: valid_until
+    type: date
+    description: Latest possible end, exclusive; not evidence of continuous
+      membership before this date
+    constraints:
+      unique: false
+    example: '2026-04-08'
+  - name: end_reason
+    type: string
+    extDtype: str
+    description: 'Reason for the validity bound: term_ended, left_senedd, no_longer_listed
+      or registration_closed'
+    constraints:
+      unique: false
+    example: term_ended
+  - name: observed_on
+    type: date
+    description: First dated observation of this membership spell or
+      registration; not its start date
+    constraints:
+      unique: false
+    example: '2026-11-11'
+hash: 9d73df406e4357333504df7bd8053c50

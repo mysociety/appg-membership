@@ -1,7 +1,7 @@
 name: appg_groups_and_memberships
 title: APPG Groups and Memberships
 description: APPG register with experimental ML membership scrapers.
-version: 0.27.0
+version: 0.28.0
 licenses:
 - name: CC-BY-4.0
   path: https://creativecommons.org/licenses/by/4.0/
@@ -75,3 +75,4 @@ custom:
     0.25.0: 'Change in data for resource(s): categories,members,register'
     0.26.0: 'New field(s) added to resource: parliament'
     0.27.0: 'Change in data for resource(s): categories,members,register'
+    0.28.0: 'New field(s) added to end of resource: registration_id,senedd_term,valid_from,valid_until,end_reason,observed_on'
