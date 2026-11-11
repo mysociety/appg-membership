@@ -1,7 +1,7 @@
 {
   "slug": "faith",
   "title": "Ffydd - Grŵp Trawsbleidiol",
-  "purpose": "Tynnu sylw at gyfraniad cadarnhaol grwpiau ffydd i gymunedau yng Nghymru. Deiliaid swyddi Cadeirydd: Sam Rowlands AS Ysgrifennydd: Jim Stewart Aelodaeth o’r tu allan i'r Senedd: Jim Stewart, Open Doors UK",
+  "purpose": "Tynnu sylw at gyfraniad cadarnhaol grwpiau ffydd i gymunedau yng Nghymru. Deiliaid swyddi Cadeirydd: Sam Rowlands AS Ysgrifennydd: Jim Stewart Aelodaeth o’r tu allan i'r Senedd: Jim Stewart",
   "category": null,
   "parliament": "senedd-cy",
   "officers": [
@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26237",
       "mnis_id": "8734",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
@@ -19,7 +25,7 @@
     "source_url": [
       "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1031"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
       {
         "name": "Catherine Cullen",
@@ -27,7 +33,13 @@
         "member_type": "ms",
         "mnis_id": "12154",
         "twfy_id": "uk.org.publicwhip/person/26741",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Jane Dodds",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "4983",
         "twfy_id": "uk.org.publicwhip/person/25774",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Mike Hedges",
@@ -43,7 +61,13 @@
         "member_type": "ms",
         "mnis_id": "332",
         "twfy_id": "uk.org.publicwhip/person/26141",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "David Hughes",
@@ -51,7 +75,13 @@
         "member_type": "ms",
         "mnis_id": "12159",
         "twfy_id": "uk.org.publicwhip/person/26789",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Darren Millar",
@@ -59,7 +89,13 @@
         "member_type": "ms",
         "mnis_id": "171",
         "twfy_id": "uk.org.publicwhip/person/26182",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Paul Rock",
@@ -67,7 +103,13 @@
         "member_type": "ms",
         "mnis_id": "12176",
         "twfy_id": "uk.org.publicwhip/person/26752",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -90,5 +132,15 @@
   "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1031",
   "categories": [
     "Religion, Faith & Belief Communities"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1031",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

@@ -1,65 +1,59 @@
 {
   "slug": "nuclear-energy",
   "title": "Ynni Niwclear - Grŵp Trawsbleidiol",
-  "purpose": null,
+  "purpose": "Diben y Grŵp Trawsbleidiol ar Ynni Niwclear yw bod yn fforwm i drafod dyfodol y sector niwclear sifil yng Nghymru. Bydd y Grŵp yn trafod y cyfleoedd a’r heriau sy’n gysylltiedig â’r datblygiad niwclear newydd, prosiect arfaethedig Gwyndod ar Ynys Môn, a’i gyfraniad posibl o ran ynni glân, twf economaidd, swyddi, a buddsoddi. Bydd y Grŵp yn fforwm ar gyfer trafod y cyfleoedd a’r heriau sydd o flaen y sector a bydd yn cefnogi Llywodraeth Cymru o ran cyflawni ei chyfrifoldebau datganoledig i’r sector. Gan weithio yn agos gyda chynrychiolwyr a phartneriaid lleol, bydd y Grŵp yn chwarae rhan bwysig wrth gefnogi’r sector a Llywodraeth Cymru ill dau wrth i’r gwaith i ddatblygu Gwyndod fynd rhagddo. Deiliaid swyddi Cadeirydd: Mair Rowlands AS Ysgrifennydd: Joseph Ridding, Uwch-swyddog Gweithredol Materion Cyhoeddus, Cymdeithas y Diwydiant Niwclear Aelodaeth o’r tu allan i'r Senedd: Joseph Ridding, Cymdeithas y Diwydiant Niwclear Millie Beaver, Cymdeithas y Diwydiant Niwclear",
   "category": null,
   "parliament": "senedd-cy",
   "officers": [
     {
       "role": "Chair",
-      "name": "Vaughan Gething",
+      "name": "Mair Rowlands",
       "party": "",
-      "twfy_id": "uk.org.publicwhip/person/26184",
-      "mnis_id": "249",
-      "removed": false
+      "twfy_id": "uk.org.publicwhip/person/26739",
+      "mnis_id": "5084",
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
     "source_method": "official",
     "source_url": [
-      "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=899"
+      "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1068"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
-      {
-        "name": "Alun Davies",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "225",
-        "twfy_id": "uk.org.publicwhip/person/26124",
-        "removed": false
-      },
       {
         "name": "Janet Finch-Saunders",
         "is_officer": false,
         "member_type": "ms",
         "mnis_id": "212",
         "twfy_id": "uk.org.publicwhip/person/26188",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Rhun ap Iorwerth",
+        "name": "Tom Montgomery",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "2717",
-        "twfy_id": "uk.org.publicwhip/person/26165",
-        "removed": false
-      },
-      {
-        "name": "Mark Isherwood",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "157",
-        "twfy_id": "uk.org.publicwhip/person/26153",
-        "removed": false
-      },
-      {
-        "name": "Samuel Kurtz",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "8642",
-        "twfy_id": "uk.org.publicwhip/person/26239",
-        "removed": false
+        "mnis_id": "12183",
+        "twfy_id": "uk.org.publicwhip/person/26770",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Sam Rowlands",
@@ -67,223 +61,55 @@
         "member_type": "ms",
         "mnis_id": "8734",
         "twfy_id": "uk.org.publicwhip/person/26237",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Gordon Bell - Hinkley Point C",
+        "name": "Stephen Senior",
         "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "member_type": "ms",
+        "mnis_id": "12160",
+        "twfy_id": "uk.org.publicwhip/person/26794",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Sasha Wynn Davies - Wales Nuclear Forum",
+        "name": "Huw Thomas",
         "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "member_type": "ms",
+        "mnis_id": "12156",
+        "twfy_id": "uk.org.publicwhip/person/26759",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Paul Gibson - Natural Resources Wales &#40;NRW&#41;",
+        "name": "Elfed Williams",
         "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Tom Hoyles - GMB",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Simon Napper - Nuclear Waste Services &#40;NWS&#41;",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Robert Sedgman - Last Energy",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "David Wallace - Nuclear Decommissioning Authority &#40;NDA&#41;",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Jon Woodburn - Nuclear Decommissioning Authority &#40;NDA&#41;",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Keith O Brian - Trawsfynydd Site Stakeholder Group",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Helen Charlick - Ambition North Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "James Craig - Nuclear Resources Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Sasha Wyn Davies - North Wales Economic Forum",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Tom Davis - Sizewell C",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Dr Debbie Jones - M-SParc",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Elin Parry Jones - Nuclear Restoration Services",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Aled Jones - Wylfa Site Stakeholder Group",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Barry Lennox - Committee on Radioactive Waste Management",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Owain Lewis - Nuclear Restoration Services",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Derek Owen - Trawsfynydd Site Stakeholder Group",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "John Prime - National Grid",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Alan Raymant - Cwmni Egino",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Elfed Roberts - Trawsfynydd Site Stakeholder Group",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Stephen Tromans - Committee on Radioactive Waste Management",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Josh Vincent - Welsh Government",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Elliw Williams - Cwmni Egino",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Ieaun Williams - Great British Energy - Nuclear",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Alwen Williams - Ambition North Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "member_type": "ms",
+        "mnis_id": "12165",
+        "twfy_id": "uk.org.publicwhip/person/26740",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -296,15 +122,25 @@
     "secretariat": null,
     "website": {
       "status": "register",
-      "url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=899"
+      "url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1068"
     }
   },
   "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "",
-  "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=899",
+  "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1068",
   "categories": [
     "Energy & Utilities"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1068",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

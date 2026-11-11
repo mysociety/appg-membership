@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26239",
       "mnis_id": "8642",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": null,
+        "valid_from": null,
+        "valid_until": "2026-04-08",
+        "end_reason": "term_ended"
+      }
     }
   ],
   "members_list": {
@@ -27,7 +33,13 @@
         "member_type": "ms",
         "mnis_id": "269",
         "twfy_id": "uk.org.publicwhip/person/26243",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Cefin Campbell",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "8643",
         "twfy_id": "uk.org.publicwhip/person/26241",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Andrew RT Davies",
@@ -43,7 +61,13 @@
         "member_type": "ms",
         "mnis_id": "143",
         "twfy_id": "uk.org.publicwhip/person/26186",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Jane Dodds",
@@ -51,7 +75,13 @@
         "member_type": "ms",
         "mnis_id": "4983",
         "twfy_id": "uk.org.publicwhip/person/25774",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "James Evans",
@@ -59,7 +89,13 @@
         "member_type": "ms",
         "mnis_id": "8585",
         "twfy_id": "uk.org.publicwhip/person/26248",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Peter Fox",
@@ -67,7 +103,13 @@
         "member_type": "ms",
         "mnis_id": "4787",
         "twfy_id": "uk.org.publicwhip/person/26247",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Russell George",
@@ -75,7 +117,13 @@
         "member_type": "ms",
         "mnis_id": "303",
         "twfy_id": "uk.org.publicwhip/person/26147",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Llyr Gruffydd",
@@ -83,7 +131,13 @@
         "member_type": "ms",
         "mnis_id": "425",
         "twfy_id": "uk.org.publicwhip/person/26139",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Sam Rowlands",
@@ -91,7 +145,13 @@
         "member_type": "ms",
         "mnis_id": "8734",
         "twfy_id": "uk.org.publicwhip/person/26237",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Fraser Mcauley - CLA",
@@ -99,7 +159,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Nigel Hollett - Country Land and Business Association",
@@ -107,7 +173,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Kate Rees - National Trust",
@@ -115,7 +187,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       }
     ]
   },
@@ -140,5 +218,15 @@
     "Economy, Business & Industry",
     "Regions, Nations & Devolution",
     "Food, Agriculture & Rural Affairs"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "842",
+    "term": 6,
+    "evidence_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/cross-party-groups-sixth-senedd-2021-2026/",
+    "verified": true,
+    "observed_on": null,
+    "valid_from": null,
+    "valid_until": "2026-04-08",
+    "end_reason": "term_ended"
+  }
 }

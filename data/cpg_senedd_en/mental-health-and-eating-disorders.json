@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26249",
       "mnis_id": "8594",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     },
     {
       "role": "Chair",
@@ -19,7 +25,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26179",
       "mnis_id": "174",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
@@ -27,7 +39,7 @@
     "source_url": [
       "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1038"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
       {
         "name": "Sara Crowley",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "12150",
         "twfy_id": "uk.org.publicwhip/person/26788",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Jane Dodds",
@@ -43,7 +61,13 @@
         "member_type": "ms",
         "mnis_id": "4983",
         "twfy_id": "uk.org.publicwhip/person/25774",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Janet Finch-Saunders",
@@ -51,7 +75,13 @@
         "member_type": "ms",
         "mnis_id": "212",
         "twfy_id": "uk.org.publicwhip/person/26188",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Mike Hedges",
@@ -59,7 +89,13 @@
         "member_type": "ms",
         "mnis_id": "332",
         "twfy_id": "uk.org.publicwhip/person/26141",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Claire Johnson-Wood",
@@ -67,7 +103,13 @@
         "member_type": "ms",
         "mnis_id": "12188",
         "twfy_id": "uk.org.publicwhip/person/26777",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Kiera Marshall",
@@ -75,7 +117,13 @@
         "member_type": "ms",
         "mnis_id": "12166",
         "twfy_id": "uk.org.publicwhip/person/26756",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -98,5 +146,15 @@
   "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1038",
   "categories": [
     "Health, Medicine & Public Health"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1038",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

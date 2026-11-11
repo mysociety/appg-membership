@@ -1,97 +1,59 @@
 {
   "slug": "tourism",
   "title": "Twristiaeth - Grŵp Trawsbleidiol",
-  "purpose": "Datblygu a fformiwleiddio dadl ar sail gwybodaeth ynghylch materion twristiaeth yng Nghymru. Deiliaid swyddi Cadeirydd: Sam Rowlands AS Ysgrifennydd: Lisa Francis",
+  "purpose": "Datblygu a chyflawni prosiectau, a chynnig deddfwriaeth a fydd yn cefnogi'r diwydiant twristiaeth. Deiliaid swyddi Cadeirydd: Louise Emery AS Ysgrifenyddion: Rowland Rees-Evans, Cynghrair Twristiaeth Cymru, a David Chapman, UK Hospitality Aelodaeth o tu allan i'r Senedd: Mike Bryan, Cynghrair Twristiaeth Cymru",
   "category": null,
   "parliament": "senedd-cy",
   "officers": [
     {
       "role": "Chair",
-      "name": "Sam Rowlands",
+      "name": "Louise Emery",
       "party": "",
-      "twfy_id": "uk.org.publicwhip/person/26237",
-      "mnis_id": "8734",
-      "removed": false
+      "twfy_id": "uk.org.publicwhip/person/26767",
+      "mnis_id": "12182",
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
     "source_method": "official",
     "source_url": [
-      "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=777"
+      "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1072"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
       {
-        "name": "Jayne Bryant",
+        "name": "Gareth Beer",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "5038",
-        "twfy_id": "uk.org.publicwhip/person/26170",
-        "removed": false
+        "mnis_id": "8650",
+        "twfy_id": "uk.org.publicwhip/person/26795",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Jane Dodds",
+        "name": "Kerry Ferguson",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "4983",
-        "twfy_id": "uk.org.publicwhip/person/25774",
-        "removed": false
-      },
-      {
-        "name": "James Evans",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "8585",
-        "twfy_id": "uk.org.publicwhip/person/26248",
-        "removed": false
-      },
-      {
-        "name": "Janet Finch-Saunders",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "212",
-        "twfy_id": "uk.org.publicwhip/person/26188",
-        "removed": false
-      },
-      {
-        "name": "Heledd Fychan",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "426",
-        "twfy_id": "uk.org.publicwhip/person/26245",
-        "removed": false
-      },
-      {
-        "name": "Tom Giffard",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "8733",
-        "twfy_id": "uk.org.publicwhip/person/26235",
-        "removed": false
-      },
-      {
-        "name": "Llyr Gruffydd",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "425",
-        "twfy_id": "uk.org.publicwhip/person/26139",
-        "removed": false
-      },
-      {
-        "name": "Mark Isherwood",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "157",
-        "twfy_id": "uk.org.publicwhip/person/26153",
-        "removed": false
-      },
-      {
-        "name": "Samuel Kurtz",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "8642",
-        "twfy_id": "uk.org.publicwhip/person/26239",
-        "removed": false
+        "mnis_id": "12177",
+        "twfy_id": "uk.org.publicwhip/person/26764",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Darren Millar",
@@ -99,39 +61,55 @@
         "member_type": "ms",
         "mnis_id": "171",
         "twfy_id": "uk.org.publicwhip/person/26182",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Ken Skates",
+        "name": "Tom Montgomery",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "267",
-        "twfy_id": "uk.org.publicwhip/person/26150",
-        "removed": false
+        "mnis_id": "12183",
+        "twfy_id": "uk.org.publicwhip/person/26770",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Carolyn Thomas",
+        "name": "Sam Rowlands",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "5143",
-        "twfy_id": "uk.org.publicwhip/person/26251",
-        "removed": false
+        "mnis_id": "8734",
+        "twfy_id": "uk.org.publicwhip/person/26237",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Buffy Williams",
+        "name": "Steven Rodaway",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "8695",
-        "twfy_id": "uk.org.publicwhip/person/26253",
-        "removed": false
-      },
-      {
-        "name": "Andrew Campbell - Wales Tourism Alliance",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "12191",
+        "twfy_id": "uk.org.publicwhip/person/26782",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -144,16 +122,26 @@
     "secretariat": null,
     "website": {
       "status": "register",
-      "url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=777"
+      "url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1072"
     }
   },
   "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "",
-  "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=777",
+  "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1072",
   "categories": [
     "Economy, Business & Industry",
     "Regions, Nations & Devolution"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1072",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

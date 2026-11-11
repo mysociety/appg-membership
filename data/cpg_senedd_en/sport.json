@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26214",
       "mnis_id": "4562",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": null,
+        "valid_from": null,
+        "valid_until": "2026-04-08",
+        "end_reason": "term_ended"
+      }
     }
   ],
   "members_list": {
@@ -27,7 +33,13 @@
         "member_type": "ms",
         "mnis_id": "4988",
         "twfy_id": "uk.org.publicwhip/person/26161",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Alun Davies",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "225",
         "twfy_id": "uk.org.publicwhip/person/26124",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Andrew RT Davies",
@@ -43,7 +61,13 @@
         "member_type": "ms",
         "mnis_id": "143",
         "twfy_id": "uk.org.publicwhip/person/26186",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Tom Giffard",
@@ -51,7 +75,13 @@
         "member_type": "ms",
         "mnis_id": "8733",
         "twfy_id": "uk.org.publicwhip/person/26235",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "John Griffiths",
@@ -59,7 +89,13 @@
         "member_type": "ms",
         "mnis_id": "153",
         "twfy_id": "uk.org.publicwhip/person/26128",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Llyr Gruffydd",
@@ -67,7 +103,13 @@
         "member_type": "ms",
         "mnis_id": "425",
         "twfy_id": "uk.org.publicwhip/person/26139",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Mike Hedges",
@@ -75,7 +117,13 @@
         "member_type": "ms",
         "mnis_id": "332",
         "twfy_id": "uk.org.publicwhip/person/26141",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Sam Rowlands",
@@ -83,7 +131,13 @@
         "member_type": "ms",
         "mnis_id": "8734",
         "twfy_id": "uk.org.publicwhip/person/26237",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Carolyn Thomas",
@@ -91,7 +145,13 @@
         "member_type": "ms",
         "mnis_id": "5143",
         "twfy_id": "uk.org.publicwhip/person/26251",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Matthew Williams - Welsh Sports Association",
@@ -99,7 +159,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       }
     ]
   },
@@ -123,5 +189,15 @@
   "categories": [
     "Sport, Recreation & Physical Activity",
     "Regions, Nations & Devolution"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "857",
+    "term": 6,
+    "evidence_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/cross-party-groups-sixth-senedd-2021-2026/",
+    "verified": true,
+    "observed_on": null,
+    "valid_from": null,
+    "valid_until": "2026-04-08",
+    "end_reason": "term_ended"
+  }
 }

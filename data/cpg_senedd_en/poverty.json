@@ -1,41 +1,59 @@
 {
   "slug": "poverty",
   "title": "Poverty - Cross Party Group",
-  "purpose": "The group aims to facilitate a dialogue with Welsh Government on tackling the root causes of poverty.",
+  "purpose": "The group aims to bring Senedd members together with organisations and people sharing an interest in working to tackle poverty. It aims to act as a convenor to build knowledge and understanding of poverty, develop support for strategic approaches to reducing it, and generate constructive external scrutiny of Welsh and UK government action on it.",
   "category": null,
   "parliament": "senedd-en",
   "officers": [
     {
       "role": "Chair",
-      "name": "John Griffiths",
+      "name": "Kiera Marshall",
       "party": "",
-      "twfy_id": "uk.org.publicwhip/person/26128",
-      "mnis_id": "153",
-      "removed": false
+      "twfy_id": "uk.org.publicwhip/person/26756",
+      "mnis_id": "12166",
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
     "source_method": "official",
     "source_url": [
-      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=816"
+      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1079"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
       {
-        "name": "Mabon ap Gwynfor",
+        "name": "Beca Brown",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "269",
-        "twfy_id": "uk.org.publicwhip/person/26243",
-        "removed": false
+        "mnis_id": "12186",
+        "twfy_id": "uk.org.publicwhip/person/26775",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Cefin Campbell",
+        "name": "Alun Cox",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "8643",
-        "twfy_id": "uk.org.publicwhip/person/26241",
-        "removed": false
+        "mnis_id": "4491",
+        "twfy_id": "uk.org.publicwhip/person/26733",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Jane Dodds",
@@ -43,143 +61,69 @@
         "member_type": "ms",
         "mnis_id": "4983",
         "twfy_id": "uk.org.publicwhip/person/25774",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Heledd Fychan",
+        "name": "Safa Elhassan",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "426",
-        "twfy_id": "uk.org.publicwhip/person/26245",
-        "removed": false
+        "mnis_id": "12189",
+        "twfy_id": "uk.org.publicwhip/person/26780",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Vikki Howells",
+        "name": "Matthew Jones",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "5107",
-        "twfy_id": "uk.org.publicwhip/person/26159",
-        "removed": false
+        "mnis_id": "12151",
+        "twfy_id": "uk.org.publicwhip/person/26793",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Delyth Jewell",
+        "name": "Niamh Salkeld",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "5207",
-        "twfy_id": "uk.org.publicwhip/person/26252",
-        "removed": false
+        "mnis_id": "12143",
+        "twfy_id": "uk.org.publicwhip/person/26744",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Buffy Williams",
+        "name": "Shav Taj",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "8695",
-        "twfy_id": "uk.org.publicwhip/person/26253",
-        "removed": false
-      },
-      {
-        "name": "Pearl Costello - Food Cardiff",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Laura Courtney - Food Sense Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Karen Davies - Purple Shoots",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Steffan Evans - Bevan Foundation",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Sarah Germain - FareShare Cymru",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Gwennan Hardy - Citizens Advice Bureau",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Ellie Harwood - Child Poverty Action Group",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Dr Duncan Holtom - People &#38; Work",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Gareth Morgan - Welfare Rights Advisers Cymru",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Katie Palmer - Food Cardiff",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Susan Lloyd Selby - The Trussell Trust",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Ross Thomas - Tai Pawb",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Bethan Webber - Home-Start Cymru",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "12175",
+        "twfy_id": "uk.org.publicwhip/person/26753",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -192,16 +136,26 @@
     "secretariat": null,
     "website": {
       "status": "register",
-      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=816"
+      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1079"
     }
   },
   "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "",
-  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=816",
+  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1079",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Human Rights, Equality & Social Justice"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1079",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26136",
       "mnis_id": "182",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": null,
+        "valid_from": null,
+        "valid_until": "2026-04-08",
+        "end_reason": "term_ended"
+      }
     }
   ],
   "members_list": {
@@ -27,7 +33,13 @@
         "member_type": "ms",
         "mnis_id": "332",
         "twfy_id": "uk.org.publicwhip/person/26141",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Mark Isherwood",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "157",
         "twfy_id": "uk.org.publicwhip/person/26153",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Delyth Jewell",
@@ -43,7 +61,13 @@
         "member_type": "ms",
         "mnis_id": "5207",
         "twfy_id": "uk.org.publicwhip/person/26252",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       }
     ]
   },
@@ -67,5 +91,15 @@
   "categories": [
     "Economy, Business & Industry",
     "Housing, Planning & Built Environment"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "782",
+    "term": 6,
+    "evidence_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/cross-party-groups-sixth-senedd-2021-2026/",
+    "verified": true,
+    "observed_on": null,
+    "valid_from": null,
+    "valid_until": "2026-04-08",
+    "end_reason": "term_ended"
+  }
 }

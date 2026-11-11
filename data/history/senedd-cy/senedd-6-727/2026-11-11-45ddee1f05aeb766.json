@@ -1,0 +1,104 @@
+{
+  "slug": "faith",
+  "title": "Ffydd - Grŵp Trawsbleidiol",
+  "purpose": "Tynnu sylw at gyfraniad cadarnhaol grwpiau ffydd i gymunedau yng Nghymru",
+  "category": null,
+  "parliament": "senedd-cy",
+  "officers": [
+    {
+      "role": "Chair",
+      "name": "Darren Millar",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26182",
+      "mnis_id": "171",
+      "removed": false,
+      "validity": {
+        "observed_on": null,
+        "valid_from": null,
+        "valid_until": "2026-04-08",
+        "end_reason": "term_ended"
+      }
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=727"
+    ],
+    "last_updated": null,
+    "members": [
+      {
+        "name": "Rhys ab Owen",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "8625",
+        "twfy_id": "uk.org.publicwhip/person/26240",
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
+      },
+      {
+        "name": "Jane Dodds",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "4983",
+        "twfy_id": "uk.org.publicwhip/person/25774",
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
+      },
+      {
+        "name": "Mike Hedges",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "332",
+        "twfy_id": "uk.org.publicwhip/person/26141",
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=727"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=727",
+  "categories": [
+    "Religion, Faith & Belief Communities"
+  ],
+  "senedd_registration": {
+    "body_id": "727",
+    "term": 6,
+    "evidence_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/cross-party-groups-sixth-senedd-2021-2026/",
+    "verified": true,
+    "observed_on": null,
+    "valid_from": null,
+    "valid_until": "2026-04-08",
+    "end_reason": "term_ended"
+  }
+}

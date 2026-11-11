@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26154",
       "mnis_id": "543",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": null,
+        "valid_from": null,
+        "valid_until": "2026-04-08",
+        "end_reason": "term_ended"
+      }
     }
   ],
   "members_list": {
@@ -27,7 +33,13 @@
         "member_type": "ms",
         "mnis_id": "269",
         "twfy_id": "uk.org.publicwhip/person/26243",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Mark Isherwood",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "157",
         "twfy_id": "uk.org.publicwhip/person/26153",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "David Rees",
@@ -43,7 +61,13 @@
         "member_type": "ms",
         "mnis_id": "205",
         "twfy_id": "uk.org.publicwhip/person/26135",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Mike Hedges",
@@ -51,7 +75,13 @@
         "member_type": "ms",
         "mnis_id": "332",
         "twfy_id": "uk.org.publicwhip/person/26141",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Katie Chappelle - Stroke Association",
@@ -59,7 +89,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Shakeel Ahmad - NHS",
@@ -67,7 +103,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Emma Burke - Stroke Association",
@@ -75,7 +117,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Lynda Kenway - NHS Executive",
@@ -83,7 +131,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Llinos Wyn Parry - Stroke Association",
@@ -91,7 +145,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Lynn Preece - Stroke Association",
@@ -99,7 +159,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Niki Turner - NHS",
@@ -107,7 +173,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Benji Williams - Cardiff and Vale UHB - Strategic &#38; Service Planning",
@@ -115,7 +187,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       }
     ]
   },
@@ -139,5 +217,15 @@
   "categories": [
     "Health, Medicine & Public Health",
     "Regions, Nations & Devolution"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "875",
+    "term": 6,
+    "evidence_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/cross-party-groups-sixth-senedd-2021-2026/",
+    "verified": true,
+    "observed_on": null,
+    "valid_from": null,
+    "valid_until": "2026-04-08",
+    "end_reason": "term_ended"
+  }
 }

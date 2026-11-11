@@ -1,81 +1,73 @@
 {
   "slug": "preventing-child-sexual-abuse",
   "title": "Preventing Child Sexual Abuse - Cross Party Group",
-  "purpose": "To spotlight the importance of a response to Child Sexual Abuse in Wales and monitor progress of the Welsh Government action plan.",
+  "purpose": "The purpose of the CPG is to bring together MSs and other relevant stakeholders to work collaboratively to support the delivery of a public health approach to preventing and responding to child sexual abuse in Wales.",
   "category": null,
   "parliament": "senedd-en",
   "officers": [
     {
       "role": "Chair",
-      "name": "Buffy Williams",
+      "name": "Beca Brown",
       "party": "",
-      "twfy_id": "uk.org.publicwhip/person/26253",
-      "mnis_id": "8695",
-      "removed": false
+      "twfy_id": "uk.org.publicwhip/person/26775",
+      "mnis_id": "12186",
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     },
     {
-      "role": "Deputy Chair",
-      "name": "Mabon ap Gwynfor",
+      "role": "Vice-Chair",
+      "name": "Lynne Neagle",
       "party": "",
-      "twfy_id": "uk.org.publicwhip/person/26243",
-      "mnis_id": "269",
-      "removed": false
+      "twfy_id": "uk.org.publicwhip/person/26179",
+      "mnis_id": "174",
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
     "source_method": "official",
     "source_url": [
-      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=813"
+      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1044"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
       {
-        "name": "Jane Dodds",
+        "name": "Sarah Cooper-Lesadd",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "4983",
-        "twfy_id": "uk.org.publicwhip/person/25774",
-        "removed": false
+        "mnis_id": "12167",
+        "twfy_id": "uk.org.publicwhip/person/26784",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "James Evans",
+        "name": "Sam Rowlands",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "8585",
-        "twfy_id": "uk.org.publicwhip/person/26248",
-        "removed": false
-      },
-      {
-        "name": "Si&#226;n Gwenllian",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "4981",
-        "twfy_id": "uk.org.publicwhip/person/26244",
-        "removed": false
-      },
-      {
-        "name": "Laura Anne Jones",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "4562",
-        "twfy_id": "uk.org.publicwhip/person/26214",
-        "removed": false
-      },
-      {
-        "name": "Sioned Williams",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "8670",
-        "twfy_id": "uk.org.publicwhip/person/26234",
-        "removed": false
-      },
-      {
-        "name": "Cecile Gwilym - NSPCC Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "8734",
+        "twfy_id": "uk.org.publicwhip/person/26237",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -88,16 +80,26 @@
     "secretariat": null,
     "website": {
       "status": "register",
-      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=813"
+      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1044"
     }
   },
   "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "",
-  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=813",
+  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1044",
   "categories": [
     "Human Rights, Equality & Social Justice",
     "Social Care, Welfare & Family Support"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1044",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

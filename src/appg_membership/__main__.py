@@ -295,6 +295,19 @@ def senedd(term_number: int = 7, classify_new_groups: bool = True):
 
 
 @app.command()
+def migrate_senedd(sixth_ref: str = "") -> None:
+    """
+    Verify legacy terms and optionally recover Sixth Senedd snapshots from git.
+    """
+    from pathlib import Path
+
+    from .senedd_migration import migrate_from_official_sources
+
+    result = migrate_from_official_sources(Path("data"), sixth_ref or None)
+    print(result)
+
+
+@app.command()
 def assign_categories(parliament: str = "all", all_groups: bool = False):
     """
     Run LLM category assignment for devolved parliaments.

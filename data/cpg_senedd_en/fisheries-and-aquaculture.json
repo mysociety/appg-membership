@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26243",
       "mnis_id": "269",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": null,
+        "valid_from": null,
+        "valid_until": "2026-04-08",
+        "end_reason": "term_ended"
+      }
     }
   ],
   "members_list": {
@@ -27,7 +33,13 @@
         "member_type": "ms",
         "mnis_id": "5107",
         "twfy_id": "uk.org.publicwhip/person/26159",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Samuel Kurtz",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "8642",
         "twfy_id": "uk.org.publicwhip/person/26239",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Jim Evans - Welsh Fisherman&#8217;s Association",
@@ -43,7 +61,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Andrew Tait - Fisherman&#39;s Mission",
@@ -51,7 +75,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       }
     ]
   },
@@ -74,5 +104,15 @@
   "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=874",
   "categories": [
     "Food, Agriculture & Rural Affairs"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "874",
+    "term": 6,
+    "evidence_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/cross-party-groups-sixth-senedd-2021-2026/",
+    "verified": true,
+    "observed_on": null,
+    "valid_from": null,
+    "valid_until": "2026-04-08",
+    "end_reason": "term_ended"
+  }
 }

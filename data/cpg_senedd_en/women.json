@@ -1,33 +1,87 @@
 {
   "slug": "women",
   "title": "Women - Cross Party Group",
-  "purpose": "To increase diversity and size of the Senedd and diversity of local government by pushing for electoral reform and quotas, flexible working and robust support mechanisms To promote stronger protection of women’s rights",
+  "purpose": "To promote gender equality and women’s rights in Wales.",
   "category": null,
   "parliament": "senedd-en",
   "officers": [
     {
       "role": "Chair",
-      "name": "Si&#226;n Gwenllian",
+      "name": "Shav Taj",
       "party": "",
-      "twfy_id": "uk.org.publicwhip/person/26244",
-      "mnis_id": "4981",
-      "removed": false
+      "twfy_id": "uk.org.publicwhip/person/26753",
+      "mnis_id": "12175",
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
     "source_method": "official",
     "source_url": [
-      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=726"
+      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1074"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
+      {
+        "name": "Beca Brown",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12186",
+        "twfy_id": "uk.org.publicwhip/person/26775",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Sara Crowley",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12150",
+        "twfy_id": "uk.org.publicwhip/person/26788",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
       {
         "name": "Jane Dodds",
         "is_officer": false,
         "member_type": "ms",
         "mnis_id": "4983",
         "twfy_id": "uk.org.publicwhip/person/25774",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Kerry Ferguson",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12177",
+        "twfy_id": "uk.org.publicwhip/person/26764",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Mike Hedges",
@@ -35,231 +89,83 @@
         "member_type": "ms",
         "mnis_id": "332",
         "twfy_id": "uk.org.publicwhip/person/26141",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Heledd Fychan",
+        "name": "Kiera Marshall",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "426",
-        "twfy_id": "uk.org.publicwhip/person/26245",
-        "removed": false
+        "mnis_id": "12166",
+        "twfy_id": "uk.org.publicwhip/person/26756",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Delyth Jewell",
+        "name": "Sarah Rees",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "5207",
-        "twfy_id": "uk.org.publicwhip/person/26252",
-        "removed": false
+        "mnis_id": "5196",
+        "twfy_id": "uk.org.publicwhip/person/26786",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Rt. Hon. Elin Jones",
+        "name": "Mair Rowlands",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "162",
-        "twfy_id": "uk.org.publicwhip/person/26178",
-        "removed": false
+        "mnis_id": "5084",
+        "twfy_id": "uk.org.publicwhip/person/26739",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Carolyn Thomas",
+        "name": "Niamh Salkeld",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "5143",
-        "twfy_id": "uk.org.publicwhip/person/26251",
-        "removed": false
+        "mnis_id": "12143",
+        "twfy_id": "uk.org.publicwhip/person/26744",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Joyce Watson",
+        "name": "Art Wright",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "182",
-        "twfy_id": "uk.org.publicwhip/person/26136",
-        "removed": false
-      },
-      {
-        "name": "Sioned Williams",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "8670",
-        "twfy_id": "uk.org.publicwhip/person/26234",
-        "removed": false
-      },
-      {
-        "name": "Jessica Laimann - Research Service",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Megan Evans - Women&#8217;s Equality Network Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Sarah Thomas - National Federation of Women&#8217;s Institutes",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Jane Fenton-May - Wales Assembly of Women",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Carwen Wynne Howells - Soroptimist International Wales South",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Leanne Waring - Cardiff and Vale College",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Megan Thomas - Disability Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Christina Tanti - Race Equality First",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Alison Parken - Cardiff Business School",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Abi Thomas - Plaid Cymru",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Chris Dunn - Diverse Cymru",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Sandy Clubb - Office of the Future Generations Commissioner",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Stephanie Grimshaw - Welsh Women&#8217;s Aid",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Tanya Harrington - Stonewall Cymru",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Hade Turkmen - Chwarae Teg",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Rhianydd Williams - TUC Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Dr Rachel Minto - Cardiff University",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Dr Larissa Peixoto - Cardiff University",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Professor Laura McAllister - Wales Governance Centre, Cardiff University",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Jess Blair - Electoral Reform Society Cymru",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Debbie Shaffer - Fair Treatment for the Women of Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Nancy Lidubwi - Bawso",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "12157",
+        "twfy_id": "uk.org.publicwhip/person/26762",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -272,16 +178,26 @@
     "secretariat": null,
     "website": {
       "status": "register",
-      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=726"
+      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1074"
     }
   },
   "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "",
-  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=726",
+  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1074",
   "categories": [
     "Human Rights, Equality & Social Justice",
     "Governance, Democracy & Political Reform"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1074",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

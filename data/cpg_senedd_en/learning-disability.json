@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26234",
       "mnis_id": "8670",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": null,
+        "valid_from": null,
+        "valid_until": "2026-04-08",
+        "end_reason": "term_ended"
+      }
     }
   ],
   "members_list": {
@@ -27,7 +33,13 @@
         "member_type": "ms",
         "mnis_id": "332",
         "twfy_id": "uk.org.publicwhip/person/26141",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Mark Isherwood",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "157",
         "twfy_id": "uk.org.publicwhip/person/26153",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Wayne Crocker - Mencap Cymru",
@@ -43,7 +61,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Julian Hallett - Down Syndrome Association",
@@ -51,7 +75,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Joe Powell - All Wales People First",
@@ -59,7 +89,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Zoe Richards - Learning Disability Wales",
@@ -67,7 +103,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Kate Young - All Wales Forum of Parents and Carers of People with Learning Disabilities",
@@ -75,7 +117,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Jordan Brewer - Cymorth Cymru",
@@ -83,7 +131,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       }
     ]
   },
@@ -107,5 +161,15 @@
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "851",
+    "term": 6,
+    "evidence_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/cross-party-groups-sixth-senedd-2021-2026/",
+    "verified": true,
+    "observed_on": null,
+    "valid_from": null,
+    "valid_until": "2026-04-08",
+    "end_reason": "term_ended"
+  }
 }

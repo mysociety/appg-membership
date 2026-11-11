@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26141",
       "mnis_id": "332",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": null,
+        "valid_from": null,
+        "valid_until": "2026-04-08",
+        "end_reason": "term_ended"
+      }
     }
   ],
   "members_list": {
@@ -27,7 +33,13 @@
         "member_type": "ms",
         "mnis_id": "2717",
         "twfy_id": "uk.org.publicwhip/person/26165",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Russell George",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "303",
         "twfy_id": "uk.org.publicwhip/person/26147",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Mark Isherwood",
@@ -43,7 +61,13 @@
         "member_type": "ms",
         "mnis_id": "157",
         "twfy_id": "uk.org.publicwhip/person/26153",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       }
     ]
   },
@@ -66,5 +90,15 @@
   "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=852",
   "categories": [
     "Health, Medicine & Public Health"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "852",
+    "term": 6,
+    "evidence_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/cross-party-groups-sixth-senedd-2021-2026/",
+    "verified": true,
+    "observed_on": null,
+    "valid_from": null,
+    "valid_until": "2026-04-08",
+    "end_reason": "term_ended"
+  }
 }

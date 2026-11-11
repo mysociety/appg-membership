@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/25774",
       "mnis_id": "4983",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
@@ -19,7 +25,7 @@
     "source_url": [
       "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1033"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
       {
         "name": "Mike Hedges",
@@ -27,7 +33,13 @@
         "member_type": "ms",
         "mnis_id": "332",
         "twfy_id": "uk.org.publicwhip/person/26141",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Kiera Marshall",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "12166",
         "twfy_id": "uk.org.publicwhip/person/26756",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Lynne Neagle",
@@ -43,7 +61,13 @@
         "member_type": "ms",
         "mnis_id": "174",
         "twfy_id": "uk.org.publicwhip/person/26179",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Sam Rowlands",
@@ -51,7 +75,13 @@
         "member_type": "ms",
         "mnis_id": "8734",
         "twfy_id": "uk.org.publicwhip/person/26237",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Art Wright",
@@ -59,7 +89,13 @@
         "member_type": "ms",
         "mnis_id": "12157",
         "twfy_id": "uk.org.publicwhip/person/26762",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -82,5 +118,15 @@
   "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1033",
   "categories": [
     "Education, Skills & Youth"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1033",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

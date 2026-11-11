@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26237",
       "mnis_id": "8734",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
@@ -19,7 +25,7 @@
     "source_url": [
       "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1032"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
       {
         "name": "Jayne Bryant",
@@ -27,7 +33,41 @@
         "member_type": "ms",
         "mnis_id": "5038",
         "twfy_id": "uk.org.publicwhip/person/26170",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Louise Emery",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12182",
+        "twfy_id": "uk.org.publicwhip/person/26767",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Becca Martin",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12184",
+        "twfy_id": "uk.org.publicwhip/person/26768",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Elfed Williams",
@@ -35,7 +75,13 @@
         "member_type": "ms",
         "mnis_id": "12165",
         "twfy_id": "uk.org.publicwhip/person/26740",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -59,5 +105,15 @@
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1032",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

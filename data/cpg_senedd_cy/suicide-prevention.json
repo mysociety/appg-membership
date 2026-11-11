@@ -1,49 +1,101 @@
 {
   "slug": "suicide-prevention",
-  "title": "Atal Hunanladdiad - Grŵp Trawsbleidiol",
-  "purpose": "Codi ymwybyddiaeth ac ymgyrchu ar sail draws-bleidiol i lywio newid mewn atal hunanladdiad yng Nghymru.",
+  "title": "Suicide Prevention - Cross Party Group",
+  "purpose": null,
   "category": null,
   "parliament": "senedd-cy",
   "officers": [
     {
       "role": "Chair",
-      "name": "Julie Morgan",
+      "name": "Lynne Neagle",
       "party": "",
-      "twfy_id": "uk.org.publicwhip/person/10442",
-      "mnis_id": "245",
-      "removed": false
+      "twfy_id": "uk.org.publicwhip/person/26179",
+      "mnis_id": "174",
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
     "source_method": "official",
     "source_url": [
-      "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=820"
+      "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1087"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
       {
-        "name": "James Evans",
+        "name": "Donna Cushing",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "8585",
-        "twfy_id": "uk.org.publicwhip/person/26248",
-        "removed": false
+        "mnis_id": "12168",
+        "twfy_id": "uk.org.publicwhip/person/26792",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Altaf Hussain",
+        "name": "Mike Hedges",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "543",
-        "twfy_id": "uk.org.publicwhip/person/26154",
-        "removed": false
+        "mnis_id": "332",
+        "twfy_id": "uk.org.publicwhip/person/26141",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Delyth Jewell",
+        "name": "Tom Montgomery",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "5207",
-        "twfy_id": "uk.org.publicwhip/person/26252",
-        "removed": false
+        "mnis_id": "12183",
+        "twfy_id": "uk.org.publicwhip/person/26770",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Llŷr Powell",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "11971",
+        "twfy_id": "uk.org.publicwhip/person/26743",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Niamh Salkeld",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12143",
+        "twfy_id": "uk.org.publicwhip/person/26744",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -56,15 +108,25 @@
     "secretariat": null,
     "website": {
       "status": "register",
-      "url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=820"
+      "url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1087"
     }
   },
   "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "",
-  "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=820",
+  "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1087",
   "categories": [
     "Health, Medicine & Public Health"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1087",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

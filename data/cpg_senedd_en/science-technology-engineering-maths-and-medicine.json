@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26135",
       "mnis_id": "205",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": null,
+        "valid_from": null,
+        "valid_until": "2026-04-08",
+        "end_reason": "term_ended"
+      }
     }
   ],
   "members_list": {
@@ -27,7 +33,13 @@
         "member_type": "ms",
         "mnis_id": "8687",
         "twfy_id": "uk.org.publicwhip/person/26254",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Mark Isherwood",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "157",
         "twfy_id": "uk.org.publicwhip/person/26153",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Altaf Hussain",
@@ -43,7 +61,13 @@
         "member_type": "ms",
         "mnis_id": "543",
         "twfy_id": "uk.org.publicwhip/person/26154",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Luke Fletcher",
@@ -51,7 +75,13 @@
         "member_type": "ms",
         "mnis_id": "8634",
         "twfy_id": "uk.org.publicwhip/person/26256",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       }
     ]
   },
@@ -74,5 +104,15 @@
   "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=817",
   "categories": [
     "Science, Technology & Innovation"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "817",
+    "term": 6,
+    "evidence_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/cross-party-groups-sixth-senedd-2021-2026/",
+    "verified": true,
+    "observed_on": null,
+    "valid_from": null,
+    "valid_until": "2026-04-08",
+    "end_reason": "term_ended"
+  }
 }

@@ -1,0 +1,130 @@
+{
+  "slug": "pcs",
+  "title": "PCS - Cross Party Group",
+  "purpose": "To discuss issues relating to civil service staff conditions and work.",
+  "category": null,
+  "parliament": "senedd-en",
+  "officers": [
+    {
+      "role": "Chair",
+      "name": "Mike Hedges",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26141",
+      "mnis_id": "332",
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
+    },
+    {
+      "role": "Vice-Chair",
+      "name": "Marc Jones",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26773",
+      "mnis_id": "350",
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
+    }
+  ],
+  "members_list": {
+    "source_method": "official",
+    "source_url": [
+      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1084"
+    ],
+    "last_updated": "2026-11-11",
+    "members": [
+      {
+        "name": "Vikki Howells",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "5107",
+        "twfy_id": "uk.org.publicwhip/person/26159",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Paul Rock",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12176",
+        "twfy_id": "uk.org.publicwhip/person/26752",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Shav Taj",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12175",
+        "twfy_id": "uk.org.publicwhip/person/26753",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Gwyn Williams",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "5083",
+        "twfy_id": "uk.org.publicwhip/person/26783",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      }
+    ]
+  },
+  "contact_details": {
+    "registered_contact_name": null,
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": null,
+    "public_enquiry_point_email": null,
+    "secretariat": null,
+    "website": {
+      "status": "register",
+      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1084"
+    }
+  },
+  "agm": null,
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "",
+  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1084",
+  "categories": [],
+  "senedd_registration": {
+    "body_id": "1084",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
+}

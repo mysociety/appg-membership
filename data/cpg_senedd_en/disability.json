@@ -1,41 +1,199 @@
 {
   "slug": "disability",
   "title": "Disability - Cross Party Group",
-  "purpose": "To address key pan-impairment disability equality issues including implementation of the Social Model of Disability and the right to Independent Living.",
+  "purpose": "The Cross-Party Group on Disability in Wales provides a forum for Senedd Members, disabled people, organisations, and stakeholders to discuss disability issues, raise awareness of barriers faced by disabled people, and promote policies that support equality, inclusion, and accessibility across Wales.",
   "category": null,
   "parliament": "senedd-en",
   "officers": [
     {
       "role": "Chair",
-      "name": "Mark Isherwood",
+      "name": "Gareth Thomas",
       "party": "",
-      "twfy_id": "uk.org.publicwhip/person/26153",
-      "mnis_id": "157",
-      "removed": false
+      "twfy_id": "uk.org.publicwhip/person/26787",
+      "mnis_id": "12148",
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
+    },
+    {
+      "role": "Chair",
+      "name": "Niamh Salkeld",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26744",
+      "mnis_id": "12143",
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
     "source_method": "official",
     "source_url": [
-      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=797"
+      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1070"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
+      {
+        "name": "Gareth Beer",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "8650",
+        "twfy_id": "uk.org.publicwhip/person/26795",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Carmelo Colasanto",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12152",
+        "twfy_id": "uk.org.publicwhip/person/26796",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Alun Cox",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "4491",
+        "twfy_id": "uk.org.publicwhip/person/26733",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Sara Crowley",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12150",
+        "twfy_id": "uk.org.publicwhip/person/26788",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Donna Cushing",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12168",
+        "twfy_id": "uk.org.publicwhip/person/26792",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
       {
         "name": "Mike Hedges",
         "is_officer": false,
         "member_type": "ms",
         "mnis_id": "332",
         "twfy_id": "uk.org.publicwhip/person/26141",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Delyth Jewell",
+        "name": "David Hughes",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "5207",
-        "twfy_id": "uk.org.publicwhip/person/26252",
-        "removed": false
+        "mnis_id": "12159",
+        "twfy_id": "uk.org.publicwhip/person/26789",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Helen Jenner",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12153",
+        "twfy_id": "uk.org.publicwhip/person/26738",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Claire Johnson-Wood",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12188",
+        "twfy_id": "uk.org.publicwhip/person/26777",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Iain McIntosh",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12170",
+        "twfy_id": "uk.org.publicwhip/person/26745",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Anna Nicholl",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12178",
+        "twfy_id": "uk.org.publicwhip/person/26766",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Peredur Owen Griffiths",
@@ -43,47 +201,27 @@
         "member_type": "ms",
         "mnis_id": "8579",
         "twfy_id": "uk.org.publicwhip/person/26255",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Sioned Williams",
+        "name": "Shav Taj",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "8670",
-        "twfy_id": "uk.org.publicwhip/person/26234",
-        "removed": false
-      },
-      {
-        "name": "Disability Wales - Disability Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Learning Disability Wales - Learning Disability Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Wales Council for the Blind - Wales Council for the Blind",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Wales Council for the Deaf - Wales Council for the Deaf",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "12175",
+        "twfy_id": "uk.org.publicwhip/person/26753",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -96,16 +234,26 @@
     "secretariat": null,
     "website": {
       "status": "register",
-      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=797"
+      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1070"
     }
   },
   "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "",
-  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=797",
+  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1070",
   "categories": [
     "Human Rights, Equality & Social Justice",
     "Social Care, Welfare & Family Support"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1070",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

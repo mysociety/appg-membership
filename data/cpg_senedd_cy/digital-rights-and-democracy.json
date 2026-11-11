@@ -18,7 +18,13 @@
         "member_type": "ms",
         "mnis_id": "8625",
         "twfy_id": "uk.org.publicwhip/person/26240",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Samuel Kurtz",
@@ -26,7 +32,13 @@
         "member_type": "ms",
         "mnis_id": "8642",
         "twfy_id": "uk.org.publicwhip/person/26239",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Jim Killock - Open Rights Group",
@@ -34,7 +46,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       }
     ]
   },
@@ -58,5 +76,15 @@
   "categories": [
     "Governance, Democracy & Political Reform",
     "Science, Technology & Innovation"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "833",
+    "term": 6,
+    "evidence_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/cross-party-groups-sixth-senedd-2021-2026/",
+    "verified": true,
+    "observed_on": null,
+    "valid_from": null,
+    "valid_until": "2026-04-08",
+    "end_reason": "term_ended"
+  }
 }

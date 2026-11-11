@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26139",
       "mnis_id": "425",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": null,
+        "valid_from": null,
+        "valid_until": "2026-04-08",
+        "end_reason": "term_ended"
+      }
     }
   ],
   "members_list": {
@@ -27,7 +33,13 @@
         "member_type": "ms",
         "mnis_id": "225",
         "twfy_id": "uk.org.publicwhip/person/26124",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Gareth Davies",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "8571",
         "twfy_id": "uk.org.publicwhip/person/26250",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "James Evans",
@@ -43,7 +61,13 @@
         "member_type": "ms",
         "mnis_id": "8585",
         "twfy_id": "uk.org.publicwhip/person/26248",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Peter Fox",
@@ -51,7 +75,13 @@
         "member_type": "ms",
         "mnis_id": "4787",
         "twfy_id": "uk.org.publicwhip/person/26247",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Joel James",
@@ -59,7 +89,13 @@
         "member_type": "ms",
         "mnis_id": "8687",
         "twfy_id": "uk.org.publicwhip/person/26254",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Samuel Kurtz",
@@ -67,7 +103,13 @@
         "member_type": "ms",
         "mnis_id": "8642",
         "twfy_id": "uk.org.publicwhip/person/26239",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Sam Rowlands",
@@ -75,7 +117,13 @@
         "member_type": "ms",
         "mnis_id": "8734",
         "twfy_id": "uk.org.publicwhip/person/26237",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Mike Hedges",
@@ -83,7 +131,13 @@
         "member_type": "ms",
         "mnis_id": "332",
         "twfy_id": "uk.org.publicwhip/person/26141",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Julie Harrington - British Horseracing Association",
@@ -91,7 +145,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       }
     ]
   },
@@ -116,5 +176,15 @@
     "Sport, Recreation & Physical Activity",
     "Economy, Business & Industry",
     "Regions, Nations & Devolution"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "825",
+    "term": 6,
+    "evidence_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/cross-party-groups-sixth-senedd-2021-2026/",
+    "verified": true,
+    "observed_on": null,
+    "valid_from": null,
+    "valid_until": "2026-04-08",
+    "end_reason": "term_ended"
+  }
 }

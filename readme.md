@@ -373,6 +373,115 @@ The output files follow the same format as UK APPGs for consistency, with:
 - **English detail pages**: `https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID={id}`
 - **Welsh detail pages**: `https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID={id}`
 
+
+### Senedd membership lifecycle
+
+The default `register` and `members` resources contain current registrations and
+memberships only. Senedd records include `registration_id` (term plus official
+body ID), `senedd_term`, `valid_from`, `valid_until`, `end_reason` and `observed_on`.
+Join a membership to its group using **parliament and slug**; slugs are shared
+across chambers and language versions. Use `registration_id` to distinguish
+Senedd registrations across terms.
+
+Date bounds are half-open: `valid_from <= date < valid_until`. Unknown starts
+remain null. `valid_until` is the latest possible end established by the evidence;
+it does not prove uninterrupted membership before that date. `observed_on` is
+our first dated observation of a membership spell or registration, and
+`last_updated` records the source observation date. Neither is a membership start.
+Legacy records without a known observation date retain null dates.
+
+All Sixth Senedd registrations expire on **8 April 2026**, when dissolution began.
+Returning MSs and similarly named groups do not inherit memberships in the new
+term. Seventh Senedd registrations require fresh official register evidence and
+cannot predate **1 July 2026**, the end of the CPG registration grace period.
+
+The boundaries and evidence URLs are configured as typed `SeneddTerm` records in
+`senedd_lifecycle.py`. Update this configuration when the next dissolution date
+is officially established, and configure the next term before importing its
+register. An unknown term is excluded. A scrape date alone never identifies the
+term of a legacy record.
+
+For an MS, current output also requires a matching Senedd service spell in
+Popolo. A departure bounds both ordinary and officer memberships; a later return
+cannot revive evidence collected before that departure. Contiguous party/whip
+changes are merged when Popolo identifies them as such. Other-chamber service,
+unresolved parliamentary identities and approximate service dates cannot verify
+current MS membership. External members remain subject to group closure.
+
+A refresh validates the current-register section and every English and Welsh
+detail page before modifying saved registrations. Failed or partial fetches,
+unrecognised layouts and archive pages abort the refresh. A recognised empty
+register closes all previously current registrations. Groups and memberships
+missing from a complete new snapshot receive an end bound at the new observation
+date (`no_longer_listed`); their exact earlier departure date may be unknown.
+Term and parliamentary-service expiry are also applied during the dataset build,
+so a failed refresh cannot extend an expired membership. The existing publication
+workflow now runs daily at 06:17 UTC. On scheduled runs it attempts a Senedd refresh
+before building; a failed scrape does not prevent the expiry build. This schedule
+takes effect when the workflow is merged onto the default branch.
+
+Immutable JSON snapshots live under `data/history/senedd-en/` and
+`data/history/senedd-cy/`. Within each term/body-ID folder, filenames use
+`YYYY-MM-DD-<hash>.json`: the date is the first capture date in UTC, and the short
+hash distinguishes different snapshots captured on the same day. Identical
+content keeps its original filename on later reruns. This capture date is separate
+from source observation dates and membership validity.
+The `senedd_register_history` and
+`senedd_members_history` resources retain historical and current evidence with
+term/date bounds. They are evidence collections, not exhaustive timelines: a
+reference may have ceased before its latest possible end. Do not merge them into
+the current membership feed. Raw snapshots preserve earlier names and roles;
+the history tables consolidate repeated evidence for a registration/membership
+observation.
+
+To migrate legacy records and optionally recover overwritten Sixth Senedd data:
+
+```bash
+project migrate-senedd --sixth-ref '3924cf435ed6f9a0aeec53cd07547ae47ec54bd5^'
+project senedd --term-number 7 --no-classify-new-groups
+```
+
+Migration matches source body IDs against official current and Sixth Senedd
+archive listings, records the evidence in `data/raw/senedd/migration_evidence.json`,
+and leaves unverified records out of current exports. The git revision supplies
+historical membership snapshots; it does not establish their observation dates.
+Migration is idempotent. Category classification remains available separately.
+
+Build current and historical resources with `project build` / `dataset build --all`.
+The usual build also performs the existing UK person-ID assignment step. For a
+build that only regenerates resources from the saved records:
+
+```bash
+python -m appg_membership.build_data
+```
+
+Official evidence:
+
+- [Dissolution starts on 8 April 2026](https://senedd.wales/senedd-now/senedd-blog/when-does-the-senedd-end-everything-you-need-to-know-about-dissolution/).
+- [CPG monitoring report, paragraphs 14–15](https://senedd.wales/media/uxuhemdd/cpg-monitoring-report-2024-25.pdf): July registration opening and automatic deregistration at dissolution.
+- [Sixth Senedd archive](https://senedd.wales/archive/sixth-senedd-2021-2026/cross-party-groups-sixth-senedd-2021-2026/): distinguishes groups active at dissolution from groups that had already ceased. Where an exact earlier closure date is unavailable, the dissolution date is only an upper bound.
+
+### TWFY consumer contract and remaining integration
+
+The public TWFY source was inspected on 11 November 2026:
+[`load_appg_membership`](https://github.com/mysociety/theyworkforyou/blob/master/src/twfy_tools/utils/personinfo.py)
+currently limits group lookup to UK APPGs, then selects memberships by slug alone.
+Its membership models do not carry validity dates. The
+[person-info upload helper](https://github.com/mysociety/theyworkforyou/blob/master/src/twfy_tools/db/utils.py)
+updates per-person assignments and supports removing absent people when
+`remove_absent=True`; completely empty uploads need separate verification because
+the helper iterates over keys present in the upload.
+
+Before enabling Senedd CPGs on TWFY, its importer needs to join on parliament plus
+slug, handle both languages, consume only the current resources, and replace/clear
+previous assignments, including an entirely empty Senedd feed. If it displays
+historical references, its models and templates must display `senedd_term` and
+validity bounds from the historical resources. Test a person losing their last
+CPG membership and a term-wide reset. This repository does not own those changes,
+and no production import, database write, publication or frontend validation was
+performed as part of this work. Committee memberships have a separate source
+pipeline and are outside this CPG implementation.
+
 ## Northern Ireland Assembly All-Party Groups
 
 This system can also download and process All-Party Group data from the Northern Ireland Assembly.

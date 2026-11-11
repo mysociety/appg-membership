@@ -1,41 +1,45 @@
 {
   "slug": "autism",
   "title": "Autism - Cross Party Group",
-  "purpose": "Cross-Party Group on Autism is a forum to raise awareness and promote the interests of autistic people, their families and carers in the Senedd and the Welsh Government.",
+  "purpose": "The Cross-Party Group on Autism is a forum to raise awareness and promote the interests of autistic people, their families and carers in the Senedd and the Welsh Government.",
   "category": null,
   "parliament": "senedd-en",
   "officers": [
     {
       "role": "Chair",
-      "name": "Mark Isherwood",
+      "name": "Sera Evans",
       "party": "",
-      "twfy_id": "uk.org.publicwhip/person/26153",
-      "mnis_id": "157",
-      "removed": false
+      "twfy_id": "uk.org.publicwhip/person/26734",
+      "mnis_id": "330",
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
     "source_method": "official",
     "source_url": [
-      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=786"
+      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1075"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
       {
-        "name": "Paul Davies",
+        "name": "Jane Dodds",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "145",
-        "twfy_id": "uk.org.publicwhip/person/26127",
-        "removed": false
-      },
-      {
-        "name": "Heledd Fychan",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "426",
-        "twfy_id": "uk.org.publicwhip/person/26245",
-        "removed": false
+        "mnis_id": "4983",
+        "twfy_id": "uk.org.publicwhip/person/25774",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Mike Hedges",
@@ -43,15 +47,13 @@
         "member_type": "ms",
         "mnis_id": "332",
         "twfy_id": "uk.org.publicwhip/person/26141",
-        "removed": false
-      },
-      {
-        "name": "Joyce Watson",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "182",
-        "twfy_id": "uk.org.publicwhip/person/26136",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -64,16 +66,26 @@
     "secretariat": null,
     "website": {
       "status": "register",
-      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=786"
+      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1075"
     }
   },
   "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "",
-  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=786",
+  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1075",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1075",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

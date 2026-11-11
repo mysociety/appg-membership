@@ -11,71 +11,63 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26248",
       "mnis_id": "8585",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
+    },
+    {
+      "role": "Chair",
+      "name": "Darren Millar",
+      "party": "",
+      "twfy_id": "uk.org.publicwhip/person/26182",
+      "mnis_id": "171",
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
     "source_method": "official",
     "source_url": [
-      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=728"
+      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1047"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
       {
-        "name": "Darren Millar",
+        "name": "Andrew Griffin",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "171",
-        "twfy_id": "uk.org.publicwhip/person/26182",
-        "removed": false
+        "mnis_id": "12187",
+        "twfy_id": "uk.org.publicwhip/person/26776",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Rhun ap Iorwerth",
+        "name": "Mike Hedges",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "2717",
-        "twfy_id": "uk.org.publicwhip/person/26165",
-        "removed": false
-      },
-      {
-        "name": "Alun Davies",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "225",
-        "twfy_id": "uk.org.publicwhip/person/26124",
-        "removed": false
-      },
-      {
-        "name": "Peter Fox",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "4787",
-        "twfy_id": "uk.org.publicwhip/person/26247",
-        "removed": false
-      },
-      {
-        "name": "Altaf Hussain",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "543",
-        "twfy_id": "uk.org.publicwhip/person/26154",
-        "removed": false
-      },
-      {
-        "name": "Mark Isherwood",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "157",
-        "twfy_id": "uk.org.publicwhip/person/26153",
-        "removed": false
-      },
-      {
-        "name": "Joel James",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "8687",
-        "twfy_id": "uk.org.publicwhip/person/26254",
-        "removed": false
+        "mnis_id": "332",
+        "twfy_id": "uk.org.publicwhip/person/26141",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Laura Anne Jones",
@@ -83,31 +75,55 @@
         "member_type": "ms",
         "mnis_id": "4562",
         "twfy_id": "uk.org.publicwhip/person/26214",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Samuel Kurtz",
+        "name": "Iain McIntosh",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "8642",
-        "twfy_id": "uk.org.publicwhip/person/26239",
-        "removed": false
+        "mnis_id": "12170",
+        "twfy_id": "uk.org.publicwhip/person/26745",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Rhianon Passmore",
+        "name": "Gareth Thomas",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "4651",
-        "twfy_id": "uk.org.publicwhip/person/26157",
-        "removed": false
+        "mnis_id": "12148",
+        "twfy_id": "uk.org.publicwhip/person/26787",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Sam Rowlands",
+        "name": "Art Wright",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "8734",
-        "twfy_id": "uk.org.publicwhip/person/26237",
-        "removed": false
+        "mnis_id": "12157",
+        "twfy_id": "uk.org.publicwhip/person/26762",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -120,16 +136,26 @@
     "secretariat": null,
     "website": {
       "status": "register",
-      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=728"
+      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1047"
     }
   },
   "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "",
-  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=728",
+  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1047",
   "categories": [
     "Justice, Law & Security",
     "Regions, Nations & Devolution"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1047",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

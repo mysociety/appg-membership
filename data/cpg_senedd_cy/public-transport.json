@@ -1,6 +1,6 @@
 {
   "slug": "public-transport",
-  "title": "Trafnidiaeth Gyhoeddus- Grŵp Trawsbleidiol",
+  "title": "Trafnidiaeth Gyhoeddus - Grŵp Trawsbleidiol",
   "purpose": "Trafod cyfleoedd a heriau trafnidiaeth gyhoeddus o wahanol safbwyntiau.",
   "category": null,
   "parliament": "senedd-cy",
@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26755",
       "mnis_id": "12155",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
@@ -19,7 +25,7 @@
     "source_url": [
       "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1036"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
       {
         "name": "John Davies",
@@ -27,7 +33,13 @@
         "member_type": "ms",
         "mnis_id": "4650",
         "twfy_id": "uk.org.publicwhip/person/26779",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Janet Finch-Saunders",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "212",
         "twfy_id": "uk.org.publicwhip/person/26188",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Paul Rock",
@@ -43,7 +61,13 @@
         "member_type": "ms",
         "mnis_id": "12176",
         "twfy_id": "uk.org.publicwhip/person/26752",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Shav Taj",
@@ -51,7 +75,13 @@
         "member_type": "ms",
         "mnis_id": "12175",
         "twfy_id": "uk.org.publicwhip/person/26753",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Huw Thomas",
@@ -59,7 +89,13 @@
         "member_type": "ms",
         "mnis_id": "12156",
         "twfy_id": "uk.org.publicwhip/person/26759",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -83,5 +119,15 @@
   "categories": [
     "Infrastructure, Transport & Mobility",
     "Regions, Nations & Devolution"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1036",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

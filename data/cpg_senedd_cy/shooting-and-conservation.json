@@ -1,7 +1,7 @@
 {
   "slug": "shooting-and-conservation",
   "title": "Saethu a Chadwraeth - Grŵp Trawsbleidiol",
-  "purpose": "Ymchwilio i’r materion ynghylch saethu a chadwraeth yng Nghymru. Deiliaid swyddi Cadeirydd: James Evans AS Ysgrifennydd: David Boden",
+  "purpose": "Ymchwilio i faterion sy’n ymwneud â saethu a chadwraeth yng Nghymru. Deiliaid swyddi Cadeirydd: James Evans AS Ysgrifennydd: David Boden, BASC Aelodaeth o tu allan i'r Senedd: Y Gynghrair Cefn Gwlad Sefydliad Cenedlaethol y Ciperiaid Cymdeithas Tir a Busnes Cefn Gwlad Cymdeithas Saethu a Chadwraeth Prydain Ymddiriedolaeth Bywyd Gwyllt a Helgig Confor",
   "category": null,
   "parliament": "senedd-cy",
   "officers": [
@@ -11,103 +11,49 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26248",
       "mnis_id": "8585",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
     "source_method": "official",
     "source_url": [
-      "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=844"
+      "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1049"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
-      {
-        "name": "Alun Davies",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "225",
-        "twfy_id": "uk.org.publicwhip/person/26124",
-        "removed": false
-      },
       {
         "name": "Peter Fox",
         "is_officer": false,
         "member_type": "ms",
         "mnis_id": "4787",
         "twfy_id": "uk.org.publicwhip/person/26247",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Llyr Gruffydd",
+        "name": "Elwyn Vaughan",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "425",
-        "twfy_id": "uk.org.publicwhip/person/26139",
-        "removed": false
-      },
-      {
-        "name": "Mark Isherwood",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "157",
-        "twfy_id": "uk.org.publicwhip/person/26153",
-        "removed": false
-      },
-      {
-        "name": "Joel James",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "8687",
-        "twfy_id": "uk.org.publicwhip/person/26254",
-        "removed": false
-      },
-      {
-        "name": "Dominic Boulton - Game Farmers Association",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Charles de Winton - Country Land and Business Association",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Rachel Evans - Countryside Alliance",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Sue Evans - The Game and Wildlife Conservation Trust",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Steve Griffiths - BASC",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Liam Stokes - British Game Alliance",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "8371",
+        "twfy_id": "uk.org.publicwhip/person/26778",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -120,16 +66,26 @@
     "secretariat": null,
     "website": {
       "status": "register",
-      "url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=844"
+      "url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1049"
     }
   },
   "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "",
-  "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=844",
+  "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1049",
   "categories": [
     "Environment, Climate & Sustainability",
     "Animals & Animal Welfare"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1049",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

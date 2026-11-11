@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26153",
       "mnis_id": "157",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": null,
+        "valid_from": null,
+        "valid_until": "2026-04-08",
+        "end_reason": "term_ended"
+      }
     }
   ],
   "members_list": {
@@ -27,7 +33,13 @@
         "member_type": "ms",
         "mnis_id": "4983",
         "twfy_id": "uk.org.publicwhip/person/25774",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Janet Finch-Saunders",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "212",
         "twfy_id": "uk.org.publicwhip/person/26188",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "John Griffiths",
@@ -43,7 +61,13 @@
         "member_type": "ms",
         "mnis_id": "153",
         "twfy_id": "uk.org.publicwhip/person/26128",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Mike Hedges",
@@ -51,7 +75,13 @@
         "member_type": "ms",
         "mnis_id": "332",
         "twfy_id": "uk.org.publicwhip/person/26141",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Vikki Howells",
@@ -59,7 +89,13 @@
         "member_type": "ms",
         "mnis_id": "5107",
         "twfy_id": "uk.org.publicwhip/person/26159",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Sioned Williams",
@@ -67,7 +103,13 @@
         "member_type": "ms",
         "mnis_id": "8670",
         "twfy_id": "uk.org.publicwhip/person/26234",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       }
     ]
   },
@@ -90,5 +132,15 @@
   "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=824",
   "categories": [
     "Energy & Utilities"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "824",
+    "term": 6,
+    "evidence_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/cross-party-groups-sixth-senedd-2021-2026/",
+    "verified": true,
+    "observed_on": null,
+    "valid_from": null,
+    "valid_until": "2026-04-08",
+    "end_reason": "term_ended"
+  }
 }

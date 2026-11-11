@@ -1,73 +1,100 @@
 {
   "slug": "further-education-and-skills",
   "title": "Further Education and Skills - Cross Party Group",
-  "purpose": "To discuss and explore potential opportunities for the future skills landscape of Wales.",
+  "purpose": "To explore the opportunities which the further education and skills sector presents to Wales, and how public policy can be shaped to best support learners, employers, and communities. To examine the challenges facing the further education and skills sector, and hear different perspectives to shape shared solutions. To bring together MSs with key sector stakeholders to further the cause of further education colleges in Wales, and highlight the positive contribution that colleges make to our communities.",
   "category": null,
   "parliament": "senedd-en",
-  "officers": [
-    {
-      "role": "Chair",
-      "name": "John Griffiths",
-      "party": "",
-      "twfy_id": "uk.org.publicwhip/person/26128",
-      "mnis_id": "153",
-      "removed": false
-    }
-  ],
+  "officers": [],
   "members_list": {
     "source_method": "official",
     "source_url": [
-      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=826"
+      "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1086"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
-      {
-        "name": "Luke Fletcher",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "8634",
-        "twfy_id": "uk.org.publicwhip/person/26256",
-        "removed": false
-      },
-      {
-        "name": "Mike Hedges",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "332",
-        "twfy_id": "uk.org.publicwhip/person/26141",
-        "removed": false
-      },
       {
         "name": "Vikki Howells",
         "is_officer": false,
         "member_type": "ms",
         "mnis_id": "5107",
         "twfy_id": "uk.org.publicwhip/person/26159",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Laura Anne Jones",
+        "name": "Tom Montgomery",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "4562",
-        "twfy_id": "uk.org.publicwhip/person/26214",
-        "removed": false
+        "mnis_id": "12183",
+        "twfy_id": "uk.org.publicwhip/person/26770",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Samuel Kurtz",
+        "name": "Lynne Neagle",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "8642",
-        "twfy_id": "uk.org.publicwhip/person/26239",
-        "removed": false
+        "mnis_id": "174",
+        "twfy_id": "uk.org.publicwhip/person/26179",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Amy Evans - Colegau Cymru",
+        "name": "Mair Rowlands",
         "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "member_type": "ms",
+        "mnis_id": "5084",
+        "twfy_id": "uk.org.publicwhip/person/26739",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Sam Rowlands",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "8734",
+        "twfy_id": "uk.org.publicwhip/person/26237",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Art Wright",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12157",
+        "twfy_id": "uk.org.publicwhip/person/26762",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -80,16 +107,26 @@
     "secretariat": null,
     "website": {
       "status": "register",
-      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=826"
+      "url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1086"
     }
   },
   "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "",
-  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=826",
+  "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1086",
   "categories": [
     "Education, Skills & Youth",
     "Regions, Nations & Devolution"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1086",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

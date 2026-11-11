@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26141",
       "mnis_id": "332",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": null,
+        "valid_from": null,
+        "valid_until": "2026-04-08",
+        "end_reason": "term_ended"
+      }
     },
     {
       "role": "Vice-Chair",
@@ -19,7 +25,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26245",
       "mnis_id": "426",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": null,
+        "valid_from": null,
+        "valid_until": "2026-04-08",
+        "end_reason": "term_ended"
+      }
     }
   ],
   "members_list": {
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "8625",
         "twfy_id": "uk.org.publicwhip/person/26240",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "John Griffiths",
@@ -43,7 +61,13 @@
         "member_type": "ms",
         "mnis_id": "153",
         "twfy_id": "uk.org.publicwhip/person/26128",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Altaf Hussain",
@@ -51,7 +75,13 @@
         "member_type": "ms",
         "mnis_id": "543",
         "twfy_id": "uk.org.publicwhip/person/26154",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Carolyn Thomas",
@@ -59,7 +89,13 @@
         "member_type": "ms",
         "mnis_id": "5143",
         "twfy_id": "uk.org.publicwhip/person/26251",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Doug Jones - Public &#38; Commercial Service Union &#40;PCS&#41;",
@@ -67,7 +103,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Marianne Owens - Public &#38; Commercial Service Union &#40;PCS&#41;",
@@ -75,7 +117,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Matt Cunningham - Public &#38; Commercial Services Union &#40;PCS&#41;",
@@ -83,7 +131,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       },
       {
         "name": "Grant Williams - Public &#38; Commercial Services Union &#40;PCS&#41;",
@@ -91,7 +145,13 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": null,
+          "valid_from": null,
+          "valid_until": "2026-04-08",
+          "end_reason": "term_ended"
+        }
       }
     ]
   },
@@ -115,5 +175,15 @@
   "categories": [
     "Governance, Democracy & Political Reform",
     "Economy, Business & Industry"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "770",
+    "term": 6,
+    "evidence_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/cross-party-groups-sixth-senedd-2021-2026/",
+    "verified": true,
+    "observed_on": null,
+    "valid_from": null,
+    "valid_until": "2026-04-08",
+    "end_reason": "term_ended"
+  }
 }

@@ -1,161 +1,86 @@
 {
   "slug": "older-people-and-ageing",
   "title": "Pobl Hŷn a Heneiddio - Grŵp Trawsbleidiol",
-  "purpose": "Hybu dealltwriaeth o faterion a wynebir gan bobl hŷn a’r broses heneiddio. Cynnal cyfarfodydd rhwng pobl hŷn, Aelodau’r Senedd a sefydliadau ac asiantaethau perthnasol eraill. Deiliaid swyddi Cadeirydd: Mike Hedges AS Ysgrifennydd: Ceri Cryer",
+  "purpose": "Hybu dealltwriaeth o'r materion y mae pobl hŷn yn eu hwynebu a'r broses o heneiddio. Hwyluso cyfarfodydd rhwng pobl hŷn, Aelodau o'r Senedd a sefydliadau ac asiantaethau perthnasol eraill.",
   "category": null,
   "parliament": "senedd-cy",
-  "officers": [
-    {
-      "role": "Chair",
-      "name": "Mike Hedges",
-      "party": "",
-      "twfy_id": "uk.org.publicwhip/person/26141",
-      "mnis_id": "332",
-      "removed": false
-    }
-  ],
+  "officers": [],
   "members_list": {
     "source_method": "official",
     "source_url": [
-      "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=798"
+      "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1052"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
       {
-        "name": "Janet Finch-Saunders",
+        "name": "Mike Hedges",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "212",
-        "twfy_id": "uk.org.publicwhip/person/26188",
-        "removed": false
+        "mnis_id": "332",
+        "twfy_id": "uk.org.publicwhip/person/26141",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Altaf Hussain",
+        "name": "Iain McIntosh",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "543",
-        "twfy_id": "uk.org.publicwhip/person/26154",
-        "removed": false
+        "mnis_id": "12170",
+        "twfy_id": "uk.org.publicwhip/person/26745",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Joel James",
+        "name": "Darren Millar",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "8687",
-        "twfy_id": "uk.org.publicwhip/person/26254",
-        "removed": false
+        "mnis_id": "171",
+        "twfy_id": "uk.org.publicwhip/person/26182",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Delyth Jewell",
+        "name": "Elfed Williams",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "5207",
-        "twfy_id": "uk.org.publicwhip/person/26252",
-        "removed": false
+        "mnis_id": "12165",
+        "twfy_id": "uk.org.publicwhip/person/26740",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
-        "name": "Peredur Owen Griffiths",
+        "name": "Lyn Ackerman",
         "is_officer": false,
         "member_type": "ms",
-        "mnis_id": "8579",
-        "twfy_id": "uk.org.publicwhip/person/26255",
-        "removed": false
-      },
-      {
-        "name": "Sioned Williams",
-        "is_officer": false,
-        "member_type": "ms",
-        "mnis_id": "8670",
-        "twfy_id": "uk.org.publicwhip/person/26234",
-        "removed": false
-      },
-      {
-        "name": "Huw Bendall - Age Cymru",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Stephanie Griffiths - Social Care Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Joshua Hayman - Older Persons Commissioner for Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Carys Hendry - Age Cymru",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Steve Milsom - Cymru Older Persons Alliance",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Melanie Minty - Care Forum Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Faye Patton - Care and Repair Cymru",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Michael Phillips - Age Cymru",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Roiyah Saltus - University of South Wales",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Lynda Wallis - Vale 50&#43; Strategy Forum",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "Professor John Williams - Department of Law and Criminology, Aberystwyth University",
-        "is_officer": false,
-        "member_type": "other",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
+        "mnis_id": "4967",
+        "twfy_id": "uk.org.publicwhip/person/26760",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -168,15 +93,25 @@
     "secretariat": null,
     "website": {
       "status": "register",
-      "url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=798"
+      "url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1052"
     }
   },
   "agm": null,
   "registrable_benefits": null,
   "detailed_benefits": [],
   "index_date": "",
-  "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=798",
+  "source_url": "https://busnes.senedd.cymru/mgOutsideBodyDetails.aspx?ID=1052",
   "categories": [
     "Social Care, Welfare & Family Support"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1052",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }

@@ -11,7 +11,13 @@
       "party": "",
       "twfy_id": "uk.org.publicwhip/person/26740",
       "mnis_id": "12165",
-      "removed": false
+      "removed": false,
+      "validity": {
+        "observed_on": "2026-11-11",
+        "valid_from": null,
+        "valid_until": null,
+        "end_reason": null
+      }
     }
   ],
   "members_list": {
@@ -19,7 +25,7 @@
     "source_url": [
       "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1042"
     ],
-    "last_updated": null,
+    "last_updated": "2026-11-11",
     "members": [
       {
         "name": "Claire Archibald",
@@ -27,7 +33,13 @@
         "member_type": "ms",
         "mnis_id": "12179",
         "twfy_id": "uk.org.publicwhip/person/26763",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Jane Dodds",
@@ -35,7 +47,13 @@
         "member_type": "ms",
         "mnis_id": "4983",
         "twfy_id": "uk.org.publicwhip/person/25774",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Safa Elhassan",
@@ -43,7 +61,13 @@
         "member_type": "ms",
         "mnis_id": "12189",
         "twfy_id": "uk.org.publicwhip/person/26780",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Mike Hedges",
@@ -51,7 +75,13 @@
         "member_type": "ms",
         "mnis_id": "332",
         "twfy_id": "uk.org.publicwhip/person/26141",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Becca Martin",
@@ -59,7 +89,13 @@
         "member_type": "ms",
         "mnis_id": "12184",
         "twfy_id": "uk.org.publicwhip/person/26768",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       },
       {
         "name": "Gwyn Williams",
@@ -67,7 +103,27 @@
         "member_type": "ms",
         "mnis_id": "5083",
         "twfy_id": "uk.org.publicwhip/person/26783",
-        "removed": false
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
+      },
+      {
+        "name": "Art Wright",
+        "is_officer": false,
+        "member_type": "ms",
+        "mnis_id": "12157",
+        "twfy_id": "uk.org.publicwhip/person/26762",
+        "removed": false,
+        "validity": {
+          "observed_on": "2026-11-11",
+          "valid_from": null,
+          "valid_until": null,
+          "end_reason": null
+        }
       }
     ]
   },
@@ -90,5 +146,15 @@
   "source_url": "https://business.senedd.wales/mgOutsideBodyDetails.aspx?ID=1042",
   "categories": [
     "Social Care, Welfare & Family Support"
-  ]
+  ],
+  "senedd_registration": {
+    "body_id": "1042",
+    "term": 7,
+    "evidence_url": "https://business.senedd.wales/mgListOutsideBodiesByCategory.aspx",
+    "verified": true,
+    "observed_on": "2026-11-11",
+    "valid_from": null,
+    "valid_until": null,
+    "end_reason": null
+  }
 }
