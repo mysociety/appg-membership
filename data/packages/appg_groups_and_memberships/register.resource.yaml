@@ -82,7 +82,7 @@ schema:
   - name: categories
     type: string
     extDtype: str
-    description: Pipe seperated list of (mysociety added) categories for the 
+    description: Pipe seperated list of (mysociety added) categories for the
       APPG
     constraints:
       unique: false
@@ -177,7 +177,7 @@ schema:
   - name: registration_id
     type: string
     extDtype: str
-    description: Senedd registration identity, including term and official body 
+    description: Senedd registration identity, including term and official body
       ID; null for other parliaments
     constraints:
       unique: false
@@ -185,21 +185,21 @@ schema:
   - name: senedd_term
     type: integer
     extDtype: Int64
-    description: Senedd term number; a registration never carries membership 
+    description: Senedd term number; a registration never carries membership
       into another term
     constraints:
       unique: false
     example: '7'
   - name: valid_from
     type: date
-    description: Known membership or registration start, inclusive; null when 
+    description: Known membership or registration start, inclusive; null when
       unknown
     constraints:
       unique: false
     example: ''
   - name: valid_until
     type: date
-    description: Latest possible end, exclusive; not evidence of continuous 
+    description: Latest possible end, exclusive; not evidence of continuous
       membership before this date
     constraints:
       unique: false
@@ -213,7 +213,7 @@ schema:
     example: ''
   - name: observed_on
     type: date
-    description: First dated observation of this membership spell or 
+    description: First dated observation of this membership spell or
       registration; not its start date
     constraints:
       unique: false

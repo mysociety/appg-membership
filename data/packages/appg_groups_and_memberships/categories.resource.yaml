@@ -1,7 +1,7 @@
 title: Categories
 description: Categories added to APPG by mySociety
 custom:
-  row_count: 1284
+  row_count: 1290
 path: categories.parquet
 name: categories
 profile: data-resource
@@ -32,4 +32,4 @@ schema:
     constraints:
       unique: false
     example: Animals & Animal Welfare
-hash: 731117a6a795ffd50cd13af96ac11e7b
+hash: b6f0155099438cc1547d5024dccf64bd
