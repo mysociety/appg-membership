@@ -1,14 +1,37 @@
-from mysoc_validator import Popolo
-from mysoc_validator.models.popolo import Person
+from __future__ import annotations
+
+from typing import NamedTuple
+
+from mysoc_validator_fast import (
+    AltName,
+    ApproxDate,
+    BasicPersonName,
+    LordName,
+    Membership,
+    Person,
+    Popolo,
+)
 
 from .models import APPGList, NameCorrectionList, ineligible_person_ids
 
 
-def get_name_corrections() -> dict[str, str]:
-    return NameCorrectionList.load().as_dict()
+class NameCorrections(NamedTuple):
+    entries: NameCorrectionList
+    lookup: dict[str, str]
 
 
-def name_adaptor(s: str) -> str:
+def get_name_corrections() -> NameCorrections:
+    """
+    Load corrections and build their lookup for one matching run.
+    """
+    entries = NameCorrectionList.load()
+    return NameCorrections(entries=entries, lookup=entries.as_dict())
+
+
+def name_adaptor(s: str, corrections: NameCorrections) -> str:
+    """
+    Normalise a name using the corrections already loaded for this run.
+    """
     s = s.lower().strip()
     # if ends in ' MP' remove it
     if s.endswith(" mp"):
@@ -60,11 +83,7 @@ def name_adaptor(s: str) -> str:
     if s.endswith(","):
         s = s[:-1].strip()
 
-    name_fixes = get_name_corrections()
-
-    s = name_fixes.get(s, s)
-
-    return s
+    return corrections.lookup.get(s, s)
 
 
 def is_lord(s: str) -> bool:
@@ -79,15 +98,54 @@ def is_lord(s: str) -> bool:
     return False
 
 
-def add_person_ids():
+def get_person_names(person: Person) -> list[str]:
+    """
+    Format recorded names without adding the fast validator's extra name variants.
+
+    The fast validator exposes recorded names through model_dump rather than names.
+    """
+    names: list[str] = []
+    for name in person.model_dump().get("other_names", []):
+        if "family_name" in name:
+            names.append(
+                BasicPersonName(
+                    family_name=name["family_name"],
+                    given_name=name.get("given_name") or None,
+                ).nice_name()
+            )
+        elif "name" in name:
+            names.append(AltName(name=name["name"]).nice_name())
+        else:
+            # Name validity dates can be partial and are irrelevant to formatting.
+            name.pop("start_date", None)
+            name.pop("end_date", None)
+            names.append(LordName(**name).nice_name())
+    return names
+
+
+def add_person_ids() -> None:
     items = APPGList.load()
     pop = Popolo.from_parlparse()
+    corrections = get_name_corrections()
 
     name_lookup: dict[str, Person] = {}
+    highest_end_dates: dict[str, ApproxDate] = {}
 
-    for person in pop.persons:
-        for name in person.names:
-            tidied_name = name_adaptor(name.nice_name())
+    # The fast validator scans all memberships on each person.memberships() call.
+    for membership in pop.memberships.root:
+        if not isinstance(membership, Membership):
+            continue
+        end_date = membership.end_date
+        person_id = membership.person_id
+        previous_end_date = highest_end_dates.get(person_id)
+        if end_date and (not previous_end_date or end_date > previous_end_date):
+            highest_end_dates[person_id] = end_date
+
+    for person in pop.persons.root:
+        if not isinstance(person, Person):
+            continue
+        for name in get_person_names(person):
+            tidied_name = name_adaptor(name, corrections)
             if tidied_name in name_lookup:
                 previous_person = name_lookup[tidied_name]
 
@@ -108,17 +166,10 @@ def add_person_ids():
                     pass  # Keep previous
                 # If both have or both don't have datadotparl_id, use end_date logic
                 else:
-                    previous_memberships = previous_person.memberships()
-                    current_memberships = person.memberships()
-                    # get highest end_date for both
-                    previous_highest_end_date = max(
-                        (m.end_date for m in previous_memberships if m.end_date),
-                        default=None,
+                    previous_highest_end_date = highest_end_dates.get(
+                        previous_person.id
                     )
-                    current_highest_end_date = max(
-                        (m.end_date for m in current_memberships if m.end_date),
-                        default=None,
-                    )
+                    current_highest_end_date = highest_end_dates.get(person.id)
                     # if current is higher than previous, replace
                     if current_highest_end_date and (
                         not previous_highest_end_date
@@ -133,7 +184,7 @@ def add_person_ids():
 
     for item in items:
         for officer in item.officers:
-            reduced_name = name_adaptor(officer.name)
+            reduced_name = name_adaptor(officer.name, corrections)
             if reduced_name in name_lookup:
                 person = name_lookup[reduced_name]
                 officer.twfy_id = person.id
@@ -145,7 +196,7 @@ def add_person_ids():
                 if not is_lord(officer.name):
                     bad_names.append(reduced_name)
         for member in item.members_list.members:
-            reduced_name = name_adaptor(member.name)
+            reduced_name = name_adaptor(member.name, corrections)
             if reduced_name in name_lookup:
                 person = name_lookup[reduced_name]
                 member.twfy_id = person.id
@@ -162,7 +213,7 @@ def add_person_ids():
     bad_names = [x for x in bad_names if x != "ignore"]
     bad_names.sort()
 
-    NameCorrectionList.load().add_bad_names(bad_names)
+    corrections.entries.add_bad_names(bad_names)
 
     print(f"Added {len(bad_names)} bad names to the list.")
 

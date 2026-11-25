@@ -6,13 +6,13 @@ resolution-markers = [
     "python_full_version >= '3.14' and sys_platform == 'emscripten'",
     "python_full_version >= '3.14' and sys_platform != 'emscripten' and sys_platform != 'win32'",
     "python_full_version >= '3.12' and python_full_version < '3.14' and sys_platform == 'win32'",
-    "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform == 'win32'",
-    "python_full_version < '3.11.5' and sys_platform == 'win32'",
     "python_full_version >= '3.12' and python_full_version < '3.14' and sys_platform == 'emscripten'",
-    "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform == 'emscripten'",
-    "python_full_version < '3.11.5' and sys_platform == 'emscripten'",
     "python_full_version >= '3.12' and python_full_version < '3.14' and sys_platform != 'emscripten' and sys_platform != 'win32'",
+    "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform == 'win32'",
+    "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform == 'emscripten'",
     "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform != 'emscripten' and sys_platform != 'win32'",
+    "python_full_version < '3.11.5' and sys_platform == 'win32'",
+    "python_full_version < '3.11.5' and sys_platform == 'emscripten'",
     "python_full_version < '3.11.5' and sys_platform != 'emscripten' and sys_platform != 'win32'",
 ]
 
@@ -216,6 +216,7 @@ dependencies = [
     { name = "levenshtein" },
     { name = "markdownify" },
     { name = "mysoc-validator" },
+    { name = "mysoc-validator-fast" },
     { name = "openpyxl" },
     { name = "pydantic", extra = ["email"] },
     { name = "pydantic-ai" },
@@ -263,6 +264,7 @@ requires-dist = [
     { name = "levenshtein", specifier = ">=0.27.1,<0.28" },
     { name = "markdownify", specifier = ">=1.1.0,<2" },
     { name = "mysoc-validator", specifier = ">=1.1.4,<2" },
+    { name = "mysoc-validator-fast", specifier = ">=0.2.3,<0.3" },
     { name = "openpyxl", specifier = ">=3.1,<4" },
     { name = "pydantic", specifier = ">=2.14.1,<3" },
     { name = "pydantic", extras = ["email"], specifier = ">=2.11.3,<3" },
@@ -2733,6 +2735,28 @@ wheels = [
 ]
 
 [[package]]
+name = "mysoc-validator-fast"
+version = "0.2.3"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "pydantic" },
+    { name = "requests" },
+    { name = "rich" },
+    { name = "typer" },
+    { name = "typing-extensions" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/84/39/86515b51e05a48a7e495dd8d65528abcf6428be109c325889954a8707283/mysoc_validator_fast-0.2.3.tar.gz", hash = "sha256:914d18c74d2e839fc3d8102562c7ea46910604784a191dca0cc06fb82ea774f7", size = 1273329, upload-time = "2026-11-04T21:09:51.372Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/0c/0b/691aee003d68627717371bca998771cf0b53488a505a9a500f46af95925e/mysoc_validator_fast-0.2.3-cp311-abi3-macosx_10_12_x86_64.whl", hash = "sha256:2c2051d47da993f781b90b3238d38ed380c998ffcbcf4249a4db35e7d3f79034", size = 1877368, upload-time = "2026-11-04T21:09:39.645Z" },
+    { url = "https://files.pythonhosted.org/packages/0d/be/7629f7870afb714cccd67ebac4292dd4b086fd2611ed2a4e65d654c46d80/mysoc_validator_fast-0.2.3-cp311-abi3-macosx_11_0_arm64.whl", hash = "sha256:6e465229aa0551d99afbeee7e70e56c2d63d99a31971f1c20276d352d9a83753", size = 1788533, upload-time = "2026-11-04T21:09:41.913Z" },
+    { url = "https://files.pythonhosted.org/packages/f1/90/29f2234eec0e3ef6679f8b309497932c432b4af17d9bf7b848c8e5156351/mysoc_validator_fast-0.2.3-cp311-abi3-manylinux_2_28_aarch64.whl", hash = "sha256:96730e3d33de16f7c1b5db986497e72ee7bc2a532be48c53116b7dc1be6732e8", size = 1855225, upload-time = "2026-11-04T21:09:43.394Z" },
+    { url = "https://files.pythonhosted.org/packages/03/f5/e41d35117c827639b514d6adfad9b0db513ea4d474c5546278cf1aca1b1b/mysoc_validator_fast-0.2.3-cp311-abi3-manylinux_2_28_x86_64.whl", hash = "sha256:a3039ea0a13c13217c7421bee957d1b0c05c4adaade9ebb0823594e883e894a2", size = 1926762, upload-time = "2026-11-04T21:09:44.909Z" },
+    { url = "https://files.pythonhosted.org/packages/16/7b/1aa3bcda525692021598c7d6017bb08c4c0a93af130141de76df5fcfc402/mysoc_validator_fast-0.2.3-cp311-abi3-musllinux_1_2_aarch64.whl", hash = "sha256:049154b66c7aba8e9d3720b6dafcf1b713feba63cd2c397ba5f1657b490c9a42", size = 2042059, upload-time = "2026-11-04T21:09:46.732Z" },
+    { url = "https://files.pythonhosted.org/packages/36/47/4386c0924782876141c3cced5074309384a9b8895dc3dc9a0eccd6a0c4ca/mysoc_validator_fast-0.2.3-cp311-abi3-musllinux_1_2_x86_64.whl", hash = "sha256:a42372436830cf8fe36ae50bb6d1c96e29691fdfd23df1912703cd8776610d44", size = 2156557, upload-time = "2026-11-04T21:09:48.303Z" },
+    { url = "https://files.pythonhosted.org/packages/06/ea/299d9130a0fa6a4b968e8749d908e73b721114bda26379d9a8dac1382daa/mysoc_validator_fast-0.2.3-cp311-abi3-win_amd64.whl", hash = "sha256:057464bfaa3763fd7e3e6112785cca5438da96fd64921ea8b3e2a95c8c0201f6", size = 1756661, upload-time = "2026-11-04T21:09:49.934Z" },
+]
+
+[[package]]
 name = "nbclient"
 version = "0.11.0"
 source = { registry = "https://pypi.org/simple" }
@@ -2848,10 +2872,10 @@ version = "2.4.6"
 source = { registry = "https://pypi.org/simple" }
 resolution-markers = [
     "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform == 'win32'",
-    "python_full_version < '3.11.5' and sys_platform == 'win32'",
     "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform == 'emscripten'",
-    "python_full_version < '3.11.5' and sys_platform == 'emscripten'",
     "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform != 'emscripten' and sys_platform != 'win32'",
+    "python_full_version < '3.11.5' and sys_platform == 'win32'",
+    "python_full_version < '3.11.5' and sys_platform == 'emscripten'",
     "python_full_version < '3.11.5' and sys_platform != 'emscripten' and sys_platform != 'win32'",
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/d0/ad/fed0499ce6a338d2a03ebae59cd15093910c8875328855781952abf6c2fe/numpy-2.4.6.tar.gz", hash = "sha256:f3a3570c4a2a16746ac2c31a7c7c7b0c186b95ce902e33db6f28094ed7387dda", size = 20735807, upload-time = "2026-05-18T23:37:14.07Z" }
@@ -3898,10 +3922,10 @@ version = "3.7.2"
 source = { registry = "https://pypi.org/simple" }
 resolution-markers = [
     "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform == 'win32'",
-    "python_full_version < '3.11.5' and sys_platform == 'win32'",
     "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform == 'emscripten'",
-    "python_full_version < '3.11.5' and sys_platform == 'emscripten'",
     "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform != 'emscripten' and sys_platform != 'win32'",
+    "python_full_version < '3.11.5' and sys_platform == 'win32'",
+    "python_full_version < '3.11.5' and sys_platform == 'emscripten'",
     "python_full_version < '3.11.5' and sys_platform != 'emscripten' and sys_platform != 'win32'",
 ]
 dependencies = [
@@ -4815,10 +4839,10 @@ resolution-markers = [
     "python_full_version >= '3.14' and sys_platform == 'emscripten'",
     "python_full_version >= '3.14' and sys_platform != 'emscripten' and sys_platform != 'win32'",
     "python_full_version >= '3.12' and python_full_version < '3.14' and sys_platform == 'win32'",
-    "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform == 'win32'",
     "python_full_version >= '3.12' and python_full_version < '3.14' and sys_platform == 'emscripten'",
-    "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform == 'emscripten'",
     "python_full_version >= '3.12' and python_full_version < '3.14' and sys_platform != 'emscripten' and sys_platform != 'win32'",
+    "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform == 'win32'",
+    "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform == 'emscripten'",
     "python_full_version >= '3.11.5' and python_full_version < '3.12' and sys_platform != 'emscripten' and sys_platform != 'win32'",
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/e2/28/d05a6e0818f302952dc80fb1054a1e617ec6cba9dd8f9cba75df445f3be8/soupsieve-3.0.2.tar.gz", hash = "sha256:841ce01c8e80b3bf95c2f2657f191b024be1cdd9d6c0d24a663af247da81911a", size = 115525, upload-time = "2026-10-12T01:36:25.009Z" }
