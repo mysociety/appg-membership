@@ -7,10 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Peter Dowd",
+      "name": "Liz Twist",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25309",
-      "mnis_id": "4397",
+      "twfy_id": "uk.org.publicwhip/person/25623",
+      "mnis_id": "4618",
       "removed": false
     },
     {
@@ -22,26 +22,26 @@
       "removed": false
     },
     {
+      "role": "Vice Chair",
+      "name": "Peter Dowd",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25309",
+      "mnis_id": "4397",
+      "removed": false
+    },
+    {
       "role": "Officer",
       "name": "Alison Hume",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26523",
       "mnis_id": "5254",
       "removed": false
-    },
-    {
-      "role": "Officer",
-      "name": "Lord Turnberg",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/13272",
-      "mnis_id": "2537",
-      "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Peter Dowd MP",
@@ -206,9 +206,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Peter Dowd MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 8671.",
-    "registered_contact_email": "peter.dowd.mp@parliament.uk",
+    "registered_contact_name": "Liz Twist MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 2221.",
+    "registered_contact_email": "liz.twist.mp@parliament.uk",
     "public_enquiry_point_name": "Rachel McEleny, Genetic Alliance UK. Tel: 0300 124 0441",
     "public_enquiry_point_email": "appg@geneticalliance.org.uk",
     "secretariat": "Genetic Alliance UK acts as the group's secretariat.https://www.geneticalliance.org.uk/",
@@ -218,24 +218,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2024-12-17",
+    "date_of_most_recent_agm": "2026-10-16",
     "published_income_expenditure_statement": false,
     "reporting_year": "17 Dec to 16 Dec",
-    "next_reporting_deadline": "2026-04-17"
+    "next_reporting_deadline": "2027-04-17"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Genetic Alliance UK",
-      "Description": "Secretariat From: 17/12/2024 To: 16/12/2025",
+      "Description": "Secretariat From: 17/12/2025 To: 16/12/2026",
       "Value £s In bands of £1,500": "7,501-9,000",
-      "Received": "17/12/2024",
-      "Registered": "10/01/2025",
+      "Received": "17/12/2025",
+      "Registered": "12/11/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260413",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260413/genetic-rare-and-undiagnosed-conditions.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/genetic-rare-and-undiagnosed-conditions.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"

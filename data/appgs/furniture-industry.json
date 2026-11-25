@@ -7,14 +7,6 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Adam Thompson",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26326",
-      "mnis_id": "5044",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Greg Smith",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25925",
@@ -31,10 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Baroness Taylor of Bolton",
+      "name": "Iqbal Mohamed",
+      "party": "Independent",
+      "twfy_id": "uk.org.publicwhip/person/26620",
+      "mnis_id": "5268",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lorraine Beavers",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10584",
-      "mnis_id": "407",
+      "twfy_id": "uk.org.publicwhip/person/26475",
+      "mnis_id": "5232",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://britishfurnitureconfederation.org.uk/all-party-parliamentary-group/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Adam Thompson",
@@ -208,9 +208,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Adam Thompson MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "adam.thompson.mp@parliament.uk",
+    "registered_contact_name": "Greg Smith MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 4287.",
+    "registered_contact_email": "greg.smith.mp@parliament.uk",
     "public_enquiry_point_name": "Adam Honeysett-Watts, do Different.",
     "public_enquiry_point_email": "adam@dodifferent.uk",
     "secretariat": "do Different. acts as the group's secretariat.https://dodifferent.uk/",
@@ -220,32 +220,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-03-19",
+    "date_of_most_recent_agm": "2026-10-27",
     "published_income_expenditure_statement": false,
     "reporting_year": "19 Mar to 18 Mar",
-    "next_reporting_deadline": "2026-07-19"
+    "next_reporting_deadline": "2027-07-19"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
-      "Source": "Brevia Consulting",
-      "Description": "Brevia Consulting was paid by British Furniture Confederation to act as the group's secretariat. (Originally registered 08/04/2025) From: 19/03/2025 To: 31/12/2025",
-      "Value £s In bands of £1,500": "21,001-22,500",
-      "Received": "19/03/2025",
-      "Registered": "13/01/2026",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
       "Source": "do Different.",
-      "Description": "do Different. is paid by the British Furniture Confederation to act as the group's secretariat. From: 01/01/2026 To: 18/03/2026",
-      "Value £s In bands of £1,500": "6,001-7,500",
-      "Received": "01/01/2026",
-      "Registered": "13/01/2026",
+      "Description": "do Different. is paid by the British Furniture Confederation to act as the group's secretariat. From: 19/03/2026 To: 18/03/2027",
+      "Value £s In bands of £1,500": "28,501-30,000",
+      "Received": "19/03/2026",
+      "Registered": "06/11/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260629",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260629/furniture-industry.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/furniture-industry.htm",
   "categories": [
     "Economy, Business & Industry"
   ]

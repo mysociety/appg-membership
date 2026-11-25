@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.samaritans.org/about-samaritans/research-policy/appg/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Liz Twist",
@@ -59,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "4853",
         "twfy_id": "uk.org.publicwhip/person/25875",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Finlay of Llandaff",
@@ -171,7 +171,7 @@
         "member_type": "mp",
         "mnis_id": "5307",
         "twfy_id": "uk.org.publicwhip/person/26515",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Elaine Stewart",
@@ -396,6 +396,22 @@
         "mnis_id": "5327",
         "twfy_id": "uk.org.publicwhip/person/26582",
         "removed": false
+      },
+      {
+        "name": "Neil Hudson",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4853",
+        "twfy_id": "uk.org.publicwhip/person/25875",
+        "removed": false
+      },
+      {
+        "name": "Beccy Cooper",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5307",
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
       }
     ]
   },
@@ -412,24 +428,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-11-19",
+    "date_of_most_recent_agm": "2026-10-12",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2027-01-10"
+    "next_reporting_deadline": "2028-01-10"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Samaritans",
-      "Description": "Secretariat From: 10/09/2025 To: 09/09/2026",
+      "Description": "Secretariat From: 10/09/2026 To: 09/09/2027",
       "Value £s In bands of £1,500": "7,501-9,000",
-      "Received": "10/09/2025",
-      "Registered": "20/11/2025",
+      "Received": "10/09/2026",
+      "Registered": "15/10/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/suicide-and-self-harm-prevention.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/suicide-and-self-harm-prevention.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"

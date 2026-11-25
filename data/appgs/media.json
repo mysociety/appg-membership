@@ -28,6 +28,14 @@
       "twfy_id": "uk.org.publicwhip/person/12838",
       "mnis_id": "3699",
       "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Matt Turmaine",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26417",
+      "mnis_id": "5130",
+      "removed": false
     }
   ],
   "members_list": {
@@ -35,7 +43,7 @@
     "source_url": [
       "https://www.appgmedia.org/members"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Chris Kane",
@@ -380,21 +388,13 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-12-03",
+    "date_of_most_recent_agm": "2026-10-13",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2027-01-10"
+    "next_reporting_deadline": "2028-01-10"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
-    {
-      "Source": "Whitehouse Communications",
-      "Description": "Whitehouse Communications is funded by the following to act as the group's secretariat: Global, News UK, ScreenSkills, Bauer Media, Pact, Public Interest News Foundation, and British Screen Forum. (originally registered 04/12/2025) From: 10/09/2025 To: 09/09/2026",
-      "Value £s In bands of £1,500": "33,001-34,500",
-      "Received": "10/09/2025",
-      "Registered": "17/02/2026",
-      "benefit_type": "Benefits In Kind"
-    },
     {
       "Source": "Whitehouse Communications",
       "Description": "Reception",
@@ -402,10 +402,18 @@
       "Received": "14/01/2026",
       "Registered": "20/02/2026",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Whitehouse Communications",
+      "Description": "Whitehouse Communications is funded by the following to act as the group's secretariat: Global, Bauer, News UK, Screen Skills, Public Interest News Foundation, and British Screen Forum. From: 10/09/2026 To: 30/11/2026",
+      "Value £s In bands of £1,500": "3,001-4,500",
+      "Received": "10/09/2026",
+      "Registered": "30/11/2026",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/media.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/media.htm",
   "categories": [
     "Arts, Culture, Heritage & Media"
   ]

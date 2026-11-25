@@ -57,21 +57,13 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-11-18",
+    "date_of_most_recent_agm": "2026-10-14",
     "published_income_expenditure_statement": false,
     "reporting_year": "23 Jul to 22 Jul",
-    "next_reporting_deadline": "2026-11-23"
+    "next_reporting_deadline": "2027-11-23"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
-    {
-      "Source": "Bond",
-      "Description": "Secretariat From: 23/07/2025 To: 22/07/2026",
-      "Value £s In bands of £1,500": "7,501-9,000",
-      "Received": "23/07/2025",
-      "Registered": "19/11/2025",
-      "benefit_type": "Benefits In Kind"
-    },
     {
       "Source": "Bond",
       "Description": "Business and the SDGs Conference",
@@ -87,10 +79,18 @@
       "Received": "10/02/2026",
       "Registered": "05/03/2026",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Bond",
+      "Description": "Secretariat From: 23/07/2026 To: 22/07/2027",
+      "Value £s In bands of £1,500": "7,501-9,000",
+      "Received": "23/07/2026",
+      "Registered": "16/10/2026",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/united-nations-global-goals.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/united-nations-global-goals.htm",
   "categories": [
     "International Affairs, Development & Trade"
   ]

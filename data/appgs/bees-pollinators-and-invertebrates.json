@@ -14,7 +14,7 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Officer",
       "name": "Lord Randall of Uxbridge",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10660",
@@ -22,15 +22,15 @@
       "removed": false
     },
     {
-      "role": "Vice Chair",
-      "name": "Sarah Owen",
+      "role": "Officer",
+      "name": "Mary Creagh",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25823",
-      "mnis_id": "4777",
+      "twfy_id": "uk.org.publicwhip/person/11898",
+      "mnis_id": "1579",
       "removed": false
     },
     {
-      "role": "Vice Chair",
+      "role": "Officer",
       "name": "Irene Campbell",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26419",
@@ -41,10 +41,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.royensoc.co.uk/beepollinvertappg/",
-      "https://www.royensoc.co.uk/news/res-policy-news-update-july-2026/"
+      "https://www.royensoc.co.uk/beepollinvertappg/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Barry Gardiner",
@@ -84,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "5122",
         "twfy_id": "uk.org.publicwhip/person/26569",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Blake Stephenson",
@@ -92,7 +91,7 @@
         "member_type": "mp",
         "mnis_id": "5100",
         "twfy_id": "uk.org.publicwhip/person/26355",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Adrian Ramsay",
@@ -100,7 +99,7 @@
         "member_type": "mp",
         "mnis_id": "5320",
         "twfy_id": "uk.org.publicwhip/person/26514",
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -117,24 +116,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-06-24",
+    "date_of_most_recent_agm": "2026-11-11",
     "published_income_expenditure_statement": false,
     "reporting_year": "24 Jun to 23 Jun",
-    "next_reporting_deadline": "2026-10-24"
+    "next_reporting_deadline": "2027-10-24"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Royal Entomological Society",
-      "Description": "Secretariat From: 24/06/2025 To: 23/06/2026",
-      "Value £s In bands of £1,500": "15,001-16,500",
-      "Received": "24/06/2025",
-      "Registered": "16/07/2025",
+      "Description": "Secretariat From: 24/06/2026 To: 23/06/2027",
+      "Value £s In bands of £1,500": "19,501-21,000",
+      "Received": "24/06/2026",
+      "Registered": "11/11/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/bees-pollinators-and-invertebrates.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/bees-pollinators-and-invertebrates.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

@@ -43,7 +43,7 @@
     "source_url": [
       "https://sites.google.com/tusne.org/nuclearenergyappg/chair-members"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Charlotte Nichols",
@@ -243,7 +243,7 @@
         "member_type": "mp",
         "mnis_id": "5116",
         "twfy_id": "uk.org.publicwhip/person/26367",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tom Rutland",
@@ -460,6 +460,14 @@
         "mnis_id": "4156",
         "twfy_id": "uk.org.publicwhip/person/24975",
         "removed": true
+      },
+      {
+        "name": "Gurinder Singh Josan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5059",
+        "twfy_id": "uk.org.publicwhip/person/26348",
+        "removed": false
       }
     ]
   },
@@ -483,8 +491,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/nuclear-energy.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/nuclear-energy.htm",
   "categories": [
     "Energy & Utilities"
   ]

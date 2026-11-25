@@ -6,6 +6,14 @@
   "parliament": "uk",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Chris Bloore",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26357",
+      "mnis_id": "5109",
+      "removed": false
+    },
+    {
       "role": "Officer",
       "name": "Lord Evans of Rainow",
       "party": "Conservative",
@@ -15,25 +23,25 @@
     },
     {
       "role": "Officer",
-      "name": "Chris Bloore",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26357",
-      "mnis_id": "5109",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Jonathan Hinder",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26522",
       "mnis_id": "5264",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Markham",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26093",
+      "mnis_id": "4948",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Clive Betts MP",
@@ -222,9 +230,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Chris Bloore MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "chris.bloore.mp@parliament.uk",
     "public_enquiry_point_name": "iNHouse Communications. Tel: 020 7240 7338",
     "public_enquiry_point_email": "ukpfc@inhouse.london",
     "secretariat": "iNHouse Communications acts as the group's secretariat.https://inhouse.london/",
@@ -250,8 +258,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/football-club.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/football-club.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]

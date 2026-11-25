@@ -43,7 +43,7 @@
     "source_url": [
       "https://netzeroappg.org.uk/who-we-are/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Edward Morello",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "John Whitby",
@@ -355,7 +355,7 @@
         "member_type": "lord",
         "mnis_id": "4336",
         "twfy_id": "uk.org.publicwhip/person/25250",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Young",
@@ -404,8 +404,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/net-zero.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/net-zero.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

@@ -6,6 +6,22 @@
   "parliament": "uk",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Ben Coleman",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26602",
+      "mnis_id": "5344",
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Dawn Butler",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/11447",
+      "mnis_id": "1489",
+      "removed": false
+    },
+    {
       "role": "Co-Chair",
       "name": "Lord Ranger of Northwood",
       "party": "Conservative",
@@ -20,14 +36,6 @@
       "twfy_id": "uk.org.publicwhip/person/25820",
       "mnis_id": "4776",
       "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Natasha Irons",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26404",
-      "mnis_id": "5119",
-      "removed": false
     }
   ],
   "members_list": {
@@ -35,7 +43,7 @@
     "source_url": [
       "https://www.londoncouncils.gov.uk/all-party-parliamentary-group-appg-london"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Florence Eshalomi",
@@ -347,14 +355,22 @@
         "member_type": "mp",
         "mnis_id": "3699",
         "twfy_id": "uk.org.publicwhip/person/12838",
+        "removed": true
+      },
+      {
+        "name": "Ben Coleman",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5344",
+        "twfy_id": "uk.org.publicwhip/person/26602",
         "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Ben Coleman MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "ben.coleman.mp@parliament.uk",
     "public_enquiry_point_name": "Daniel Kosky, London Councils",
     "public_enquiry_point_email": "daniel.kosky@londoncouncils.gov.uk",
     "secretariat": "London Councils acts as the group's secretariat.https://www.londoncouncils.gov.uk",
@@ -380,8 +396,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/london.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/london.htm",
   "categories": [
     "Regions, Nations & Devolution"
   ]

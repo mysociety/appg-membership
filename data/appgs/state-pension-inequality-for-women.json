@@ -43,7 +43,7 @@
     "source_url": [
       "https://rebeccalongbailey.com/spifwlist/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Rebecca Long-Bailey",
@@ -59,7 +59,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Julian Lewis",
@@ -635,7 +635,7 @@
         "member_type": "mp",
         "mnis_id": "5206",
         "twfy_id": "uk.org.publicwhip/person/26598",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Mary Kelly Foy",
@@ -659,7 +659,7 @@
         "member_type": "mp",
         "mnis_id": "4995",
         "twfy_id": "uk.org.publicwhip/person/26270",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Bryn Davies of Brixton",
@@ -667,7 +667,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Kirith Entwistle",
@@ -675,7 +675,7 @@
         "member_type": "mp",
         "mnis_id": "5095",
         "twfy_id": "uk.org.publicwhip/person/26378",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Pamela Nash",
@@ -683,7 +683,7 @@
         "member_type": "mp",
         "mnis_id": "3909",
         "twfy_id": "uk.org.publicwhip/person/24737",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Nia Griffith",
@@ -691,7 +691,7 @@
         "member_type": "mp",
         "mnis_id": "1541",
         "twfy_id": "uk.org.publicwhip/person/11692",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Elaine Stewart MP",
@@ -699,7 +699,7 @@
         "member_type": "mp",
         "mnis_id": "5206",
         "twfy_id": "uk.org.publicwhip/person/26598",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sarah Dyke MP",
@@ -707,7 +707,7 @@
         "member_type": "mp",
         "mnis_id": "4995",
         "twfy_id": "uk.org.publicwhip/person/26270",
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -731,8 +731,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/state-pension-inequality-for-women.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/state-pension-inequality-for-women.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

@@ -41,10 +41,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.menandboys.org.uk/policy-and-research/appg-summary",
-      "https://cdn.prod.website-files.com/68e000877f13a12f91fcdd4a/69c3f52afd325ccf2e10f6c8_Membership%20Names%20APPG%20Men%20and%20Boys%20(March%202026).pdf"
+      "https://cdn.prod.website-files.com/68e000877f13a12f91fcdd4a/6b003ccb5b182e050f409e27_Membership%20Names%20APPG%20Men%20and%20Boys%20(Nov%202026).pdf"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Mims Davies",
@@ -436,7 +435,7 @@
         "member_type": "lord",
         "mnis_id": "4931",
         "twfy_id": "uk.org.publicwhip/person/26052",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Ponsonby",
@@ -492,7 +491,7 @@
         "member_type": "lord",
         "mnis_id": "4184",
         "twfy_id": "uk.org.publicwhip/person/25003",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Farmer",
@@ -500,6 +499,22 @@
         "member_type": "lord",
         "mnis_id": "4321",
         "twfy_id": "uk.org.publicwhip/person/25233",
+        "removed": true
+      },
+      {
+        "name": "Chris Evans",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4040",
+        "twfy_id": "uk.org.publicwhip/person/24721",
+        "removed": false
+      },
+      {
+        "name": "Lord Evans",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
@@ -517,15 +532,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-11-05",
+    "date_of_most_recent_agm": "2026-11-18",
     "published_income_expenditure_statement": false,
     "reporting_year": "11 Sep to 10 Sep",
-    "next_reporting_deadline": "2027-01-11"
+    "next_reporting_deadline": "2028-01-11"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/men-and-boys-issues.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/men-and-boys-issues.htm",
   "categories": [
     "Social Care, Welfare & Family Support"
   ]

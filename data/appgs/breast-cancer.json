@@ -43,7 +43,7 @@
     "source_url": [
       "https://breastcancernow.org/get-involved/campaign-with-us/developing-policy-and-working-with-government/the-all-party-parliamentary-group-on-breast-cancer"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Clive Jones",
@@ -131,7 +131,7 @@
         "member_type": "mp",
         "mnis_id": "4110",
         "twfy_id": "uk.org.publicwhip/person/24725",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alex Brewer",
@@ -187,7 +187,7 @@
         "member_type": "mp",
         "mnis_id": "5310",
         "twfy_id": "uk.org.publicwhip/person/26584",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Alex Easton",
@@ -211,7 +211,7 @@
         "member_type": "mp",
         "mnis_id": "5322",
         "twfy_id": "uk.org.publicwhip/person/26560",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Mary Kelly Foy",
@@ -227,7 +227,7 @@
         "member_type": "mp",
         "mnis_id": "4932",
         "twfy_id": "uk.org.publicwhip/person/26055",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Rachel Gilmour",
@@ -259,7 +259,7 @@
         "member_type": "mp",
         "mnis_id": "5321",
         "twfy_id": "uk.org.publicwhip/person/26570",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Alice Macdonald",
@@ -291,7 +291,7 @@
         "member_type": "mp",
         "mnis_id": "5214",
         "twfy_id": "uk.org.publicwhip/person/26509",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Perran Moon",
@@ -323,7 +323,7 @@
         "member_type": "mp",
         "mnis_id": "1466",
         "twfy_id": "uk.org.publicwhip/person/11132",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Josh Newbury",
@@ -427,7 +427,7 @@
         "member_type": "mp",
         "mnis_id": "5310",
         "twfy_id": "uk.org.publicwhip/person/26584",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mr Will Forster",
@@ -435,7 +435,7 @@
         "member_type": "mp",
         "mnis_id": "5322",
         "twfy_id": "uk.org.publicwhip/person/26560",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mr Louie French",
@@ -443,7 +443,7 @@
         "member_type": "mp",
         "mnis_id": "4932",
         "twfy_id": "uk.org.publicwhip/person/26055",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mr Paul Kohler",
@@ -451,7 +451,7 @@
         "member_type": "mp",
         "mnis_id": "5321",
         "twfy_id": "uk.org.publicwhip/person/26570",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dr Brian Mathew",
@@ -459,7 +459,7 @@
         "member_type": "mp",
         "mnis_id": "5214",
         "twfy_id": "uk.org.publicwhip/person/26509",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dr Andrew Murrison",
@@ -467,7 +467,7 @@
         "member_type": "mp",
         "mnis_id": "1466",
         "twfy_id": "uk.org.publicwhip/person/11132",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sharon Hodgson",
@@ -475,6 +475,22 @@
         "member_type": "mp",
         "mnis_id": "1521",
         "twfy_id": "uk.org.publicwhip/person/11592",
+        "removed": false
+      },
+      {
+        "name": "Karen Bradley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4110",
+        "twfy_id": "uk.org.publicwhip/person/24725",
+        "removed": false
+      },
+      {
+        "name": "Kevin McKenna",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5300",
+        "twfy_id": "uk.org.publicwhip/person/26529",
         "removed": false
       }
     ]
@@ -508,8 +524,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/breast-cancer.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/breast-cancer.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

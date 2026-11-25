@@ -7,22 +7,6 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Dr Beccy Cooper",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26515",
-      "mnis_id": "5307",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
-      "name": "Lord Mackinlay of Richborough",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25437",
-      "mnis_id": "4529",
-      "removed": false
-    },
-    {
-      "role": "Secretary",
       "name": "Dr Danny Chambers",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26607",
@@ -30,11 +14,27 @@
       "removed": false
     },
     {
-      "role": "Treasurer",
+      "role": "Vice Chair",
+      "name": "Dr Zubir Ahmed",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26483",
+      "mnis_id": "5213",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
       "name": "Baroness Bennett of Manor Castle",
       "party": "Green Party",
       "twfy_id": "uk.org.publicwhip/person/25776",
       "mnis_id": "4719",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Mackinlay of Richborough",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25437",
+      "mnis_id": "4529",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgamr.com/members/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Dr Beccy Cooper",
@@ -51,7 +51,7 @@
         "member_type": "mp",
         "mnis_id": "5307",
         "twfy_id": "uk.org.publicwhip/person/26515",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Mackinlay of Richborough",
@@ -67,7 +67,7 @@
         "member_type": "mp",
         "mnis_id": "5304",
         "twfy_id": "uk.org.publicwhip/person/26607",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bennett of Manor Castle",
@@ -83,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "4573",
         "twfy_id": "uk.org.publicwhip/person/25579",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Wendy Morton",
@@ -139,7 +139,7 @@
         "member_type": "mp",
         "mnis_id": "4853",
         "twfy_id": "uk.org.publicwhip/person/25875",
-        "removed": false
+        "removed": true
       },
       {
         "name": "The Rt Hon Jeremy Hunt",
@@ -219,7 +219,7 @@
         "member_type": "other",
         "mnis_id": "1572",
         "twfy_id": "uk.org.publicwhip/person/11859",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Goldsmith of Richmond Park",
@@ -251,7 +251,7 @@
         "member_type": "lord",
         "mnis_id": "3862",
         "twfy_id": "uk.org.publicwhip/person/24707",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Darzi of Denham",
@@ -260,13 +260,69 @@
         "mnis_id": "3779",
         "twfy_id": "uk.org.publicwhip/person/13932",
         "removed": false
+      },
+      {
+        "name": "Danny Chambers",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5304",
+        "twfy_id": "uk.org.publicwhip/person/26607",
+        "removed": false
+      },
+      {
+        "name": "Zubir Ahmed",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5213",
+        "twfy_id": "uk.org.publicwhip/person/26483",
+        "removed": false
+      },
+      {
+        "name": "Sir Jeremy Hunt",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1572",
+        "twfy_id": "uk.org.publicwhip/person/11859",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Fleur Anderson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4788",
+        "twfy_id": "uk.org.publicwhip/person/25813",
+        "removed": false
+      },
+      {
+        "name": "Rosena Allin-Khan",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4573",
+        "twfy_id": "uk.org.publicwhip/person/25579",
+        "removed": false
+      },
+      {
+        "name": "Neil Hudson",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4853",
+        "twfy_id": "uk.org.publicwhip/person/25875",
+        "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Dr Beccy Cooper MP",
+    "registered_contact_name": "Dr Danny Chambers MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "beccy.cooper.mp@parliament.uk",
+    "registered_contact_email": "danny.chambers.mp@parliament.uk",
     "public_enquiry_point_name": "Rhian Foley, British Society for Antimicrobial Chemotherapy. Tel: 0121 236 1988",
     "public_enquiry_point_email": "rfoley@bsac.org.uk",
     "secretariat": "British Society for Antimicrobial Chemotherapy acts as the group's secretariat.http://bsac.org.uk/",
@@ -292,8 +348,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/antimicrobial-resistance.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/antimicrobial-resistance.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Science, Technology & Innovation"

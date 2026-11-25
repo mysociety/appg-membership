@@ -7,10 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Ms Polly Billington",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26360",
-      "mnis_id": "5123",
+      "name": "Gareth Thomas",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/10594",
+      "mnis_id": "177",
       "removed": false
     },
     {
@@ -23,10 +23,10 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Uma Kumaran",
+      "name": "Bill Esterson",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26542",
-      "mnis_id": "5278",
+      "twfy_id": "uk.org.publicwhip/person/24905",
+      "mnis_id": "4061",
       "removed": false
     },
     {
@@ -39,387 +39,15 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://renewables.inparliament.uk/people",
-      "https://renewables.inparliament.uk/people/registered-members"
-    ],
-    "last_updated": "2026-10-12",
-    "members": [
-      {
-        "name": "Polly Billington",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5123",
-        "twfy_id": "uk.org.publicwhip/person/26360",
-        "removed": false
-      },
-      {
-        "name": "Wera Hobhouse",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4602",
-        "twfy_id": "uk.org.publicwhip/person/25648",
-        "removed": false
-      },
-      {
-        "name": "The Lord Callanan",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": "4336",
-        "twfy_id": "uk.org.publicwhip/person/25250",
-        "removed": false
-      },
-      {
-        "name": "Jack Abbott",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5131",
-        "twfy_id": "uk.org.publicwhip/person/26385",
-        "removed": false
-      },
-      {
-        "name": "Uma Kumaran",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5278",
-        "twfy_id": "uk.org.publicwhip/person/26542",
-        "removed": false
-      },
-      {
-        "name": "Baroness Ritchie of Downpatrick",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": "4130",
-        "twfy_id": "uk.org.publicwhip/person/13856",
-        "removed": false
-      },
-      {
-        "name": "Baron Marks of Hale CBE",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Andrew Pakes",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5243",
-        "twfy_id": "uk.org.publicwhip/person/26601",
-        "removed": false
-      },
-      {
-        "name": "Angus MacDonald",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5362",
-        "twfy_id": "uk.org.publicwhip/person/26637",
-        "removed": false
-      },
-      {
-        "name": "Sam Rushworth",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5108",
-        "twfy_id": "uk.org.publicwhip/person/26323",
-        "removed": false
-      },
-      {
-        "name": "Perran Moon",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5208",
-        "twfy_id": "uk.org.publicwhip/person/26482",
-        "removed": false
-      },
-      {
-        "name": "Victoria Collins",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5201",
-        "twfy_id": "uk.org.publicwhip/person/26539",
-        "removed": false
-      },
-      {
-        "name": "Sarah Dyke",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4995",
-        "twfy_id": "uk.org.publicwhip/person/26270",
-        "removed": false
-      },
-      {
-        "name": "Adrian Ramsay",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5320",
-        "twfy_id": "uk.org.publicwhip/person/26514",
-        "removed": false
-      },
-      {
-        "name": "Vikki Slade",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5327",
-        "twfy_id": "uk.org.publicwhip/person/26582",
-        "removed": false
-      },
-      {
-        "name": "Henry Tufnell",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5121",
-        "twfy_id": "uk.org.publicwhip/person/26387",
-        "removed": false
-      },
-      {
-        "name": "Brian Mathew",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5214",
-        "twfy_id": "uk.org.publicwhip/person/26509",
-        "removed": false
-      },
-      {
-        "name": "Edward Morello",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5326",
-        "twfy_id": "uk.org.publicwhip/person/26604",
-        "removed": false
-      },
-      {
-        "name": "Anna Sabine",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5286",
-        "twfy_id": "uk.org.publicwhip/person/26497",
-        "removed": false
-      },
-      {
-        "name": "Bill Esterson",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4061",
-        "twfy_id": "uk.org.publicwhip/person/24905",
-        "removed": false
-      },
-      {
-        "name": "Graham Stuart",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "1482",
-        "twfy_id": "uk.org.publicwhip/person/11406",
-        "removed": false
-      },
-      {
-        "name": "Steve Race",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5064",
-        "twfy_id": "uk.org.publicwhip/person/26345",
-        "removed": false
-      },
-      {
-        "name": "Luke Taylor",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5103",
-        "twfy_id": "uk.org.publicwhip/person/26443",
-        "removed": false
-      },
-      {
-        "name": "Luke Murphy",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5248",
-        "twfy_id": "uk.org.publicwhip/person/26488",
-        "removed": false
-      },
-      {
-        "name": "Luke Myer",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5147",
-        "twfy_id": "uk.org.publicwhip/person/26411",
-        "removed": false
-      },
-      {
-        "name": "Jayne Kirkham",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5279",
-        "twfy_id": "uk.org.publicwhip/person/26525",
-        "removed": false
-      },
-      {
-        "name": "Yuan Yang",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5267",
-        "twfy_id": "uk.org.publicwhip/person/26600",
-        "removed": false
-      },
-      {
-        "name": "Gill German",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5104",
-        "twfy_id": "uk.org.publicwhip/person/26394",
-        "removed": false
-      },
-      {
-        "name": "Harriet Cross",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5311",
-        "twfy_id": "uk.org.publicwhip/person/26538",
-        "removed": false
-      },
-      {
-        "name": "Jess Brown-Fuller",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5335",
-        "twfy_id": "uk.org.publicwhip/person/26372",
-        "removed": false
-      },
-      {
-        "name": "Alistair Strathern",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5000",
-        "twfy_id": "uk.org.publicwhip/person/26278",
-        "removed": false
-      },
-      {
-        "name": "Gideon Amos",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5250",
-        "twfy_id": "uk.org.publicwhip/person/26531",
-        "removed": false
-      },
-      {
-        "name": "Alex Brewer",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5263",
-        "twfy_id": "uk.org.publicwhip/person/26366",
-        "removed": false
-      },
-      {
-        "name": "Tom Collins",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5087",
-        "twfy_id": "uk.org.publicwhip/person/26351",
-        "removed": false
-      },
-      {
-        "name": "Melanie Onn",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4464",
-        "twfy_id": "uk.org.publicwhip/person/25317",
-        "removed": false
-      },
-      {
-        "name": "Josh Newbury",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5034",
-        "twfy_id": "uk.org.publicwhip/person/26317",
-        "removed": false
-      },
-      {
-        "name": "Helena Dollimore",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5192",
-        "twfy_id": "uk.org.publicwhip/person/26507",
-        "removed": false
-      },
-      {
-        "name": "Tessa Munt",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "4089",
-        "twfy_id": "uk.org.publicwhip/person/24942",
-        "removed": false
-      },
-      {
-        "name": "Jess Asato",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5156",
-        "twfy_id": "uk.org.publicwhip/person/26386",
-        "removed": false
-      },
-      {
-        "name": "Sarah Gibson",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5239",
-        "twfy_id": "uk.org.publicwhip/person/26585",
-        "removed": false
-      },
-      {
-        "name": "James Naith",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5047",
-        "twfy_id": "uk.org.publicwhip/person/26329",
-        "removed": false
-      },
-      {
-        "name": "Katie White",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5260",
-        "twfy_id": "uk.org.publicwhip/person/26520",
-        "removed": false
-      },
-      {
-        "name": "Tim Roca",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5287",
-        "twfy_id": "uk.org.publicwhip/person/26549",
-        "removed": false
-      },
-      {
-        "name": "Steff Aquarone",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5164",
-        "twfy_id": "uk.org.publicwhip/person/26491",
-        "removed": false
-      },
-      {
-        "name": "Anna Gelderd",
-        "is_officer": false,
-        "member_type": "mp",
-        "mnis_id": "5353",
-        "twfy_id": "uk.org.publicwhip/person/26618",
-        "removed": false
-      },
-      {
-        "name": "Baron Marks of Hale",
-        "is_officer": false,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-11-25",
+    "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Ms Polly Billington MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "polly.billington.mp@parliament.uk",
+    "registered_contact_name": "Gareth Thomas MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 4243.",
+    "registered_contact_email": "gareth.thomas.mp@parliament.uk",
     "public_enquiry_point_name": "James Seabridge, PRASEG Ltd",
     "public_enquiry_point_email": "appg@praseg.org.uk",
     "secretariat": "PRASEG Ltd acts as the group's secretariat.http://www.praseg.org.uk/",
@@ -429,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-11-24",
+    "date_of_most_recent_agm": "2026-10-21",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Sep to 03 Sep",
-    "next_reporting_deadline": "2027-01-04"
+    "next_reporting_deadline": "2028-01-04"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "PRASEG Ltd",
-      "Description": "PRASEG Ltd is paid by the following to act as the group's secretariat: ADE, Bluestone, Cadent, Drax, EON, Ørsted , Renewable UK, Solar Energy UK, and SAV Systems. From: 04/09/2025 To: 03/09/2026",
-      "Value £s In bands of £1,500": "43,501-45,000",
-      "Received": "04/09/2025",
-      "Registered": "16/12/2025",
+      "Description": "PRASEG Ltd is paid by the following to act as the group's secretariat: ADE, EON, Heat NIC, Northern Powergrid, Orsted, Renewable UK, Drax, Solar Energy UK, SAV Systems, Warmworks, AB Inbev, BP, Calor, Community Energy England, Durham energy Institute, ENA, Energy Savings Trust, ESB, HPA UK, Lightsource BP, Liquid Gas UK, Low Carbon Ltd, MCS Charitable Foundation, NEA, Octopus Energy, Offshore Wind Catapult, RSPB, Scottish Power, SSE, Sustainable Energy Association, University of Southampton, Vinci Construction Management (Taylor Woodrow), VPI, Bluestone, Cadent, Crown Estate, Exolum, and RES. From: 04/09/2026 To: 03/09/2027",
+      "Value £s In bands of £1,500": "54,001-55,500",
+      "Received": "04/09/2026",
+      "Registered": "21/10/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/renewable-and-sustainable-energy.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/renewable-and-sustainable-energy.htm",
   "categories": [
     "Energy & Utilities",
     "Environment, Climate & Sustainability"

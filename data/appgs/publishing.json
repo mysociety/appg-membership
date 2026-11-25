@@ -14,7 +14,7 @@
       "removed": false
     },
     {
-      "role": "Co-Chair",
+      "role": "Vice Chair",
       "name": "Baroness Rebuck",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25234",
@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Sir Julian Lewis",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/10358",
-      "mnis_id": "54",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Baroness Bonham-Carter of Yarnbury",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/12838",
       "mnis_id": "3699",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Sir Julian Lewis",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/10358",
+      "mnis_id": "54",
       "removed": false
     }
   ],
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-11-24",
+    "date_of_most_recent_agm": "2026-11-11",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Sep to 09 Sep",
-    "next_reporting_deadline": "2027-01-10"
+    "next_reporting_deadline": "2028-01-10"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Publishers Association",
-      "Description": "Secretariat From: 10/09/2025 To: 09/09/2026",
-      "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "10/09/2025",
-      "Registered": "24/11/2025",
+      "Description": "Secretariat From: 10/09/2026 To: 09/09/2027",
+      "Value £s In bands of £1,500": "1,501-3,000",
+      "Received": "10/09/2026",
+      "Registered": "18/11/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/publishing.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/publishing.htm",
   "categories": [
     "Arts, Culture, Heritage & Media",
     "Economy, Business & Industry"

@@ -23,25 +23,25 @@
     },
     {
       "role": "Officer",
-      "name": "John Grady",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26426",
-      "mnis_id": "5170",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Baroness D'Souza",
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/13444",
       "mnis_id": "3709",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Tracy Gilbert",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26526",
+      "mnis_id": "5188",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Afzal Khan",
@@ -273,8 +273,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/afghan-women-and-girls.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/afghan-women-and-girls.htm",
   "categories": [
     "Human Rights, Equality & Social Justice",
     "International Affairs, Development & Trade"

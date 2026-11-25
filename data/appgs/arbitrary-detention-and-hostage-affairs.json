@@ -15,18 +15,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Brendan O'Hara",
-      "party": "Scottish National Party",
-      "twfy_id": "uk.org.publicwhip/person/25370",
-      "mnis_id": "4371",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Baroness Kennedy of The Shaws",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/12994",
       "mnis_id": "1987",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Brendan O'Hara",
+      "party": "Scottish National Party",
+      "twfy_id": "uk.org.publicwhip/person/25370",
+      "mnis_id": "4371",
       "removed": false
     },
     {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.hostagesappg.co.uk/about"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Alicia Kearns",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tim Roca",
@@ -83,7 +83,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Ian Austin",
@@ -91,7 +91,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Douglas Macallister",
@@ -107,7 +107,7 @@
         "member_type": "mp",
         "mnis_id": "39",
         "twfy_id": "uk.org.publicwhip/person/10632",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord David Alton",
@@ -115,7 +115,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Brinton",
@@ -123,7 +123,7 @@
         "member_type": "lord",
         "mnis_id": "4241",
         "twfy_id": "uk.org.publicwhip/person/25066",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Dubs",
@@ -131,7 +131,7 @@
         "member_type": "lord",
         "mnis_id": "805",
         "twfy_id": "uk.org.publicwhip/person/13000",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bennett",
@@ -139,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": "4719",
         "twfy_id": "uk.org.publicwhip/person/25776",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hodge",
@@ -147,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": "140",
         "twfy_id": "uk.org.publicwhip/person/10281",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bob Blackman",
@@ -187,7 +187,7 @@
         "member_type": "lord",
         "mnis_id": "4293",
         "twfy_id": "uk.org.publicwhip/person/14080",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Michael Payne",
@@ -211,7 +211,7 @@
         "member_type": "lord",
         "mnis_id": "1387",
         "twfy_id": "uk.org.publicwhip/person/11093",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Phil Brickell",
@@ -235,7 +235,7 @@
         "member_type": "lord",
         "mnis_id": "4210",
         "twfy_id": "uk.org.publicwhip/person/25040",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Andrew Mitchell",
@@ -260,6 +260,102 @@
         "mnis_id": "5346",
         "twfy_id": "uk.org.publicwhip/person/26617",
         "removed": false
+      },
+      {
+        "name": "Helena Kennedy",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Tim Clement-Jones",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ian Austin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1511",
+        "twfy_id": "uk.org.publicwhip/person/11553",
+        "removed": false
+      },
+      {
+        "name": "John Whittingdale",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "39",
+        "twfy_id": "uk.org.publicwhip/person/10632",
+        "removed": false
+      },
+      {
+        "name": "David Alton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "None",
+        "twfy_id": "uk.org.publicwhip/person/16469",
+        "removed": false
+      },
+      {
+        "name": "Brinton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4241",
+        "twfy_id": "uk.org.publicwhip/person/25066",
+        "removed": false
+      },
+      {
+        "name": "Dubs",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Bennett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Hodge",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Purvis",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Mann",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Ahmad",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -276,24 +372,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-12-16",
+    "date_of_most_recent_agm": "2026-11-17",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Sep to 03 Sep",
-    "next_reporting_deadline": "2027-01-04"
+    "next_reporting_deadline": "2028-01-04"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "International Bar Association’s Human Rights Institute",
-      "Description": "Secretariat From: 04/09/2025 To: 03/09/2026",
-      "Value £s In bands of £1,500": "6,001-7,500",
-      "Received": "04/09/2025",
-      "Registered": "17/12/2025",
+      "Description": "Secretariat From: 04/09/2026 To: 03/09/2027",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "04/09/2026",
+      "Registered": "19/11/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/arbitrary-detention-and-hostage-affairs.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/arbitrary-detention-and-hostage-affairs.htm",
   "categories": [
     "International Affairs, Development & Trade",
     "Justice, Law & Security",

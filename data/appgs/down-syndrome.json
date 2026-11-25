@@ -7,18 +7,18 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Damian Hinds",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24782",
-      "mnis_id": "3969",
-      "removed": false
-    },
-    {
-      "role": "Co-Chair",
       "name": "Andrew Cooper",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26447",
       "mnis_id": "5195",
+      "removed": false
+    },
+    {
+      "role": "Co-Chair",
+      "name": "Graham Stuart",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/11406",
+      "mnis_id": "1482",
       "removed": false
     },
     {
@@ -31,19 +31,19 @@
     },
     {
       "role": "Officer",
-      "name": "Perran Moon",
+      "name": "Lee Barron",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26482",
-      "mnis_id": "5208",
+      "twfy_id": "uk.org.publicwhip/person/26554",
+      "mnis_id": "5315",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://appg-ds.org/wp-content/uploads/2026/09/members-at-sept26.pdf"
+      "https://appg-ds.org/wp-content/uploads/2026/11/members-at-nov26.pdf"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Andrew Cooper",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Perron Moon",
@@ -123,7 +123,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lorraine Beavers",
@@ -139,7 +139,7 @@
         "member_type": "mp",
         "mnis_id": "4110",
         "twfy_id": "uk.org.publicwhip/person/24725",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ruth Cadbury",
@@ -299,7 +299,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Graham Stuart",
@@ -315,7 +315,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Paul Waugh",
@@ -331,7 +331,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Andy MacNae",
@@ -403,7 +403,7 @@
         "member_type": "mp",
         "mnis_id": "4008",
         "twfy_id": "uk.org.publicwhip/person/24873",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Dame Meg Hiller",
@@ -411,14 +411,126 @@
         "member_type": "mp",
         "mnis_id": "1524",
         "twfy_id": "uk.org.publicwhip/person/11605",
+        "removed": true
+      },
+      {
+        "name": "Sheila Hollins",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "David Alton of Liverpool",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Karen Bradley",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4110",
+        "twfy_id": "uk.org.publicwhip/person/24725",
+        "removed": false
+      },
+      {
+        "name": "Caroline Dinenage",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4008",
+        "twfy_id": "uk.org.publicwhip/person/24873",
+        "removed": false
+      },
+      {
+        "name": "Matthew Doyle",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Meg Hiller",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1524",
+        "twfy_id": "uk.org.publicwhip/person/11605",
+        "removed": false
+      },
+      {
+        "name": "Julian Lewis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "54",
+        "twfy_id": "uk.org.publicwhip/person/10358",
+        "removed": false
+      },
+      {
+        "name": "Kevin Shinkwin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Don Touhig",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "542",
+        "twfy_id": "uk.org.publicwhip/person/10600",
+        "removed": false
+      },
+      {
+        "name": "Rosa Monckton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Matt Bishop",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5323",
+        "twfy_id": "uk.org.publicwhip/person/26574",
+        "removed": false
+      },
+      {
+        "name": "Ben Lake",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4630",
+        "twfy_id": "uk.org.publicwhip/person/25669",
+        "removed": false
+      },
+      {
+        "name": "Fabian Hamilton",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "415",
+        "twfy_id": "uk.org.publicwhip/person/10256",
+        "removed": false
+      },
+      {
+        "name": "Marcia de Cordova",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4676",
+        "twfy_id": "uk.org.publicwhip/person/25620",
         "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Damian Hinds MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7057.",
-    "registered_contact_email": "damian.hinds.mp@parliament.uk",
+    "registered_contact_name": "Andrew Cooper MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "andrew.cooper.mp@parliament.uk",
     "public_enquiry_point_name": "Rachael Ross, National Down Syndrome Policy Group. Tel: 07710 612807",
     "public_enquiry_point_email": "rachael.ross@ndspg.org",
     "secretariat": "National Down Syndrome Policy Group acts as the group's secretariat. hhttps://ndspg.org/",
@@ -428,15 +540,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-11-20",
+    "date_of_most_recent_agm": "2026-10-13",
     "published_income_expenditure_statement": false,
     "reporting_year": "08 Oct to 07 Oct",
-    "next_reporting_deadline": "2027-02-08"
+    "next_reporting_deadline": "2028-02-08"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/down-syndrome.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/down-syndrome.htm",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Health, Medicine & Public Health",

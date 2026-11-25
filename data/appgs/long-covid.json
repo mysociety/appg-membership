@@ -6,6 +6,14 @@
   "parliament": "uk",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Bambos Charalambous",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25676",
+      "mnis_id": "4610",
+      "removed": false
+    },
+    {
       "role": "Officer",
       "name": "Lord Taylor of Holbeach",
       "party": "Conservative",
@@ -37,12 +45,12 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
-    "public_enquiry_point_name": "Jo Dainow, Long Covid Support",
+    "registered_contact_name": "Bambos Charalambous MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 3460.",
+    "registered_contact_email": "bambos.charalambous.mp@parliament.uk",
+    "public_enquiry_point_name": "Jo Dainow, Long Covid UK",
     "public_enquiry_point_email": "appg.longcovid@longcovid.org",
-    "secretariat": "Long Covid Support acts as the group's secretariat.https://www.longcovid.org/",
+    "secretariat": "Long Covid UK acts as the group's secretariat.https://www.longcovid.org/",
     "website": {
       "status": "search",
       "url": "https://www.longcovid.org/impact/appg-on-long-covid"
@@ -56,8 +64,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/long-covid.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/long-covid.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

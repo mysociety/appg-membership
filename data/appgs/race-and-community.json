@@ -6,14 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Dawn Butler",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/11447",
-      "mnis_id": "1489",
-      "removed": false
-    },
-    {
       "role": "Officer",
       "name": "Nadia Whittome",
       "party": "Labour",
@@ -45,9 +37,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Dawn Butler MP",
-    "registered_contact_address": "House of Commons , London, SW1A 0AA. Tel: 020 7219 8591.",
-    "registered_contact_email": "dawn.butler.mp@parliament.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
     "public_enquiry_point_name": "Nannette Youssef, The Runnymede Trust",
     "public_enquiry_point_email": "nannette@runnymedetrust.org",
     "secretariat": "The Runnymede Trust acts as the group's secretariat.https://www.runnymedetrust.org/",
@@ -73,8 +65,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/race-and-community.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/race-and-community.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

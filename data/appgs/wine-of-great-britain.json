@@ -6,7 +6,7 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Vice Chair",
+      "role": "Chair & Registered Contact",
       "name": "Tristan Osborne",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26589",
@@ -20,6 +20,22 @@
       "twfy_id": "uk.org.publicwhip/person/24782",
       "mnis_id": "3969",
       "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Katie Lam",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26588",
+      "mnis_id": "5285",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "John Milne",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26624",
+      "mnis_id": "5329",
+      "removed": false
     }
   ],
   "members_list": {
@@ -29,10 +45,10 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
-    "public_enquiry_point_name": "WineGB . Tel: 01858 467792",
+    "registered_contact_name": "Tristan Osborne MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "tristan.osborne.mp@parliament.uk",
+    "public_enquiry_point_name": "WineGB. Tel: 01858 467792",
     "public_enquiry_point_email": "office@winegb.co.uk",
     "secretariat": "WineGB acts as the group's secretariat.https://winegb.co.uk/",
     "website": {
@@ -48,8 +64,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/wine-of-great-britain.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/wine-of-great-britain.htm",
   "categories": [
     "Economy, Business & Industry",
     "Food, Agriculture & Rural Affairs"

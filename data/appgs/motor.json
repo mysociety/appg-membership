@@ -6,11 +6,19 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Vice Chair",
-      "name": "Samantha Niblett",
+      "role": "Chair & Registered Contact",
+      "name": "Derek Twigg",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26414",
-      "mnis_id": "5150",
+      "twfy_id": "uk.org.publicwhip/person/10610",
+      "mnis_id": "429",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Fox",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/25240",
+      "mnis_id": "4322",
       "removed": false
     },
     {
@@ -23,17 +31,17 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Lord Fox",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/25240",
-      "mnis_id": "4322",
+      "name": "Samantha Niblett",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26414",
+      "mnis_id": "5150",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Mr Matt Western MP",
@@ -230,9 +238,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Derek Twigg MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 1039.",
+    "registered_contact_email": "derek.twigg.mp@parliament.uk",
     "public_enquiry_point_name": "Andrew Harries, Society of Motor Manufacturers and Traders Ltd",
     "public_enquiry_point_email": "apmg@smmt.co.uk",
     "secretariat": "Society of Motor Manufacturers and Traders, Motorsport Industry Association and RAC Foundation jointly act as the group's secretariat.https://www.smmt.co.ukandhttps://the-mia.comandhttps://www.racfoundation.org",
@@ -242,40 +250,40 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-12-15",
+    "date_of_most_recent_agm": "2026-10-21",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Sep to 03 Sep",
-    "next_reporting_deadline": "2027-01-04"
+    "next_reporting_deadline": "2028-01-04"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Society of Motor Manufacturers and Traders",
-      "Description": "Joint Secretariat From: 04/09/2025 To: 03/09/2026",
+      "Description": "Joint Secretariat From: 04/09/2026 To: 03/09/2027",
       "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "04/09/2025",
-      "Registered": "23/12/2025",
+      "Received": "04/09/2026",
+      "Registered": "21/10/2026",
       "benefit_type": "Benefits In Kind"
     },
     {
       "Source": "Motorsport Industry Association",
-      "Description": "Joint Secretariat From: 04/09/2025 To: 03/09/2026",
+      "Description": "Joint Secretariat From: 04/09/2026 To: 03/09/2027",
       "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "04/09/2025",
-      "Registered": "23/12/2025",
+      "Received": "04/09/2026",
+      "Registered": "21/10/2026",
       "benefit_type": "Benefits In Kind"
     },
     {
       "Source": "RAC Foundation",
-      "Description": "Joint Secretariat From: 04/09/2025 To: 03/09/2026",
+      "Description": "Joint Secretariat From: 04/09/2026 To: 03/09/2027",
       "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "04/09/2025",
-      "Registered": "23/12/2025",
+      "Received": "04/09/2026",
+      "Registered": "21/10/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/motor.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/motor.htm",
   "categories": [
     "Infrastructure, Transport & Mobility",
     "Economy, Business & Industry",

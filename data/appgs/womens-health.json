@@ -6,14 +6,6 @@
   "parliament": "uk",
   "officers": [
     {
-      "role": "Chair & Registered Contact",
-      "name": "Gill Furniss",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25489",
-      "mnis_id": "4571",
-      "removed": false
-    },
-    {
       "role": "Officer",
       "name": "Baroness Anelay of St Johns",
       "party": "Conservative",
@@ -36,7 +28,7 @@
       "https://www.appgwomenshealth.org/about",
       "https://www.appgwomenshealth.org/events-and-meetings"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Gill Furniss",
@@ -137,11 +129,11 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Gill Furniss MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 0207 219 0364.",
-    "registered_contact_email": "gill.furniss.mp@parliament.uk",
-    "public_enquiry_point_name": "Ella Henry, Healthcomms Consulting Ltd (part of the PLMR Group)",
-    "public_enquiry_point_email": "appgwh@plmr.co.uk",
+    "registered_contact_name": "None",
+    "registered_contact_address": null,
+    "registered_contact_email": null,
+    "public_enquiry_point_name": "Josie Curtis, Healthcomms Consulting Ltd (part of the PLMR Group). Tel: 07484811980",
+    "public_enquiry_point_email": "josie.curtis@plmr.co.uk",
     "secretariat": "Healthcomms Consulting Ltd (part of the PLMR Group) acts as the group's secretariat.https://plmr.co.uk/healthcomms/plmr-healthcomms/",
     "website": {
       "status": "register",
@@ -165,8 +157,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/womens-health.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/womens-health.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

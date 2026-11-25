@@ -6,19 +6,27 @@
   "parliament": "uk",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Brian Mathew",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26509",
+      "mnis_id": "5214",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Fleur Anderson",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25813",
+      "mnis_id": "4788",
+      "removed": false
+    },
+    {
       "role": "Vice Chair",
       "name": "Lord Leigh of Hurley",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25196",
       "mnis_id": "4295",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Brian Mathew",
-      "party": "Liberal Democrat",
-      "twfy_id": "uk.org.publicwhip/person/26509",
-      "mnis_id": "5214",
       "removed": false
     },
     {
@@ -33,7 +41,7 @@
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Calvin Bailey",
@@ -350,11 +358,11 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Brian Mathew MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "brian.mathew.mp@parliament.uk",
     "public_enquiry_point_name": "George Bose, WaterAid. Tel: 020 7793 5121",
-    "public_enquiry_point_email": "georgebose@wateraid.org",
+    "public_enquiry_point_email": "GovernmentRelations@wateraid.org",
     "secretariat": "WaterAid acts as the group's secretariat.https://www.wateraid.org/",
     "website": {
       "status": "no_search",
@@ -378,8 +386,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/water-sanitation-and-hygiene.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/water-sanitation-and-hygiene.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "International Affairs, Development & Trade"

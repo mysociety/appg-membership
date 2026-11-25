@@ -23,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Carla Denyer",
-      "party": "Green Party",
-      "twfy_id": "uk.org.publicwhip/person/26379",
-      "mnis_id": "5102",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Baroness Verma",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/13730",
       "mnis_id": "3790",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Carla Denyer",
+      "party": "Green Party",
+      "twfy_id": "uk.org.publicwhip/person/26379",
+      "mnis_id": "5102",
       "removed": false
     }
   ],
@@ -57,23 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-09-02",
+    "date_of_most_recent_agm": "2026-11-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "29 Jul to 28 Jul",
-    "next_reporting_deadline": "2026-11-29"
+    "next_reporting_deadline": "2027-11-29"
   },
-  "registrable_benefits": "Financial Benefits",
-  "detailed_benefits": [
-    {
-      "Source": "Common Wealth",
-      "Value £s": "2,500",
-      "Received": "18/10/2025",
-      "Registered": "12/11/2025",
-      "benefit_type": "Financial Benefits"
-    }
-  ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/afrikan-reparations.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/afrikan-reparations.htm",
   "categories": [
     "Human Rights, Equality & Social Justice",
     "Arts, Culture, Heritage & Media",

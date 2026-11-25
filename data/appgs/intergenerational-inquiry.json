@@ -41,9 +41,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://blogs.soas.ac.uk/cop/wp-content/uploads/2026/06/TIGI-APPG-JUNE-2026-FULL.pdf"
+      "https://blogs.soas.ac.uk/cop/tigi-appg/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Paul Kohler",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": "4302",
         "twfy_id": "uk.org.publicwhip/person/25209",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Neil Duncan Jordan",
@@ -75,6 +75,14 @@
         "member_type": "mp",
         "mnis_id": "5359",
         "twfy_id": "uk.org.publicwhip/person/26633",
+        "removed": false
+      },
+      {
+        "name": "Lord Balfe of Dulwich",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

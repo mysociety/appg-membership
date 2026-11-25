@@ -14,6 +14,14 @@
       "removed": false
     },
     {
+      "role": "Vice Chair",
+      "name": "Saqib Bhatti",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25847",
+      "mnis_id": "4818",
+      "removed": false
+    },
+    {
       "role": "Officer",
       "name": "Gurinder Singh Josan",
       "party": "Labour",
@@ -35,7 +43,7 @@
     "source_url": [
       "https://www.appgsemcon.co.uk/about"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Ruth Jones",
@@ -51,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "5340",
         "twfy_id": "uk.org.publicwhip/person/26622",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Gurinder Josan",
@@ -67,6 +75,22 @@
         "member_type": "mp",
         "mnis_id": "4617",
         "twfy_id": "uk.org.publicwhip/person/25701",
+        "removed": true
+      },
+      {
+        "name": "Saqib Bhatti",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "4818",
+        "twfy_id": "uk.org.publicwhip/person/25847",
+        "removed": false
+      },
+      {
+        "name": "Lord Jackson of Peterborough",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "1551",
+        "twfy_id": "uk.org.publicwhip/person/11759",
         "removed": false
       }
     ]
@@ -84,27 +108,13 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-11-04",
+    "date_of_most_recent_agm": "2026-10-13",
     "published_income_expenditure_statement": false,
     "reporting_year": "24 Jul to 23 Jul",
-    "next_reporting_deadline": "2026-11-24"
+    "next_reporting_deadline": "2027-11-24"
   },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
-    {
-      "Source": "KLA",
-      "Value £s": "15,000",
-      "Received": "14/08/2024",
-      "Registered": "21/11/2025",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "Pragmatic",
-      "Value £s": "15,000",
-      "Received": "08/05/2025",
-      "Registered": "21/11/2025",
-      "benefit_type": "Financial Benefits"
-    },
     {
       "Source": "Pragmatic Semiconductor",
       "Value £s": "15,000",
@@ -160,10 +170,45 @@
       "Received": "01/06/2026",
       "Registered": "01/06/2026",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Pragmatic Semiconductor",
+      "Value £s": "15,000",
+      "Received": "30/07/2026",
+      "Registered": "14/10/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Plessey Semiconductors",
+      "Value £s": "15,000",
+      "Received": "29/10/2026",
+      "Registered": "06/11/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Oxford Instruments",
+      "Value £s": "10,000",
+      "Received": "02/11/2026",
+      "Registered": "06/11/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Swansea University",
+      "Value £s": "2,500",
+      "Received": "10/11/2026",
+      "Registered": "11/11/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "Vishay",
+      "Value £s": "15,000",
+      "Received": "11/11/2026",
+      "Registered": "11/11/2026",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/semiconductors.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/semiconductors.htm",
   "categories": [
     "Economy, Business & Industry"
   ]

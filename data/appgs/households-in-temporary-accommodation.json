@@ -31,10 +31,10 @@
     },
     {
       "role": "Officer",
-      "name": "Lord Balfe",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25209",
-      "mnis_id": "4302",
+      "name": "Gideon Amos",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26531",
+      "mnis_id": "5250",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://householdsintemporaryaccommodation.co.uk/who-we-are/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Siobhain McDonagh",
@@ -227,7 +227,7 @@
         "member_type": "other",
         "mnis_id": "5171",
         "twfy_id": "uk.org.publicwhip/person/26436",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Kirith Entiwistle",
@@ -347,7 +347,7 @@
         "member_type": "lord",
         "mnis_id": "4302",
         "twfy_id": "uk.org.publicwhip/person/25209",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bishop of Manchester, David Walker",
@@ -451,7 +451,7 @@
         "member_type": "other",
         "mnis_id": "5307",
         "twfy_id": "uk.org.publicwhip/person/26515",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sarah Gibson",
@@ -468,6 +468,30 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
+      },
+      {
+        "name": "Gideon Amos",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5250",
+        "twfy_id": "uk.org.publicwhip/person/26531",
+        "removed": false
+      },
+      {
+        "name": "Beccy Cooper",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5307",
+        "twfy_id": "uk.org.publicwhip/person/26515",
+        "removed": false
+      },
+      {
+        "name": "Julia Buckley",
+        "is_officer": false,
+        "member_type": "other",
+        "mnis_id": "5171",
+        "twfy_id": "uk.org.publicwhip/person/26436",
+        "removed": false
       }
     ]
   },
@@ -477,39 +501,39 @@
     "registered_contact_email": "mcdonaghs@parliament.uk",
     "public_enquiry_point_name": null,
     "public_enquiry_point_email": null,
-    "secretariat": "Justlife Foundation  and Shared Health Foundation jointly act as the group's secretariat.https://www.justlife.org.uk/andhttps://sharedhealthfoundation.org.uk/",
+    "secretariat": "Justlife Foundation and Shared Health Foundation jointly act as the group's secretariat.https://www.justlife.org.uk/andhttps://sharedhealthfoundation.org.uk/",
     "website": {
       "status": "register",
       "url": "https://householdsintemporaryaccommodation.co.uk/"
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-11-19",
+    "date_of_most_recent_agm": "2026-11-10",
     "published_income_expenditure_statement": false,
     "reporting_year": "29 Jul to 28 Jul",
-    "next_reporting_deadline": "2026-11-29"
+    "next_reporting_deadline": "2027-11-29"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Justlife Foundation",
-      "Description": "Joint Secretariat From: 29/07/2025 To: 28/07/2026",
-      "Value £s In bands of £1,500": "28,501-30,000",
-      "Received": "29/07/2025",
-      "Registered": "20/11/2025",
+      "Description": "Joint Secretariat From: 29/07/2026 To: 28/07/2027",
+      "Value £s In bands of £1,500": "30,001-31,500",
+      "Received": "29/07/2026",
+      "Registered": "16/11/2026",
       "benefit_type": "Benefits In Kind"
     },
     {
       "Source": "Shared Health Foundation",
-      "Description": "Joint Secretariat From: 29/07/2025 To: 28/07/2026",
-      "Value £s In bands of £1,500": "33,001-34,500",
-      "Received": "29/07/2025",
-      "Registered": "20/11/2025",
+      "Description": "Joint Secretariat From: 29/07/2026 To: 28/07/2027",
+      "Value £s In bands of £1,500": "31,501-33,000",
+      "Received": "29/07/2026",
+      "Registered": "16/11/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/households-in-temporary-accommodation.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/households-in-temporary-accommodation.htm",
   "categories": [
     "Social Care, Welfare & Family Support",
     "Education, Skills & Youth",

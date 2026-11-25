@@ -7,18 +7,18 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Oliver Ryan",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26381",
-      "mnis_id": "5135",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Sean Woodcock",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26552",
       "mnis_id": "5328",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Rachel Taylor",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26478",
+      "mnis_id": "5065",
       "removed": false
     },
     {
@@ -31,17 +31,17 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Lord Lamont of Lerwick",
+      "name": "Lord Cameron of Lochiel",
       "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/13193",
-      "mnis_id": "895",
+      "twfy_id": "uk.org.publicwhip/person/26291",
+      "mnis_id": "5012",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Oliver Ryan MP",
@@ -270,9 +270,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Oliver Ryan MP",
+    "registered_contact_name": "Sean Woodcock MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "oliver.ryan.mp@parliament.uk",
+    "registered_contact_email": "sean.woodcock.mp@parliament.uk",
     "public_enquiry_point_name": "Henry Tyrrell, MS Society. Tel: 020 8438 0765",
     "public_enquiry_point_email": "public.affairs@mssociety.org.uk",
     "secretariat": "MS Society acts as the group's secretariat.http://www.mssociety.org.uk/",
@@ -298,8 +298,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/multiple-sclerosis.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/multiple-sclerosis.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

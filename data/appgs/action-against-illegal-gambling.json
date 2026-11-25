@@ -7,22 +7,6 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Anneliese Midgley",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26318",
-      "mnis_id": "5038",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Esther McVey",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/24882",
-      "mnis_id": "4084",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Neil Coyle",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/25326",
@@ -30,7 +14,23 @@
       "removed": false
     },
     {
-      "role": "Treasurer",
+      "role": "Co-Chair",
+      "name": "Esther McVey",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/24882",
+      "mnis_id": "4084",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Colum Eastwood",
+      "party": "Social Democratic & Labour Party",
+      "twfy_id": "uk.org.publicwhip/person/25130",
+      "mnis_id": "4846",
+      "removed": false
+    },
+    {
+      "role": "Officer",
       "name": "Lord Watts",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/10625",
@@ -45,9 +45,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "Anneliese Midgley MP",
-    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "anneliese.midgley.mp@parliament.uk",
+    "registered_contact_name": "Neil Coyle MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 7650.",
+    "registered_contact_email": "neil.coyle.mp@parliament.uk",
     "public_enquiry_point_name": "Jordan Lea, Deal Me Out",
     "public_enquiry_point_email": "appg@dealmeout.org",
     "secretariat": "Deal Me Out acts as the group's secretariat.https://www.dealmeout.org/",
@@ -73,8 +73,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/action-against-illegal-gambling.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/action-against-illegal-gambling.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs",
     "Justice, Law & Security"

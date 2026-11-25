@@ -14,6 +14,14 @@
       "removed": false
     },
     {
+      "role": "Officer",
+      "name": "Mr Richard Holden",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25893",
+      "mnis_id": "4813",
+      "removed": false
+    },
+    {
       "role": "Treasurer",
       "name": "David Taylor",
       "party": "Labour",
@@ -49,10 +57,10 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-09-09",
+    "date_of_most_recent_agm": "2026-11-03",
     "published_income_expenditure_statement": false,
     "reporting_year": "03 Sep to 02 Sep",
-    "next_reporting_deadline": "2027-01-03"
+    "next_reporting_deadline": "2028-01-03"
   },
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
@@ -148,8 +156,8 @@
       "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/japan.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/japan.htm",
   "categories": [
     "Country Group"
   ]

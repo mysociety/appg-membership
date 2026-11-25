@@ -15,18 +15,18 @@
     },
     {
       "role": "Officer",
-      "name": "Peter Swallow",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26369",
-      "mnis_id": "5165",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Jack Rankin",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26622",
       "mnis_id": "5340",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Peter Swallow",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26369",
+      "mnis_id": "5165",
       "removed": false
     },
     {
@@ -57,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-07-21",
+    "date_of_most_recent_agm": "2026-10-21",
     "published_income_expenditure_statement": false,
     "reporting_year": "21 Jul to 20 Jul",
-    "next_reporting_deadline": "2026-11-21"
+    "next_reporting_deadline": "2027-11-21"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Thames Valley Chamber of Commerce and Industry",
-      "Description": "Thames Valley Chamber of Commerce and Industry is paid by the following to act as the group's secretariat: Heathrow, Honda Motor Europe, University of the Built Environment, University of Reading From: 21/07/2025 To: 20/07/2026",
-      "Value £s In bands of £1,500": "13,501-15,000",
-      "Received": "21/07/2025",
-      "Registered": "04/09/2025",
+      "Description": "Thames Valley Chamber of Commerce and Industry is paid by the following to act as the group's secretariat: Heathrow, Honda Motor Europe, University of the Built Environment, University of Reading. From: 21/07/2026 To: 20/07/2027",
+      "Value £s In bands of £1,500": "9,001-10,500",
+      "Received": "21/07/2026",
+      "Registered": "05/11/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/thames-valley.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/thames-valley.htm",
   "categories": [
     "Regions, Nations & Devolution"
   ]

@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appgclimsec.uk/members"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Barry Gardiner",
@@ -91,7 +91,7 @@
         "member_type": "mp",
         "mnis_id": "4632",
         "twfy_id": "uk.org.publicwhip/person/25647",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Jim Shannon",
@@ -491,7 +491,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Robin Butler",
@@ -539,7 +539,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Anna Mcmorrin",
@@ -547,7 +547,7 @@
         "member_type": "mp",
         "mnis_id": "4632",
         "twfy_id": "uk.org.publicwhip/person/25647",
-        "removed": false
+        "removed": true
       }
     ]
   },
@@ -580,8 +580,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/climate-nature-and-security.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/climate-nature-and-security.htm",
   "categories": [
     "Environment, Climate & Sustainability",
     "Justice, Law & Security"

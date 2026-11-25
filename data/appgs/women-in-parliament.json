@@ -43,7 +43,7 @@
     "source_url": [
       "https://centenaryaction.org.uk/appg-women-in-parliament/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Mims Davies",
@@ -627,7 +627,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Anne Jenkin",
@@ -635,7 +635,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Beverly Hughes",
@@ -643,7 +643,7 @@
         "member_type": "lord",
         "mnis_id": "459",
         "twfy_id": "uk.org.publicwhip/person/10296",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Carmen Smith",
@@ -651,7 +651,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Caroline Cox",
@@ -659,7 +659,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Debbie Wilcox",
@@ -667,7 +667,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Deborah Stedman-Scott",
@@ -675,7 +675,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Fiona Hodgson",
@@ -683,7 +683,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jan Royall",
@@ -691,7 +691,7 @@
         "member_type": "lord",
         "mnis_id": "3699",
         "twfy_id": "uk.org.publicwhip/person/12838",
-        "removed": false
+        "removed": true
       },
       {
         "name": "JoJo Penn",
@@ -699,7 +699,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lindsay Northover",
@@ -707,7 +707,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Liz Sugg",
@@ -715,7 +715,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mary Goudie",
@@ -723,7 +723,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Natalie Bennett",
@@ -731,7 +731,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ruth Hunt",
@@ -739,7 +739,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ruth Lister",
@@ -747,7 +747,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Sandip Verma",
@@ -755,7 +755,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Shaista Gohirs",
@@ -763,7 +763,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tessa Blackstone",
@@ -771,10 +771,170 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Theresa Griffin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Baroness Gale",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2503",
+        "twfy_id": "uk.org.publicwhip/person/13310",
+        "removed": false
+      },
+      {
+        "name": "Baroness Jenkin of Kennington",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4229",
+        "twfy_id": "uk.org.publicwhip/person/25064",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hughes of Stretford",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "459",
+        "twfy_id": "uk.org.publicwhip/person/10296",
+        "removed": false
+      },
+      {
+        "name": "Baroness Smith of Llanfaes",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "5023",
+        "twfy_id": "uk.org.publicwhip/person/26303",
+        "removed": false
+      },
+      {
+        "name": "Baroness Cox",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3364",
+        "twfy_id": "uk.org.publicwhip/person/13559",
+        "removed": false
+      },
+      {
+        "name": "Baroness Wilcox of Newport",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4730",
+        "twfy_id": "uk.org.publicwhip/person/25789",
+        "removed": false
+      },
+      {
+        "name": "Baroness Stedman-Scott",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4174",
+        "twfy_id": "uk.org.publicwhip/person/25001",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hodgson of Abinger",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4301",
+        "twfy_id": "uk.org.publicwhip/person/25199",
+        "removed": false
+      },
+      {
+        "name": "Baroness Royall of Blaisdon",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3703",
+        "twfy_id": "uk.org.publicwhip/person/13452",
+        "removed": false
+      },
+      {
+        "name": "Baroness Penn",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4726",
+        "twfy_id": "uk.org.publicwhip/person/25783",
+        "removed": false
+      },
+      {
+        "name": "Baroness Northover",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2539",
+        "twfy_id": "uk.org.publicwhip/person/13434",
+        "removed": false
+      },
+      {
+        "name": "Baroness Sugg",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4584",
+        "twfy_id": "uk.org.publicwhip/person/25586",
+        "removed": false
+      },
+      {
+        "name": "Baroness Goudie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3575",
+        "twfy_id": "uk.org.publicwhip/person/12915",
+        "removed": false
+      },
+      {
+        "name": "Baroness Bennett of Manor Castle",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4719",
+        "twfy_id": "uk.org.publicwhip/person/25776",
+        "removed": false
+      },
+      {
+        "name": "Baroness Hunt of Bethnal Green",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4725",
+        "twfy_id": "uk.org.publicwhip/person/25781",
+        "removed": false
+      },
+      {
+        "name": "Baroness Lister of Burtersett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4234",
+        "twfy_id": "uk.org.publicwhip/person/25058",
+        "removed": false
+      },
+      {
+        "name": "Baroness Verma",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3790",
+        "twfy_id": "uk.org.publicwhip/person/13730",
+        "removed": false
+      },
+      {
+        "name": "Baroness Gohirs",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Blackstone",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3561",
+        "twfy_id": "uk.org.publicwhip/person/13241",
+        "removed": false
+      },
+      {
+        "name": "Baroness Griffin",
         "is_officer": false,
         "member_type": "lord",
         "mnis_id": null,
@@ -812,8 +972,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/women-in-parliament.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/women-in-parliament.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

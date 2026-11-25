@@ -41,10 +41,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://prisonreformtrust.org.uk/wp-content/uploads/2023/06/Minutes-of-APPG-meeting-and-AGM-23.05.23.pdf",
-      "https://prisonreformtrust.org.uk/wp-content/uploads/2022/05/Minutes-of-APPG-meeting-and-AGM-26.04.22.pdf"
+      "https://prisonreformtrust.org.uk/policy-legislation/appg/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Pam Cox",
@@ -132,7 +131,7 @@
         "member_type": "mp",
         "mnis_id": "3926",
         "twfy_id": "uk.org.publicwhip/person/24764",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Carlile",
@@ -140,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": "1138",
         "twfy_id": "uk.org.publicwhip/person/13674",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Carolyn Harris",
@@ -148,7 +147,7 @@
         "member_type": "mp",
         "mnis_id": "4480",
         "twfy_id": "uk.org.publicwhip/person/25308",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Marie Rimmer",
@@ -156,7 +155,7 @@
         "member_type": "mp",
         "mnis_id": "4457",
         "twfy_id": "uk.org.publicwhip/person/25321",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Andrew Selous",
@@ -164,7 +163,7 @@
         "member_type": "mp",
         "mnis_id": "1453",
         "twfy_id": "uk.org.publicwhip/person/11216",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Hodgson of Astley Abbotts",
@@ -172,7 +171,7 @@
         "member_type": "lord",
         "mnis_id": "1651",
         "twfy_id": "uk.org.publicwhip/person/13226",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tessa Munt",
@@ -180,7 +179,7 @@
         "member_type": "mp",
         "mnis_id": "4089",
         "twfy_id": "uk.org.publicwhip/person/24942",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Kate Green",
@@ -188,7 +187,7 @@
         "member_type": "mp",
         "mnis_id": "4120",
         "twfy_id": "uk.org.publicwhip/person/24896",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Masham",
@@ -196,7 +195,7 @@
         "member_type": "lord",
         "mnis_id": "1850",
         "twfy_id": "uk.org.publicwhip/person/12909",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Bishop Rachel Treweek",
@@ -204,7 +203,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Bradley",
@@ -212,7 +211,7 @@
         "member_type": "lord",
         "mnis_id": "452",
         "twfy_id": "uk.org.publicwhip/person/10059",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Crispin Blunt",
@@ -220,7 +219,7 @@
         "member_type": "mp",
         "mnis_id": "104",
         "twfy_id": "uk.org.publicwhip/person/10051",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Attlee",
@@ -228,7 +227,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Julia Braggins",
@@ -236,7 +235,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mark Day",
@@ -244,7 +243,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alex Hewson",
@@ -252,7 +251,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Atlee",
@@ -260,7 +259,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Julia Braggins",
@@ -268,7 +267,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Zoe Burton",
@@ -276,7 +275,7 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Mark Day",
@@ -284,6 +283,14 @@
         "member_type": "other",
         "mnis_id": null,
         "twfy_id": null,
+        "removed": true
+      },
+      {
+        "name": "Warinder Juss",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5230",
+        "twfy_id": "uk.org.publicwhip/person/26533",
         "removed": false
       }
     ]
@@ -317,8 +324,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/penal-affairs.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/penal-affairs.htm",
   "categories": [
     "Justice, Law & Security"
   ]

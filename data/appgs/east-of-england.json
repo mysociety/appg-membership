@@ -15,18 +15,10 @@
     },
     {
       "role": "Co-Chair",
-      "name": "Pam Cox",
+      "name": "Ben Goldsborough",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26324",
-      "mnis_id": "5042",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Blake Stephenson",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26355",
-      "mnis_id": "5100",
+      "twfy_id": "uk.org.publicwhip/person/26530",
+      "mnis_id": "5205",
       "removed": false
     },
     {
@@ -36,6 +28,14 @@
       "twfy_id": "uk.org.publicwhip/person/26338",
       "mnis_id": "5073",
       "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Blake Stephenson",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26355",
+      "mnis_id": "5100",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://eastofenglandappg.org.uk/members/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Jess Asato",
@@ -59,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "5042",
         "twfy_id": "uk.org.publicwhip/person/26324",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Blake Stephenson",
@@ -195,7 +195,7 @@
         "member_type": "mp",
         "mnis_id": "40",
         "twfy_id": "uk.org.publicwhip/person/10312",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Andrew Lewin",
@@ -251,7 +251,7 @@
         "member_type": "mp",
         "mnis_id": "4873",
         "twfy_id": "uk.org.publicwhip/person/25809",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Terry Jermy",
@@ -324,6 +324,30 @@
         "mnis_id": "5187",
         "twfy_id": "uk.org.publicwhip/person/26456",
         "removed": false
+      },
+      {
+        "name": "Ian Sollom",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5096",
+        "twfy_id": "uk.org.publicwhip/person/26457",
+        "removed": false
+      },
+      {
+        "name": "Daniel Zeichner",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4382",
+        "twfy_id": "uk.org.publicwhip/person/25386",
+        "removed": false
+      },
+      {
+        "name": "Bernard Jenkin",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "40",
+        "twfy_id": "uk.org.publicwhip/person/10312",
+        "removed": false
       }
     ]
   },
@@ -340,24 +364,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-12-08",
+    "date_of_most_recent_agm": "2026-10-26",
     "published_income_expenditure_statement": false,
     "reporting_year": "09 Sep to 08 Sep",
-    "next_reporting_deadline": "2027-01-09"
+    "next_reporting_deadline": "2028-01-09"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Inflect",
-      "Description": "Inflect acts as the group's secretariat and pays Steve Barwick Political Consultancy to help it fulfil this role.  Inflect is paid for this work by the following: British Sugar, EELGA, Anglian Water, Transport East, Freeport East, England’s Economic Heartland, Innovation Corridor UK, Sizewell C, London Stansted Airport, Lower Thames Crossing, Flagship Housing Group, and Eastlight Community Homes From: 09/09/2025 To: 08/09/2026",
-      "Value £s In bands of £1,500": "55,501-57,000",
-      "Received": "09/09/2025",
-      "Registered": "17/12/2025",
+      "Description": "Inflect acts as the group’s secretariat and pays Steve Barwick Political Consultancy to help it fulfil this role. Inflect is paid for this work by the following: Anglian Water, AtkinsRéalis, British Sugar, Bromford Flagship LiveWest, Build East, EEEGR, England’s Economic Heartland, Freeport East, Local Government East, London Stansted Airport, Luton Rising, Pigeon, Sizewell C, Transport East, and UK Innovation Corridor. From: 09/09/2026 To: 08/09/2027",
+      "Value £s In bands of £1,500": "64,501-66,000",
+      "Received": "09/09/2026",
+      "Registered": "30/10/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/east-of-england.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/east-of-england.htm",
   "categories": [
     "Regions, Nations & Devolution"
   ]

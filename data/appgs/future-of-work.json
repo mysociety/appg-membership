@@ -6,6 +6,14 @@
   "parliament": "uk",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Lara Bird",
+      "party": "Scottish National Party",
+      "twfy_id": "uk.org.publicwhip/person/26853",
+      "mnis_id": "5449",
+      "removed": false
+    },
+    {
       "role": "Co-Chair",
       "name": "Lord Knight of Weymouth",
       "party": "Labour",
@@ -20,14 +28,6 @@
       "twfy_id": "uk.org.publicwhip/person/24895",
       "mnis_id": "4039",
       "removed": false
-    },
-    {
-      "role": "Vice Chair",
-      "name": "Patrick Hurley",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26463",
-      "mnis_id": "5052",
-      "removed": false
     }
   ],
   "members_list": {
@@ -35,7 +35,7 @@
     "source_url": [
       "https://www.futureworkappg.org.uk/about"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Justin Madders",
@@ -51,7 +51,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Johnson of Marylebone",
@@ -59,7 +59,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Patrick Hurley",
@@ -91,7 +91,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Manzila Pola Uddin",
@@ -99,7 +99,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Clive Lewis",
@@ -115,7 +115,7 @@
         "member_type": "lord",
         "mnis_id": "3684",
         "twfy_id": "uk.org.publicwhip/person/13475",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Liam Byrne",
@@ -131,7 +131,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "David Davis",
@@ -139,16 +139,72 @@
         "member_type": "mp",
         "mnis_id": "373",
         "twfy_id": "uk.org.publicwhip/person/10162",
+        "removed": true
+      },
+      {
+        "name": "Lara Bird",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "5449",
+        "twfy_id": "uk.org.publicwhip/person/26853",
+        "removed": false
+      },
+      {
+        "name": "Lord Knight of Weymouth",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4160",
+        "twfy_id": "uk.org.publicwhip/person/11027",
+        "removed": false
+      },
+      {
+        "name": "Lord Johnson of Marylebone",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4039",
+        "twfy_id": "uk.org.publicwhip/person/24895",
+        "removed": false
+      },
+      {
+        "name": "Lord Clement-Jones",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3396",
+        "twfy_id": "uk.org.publicwhip/person/13517",
+        "removed": false
+      },
+      {
+        "name": "Baroness Manzila Pola Uddin",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Prosser",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3684",
+        "twfy_id": "uk.org.publicwhip/person/13475",
+        "removed": false
+      },
+      {
+        "name": "Lord Richard Layard",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
-    "public_enquiry_point_name": "Thomas Lacy, Institute for the Future of Work",
-    "public_enquiry_point_email": "thomas.lacy@ifow.org",
+    "registered_contact_name": "Lara Bird MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "lara.bird.mp@parliament.uk",
+    "public_enquiry_point_name": "Sarah Goulbourne, Institute for the Future of Work",
+    "public_enquiry_point_email": "sarah.goulbourne@ifow.org",
     "secretariat": "Institute for the Future of Work acts as the group's secretariat.https://www.ifow.org/",
     "website": {
       "status": "register",
@@ -172,8 +228,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/future-of-work.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/future-of-work.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

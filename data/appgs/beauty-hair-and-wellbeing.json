@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.baw-appg.co.uk/about"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Carolyn Harris",
@@ -75,7 +75,7 @@
         "member_type": "mp",
         "mnis_id": "152",
         "twfy_id": "uk.org.publicwhip/person/10180",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Paul Holmes",
@@ -276,6 +276,14 @@
         "mnis_id": "5048",
         "twfy_id": "uk.org.publicwhip/person/26342",
         "removed": false
+      },
+      {
+        "name": "Iain Duncan Smith",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "152",
+        "twfy_id": "uk.org.publicwhip/person/10180",
+        "removed": false
       }
     ]
   },
@@ -308,8 +316,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/beauty-hair-and-wellbeing.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/beauty-hair-and-wellbeing.htm",
   "categories": [
     "Economy, Business & Industry"
   ]

@@ -14,7 +14,7 @@
       "removed": false
     },
     {
-      "role": "Co-Chair",
+      "role": "Officer",
       "name": "Sir Bernard Jenkin",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/10312",
@@ -57,24 +57,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-06-10",
+    "date_of_most_recent_agm": "2026-10-27",
     "published_income_expenditure_statement": false,
     "reporting_year": "10 Jun to 09 Jun",
-    "next_reporting_deadline": "2026-10-10"
+    "next_reporting_deadline": "2027-10-10"
   },
-  "registrable_benefits": "Benefits In Kind",
-  "detailed_benefits": [
-    {
-      "Source": "Lodestone Communications",
-      "Description": "Lodestone Communications was paid by the New Generation Europe Foundation and the Russian Democratic Society to act as the group's secretariat (updated 07/07/2026). From: 10/06/2025 To: 22/04/2026",
-      "Value £s In bands of £1,500": "52,501-54,000",
-      "Received": "10/06/2025",
-      "Registered": "20/06/2025",
-      "benefit_type": "Benefits In Kind"
-    }
-  ],
-  "index_date": "260901",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/russiawatch.htm",
+  "registrable_benefits": null,
+  "detailed_benefits": [],
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/russiawatch.htm",
   "categories": [
     "Country Group"
   ]

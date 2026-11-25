@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.bloodcanceralliance.org/appg-blood-cancer"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Paul Davies",
@@ -67,7 +67,7 @@
         "member_type": "mp",
         "mnis_id": "5212",
         "twfy_id": "uk.org.publicwhip/person/26591",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Clive Betts",
@@ -172,6 +172,14 @@
         "mnis_id": "3957",
         "twfy_id": "uk.org.publicwhip/person/24814",
         "removed": false
+      },
+      {
+        "name": "Dr Scott Arthur",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5212",
+        "twfy_id": "uk.org.publicwhip/person/26591",
+        "removed": false
       }
     ]
   },
@@ -204,8 +212,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/blood-cancer.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/blood-cancer.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

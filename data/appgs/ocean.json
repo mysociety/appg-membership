@@ -15,14 +15,6 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Lord Sharpe of Epsom",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/25955",
-      "mnis_id": "4888",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Tristan Osborne",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26589",
@@ -36,6 +28,14 @@
       "twfy_id": "uk.org.publicwhip/person/13554",
       "mnis_id": "1934",
       "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Sharpe of Epsom",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/25955",
+      "mnis_id": "4888",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.oceanappg.org/officers-and-members"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Sarah Champion",
@@ -571,7 +571,7 @@
         "member_type": "lord",
         "mnis_id": "4945",
         "twfy_id": "uk.org.publicwhip/person/26088",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Seema Malhotra",
@@ -579,6 +579,14 @@
         "member_type": "mp",
         "mnis_id": "4253",
         "twfy_id": "uk.org.publicwhip/person/25150",
+        "removed": false
+      },
+      {
+        "name": "Toby Perkins",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "3952",
+        "twfy_id": "uk.org.publicwhip/person/24845",
         "removed": false
       }
     ]
@@ -596,40 +604,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-11-05",
+    "date_of_most_recent_agm": "2026-11-11",
     "published_income_expenditure_statement": false,
     "reporting_year": "04 Sep to 03 Sep",
-    "next_reporting_deadline": "2027-01-04"
+    "next_reporting_deadline": "2028-01-04"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Tendo Consulting",
-      "Description": "National Oceanography Centre paid Tendo Consulting to act as the group's secretariat. From: 04/09/2025 To: 31/10/2025",
-      "Value £s In bands of £1,500": "4,501-6,000",
-      "Received": "04/09/2025",
-      "Registered": "28/11/2025",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "Tendo Consulting",
-      "Description": "Secretariat From: 01/11/2025 To: 31/12/2025",
-      "Value £s In bands of £1,500": "6,001-7,500",
-      "Received": "01/11/2025",
-      "Registered": "28/11/2025",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
-      "Source": "Tendo Consulting",
-      "Description": "Tendo Consulting is paid by Marine Conservation Society, Greenpeace, Blue Marine Foundation, Rewilding Britain and Oceana to act as the group's secretariat. From: 02/01/2026 To: 03/09/2026",
-      "Value £s In bands of £1,500": "40,501-42,000",
-      "Received": "02/01/2026",
-      "Registered": "16/02/2026",
+      "Description": "Tendo Consulting is paid by Greenpeace, Rewilding Britain, Oceana, Blue Marine Foundation and Marine Conservation Society to act as the group's secretariat. From: 04/09/2026 To: 03/09/2027",
+      "Value £s In bands of £1,500": "49,501-51,000",
+      "Received": "04/09/2026",
+      "Registered": "16/11/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/ocean.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/ocean.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

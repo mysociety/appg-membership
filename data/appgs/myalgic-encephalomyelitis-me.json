@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgme.co.uk/who-we-are/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Jo Platt",
@@ -83,7 +83,7 @@
         "member_type": "mp",
         "mnis_id": "4107",
         "twfy_id": "uk.org.publicwhip/person/24785",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Bethell",
@@ -187,7 +187,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Steve Race",
@@ -339,7 +339,7 @@
         "member_type": "mp",
         "mnis_id": "4107",
         "twfy_id": "uk.org.publicwhip/person/24785",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Bethell",
@@ -355,7 +355,7 @@
         "member_type": "mp",
         "mnis_id": "5030",
         "twfy_id": "uk.org.publicwhip/person/26313",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Thomas",
@@ -452,8 +452,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/myalgic-encephalomyelitis-me.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/myalgic-encephalomyelitis-me.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

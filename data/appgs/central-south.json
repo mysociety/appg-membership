@@ -43,7 +43,7 @@
     "source_url": [
       "https://businesssouth.org/wp-content/uploads/2025/08/APPG-Register.pdf"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Amanda Martin",
@@ -163,7 +163,7 @@
         "member_type": "lord",
         "mnis_id": "1544",
         "twfy_id": "uk.org.publicwhip/person/11715",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord West of Spithead",
@@ -220,6 +220,14 @@
         "mnis_id": "4285",
         "twfy_id": "uk.org.publicwhip/person/25194",
         "removed": false
+      },
+      {
+        "name": "Lord Lancaster of  Kimbolton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -243,8 +251,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/central-south.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/central-south.htm",
   "categories": [
     "Regions, Nations & Devolution"
   ]

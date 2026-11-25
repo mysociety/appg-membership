@@ -14,6 +14,14 @@
       "removed": false
     },
     {
+      "role": "Vice Chair",
+      "name": "Baroness Davies of Devonport",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26712",
+      "mnis_id": "5431",
+      "removed": false
+    },
+    {
       "role": "Officer",
       "name": "Baroness Ludford",
       "party": "Liberal Democrat",
@@ -35,7 +43,7 @@
     "source_url": [
       "https://www.fawcettsociety.org.uk/appg-on-women-in-parliament"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Maria Miller",
@@ -51,7 +59,7 @@
         "member_type": "lord",
         "mnis_id": "4229",
         "twfy_id": "uk.org.publicwhip/person/25064",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Burt of Solihull",
@@ -59,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": "1567",
         "twfy_id": "uk.org.publicwhip/person/11823",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Harriet Harman",
@@ -75,7 +83,7 @@
         "member_type": "lord",
         "mnis_id": "2539",
         "twfy_id": "uk.org.publicwhip/person/13434",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Virginia Crosbie",
@@ -212,6 +220,30 @@
         "mnis_id": "4602",
         "twfy_id": "uk.org.publicwhip/person/25648",
         "removed": false
+      },
+      {
+        "name": "Jenkin of Kennington",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "4229",
+        "twfy_id": "uk.org.publicwhip/person/25064",
+        "removed": false
+      },
+      {
+        "name": "Burt of Solihull",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "1567",
+        "twfy_id": "uk.org.publicwhip/person/11823",
+        "removed": false
+      },
+      {
+        "name": "Northover",
+        "is_officer": true,
+        "member_type": "lord",
+        "mnis_id": "2539",
+        "twfy_id": "uk.org.publicwhip/person/13434",
+        "removed": false
       }
     ]
   },
@@ -235,8 +267,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/womens-rights.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/womens-rights.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

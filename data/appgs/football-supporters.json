@@ -15,14 +15,6 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Clive Efford",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/10185",
-      "mnis_id": "165",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Lord Evans of Rainow",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/24883",
@@ -31,10 +23,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Rachel Hopkins",
+      "name": "Clive Efford",
       "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/25809",
-      "mnis_id": "4873",
+      "twfy_id": "uk.org.publicwhip/person/10185",
+      "mnis_id": "165",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Ian Byrne",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25816",
+      "mnis_id": "4831",
       "removed": false
     }
   ],
@@ -43,7 +43,7 @@
     "source_url": [
       "https://thefsa.org.uk/our-work/appg-for-football-supporters/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Alex Norris",
@@ -387,7 +387,7 @@
         "member_type": "lord",
         "mnis_id": "2472",
         "twfy_id": "uk.org.publicwhip/person/12847",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Goddard of Stockport",
@@ -636,6 +636,38 @@
         "mnis_id": "5230",
         "twfy_id": "uk.org.publicwhip/person/26533",
         "removed": false
+      },
+      {
+        "name": "Earl of Courtown",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3359",
+        "twfy_id": "uk.org.publicwhip/person/12873",
+        "removed": false
+      },
+      {
+        "name": "John McDonnell",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "178",
+        "twfy_id": "uk.org.publicwhip/person/10383",
+        "removed": false
+      },
+      {
+        "name": "Lord Faulkner of Worcester",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2472",
+        "twfy_id": "uk.org.publicwhip/person/12847",
+        "removed": false
+      },
+      {
+        "name": "Lord Grantchester",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3577",
+        "twfy_id": "uk.org.publicwhip/person/13570",
+        "removed": false
       }
     ]
   },
@@ -652,15 +684,15 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-11-11",
+    "date_of_most_recent_agm": "2026-11-11",
     "published_income_expenditure_statement": false,
     "reporting_year": "03 Sep to 02 Sep",
-    "next_reporting_deadline": "2027-01-03"
+    "next_reporting_deadline": "2028-01-03"
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/football-supporters.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/football-supporters.htm",
   "categories": [
     "Sport, Recreation & Physical Activity"
   ]

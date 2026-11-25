@@ -15,18 +15,18 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Lord Alton of Liverpool",
-      "party": "Crossbench",
-      "twfy_id": "uk.org.publicwhip/person/13103",
-      "mnis_id": "738",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Luke Akehurst",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26420",
       "mnis_id": "5112",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Kerry McCarthy",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/11455",
+      "mnis_id": "1491",
       "removed": false
     },
     {
@@ -57,15 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-06-23",
+    "date_of_most_recent_agm": "2026-10-27",
     "published_income_expenditure_statement": false,
     "reporting_year": "23 Jun to 22 Jun",
-    "next_reporting_deadline": "2026-10-23"
+    "next_reporting_deadline": "2027-10-23"
   },
-  "registrable_benefits": null,
-  "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/tibet.htm",
+  "registrable_benefits": "Benefits In Kind",
+  "detailed_benefits": [
+    {
+      "Source": "The Office of Tibet, London",
+      "Description": "Visit to Dharamshala, India, including flights, accommodation, meals, and local transportation provided for one APPG officer and three APPG members, to attend the inauguration of Sikyong Penpa Tsering and to meet with representatives of the Central Tibetan Administration. From: 24/05/2026 To: 01/06/2026",
+      "Value £s In bands of £1,500": "6,001-7,500",
+      "Received": "24/05/2026",
+      "Registered": "30/10/2026",
+      "benefit_type": "Benefits In Kind"
+    }
+  ],
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/tibet.htm",
   "categories": [
     "Country Group"
   ]

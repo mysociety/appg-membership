@@ -43,7 +43,7 @@
     "source_url": [
       "https://digitalidentitiesappg.wordpress.com/page/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Dr Allison Gardner",
@@ -163,7 +163,7 @@
         "member_type": "lord",
         "mnis_id": "1879",
         "twfy_id": "uk.org.publicwhip/person/13301",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Mackenzie of Framwellgate",
@@ -244,6 +244,14 @@
         "mnis_id": "56",
         "twfy_id": "uk.org.publicwhip/person/10013",
         "removed": true
+      },
+      {
+        "name": "Lord McNicol of West Kilbride",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4702",
+        "twfy_id": "uk.org.publicwhip/person/25731",
+        "removed": false
       }
     ]
   },
@@ -276,8 +284,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/digital-identity.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/digital-identity.htm",
   "categories": [
     "Economy, Business & Industry"
   ]

@@ -7,10 +7,10 @@
   "officers": [
     {
       "role": "Chair & Registered Contact",
-      "name": "Oliver Ryan",
-      "party": "Labour (Co-op)",
-      "twfy_id": "uk.org.publicwhip/person/26381",
-      "mnis_id": "5135",
+      "name": "John Slinger",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26564",
+      "mnis_id": "5127",
       "removed": false
     },
     {
@@ -23,25 +23,25 @@
     },
     {
       "role": "Vice Chair",
-      "name": "John Slinger",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26564",
-      "mnis_id": "5127",
-      "removed": false
-    },
-    {
-      "role": "Vice Chair",
       "name": "Paul Holmes",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/25808",
       "mnis_id": "4803",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Imran Hussain",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/25375",
+      "mnis_id": "4394",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "manual",
     "source_url": [],
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Co-Chair Baroness Uddin",
@@ -310,9 +310,9 @@
     ]
   },
   "contact_details": {
-    "registered_contact_name": "Oliver Ryan MP",
+    "registered_contact_name": "John Slinger MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA.",
-    "registered_contact_email": "oliver.ryan.mp@parliament.uk",
+    "registered_contact_email": "john.slinger.mp@parliament.uk",
     "public_enquiry_point_name": null,
     "public_enquiry_point_email": null,
     "secretariat": null,
@@ -338,8 +338,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/saudi-arabia.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/saudi-arabia.htm",
   "categories": [
     "Country Group"
   ]

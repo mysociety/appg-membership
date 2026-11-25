@@ -15,10 +15,10 @@
     },
     {
       "role": "Vice Chair",
-      "name": "Lord Jackson of Peterborough",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/11759",
-      "mnis_id": "1551",
+      "name": "Dr Sam Rushworth",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26323",
+      "mnis_id": "5108",
       "removed": false
     },
     {
@@ -27,6 +27,14 @@
       "party": "Crossbench",
       "twfy_id": "uk.org.publicwhip/person/13103",
       "mnis_id": "738",
+      "removed": false
+    },
+    {
+      "role": "Vice Chair",
+      "name": "Lord Jackson of Peterborough",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/11759",
+      "mnis_id": "1551",
       "removed": false
     }
   ],
@@ -49,24 +57,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-10-21",
+    "date_of_most_recent_agm": "2026-10-28",
     "published_income_expenditure_statement": false,
     "reporting_year": "23 Jul to 22 Jul",
-    "next_reporting_deadline": "2026-11-23"
+    "next_reporting_deadline": "2027-11-23"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "The FoRB Foundation",
-      "Description": "Secretariat From: 23/07/2025 To: 22/07/2026",
-      "Value £s In bands of £1,500": "39,001-40,500",
-      "Received": "23/07/2025",
-      "Registered": "29/10/2025",
+      "Description": "Secretariat From: 23/07/2026 To: 22/07/2027",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "23/07/2026",
+      "Registered": "04/11/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/international-freedom-of-religion-or-belief.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/international-freedom-of-religion-or-belief.htm",
   "categories": [
     "Religion, Faith & Belief Communities",
     "Human Rights, Equality & Social Justice",

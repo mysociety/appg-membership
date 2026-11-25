@@ -14,6 +14,14 @@
       "removed": false
     },
     {
+      "role": "Co-Chair",
+      "name": "Lord Banner",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26292",
+      "mnis_id": "5014",
+      "removed": false
+    },
+    {
       "role": "Officer",
       "name": "Charlotte Cane",
       "party": "Liberal Democrat",
@@ -35,7 +43,7 @@
     "source_url": [
       "https://classicalassociation.org/all-party-parliamentary-group-for-classics/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Dr Peter Swallow",
@@ -51,7 +59,7 @@
         "member_type": "mp",
         "mnis_id": "5285",
         "twfy_id": "uk.org.publicwhip/person/26588",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Charlotte Cane",
@@ -155,7 +163,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Hope of Craighead",
@@ -219,7 +227,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Oxford",
@@ -275,7 +283,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Black of Strome",
@@ -283,6 +291,14 @@
         "member_type": "lord",
         "mnis_id": "4915",
         "twfy_id": "uk.org.publicwhip/person/25983",
+        "removed": true
+      },
+      {
+        "name": "Alicia Kearns",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4805",
+        "twfy_id": "uk.org.publicwhip/person/25906",
         "removed": false
       }
     ]
@@ -307,8 +323,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/classics.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/classics.htm",
   "categories": [
     "Education, Skills & Youth",
     "Arts, Culture, Heritage & Media"

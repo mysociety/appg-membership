@@ -44,7 +44,7 @@
       "https://www.appghumanrights.com/officers",
       "https://www.appghumanrights.com/members"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Fabian Hamilton",
@@ -60,7 +60,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Ellie Chowns",
@@ -468,7 +468,7 @@
         "member_type": "lord",
         "mnis_id": "337",
         "twfy_id": "uk.org.publicwhip/person/10221",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Alton of Liverpool",
@@ -620,8 +620,8 @@
       "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/human-rights.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/human-rights.htm",
   "categories": [
     "Human Rights, Equality & Social Justice"
   ]

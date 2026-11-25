@@ -33,10 +33,9 @@
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://www.smrappg.com/officers-and-members/",
       "https://www.smrappg.com/wp-content/uploads/2024/12/241202-SMR-APPG-Membership-List.pdf"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Baggy Shanker",
@@ -172,7 +171,7 @@
         "member_type": "mp",
         "mnis_id": "4521",
         "twfy_id": "uk.org.publicwhip/person/25302",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Jim Shannon",
@@ -348,7 +347,7 @@
         "member_type": "lord",
         "mnis_id": "4284",
         "twfy_id": "uk.org.publicwhip/person/25205",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Brown of Leyton",
@@ -388,7 +387,7 @@
         "member_type": "lord",
         "mnis_id": "3840",
         "twfy_id": "uk.org.publicwhip/person/13936",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rt Hon. the Lord Whitty",
@@ -428,6 +427,30 @@
         "member_type": "mp",
         "mnis_id": "5033",
         "twfy_id": "uk.org.publicwhip/person/26321",
+        "removed": false
+      },
+      {
+        "name": "Liz Saville -Roberts",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "4521",
+        "twfy_id": "uk.org.publicwhip/person/25302",
+        "removed": false
+      },
+      {
+        "name": "Rt. Hon. the Baroness Neville -Jones",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Baroness Neville -Rolfe",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
         "removed": false
       }
     ]

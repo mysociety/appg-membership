@@ -43,7 +43,7 @@
     "source_url": [
       "https://waterways.org.uk/about-us/all-party-parliamentary-group-for-the-waterways"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Bill Esterson",
@@ -203,7 +203,7 @@
         "member_type": "mp",
         "mnis_id": "5126",
         "twfy_id": "uk.org.publicwhip/person/26374",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lee Dillon",
@@ -227,7 +227,7 @@
         "member_type": "lord",
         "mnis_id": "3792",
         "twfy_id": "uk.org.publicwhip/person/13877",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Golding",
@@ -292,6 +292,14 @@
         "mnis_id": "5118",
         "twfy_id": "uk.org.publicwhip/person/26396",
         "removed": false
+      },
+      {
+        "name": "Sureena Brackenridge",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5152",
+        "twfy_id": "uk.org.publicwhip/person/26433",
+        "removed": false
       }
     ]
   },
@@ -315,8 +323,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/waterways.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/waterways.htm",
   "categories": [
     "Environment, Climate & Sustainability"
   ]

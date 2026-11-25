@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgpandemic.org/about"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Graham Stringer",
@@ -123,7 +123,7 @@
         "member_type": "lord",
         "mnis_id": "4713",
         "twfy_id": "uk.org.publicwhip/person/25744",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness Foster of Oxton",
@@ -139,7 +139,7 @@
         "member_type": "lord",
         "mnis_id": "68",
         "twfy_id": "uk.org.publicwhip/person/10362",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Ashcombe",
@@ -147,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": "4957",
         "twfy_id": "uk.org.publicwhip/person/26100",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Rupert Lowe",
@@ -179,7 +179,7 @@
         "member_type": "lord",
         "mnis_id": "435",
         "twfy_id": "uk.org.publicwhip/person/10062",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Strathcarron",
@@ -203,7 +203,7 @@
         "member_type": "lord",
         "mnis_id": "334",
         "twfy_id": "uk.org.publicwhip/person/10503",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Esther McVey",
@@ -243,7 +243,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Alton of Liverpool",
@@ -251,7 +251,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Reay",
@@ -259,7 +259,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Foster of Oxton",
@@ -275,7 +275,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Ashcombe",
@@ -283,7 +283,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Earl of Leicester",
@@ -307,7 +307,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Strathcarron",
@@ -331,7 +331,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Hoey",
@@ -339,7 +339,7 @@
         "member_type": "lord",
         "mnis_id": "210",
         "twfy_id": "uk.org.publicwhip/person/10282",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Carla Lockhart",
@@ -347,6 +347,30 @@
         "member_type": "mp",
         "mnis_id": "4857",
         "twfy_id": "uk.org.publicwhip/person/25562",
+        "removed": false
+      },
+      {
+        "name": "David Frost",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "David Alton",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "None",
+        "twfy_id": "uk.org.publicwhip/person/16469",
+        "removed": false
+      },
+      {
+        "name": "Kate Hoey",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "210",
+        "twfy_id": "uk.org.publicwhip/person/10282",
         "removed": false
       }
     ]
@@ -371,8 +395,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/pandemic-response-and-recovery.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/pandemic-response-and-recovery.htm",
   "categories": [
     "Health, Medicine & Public Health",
     "Social Care, Welfare & Family Support"

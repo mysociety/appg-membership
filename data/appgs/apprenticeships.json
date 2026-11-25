@@ -14,19 +14,11 @@
       "removed": false
     },
     {
-      "role": "Co-Chair",
-      "name": "Lord Young of Norwood Green",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/13450",
-      "mnis_id": "3702",
-      "removed": false
-    },
-    {
       "role": "Officer",
-      "name": "Mr Peter Bedford",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26625",
-      "mnis_id": "5330",
+      "name": "Andrew Pakes",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/26601",
+      "mnis_id": "5243",
       "removed": false
     },
     {
@@ -36,6 +28,14 @@
       "twfy_id": "uk.org.publicwhip/person/26096",
       "mnis_id": "4951",
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Lord Sewell of Sanderstead",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26121",
+      "mnis_id": "4978",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.appgapprenticeships.uk/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Andrew Pakes",
@@ -483,7 +483,7 @@
         "member_type": "lord",
         "mnis_id": "994",
         "twfy_id": "uk.org.publicwhip/person/13355",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Luke Akehurst",
@@ -548,24 +548,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-11-12",
+    "date_of_most_recent_agm": "2026-10-20",
     "published_income_expenditure_statement": false,
     "reporting_year": "29 Jul to 28 Jul",
-    "next_reporting_deadline": "2026-11-29"
+    "next_reporting_deadline": "2027-11-29"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
       "Source": "Connect Public Affairs",
-      "Description": "Connect Public Affairs is paid by the following to act as the group’s secretariat:  BAE Systems, London South Bank University, Warwick Manufacturing Group at Warwick University,  University of Salford, Co-op, Babcock International, Engineering UK, Multiverse, Go-Ahead Group, Manchester Metropolitan University, Ada - National College for Digital Skills From: 29/07/2025 To: 28/07/2026",
-      "Value £s In bands of £1,500": "55,501-57,000",
-      "Received": "29/07/2025",
-      "Registered": "12/11/2025",
+      "Description": "Connect Public Affairs is paid by the following to act as the group’s secretariat: BAE Systems, London South Bank University, Warwick Manufacturing Group at Warwick University, University of Salford, Co-op, Babcock International, Engineering UK, Multiverse, Go-Ahead Group, Manchester Metropolitan University, and Ada - National College for Digital Skills. From: 29/07/2026 To: 28/07/2027",
+      "Value £s In bands of £1,500": "73,501-75,000",
+      "Received": "29/07/2026",
+      "Registered": "21/10/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/apprenticeships.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/apprenticeships.htm",
   "categories": [
     "Education, Skills & Youth",
     "Economy, Business & Industry"

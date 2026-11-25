@@ -43,7 +43,7 @@
     "source_url": [
       "https://appgonmusic.wordpress.com/officers-and-members/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Pete Wishart",
@@ -795,7 +795,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Joyce Quin",
@@ -1083,7 +1083,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "Michael Berkeley",
@@ -1187,7 +1187,7 @@
         "member_type": "lord",
         "mnis_id": "1588",
         "twfy_id": "uk.org.publicwhip/person/11943",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Baroness MacLeod",
@@ -1228,8 +1228,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/music.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/music.htm",
   "categories": [
     "Arts, Culture, Heritage & Media"
   ]

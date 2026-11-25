@@ -15,14 +15,6 @@
     },
     {
       "role": "Officer",
-      "name": "Harriet Cross",
-      "party": "Conservative",
-      "twfy_id": "uk.org.publicwhip/person/26538",
-      "mnis_id": "5311",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Torcuil Crichton",
       "party": "Labour",
       "twfy_id": "uk.org.publicwhip/person/26500",
@@ -36,6 +28,14 @@
       "twfy_id": "uk.org.publicwhip/person/26637",
       "mnis_id": "5362",
       "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Douglas Lumsden",
+      "party": "Conservative",
+      "twfy_id": "uk.org.publicwhip/person/26001",
+      "mnis_id": "5450",
+      "removed": false
     }
   ],
   "members_list": {
@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.marineenergycouncil.co.uk/appg"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Alistair Carmichael",
@@ -283,9 +283,9 @@
     "registered_contact_name": "Mr Alistair Carmichael MP",
     "registered_contact_address": "House of Commons, London, SW1A 0AA. Tel: 020 7219 8181.",
     "registered_contact_email": "carmichaela@parliament.uk",
-    "public_enquiry_point_name": "Richard Arnold, Marine Energy Council. Tel: 07802 623004",
-    "public_enquiry_point_email": "r.arnold@marineenergycouncil.co.uk",
-    "secretariat": "Marine Energy Council acts as the group's secretariat.https://www.marineenergycouncil.co.uk/",
+    "public_enquiry_point_name": "Lucy Thompson, Invicta Public Affairs. Tel: 020 3813 7510",
+    "public_enquiry_point_email": "lucy.thompson@invictapa.co.uk",
+    "secretariat": "Invicta Public Affairs acts as the group's secretariat.https://invictapa.co.uk/",
     "website": {
       "status": "register",
       "url": "https://www.marineenergycouncil.co.uk/appg"
@@ -306,10 +306,18 @@
       "Received": "12/09/2025",
       "Registered": "16/12/2025",
       "benefit_type": "Benefits In Kind"
+    },
+    {
+      "Source": "Invicta Public Affairs",
+      "Description": "Invicta Public Affairs is paid by the UK Marine Energy Council to act as the group's secretariat. From: 14/10/2026 To: 11/09/2027",
+      "Value £s In bands of £1,500": "4,501-6,000",
+      "Received": "14/10/2026",
+      "Registered": "17/11/2026",
+      "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/marine-energy.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/marine-energy.htm",
   "categories": [
     "Energy & Utilities"
   ]

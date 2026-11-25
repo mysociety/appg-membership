@@ -43,7 +43,7 @@
     "source_url": [
       "https://diabetesappg.wordpress.com/about/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Tom Gordon",
@@ -83,7 +83,7 @@
         "member_type": "lord",
         "mnis_id": "2484",
         "twfy_id": "uk.org.publicwhip/person/13277",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Shockat Adam",
@@ -155,7 +155,7 @@
         "member_type": "lord",
         "mnis_id": "4300",
         "twfy_id": "uk.org.publicwhip/person/25202",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Christine Jardine",
@@ -283,7 +283,7 @@
         "member_type": "lord",
         "mnis_id": "2484",
         "twfy_id": "uk.org.publicwhip/person/13277",
-        "removed": true
+        "removed": false
       },
       {
         "name": "The Baroness Humphreys",
@@ -291,7 +291,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": true
+        "removed": false
       },
       {
         "name": "The Lord Rennard",
@@ -299,7 +299,7 @@
         "member_type": "lord",
         "mnis_id": "2484",
         "twfy_id": "uk.org.publicwhip/person/13277",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Luke Akehurst",
@@ -307,6 +307,14 @@
         "member_type": "mp",
         "mnis_id": "5112",
         "twfy_id": "uk.org.publicwhip/person/26420",
+        "removed": false
+      },
+      {
+        "name": "Chris Bloore",
+        "is_officer": true,
+        "member_type": "other",
+        "mnis_id": "5109",
+        "twfy_id": "uk.org.publicwhip/person/26357",
         "removed": false
       }
     ]
@@ -348,8 +356,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/diabetes.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/diabetes.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

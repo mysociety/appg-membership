@@ -43,7 +43,7 @@
     "source_url": [
       "https://www.c-r-y.org.uk/appg/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Amanda Hack",
@@ -59,7 +59,7 @@
         "member_type": "lord",
         "mnis_id": "4547",
         "twfy_id": "uk.org.publicwhip/person/25457",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Beamish",
@@ -67,7 +67,7 @@
         "member_type": "lord",
         "mnis_id": "1438",
         "twfy_id": "uk.org.publicwhip/person/11003",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Michelle Scrogham",
@@ -243,7 +243,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Beamish",
@@ -251,7 +251,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Douglas Lumsden",
@@ -292,8 +292,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/cardiac-risk-in-the-young.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/cardiac-risk-in-the-young.htm",
   "categories": [
     "Health, Medicine & Public Health"
   ]

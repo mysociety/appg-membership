@@ -14,7 +14,7 @@
       "removed": false
     },
     {
-      "role": "Officer",
+      "role": "Vice Chair",
       "name": "Sir Andrew Mitchell",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/11115",
@@ -22,7 +22,7 @@
       "removed": false
     },
     {
-      "role": "Officer",
+      "role": "Vice Chair",
       "name": "Bobby Dean",
       "party": "Liberal Democrat",
       "twfy_id": "uk.org.publicwhip/person/26371",
@@ -30,20 +30,21 @@
       "removed": false
     },
     {
-      "role": "Officer",
-      "name": "Yuan Yang",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26600",
-      "mnis_id": "5267",
+      "role": "Vice Chair",
+      "name": "Rachel Blake",
+      "party": "Labour (Co-op)",
+      "twfy_id": "uk.org.publicwhip/person/26546",
+      "mnis_id": "5257",
       "removed": false
     }
   ],
   "members_list": {
     "source_method": "ai_search",
     "source_url": [
-      "https://anticorruption-responsibletax.org/about"
+      "https://anticorruption-responsibletax.org/about",
+      "https://anticorruption-responsibletax.org/governance"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Phil Brickell",
@@ -59,7 +60,7 @@
         "member_type": "mp",
         "mnis_id": "1211",
         "twfy_id": "uk.org.publicwhip/person/11115",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Rachel Blake",
@@ -107,7 +108,7 @@
         "member_type": "mp",
         "mnis_id": "54",
         "twfy_id": "uk.org.publicwhip/person/10358",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Garnier",
@@ -123,7 +124,7 @@
         "member_type": "lord",
         "mnis_id": "2168",
         "twfy_id": "uk.org.publicwhip/person/13045",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Wheatcroft",
@@ -131,7 +132,7 @@
         "member_type": "lord",
         "mnis_id": "4199",
         "twfy_id": "uk.org.publicwhip/person/25031",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Kirkhope",
@@ -187,7 +188,7 @@
         "member_type": "lord",
         "mnis_id": "4689",
         "twfy_id": "uk.org.publicwhip/person/25718",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Tim Roca",
@@ -283,7 +284,7 @@
         "member_type": "lord",
         "mnis_id": "4508",
         "twfy_id": "uk.org.publicwhip/person/25435",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Browne",
@@ -315,7 +316,7 @@
         "member_type": "lord",
         "mnis_id": "1557",
         "twfy_id": "uk.org.publicwhip/person/11783",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Faulks",
@@ -387,7 +388,7 @@
         "member_type": "lord",
         "mnis_id": "3690",
         "twfy_id": "uk.org.publicwhip/person/13055",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Stern",
@@ -395,7 +396,7 @@
         "member_type": "lord",
         "mnis_id": "2475",
         "twfy_id": "uk.org.publicwhip/person/13385",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Joe Powell",
@@ -419,7 +420,7 @@
         "member_type": "mp",
         "mnis_id": "1524",
         "twfy_id": "uk.org.publicwhip/person/11605",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Steve Race",
@@ -443,7 +444,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Earl Stopford",
@@ -459,7 +460,7 @@
         "member_type": "lord",
         "mnis_id": "4580",
         "twfy_id": "uk.org.publicwhip/person/25587",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Debbie Abrahams",
@@ -499,7 +500,7 @@
         "member_type": "lord",
         "mnis_id": "3575",
         "twfy_id": "uk.org.publicwhip/person/12915",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Baroness Bennett",
@@ -507,7 +508,7 @@
         "member_type": "lord",
         "mnis_id": "4719",
         "twfy_id": "uk.org.publicwhip/person/25776",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Carlile",
@@ -523,7 +524,7 @@
         "member_type": "lord",
         "mnis_id": "4234",
         "twfy_id": "uk.org.publicwhip/person/25058",
-        "removed": false
+        "removed": true
       },
       {
         "name": "Garnier",
@@ -596,6 +597,126 @@
         "mnis_id": null,
         "twfy_id": null,
         "removed": false
+      },
+      {
+        "name": "Andrew Mitchell",
+        "is_officer": true,
+        "member_type": "mp",
+        "mnis_id": "1211",
+        "twfy_id": "uk.org.publicwhip/person/11115",
+        "removed": false
+      },
+      {
+        "name": "Julian Lewis",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "54",
+        "twfy_id": "uk.org.publicwhip/person/10358",
+        "removed": false
+      },
+      {
+        "name": "Morgan",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Wheatcroft",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "4199",
+        "twfy_id": "uk.org.publicwhip/person/25031",
+        "removed": false
+      },
+      {
+        "name": "Agnew",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Anderson",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Kramer",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "1557",
+        "twfy_id": "uk.org.publicwhip/person/11783",
+        "removed": false
+      },
+      {
+        "name": "Neuberger",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3690",
+        "twfy_id": "uk.org.publicwhip/person/13055",
+        "removed": false
+      },
+      {
+        "name": "Stern",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "2475",
+        "twfy_id": "uk.org.publicwhip/person/13385",
+        "removed": false
+      },
+      {
+        "name": "Meg Hillier",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "1524",
+        "twfy_id": "uk.org.publicwhip/person/11605",
+        "removed": false
+      },
+      {
+        "name": "Davies of the Gower",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Vere",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Goudie",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3575",
+        "twfy_id": "uk.org.publicwhip/person/12915",
+        "removed": false
+      },
+      {
+        "name": "Bennett",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
+      },
+      {
+        "name": "Lister",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": null,
+        "twfy_id": null,
+        "removed": false
       }
     ]
   },
@@ -612,24 +733,24 @@
     }
   },
   "agm": {
-    "date_of_most_recent_agm": "2025-09-10",
+    "date_of_most_recent_agm": "2026-10-21",
     "published_income_expenditure_statement": false,
     "reporting_year": "24 Jul to 23 Jul",
-    "next_reporting_deadline": "2026-11-24"
+    "next_reporting_deadline": "2027-11-24"
   },
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
-      "Source": "Foreign Policy Centre (succeeded Athena Foundation)",
-      "Description": "From 1 April 2025, the Foreign Policy Centre is paid by the Joffe Trust and Montpelier Foundation to act as the group's secretariat. Previously, the Athena Foundation was paid by Open Society Foundations and the Joffe Trust to fulfil this role. From: 24/07/2025 To: 23/07/2026",
+      "Source": "Foreign Policy Centre",
+      "Description": "The Foreign Policy Centre is paid by the Joffe Trust and Montpelier Foundation to act as the group's secretariat. From: 24/07/2026 To: 23/07/2027",
       "Value £s In bands of £1,500": "184,501-186,000",
-      "Received": "24/07/2025",
-      "Registered": "01/10/2025",
+      "Received": "24/07/2026",
+      "Registered": "03/11/2026",
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/anti-corruption-and-responsible-tax.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/anti-corruption-and-responsible-tax.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

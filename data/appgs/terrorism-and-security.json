@@ -39,61 +39,10 @@
     }
   ],
   "members_list": {
-    "source_method": "ai_search",
-    "source_url": [
-      "https://www.resilienceinunity.com/appg"
-    ],
-    "last_updated": "2026-10-12",
-    "members": [
-      {
-        "name": "Andy MacNae",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "5134",
-        "twfy_id": "uk.org.publicwhip/person/26391",
-        "removed": false
-      },
-      {
-        "name": "The Baroness Foster of Oxton",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Neil Coyle",
-        "is_officer": true,
-        "member_type": "mp",
-        "mnis_id": "4368",
-        "twfy_id": "uk.org.publicwhip/person/25326",
-        "removed": false
-      },
-      {
-        "name": "The Lord Bishop of Manchester",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": true
-      },
-      {
-        "name": "Jacqueline Foster",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      },
-      {
-        "name": "David Walker",
-        "is_officer": true,
-        "member_type": "lord",
-        "mnis_id": null,
-        "twfy_id": null,
-        "removed": false
-      }
-    ]
+    "source_method": "not_found",
+    "source_url": [],
+    "last_updated": "2026-11-25",
+    "members": []
   },
   "contact_details": {
     "registered_contact_name": "Andy MacNae MP",
@@ -115,8 +64,8 @@
   },
   "registrable_benefits": null,
   "detailed_benefits": [],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/terrorism-and-security.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/terrorism-and-security.htm",
   "categories": [
     "Justice, Law & Security"
   ]

@@ -1,7 +1,7 @@
 title: APPG Memberships
 description: APPG Memberships scraped using experimental ML scraper
 custom:
-  row_count: 12239
+  row_count: 11730
 path: members.parquet
 name: members
 profile: data-resource
@@ -103,7 +103,7 @@ schema:
     example: ai_search
   - name: last_updated
     type: date
-    description: Source observation date for Senedd records; UK register date
+    description: Source observation date for Senedd records; UK register date 
       for UK officers
     constraints:
       unique: false
@@ -126,7 +126,7 @@ schema:
   - name: registration_id
     type: string
     extDtype: str
-    description: Senedd registration identity, including term and official body
+    description: Senedd registration identity, including term and official body 
       ID; null for other parliaments
     constraints:
       unique: false
@@ -134,21 +134,21 @@ schema:
   - name: senedd_term
     type: integer
     extDtype: Int64
-    description: Senedd term number; a registration never carries membership
+    description: Senedd term number; a registration never carries membership 
       into another term
     constraints:
       unique: false
     example: '7'
   - name: valid_from
     type: date
-    description: Known membership or registration start, inclusive; null when
+    description: Known membership or registration start, inclusive; null when 
       unknown
     constraints:
       unique: false
     example: ''
   - name: valid_until
     type: date
-    description: Latest possible end, exclusive; not evidence of continuous
+    description: Latest possible end, exclusive; not evidence of continuous 
       membership before this date
     constraints:
       unique: false
@@ -162,9 +162,9 @@ schema:
     example: ''
   - name: observed_on
     type: date
-    description: First dated observation of this membership spell or
+    description: First dated observation of this membership spell or 
       registration; not its start date
     constraints:
       unique: false
     example: '2026-11-11'
-hash: 00ccbde02391fdca3c9378ae5ac2956e
+hash: 80662e369bfddf8a70eda16015aee967

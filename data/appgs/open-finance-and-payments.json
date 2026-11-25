@@ -6,6 +6,14 @@
   "parliament": "uk",
   "officers": [
     {
+      "role": "Chair & Registered Contact",
+      "name": "Bobby Dean",
+      "party": "Liberal Democrat",
+      "twfy_id": "uk.org.publicwhip/person/26371",
+      "mnis_id": "5083",
+      "removed": false
+    },
+    {
       "role": "Co-Chair",
       "name": "Lord McNicol of West Kilbride",
       "party": "Labour",
@@ -15,18 +23,18 @@
     },
     {
       "role": "Officer",
-      "name": "Josh Dean",
-      "party": "Labour",
-      "twfy_id": "uk.org.publicwhip/person/26456",
-      "mnis_id": "5187",
-      "removed": false
-    },
-    {
-      "role": "Officer",
       "name": "Sir Ashley Fox",
       "party": "Conservative",
       "twfy_id": "uk.org.publicwhip/person/26370",
       "mnis_id": "5101",
+      "removed": false
+    },
+    {
+      "role": "Officer",
+      "name": "Sam Carling",
+      "party": "Labour",
+      "twfy_id": "uk.org.publicwhip/person/26558",
+      "mnis_id": "5308",
       "removed": false
     }
   ],
@@ -37,9 +45,9 @@
     "members": []
   },
   "contact_details": {
-    "registered_contact_name": "None",
-    "registered_contact_address": null,
-    "registered_contact_email": null,
+    "registered_contact_name": "Bobby Dean MP",
+    "registered_contact_address": "House of Commons, London, SW1A 0AA.",
+    "registered_contact_email": "bobby.dean.mp@parliament.uk",
     "public_enquiry_point_name": "Murray Stewart, Stewart Public Affairs Ltd. Tel: 07580 503 311",
     "public_enquiry_point_email": "stewartpublicaffairs@gmail.com",
     "secretariat": "Stewart Public Affairs Ltd acts as the group's secretariat.",
@@ -57,14 +65,6 @@
   "registrable_benefits": "Benefits In Kind",
   "detailed_benefits": [
     {
-      "Source": "Open Banking Limited",
-      "Description": "Reception",
-      "Value £s In bands of £1,500": "1,501-3,000",
-      "Received": "15/07/2025",
-      "Registered": "05/09/2025",
-      "benefit_type": "Benefits In Kind"
-    },
-    {
       "Source": "Stewart Public Affairs Ltd",
       "Description": "Secretariat From: 15/10/2025 To: 14/10/2026",
       "Value £s In bands of £1,500": "7,501-9,000",
@@ -73,8 +73,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "260901",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/260901/open-finance-and-payments.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/open-finance-and-payments.htm",
   "categories": [
     "Finance, Markets & Consumer Affairs"
   ]

@@ -43,7 +43,7 @@
     "source_url": [
       "https://policyconnect.org.uk/parliamentary_group/apgdet/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Daniel Zeichner",
@@ -219,6 +219,14 @@
         "member_type": "mp",
         "mnis_id": "5334",
         "twfy_id": "uk.org.publicwhip/person/26621",
+        "removed": true
+      },
+      {
+        "name": "Dr Alison Gardner",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5334",
+        "twfy_id": "uk.org.publicwhip/person/26621",
         "removed": false
       }
     ]
@@ -252,8 +260,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/data-and-emerging-technologies.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/data-and-emerging-technologies.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]

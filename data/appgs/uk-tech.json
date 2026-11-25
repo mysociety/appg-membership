@@ -65,34 +65,6 @@
   "registrable_benefits": "Financial Benefits",
   "detailed_benefits": [
     {
-      "Source": "Access Partnership",
-      "Value £s": "2,880",
-      "Received": "25/09/2025",
-      "Registered": "06/11/2025",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "Google",
-      "Value £s": "12,000",
-      "Received": "14/10/2025",
-      "Registered": "06/11/2025",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "Tata Consultancy Services",
-      "Value £s": "7,200",
-      "Received": "31/10/2025",
-      "Registered": "06/11/2025",
-      "benefit_type": "Financial Benefits"
-    },
-    {
-      "Source": "Capgemini",
-      "Value £s": "7,200",
-      "Received": "03/11/2025",
-      "Registered": "06/11/2025",
-      "benefit_type": "Financial Benefits"
-    },
-    {
       "Source": "University of Cambridge",
       "Value £s": "4,500",
       "Received": "17/11/2025",
@@ -154,10 +126,24 @@
       "Received": "31/07/2026",
       "Registered": "05/08/2026",
       "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "VodafoneThree",
+      "Value £s": "7,200",
+      "Received": "28/08/2026",
+      "Registered": "29/10/2026",
+      "benefit_type": "Financial Benefits"
+    },
+    {
+      "Source": "SAP",
+      "Value £s": "7,200",
+      "Received": "16/10/2026",
+      "Registered": "29/10/2026",
+      "benefit_type": "Financial Benefits"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/uk-tech.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/uk-tech.htm",
   "categories": [
     "Science, Technology & Innovation",
     "Economy, Business & Industry"

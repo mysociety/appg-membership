@@ -43,7 +43,7 @@
     "source_url": [
       "https://datacentresappg.co.uk/our-parliamentary-members/"
     ],
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-11-25",
     "members": [
       {
         "name": "Chris Curtis",
@@ -147,7 +147,7 @@
         "member_type": "lord",
         "mnis_id": "4939",
         "twfy_id": "uk.org.publicwhip/person/26062",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Jessica Morden",
@@ -171,7 +171,7 @@
         "member_type": "lord",
         "mnis_id": "5014",
         "twfy_id": "uk.org.publicwhip/person/26292",
-        "removed": true
+        "removed": false
       },
       {
         "name": "Lord Johnson of Lainston",
@@ -267,7 +267,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Lord Banner KC",
@@ -275,7 +275,7 @@
         "member_type": "lord",
         "mnis_id": null,
         "twfy_id": null,
-        "removed": false
+        "removed": true
       },
       {
         "name": "Greg Smith",
@@ -283,6 +283,30 @@
         "member_type": "mp",
         "mnis_id": "4778",
         "twfy_id": "uk.org.publicwhip/person/25925",
+        "removed": false
+      },
+      {
+        "name": "Claire Young",
+        "is_officer": false,
+        "member_type": "mp",
+        "mnis_id": "5140",
+        "twfy_id": "uk.org.publicwhip/person/26458",
+        "removed": false
+      },
+      {
+        "name": "Lord Clement-Jones",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "3396",
+        "twfy_id": "uk.org.publicwhip/person/13517",
+        "removed": false
+      },
+      {
+        "name": "Lord Robertson of Port Ellen",
+        "is_officer": false,
+        "member_type": "lord",
+        "mnis_id": "672",
+        "twfy_id": "uk.org.publicwhip/person/10504",
         "removed": false
       }
     ]
@@ -316,8 +340,8 @@
       "benefit_type": "Benefits In Kind"
     }
   ],
-  "index_date": "261012",
-  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261012/data-centres.htm",
+  "index_date": "261123",
+  "source_url": "https://publications.parliament.uk/pa/cm/cmallparty/261123/data-centres.htm",
   "categories": [
     "Science, Technology & Innovation"
   ]
